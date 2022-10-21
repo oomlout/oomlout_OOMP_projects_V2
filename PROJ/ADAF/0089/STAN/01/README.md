@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR0089 > Adafruit Conway Game of Life Kit
+
+- ID: PROJ-ADAF-0089-STAN-01
+- Hex ID: PRPR0089
+- Name: Adafruit Conway Game of Life Kit
+- Description: Adafruit Conway Game of Life Kit
+- Long Link: [http://oom.lt/PROJ-ADAF-0089-STAN-01](http://oom.lt/PROJ-ADAF-0089-STAN-01)
+- Short Link: [http://oom.lt/PRPR0089](http://oom.lt/PRPR0089)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|0089|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-0089-STAN-01|
+|Hex ID (short code)|hexID|PRPR0089|
+|Name|name|Adafruit Conway Game of Life Kit|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Conway-Game-of-Life-Kit|
+|gitName|gitName|Adafruit_Conway-Game-of-Life-Kit|
+|eagleBoard|eagleBoard|/pcb/GoL 1.3.brd|
+|eagleSchem|eagleSchem|/pcb/GoL 1.3.sch|
+||||

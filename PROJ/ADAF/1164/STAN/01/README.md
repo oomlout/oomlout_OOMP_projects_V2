@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1164 > Adafruit INA169 Breakout PCB
+
+- ID: PROJ-ADAF-1164-STAN-01
+- Hex ID: PRPR1164
+- Name: Adafruit INA169 Breakout PCB
+- Description: Adafruit INA169 Breakout PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-1164-STAN-01](http://oom.lt/PROJ-ADAF-1164-STAN-01)
+- Short Link: [http://oom.lt/PRPR1164](http://oom.lt/PRPR1164)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1164|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1164-STAN-01|
+|Hex ID (short code)|hexID|PRPR1164|
+|Name|name|Adafruit INA169 Breakout PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-INA169-Breakout-PCB|
+|gitName|gitName|Adafruit-INA169-Breakout-PCB|
+|eagleBoard|eagleBoard|/Adafruit INA169 CurPowerMonitor.brd|
+|eagleSchem|eagleSchem|/Adafruit INA169 CurPowerMonitor.sch|
+||||

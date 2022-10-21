@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR2088 > Adafruit 1.44 TFT Breakout PCB
+
+- ID: PROJ-ADAF-2088-STAN-01
+- Hex ID: PRPR2088
+- Name: Adafruit 1.44 TFT Breakout PCB
+- Description: Adafruit 1.44 TFT Breakout PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-2088-STAN-01](http://oom.lt/PROJ-ADAF-2088-STAN-01)
+- Short Link: [http://oom.lt/PRPR2088](http://oom.lt/PRPR2088)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|2088|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-2088-STAN-01|
+|Hex ID (short code)|hexID|PRPR2088|
+|Name|name|Adafruit 1.44 TFT Breakout PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB|
+|gitName|gitName|Adafruit-1.44-TFT-Breakout-PCB|
+|eagleBoard|eagleBoard|/Adafruit TFT144 Breakout rev B.brd|
+|eagleSchem|eagleSchem|/Adafruit TFT144 Breakout rev B.sch|
+||||

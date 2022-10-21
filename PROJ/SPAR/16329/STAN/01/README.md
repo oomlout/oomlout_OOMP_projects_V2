@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR16329 > SparkFun u blox NEO M8U
+
+- ID: PROJ-SPAR-16329-STAN-01
+- Hex ID: PRPR16329
+- Name: SparkFun u blox NEO M8U
+- Description: SparkFun u blox NEO M8U
+- Long Link: [http://oom.lt/PROJ-SPAR-16329-STAN-01](http://oom.lt/PROJ-SPAR-16329-STAN-01)
+- Short Link: [http://oom.lt/PRPR16329](http://oom.lt/PRPR16329)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|16329|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-16329-STAN-01|
+|Hex ID (short code)|hexID|PRPR16329|
+|Name|name|SparkFun u blox NEO M8U|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-blox_NEO-M8U|
+|gitName|gitName|SparkFun_u-blox_NEO-M8U|
+|eagleBoard|eagleBoard|/Hardware/SparkFun NEO-M8U.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkFun NEO-M8U.sch|
+||||

@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1500 > Adafruit Trinket PCB
+
+- ID: PROJ-ADAF-1500-STAN-01
+- Hex ID: PRPR1500
+- Name: Adafruit Trinket PCB
+- Description: Adafruit Trinket PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-1500-STAN-01](http://oom.lt/PROJ-ADAF-1500-STAN-01)
+- Short Link: [http://oom.lt/PRPR1500](http://oom.lt/PRPR1500)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1500|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1500-STAN-01|
+|Hex ID (short code)|hexID|PRPR1500|
+|Name|name|Adafruit Trinket PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Trinket-PCB|
+|gitName|gitName|Adafruit-Trinket-PCB|
+|eagleBoard|eagleBoard|/Adafruit Trinket 3.3V.brd|
+|eagleSchem|eagleSchem|/Adafruit Trinket 3.3V.sch|
+||||

@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1463 > Adafruit NeoPixel Ring
+
+- ID: PROJ-ADAF-1463-STAN-01
+- Hex ID: PRPR1463
+- Name: Adafruit NeoPixel Ring
+- Description: Adafruit NeoPixel Ring
+- Long Link: [http://oom.lt/PROJ-ADAF-1463-STAN-01](http://oom.lt/PROJ-ADAF-1463-STAN-01)
+- Short Link: [http://oom.lt/PRPR1463](http://oom.lt/PRPR1463)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1463|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1463-STAN-01|
+|Hex ID (short code)|hexID|PRPR1463|
+|Name|name|Adafruit NeoPixel Ring|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-Ring|
+|gitName|gitName|Adafruit-NeoPixel-Ring|
+|eagleBoard|eagleBoard|/Adafruit NeoPixel Ring 12.brd|
+|eagleSchem|eagleSchem|/Adafruit NeoPixel Ring 12.sch|
+||||

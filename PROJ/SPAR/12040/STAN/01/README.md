@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR12040 > INA169 Breakout
+
+- ID: PROJ-SPAR-12040-STAN-01
+- Hex ID: PRPR12040
+- Name: INA169 Breakout
+- Description: INA169 Breakout
+- Long Link: [http://oom.lt/PROJ-SPAR-12040-STAN-01](http://oom.lt/PROJ-SPAR-12040-STAN-01)
+- Short Link: [http://oom.lt/PRPR12040](http://oom.lt/PRPR12040)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|12040|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-12040-STAN-01|
+|Hex ID (short code)|hexID|PRPR12040|
+|Name|name|INA169 Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/INA169_Breakout|
+|gitName|gitName|INA169_Breakout|
+|eagleBoard|eagleBoard|/Hardware/INA169_Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/INA169_Breakout.sch|
+||||

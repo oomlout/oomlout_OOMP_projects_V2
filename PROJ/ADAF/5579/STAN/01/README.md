@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR5579 > Adafruit MMC5603 PCB
+
+- ID: PROJ-ADAF-5579-STAN-01
+- Hex ID: PRPR5579
+- Name: Adafruit MMC5603 PCB
+- Description: Adafruit MMC5603 PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-5579-STAN-01](http://oom.lt/PROJ-ADAF-5579-STAN-01)
+- Short Link: [http://oom.lt/PRPR5579](http://oom.lt/PRPR5579)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|5579|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-5579-STAN-01|
+|Hex ID (short code)|hexID|PRPR5579|
+|Name|name|Adafruit MMC5603 PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MMC5603-PCB|
+|gitName|gitName|Adafruit-MMC5603-PCB|
+|eagleBoard|eagleBoard|/MMC56x3 rev A.brd|
+|eagleSchem|eagleSchem|/MMC56x3 rev A.sch|
+||||

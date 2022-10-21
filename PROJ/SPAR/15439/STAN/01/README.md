@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR15439 > PCA9306 Level Translator Breakout
+
+- ID: PROJ-SPAR-15439-STAN-01
+- Hex ID: PRPR15439
+- Name: PCA9306 Level Translator Breakout
+- Description: PCA9306 Level Translator Breakout
+- Long Link: [http://oom.lt/PROJ-SPAR-15439-STAN-01](http://oom.lt/PROJ-SPAR-15439-STAN-01)
+- Short Link: [http://oom.lt/PRPR15439](http://oom.lt/PRPR15439)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|15439|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-15439-STAN-01|
+|Hex ID (short code)|hexID|PRPR15439|
+|Name|name|PCA9306 Level Translator Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/PCA9306_Level_Translator_Breakout|
+|gitName|gitName|PCA9306_Level_Translator_Breakout|
+|eagleBoard|eagleBoard|/Hardware/SparkFun_Level_Translator_PCA9306.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkFun_Level_Translator_PCA9306.sch|
+||||

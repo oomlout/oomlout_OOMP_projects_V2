@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR3263 > Adafruit MAX31856 PCB
+
+- ID: PROJ-ADAF-3263-STAN-01
+- Hex ID: PRPR3263
+- Name: Adafruit MAX31856 PCB
+- Description: Adafruit MAX31856 PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-3263-STAN-01](http://oom.lt/PROJ-ADAF-3263-STAN-01)
+- Short Link: [http://oom.lt/PRPR3263](http://oom.lt/PRPR3263)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|3263|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-3263-STAN-01|
+|Hex ID (short code)|hexID|PRPR3263|
+|Name|name|Adafruit MAX31856 PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX31856-PCB|
+|gitName|gitName|Adafruit-MAX31856-PCB|
+|eagleBoard|eagleBoard|/Adafruit MAX31856.brd|
+|eagleSchem|eagleSchem|/Adafruit MAX31856.sch|
+||||

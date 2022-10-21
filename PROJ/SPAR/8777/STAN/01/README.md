@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR8777 > LilyPad Temperature Sensor
+
+- ID: PROJ-SPAR-8777-STAN-01
+- Hex ID: PRPR8777
+- Name: LilyPad Temperature Sensor
+- Description: LilyPad Temperature Sensor
+- Long Link: [http://oom.lt/PROJ-SPAR-8777-STAN-01](http://oom.lt/PROJ-SPAR-8777-STAN-01)
+- Short Link: [http://oom.lt/PRPR8777](http://oom.lt/PRPR8777)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|8777|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-8777-STAN-01|
+|Hex ID (short code)|hexID|PRPR8777|
+|Name|name|LilyPad Temperature Sensor|
+|gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Temperature_Sensor|
+|gitName|gitName|LilyPad_Temperature_Sensor|
+|eagleBoard|eagleBoard|/Hardware/LilyPad_Temperature_Sensor.brd|
+|eagleSchem|eagleSchem|/Hardware/LilyPad_Temperature_Sensor.sch|
+||||

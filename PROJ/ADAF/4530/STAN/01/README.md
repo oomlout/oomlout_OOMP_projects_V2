@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR4530 > Adafruit LPS2X PCB
+
+- ID: PROJ-ADAF-4530-STAN-01
+- Hex ID: PRPR4530
+- Name: Adafruit LPS2X PCB
+- Description: Adafruit LPS2X PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-4530-STAN-01](http://oom.lt/PROJ-ADAF-4530-STAN-01)
+- Short Link: [http://oom.lt/PRPR4530](http://oom.lt/PRPR4530)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|4530|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-4530-STAN-01|
+|Hex ID (short code)|hexID|PRPR4530|
+|Name|name|Adafruit LPS2X PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LPS2X-PCB|
+|gitName|gitName|Adafruit-LPS2X-PCB|
+|eagleBoard|eagleBoard|/Adafruit-LPS22-Rev-A.brd|
+|eagleSchem|eagleSchem|/Adafruit-LPS22-Rev-A.sch|
+||||

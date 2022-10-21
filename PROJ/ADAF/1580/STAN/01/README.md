@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1580 > Adafruit AR1100 Resistive Touch Controller PCB
+
+- ID: PROJ-ADAF-1580-STAN-01
+- Hex ID: PRPR1580
+- Name: Adafruit AR1100 Resistive Touch Controller PCB
+- Description: Adafruit AR1100 Resistive Touch Controller PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-1580-STAN-01](http://oom.lt/PROJ-ADAF-1580-STAN-01)
+- Short Link: [http://oom.lt/PRPR1580](http://oom.lt/PRPR1580)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1580|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1580-STAN-01|
+|Hex ID (short code)|hexID|PRPR1580|
+|Name|name|Adafruit AR1100 Resistive Touch Controller PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB|
+|gitName|gitName|Adafruit-AR1100-Resistive-Touch-Controller-PCB|
+|eagleBoard|eagleBoard|/Adafruit AR1100.brd|
+|eagleSchem|eagleSchem|/Adafruit AR1100.sch|
+||||

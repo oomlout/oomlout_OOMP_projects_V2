@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR3201 > Adafruit Ethernet FeatherWing PCB
+
+- ID: PROJ-ADAF-3201-STAN-01
+- Hex ID: PRPR3201
+- Name: Adafruit Ethernet FeatherWing PCB
+- Description: Adafruit Ethernet FeatherWing PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-3201-STAN-01](http://oom.lt/PROJ-ADAF-3201-STAN-01)
+- Short Link: [http://oom.lt/PRPR3201](http://oom.lt/PRPR3201)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|3201|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-3201-STAN-01|
+|Hex ID (short code)|hexID|PRPR3201|
+|Name|name|Adafruit Ethernet FeatherWing PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Ethernet-FeatherWing-PCB|
+|gitName|gitName|Adafruit-Ethernet-FeatherWing-PCB|
+|eagleBoard|eagleBoard|/Adafruit Ethernet FeatherWing.brd|
+|eagleSchem|eagleSchem|/Adafruit Ethernet FeatherWing.sch|
+||||

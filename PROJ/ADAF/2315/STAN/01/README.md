@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR2315 > Adafruit PiTFT 2.2 Inch HAT PCB
+
+- ID: PROJ-ADAF-2315-STAN-01
+- Hex ID: PRPR2315
+- Name: Adafruit PiTFT 2.2 Inch HAT PCB
+- Description: Adafruit PiTFT 2.2 Inch HAT PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-2315-STAN-01](http://oom.lt/PROJ-ADAF-2315-STAN-01)
+- Short Link: [http://oom.lt/PRPR2315](http://oom.lt/PRPR2315)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|2315|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-2315-STAN-01|
+|Hex ID (short code)|hexID|PRPR2315|
+|Name|name|Adafruit PiTFT 2.2 Inch HAT PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiTFT-2.2-Inch-HAT-PCB|
+|gitName|gitName|Adafruit-PiTFT-2.2-Inch-HAT-PCB|
+|eagleBoard|eagleBoard|/Adafruit 2.2in TFT HAT rev A.brd|
+|eagleSchem|eagleSchem|/Adafruit 2.2in TFT HAT rev A.sch|
+||||

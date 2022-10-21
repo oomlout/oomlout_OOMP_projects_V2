@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR2899 > Adafruit VEML6070 PCB
+
+- ID: PROJ-ADAF-2899-STAN-01
+- Hex ID: PRPR2899
+- Name: Adafruit VEML6070 PCB
+- Description: Adafruit VEML6070 PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-2899-STAN-01](http://oom.lt/PROJ-ADAF-2899-STAN-01)
+- Short Link: [http://oom.lt/PRPR2899](http://oom.lt/PRPR2899)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|2899|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-2899-STAN-01|
+|Hex ID (short code)|hexID|PRPR2899|
+|Name|name|Adafruit VEML6070 PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VEML6070-PCB|
+|gitName|gitName|Adafruit-VEML6070-PCB|
+|eagleBoard|eagleBoard|/Adafruit VEML6070.brd|
+|eagleSchem|eagleSchem|/Adafruit VEML6070.sch|
+||||

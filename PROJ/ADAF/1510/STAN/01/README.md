@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1510 > Adafruit CC3000 Breakout PCB
+
+- ID: PROJ-ADAF-1510-STAN-01
+- Hex ID: PRPR1510
+- Name: Adafruit CC3000 Breakout PCB
+- Description: Adafruit CC3000 Breakout PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-1510-STAN-01](http://oom.lt/PROJ-ADAF-1510-STAN-01)
+- Short Link: [http://oom.lt/PRPR1510](http://oom.lt/PRPR1510)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1510|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1510-STAN-01|
+|Hex ID (short code)|hexID|PRPR1510|
+|Name|name|Adafruit CC3000 Breakout PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CC3000-Breakout-PCB|
+|gitName|gitName|Adafruit-CC3000-Breakout-PCB|
+|eagleBoard|eagleBoard|/Adafruit CC3000 Breakout.brd|
+|eagleSchem|eagleSchem|/Adafruit CC3000 Breakout.sch|
+||||

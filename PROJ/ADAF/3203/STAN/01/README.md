@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR3203 > Adafruit Perma Proto Bonnet PCB
+
+- ID: PROJ-ADAF-3203-STAN-01
+- Hex ID: PRPR3203
+- Name: Adafruit Perma Proto Bonnet PCB
+- Description: Adafruit Perma Proto Bonnet PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-3203-STAN-01](http://oom.lt/PROJ-ADAF-3203-STAN-01)
+- Short Link: [http://oom.lt/PRPR3203](http://oom.lt/PRPR3203)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|3203|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-3203-STAN-01|
+|Hex ID (short code)|hexID|PRPR3203|
+|Name|name|Adafruit Perma Proto Bonnet PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB|
+|gitName|gitName|Adafruit-Perma-Proto-Bonnet-PCB|
+|eagleBoard|eagleBoard|/Adafruit Perma Proto Bonnet.brd|
+|eagleSchem|eagleSchem|/Adafruit Perma Proto Bonnet.sch|
+||||

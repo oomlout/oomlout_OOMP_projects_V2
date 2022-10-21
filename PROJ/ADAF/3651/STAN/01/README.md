@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR3651 > Adafruit 3.5in TFT Featherwing PCB
+
+- ID: PROJ-ADAF-3651-STAN-01
+- Hex ID: PRPR3651
+- Name: Adafruit 3.5in TFT Featherwing PCB
+- Description: Adafruit 3.5in TFT Featherwing PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-3651-STAN-01](http://oom.lt/PROJ-ADAF-3651-STAN-01)
+- Short Link: [http://oom.lt/PRPR3651](http://oom.lt/PRPR3651)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|3651|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-3651-STAN-01|
+|Hex ID (short code)|hexID|PRPR3651|
+|Name|name|Adafruit 3.5in TFT Featherwing PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-3.5in-TFT-Featherwing-PCB|
+|gitName|gitName|Adafruit-3.5in-TFT-Featherwing-PCB|
+|eagleBoard|eagleBoard|/Adafruit 3.5in 480x320 FeatherWing.brd|
+|eagleSchem|eagleSchem|/Adafruit 3.5in 480x320 FeatherWing.sch|
+||||

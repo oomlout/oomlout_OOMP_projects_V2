@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR19696 > SparkFun Thing Plus DA16200
+
+- ID: PROJ-SPAR-19696-STAN-01
+- Hex ID: PRPR19696
+- Name: SparkFun Thing Plus DA16200
+- Description: SparkFun Thing Plus DA16200
+- Long Link: [http://oom.lt/PROJ-SPAR-19696-STAN-01](http://oom.lt/PROJ-SPAR-19696-STAN-01)
+- Short Link: [http://oom.lt/PRPR19696](http://oom.lt/PRPR19696)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|19696|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-19696-STAN-01|
+|Hex ID (short code)|hexID|PRPR19696|
+|Name|name|SparkFun Thing Plus DA16200|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Thing_Plus_DA16200|
+|gitName|gitName|SparkFun_Thing_Plus_DA16200|
+|eagleBoard|eagleBoard|/Hardware/DA16200_Thing_Plus.brd|
+|eagleSchem|eagleSchem|/Hardware/DA16200_Thing_Plus.sch|
+||||

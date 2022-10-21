@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR4885 > Adafruit SHT40 PCB
+
+- ID: PROJ-ADAF-4885-STAN-01
+- Hex ID: PRPR4885
+- Name: Adafruit SHT40 PCB
+- Description: Adafruit SHT40 PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-4885-STAN-01](http://oom.lt/PROJ-ADAF-4885-STAN-01)
+- Short Link: [http://oom.lt/PRPR4885](http://oom.lt/PRPR4885)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|4885|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-4885-STAN-01|
+|Hex ID (short code)|hexID|PRPR4885|
+|Name|name|Adafruit SHT40 PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SHT40-PCB|
+|gitName|gitName|Adafruit-SHT40-PCB|
+|eagleBoard|eagleBoard|/Adafruit SHT40.brd|
+|eagleSchem|eagleSchem|/Adafruit SHT40.sch|
+||||

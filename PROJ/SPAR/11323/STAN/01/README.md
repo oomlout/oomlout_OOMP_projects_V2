@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR11323 > EL Sequencer
+
+- ID: PROJ-SPAR-11323-STAN-01
+- Hex ID: PRPR11323
+- Name: EL Sequencer
+- Description: EL Sequencer
+- Long Link: [http://oom.lt/PROJ-SPAR-11323-STAN-01](http://oom.lt/PROJ-SPAR-11323-STAN-01)
+- Short Link: [http://oom.lt/PRPR11323](http://oom.lt/PRPR11323)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|11323|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-11323-STAN-01|
+|Hex ID (short code)|hexID|PRPR11323|
+|Name|name|EL Sequencer|
+|gitRepo|gitRepo|https://github.com/sparkfun/EL_Sequencer|
+|gitName|gitName|EL_Sequencer|
+|eagleBoard|eagleBoard|/Hardware/EL_Sequencer.brd|
+|eagleSchem|eagleSchem|/Hardware/EL_Sequencer.sch|
+||||

@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR1727 > Adafruit MAX31850 thermocouple breakout board
+
+- ID: PROJ-ADAF-1727-STAN-01
+- Hex ID: PRPR1727
+- Name: Adafruit MAX31850 thermocouple breakout board
+- Description: Adafruit MAX31850 thermocouple breakout board
+- Long Link: [http://oom.lt/PROJ-ADAF-1727-STAN-01](http://oom.lt/PROJ-ADAF-1727-STAN-01)
+- Short Link: [http://oom.lt/PRPR1727](http://oom.lt/PRPR1727)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|1727|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-1727-STAN-01|
+|Hex ID (short code)|hexID|PRPR1727|
+|Name|name|Adafruit MAX31850 thermocouple breakout board|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX31850-thermocouple-breakout-board|
+|gitName|gitName|Adafruit-MAX31850-thermocouple-breakout-board|
+|eagleBoard|eagleBoard|/Adafruit MAX31850.brd|
+|eagleSchem|eagleSchem|/Adafruit MAX31850.sch|
+||||

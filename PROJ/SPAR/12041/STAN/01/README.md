@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR12041 > AT42QT1010 Capacitive Touch Breakout
+
+- ID: PROJ-SPAR-12041-STAN-01
+- Hex ID: PRPR12041
+- Name: AT42QT1010 Capacitive Touch Breakout
+- Description: AT42QT1010 Capacitive Touch Breakout
+- Long Link: [http://oom.lt/PROJ-SPAR-12041-STAN-01](http://oom.lt/PROJ-SPAR-12041-STAN-01)
+- Short Link: [http://oom.lt/PRPR12041](http://oom.lt/PRPR12041)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|12041|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-12041-STAN-01|
+|Hex ID (short code)|hexID|PRPR12041|
+|Name|name|AT42QT1010 Capacitive Touch Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/AT42QT1010_Capacitive_Touch_Breakout|
+|gitName|gitName|AT42QT1010_Capacitive_Touch_Breakout|
+|eagleBoard|eagleBoard|/Hardware/AT42QT1010_Capacitive_Touch_Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/AT42QT1010_Capacitive_Touch_Breakout.sch|
+||||

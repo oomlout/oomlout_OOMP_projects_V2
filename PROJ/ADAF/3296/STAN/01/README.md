@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR3296 > DS1307 breakout board
+
+- ID: PROJ-ADAF-3296-STAN-01
+- Hex ID: PRPR3296
+- Name: DS1307 breakout board
+- Description: DS1307 breakout board
+- Long Link: [http://oom.lt/PROJ-ADAF-3296-STAN-01](http://oom.lt/PROJ-ADAF-3296-STAN-01)
+- Short Link: [http://oom.lt/PRPR3296](http://oom.lt/PRPR3296)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|3296|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-3296-STAN-01|
+|Hex ID (short code)|hexID|PRPR3296|
+|Name|name|DS1307 breakout board|
+|gitRepo|gitRepo|https://github.com/adafruit/DS1307-breakout-board|
+|gitName|gitName|DS1307-breakout-board|
+|eagleBoard|eagleBoard|/DS1307 Rev B.brd|
+|eagleSchem|eagleSchem|/DS1307 Rev B.sch|
+||||

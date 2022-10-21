@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR11927 > BC127 Breakout Board
+
+- ID: PROJ-SPAR-11927-STAN-01
+- Hex ID: PRPR11927
+- Name: BC127 Breakout Board
+- Description: BC127 Breakout Board
+- Long Link: [http://oom.lt/PROJ-SPAR-11927-STAN-01](http://oom.lt/PROJ-SPAR-11927-STAN-01)
+- Short Link: [http://oom.lt/PRPR11927](http://oom.lt/PRPR11927)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|11927|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-11927-STAN-01|
+|Hex ID (short code)|hexID|PRPR11927|
+|Name|name|BC127 Breakout Board|
+|gitRepo|gitRepo|https://github.com/sparkfun/BC127_Breakout_Board|
+|gitName|gitName|BC127_Breakout_Board|
+|eagleBoard|eagleBoard|/Hardware/BC127_Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/BC127_Breakout.sch|
+||||

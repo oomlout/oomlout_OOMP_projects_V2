@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR14812 > RedBoard Turbo
+
+- ID: PROJ-SPAR-14812-STAN-01
+- Hex ID: PRPR14812
+- Name: RedBoard Turbo
+- Description: RedBoard Turbo
+- Long Link: [http://oom.lt/PROJ-SPAR-14812-STAN-01](http://oom.lt/PROJ-SPAR-14812-STAN-01)
+- Short Link: [http://oom.lt/PRPR14812](http://oom.lt/PRPR14812)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|14812|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-14812-STAN-01|
+|Hex ID (short code)|hexID|PRPR14812|
+|Name|name|RedBoard Turbo|
+|gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Turbo|
+|gitName|gitName|RedBoard_Turbo|
+|eagleBoard|eagleBoard|/Hardware/RedBoard_Turbo.brd|
+|eagleSchem|eagleSchem|/Hardware/RedBoard_Turbo.sch|
+||||

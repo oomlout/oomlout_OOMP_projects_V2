@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR4300 > Adafruit Hallowing M4 PCB
+
+- ID: PROJ-ADAF-4300-STAN-01
+- Hex ID: PRPR4300
+- Name: Adafruit Hallowing M4 PCB
+- Description: Adafruit Hallowing M4 PCB
+- Long Link: [http://oom.lt/PROJ-ADAF-4300-STAN-01](http://oom.lt/PROJ-ADAF-4300-STAN-01)
+- Short Link: [http://oom.lt/PRPR4300](http://oom.lt/PRPR4300)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|ADAF|
+|OOMP Color|oompColor|4300|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-ADAF-4300-STAN-01|
+|Hex ID (short code)|hexID|PRPR4300|
+|Name|name|Adafruit Hallowing M4 PCB|
+|gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Hallowing-M4-PCB|
+|gitName|gitName|Adafruit-Hallowing-M4-PCB|
+|eagleBoard|eagleBoard|/Adafruit Hallowing M4.brd|
+|eagleSchem|eagleSchem|/Adafruit Hallowing M4.sch|
+||||

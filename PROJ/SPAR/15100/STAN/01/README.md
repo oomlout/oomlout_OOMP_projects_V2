@@ -1,0 +1,33 @@
+
+
+
+  
+NO IMAGE  
+# PRPR15100 > USB C Breakout
+
+- ID: PROJ-SPAR-15100-STAN-01
+- Hex ID: PRPR15100
+- Name: USB C Breakout
+- Description: USB C Breakout
+- Long Link: [http://oom.lt/PROJ-SPAR-15100-STAN-01](http://oom.lt/PROJ-SPAR-15100-STAN-01)
+- Short Link: [http://oom.lt/PRPR15100](http://oom.lt/PRPR15100)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|SPAR|
+|OOMP Color|oompColor|15100|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-SPAR-15100-STAN-01|
+|Hex ID (short code)|hexID|PRPR15100|
+|Name|name|USB C Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/USB-C-Breakout|
+|gitName|gitName|USB-C-Breakout|
+|eagleBoard|eagleBoard|/Hardware/USB-C-Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/USB-C-Breakout.sch|
+||||
