@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-13343-STAN-01](http://oom.lt/PROJ-SPAR-13343-STAN-01)
 - Short Link: [http://oom.lt/PRPR13343](http://oom.lt/PRPR13343)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/SPAR/13343/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/SPAR/13343/STAN/01/kicadPcb3dBack.png|oomlout_OOMP_projects_V2/PROJ/SPAR/13343/STAN/01/kicadPcb3d.png||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
