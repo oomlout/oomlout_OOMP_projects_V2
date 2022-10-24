@@ -1,0 +1,271 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 01:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        5.0V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        N$2
+         2        N$1
+
+C6       1        N$4
+         2        N$3
+
+C8       1        GND
+         2        VCC
+
+C9       1        GND
+         2        VCOMH
+
+CONN1    1        SDA
+         2        SCL
+         3        TXD
+         4        RXD
+         5        GPIO4
+         6        GPIO17
+         7        GPIO18
+         8        GPIO27
+         9        GPIO22
+         10       GPIO23
+         11       GPIO24
+         12       GPIO25
+         13       SPI_MOSI
+         14       SPI_MISO
+         15       SPI_SCLK
+         16       SPI_CE0
+         17       SPI_CE1
+         18       GPIO5
+         19       GPIO6
+         20       GPIO12
+         21       GPIO13
+         22       GPIO16
+         23       GPIO19
+         24       GPIO20
+         25       GPIO21
+
+CS       1        RFM_CS
+         2        SPI_CE1
+         WIRE              *** unconnected ***
+
+DIO0     1        DIO0
+         2        GPIO22
+         WIRE              *** unconnected ***
+
+DIO1     1        DIO1
+         2        GPIO23
+         WIRE              *** unconnected ***
+
+DIO2     1        DIO2
+         2        GPIO24
+         WIRE              *** unconnected ***
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+IC5      1        GND
+         2        !OLED_RST
+         3        3.3V
+
+JP1      1        RFM_RST
+         2        RFM_CS
+         3        RFM_SCK
+         4        RFM_MOSI
+         5        RFM_MISO
+
+JP2      1        5.0V
+         2        RPI_3.3V
+         3        GND
+
+JP3      1        DIO2
+         2        DIO1
+         3        DIO0
+         4        DIO4
+         5        DIO3
+
+JP6      1        ANT
+
+LCD1     1        N$1
+         2        N$2
+         3        N$3
+         4        N$4
+         5        3.3V
+         6        VBREF
+         7        GND
+         8        3.3V
+         9        !OLED_RST
+         10       SCL
+         11       SDA
+         12       N$7
+         13       VCOMH
+         14       VCC
+
+MISO     1        RFM_MISO
+         2        SPI_MISO
+         WIRE              *** unconnected ***
+
+MOSI     1        RFM_MOSI
+         2        SPI_MOSI
+         WIRE              *** unconnected ***
+
+R3       1        GND
+         2        N$7
+
+R5       1        3.3V
+         2        RFM_RST
+         3        RFM_CS
+         4        RFM_CS
+         5        RFM_CS
+         6        3.3V
+         7        3.3V
+         8        !OLED_RST
+
+RPI1     1        RPI_3.3V
+         2        5.0V
+         3        SDA
+         4        5.0V
+         5        SCL
+         6        GND
+         7        GPIO4
+         8        TXD
+         9        GND
+         10       RXD
+         11       GPIO17
+         12       GPIO18
+         13       GPIO27
+         14       GND
+         15       GPIO22
+         16       GPIO23
+         17       RPI_3.3V@2
+         18       GPIO24
+         19       SPI_MOSI
+         20       GND
+         21       SPI_MISO
+         22       GPIO25
+         23       SPI_SCLK
+         24       SPI_CE0
+         25       GND
+         26       SPI_CE1
+         27       EEDATA
+         28       EECLK
+         29       GPIO5
+         30       GND
+         31       GPIO6
+         32       GPIO12
+         33       GPIO13
+         34       GND
+         35       GPIO19
+         36       GPIO16
+         37       GPIO26
+         38       GPIO20
+         39       GND
+         40       GPIO21
+         41                *** unconnected ***
+         42                *** unconnected ***
+         S1       RPI_3.3V
+         S2       5.0V
+         S3       SDA
+         S4       5.0V
+         S5       SCL
+         S6       GND
+         S7       GPIO4
+         S8       TXD
+         S9       GND
+         S10      RXD
+         S11      GPIO17
+         S12      GPIO18
+         S13      GPIO27
+         S14      GND
+         S15      GPIO22
+         S16      GPIO23
+         S17      RPI_3.3V@2
+         S18      GPIO24
+         S19      SPI_MOSI
+         S20      GND
+         S21      SPI_MISO
+         S22      GPIO25
+         S23      SPI_SCLK
+         S24      SPI_CE0
+         S25      GND
+         S26      SPI_CE1
+         S27      EEDATA
+         S28      EECLK
+         S29      GPIO5
+         S30      GND
+         S31      GPIO6
+         S32      GPIO12
+         S33      GPIO13
+         S34      GND
+         S35      GPIO19
+         S36      GPIO16
+         S37      GPIO26
+         S38      GPIO20
+         S39      GND
+         S40      GPIO21
+
+RST      1        RFM_RST
+         2        GPIO25
+         WIRE              *** unconnected ***
+
+SCK      1        RFM_SCK
+         2        SPI_SCLK
+         WIRE              *** unconnected ***
+
+SW1      A        GPIO5
+         B        GND
+         A'       GPIO5
+         B'       GND
+
+SW2      A        GPIO6
+         B        GND
+         A'       GPIO6
+         B'       GND
+
+SW3      A        GPIO12
+         B        GND
+         A'       GPIO12
+         B'       GND
+
+U$22    
+U1       1        5.0V
+         2        GND
+         3        5.0V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1P       ANT
+         2P       GND
+         3P       DIO3
+         4P       DIO4
+         5P       3.3V
+         6P       DIO0
+         7P       DIO1
+         8P       DIO2
+         9P       GND
+         10P      RFM_MISO
+         11P      RFM_MOSI
+         12P      RFM_SCK
+         13P      RFM_CS
+         14P      RFM_RST
+         15P      DIO5
+         16P      GND
+
+X1       P        ANT
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         GND@4    GND
+

@@ -1,0 +1,104 @@
+Pinlist
+
+Exported from boardEagle.brd at 05/08/2022 22:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VDD
+         2        GND
+
+C2       1        AVDD
+         2        AGND
+
+C3       1        GND
+         2        AGND
+
+C4       1        VDD
+         2        GND
+
+C5       1        IN_L_N
+         2        N$2
+
+C6       1        IN_L_P
+         2        N$1
+
+C7       1        IN_R_P
+         2        N$4
+
+C8       1        IN_R_N
+         2        N$3
+
+FB1      1        VDD
+         2        AVDD
+
+FB2      1        GND
+         2        AGND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+J1       1        OUT_L_N
+         2        OUT_L_P
+
+J2       1        OUT_R_P
+         2        OUT_R_N
+
+JP1      1        VDD
+         2        GND
+         3        SHUTDOWN_R
+         4        IN_R_P
+         5        IN_R_N
+         6        IN_L_N
+         7        IN_L_P
+         8        SHUTDOWN_L
+         9        GAIN0
+         10       GAIN1
+
+R1       1        GAIN1
+         2        VDD
+
+R2       1        GAIN0
+         2        VDD
+
+R3       1        SHUTDOWN_L
+         2        VDD
+
+R4       1        SHUTDOWN_R
+         2        VDD
+
+SW1      1ON      GND
+         2ON      GND
+         1OFF     GAIN0
+         2OFF     GAIN1
+
+U$20     P$1               *** unconnected ***
+
+U$21     P$1               *** unconnected ***
+
+U$22    
+U$23    
+U1       1        GAIN1
+         2        OUT_L_P
+         3        VDD
+         4        GND
+         5        OUT_L_N
+         6                 *** unconnected ***
+         7        SHUTDOWN_L
+         8        SHUTDOWN_R
+         9        AVDD
+         10                *** unconnected ***
+         11       OUT_R_N
+         12       GND
+         13       VDD
+         14       OUT_R_P
+         15       GAIN0
+         16       N$4
+         17       N$3
+         18       AGND
+         19       N$2
+         20       N$1
+         21       GND
+

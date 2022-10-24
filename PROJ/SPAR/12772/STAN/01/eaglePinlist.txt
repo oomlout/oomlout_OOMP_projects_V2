@@ -1,0 +1,308 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 15:46
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        STOP
+         2        GND
+
+C2       1        USB_VIN
+         2        GND
+
+C3       1        P-D+
+         2        GND
+
+C4       1        P-D-
+         2        GND
+
+C5       1        VLIPO
+         2        GND
+
+C6       A        VCC
+         C        GND
+
+C7       1        VCC
+         2        GND
+
+C8       1        VCC
+         2        GND
+
+C9       1        VCC
+         2        GND
+
+C10      1        VCC
+         2        GND
+
+C11      1        VCC
+         2        GND
+
+C12      1        VCC
+         2        GND
+
+C13      1        GND
+         2        N$5
+
+C14      1        GND
+         2        N$21
+
+C15      1        GND
+         2        N$9
+
+C16      1        GND
+         2        N$6
+
+C17      1        USB_VIN
+         2        GND
+
+FRAME2  
+FRAME4  
+J1       CS       !CS0
+         DI       MOSI0
+         DO       MISO0
+         CD1      N$3
+         CD2      CD
+         GND      GND
+         VCC      VCC
+         GND1     GND
+         GND3     GND
+         RSV1     N$4
+         RSV2     N$10
+         SCLK     SCK0
+
+JP1      1        BSL
+         2        RST
+         3        TXO-0
+         4        RXI-0
+         5        GND
+         6        VCC
+
+JP2      1        GND
+         2        VLIPO
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP4      1        CS1
+         2        MOSI1
+         3        MISO1
+         4        SCK1
+
+JP5      1        RAW
+         2        USB_VIN
+         3        VCC
+         4        GND
+         5        TXO-1
+         6        RXI-1
+
+JP6      1        STOP
+         2        P1
+         3        P2
+         4        P3
+         5        P4
+         6        P5
+         7        P6
+         8        P7
+         9        P8
+         10       GND
+
+LED1     A        N$13
+         C        N$12
+
+LED2     A        N$7
+         C        STAT0
+
+LED3     A        STAT
+         C        N$33
+
+LED4     A        N$19
+         C        STAT1
+
+LOGO1   
+LOGO2   
+LOGO3   
+Q1       1        N$21
+         2                 *** unconnected ***
+         3        N$5
+         4                 *** unconnected ***
+
+Q2       X1       N$9
+         X2       N$6
+         SHEILD            *** unconnected ***
+
+Q4       1        N$17
+         2        VCC
+         3        STAT
+
+R1       1        RST
+         2        VCC
+
+R2       1        GND
+         2        N$1
+
+R3       1        N$13
+         2        USB_VIN
+
+R4       1        VCC
+         2        N$7
+
+R5       1        VCC
+         2        N$19
+
+R6       1        STOP
+         2        VCC
+
+R7       1        VCC
+         2        BSL
+
+R8       1        N$16
+         2        USB_VIN
+
+R9       1        P-D+
+         2        USB_D+
+
+R10      1        P-D-
+         2        USB_D-
+
+R11      1        STAT
+         2        USB_D+
+
+R12      1        N$31
+         2        N$17
+
+R13      1        N$17
+         2        VCC
+
+R14      1        GND
+         2        USB_VIN
+
+R15      1        GND
+         2        N$33
+
+R16      1        RAW
+         2        BATTLVL
+
+R17      1        BATTLVL
+         2        GND
+
+R18      1        N$3
+         2        VCC
+
+R19      1        N$10
+         2        VCC
+
+R20      1        N$4
+         2        VCC
+
+S1       1        RAW
+         2        VLIPO
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S2       1        GND
+         2                 *** unconnected ***
+         3        STOP
+         4                 *** unconnected ***
+
+S3       1        GND
+         2        GND
+         3        RST
+         4        RST
+
+U$1      1                 *** unconnected ***
+
+U$2      1                 *** unconnected ***
+
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$10    
+U1       1        N$12
+         2        GND
+         3        VLIPO
+         4        USB_VIN
+         5        N$1
+
+U2       1        RAW
+         2        GND
+         3        RAW
+         4                 *** unconnected ***
+         5        VCC
+
+U4       1        P6
+         2        P5
+         3        N$6
+         4                 *** unconnected ***
+         5        N$9
+         6        GND
+         7        VCC
+         8                 *** unconnected ***
+         9        P4
+         10       P-D+
+         11       P-D-
+         12                *** unconnected ***
+         13       P3
+         14       P2
+         15       P1
+         16                *** unconnected ***
+         17       N$31
+         18       GND
+         19       TXO-0
+         20                *** unconnected ***
+         21       RXI-0
+         22       STAT0
+         23       VCC
+         24                *** unconnected ***
+         25       GND
+         26       STOP
+         27       SCK0
+         28                *** unconnected ***
+         29       MISO0
+         30       MOSI0
+         31       !CS0
+         32                *** unconnected ***
+         33       TXO-1
+         34       RXI-1
+         35       P7
+         36                *** unconnected ***
+         37       STAT1
+         38       P8
+         39       BATTLVL
+         40                *** unconnected ***
+         41       BSL
+         42       GND
+         43       VCC
+         44                *** unconnected ***
+         45                *** unconnected ***
+         46                *** unconnected ***
+         47       SCK1
+         48                *** unconnected ***
+         49       VCC
+         50       GND
+         51       VCC
+         52                *** unconnected ***
+         53       MISO1
+         54       MOSI1
+         55       CS1
+         56                *** unconnected ***
+         57       RST
+         58       N$16
+         59       GND
+         60                *** unconnected ***
+         61       N$21
+         62       N$5
+         63       VCC
+         64                *** unconnected ***
+
+X1       D+1      USB_D+
+         D-1      USB_D-
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    USB_VIN
+

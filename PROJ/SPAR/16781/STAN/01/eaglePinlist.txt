@@ -1,0 +1,293 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+A1       NC                *** unconnected ***
+         FEED     N$5
+
+C1       1        37
+         2        36
+
+C2       1        38
+         2        39-BATT/3
+
+C3       1        GND
+         2        N$13
+
+C4       1        GND
+         2        N$15
+
+C5       1        GND
+         2        CAP_10N
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        N$5
+         2        GND
+
+C9       1        GND
+         2        32-G5/RTC
+
+C10      1        N$8
+         2        GND
+
+C17      1        VDD
+         2        GND
+
+C18      1        3.3V
+         2        GND
+
+C20      1        3.3V
+         2        GND
+
+C21      1        3.3V
+         2        GND
+
+C22      1        3.3V
+         2        GND
+
+C23      1        3.3V
+         2        GND
+
+C24      1        VDD
+         2        GND
+
+C25      1        3.3V
+         2        GND
+
+C26      1        GND
+         2        33-G6/RTC
+
+C27      1        CAP_10N
+         2        N$4
+
+D4       A        2-STAT_LED
+         C        N$1
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        3.3V
+         3        D+
+         4                 *** unconnected ***
+         5        D-
+         6        !RESET
+         7        GND
+         8                 *** unconnected ***
+         9        V_USB
+         10       14-D0
+         11       0-!BOOT!
+         12       21-SDA
+         13                *** unconnected ***
+         14       22-SCL
+         15                *** unconnected ***
+         16       4-I2C_!INT
+         17       17-G3/TX1/AUD_OUT
+         18       27-D1
+         19       16-G4/RX1/AUD_IN
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         32       13-PWM0
+         33       GND
+         34       34-A0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       35-A1
+         39       GND
+         40       15-G0
+         41                *** unconnected ***
+         42       25-G1/AUD_LRCLK/SCL1
+         43                *** unconnected ***
+         44       26-G2/AUD_BCLK/SDA1
+         45       GND
+         46       17-G3/TX1/AUD_OUT
+         47       12-PWM1
+         48       16-G4/RX1/AUD_IN
+         49       39-BATT/3
+         50       26-G2/AUD_BCLK/SDA1
+         51       26-G2/AUD_BCLK/SDA1
+         52       25-G1/AUD_LRCLK/SCL1
+         53       25-G1/AUD_LRCLK/SCL1
+         54       16-G4/RX1/AUD_IN
+         55       5-!CS
+         56       17-G3/TX1/AUD_OUT
+         57       18-SCK
+         58                *** unconnected ***
+         59       23-COPI
+         60                *** unconnected ***
+         61       19-CIPO
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64                *** unconnected ***
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69                *** unconnected ***
+         70                *** unconnected ***
+         71       33-G6/RTC
+         72                *** unconnected ***
+         73       32-G5/RTC
+         74       3.3V
+         75       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+
+L1       1        N$5
+         2        N$8
+
+LOGO1   
+LOGO2   
+LOGO3   
+Q2       1        DTR
+         2        N$12
+         3        !RESET
+         4        RTS
+         5        N$10
+         6        0-!BOOT!
+
+R1       1        !RESET
+         2        3.3V
+
+R2       1        N$4
+         2        CAP_10N
+
+R3       1        N$2
+         2        V_USB
+
+R4       1        GND
+         2        N$2
+
+R5       1        N$3
+         2        3.3V
+
+R8       1        GND
+         2        N$1
+
+R9       1        0-!BOOT!
+         2        3.3V
+
+R17      1        DTR
+         2        N$10
+
+R18      1        RTS
+         2        N$12
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$6     
+U$7     
+U1       1        FLASH_SCS
+         2        FLASH_SDO
+         3        FLASH_SWP
+         4        GND
+         5        FLASH_SDI
+         6        FLASH_SCK
+         7        FLASH_SHD
+         8        VDD
+
+U2       1        3.3V
+         2        N$8
+         3        3.3V
+         4        3.3V
+         5        36
+         6        37
+         7        38
+         8        39-BATT/3
+         9        !RESET
+         10       34-A0
+         11       35-A1
+         12       32-G5/RTC
+         13       33-G6/RTC
+         14       25-G1/AUD_LRCLK/SCL1
+         15       26-G2/AUD_BCLK/SDA1
+         16       27-D1
+         17       14-D0
+         18       12-PWM1
+         19       3.3V
+         20       13-PWM0
+         21       15-G0
+         22       2-STAT_LED
+         23       0-!BOOT!
+         24       4-I2C_!INT
+         25       16-G4/RX1/AUD_IN
+         26       VDD
+         27       17-G3/TX1/AUD_OUT
+         28       FLASH_SHD
+         29       FLASH_SWP
+         30       FLASH_SCS
+         31       FLASH_SCK
+         32       FLASH_SDO
+         33       FLASH_SDI
+         34       5-!CS
+         35       18-SCK
+         36       23-COPI
+         37       3.3V
+         38       19-CIPO
+         39       22-SCL
+         40       U0RXD
+         41       U0TXD
+         42       21-SDA
+         43       3.3V
+         44       N$15
+         45       N$13
+         46       3.3V
+         47       N$4
+         48       CAP_10N
+         EP       GND
+
+U4       1                 *** unconnected ***
+         2        GND
+         3        D+
+         4        D-
+         5        3.3V
+         6        3.3V
+         7        3.3V
+         8        N$2
+         9        N$3
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       RTS
+         20       U0TXD
+         21       U0RXD
+         22                *** unconnected ***
+         23       DTR
+         24                *** unconnected ***
+         PAD      GND
+
+Y1       P1       N$13
+         P2       GND
+         P3       N$15
+         P4       GND
+
+Y2       P$1      32-G5/RTC
+         P$2      33-G6/RTC
+

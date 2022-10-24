@@ -1,0 +1,1069 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 16:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3V3_LED  1        N$6
+         2        3.3V
+
+BT1      +        N$14
+         -        GND
+
+BYP      1        V_USB
+         2        VIN
+
+C1       1        VIN
+         2        GND
+
+C2       +        VIN
+         -        GND
+
+C3       1        VREG_3.3V
+         2        GND
+
+C4       1        VREG_3.3V
+         2        GND
+
+C5       1        VREG_3.3V
+         2        GND
+
+C6       1        V_BATT
+         2        GND
+
+C7       1        SIM_RST
+         2        GND
+
+C8       1        SIM_CLK
+         2        GND
+
+C9       1        !RESET!
+         2        GND
+
+C10      1        GND
+         2        SIM_IO
+
+C11      1        GND
+         2        VSIM
+
+C12      1        GND
+         2        VSIM
+
+C13      1        VIN
+         2        GND
+
+C14      1        3.3V
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        N$24
+         2        GND
+
+C18      1        SARA_ANT
+         2        N$15
+
+C19      1        N$16
+         2        GND
+
+C20      1        N$24
+         2        GND
+
+C21      1        N$25
+         2        GND
+
+C22      1        VCCIO
+         2        GND
+
+C23      1        VCCIO
+         2        GND
+
+C24      1        3.3V
+         2        GND
+
+C31      1        3.3V
+         2        GND
+
+C46      1        SD_PWR
+         2        GND
+
+C51      1        N$30
+         2        GND
+
+C52      1        1.8V
+         2        GND
+
+C53      1        1.8V
+         2        GND
+
+C54      1        3.3V
+         2        GND
+
+D1       A        GND
+         C        N$12
+
+D2       A        N$7
+         C        GND
+
+D3       1                 *** unconnected ***
+         2        3.3V
+         3        RTC_3V
+
+D4       A        N$8
+         C        GND
+
+D5       A        VIN
+         C        N$21
+
+D6       A        N$14
+         C        RTC_3V
+
+D7       A        V_BATT
+         C        VIN
+
+D8       1        SIM_CLK
+         2        GND
+         3        VSIM
+         4        SIM_RST
+         5        GND
+         6        SIM_IO
+
+D10      1        N$16
+         2        GND
+
+D11      1        SARA_ANT_GNSS
+         2        GND
+
+D12      A        3.3V
+         C        N$34
+
+D13      A        3.3V
+         C        N$37
+
+D14      A        3.3V
+         C        N$49
+
+DSR      1        GND
+         2        N$23
+         3        VCCIO
+
+E1       1        I2S_WS/PDM_DAT
+         2        GND
+         3        GND
+         4        I2S_SCK/PDM_CLK
+         5        N$4
+         6        GND
+         7        GND
+         8        GND
+
+E3       SIG      N$15
+         GND@0    GND
+         GND@1    GND
+
+E4       SIG      SARA_ANT_GNSS
+         GND@0    GND
+         GND@1    GND
+
+EN       1        N$4
+         2        3.3V
+
+F2       1        V_USB
+         2        VIN
+
+FB1      1        N$25
+         2        SARA_ANT_GNSS
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+H1      
+H2      
+H3      
+H4      
+H5       1        GND
+
+IC1      1        VCCIO
+         2        GND
+         3        SARA_RXD
+         4        SARA_TXD
+         5        SARA_CTS
+         6        SARA_RTS
+         7        VCCIO
+         8        GND
+         9        GND
+         10       GND
+         11       RTS1
+         12       CTS1
+         13       TX1
+         14       RX1
+         15       3.3V
+         16       VCCIO
+
+IC2      1        GND
+         2        VCCIO
+         3        SARA_DTR/TXD2I
+         4        SARA_DCD/RXD2O
+         5        SARA_RI/CTS2O
+         6        SARA_DSR/RTS2I
+         7        VCCIO
+         8        N$23
+         9        GND
+         10       GND
+         11       DSR
+         12       RI
+         13       DCD
+         14       DTR
+         15       3.3V
+         16       VCCIO
+
+IC3      1        1.8V
+         2        GND
+         3        ICM-20948-LV_INT
+         4        ICM-20948-LV_SDI
+         5        ICM-20948-LV_SCK
+         6        ICM-20948-LV_!CS!
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       ICM_!CS!
+         12       SPI_SCK
+         13       SPI_SDO
+         14       ICM_INT
+         15       3.3V
+         16       1.8V
+
+J1       A5       N$10
+         A6       USB_D+
+         A7       USB_D-
+         A8                *** unconnected ***
+         B5       N$11
+         B6       USB_D+
+         B7       USB_D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J2       1        3.3V
+         2        SWDIO
+         3        GND
+         4        SWDCK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET!
+
+J4       1        GND
+         2        3.3V
+         3        USB_D+
+         4        3.3V_EN
+         5        USB_D-
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9        VIN
+         10       D0
+         11       !BOOT!
+         12       I2C_SDA
+         13       RTS1
+         14       I2C_SCL
+         15       CTS1
+         16       N$19
+         17       TX1
+         18       D1
+         19       RX1
+         20       DCD
+         21       SWDCK
+         22       DTR
+         23       SWDIO
+         32       PWM0
+         33       GND
+         34       A0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       A1
+         39       GND
+         40       G0
+         41                *** unconnected ***
+         42       G1
+         43                *** unconnected ***
+         44       G2
+         45       GND
+         46       G3
+         47       PWM1
+         48       G4
+         49       VIN/3
+         50       N$52
+         51       N$17
+         52       N$51
+         53       N$5
+         54                *** unconnected ***
+         55       ICM_!CS!
+         56                *** unconnected ***
+         57       SPI_SCK
+         58                *** unconnected ***
+         59       SPI_SDO
+         60                *** unconnected ***
+         61       SPI_SDI
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64                *** unconnected ***
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69       G7
+         70                *** unconnected ***
+         71       G6
+         72       RTC_3V
+         73       G5
+         74       3.3V
+         75       GND
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+
+J5       1        SPI_SCK
+         2        SPI_SDO
+         3        SPI_SDI
+         4        D0
+         5        GND
+
+J6       1        VIN
+         2        3.3V
+         3        VCCIO
+         4        1.8V
+         5        GND
+
+J7       1        GND
+         2        3.3V
+         3        I2C_SDA
+         4        I2C_SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J8       1        A0
+         2        A1
+         3        PWM0
+         4        PWM1
+         5        D0
+         6        D1
+
+J9       1        !RESET!
+
+J10      1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+
+J11      CD1      GND
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      SD_PWR
+         DAT1              *** unconnected ***
+         DAT2              *** unconnected ***
+         GND1     GND
+         GND3     GND
+         SCLK     SPI_SCK
+         DI/CMD   SPI_SDO
+         CS/DAT3  SD_!CS!
+         DO/DAT0  SPI_SDI
+
+J12      1        GND
+         2        3.3V
+         3        I2C_SDA
+         4        I2C_SCL
+
+J13      1        N$33
+
+J14      1        GND
+         2        3.3V
+         3        SARA_SDA
+         4        SARA_SCL
+
+J15      1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J16      1        V_BATT
+         2        GND
+
+J17      C1       VSIM
+         C2       SIM_RST
+         C3       SIM_CLK
+         C5       GND
+         C6                *** unconnected ***
+         C7       SIM_IO
+         MNT1              *** unconnected ***
+         MNT2              *** unconnected ***
+         MNT3              *** unconnected ***
+         MNT4              *** unconnected ***
+         MNT5              *** unconnected ***
+         MNT6              *** unconnected ***
+
+J18      1        SARA_USB_D-
+         2        SARA_USB_D+
+         3        SARA_VUSB_DET
+         4        GND
+
+J19      1        N$36
+
+JP1      1        N$3
+         2        3.3V
+         3        N$2
+
+JP2      1        N$13
+         2        3.3V
+         3        N$9
+
+JP3      1        USB_D-
+         2        SARA_USB_D-
+
+JP4      1        USB_D+
+         2        SARA_USB_D+
+
+JP5      1        V_USB
+         2        SARA_VUSB_DET
+
+JP6      1        N$29
+         2        3.3V
+
+JP7      1        SARA_SCL
+         2        N$5
+
+JP8      1        SARA_SDA
+         2        N$17
+
+JP9      1        ICM_INT
+         2        N$19
+
+JP10     1        G0
+         2        SD_!CS!
+
+JP11     1        G1
+         2        MICROSD_PWR
+
+JP12     1        G2
+         2        LTE_PWR_ON
+
+JP13     1        G3
+         2        ICM_PWR
+
+JP14     1        G4
+         2        RI
+
+JP15     1        G5
+         2        SARA_INT
+
+JP16     1        G6
+         2        SARA_!ON!
+
+JP17     1        G7
+         2        DSR
+
+JP18     1        N$52
+         2        I2S_SCK/PDM_CLK
+
+JP19     1        SARA_GPIO3
+         2        N$43
+         3        SARA_EXT_INT
+
+JP20     1        N$51
+         2        I2S_WS/PDM_DAT
+
+L1       P$1      SARA_ANT
+         P$2      GND
+
+L2       P$1      N$16
+         P$2      N$15
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+LOGO5   
+LOGO6   
+LOGO7   
+MEAS     1        VREG_3.3V
+         2        3.3V
+         3        VREG_3.3V
+         4        3.3V
+
+Q1       1        N$32
+         2        GND
+         3        N$33
+
+Q2       1        N$26
+         2        GND
+         3        SARA_PWR_ON
+
+Q3       1        N$35
+         2        GND
+         3        N$36
+
+Q4       1        N$27
+         2        GND
+         3        SARA_!RESET!
+
+Q5       1        VCCIO
+         2        N$43
+         3        SARA_INT
+
+Q6       1        MICROSD_PWR
+         2        3.3V
+         3        SD_PWR
+
+Q7       1        N$47
+         2        GND
+         3        SARA_!ON!
+
+Q8       1        N$40
+         2        GND
+         3        N$42
+
+Q9       1        N$42
+         2        GND
+         3        ANT_REG_EN
+
+Q10      1        1.8V
+         2        ICM-20948-LV_SDO
+         3        SPI_SDI
+
+R1       1        SARA_SDA
+         2        N$3
+
+R2       1        GND
+         2        N$10
+
+R3       1        GND
+         2        N$11
+
+R4       1        SARA_SCL
+         2        N$2
+
+R5       1        N$12
+         2        VIN
+
+R6       1        N$8
+         2        N$1
+
+R7       1        I2C_SDA
+         2        N$13
+
+R8       1        N$14
+         2        RTC_3V
+
+R9       1        GND
+         2        VIN/3
+
+R10      1        VIN/3
+         2        N$18
+
+R11      1        N$7
+         2        N$6
+
+R12      1        I2C_SCL
+         2        N$9
+
+R13      1        ANT_GNSS_PWR_EN
+         2        N$40
+
+R14      1        GND
+         2        N$20
+
+R15      1        !RESET!
+         2        3.3V
+
+R16      1        ICM_PWR
+         2        3.3V
+
+R17      1        GND
+         2        MICROSD_PWR
+
+R18      1        LTE_PWR_ON
+         2        GND
+
+R19      1        GND
+         2        RTS1
+
+R20      1        GND
+         2        DSR
+
+R21      1        CHG_LED
+         2        N$21
+
+R22      1        SPI_SDI
+         2        N$29
+
+R23      1        SARA_ANT_DET
+         2        N$16
+
+R24      1        N$24
+         2        N$25
+
+R25      1        3.3V
+         2        N$42
+
+R26      1        N$22
+         2        3.3V
+
+R27      1        LTE_PWR_ON
+         2        N$26
+
+R28      1        N$28
+         2        N$27
+
+R29      1        N$43
+         2        VCCIO
+
+R30      1        SARA_INT
+         2        3.3V
+
+R31      1        VCCIO
+         2        N$31
+
+R32      1        SARA_TP
+         2        N$32
+
+R33      1        N$33
+         2        N$34
+
+R34      1        SARA_NI
+         2        N$35
+
+R35      1        N$36
+         2        N$37
+
+R36      1        SARA_RXD
+         2        N$38
+
+R37      1        SARA_TXD
+         2        N$39
+
+R38      1        N$33
+         2        3.3V
+
+R39      1        N$36
+         2        3.3V
+
+R40      1        DTR
+         2        GND
+
+R41      1        SD_!CS!
+         2        3.3V
+
+R42      1        VCCIO
+         2        N$47
+
+R43      1        SARA_!ON!
+         2        N$49
+
+R44      1        SARA_!ON!
+         2        3.3V
+
+R45      1        3.3V
+         2        ANT_REG_EN
+
+R48      1        ICM-20948-LV_SDO
+         2        1.8V
+
+S1       1        GND
+         2        GND
+         3        !RESET!
+         4        !RESET!
+
+S2       1        GND
+         2        GND
+         3        !BOOT!
+         4        !BOOT!
+
+S3       1        SARA_PWR_ON
+         2        SARA_PWR_ON
+         3        GND
+         4        GND
+
+TP1      P$1      SARA_RXD
+
+TP2      P$1      SARA_TXD
+
+TP3      P$1      SARA_CTS
+
+TP4      P$1      SARA_RTS
+
+TP5      P$1      RX1
+
+TP6      P$1      TX1
+
+TP7      P$1      CTS1
+
+TP8      P$1      RTS1
+
+TP9      P$1      SARA_SDA_1.8V
+
+TP10     P$1      SARA_SCL_1.8V
+
+TP12     P$1      SARA_INT
+
+TP13     P$1      SARA_!ON!
+
+TP14     P$1      SARA_DTR/TXD2I
+
+TP15     P$1      SARA_DCD/RXD2O
+
+TP16     P$1      SARA_RI/CTS2O
+
+TP17     P$1      SARA_DSR/RTS2I
+
+TP18     P$1      DTR
+
+TP19     P$1      DCD
+
+TP20     P$1      RI
+
+TP21     P$1      DSR
+
+TP22     P$1      N$25
+
+TP23     P$1      SD_PWR
+
+TP24     P$1      N$14
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U$94    
+U$95    
+U$96    
+U$97    
+U$98    
+U$99    
+U$100   
+U$101   
+U$102   
+U$103   
+U$104   
+U$105   
+U$106   
+U$107   
+U$108   
+U$109   
+U$110   
+U$111   
+U$112   
+U$113   
+U$114   
+U$115   
+U$116   
+U$117   
+U$118   
+U$119   
+U$122   
+U$123   
+U$124   
+U$125   
+U$126   
+U$127   
+U$128   
+U$129   
+U$130   
+U$131   
+U$133   
+U$134   
+U1       1        GND
+         2                 *** unconnected ***
+         3        GND
+         4        N$31
+         5        GND
+         6        SARA_DSR/RTS2I
+         7        SARA_RI/CTS2O
+         8        SARA_DCD/RXD2O
+         9        SARA_DTR/TXD2I
+         10       SARA_RTS
+         11       SARA_CTS
+         12       N$39
+         13       N$38
+         14       GND
+         15       SARA_PWR_ON
+         16       SARA_NI
+         17       SARA_VUSB_DET
+         18       SARA_!RESET!
+         19       SARA_TP
+         20       GND
+         21       GND
+         22       GND
+         23       ANT_GNSS_PWR_EN
+         24       SARA_GPIO3
+         25                *** unconnected ***
+         26       SARA_SDA_1.8V
+         27       SARA_SCL_1.8V
+         28       SARA_USB_D-
+         29       SARA_USB_D+
+         30       GND
+         31       SARA_ANT_GNSS
+         32       GND
+         33       SARA_EXT_INT
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38       SIM_CLK
+         39       SIM_IO
+         40       SIM_RST
+         41       VSIM
+         42                *** unconnected ***
+         43       GND
+         44                *** unconnected ***
+         45                *** unconnected ***
+         46                *** unconnected ***
+         47                *** unconnected ***
+         48                *** unconnected ***
+         49                *** unconnected ***
+         50       GND
+         51       3.3V
+         52       3.3V
+         53       3.3V
+         54       GND
+         55       GND
+         56       SARA_ANT
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+         62       SARA_ANT_DET
+         63       GND
+         64       GND
+         65       GND
+         66       GND
+         67       GND
+         68       GND
+         69       GND
+         70       GND
+         71       GND
+         72       GND
+         73       GND
+         74       GND
+         75       GND
+         76       GND
+         77       GND
+         78       GND
+         79       GND
+         80       GND
+         81       GND
+         82       GND
+         83       GND
+         84       GND
+         85       GND
+         86       GND
+         87       GND
+         88       GND
+         89       GND
+         90       GND
+         91       GND
+         92       GND
+         93       GND
+         94       GND
+         95       GND
+         96       GND
+
+U2       1        CHG_LED
+         2        GND
+         3        V_BATT
+         4        VIN
+         5        N$20
+
+U3       1        VIN
+         2        GND
+         3        ANT_REG_EN
+         4                 *** unconnected ***
+         5        N$24
+
+U4       1        GND
+         2        V_BATT
+         3        V_BATT
+         4        GND
+         5                 *** unconnected ***
+         6        GND
+         7        I2C_SCL
+         8        I2C_SDA
+         9        GND
+
+U5       1        VREG_3.3V
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        N$12
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        VIN
+         EP       GND
+
+U7       P1       GND
+         P2       VCCIO
+         P3       SARA_SCL_1.8V
+         P4       SARA_SDA_1.8V
+         P5       SARA_SDA
+         P6       SARA_SCL
+         P7       N$22
+         P8       N$22
+
+U8       1                 *** unconnected ***
+         2        !RESET!
+         3        GND
+         4        N$28
+         5        3.3V
+
+U13      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        1.8V
+         9        ICM-20948-LV_SDO
+         10       N$30
+         11                *** unconnected ***
+         12       ICM-20948-LV_INT
+         13       1.8V
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       GND
+         19                *** unconnected ***
+         20       GND
+         21                *** unconnected ***
+         22       ICM-20948-LV_!CS!
+         23       ICM-20948-LV_SCK
+         24       ICM-20948-LV_SDI
+
+U14      1        3.3V
+         2        GND
+         3        ICM_PWR
+         4                 *** unconnected ***
+         5        1.8V
+
+VE       1        3.3V_EN
+         2        N$12
+
+VIN/3    1        N$18
+         2        VIN
+
+VIN_LED  1        N$1
+         2        VIN
+

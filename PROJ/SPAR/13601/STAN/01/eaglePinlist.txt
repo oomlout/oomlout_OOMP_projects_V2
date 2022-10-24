@@ -1,0 +1,163 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        VCC1
+         2        GND
+
+C3       1        VCC2
+         2        GND
+
+FRAME1  
+JP1      1        !INT
+         2        !RESET
+         3        GND
+         4        3.3V
+         5        SDA
+         6        SCL
+
+JP2      1        OSCIO
+         2        !RESET
+         3        GND
+         4        3.3V
+         5        SDA
+         6        SCL
+
+JP3      1        PWRBUSA
+         2        GND
+         3        PWRBUSA
+         4        0
+         5        PWRBUSA
+         6        1
+         7        PWRBUSA
+         8        2
+         9        PWRBUSA
+         10       3
+         11       PWRBUSA
+         12       VCC1
+         13       PWRBUSA
+         14       4
+         15       PWRBUSA
+         16       5
+         17       PWRBUSA
+         18       6
+         19       PWRBUSA
+         20       7
+
+JP4      1        N$3
+         2        8
+         3        N$3
+         4        9
+         5        N$3
+         6        10
+         7        N$3
+         8        11
+         9        N$3
+         10       VCC2
+         11       N$3
+         12       12
+         13       N$3
+         14       13
+         15       N$3
+         16       14
+         17       N$3
+         18       15
+         19       N$3
+         20       GND
+
+JP9      1                 *** unconnected ***
+
+JP10     1                 *** unconnected ***
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        !INT
+         2        3.3V
+
+R2       1        SCL
+         2        N$1
+
+R3       1        !RESET
+         2        3.3V
+
+R4       1        SDA
+         2        N$2
+
+R5       1        N$8
+         2        3.3V
+
+R6       1        N$9
+         2        3.3V
+
+SJ1      1        N$2
+         2        3.3V
+         3        N$1
+
+SJ2      1        VCC1
+         2        3.3V
+
+SJ3      1        VCC2
+         2        3.3V
+
+SJ4      1        N$8
+         2        ADDR0
+         3        GND
+
+SJ5      1        N$9
+         2        ADDR1
+         3        GND
+
+SJ6      1        PWRBUSA
+         2        VCC1
+
+SJ7      1        GND
+         2        PWRBUSA
+
+SJ8      1        N$3
+         2        VCC2
+
+SJ9      1        GND
+         2        N$3
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U1       1        2
+         2        3
+         3        GND
+         4        VCC1
+         5        4
+         6        5
+         7        6
+         8        7
+         9        !INT
+         10       ADDR1
+         11       OSCIO
+         12       3.3V
+         13       8
+         14       9
+         15       10
+         16       11
+         17       GND
+         18       VCC2
+         19       12
+         20       13
+         21       14
+         22       15
+         23       !RESET
+         24       SDA
+         25       SCL
+         26       ADDR0
+         27       0
+         28       1
+         29       GND
+

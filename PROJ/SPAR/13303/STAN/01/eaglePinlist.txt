@@ -1,0 +1,86 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        VDD
+         C        GND
+
+C2       1        VDD
+         2        GND
+
+C3       1        VDD_IO
+         2        GND
+
+C4       1        GND
+         2        N$1
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        GND
+         2        VDD_IO
+         3        SDA/SDI/SDO
+         4        SCL/SCLK
+
+JP2      1        INT_XL
+         2        DRDY_MAG
+         3        !CS_XL
+         4        VCC
+         5        !CS_MAG
+         6        INT_MAG
+
+LOGO1   
+LOGO2   
+R1       1        VCC
+         2        VDD
+
+R2       1        SCL/SCLK
+         2        N$2
+
+R3       1        VDD_IO
+         2        !CS_XL
+
+R4       1        VDD_IO
+         2        !CS_MAG
+
+R5       1        SDA/SDI/SDO
+         2        I2C-UP
+
+SJ1      1        I2C-UP
+         2        VDD_IO
+         3        N$2
+
+SJ2      1        VDD_IO
+         2        VCC
+
+STANDOFF1
+STANDOFF2
+TP1      P$1      VDD
+
+U$8     
+U1       1        SCL/SCLK
+         2        !CS_XL
+         3        !CS_MAG
+         4        SDA/SDI/SDO
+         5        N$1
+         6        GND
+         7        INT_MAG
+         8        GND
+         9        VDD
+         10       VDD_IO
+         11       DRDY_MAG
+         12       INT_XL
+
+U2       1        VCC
+         2        GND
+         3        VCC
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6        VDD
+

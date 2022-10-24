@@ -1,0 +1,260 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 23:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        +5V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+CS_JMP   1        D10
+         2        WINC_CS
+         WIRE              *** unconnected ***
+
+D1       A        3.3V
+         C        N$6
+
+D2       A        3.3V
+         C        N$5
+
+D3       A        3.3V
+         C        N$1
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+IC4      1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        3.3V
+
+IRQ_JMP  1        D7
+         2        WINC_IRQ
+         WIRE              *** unconnected ***
+
+JP1      1        WINC_CS
+
+JP2      1        D7
+         2        D6
+         3        D5
+         4        D4
+         5        D3
+         6        D2
+         7        D1
+         8        D0
+
+JP3      1        VIN
+         2        GND
+         3        GND
+         4        +5V
+         5        +3V
+         6        RESET
+         7        VIOREF
+         8        NC
+
+JP4      1        A5
+         2        A4
+         3        A3
+         4        A2
+         5        A1
+         6        A0
+
+JP5      1        SCL
+         2        SDA
+         3        AREF
+         4        GND
+         5        D13
+         6        D12
+         7        D11
+         8        D10
+         9        D9
+         10       D8
+
+JP6      1        WINC_IRQ
+
+JP7      1        WINC_RST
+
+JP8      1        WINC_EN
+
+JP9      1        MISO
+
+JP10     1        SCK
+
+JP11     1        MOSI
+
+JP12     1        SDCS
+
+M1       3V       +3V
+         5V       +5V
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D0       D0
+         D1       D1
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       D8
+         D9       D9
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         GND      GND
+         SCK      SCK_ICSP
+         SCL      SCL
+         SDA      SDA
+         VIN      VIN
+         AREF     AREF
+         MISO     MISO_ICSP
+         MOSI     MOSI_ICSP
+         GND@1    GND
+         GND@2             *** unconnected ***
+         GND@3    GND
+         IOREF    VIOREF
+         RESET    RESET
+         5V_ICSP           *** unconnected ***
+         RESERVED NC
+         RESET_ICS P          *** unconnected ***
+
+R1       1        VIOREF
+         2        WINC_RST
+
+R2       1        N$8
+         2        N$1
+
+R3       1        VIOREF
+         2        WINC_EN
+
+R4       1        GPIO16
+         2        N$5
+
+R5       1        GPIO15
+         2        N$6
+
+R7       1        VIOREF
+         2        WINC_CS
+
+R8       1        SDCS
+         2        VIOREF
+
+RST_JMP  1        D5
+         2        WINC_RST
+         WIRE              *** unconnected ***
+
+SD_JMP   1        D4
+         2        SDCS
+         WIRE              *** unconnected ***
+
+SJ2      1        MISO_ICSP
+         2        MISO
+         WIRE              *** unconnected ***
+
+SJ3      1        SCK_ICSP
+         2        SCK
+         WIRE              *** unconnected ***
+
+SJ4      1        MOSI_ICSP
+         2        MOSI
+         WIRE              *** unconnected ***
+
+SJ5      1        MISO
+         2        D12
+
+SJ6      1        SCK
+         2        D13
+
+SJ7      1        MOSI
+         2        D11
+
+SW2      A        GND
+         B        RESET
+         A'       GND
+         B'       RESET
+
+U$1      J1       N$8
+         J2                *** unconnected ***
+         J3                *** unconnected ***
+         J4       RST_3V
+         J5                *** unconnected ***
+         J6                *** unconnected ***
+         J7                *** unconnected ***
+         J8                *** unconnected ***
+         J9       GND
+         J10      3.3V
+         J11               *** unconnected ***
+         J12      GND
+         J13      WINC_IRQ
+         J14               *** unconnected ***
+         J15      MOSI_3V
+         J16      CS_3V
+         J17      MISO
+         J18      SCK_3V
+         J19               *** unconnected ***
+         J20      3.3V
+         J21               *** unconnected ***
+         J22      EN_3V
+         J23      3.3V
+         J24               *** unconnected ***
+         J25               *** unconnected ***
+         J26      GPIO15
+         J27      GPIO16
+         J28      GND
+         MTGND    GND
+
+U$9     
+U$21    
+U2       1        3.3V
+         2        SCK_3V
+         3        SCK
+         4        CS_3V
+         5        WINC_CS
+         6        MOSI_3V
+         7        MOSI
+         8        GND
+         9        WINC_EN
+         10       EN_3V
+         11       SDCS
+         12       SDCS_3V
+         13                *** unconnected ***
+         14       WINC_RST
+         15       RST_3V
+         16                *** unconnected ***
+
+X1       1                 *** unconnected ***
+         2        SDCS_3V
+         3        MOSI_3V
+         4        3.3V
+         5        SCK_3V
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2               *** unconnected ***
+         MT1      GND
+         MT2      GND
+

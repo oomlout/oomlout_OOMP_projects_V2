@@ -1,0 +1,498 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:08
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V_CONTROLLED
+         2        GND
+
+C2       1        3.3V_CONTROLLED
+         2        GND
+
+C3       1        3.3V_CONTROLLED
+         2        GND
+
+C4       1        3.3V_CONTROLLED
+         2        GND
+
+C5       1        3.3V_CONTROLLED
+         2        GND
+
+C6       1        24MHZ_2
+         2        GND
+
+C7       1        24MHZ_1
+         2        GND
+
+C8       1        32KHZ_1
+         2        GND
+
+C9       1        32KHZ_2
+         2        GND
+
+C10      1        DCDC_IN
+         2        GND
+
+C11      1        N$10
+         2        GND
+
+C12      1        VCC
+         2        GND
+
+C13      1        VCC
+         2        GND
+
+C14      1        DCDC_IN
+         2        GND
+
+C15      1        DCDC_IN
+         2        GND
+
+C16      1        VDD_SOC_IN
+         2        GND
+
+C17      1        VDD_SOC_IN
+         2        GND
+
+C18      1        VDD_SOC_IN
+         2        GND
+
+C19      1        VDD_SOC_IN
+         2        GND
+
+C20      1        VDD_USB_CAP
+         2        GND
+
+C21      1        VDD_USB_CAP
+         2        GND
+
+C22      1        VDD_SNVS_IN
+         2        GND
+
+C23      1        VDD_SNVS_CAP
+         2        GND
+
+C24      1        NVCC_PLL
+         2        GND
+
+C25      1        VDD_HIGH_CAP
+         2        GND
+
+C26      1        NVCC_PLL
+         2        GND
+
+C27      1        VDD_HIGH_CAP
+         2        GND
+
+C28      1        3.3V_CONTROLLED
+         2        GND
+
+C29      1        3.3V_CONTROLLED
+         2        GND
+
+D1       A        N$2
+         C        GND
+
+D2       A        3.3V
+         C        VDD_SNVS_IN
+
+D3       A        V_BATT
+         C        VDD_SNVS_IN
+
+D4       A        VDD_USB_CAP
+         C        VDD_SNVS_IN
+
+D5       A        3.3V_CONTROLLED
+         C        N$13
+
+FB1      1        N$10
+         2        VCC
+
+FB2      1        3.3V_CONTROLLED
+         2        DCDC_IN
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        3.3V
+         3        USB_D+
+         4        GPIO/28/3.3V_EN
+         5        USB_D-
+         6        ON/!OFF!
+         7        GND
+         8        GPIO/27/A13
+         9        V_USB
+         10       D0/4
+         11       PROGRAM
+         12       SDA/18/A4
+         13                *** unconnected ***
+         14       SCL/19/A5
+         15                *** unconnected ***
+         16       I2C_!INT!/29
+         17       TX0/1
+         18       D1/5
+         19       RX0/0
+         20       RX1/16/A2
+         21                *** unconnected ***
+         22       TX1/17/A3
+         23                *** unconnected ***
+         32       PWM0/3
+         33       GND
+         34       A0/14
+         35       USB2_D+
+         36       GND
+         37       USB2_D-
+         38       A1/15
+         39       GND
+         40       GPIO/40
+         41       CAN_RX/30
+         42       GPIO/41
+         43       CAN_TX/31
+         44       GPIO/42
+         45       GND
+         46       GPIO/43
+         47       PWM1/2
+         48       GPIO/44
+         49       BATT_VIN/22/A8
+         50       BCLK/21/A7
+         51       SDA1/25/A11
+         52       LRCLK/20/A6
+         53       SCL1/24/A10
+         54       AUD_IN/8
+         55       CS/10
+         56       AUD_OUT/7
+         57       SCK/13
+         58       MCLK/23/A9
+         59       COPI/11
+         60       36/CLK
+         61       CIPO/12
+         62       37/CMD
+         63       GPIO/33
+         64       35/DAT0
+         65       GPIO/32
+         66       34/DAT1
+         67       GPIO/26/A12
+         68       39/DAT2
+         69       GPIO/9
+         70       38/DAT3
+         71       GPIO/6
+         72       V_BATT
+         73       GPIO/45
+         74       3.3V
+         75       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+
+L2       1        DCDC_LP
+         2        VDD_SOC_IN
+
+LOGO1   
+LOGO2   
+LOGO3   
+MEAS     1        V_USB
+         2        N$10
+
+Q1       1        N$7
+         2        3.3V
+         3        3.3V_CONTROLLED
+
+Q2       1        PMIC
+         2        GND
+         3        N$7
+
+R1       1        N$2
+         2        SCK/13
+
+R2       1        3.3V
+         2        N$7
+
+R4       1        GND
+         2        24MHZ_2
+
+R5       1        GND
+         2        JTAG_TRST
+
+R6       1        3.3V_CONTROLLED
+         2        PMIC
+
+R7       1        N$12
+         2        N$13
+
+TP1      P$1      32KHZ_TEST
+
+TP2      P$1      PMIC
+
+TP3      P$1      VCC
+
+TP4      P$1      VDD_SNVS_IN
+
+TP5      P$1      VDD_SNVS_CAP
+
+TP6      P$1      NVCC_PLL
+
+TP7      P$1      VDD_HIGH_CAP
+
+TP8      P$1      SWD_DIO
+
+TP9      P$1      SWD_CLK
+
+TP10     P$1      VDD_SOC_IN
+
+TP11     P$1      VDD_USB_CAP
+
+TP12     P$1      3.3V_CONTROLLED
+
+TP13     P$1      3.3V
+
+U$1     
+U$3     
+U$4     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U1       A1       GND
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4                *** unconnected ***
+         A5                *** unconnected ***
+         A6                *** unconnected ***
+         A7                *** unconnected ***
+         A8       GPIO/42
+         A9       GPIO/43
+         B1                *** unconnected ***
+         B2                *** unconnected ***
+         B3                *** unconnected ***
+         B4                *** unconnected ***
+         B5       GND
+         B6                *** unconnected ***
+         B7                *** unconnected ***
+         B8       GPIO/41
+         B9       GPIO/44
+         C1                *** unconnected ***
+         C2                *** unconnected ***
+         C3       CAN_TX/31
+         C4                *** unconnected ***
+         C5       I2C_!INT!/29
+         C6                *** unconnected ***
+         C7                *** unconnected ***
+         C8       GPIO/40
+         C9       GPIO/45
+         D1                *** unconnected ***
+         D2                *** unconnected ***
+         D3                *** unconnected ***
+         D4                *** unconnected ***
+         D5       GPIO/28/3.3V_EN
+         D6                *** unconnected ***
+         D7       CS/10
+         D8       SCK/13
+         D9       GPIO/6
+         E1                *** unconnected ***
+         E2       GND
+         E3                *** unconnected ***
+         E4       CAN_RX/30
+         E5                *** unconnected ***
+         E6       3.3V_CONTROLLED
+         E7       CIPO/12
+         E8       COPI/11
+         E9       3.3V_CONTROLLED
+         F1                *** unconnected ***
+         F2       PWM1/2
+         F3       DEBUG_EN
+         F4                *** unconnected ***
+         F5       3.3V_CONTROLLED
+         F6       VDD_SOC_IN
+         F7       VDD_SOC_IN
+         F8       VDD_SOC_IN
+         F9       VDD_SOC_IN
+         G1                *** unconnected ***
+         G2                *** unconnected ***
+         G3                *** unconnected ***
+         G4                *** unconnected ***
+         G5       PWM0/3
+         G6       VDD_SOC_IN
+         G7       GND
+         G8       GND
+         G9       VDD_SOC_IN
+         H1                *** unconnected ***
+         H2       39/DAT2
+         H3       D1/5
+         H4       GPIO/33
+         H5       D0/4
+         H6       VDD_SOC_IN
+         H7       GND
+         H8       GND
+         H9       VDD_SOC_IN
+         J1       35/DAT0
+         J2       38/DAT3
+         J3       36/CLK
+         J4       37/CMD
+         J5       VDD_SOC_IN
+         J6       3.3V_CONTROLLED
+         J7       GND
+         J8       GND
+         J9       VDD_SOC_IN
+         K1       34/DAT1
+         K2       GND
+         K3       JTAG_TRST
+         K4       3.3V_CONTROLLED
+         K5       3.3V_CONTROLLED
+         K6       GND
+         K7       PMIC
+         K8       VDD_USB_CAP
+         K9       GND
+         L1       DCDC_IN
+         L2       DCDC_IN
+         L3       QSPI-CS
+         L4       QSPI-CLK
+         L5                *** unconnected ***
+         L6                *** unconnected ***
+         L7                *** unconnected ***
+         L8       USB_D+
+         L9       GND
+         M1       DCDC_LP
+         M2       DCDC_LP
+         M3                *** unconnected ***
+         M4                *** unconnected ***
+         M5                *** unconnected ***
+         M6       ON/!OFF!
+         M7       PORB_RESET
+         M8       USB_D-
+         M9       VDD_SNVS_IN
+         N1       GND
+         N2       GND
+         N3                *** unconnected ***
+         N4       QSPI1
+         N5       GND
+         N6       VCC
+         N7       USB2_D-
+         N8       GND
+         N9       32KHZ_1
+         P1       GND
+         P2                *** unconnected ***
+         P3       QSPI0
+         P4       QSPI2
+         P5       QSPI3
+         P6       VCC
+         P7       USB2_D+
+         P8       VDD_HIGH_CAP
+         P9       32KHZ_2
+         A10      GPIO/9
+         A11      AUD_IN/8
+         A12               *** unconnected ***
+         A13               *** unconnected ***
+         A14      GND
+         B10      GND
+         B11      AUD_OUT/7
+         B12               *** unconnected ***
+         B13               *** unconnected ***
+         B14               *** unconnected ***
+         C10      GPIO/32
+         C11               *** unconnected ***
+         C12               *** unconnected ***
+         C13               *** unconnected ***
+         C14               *** unconnected ***
+         D10      DEBUG_SWO
+         D11               *** unconnected ***
+         D12               *** unconnected ***
+         D13               *** unconnected ***
+         D14               *** unconnected ***
+         E10               *** unconnected ***
+         E11               *** unconnected ***
+         E12               *** unconnected ***
+         E13      GND
+         E14      JTAG_TMS
+         F10      3.3V_CONTROLLED
+         F11      BOOTMODE0
+         F12      JTAG_TCK
+         F13      JTAG_MOD
+         F14      JTAG_TDI
+         G10      JTAG_TRST
+         G11      RX0/0
+         G12      GPIO/26/A12
+         G13      JTAG_TDO
+         G14      GND
+         H10               *** unconnected ***
+         H11               *** unconnected ***
+         H12               *** unconnected ***
+         H13      BATT_VIN/22/A8
+         H14               *** unconnected ***
+         J10      3.3V_CONTROLLED
+         J11      SCL/19/A5
+         J12      TX1/17/A3
+         J13      BCLK/21/A7
+         J14      GPIO/27/A13
+         K10      RX1/16/A2
+         K11      SDA/18/A4
+         K12               *** unconnected ***
+         K13      GND
+         K14      SCL1/24/A10
+         L10               *** unconnected ***
+         L11      A0/14
+         L12               *** unconnected ***
+         L13      LRCLK/20/A6
+         L14      SDA1/25/A11
+         M10      VDD_SNVS_CAP
+         M11      TX0/1
+         M12      A1/15
+         M13      MCLK/23/A9
+         M14      32KHZ_TEST
+         N10               *** unconnected ***
+         N11      24MHZ_1
+         N12               *** unconnected ***
+         N13               *** unconnected ***
+         N14      3.3V_CONTROLLED
+         P10      NVCC_PLL
+         P11      24MHZ_2
+         P12      3.3V_CONTROLLED
+         P13               *** unconnected ***
+         P14      GND
+
+U3       1        3.3V_CONTROLLED
+         2        GND
+         3        JTAG_TRST
+         4        BOOTMODE0
+         5        JTAG_TMS
+         6        JTAG_TDO
+         7        JTAG_TDI
+         8        JTAG_TCK
+         9        PORB_RESET
+         10       PROGRAM
+         11       N$12
+         12       DEBUG_SWO
+         13       JTAG_MOD
+         14       SWD_CLK
+         15       DEBUG_EN
+         16       SWD_DIO
+         17       GND
+
+U4       1        QSPI-CS
+         2        QSPI1
+         3        QSPI2
+         4        GND
+         5        QSPI0
+         6        QSPI-CLK
+         7        QSPI3
+         8        3.3V_CONTROLLED
+
+Y1       P$1      32KHZ_1
+         P$2      32KHZ_2
+
+Y2       1        24MHZ_2
+         2                 *** unconnected ***
+         3        24MHZ_1
+         4                 *** unconnected ***
+

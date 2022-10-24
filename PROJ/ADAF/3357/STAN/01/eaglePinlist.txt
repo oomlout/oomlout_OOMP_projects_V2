@@ -1,0 +1,242 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 22:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       +        RIGHT_FILTERED
+         -        R_OUT
+
+C2       +        LEFT_FILTERED
+         -        L_OUT
+
+C3       1        N$3
+         2        AGND
+
+C4       1        N$2
+         2        GND
+
+C5       1        N$1
+         2        GND
+
+C6       1        1.8V
+         2        GND
+
+C8       1        AVDD
+         2        AGND
+
+C19      1        3.3V
+         2        GND
+
+C20      1        3.3V
+         2        GND
+
+C21      1        N$5
+         2        AGND
+
+C22      1        N$6
+         2        AGND
+
+C26      1        MP3RST
+         2        GND
+
+CN1      1                 *** unconnected ***
+         2        SD_CS
+         3        MOSI
+         4        3.3V
+         5        SCLK
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2               *** unconnected ***
+         MT1      GND
+         MT2      GND
+
+FB1      1        3.3V
+         2        AVDD
+
+FB2      1        GND
+         2        AGND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        VBAT
+         2        N$4
+         3        USB
+         4        N$7
+         5        N$8
+         6        N$9
+         7        XDCS
+         8        DREQ
+         9        MP3CS
+         10       SD_CS
+         11       N$10
+         12       N$11
+
+JP2      1        R_OUT
+         2        AGND
+
+JP3      1        N$12
+         2        MP3_RX
+         3        N$13
+         4        MISO
+         5        MOSI
+         6        SCLK
+         7        N$14
+         8        N$15
+         9        N$16
+         10       N$17
+         11       N$18
+         12       N$19
+         13       GND
+
+JP4      1        L_OUT
+         2        AGND
+
+JP5      1        MP3RST
+
+MIDI     1        3.3V
+         2        GPIO1
+
+MS1      1        !RESET
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+         5        N$19
+         6        N$18
+         7        N$17
+         8        N$16
+         9        N$15
+         10       N$14
+         11       SCLK
+         12       MOSI
+         13       MISO
+         14       N$13
+         15       MP3_RX
+         16       N$12
+         17       N$11
+         18       N$10
+         19       SD_CS
+         20       MP3CS
+         21       DREQ
+         22       XDCS
+         23       N$9
+         24       N$8
+         25       N$7
+         26       USB
+         27       N$4
+         28       VBAT
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+
+R1       1        N$1
+         2        N$2
+
+R2       1        AVDD
+         2        MP3RST
+
+R3       1        LEFT
+         2        N$5
+
+R4       1        RIGHT
+         2        N$6
+
+R6       1        RIGHT_FILTERED
+         2        RIGHT
+
+R7       1        LEFT_FILTERED
+         2        LEFT
+
+R16      1        SD_CS
+         2        MP3CS
+         3        GPIO1
+         4        GPIO0
+         5        GND
+         6        GND
+         7        3.3V
+         8        3.3V
+
+RST      1        MP3RST
+         2        !RESET
+         WIRE              *** unconnected ***
+
+SW1      A        AGND
+         B        !RESET
+         A'       AGND
+         B'       !RESET
+
+U$36    
+U$37    
+U$43    
+U$55    
+U1       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        MP3RST
+         4        GND
+         5        1.8V
+         6        3.3V
+         7        1.8V
+         8        DREQ
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       XDCS
+         14       3.3V
+         15       CLKOUT
+         16       GND
+         17       N$1
+         18       N$2
+         19       3.3V
+         20       GND
+         21       GND
+         22       GND
+         23       MP3CS
+         24       1.8V
+         25                *** unconnected ***
+         26       MP3_RX
+         27       TX
+         28       SCLK
+         29       MOSI
+         30       MISO
+         31       1.8V
+         32       3.3V
+         33       GPIO0
+         34       GPIO1
+         35       GND
+         36                *** unconnected ***
+         37       AGND
+         38       AVDD
+         39       RIGHT
+         40       AGND
+         41       AGND
+         42                *** unconnected ***
+         43       AVDD
+         44       N$3
+         45       AVDD
+         46       LEFT
+         47       AGND
+         48                *** unconnected ***
+
+U2       1        3.3V
+         2        GND
+         3        3.3V
+         4        3.3V
+         5        3.3V
+         6        1.8V
+
+X1       1-GND    AGND
+         2-TIP    L_OUT
+         3-OUTER_S LEEVE R_OUT
+         4-INNER_S LEEVE          *** unconnected ***
+
+Y1       1        N$1
+         2        N$2
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+

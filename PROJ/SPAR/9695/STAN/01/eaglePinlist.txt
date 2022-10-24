@@ -1,0 +1,89 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 23:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VREG
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+FRAME1  
+IC1      1        ~IRQ
+         2        SCL
+         3        SDA
+         4        ADDR
+         5        VREG
+         6        GND
+         7        REXT
+         8        ELE0
+         9        ELE1
+         10       ELE2
+         11       ELE3
+         12       ELE4
+         13       ELE5
+         14       ELE6
+         15       ELE7
+         16       ELE8
+         17       ELE9
+         18       ELE10
+         19       ELE11
+         20       3.3V
+
+JP1      1        ADDR
+
+JP2      1        ~IRQ
+         2        SCL
+         3        SDA
+
+JP3      1        ELE11
+         2        ELE10
+         3        ELE9
+         4        ELE8
+         5        ELE7
+         6        ELE6
+         7        ELE5
+         8        ELE4
+         9        ELE3
+         10       ELE2
+         11       ELE1
+         12       ELE0
+
+JP4      1        3.3V
+
+JP5      1        GND
+
+JP6     
+JP7     
+JP8      1                 *** unconnected ***
+
+JP9      1                 *** unconnected ***
+
+R1       1        GND
+         2        REXT
+
+R2       1        SDA_PU
+         2        3.3V
+
+R3       1        SCL_PU
+         2        3.3V
+
+R4       1        ~IRQ_PU
+         2        3.3V
+
+SJ1      1        GND
+         2        ADDR
+
+SJ2      1        SDA
+         2        SDA_PU
+
+SJ3      1        SCL
+         2        SCL_PU
+
+SJ4      1        ~IRQ
+         2        ~IRQ_PU
+

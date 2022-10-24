@@ -1,0 +1,208 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 22:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        3.3V
+         C        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       A        VIN
+         C        GND
+
+C4       1        N$28
+         2        GND
+
+D1       A        N$7
+         C        LED_2
+
+D2       A        N$6
+         C        LED_0
+
+D3       A        N$2
+         C        LED_1
+
+D4       A        V_BAT
+         C        VIN
+
+D5       A        V_FTDI
+         C        VIN
+
+D6       A        V_USB
+         C        VIN
+
+FRAME1  
+JP1      CTS      5V_CTS
+         DTR      5V_RTS
+         GND      GND
+         RXI      5V_RX
+         TXO      5V_TX
+         VCC      V_FTDI
+
+JP2      1        LED_2
+         2        LED_1
+         3        LED_0
+         4        CAP_SENSE_1
+         5        CAP_SENSE_4
+         6        CAP_SENSE_3
+         7        CAP_SENSE_2
+         8        AIO_1
+         9        PIO_6
+         10       PIO_7
+         11       PIO_0
+         12       PIO_1
+         13       PIO_5
+         14       PIO_4
+         15       PIO_3
+         16       PIO_2
+
+JP3      1        !RESET
+         2        PCM_IN/MOSI
+         3        PCM_OUT/MISO
+         4        PCM_CLK/CLK
+         5        PCM_SYNC/CSB
+         6        SPI_!PCM
+         7        RTS
+         8        RX
+         9        TX
+         10       CTS
+         11       GND
+         12       USB_P
+         13       USB_N
+         14       V_USB
+         15       VREGEN
+
+JP4      1        SPKR_LN
+         2        SPKR_LP
+         3        SPKR_RN
+         4        SPKR_RP
+         5        GND
+         6        3.3V
+
+JP5      1        GND
+         2        MIC_LP
+         3        MIC_LN
+         4        MIC_RP
+         5        MIC_RN
+         6        MIC_BIAS_A
+
+JP6      1        V_BAT
+         2        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+Q1       1        3.3V
+         2        TX
+         3        5V_TX
+
+Q2       1        3.3V
+         2        RTS
+         3        5V_RTS
+
+Q3       1        CHG_EXT
+         2        VIN
+         3        VBAT_SENSE
+
+R1       1        TX
+         2        3.3V
+
+R2       1        N$7
+         2        3.3V
+
+R3       1        N$2
+         2        3.3V
+
+R4       1        N$6
+         2        3.3V
+
+R5       1        5V_TX
+         2        VIN
+
+R6       1        RTS
+         2        3.3V
+
+R7       1        5V_RTS
+         2        VIN
+
+R8       1        RX
+         2        5V_RX
+
+R9       1        CTS
+         2        5V_CTS
+
+R10      1        !RESET
+         2        3.3V
+
+R11      1        V_BAT
+         2        VBAT_SENSE
+
+R12      1        N$28
+         2        V_BAT
+
+R13      1        SPI_!PCM
+         2        3.3V
+
+U1       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        PIO_6
+         6        PIO_7
+         7        CAP_SENSE_1
+         8        CAP_SENSE_4
+         9        CAP_SENSE_3
+         10       CAP_SENSE_2
+         11       GND
+         12       AIO_1
+         13       SPKR_LN
+         14       SPKR_LP
+         15       SPKR_RN
+         16       SPKR_RP
+         17       MIC_BIAS_A
+         18       MIC_RN
+         19       MIC_RP
+         20       MIC_LN
+         21       MIC_LP
+         22       GND
+         23       PIO_0
+         24       PIO_1
+         25       PIO_5
+         26       PIO_4
+         27       GND
+         28       VREGEN
+         29       CHG_EXT
+         30       VIN
+         31       VBAT_SENSE
+         32       V_BAT
+         33       3.3V
+         34                *** unconnected ***
+         35       USB_N
+         36       USB_P
+         37       LED_0
+         38       LED_1
+         39       LED_2
+         40       CTS
+         41       TX
+         42       RX
+         43       RTS
+         44       !RESET
+         45       SPI_!PCM
+         46       PCM_SYNC/CSB
+         47       PCM_CLK/CLK
+         48       PCM_OUT/MISO
+         49       PCM_IN/MOSI
+         50       PIO_2
+         51       PIO_3
+
+U2       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+

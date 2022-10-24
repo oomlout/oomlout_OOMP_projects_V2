@@ -1,0 +1,335 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 02:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        !RESET
+         2        GND
+
+C2       1        N$8
+         2        N$6
+         3        N$7
+         4        N$5
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+
+C3       1        VBAT
+         2        GND
+
+C4       1        +3V3
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VHI
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C9       1        VCAP1
+         2        GND
+
+C10      1        +3V3
+         2        GND
+
+C11      1        +3V3
+         2        GND
+
+C12      1        VCAP2
+         2        GND
+
+C13      1        AVCC
+         2        GND
+
+C14      1        +3V3
+         2        GND
+
+C15      1        AVCC
+         2        GND
+
+C16      1        +3V3
+         2        GND
+
+C17      1        V_DIV
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+CONN1    1        GND
+         2        +3V3
+         3        SDA
+         4        SCL
+         MT1      GND
+         MT2      GND
+
+D+       TP       D+
+
+D-       TP       D-
+
+D4       A        VBUS
+         C        VHI
+
+FB2      1        +3V3
+         2        AVCC
+
+JP1      1        BOOT0
+         2        TX_D1
+         3        RX_D0
+         4        MISO
+         5        MOSI
+         6        SCK
+         7        A5
+         8        A4
+         9        A3
+         10       A2
+         11       A1
+         12       A0
+         13       GND
+         14       +3V3
+         15       +3V3
+         16       !RESET
+
+JP3      1        VBAT
+         2        EN
+         3        VBUS
+         4        D13
+         5        D12
+         6        D11
+         7        D10
+         8        D9
+         9        D6
+         10       D5
+         11       SCL
+         12       SDA
+
+L        A        N$2
+         C        GND
+
+LED1     1        D8_NEOPIX
+         2        +3V3
+         3                 *** unconnected ***
+         4        GND
+
+Q3       1        VBUS
+         2        VHI
+         3        VBAT
+
+R1       1        SDA
+         2        SCL
+         3        SDIO_D3
+         4        FLASH_CS
+         5        +3V3
+         6        +3V3
+         7        +3V3
+         8        +3V3
+
+R2       1        N$1
+         2        N$3
+
+R3       1        EN
+         2        VHI
+
+R4       1        BOOT0
+         2        GND
+
+R5       1        GND
+         2        CC2
+
+R6       1        GND
+         2        CC1
+
+R7       1        D13
+         2        N$2
+
+R8       1        N$4
+         2        GND
+
+R9       1        V_DIV
+         2        V_DIV
+         3        GND
+         4        FLASH_MOSI
+         5        GND
+         6        VBUS
+         7        GND
+         8        VBAT
+
+R10      1        +3V3
+         2        RX_D0
+
+SW1      A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+TP1      P$1      SWDIO
+
+TP2      P$1      SWCLK
+
+TP3      P$1      BATTERY
+
+U$3      1        BATTERY
+         2                 *** unconnected ***
+         3        N$5
+         4        N$7
+         5        N$6
+         6        N$8
+         7        !RESET
+         8        D8_NEOPIX
+         9        D13
+         10       D12
+         11       D11
+         12       GND
+         13       AVCC
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       V_DIV
+         18       GND
+         19       +3V3
+         20       A0
+         21       A1
+         22       A2
+         23       A3
+         24       A4
+         25       A5
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28       GND
+         29       TX_D1
+         30       RX_D0
+         31       VCAP1
+         32       +3V3
+         33       SD_DETECT
+         34       SCK
+         35       MISO
+         36       MOSI
+         37       D6
+         38       D5
+         39       SDIO_D0
+         40       SDIO_D1
+         41                *** unconnected ***
+         42       +3V3
+         43       +3V3
+         44       D-
+         45       D+
+         46       SWDIO
+         47       VCAP2
+         48       +3V3
+         49       SWCLK
+         50       FLASH_CS
+         51       SDIO_D2
+         52       SDIO_D3
+         53       SDIO_CLK
+         54       SDIO_CMD
+         55       FLASH_SCK
+         56       FLASH_MISO
+         57       FLASH_MOSI
+         58       SCL
+         59       SDA
+         60       BOOT0
+         61       D9
+         62       D10
+         63       GND
+         64       +3V3
+
+U$5      1                 *** unconnected ***
+
+U$13    
+U$24    
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U$37     1                 *** unconnected ***
+
+U$40    
+U1       1        FLASH_CS
+         2        FLASH_MISO
+         3        +3V3
+         4        GND
+         5        FLASH_MOSI
+         6        FLASH_SCK
+         7        +3V3
+         8        +3V3
+
+U2       1        VHI
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        N$3
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        N$4
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X2       P$1      N$5
+         P$2      N$7
+
+X3       1        +3V3
+         2        SWDIO
+         3        GND
+         4        SWCLK
+         5        GND
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET
+
+X5       1        SDIO_D2
+         2        SDIO_D3
+         3        SDIO_CMD
+         4        +3V3
+         5        SDIO_CLK
+         6        GND
+         7        SDIO_D0
+         8        SDIO_D1
+         CD1      GND
+         CD2      SD_DETECT
+         MT1      GND
+         MT2      GND
+
+X6       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+         M3                *** unconnected ***
+         M4                *** unconnected ***
+         A4B9     VBUS
+         B4A9     VBUS
+         A1B12    GND
+         B1A12    GND
+
+Y1       1        N$8
+         2                 *** unconnected ***
+         3        N$6
+         4                 *** unconnected ***
+

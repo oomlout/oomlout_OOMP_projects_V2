@@ -1,0 +1,170 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 09:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C3       1        VCC
+         2        GND
+
+C4       1        COMMON
+         2        VCC
+
+C5       1        VCC
+         2        GND
+
+C6       1        COMMON
+         2        VCC
+
+C7       1        VCC
+         2        GND
+
+C8       1        VCC
+         2        GND
+
+D1       A        N$7
+         C        COMMON
+
+D2       A        N$12
+         C        COMMON
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FRAME1  
+JP1      1                 *** unconnected ***
+         2        UART_RX
+         3        UART_TX
+         4        VCC
+         5        GND
+         6        GND
+
+JP2      1        ICSPCLK/DATA_RDY
+         2        I2C_SCL
+         3        I2C_SDA
+         4        VCC
+         5        GND
+
+LOGO1   
+LOGO2   
+Q1       1        N$3
+         2        N$2
+         3        COMMON
+
+Q2       1        N$5
+         2        GND
+         3        N$4
+
+R1       1        ICSPDAT/DACOUT
+         2        N$1
+
+R2       1        N$1
+         2        GND
+
+R3       1        N$4
+         2        N$2
+
+R4       1        CARRIER
+         2        N$5
+
+R5       1        N$8
+         2        VCC
+
+R6       1        N$6
+         2        N$7
+
+R7       1        N$9
+         2        VCC
+
+R8       1        N$11
+         2        N$12
+
+R9       1        RECEIVER
+         2        VCC
+
+R10      1        I2C_SDA
+         2        N$10
+
+R11      1        I2C_SCL
+         2        N$13
+
+R12      1        GND
+         2        I2C_ADDR
+
+R13      1        N$15
+         2        EM1
+
+R14      1        N$19
+         2        EM2
+
+SJ1      1        N$13
+         2        VCC
+         3        N$10
+
+SJ2      1        I2C_ADDR
+         2        VCC
+
+STANDOFF1
+STANDOFF2
+TP1      P$1      MCLR
+
+TP2      P$1      VCC
+
+TP3      P$1      GND
+
+TP4      P$1      ICSPDAT/DACOUT
+
+TP5      P$1      ICSPCLK/DATA_RDY
+
+U$5     
+U$6     
+U1       1        VCC
+         2        EM2
+         3        EM1
+         4        MCLR
+         5        UART_TX
+         6        UART_RX
+         7        I2C_ADDR
+         8        CARRIER
+         9        I2C_SDA
+         10       I2C_SCL
+         11       RECEIVER
+         12       ICSPCLK/DATA_RDY
+         13       ICSPDAT/DACOUT
+         14       GND
+
+U2       1        N$3
+         2        GND
+         3        N$1
+         4        N$2
+         5        VCC
+
+U3       D1       N$8
+         D2       N$6
+         G1       N$15
+         G2       N$8
+         S1       GND
+         S2       VCC
+
+U4       D1       N$9
+         D2       N$11
+         G1       N$19
+         G2       N$9
+         S1       GND
+         S2       VCC
+
+U5       1        RECEIVER
+         5        VCC
+         6        GND
+         8        GND
+

@@ -1,0 +1,187 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 00:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VDDCORE
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VHI
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C14      1        AREF
+         2        GND
+
+D1       A        VBAT
+         C        VHI
+
+D2       A        VBUS
+         C        VHI
+
+IC1      1        GND
+         2        D5
+         3        GND
+         4        D5_5V
+         5        VHI
+
+JP1      1        EN
+         2        SWDIO
+         3        SWCLK
+         4        D3
+         5        D4
+
+JP2      1        VBAT
+         2        GND
+         3        VBUS
+         4        D13
+         5        D12
+         6        D11
+         7        D10
+         8        D9
+         9        D7
+         10       D5_5V
+         11       SCL
+         12       SDA
+         13       D1
+         14       D0
+
+JP4      1        D2
+         2        MISO
+         3        MOSI
+         4        SCK
+         5        A5
+         6        A4
+         7        A3
+         8        A2
+         9        A1
+         10       A0
+         11       VHI
+         12       AREF
+         13       +3V3
+         14       !RESET
+
+L        A        N$2
+         C        GND
+
+L2       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        +3V3
+         4        GND
+         5        N$1
+         6        N$5
+
+R1       1        VHI
+         2        EN
+
+R2       1        +3V3
+         2        FLASH_CS
+
+R7       1        D13
+         2        N$2
+
+SW1      1        !RESET
+         2        GND
+         3        !RESET
+         4        GND
+
+U$4      1        N$1
+         2        N$5
+         3        A0
+         4        AREF
+         5        GND
+         6        +3V3
+         7        A1
+         8        A2
+         9        A3
+         10       A4
+         11       D8
+         12       D9
+         13       D4
+         14       D3
+         15       D1
+         16       D0
+         17       +3V3
+         18       GND
+         19       MOSI
+         20       SCK
+         21       MISO
+         22                *** unconnected ***
+         23       D2
+         24       D5
+         25       D11
+         26       D13
+         27       D10
+         28       D12
+         29       D6
+         30       D7
+         31       SDA
+         32       SCL
+         33       D-
+         34       D+
+         35       GND
+         36       +3V3
+         37       FLASH_MOSI
+         38       FLASH_SCK
+         39       FLASH_CS
+         40       !RESET
+         41                *** unconnected ***
+         42       GND
+         43       VDDCORE
+         44       +3V3
+         45       SWCLK
+         46       SWDIO
+         47       A5
+         48       FLASH_MISO
+         THERMAL  GND
+
+U$13    
+U$14    
+U$15    
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        FLASH_CS
+         2        FLASH_MISO
+         3        +3V3
+         4        GND
+         5        FLASH_MOSI
+         6        FLASH_SCK
+         7        +3V3
+         8        +3V3
+
+U2       1        VHI
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

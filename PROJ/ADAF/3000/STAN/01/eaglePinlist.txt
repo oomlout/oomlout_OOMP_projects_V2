@@ -1,0 +1,348 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 20:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3.3VTAP  P$1      3.3V
+
+3V3TAP2  P$1      3.3V
+
+BATT     1        GND
+         2        N$7
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+C1       1        SOUNDOUT
+         2        N$15
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        VCC
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        N$6
+         2        GND
+
+CN1      D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     +5V
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+D1       A        +5V
+         C        VCC
+
+D2       A        N$7
+         C        VCC
+
+D4       A        N$24
+         C        3.3V
+
+D6       P$1      D6
+
+GND3TAP  P$1      GND
+
+GNDTAP   P$1      GND
+
+GNDTAP2  P$1      GND
+
+IC1      1        D7_LISINT
+         2                 *** unconnected ***
+         3        N$3
+         4        N$4
+         5        GND
+         6        3.3V
+         7        +5V
+         8        NEOPIX
+         9        SCK
+         10       MOSI
+         11       MISO
+         12       D11
+         13       RST
+         14       3.3V
+         15       GND
+         16       N$9
+         17       N$8
+         18       D3_SCL
+         19       D2_SDA
+         20       D0/RX
+         21       D1/TX
+         22       TXLED
+         23       GND
+         24       3.3V
+         25       LEFTBUTTON
+         26       D12
+         27       D6
+         28       D8
+         29       D9
+         30       D10
+         31       SPEAKER
+         32       D13
+         33       GND
+         34       3.3V
+         35       GND
+         36       A0_TEMP_SENSE
+         37       A1_RIGHTBUTTON
+         38       A2
+         39       A3_SWITCH
+         40       A4_SOUND_SENSE
+         41       A5_LIGHT_SENSE
+         42       AREF
+         43       GND
+         44       3.3V
+         THERMAL           *** unconnected ***
+
+IC2      1        A4_SOUND_SENSE
+         2        N$2
+         3        VCC/2
+         4        GND
+         5        N$6
+         6        VCC/2
+         7        VCC/2
+         8        3.3V
+
+IC4      1        3.3V
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        SCK
+         5        GND
+         6        MOSI
+         7        MISO
+         8        D8
+         9                 *** unconnected ***
+         10       GND
+         11       D7_LISINT
+         12       GND
+         13       3.3V
+         14       3.3V
+         15       3.3V
+         16       3.3V
+
+IO9      P$1      D9
+
+IO10     P$1      D10
+
+IO12     P$1      D12
+
+L        A        N$10
+         C        GND
+
+LED1     1        N$11
+         2        3.3V
+         3        N$12
+         4        GND
+
+LED2     1        N$13
+         2        3.3V
+         3        N$11
+         4        GND
+
+LED3     1        N$12
+         2        3.3V
+         3        N$19
+         4        GND
+
+LED4     1        N$19
+         2        3.3V
+         3        N$20
+         4        GND
+
+LED5     1        N$20
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+
+LED6     1        NEOPIX
+         2        3.3V
+         3        N$14
+         4        GND
+
+LED7     1        N$14
+         2        3.3V
+         3        N$16
+         4        GND
+
+LED8     1        N$16
+         2        3.3V
+         3        N$17
+         4        GND
+
+LED9     1        N$17
+         2        3.3V
+         3        N$18
+         4        GND
+
+LED10    1        N$18
+         2        3.3V
+         3        N$13
+         4        GND
+
+PWR      A        N$1
+         C        GND
+
+Q1       1        N$25
+         2        GND
+         3        N$24
+
+R1       1        D-
+         2        N$3
+
+R2       1        D+
+         2        N$4
+
+R3       1        N$1
+         2        3.3V
+
+R4       1        GND
+         2        A5_LIGHT_SENSE
+
+R5       1        D13
+         2        N$10
+
+R6       1        3.3V
+         2        D8
+
+R7       1        GND
+         2        A0_TEMP_SENSE
+
+R8       1        N$15
+         2        N$2
+
+R9       1        A4_SOUND_SENSE
+         2        N$2
+
+R10      1        N$6
+         2        GND
+
+R11      1        3.3V
+         2        N$6
+
+R13      1        GND
+         2        A1_RIGHTBUTTON
+
+R14      1        GND
+         2        LEFTBUTTON
+
+R15      1        TXLED
+         2        TXLED
+         3        TXLED
+         4        TXLED
+         5        D1/TX
+         6        D0/RX
+         7        D2_SDA
+         8        D3_SCL
+
+R21      1        N$25
+         2        SPEAKER
+
+R22      1        TXLED
+         2        TXLED
+         3        TXLED
+         4        TXLED
+         5        D10
+         6        D12
+         7        D6
+         8        D9
+
+RESET    A        RST
+         B        GND
+         A'       RST
+         B'       GND
+
+RX       P$1      D0/RX
+
+SCL      P$1      D3_SCL
+
+SDA      P$1      D2_SDA
+
+SP1      +        N$24
+         -        3.3V
+         MT                *** unconnected ***
+
+SW1      A        LEFTBUTTON
+         B        3.3V
+         A'       LEFTBUTTON
+         B'       3.3V
+
+SW2      A        A1_RIGHTBUTTON
+         B        3.3V
+         A'       A1_RIGHTBUTTON
+         B'       3.3V
+
+SWITCH   O1       3.3V
+         O2       3.3V
+         P1       A3_SWITCH
+         P2                *** unconnected ***
+         S1       GND
+         S2       GND
+
+THM1     1        A0_TEMP_SENSE
+         2        3.3V
+
+TP1      P$1      MISO
+
+TP2      P$1      SCK
+
+TP3      P$1      RST
+
+TP4      P$1      MOSI
+
+TX       P$1      D1/TX
+
+U$1     
+U$2      1                 *** unconnected ***
+
+U$3      1                 *** unconnected ***
+
+U$4     
+U$6      1                 *** unconnected ***
+
+U$7     
+U$34    
+U$35    
+U$46    
+U1       1        SOUNDOUT
+         2        GND
+         3        GND
+         4        3.3V
+
+U2       C        3.3V
+         E        A5_LIGHT_SENSE
+
+U3       1        VCC
+         2        GND
+         3        VCC
+         4                 *** unconnected ***
+         5        3.3V
+
+VCC2     P$1      VCC
+
+Y1       1        N$8
+         2        GND
+         3        N$9
+

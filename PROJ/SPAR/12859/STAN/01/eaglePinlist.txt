@@ -1,0 +1,200 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 16:25
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3/5V     1        N$4
+         2        GND
+
+APWR     1        5V_ALT
+         2        VCC
+
+C1       1        V+
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C6       1        N$8
+         2        N$9
+
+C7       1        VCC
+         2        GND
+
+C8       1        V+
+         2        GND
+
+C9       1        V+
+         2        GND
+
+C10      1        N$20
+         2        GND
+
+C11      1        N$21
+         2        V+
+
+C14      +        V+
+         -        GND
+
+D1       A        N$1
+         C        V+
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+IC1      P$1      COILB+
+         P$2      ENABLE
+         P$3      GND
+         P$4      N$8
+         P$5      N$9
+         P$6      N$21
+         P$7      N$5
+         P$8      N$20
+         P$9      MS1
+         P$10     MS2
+         P$11     MS3
+         P$12     RESET
+         P$13     N$19
+         P$14     SLEEP
+         P$15     VCC
+         P$16     STEP
+         P$17     CUR_REF
+         P$18     GND
+         P$19     DIR
+         P$20     N$7
+         P$21     COILA+
+         P$22     V+
+         P$23     N$32
+         P$24     COILA-
+         P$25     N$10
+         P$26     COILB-
+         P$27     N$31
+         P$28     V+
+         P$29     GND
+
+IC2      IN       V+
+         ADJ      N$6
+         OUT      5V_ALT
+         OUT@1    5V_ALT
+
+JP1      1        GND
+         2        N$1
+
+JP3      1        COILB+
+         2        COILB-
+         3        COILA-
+         4        COILA+
+
+JP5      1        COILB+
+         2        COILB-
+         3        COILA-
+         4        COILA+
+
+JP6      1        ENABLE
+         2        MS1
+
+JP7      1        GND
+         2        N$1
+
+JP8     
+JP9     
+JP10     1        MS2
+         2        MS3
+         3        RESET
+         4        SLEEP
+
+JP11     1        MS2
+         2        MS3
+         3        RESET
+         4        SLEEP
+
+JP12     1        VCC
+         2        GND
+         3        STEP_IN
+         4        DIR_IN
+
+JP13     1        ENABLE
+         2        MS1
+
+JP14     1        VCC
+         2        GND
+         3        STEP_IN
+         4        DIR_IN
+
+LOGO1   
+PWR_LED  A        N$2
+         C        GND
+
+R1       1        MS1
+         2        VCC
+
+R2       1        MS2
+         2        VCC
+
+R3       1        MS3
+         2        VCC
+
+R4       1        SLEEP
+         2        VCC
+
+R5       1        RESET
+         2        VCC
+
+R6       1        N$4
+         2        N$6
+
+R7       1        GND
+         2        N$4
+
+R8       1        N$6
+         2        5V_ALT
+
+R9       1        N$2
+         2        VCC
+
+R10      1        ENABLE
+         2        GND
+
+R11      1        DIR
+         2        VCC
+
+R12      1        STEP
+         2        VCC
+
+R13      1        VCC
+         2        N$3
+
+R14      1        DIR_IN
+         2        DIR
+
+R15      1        STEP_IN
+         2        STEP
+
+R16      1        N$3
+         2        CUR_REF
+         3        GND
+
+R18      1        GND
+         2        N$31
+
+R19      1        GND
+         2        N$32
+
+R20      1        N$19
+         2        GND
+
+TP1      TP       CUR_REF
+
+U$1     
+U$2     
+U$3      P$1      N$5
+
+U$4      P$1      N$7
+
+U$5      P$1      N$10
+

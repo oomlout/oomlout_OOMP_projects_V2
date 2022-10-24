@@ -1,0 +1,479 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 23:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+B1       +        D3
+         -        GND
+
+C2       1        GND
+         2        3.3V
+
+C3       1        GND
+         2        3.3V
+
+C4       1        GND
+         2        3.3V
+
+C5       1        GND
+         2        3.3V
+
+C6       1        GND
+         2        3.3V
+
+C7       1        GND
+         2        VCC_1
+
+C8       1        GND
+         2        V_BATT
+
+D1       A        V_BATT
+         C        VCC_1
+
+D2       A        D7
+         C        X003
+
+D3       A        D5
+         C        N$41
+
+D4       A        D5
+         C        N$42
+
+D5       A        D6
+         C        N$43
+
+D6       A        D6
+         C        N$44
+
+D7       A        D7
+         C        X004
+
+D8       A        D8
+         C        X005
+
+D9       A        D8
+         C        X006
+
+D10      1        N$15
+         2        N$8
+         3        N$14
+         4        GND
+
+FRAME1  
+FRAME2  
+J1       1        3.3V
+
+J2       1        D2
+
+J3       1        D3
+
+J4       1        GND
+
+J5       1        D4
+
+J6       1        D5
+
+J7       1        D6
+
+J8       1        D7
+
+J9       1        D8
+
+J10      1        D9
+
+J11      1        3.3V
+
+J12      1        D10
+
+J13      1        D11
+
+J14      1        GND
+
+J15      D+       N$20
+         D-       N$19
+         ID                *** unconnected ***
+         GND      GND
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+         P$4               *** unconnected ***
+         P$6               *** unconnected ***
+         P$8               *** unconnected ***
+         P$10              *** unconnected ***
+         P$12              *** unconnected ***
+         VBUS     VCC_1
+         SHIELD            *** unconnected ***
+         SHEILD2           *** unconnected ***
+         SHIELD3           *** unconnected ***
+         SHIELD4           *** unconnected ***
+
+J16      1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP1      1        GND
+
+JP2      1                 *** unconnected ***
+
+JP3      1                 *** unconnected ***
+
+JP4      1        GND
+
+JP5      1        GND
+
+JP6      1        GND
+
+JP7      1        D7
+
+JP8      1        D7
+
+JP9      1        D8
+
+JP10     1        D8
+
+JP11     1                 *** unconnected ***
+
+JP12     1        D4
+
+JP13     1        GND
+
+JP14     1                 *** unconnected ***
+
+JP20     1        D5
+
+JP21     1        GND
+
+JP22     1        D5
+
+JP23     1        GND
+
+JP24     1        D6
+
+JP25     1        GND
+
+JP26     1        D6
+
+JP27     1        GND
+
+L001    
+L002    
+L003    
+L004    
+LED1     A        N$3
+         C        N$4
+
+LED2     A        3.3V
+         C        N$1
+
+LED3     A        3.3V
+         C        N$21
+
+LED4     A        N$18
+         C        GND
+
+LED5     A        N$11
+         C        GND
+
+LED6     A        N$10
+         C        GND
+
+LED7     A        N$9
+         C        GND
+
+LED8     A        N$12
+         C        GND
+
+LED9     A        N$13
+         C        GND
+
+LOGO1   
+LOGO2   
+LOGO4   
+LOGO5   
+LOGO6   
+R1       1        N$3
+         2        VCC_1
+
+R2       1        GND
+         2        N$6
+
+R3       1        3.3V
+         2        RESET
+
+R4       1        D+
+         2        N$20
+
+R5       1        D-
+         2        N$19
+
+R6       1        N$1
+         2        RX_LED
+
+R7       1        N$21
+         2        TX_LED
+
+R8       1        N$18
+         2        BG_LED0
+
+R9       1        N$11
+         2        BG_LED1
+
+R10      1        N$10
+         2        BG_LED2
+
+R11      1        N$9
+         2        BG_LED3
+
+R12      1        N$12
+         2        BG_LED4
+
+R13      1        N$13
+         2        BG_LED5
+
+R14      1        N$15
+         2        RGB_R
+
+R15      1        N$14
+         2        RGB_B
+
+R16      1        N$8
+         2        RGB_G
+
+R17      1        SW_CM
+         2        GND
+
+R24      1        GND
+         2        D2
+
+R25      1        GND
+         2        N$41
+
+R26      1        GND
+         2        N$42
+
+R27      1        GND
+         2        N$43
+
+R28      1        GND
+         2        N$44
+
+R29      1        GND
+         2        X003
+
+R30      1        GND
+         2        X004
+
+R31      1        GND
+         2        X005
+
+R32      1        GND
+         2        X006
+
+S1       1        VCC_1
+         2        N$2
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S2       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+S3       1        D9
+         2        SW_CM
+         3        SINK2
+         4        D9
+         5        SW_CM
+         6        SINK1
+
+S4       1        D4
+         2        D4
+         3        GND
+         4        GND
+
+SEWTAPLS+ 1        3.3V
+
+SEWTAPLS- 1        GND
+
+SEWTAPLSOUT 1        D2
+
+SLIDEOFF 1        SW_CM
+
+SLIDEON  1        D9
+
+ST1     
+ST2     
+ST3     
+TP1      P$1      MISO
+
+TP2      P$1      MOSI
+
+TP3      P$1      SCK
+
+TP4      P$1      RESET
+
+TP5      P$1      GND
+
+TP6      P$1      3.3V
+
+TP7      P$1      V_BATT
+
+TP8      P$1      N$2
+
+U$1     
+U$3     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38     1        GND
+
+U$39     1        D3
+
+U$40    
+U$41     P$1      3.3V
+         P$2      3.3V
+
+U$42     P$1      3.3V
+         P$2      3.3V
+
+U$43    
+U$44    
+U$45    
+U$46    
+U$48    
+U$49    
+U$50    
+U$51    
+U$51/SDA P$1      D11
+         P$2      D11
+
+U$52    
+U$52/SCL P$1      D10
+         P$2      D10
+
+U$52/SCL1 P$1      D9
+         P$2      D9
+
+U$53     P$1      GND
+         P$2      GND
+
+U$54     P$1      GND
+         P$2      GND
+
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$70    
+U$71    
+U$73    
+U1       1        N$4
+         2        GND
+         3        V_BATT
+         4        VCC_1
+         5        N$6
+
+U2       1        VCC_1
+         2        GND
+         3        N$2
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       C        3.3V
+         E        D2
+
+U5       1        BG_LED3
+         2                 *** unconnected ***
+         3        D-
+         4        D+
+         5        GND
+         6        3.3V
+         7        VCC_1
+         8        RX_LED
+         9        SCK
+         10       MOSI
+         11       MISO
+         12       D6
+         13       RESET
+         14       3.3V
+         15       GND
+         16       N$7
+         17       N$5
+         18       D10
+         19       D11
+         20       BG_LED1
+         21       BG_LED2
+         22       TX_LED
+         23       GND
+         24       3.3V
+         25       D2
+         26       D25
+         27       D7
+         28       D4
+         29       D8
+         30       RGB_R
+         31       RGB_G
+         32       RGB_B
+         33       GND
+         34       3.3V
+         35       GND
+         36       D3
+         37       D9
+         38       BG_LED0
+         39       D5
+         40       BG_LED4
+         41       BG_LED5
+         42       3.3V
+         43       GND
+         44       3.3V
+         EPAD              *** unconnected ***
+
+Y1       1        N$5
+         2        GND
+         3        N$7
+

@@ -1,0 +1,204 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:34
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C3       1        VCC
+         2        GND
+
+C4       1        DTR
+         2        RESET
+
+C5       1        AREF
+         2        GND
+
+C6       1        VCC
+         2        GND
+
+C7       1        V_USB
+         2        GND
+
+C8       1        V_USB
+         2        GND
+
+C9       A        VCC_1
+         C        GND
+
+C10      A        VCC
+         C        GND
+
+C11      1        3.3V
+         2        GND
+
+D1       A        V_USB
+         C        VCC_1
+
+D2       A        N$4
+         C        GND
+
+D3       A        N$1
+         C        GND
+
+D4       A        N$8
+         C        VCC
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME2  
+JP1      5V       V_USB
+         GND      GND
+         USB_M    D-
+         USB_P    D+
+
+JP2      1        D9
+         2        D8
+         3        D7
+         4        D6
+         5        D5
+         6        D4
+         7        D3
+         8        D2
+         9        GND
+         10       RESET
+         11       RXI
+         12       TXO
+
+JP3      1        VCC
+         2        GND
+         3        A5
+         4        A4
+         5        A3
+         6        A2
+         7        A1
+         8        A0
+         9        SCK
+         10       MISO
+         11       MOSI
+         12       D10
+
+JP5      1        A6
+         2        A7
+
+JP6      1        GND
+         2        VBAT
+
+JP7      1        GND
+         2        VBAT
+
+JP8      1        VCC
+         2        GND
+         3        TXO
+         4        RXI
+
+L1       P$1      VCC_1
+         P$2      N$8
+
+LOGO1   
+LOGO2   
+Q1       1        V_USB
+         2        VCC_1
+         3        VBAT
+
+Q2       1        3.3V
+         2        N$11
+         3        DTR
+
+R1       1        GND
+         2        V_USB
+
+R2       1        N$4
+         2        VCC
+
+R3       1        RESET
+         2        VCC
+
+R4       1        N$1
+         2        SCK
+
+R5       1        N$3
+         2        RXI
+
+R6       1        N$7
+         2        TXO
+
+R7       1        DTR
+         2        VCC
+
+R8       1        N$11
+         2        3.3V
+
+S1       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+U$1     
+U1       1        N$11
+         2                 *** unconnected ***
+         3        3.3V
+         4        N$7
+         5                 *** unconnected ***
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       D+
+         12       D-
+         13       3.3V
+         14       3.3V
+         15       V_USB
+         16       GND
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       N$3
+
+U2       1        D3
+         2        D4
+         3        GND
+         4        VCC
+         5        GND
+         6        VCC
+         7        N$5
+         8        N$6
+         9        D5
+         10       D6
+         11       D7
+         12       D8
+         13       D9
+         14       D10
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       VCC
+         19       A6
+         20       AREF
+         21       GND
+         22       A7
+         23       A0
+         24       A1
+         25       A2
+         26       A3
+         27       A4
+         28       A5
+         29       RESET
+         30       RXI
+         31       TXO
+         32       D2
+
+U3       1        VCC
+         2        VCC
+         3                 *** unconnected ***
+         4        GND
+         5        N$8
+
+Y1       1        N$5
+         2        GND
+         3        N$6
+

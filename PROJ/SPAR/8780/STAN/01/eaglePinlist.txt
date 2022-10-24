@@ -1,0 +1,63 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 21:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C4       A        GND
+         C        N$4
+
+D1       A        N$4
+         C        RS-IN
+
+D4       A        N$1
+         C        RX
+
+D5       A        N$2
+         C        TX
+
+E$1      1                 *** unconnected ***
+
+E$2      1                 *** unconnected ***
+
+FRAME1  
+JP1      1                 *** unconnected ***
+         2        RS-OUT
+         3        RS-IN
+         4                 *** unconnected ***
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         G1                *** unconnected ***
+         G2                *** unconnected ***
+
+JP2      1        VCC
+         2        GND
+         3        TX
+         4        RX
+
+LOGO1   
+LOGO2   
+R1       1        TX
+         2        VCC
+
+R2       1        N$4
+         2        RS-OUT
+
+R3       1        N$1
+         2        VCC
+
+R4       1        N$2
+         2        VCC
+
+U2       1        TX
+         2        RX
+         3        VCC
+         4        RS-OUT
+         5        RS-IN
+         6        GND
+

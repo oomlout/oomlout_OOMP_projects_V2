@@ -1,0 +1,473 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:00
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+$1_25_$_2020-03-30_22-52-05
+BT1      +        V_BATT
+         -        GND
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        N$37
+         2        GND
+
+C4       1        N$35
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        N$5
+         2        GND
+
+C9       1        VIN
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+D1       1        GND
+         2                 *** unconnected ***
+         3        N$37
+
+D2       1        GND
+         2                 *** unconnected ***
+         3        N$35
+
+D3       1        N$7
+         2        GND
+         3        N$6
+         4        N$10
+         5        VIN
+         6        N$9
+
+D4       A        3.3V
+         C        N$4
+
+D5       A        PPS
+         C        N$24
+
+D6       A        RTK_STAT
+         C        N$25
+
+D7       A        GEOF_STAT
+         C        N$34
+
+D8       A        3.3V
+         C        N$2
+
+FB1      P1       RF_IN
+         P2       N$5
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+H1      
+H2      
+H4      
+J1       1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     RF_IN
+
+J2       A5       N$15
+         A6       N$6
+         A7       N$7
+         A8                *** unconnected ***
+         B5       N$14
+         B6       N$6
+         B7       N$7
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    SHIELD
+         SHLD2    SHIELD
+         SHLD3    SHIELD
+         SHLD4    SHIELD
+         VBUS1    VIN
+         VBUS2    VIN
+
+J3       1        GND
+         2        3.3V
+         3        SDA/!CS
+         4        SCL/CLK
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        GND
+         2        3.3V
+         3        SDA/!CS
+         4        SCL/CLK
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       1        GND
+         2        VIN
+         3        3.3V
+         4        SDA/!CS
+         5        RXI/MOSI
+         6        TXO/MISO
+         7        SCL/CLK
+         8        GND
+         9        DIR+
+         10       GND
+         11       WT+
+
+J6       1        PPS
+         2        INT
+         3        !SAFEBOOT
+         4        !RESET
+         5        TX_READY
+         6        SCL/CLK
+         7        SDA/!CS
+         8        3.3V
+         9        GND
+
+J7       1        GND
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        RXI2
+         5        TXO2
+         6                 *** unconnected ***
+
+JP1      1        GND
+         2        N$8
+
+JP2      1        GND
+         2        N$23
+
+JP3      1        GND
+         2        N$22
+
+JP4      1        GND
+         2        N$33
+
+JP5      1        D_SEL
+         2        GND
+
+JP6      1        N$1
+         2        3.3V
+         3        N$3
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        DIR+
+         2        N$37
+
+R2       1        WT+
+         2        N$35
+
+R3       1        GND
+         2        3.3V
+
+R4       1        DIR_SCHMITT
+         2        3.3V
+
+R5       1        N$37
+         2        DIR_IN
+
+R6       1        N$35
+         2        WT_IN
+
+R7       1        WT_SCHMITT
+         2        3.3V
+
+R8       P1       TX_READY
+         P2       !RESET
+         P3       !SAFEBOOT
+         P4       INT
+         P5       N$12
+         P6       N$30
+         P7       N$11
+         P8       N$18
+
+R9       P1       TXO/MISO
+         P2       RXI/MOSI
+         P3       SDA/!CS
+         P4       SCL/CLK
+         P5       N$17
+         P6       N$16
+         P7       N$20
+         P8       N$19
+
+R10      P1       N$21
+         P2       N$26
+         P3       N$32
+         P4       N$31
+         P5       WT_OUT
+         P6       DIR_OUT
+         P7       RXI2
+         P8       TXO2
+
+R11      P1       N$28
+         P2       N$27
+         P3                *** unconnected ***
+         P4                *** unconnected ***
+         P5                *** unconnected ***
+         P6                *** unconnected ***
+         P7       GEOF_STAT
+         P8       RTK_STAT
+
+R12      1        N$29
+         2        PPS
+
+R13      1        N$5
+         2        V_RF
+
+R14      1        GND
+         2        N$14
+
+R15      1        GND
+         2        N$15
+
+R16      1        SCL/CLK
+         2        N$3
+
+R17      1        N$8
+         2        N$4
+
+R18      1        N$23
+         2        N$24
+
+R19      1        N$22
+         2        N$25
+
+R20      1        N$33
+         2        N$34
+
+R21      1        N$9
+         2        DMINUS
+
+R22      1        N$10
+         2        DPLUS
+
+R23      1        SDA/!CS
+         2        N$1
+
+R24      1        V_BATT
+         2        N$2
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U1       P1       WT_IN
+         P2       GND
+         P3       GND
+         P4       DIR_IN
+         P5       GND
+         P6       DIR_SCHMITT
+         P7       WT_SCHMITT
+         P8       3.3V
+
+U2       G1       GND
+         G2       GND
+         G3       GND
+         G4       GND
+         G5       GND
+         G6       GND
+         G7       GND
+         G8       GND
+         G9       GND
+         P1       GND
+         P2       RF_IN
+         P3       GND
+         P4                *** unconnected ***
+         P5                *** unconnected ***
+         P6                *** unconnected ***
+         P7       V_RF
+         P8                *** unconnected ***
+         P9                *** unconnected ***
+         G10      GND
+         G11      GND
+         G12      GND
+         G13      GND
+         G14      GND
+         G15      GND
+         G16      GND
+         G17      GND
+         G18      GND
+         G19      GND
+         G20      GND
+         G21      GND
+         G22      GND
+         G23      GND
+         G24      GND
+         G25      GND
+         G26      GND
+         G27      GND
+         G28      GND
+         G29      GND
+         G30      GND
+         G31      GND
+         G32      GND
+         G33      GND
+         G34      GND
+         G35      GND
+         G36      GND
+         G37      GND
+         G38      GND
+         G39      GND
+         G40      GND
+         G41      GND
+         G42      GND
+         G43      GND
+         G44      GND
+         G45      GND
+         G46      GND
+         G47      GND
+         G48      GND
+         P10               *** unconnected ***
+         P11               *** unconnected ***
+         P12      GND
+         P13               *** unconnected ***
+         P14      GND
+         P15               *** unconnected ***
+         P16               *** unconnected ***
+         P17               *** unconnected ***
+         P18               *** unconnected ***
+         P19      N$27
+         P20      N$28
+         P21               *** unconnected ***
+         P22      N$31
+         P23      N$32
+         P24               *** unconnected ***
+         P25               *** unconnected ***
+         P26      N$26
+         P27      N$21
+         P28               *** unconnected ***
+         P29               *** unconnected ***
+         P30               *** unconnected ***
+         P31               *** unconnected ***
+         P32      GND
+         P33      3.3V
+         P34      3.3V
+         P35               *** unconnected ***
+         P36      V_BATT
+         P37      GND
+         P38      3.3V
+         P39      DMINUS
+         P40      DPLUS
+         P41      GND
+         P42      N$19
+         P43      N$20
+         P44      N$16
+         P45      N$17
+         P46      N$18
+         P47      D_SEL
+         P48      GND
+         P49      N$11
+         P50      N$30
+         P51      N$12
+         P52               *** unconnected ***
+         P53      N$29
+         P54               *** unconnected ***
+
+U3       P1                *** unconnected ***
+         P2       WT_SCHMITT
+         P3       GND
+         P4       WT_OUT
+         P5                *** unconnected ***
+         P6       3.3V
+
+U4       P1                *** unconnected ***
+         P2       DIR_SCHMITT
+         P3       GND
+         P4       DIR_OUT
+         P5                *** unconnected ***
+         P6       3.3V
+
+U5       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+

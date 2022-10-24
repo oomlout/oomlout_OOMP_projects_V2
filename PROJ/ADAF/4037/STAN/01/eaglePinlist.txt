@@ -1,0 +1,236 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 01:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$2
+         2        AGND
+
+C2       1        N$1
+         2        AGND
+
+C3       1        3.3V
+         2        GND
+
+C4       +        N$3
+         -        N$8
+
+C5       1        N$2
+         2        AGND
+
+C6       +        N$5
+         -        N$7
+
+C7       1        OUTL
+         2        AGND
+
+C8       1        OUTR
+         2        AGND
+
+C11      1        5.0V
+         2        GND
+
+C13      1        VDD
+         2        GND
+
+C14      1        N$1
+         2        AGND
+
+CONN2    L_G      AGND
+         R_G      AGND
+         L_G'     AGND
+         R_G'     AGND
+         L_SIG    OUTL
+         R_SIG    OUTR
+         L_SIG'   OUTL
+         R_SIG'   OUTR
+
+FB1      1        N$2
+         2        VDD
+
+FB2      1        AGND
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        GND
+         2        GND
+
+JP3      1        VDD
+         2        VDD
+
+JP4      1        SDA
+         2        SCL
+         3        TXD
+         4        RXD
+         5        GPIO4
+         6        GPIO17
+         7        BITCLK
+         8        GPIO27
+         9        GPIO22
+         10       GPIO23
+         11       GPIO24
+         12       GPIO25
+         13       SPI_MOSI
+         14       SPI_MISO
+         15       SPI_SCLK
+         16       SPI_CE0
+         17       SPI_CE1
+         18       GPIO5
+         19       GPIO6
+         20       GPIO12
+         21       GPIO13
+         22       GPIO16
+         23       LRCLK
+
+JP5      1        GPIO20
+         2        DATAIN
+
+JP6      1        5.0V
+         2        5.0V
+
+Q1       1        N$4
+         2        3.3V
+         3        MUTE
+
+R1       1        GND
+         2        MUTE
+
+R2       1        N$4
+         2        3.3V
+
+R3       1        AGND
+         2        N$7
+
+R4       1        N$7
+         2        OUTL
+
+R5       1        AGND
+         2        N$8
+
+R6       1        N$8
+         2        OUTR
+
+RPI1     1        3.3V
+         2        5.0V
+         3        SDA
+         4        5.0V
+         5        SCL
+         6        GND
+         7        GPIO4
+         8        TXD
+         9        GND
+         10       RXD
+         11       GPIO17
+         12       BITCLK
+         13       GPIO27
+         14       GND
+         15       GPIO22
+         16       GPIO23
+         17       3.3V
+         18       GPIO24
+         19       SPI_MOSI
+         20       GND
+         21       SPI_MISO
+         22       GPIO25
+         23       SPI_SCLK
+         24       SPI_CE0
+         25       GND
+         26       SPI_CE1
+         27       EEDATA
+         28       EECLK
+         29       GPIO5
+         30       GND
+         31       GPIO6
+         32       GPIO12
+         33       GPIO13
+         34       GND
+         35       LRCLK
+         36       GPIO16
+         37       GPIO26
+         38       GPIO20
+         39       GND
+         40       DATAIN
+         41                *** unconnected ***
+         42                *** unconnected ***
+         S1       3.3V
+         S2       5.0V
+         S3       SDA
+         S4       5.0V
+         S5       SCL
+         S6       GND
+         S7       GPIO4
+         S8       TXD
+         S9       GND
+         S10      RXD
+         S11      GPIO17
+         S12      BITCLK
+         S13      GPIO27
+         S14      GND
+         S15      GPIO22
+         S16      GPIO23
+         S17      3.3V
+         S18      GPIO24
+         S19      SPI_MOSI
+         S20      GND
+         S21      SPI_MISO
+         S22      GPIO25
+         S23      SPI_SCLK
+         S24      SPI_CE0
+         S25      GND
+         S26      SPI_CE1
+         S27      EEDATA
+         S28      EECLK
+         S29      GPIO5
+         S30      GND
+         S31      GPIO6
+         S32      GPIO12
+         S33      GPIO13
+         S34      GND
+         S35      LRCLK
+         S36      GPIO16
+         S37      GPIO26
+         S38      GPIO20
+         S39      GND
+         S40      DATAIN
+
+SJ2      1        N$4
+         2        GPIO16
+         WIRE              *** unconnected ***
+
+U$5     
+U$11    
+U1       1        BITCLK
+         2        LRCLK
+         3        DATAIN
+         4        3.3V
+         5        GND
+         6        GND
+         7        GND
+         8        MUTE
+         9        GND
+         10       GND
+         11       GND
+         12       N$1
+         13       N$2
+         14       N$5
+         15       AGND
+         16       N$3
+
+U2       1        5.0V
+         2        GND
+         3        5.0V
+         4                 *** unconnected ***
+         5        VDD
+
+X2       1        AGND
+         2        OUTL
+         3        OUTR
+         4        OUTL
+         5        OUTR
+

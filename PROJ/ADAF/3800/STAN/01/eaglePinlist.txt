@@ -1,0 +1,195 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 00:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        !RESET
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VHI
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C9       1        VDDCORE
+         2        GND
+
+C14      1        AREF
+         2        GND
+
+D1       A        VBAT
+         C        VHI
+
+D2       A        VBUS
+         C        VHI
+
+IC1      1        GND
+         2        D5
+         3        GND
+         4        D5_5V
+         5        VHI
+
+IC2      1        MOSI
+         2        SCK
+         3        A0
+         4        AREF
+         5        GND
+         6        +3V3
+         7        A2
+         8        A3
+         9        A4
+         10       A1
+         11       A5
+         12       D2
+         13       QSPI_DATA[0]
+         14       QSPI_DATA[1]
+         15       QSPI_DATA[2]
+         16       QSPI_DATA[3]
+         17       +3V3
+         18       GND
+         19       QSPI_SCK
+         20       QSPI_CS
+         21       SDA
+         22       SCL
+         23       D4
+         24       D5
+         25       RX_D0
+         26       TX_D1
+         27       D7
+         28       D9
+         29       D10
+         30       D11
+         31       D13
+         32       D12
+         33       D-
+         34       D+
+         35       GND
+         36       +3V3
+         37       D3
+         38       MISO
+         39                *** unconnected ***
+         40       !RESET
+         41       VDDCORE
+         42       GND
+         43       VSW
+         44       +3V3
+         45       SWCLK
+         46       SWDIO
+         47       DOTSTAR_CLK
+         48       DOTSTAR_DATA
+         THERMAL  GND
+
+JP1      1        EN
+         2        SWDIO
+         3        SWCLK
+         4        D3
+         5        D4
+
+JP2      1        VBAT
+         2        GND
+         3        VBUS
+         4        D13
+         5        D12
+         6        D11
+         7        D10
+         8        D9
+         9        D7
+         10       D5_5V
+         11       SCL
+         12       SDA
+         13       TX_D1
+         14       RX_D0
+
+JP4      1        D2
+         2        MISO
+         3        MOSI
+         4        SCK
+         5        A5
+         6        A4
+         7        A3
+         8        A2
+         9        A1
+         10       A0
+         11       VHI
+         12       AREF
+         13       +3V3
+         14       !RESET
+
+L        A        N$2
+         C        GND
+
+L2       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        +3V3
+         4        GND
+         5        DOTSTAR_CLK
+         6        DOTSTAR_DATA
+
+R1       1        VHI
+         2        EN
+
+R2       1        +3V3
+         2        QSPI_CS
+
+R3       1        SWCLK
+         2        +3V3
+
+R4       1        +3V3
+         2        !RESET
+
+R7       1        D13
+         2        N$2
+
+SJ1      1        AREF
+         2        +3V3
+         WIRE              *** unconnected ***
+
+SW1      1        !RESET
+         2        GND
+         3        !RESET
+         4        GND
+
+U$4     
+U$5     
+U$6     
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        QSPI_CS
+         2        QSPI_DATA[1]
+         3        QSPI_DATA[2]
+         4        GND
+         5        QSPI_DATA[0]
+         6        QSPI_SCK
+         7        QSPI_DATA[3]
+         8        +3V3
+
+U2       1        VHI
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

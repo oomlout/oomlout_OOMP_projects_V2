@@ -1,0 +1,341 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 00:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        XTAL1
+
+C2       1        GND
+         2        XTAL0
+
+C3       1        RAW
+         2        GND
+
+C4       1        AVDD
+         2        GND
+
+C5       1        DVDD
+         2        GND
+
+C6       1        CVDD
+         2        GND
+
+C7       1        N$7
+         2        GND
+
+C8       1        DTR
+         2        RST
+
+C9       1        N$3
+         2        L_AC
+
+C10      1        N$17
+         2        R_AC
+
+C11      1        N$6
+         2        GND
+
+C12      1        N$20
+         2        GND
+
+C13      1        XRST
+         2        GND
+
+C14      1        VCC
+         2        GND
+
+C15      1        N$2
+         2        GND
+
+C16      1        GND
+         2        N$39
+
+D1       A        N$42
+         C        GND
+
+D2       A        N$35
+         C        N$34
+
+D3       A        N$31
+         C        N$36
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+FRAME3  
+H1      
+H2      
+H3      
+J1       RSH               *** unconnected ***
+         TIP      L_AC
+         TSH               *** unconnected ***
+         RING     R_AC
+         SLEEVE   GND
+
+J2       CS       SDXCS
+         DI       SDDI
+         DO       SDDO
+         CD1      SDCD
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      VCC
+         GND1     GND
+         GND3     GND
+         RSV1     N$15
+         RSV2     N$19
+         SCLK     SDCK
+
+J3       1        R_AC
+         2        L_AC
+
+J4       P$1      DTR
+         P$2      TXO
+         P$3      RXI
+         P$4      RAW
+         P$5      GND
+         P$6      GND
+
+J5       1        GND
+         2        VCC
+
+J6       1        SCK
+         2        MISO
+         3        MOSI
+         4        D10
+         5        D9
+
+J7       1        SCL
+         2        SDA
+         3        VCC
+         4        GND
+
+J8       1        A0
+         2        A1
+
+J9       1        GND
+         2        RAW
+
+J10      1        USBP
+         2        USBN
+
+J11      1        VS_TX
+         2        VS_RX
+
+J12      1        RST
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO6   
+R1       1        XTAL0
+         2        XTAL1
+
+R2       1        VCC
+         2        N$15
+
+R3       1        VCC
+         2        N$19
+
+R4       1        GND
+         2        R_AC
+
+R5       1        GND
+         2        L_AC
+
+R6       1        N$3
+         2        LEFT
+
+R7       1        N$17
+         2        RIGHT
+
+R8       1        N$20
+         2        RIGHT
+
+R9       1        RST
+         2        VCC
+
+R10      1        N$6
+         2        LEFT
+
+R11      1        IO_6
+         2        GND
+
+R12      1        IO_0
+         2        GND
+
+R13      1        SDXCS
+         2        DVDD
+
+R15      1        GND
+         2        CVDD
+
+R16      1        VS_RX
+         2        DVDD
+
+R17      1        N$42
+         2        SCK
+
+R18      1        GND
+         2        N$34
+
+R19      1        SDDI
+         2        DVDD
+
+R20      1        SDCK
+         2        DVDD
+
+R21      1        SDDO
+         2        DVDD
+
+R22      1        IO_7
+         2        DVDD
+
+R23      1        XRST
+         2        DVDD
+
+R24      1        SDCD
+         2        DVDD
+
+R25      1        XCS
+         2        DVDD
+
+R26      1        GND
+         2        N$36
+
+R27      1        GBUF
+         2        N$2
+
+R28      1        IO_1
+         2        GND
+
+R29      1        IO_2
+         2        GND
+
+R30      1        IO_3
+         2        GND
+
+R31      1        IO_4
+         2        GND
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        RST
+         4                 *** unconnected ***
+
+U1       1        IO_1
+         2        IO_2
+         3        GND
+         4        VCC
+         5        GND
+         6        VCC
+         7        N$8
+         8        N$16
+         9        IO_3
+         10       IO_4
+         11       PWRBTN
+         12                *** unconnected ***
+         13       D9
+         14       D10
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       VCC
+         19                *** unconnected ***
+         20       N$39
+         21       GND
+         22                *** unconnected ***
+         23       A0
+         24       A1
+         25       N$31
+         26                *** unconnected ***
+         27       SDA
+         28       SCL
+         29       RST
+         30       RXI
+         31       TXO
+         32       IO_0
+
+U2       1        XRST
+         2        IO_0
+         3        IO_1
+         4        IO_2
+         5        IO_3
+         6        GND
+         7        DVDD
+         8        GND
+         9        IO_4
+         10       N$35
+         11       IO_6
+         12       IO_7
+         13       SDDO
+         14       SDCK
+         15                *** unconnected ***
+         16       SDDI
+         17       VCC
+         18       GND
+         19       DVDD
+         20       SDXCS
+         21       SDCD
+         22       XCS
+         23       SCLK
+         24       SI
+         25       SO
+         26       VS_TX
+         27       VS_RX
+         28       XTAL1
+         29       XTAL0
+         30       DVDD
+         31       GND
+         32       CVDD
+         33       RAW
+         34       AVDD
+         35       USBP
+         36       USBN
+         37       PWRBTN
+         38       GND
+         39       AVDD
+         40       RIGHT
+         41       GND
+         42       GND
+         43       GBUF
+         44       AVDD
+         45       N$7
+         46       AVDD
+         47       LEFT
+         48       GND
+
+U3       1        RAW
+         2        GND
+         3        RAW
+         4                 *** unconnected ***
+         5        VCC
+
+U4       1        XCS
+         2        SI
+         3        VCC
+         4        GND
+         5        SO
+         6        SCLK
+         7        VCC
+         8        VCC
+
+Y1       1        XTAL0
+         2                 *** unconnected ***
+         3        XTAL1
+         4                 *** unconnected ***
+
+Y2       1        N$8
+         2        GND
+         3        N$16
+

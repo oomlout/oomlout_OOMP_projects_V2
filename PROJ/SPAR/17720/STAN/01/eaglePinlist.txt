@@ -1,0 +1,260 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 18:44
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        ADC_VDD
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        1.1V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        3.3V
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        GND
+         2        N$6
+
+C12      1        1.1V
+         2        GND
+
+C13      1        GND
+         2        N$5
+
+C14      1        1.1V
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C29      1        3.3V
+         2        GND
+
+D2       A        N$2
+         C        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        3.3V
+         3        USB_D+
+         4                 *** unconnected ***
+         5        USB_D-
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9        USB_VIN
+         10       D0
+         11       BOOT
+         12       SDA
+         13       RTS1/AUD_BCLK
+         14       SCL
+         15       CTS1/AUD_LRCLK
+         16       I2C_!INT!/TX2
+         17       TX1
+         18       D1
+         19       RX1
+         20       SPI_!CS1!/SDIO_DAT3/RX2
+         21       SWDCK
+         22       I2C_!INT!/TX2
+         23       SWDIO
+         32       PWM0
+         33       GND
+         34       A0
+         35       USBHOST_D+
+         36       GND
+         37       USBHOST_D-
+         38       A1
+         39       GND
+         40       G0
+         41                *** unconnected ***
+         42       G1
+         43                *** unconnected ***
+         44       G2
+         45       GND
+         46       G3
+         47       PWM1/AUD_MCLK
+         48       SPI_CIPO/G4
+         49       BATT_VIN/3
+         50       RTS1/AUD_BCLK
+         51                *** unconnected ***
+         52       CTS1/AUD_LRCLK
+         53                *** unconnected ***
+         54       SDIO_DAT1/AUD_IN
+         55       SPI_!CS!/G5
+         56       SDIO_DAT2/AUD_OUT
+         57       SPI_SCK/G6
+         58       PWM1/AUD_MCLK
+         59       SPI_COPI/G7
+         60       SPI_SCK1/SDIO_CLK
+         61       SPI_CIPO/G4
+         62       SPI_COPI1/SDIO_CMD
+         63       LED_BUILTIN/G10
+         64       SPI_CIPO1/SDIO_DAT0
+         65       G9
+         66       SDIO_DAT1/AUD_IN
+         67                *** unconnected ***
+         68       SDIO_DAT2/AUD_OUT
+         69       SPI_COPI/G7
+         70       SPI_!CS1!/SDIO_DAT3/RX2
+         71       SPI_SCK/G6
+         72       3.3V
+         73       SPI_!CS!/G5
+         74       3.3V
+         75       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        N$2
+         2        LED_BUILTIN/G10
+
+R2       1        ADC_VDD
+         2        3.3V
+
+R4       1        QSPI-CS
+         2        3.3V
+
+R5       1        GND
+         2        USB_MUX_SIG
+
+R8       1        N$6
+         2        N$4
+
+R9       1        QSPI-CS
+         2        BOOT
+
+R10      1        RP_D+
+         2        RP_D1+
+
+R11      1        RP_D-
+         2        RP_D1-
+
+R18      1        USB_VIN
+         2        USB_MUX_SIG
+
+U$1     
+U$3     
+U$4     
+U$7     
+U$9     
+U$11    
+U$12    
+U1       1        QSPI-CS
+         2        QSPI-1
+         3        QSPI-2
+         4        GND
+         5        QSPI-0
+         6        QSPI-CLK
+         7        QSPI-3
+         8        3.3V
+
+U2       1        USB_MUX_SIG
+         2        USBHOST_D+
+         3        USB_D+
+         4        RP_D+
+         5        GND
+         6        RP_D-
+         7        USB_D-
+         8        USBHOST_D-
+         9        GND
+         10       3.3V
+
+U3       1        3.3V
+         2        TX1
+         3        RX1
+         4        CTS1/AUD_LRCLK
+         5        RTS1/AUD_BCLK
+         6        SDA
+         7        SCL
+         8        D0
+         9        D1
+         10       3.3V
+         11       I2C_!INT!/TX2
+         12       SPI_!CS1!/SDIO_DAT3/RX2
+         13       SDIO_DAT2/AUD_OUT
+         14       SDIO_DAT1/AUD_IN
+         15       SPI_CIPO1/SDIO_DAT0
+         16       PWM0
+         17       SPI_SCK1/SDIO_CLK
+         18       SPI_COPI1/SDIO_CMD
+         19       GND
+         20       N$5
+         21       N$4
+         22       3.3V
+         23       1.1V
+         24       SWDCK
+         25       SWDIO
+         26       !RESET!
+         27       G0
+         28       G1
+         29       G2
+         30       G3
+         31       SPI_CIPO/G4
+         32       SPI_!CS!/G5
+         33       3.3V
+         34       SPI_SCK/G6
+         35       SPI_COPI/G7
+         36       PWM1/AUD_MCLK
+         37       LED_BUILTIN/G10
+         38       A0
+         39       A1
+         40       G9
+         41       BATT_VIN/3
+         42       3.3V
+         43       ADC_VDD
+         44       3.3V
+         45       1.1V
+         46       RP_D1-
+         47       RP_D1+
+         48       3.3V
+         49       3.3V
+         50       1.1V
+         51       QSPI-3
+         52       QSPI-CLK
+         53       QSPI-0
+         54       QSPI-2
+         55       QSPI-1
+         56       QSPI-CS
+         EPAD     GND
+
+Y1       P1       N$6
+         P2                *** unconnected ***
+         P3       N$5
+         P4                *** unconnected ***
+

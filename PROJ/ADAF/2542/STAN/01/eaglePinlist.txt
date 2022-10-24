@@ -1,0 +1,299 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 18:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+ADC1     1        N$7
+
+C1       1        +5V
+         2        GND
+
+C5       1        VBAT
+         2        GND
+
+C6       1        VBAT
+         2        GND
+
+C7       1        VBAT
+         2        GND
+
+C9       1        VRTC
+         2        GND
+
+C11      1        HP+
+         2        SPEAKER1+
+
+C14      1        MIC1+
+         2        MIC1+
+         3        MIC1-
+         4        MIC1-
+         5        GND
+         6        MIC1-
+         7        MIC1-
+         8        GND
+
+C15      1        MIC1+
+         2        MIC1+
+         3        MIC1-
+         4        GND
+         5        MIC1-
+         6        MIC1-
+         7        MIC1-
+         8        GND
+
+C16      1        SPEAKER1+
+         2        SPEAKER1+
+         3        SPEAKER1-
+         4        SPEAKER1-
+         5        GND
+         6        SPEAKER1-
+         7        SPEAKER1-
+         8        GND
+
+C17      1        SPEAKER1+
+         2        SPEAKER1+
+         3        SPEAKER1-
+         4        GND
+         5        SPEAKER1-
+         6        SPEAKER1-
+         7        SPEAKER1-
+         8        GND
+
+CHRG     A        +5V
+         C        N$1
+
+CN2      1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+D1       A        GND
+         C        VBAT
+
+D2       1        1.8V
+         2        GND
+         3        SIMRST
+         4        SIMCLK
+         5        SIMDATA
+         6                 *** unconnected ***
+
+D3       A        N$16
+         C        VBAT
+
+D4       A        UART_RXD
+         C        RXD_5V
+
+D5       A        PWRKEY
+         C        PWRKEY_5V
+
+D6       A        RESET
+         C        RESET_5V
+
+D7       A        RTS
+         C        RTS_5V
+
+DONE     A        N$6
+         C        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FID5     1                 *** unconnected ***
+
+IC1      1        GND
+         2        PWRSTAT
+         3        PWRSTAT_5V
+         4        GND
+         5        NETSTAT
+         6        NETSTAT_5V
+         7        GND
+         8        TXD_5V
+         9        UART_TXD
+         10       GND
+         11       RI_5V
+         12       RI
+         13       GND
+         14       VCCIO
+
+JP3      1        N$16
+         2        VBAT
+
+JP10     1        +5V
+         2        VBAT
+         3        GND
+         4        VCCIO
+         5        RESET_5V
+         6        RXD_5V
+         7        TXD_5V
+         8        RTS_5V
+         9        PWRKEY_5V
+         10       RI_5V
+         11       PWRSTAT_5V
+         12       NETSTAT_5V
+         13       MIC1+
+         14       MIC1-
+         15       SPEAKER1+
+         16       SPEAKER1-
+
+NETSTAT  A        N$9
+         C        GND
+
+PWM      1        PWM1
+
+PWRSTAT  A        N$4
+         C        GND
+
+Q1       B        PWM1
+         C        N$16
+         E        GND
+
+R1       1        N$1
+         2        N$2
+
+R2       1        N$6
+         2        N$2
+
+R3       1        N$5
+         2        GND
+
+R4       1        N$4
+         2        PWRSTAT_5V
+
+R5       1        N$9
+         2        NETSTAT_5V
+
+R6       1        RTS
+         2        2.8V
+
+SW1      A        GND
+         B        PWRKEY
+         A'       GND
+         B'       PWRKEY
+
+TP1      TP       2.8V
+
+U$21    
+U$25    
+U$26    
+U$33     P$1               *** unconnected ***
+
+U$34     P$1               *** unconnected ***
+
+U$36    
+U2       1        N$2
+         2        GND
+         3        VBAT
+         4        +5V
+         5        N$5
+
+U3       P$1      GND
+         P$2      GND
+         P$3      GND
+         P$4      VBAT
+         P$5      VBAT
+         P$6      VBAT
+         P$7      2.8V
+         P$8      PWRKEY
+         P$9               *** unconnected ***
+         P$10     RI
+         P$11              *** unconnected ***
+         P$12              *** unconnected ***
+         P$13     RTS
+         P$14     UART_TXD
+         P$15     UART_RXD
+         P$16     RESET
+         P$17     VRTC
+         P$18     GND
+         P$19     MIC1+
+         P$20     MIC1-
+         P$21     SPEAKER1+
+         P$22     SPEAKER1-
+         P$23     N$7
+         P$24              *** unconnected ***
+         P$25     VBUS
+         P$26              *** unconnected ***
+         P$27              *** unconnected ***
+         P$28     GND
+         P$29     1.8V
+         P$30     SIMDATA
+         P$31     SIMCLK
+         P$32     SIMRST
+         P$33              *** unconnected ***
+         P$34     GND
+         P$35     N$3
+         P$36     GND
+         P$37              *** unconnected ***
+         P$38              *** unconnected ***
+         P$39              *** unconnected ***
+         P$40     GND
+         P$41              *** unconnected ***
+         P$42     PWM1
+         P$43              *** unconnected ***
+         P$44              *** unconnected ***
+         P$45              *** unconnected ***
+         P$46              *** unconnected ***
+         P$47              *** unconnected ***
+         P$48              *** unconnected ***
+         P$49     PWRSTAT
+         P$50     NETSTAT
+         P$51     GND
+         P$52     GND
+         P$53              *** unconnected ***
+         P$54     GND
+         P$55              *** unconnected ***
+         P$56              *** unconnected ***
+         P$57              *** unconnected ***
+         P$58              *** unconnected ***
+         P$59              *** unconnected ***
+         P$60              *** unconnected ***
+         P$61              *** unconnected ***
+         P$62              *** unconnected ***
+         P$63              *** unconnected ***
+         P$64     GND
+         P$65     GND
+         P$66     GSM_ANT
+         P$67     GND
+         P$68     GND
+
+X1       P        GSM_ANT
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         GND@4    GND
+
+X2       D+                *** unconnected ***
+         D-                *** unconnected ***
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     +5V
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+X3       1        GND
+         2        GND
+         3        N$3
+
+X4       1-GND    MIC1+
+         2-TIP    HP+
+         3-OUTER_S LEEVE HP+
+         4-INNER_S LEEVE SPEAKER1-
+
+X6       C1       1.8V
+         C2       SIMRST
+         C3       SIMCLK
+         C5       GND
+         C6                *** unconnected ***
+         C7       SIMDATA
+

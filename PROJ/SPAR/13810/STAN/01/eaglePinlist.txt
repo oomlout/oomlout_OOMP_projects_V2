@@ -1,0 +1,695 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 22:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        NRESET
+         2        GND
+
+C2       1        VBUS
+         2        GND
+
+C3       1        REGINPUTS
+         2        GND
+
+C4       1        REGINPUTS
+         2        GND
+
+C5       1        VCCA
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        N$1
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        N$2
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        3.3V
+         2        GND
+
+C14      1        N$4
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        VDDOUT
+         2        GND
+
+C18      1        VDDOUT
+         2        GND
+
+C19      1        N$3
+         2        GND
+
+C20      1        N$16
+         2        GND
+
+C21      1        VDDOUT
+         2        GND
+
+C22      1        VDDOUT
+         2        GND
+
+C23      1        N$5
+         2        GND
+
+C24      1        VDDOUT
+         2        GND
+
+C25      1        VDDOUT
+         2        GND
+
+C26      1        N$17
+         2        GND
+
+C27      1        3.3V
+         2        GND
+
+C28      1        3.3V
+         2        GND
+
+C29      1        AIN1L
+         2        N$15
+
+C30      1        AIN1R
+         2        N$14
+
+C31      1        VCCA
+         2        GND
+
+C32      1        VCCA
+         2        GND
+
+C33      1        N$6
+         2        GND
+
+C34      1        N$12
+         2        GND
+
+C35      1        3.3V
+         2        GND
+
+C36      1        3.3V
+         2        GND
+
+C37      1        VCCA
+         2        GND
+
+C38      1        VCCA
+         2        GND
+
+C39      1        N$31
+         2        N$28
+
+C40      1        N$13
+         2        N$23
+
+C41      1        N$20
+         2        N$53
+
+C42      1        N$32
+         2        N$27
+
+C43      1        N$18
+         2        N$54
+
+C44      1        N$21
+         2        N$52
+
+C45      1        N$19
+         2        N$55
+
+C46      1        N$22
+         2        N$30
+
+C47      1        AOUT1L
+         2        GND
+
+C48      1        AOUT1R
+         2        GND
+
+C49      1        AOUT2L
+         2        GND
+
+C50      1        AOUT2R
+         2        GND
+
+C51      1        AOUT3L
+         2        GND
+
+C52      1        AOUT3R
+         2        GND
+
+C53      1        AOUT4L
+         2        GND
+
+C54      1        AOUT4R
+         2        GND
+
+D1       A        VBUS
+         C        REGINPUTS
+
+D2       A        N$11
+         C        N$10
+
+D3       A        MIDI-IN-PIN5
+         C        56
+
+FB1      1        N$3
+         2        VDDOUT
+
+FB2      1        N$5
+         2        VDDOUT
+
+FB3      1        3.3V
+         2        N$17
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+H1      
+H2      
+H3      
+H4      
+J1       1        VIN
+         2        VIN
+
+J2       1        GND
+         2        GND
+
+J3       1        DBUG
+
+J4       D+       HSDP
+         D-       HSDM
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         SHIELD1  SHIELD
+         SHIELD2  SHIELD
+         SHIELD3  SHIELD
+
+J5       1        3.3V
+         2        SWDIO/TMS
+         3        GND
+         4        SWCLK/TCK
+         5        GND
+         6        TDO
+         7                 *** unconnected ***
+         8        TDI
+         9        GND
+         10       NRESET
+
+J6       1        VCCA
+
+J7       1        3.3V
+
+J8       1        N$8
+
+J9       P$1               *** unconnected ***
+         P$2      TXD
+         P$3      RXD
+         P$4               *** unconnected ***
+         P$5               *** unconnected ***
+         P$6      GND
+
+J10      1        UIA4
+         2        GND
+         3        UIA3
+         4        GND
+         5        UIA2
+         6        GND
+         7        UIA1
+         8        GND
+         9        UID12
+         10       GND
+         11       UID11
+         12       GND
+         13       UID10
+         14       GND
+         15       UID9
+         16       GND
+
+J11      1        UID8
+         2        GND
+         3        UID7
+         4        GND
+         5        UID6
+         6        GND
+         7        UID5
+         8        GND
+         9        UID4
+         10       GND
+         11       UID3
+         12       GND
+         13       UID2
+         14       GND
+         15       UID1
+         16       GND
+
+J12      CD1      SDCD
+         CD2      SDCD
+         CLK      SDCLK
+         CMD      SDCMD
+         GND      GND
+         VCC      3.3V
+         DAT0     SDD0
+         DAT1     SDD1
+         DAT2     SDD2
+         GND1     GND
+         GND3     GND
+         CD/DAT3  SDD3
+
+J13      1        GND
+
+J14      1        AOUT1L
+         2        GND
+         3        AOUT1R
+         4        GND
+         5        AOUT2L
+         6        GND
+         7        AOUT2R
+         8        GND
+         9        AOUT3L
+         10       GND
+         11       AOUT3R
+         12       GND
+         13       AOUT4L
+         14       GND
+         15       AOUT4R
+         16       GND
+         17       AIN1L
+         18       GND
+         19       AIN1R
+         20       GND
+
+J15      1        MIDI-IN-PIN4
+         2        MIDI-IN-PIN5
+         3        MIDI-OUT-PIN4
+         4        GND
+         5        MIDI-OUT-PIN5
+
+JP1      1        VCCA
+         2        VCCA
+
+JP2      1        3.3V
+         2        3.3V
+
+JP3      1        GND
+         2        GND
+
+L1       1        N$24
+         2        N$4
+
+LOGO1   
+LOGO4   
+Q1       1        N$75
+         2        REGINPUTS
+         3        VIN
+
+R1       1        N$26
+         2        NRESET
+
+R2       1        GND
+         2        N$75
+
+R3       1        NRESET
+         2        3.3V
+
+R4       1        VBDET
+         2        VBUS
+
+R5       1        GND
+         2        VBDET
+
+R6       1        SWDIO/TMS
+         2        3.3V
+
+R7       1        GND
+         2        N$25
+
+R8       1        GND
+         2        N$29
+
+R9       1        SWCLK/TCK
+         2        3.3V
+
+R10      1        NRESET
+         2        3.3V
+
+R11      1        N$25
+         2        VCCA
+
+R12      1        N$29
+         2        3.3V
+
+R13      1        N$11
+         2        3.3V
+
+R14      1        I2C_SDA
+         2        3.3V
+
+R15      1        I2C_SCK
+         2        3.3V
+
+R16      1        3.3V
+         2        N$24
+
+R17      1        GND
+         2        N$16
+
+R18      1        SDCD
+         2        3.3V
+
+R19      1        SDD2
+         2        3.3V
+
+R20      1        SDD3
+         2        3.3V
+
+R21      1        SDD0
+         2        3.3V
+
+R22      1        SDD1
+         2        3.3V
+
+R23      1        SDCMD
+         2        3.3V
+
+R24      1        TDMI
+         2        TDMI_C
+
+R25      1        MCLK
+         2        MCLK_C
+
+R26      1        BCLK
+         2        BCLK_C
+
+R27      1        LRCK
+         2        LRCK_C
+
+R28      1        TDMO
+         2        TDMO_C
+
+R29      1        GND
+         2        N$28
+
+R30      1        GND
+         2        N$27
+
+R31      1        GND
+         2        N$23
+
+R32      1        GND
+         2        N$54
+
+R33      1        GND
+         2        N$55
+
+R34      1        GND
+         2        N$53
+
+R35      1        GND
+         2        N$52
+
+R36      1        GND
+         2        N$30
+
+R37      1        N$23
+         2        AOUT1L
+
+R38      1        N$54
+         2        AOUT1R
+
+R39      1        N$55
+         2        AOUT2L
+
+R40      1        N$53
+         2        AOUT2R
+
+R41      1        N$52
+         2        AOUT3L
+
+R42      1        N$30
+         2        AOUT3R
+
+R43      1        N$28
+         2        AOUT4L
+
+R44      1        N$27
+         2        AOUT4R
+
+R45      1        MIDI-IN-PIN4
+         2        56
+
+R46      1        N$38
+         2        MIDI-OUT-PIN5
+
+R47      1        MIDI-OUT-PIN4
+         2        3.3V
+
+R48      1        MIN
+         2        3.3V
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        N$26
+         4                 *** unconnected ***
+
+S2       1        GND
+         2        N$26
+         ANCHOR1           *** unconnected ***
+         ANCHOR2           *** unconnected ***
+
+S3       1        GND
+         2                 *** unconnected ***
+         3        USERSW
+         4                 *** unconnected ***
+
+S4       1        GND
+         2        USERSW
+         ANCHOR1           *** unconnected ***
+         ANCHOR2           *** unconnected ***
+
+TP1      P$1      AIN2L
+
+TP2      P$1      AIN2R
+
+TP3      P$1      N$33
+
+TP4      P$1      N$34
+
+TP5      P$1      SWDIO/TMS
+
+TP6      P$1      SWCLK/TCK
+
+TP7      P$1      TDO
+
+TP8      P$1      TDI
+
+TP9      P$1      NRESET
+
+U1       1        N$25
+         2        VCCA
+         3        REGINPUTS
+         4        VCCA
+
+U2       1        N$29
+         2        3.3V
+         3        REGINPUTS
+         4        3.3V
+
+U3       1        UID12
+         2                 *** unconnected ***
+         3        GND
+         4        VDDOUT
+         5        3.3V
+         6        GND
+         7        GND
+         8        GND
+         9        N$17
+         10       GND
+         11       BCLK
+         12       LRCK
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       MCLK
+         16       UIA4
+         17       UIA1
+         18       VDDOUT
+         19       3.3V
+         20       UIA2
+         21       UIA3
+         22       VDDOUT
+         23       TXD
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26       USERSW
+         27                *** unconnected ***
+         28       3.3V
+         29       GND
+         30       N$8
+         31       N$10
+         32                *** unconnected ***
+         33                *** unconnected ***
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36       TDMO
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39       VDDOUT
+         40       SDCLK
+         41                *** unconnected ***
+         42       SDD2
+         43                *** unconnected ***
+         44                *** unconnected ***
+         45                *** unconnected ***
+         46       TDMI
+         47       VBDET
+         48                *** unconnected ***
+         49       SDCD
+         50       SDD3
+         51       RXD
+         52                *** unconnected ***
+         53                *** unconnected ***
+         54                *** unconnected ***
+         55       I2C_SCK
+         56       MOUT
+         57       SWDIO/TMS
+         58       NRESET
+         59                *** unconnected ***
+         60                *** unconnected ***
+         61                *** unconnected ***
+         62                *** unconnected ***
+         63       SWCLK/TCK
+         64       I2C_SDA
+         65       UID1
+         66                *** unconnected ***
+         67       GND
+         68       3.3V
+         69       UID2
+         70       APDN
+         71                *** unconnected ***
+         72       DBUG
+         73                *** unconnected ***
+         74       TDI
+         75       MIN
+         76       VDDOUT
+         77       TDO
+         78       UID3
+         79       SDCMD
+         80       UID4
+         81       3.3V
+         82       SDD0
+         83       SDD1
+         84       UID5
+         85       UID6
+         86       N$5
+         87       UID7
+         88       UID8
+         89       UID9
+         90       N$4
+         91       UID10
+         92       UID11
+         93       3.3V
+         94       HSDM
+         95       HSDP
+         96       N$3
+         97       N$16
+         98       N$1
+         99       N$2
+         100               *** unconnected ***
+
+U4       1        LRCK_C
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        TDMO_C
+         8        APDN
+         9                 *** unconnected ***
+         10       N$15
+         11                *** unconnected ***
+         12       N$14
+         13       AIN2L
+         14                *** unconnected ***
+         15       AIN2R
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       VCCA
+         19       GND
+         20       N$12
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27       N$34
+         28       N$33
+         29       N$32
+         30       N$31
+         31       N$22
+         32       N$21
+         33       N$20
+         34       N$19
+         35       N$18
+         36       N$13
+         37       VCCA
+         38       GND
+         39       3.3V
+         40       GND
+         41       N$6
+         42       TDMI_C
+         43                *** unconnected ***
+         44                *** unconnected ***
+         45       I2C_SDA
+         46       I2C_SCK
+         47       MCLK_C
+         48       BCLK_C
+
+U5       1        GND
+         2        MOUT
+         3        GND
+         4        N$38
+         5        3.3V
+
+U6       1                 *** unconnected ***
+         2        56
+         3        MIDI-IN-PIN5
+         4                 *** unconnected ***
+         5        GND
+         6        MIN
+         7                 *** unconnected ***
+         8        3.3V
+
+Y1       1        N$1
+         2        GND
+         3        N$2
+         4        GND
+

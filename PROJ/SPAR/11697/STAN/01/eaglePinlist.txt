@@ -1,0 +1,164 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 21:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        3.3V
+         C        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        N$6
+         2        GND
+
+C4       1        N$3
+         2        GND
+
+C11      1        3V-INT
+         2        GND
+
+C14      1        5V
+         2        GND
+
+D1       A        N$1
+         C        TXLED
+
+D2       A        N$4
+         C        RXLED
+
+D3       A        N$2
+         C        GND
+
+D4       A        N$38
+         C        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP2      1        GND
+         2        DTR_XBEE
+         3        RES1
+         4        DIO11
+         5        RSSI
+         6        RESET
+         7        DIO12
+         8        DIN
+         9        DOUT
+         10       3.3V
+         11       GND
+
+JP3      1        DIO0
+         2        DIO1
+         3        DIO2
+         4        DIO3
+         5        RTS_XBEE
+         6        DIO5
+         7        RES2
+         8        DIO9
+         9        CTS_XBEE
+         10       DIO4
+         11       5V
+
+JP4      D+       N$6
+         D-       N$3
+         GND      GND
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         VBUS     5V
+
+LOGO1   
+LOGO2   
+R1       1        3.3V
+         2        N$1
+
+R2       1        N$3
+         2        N$5
+
+R3       1        3.3V
+         2        N$4
+
+R4       1        N$2
+         2        N$8
+
+R5       1        N$7
+         2        N$6
+
+R11      1        N$38
+         2        5V
+
+S2       1        GND
+         2                 *** unconnected ***
+         3        RESET
+         4                 *** unconnected ***
+
+SJ1      1        RSSI
+         2        N$8
+
+SJ2      1        RTS
+         2        RTS_XBEE
+
+SJ3      1        CTS
+         2        CTS_XBEE
+
+SJ4      1        DTR
+         2        DTR_XBEE
+
+U$5     
+U$7     
+U$9     
+U$10    
+U$11    
+U2       1        3.3V
+         2        DOUT
+         3        DIN
+         4        DIO12
+         5        RESET
+         6        RSSI
+         7        DIO11
+         8        RES1
+         9        DTR_XBEE
+         10       GND
+         11       DIO4
+         12       CTS_XBEE
+         13       DIO9
+         14       RES2
+         15       DIO5
+         16       RTS_XBEE
+         17       DIO3
+         18       DIO2
+         19       DIO1
+         20       DIO0
+
+U3       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        DTR
+         2        RTS
+         3        3V-INT
+         4        DOUT
+         5                 *** unconnected ***
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        CTS
+         10       TXLED
+         11       N$7
+         12       N$5
+         13       3V-INT
+         14       3V-INT
+         15       5V
+         16       GND
+         17       RXLED
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       DIN
+

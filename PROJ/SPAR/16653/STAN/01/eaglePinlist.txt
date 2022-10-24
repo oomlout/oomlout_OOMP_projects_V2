@@ -1,0 +1,338 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$29
+         2        LEFTMIC
+
+C2       1        N$30
+         2        RIGHTMIC
+
+C3       1        GND
+         2        3.3V
+
+C4       1        GND
+         2        3.3V
+
+C5       1        GND
+         2        3.3V
+
+C6       1        GND
+         2        5V
+
+C7       1        GND
+         2        5V
+
+C8       1        GND
+         2        N$38
+
+C9       1        GND
+         2        MICBIAS
+
+C10      1        MICBIAS
+         2        GND
+
+C11      1        MICBIAS
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        3.3V
+         2        GND
+
+D1       1        5V
+         2        N$8
+         3        GND
+         4        LED_DATA
+
+D2       1        5V
+         2        N$9
+         3        GND
+         4        N$8
+
+D3       1        5V
+         2        N$1
+         3        GND
+         4        N$9
+
+D4       1        5V
+         2        N$2
+         3        GND
+         4        N$1
+
+D5       1        5V
+         2        N$3
+         3        GND
+         4        N$2
+
+D6       1        5V
+         2                 *** unconnected ***
+         3        GND
+         4        N$3
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+H1      
+H2      
+H3      
+H4      
+I2C      1        N$17
+         2        3.3V
+         3        N$16
+
+J1       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J2       1        MISO
+         2        3.3V
+         3        SCL
+         4        SDA
+         5        !RST_ATTINY
+         6        GND
+
+J3       1        GND
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        N$4
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       GND
+         12       GND
+         13       GND
+         14       GND
+         15       GND
+         16       GND
+         17       GND
+         18       GND
+         19       GND
+         20       GND
+         21       GND
+         22       GND
+         23       GND
+         24       GND
+         25       GND
+         26       GND
+         27       GND
+         28       SDO
+         29       3.3V
+         30       D/C
+         31       3.3V
+         32       !CS
+         33       SCK
+         34       !RST_SCREEN
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38       3.3V
+         39       SDI
+         40       GND
+
+LOGO2   
+LOGO3   
+LOGO4   
+LS2      +        N$6
+         -        N$22
+
+Q2       1        !BKLITE
+         2        3.3V
+         3        N$4
+
+R1       1        !RST_ATTINY
+         2        3.3V
+
+R2       1        SCL
+         2        N$16
+
+R3       1        SDA
+         2        N$17
+
+R4       1        !CS
+         2        3.3V
+
+S3       1        GND
+         2                 *** unconnected ***
+         3        BTN_A
+         4                 *** unconnected ***
+
+S4       1        GND
+         2                 *** unconnected ***
+         3        BTN_B
+         4                 *** unconnected ***
+
+S6       A        BTN_UP
+         B        BTN_RIGHT
+         C        BTN_LEFT
+         D        BTN_DOWN
+         NC                *** unconnected ***
+         CTR      BTN_CENTER
+         GND      GND
+         NC@0              *** unconnected ***
+
+TP1      P$1      SCL
+
+TP2      P$1      SDA
+
+TP3      P$1      SDI
+
+TP4      P$1      SDO
+
+TP5      P$1      SCK
+
+TP6      P$1      !CS
+
+TP7      P$1      LED_DATA
+
+TP8      P$1      BCLK
+
+TP9      P$1      DAC-LRC
+
+TP10     P$1      ADC-DAT
+
+TP11     P$1      DAC-DAT
+
+TP12     P$1      !BKLITE
+
+TP13     P$1      !RST_SCREEN
+
+TP14     P$1      D/C
+
+TP15     P$1      !INT
+
+U$1     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U1       1        3.3V
+         2        5V
+         3        SDA
+         4        5V
+         5        SCL
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       BCLK
+         13                *** unconnected ***
+         14       GND
+         15       !BKLITE
+         16       !RST_SCREEN
+         17       3.3V
+         18       D/C
+         19       SDI
+         20       GND
+         21       SDO
+         22       !INT
+         23       SCK
+         24       !CS
+         25       GND
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30       GND
+         31                *** unconnected ***
+         32       LED_DATA
+         33                *** unconnected ***
+         34       GND
+         35       DAC-LRC
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38       ADC-DAT
+         39       GND
+         40       DAC-DAT
+
+U2       1        LEFTMIC
+         2        GND
+         4        GND
+         5        MICBIAS
+         6        GND
+
+U3       1        RIGHTMIC
+         2        GND
+         4        GND
+         5        MICBIAS
+         6        GND
+
+U4       1        MICBIAS
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        N$29
+         5        N$30
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        3.3V
+         9        GND
+         10       3.3V
+         11       N$11
+         12       BCLK
+         13       DAC-LRC
+         14       DAC-DAT
+         15       DAC-LRC
+         16       ADC-DAT
+         17       SCL
+         18       SDA
+         19                *** unconnected ***
+         20       GND
+         21       5V
+         22                *** unconnected ***
+         23       N$22
+         24       GND
+         25       N$6
+         26       5V
+         27       N$38
+         28       GND
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32       3.3V
+         PADDLE   GND
+
+U5       1        3.3V
+         2        BTN_A
+         3        BTN_B
+         4        !RST_ATTINY
+         5        BTN_LEFT
+         6        !INT
+         7        SDA
+         8        MISO
+         9        SCL
+         10       BTN_CENTER
+         11       BTN_UP
+         12       BTN_RIGHT
+         13       BTN_DOWN
+         14       GND
+
+Y1       1        3.3V
+         2        GND
+         3        N$11
+         4        3.3V
+

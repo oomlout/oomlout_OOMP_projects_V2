@@ -1,0 +1,67 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        GND
+         2        3.3V
+         3        SDI/SDA
+         4        SCK/SCL
+
+JP2      1        !CS
+         2        SDI/SDA
+         3        SDO/ADR
+         4        SCK/SCL
+         5        3.3V
+         6        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        SDI/SDA
+         2        N$1
+
+R2       1        SCK/SCL
+         2        N$2
+
+R3       1        !CS
+         2        N$3
+
+R4       1        N$4
+         2        3.3V
+
+SJ1      1        N$2
+         2        3.3V
+         3        N$1
+
+SJ2      1        N$3
+         2        3.3V
+
+SJ3      1        GND
+         2        SDO/ADR
+         3        N$4
+
+STANDOFF4
+U1       P$1      GND
+         P$2      !CS
+         P$3      SDI/SDA
+         P$4      SCK/SCL
+         P$5      SDO/ADR
+         P$6      3.3V
+         P$7      GND
+         P$8      3.3V
+

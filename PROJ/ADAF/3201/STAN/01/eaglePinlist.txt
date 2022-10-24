@@ -1,0 +1,265 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 21:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$1
+         2        GND
+
+C2       1        N$2
+         2        GND
+
+C3       1        N$7
+         2        RX+
+
+C4       1        N$8
+         2        RX-
+
+C5       1        N$9
+         2        AGND
+
+C6       1        N$10
+         2        AGND
+
+C7       1        AVDD
+         2        AGND
+
+C8       1        AVDD
+         2        AGND
+
+C9       1        AVDD
+         2        AGND
+
+C10      1        AVDD
+         2        AGND
+
+C11      1        AVDD
+         2        AGND
+
+C12      1        N$12
+         2        AGND
+
+C13      1        N$11
+         2        AGND
+
+C14      1        3.3V
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+FB1      1        GND
+         2        AGND
+
+FB2      1        3.3V
+         2        AVDD
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+IC1      1        CS
+         2        MISO
+         3        GND
+         4        MISO_MCU
+         5        3.3V
+
+JP1      1        CS
+         2        IRQ
+         3        RESET
+
+JP2      1        MISO_MCU
+         2        MOSI
+         3        SCK
+         4        N$28
+         5        N$29
+         6        N$30
+         7        N$31
+         8        N$32
+         9        N$33
+         10       GND
+         11       N$34
+         12       3.3V
+         13       N$22
+
+JP4      1        VBAT
+         2        N$15
+         3        USB
+         4        N$16
+         5        N$17
+         6        N$18
+         7        N$19
+         8        N$20
+         9        N$21
+
+MS1      1        N$22
+         2        3.3V
+         3        N$34
+         4        GND
+         5        N$33
+         6        N$32
+         7        N$31
+         8        N$30
+         9        N$29
+         10       N$28
+         11       SCK
+         12       MOSI
+         13       MISO_MCU
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       N$21
+         21       N$20
+         22       N$19
+         23       N$18
+         24       N$17
+         25       N$16
+         26       USB
+         27       N$15
+         28       VBAT
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+
+R1       1        N$3
+         2        AGND
+
+R2       1        N$1
+         2        N$2
+
+R3       1        IRQ
+         2        3.3V
+
+R4       1        TX+
+         2        AVDD
+
+R5       1        3.3V
+         2        N$4
+
+R6       1        3.3V
+         2        N$5
+
+R7       1        3.3V
+         2        N$6
+
+R8       1        3.3V
+         2        RESET
+
+R9       1        TX-
+         2        AVDD
+
+R10      1        N$9
+         2        RX+
+
+R11      1        N$9
+         2        RX-
+
+R12      1        N$10
+         2        AVDD
+
+R13      1        YELLOWLED
+         2        N$13
+
+R14      1        GREENLED
+         2        N$14
+
+R15      1        CS
+         2        3.3V
+
+SJ1      1        N$4
+         2        GND
+
+SJ2      1        N$5
+         2        GND
+
+SJ3      1        N$6
+         2        GND
+
+SJ4      1        CS
+         2        N$19
+         WIRE              *** unconnected ***
+
+SW1      A        GND
+         B        N$22
+         A'       GND
+         B'       N$22
+
+U$1      1        TX-
+         2        TX+
+         3        AGND
+         4        AVDD
+         5        RX-
+         6        RX+
+         7                 *** unconnected ***
+         8        AVDD
+         9        AGND
+         10       N$3
+         11       AVDD
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       AGND
+         15       AVDD
+         16       AGND
+         17       AVDD
+         18                *** unconnected ***
+         19       AGND
+         20       N$12
+         21       AVDD
+         22       N$11
+         23       GND
+         24                *** unconnected ***
+         25       N$14
+         26                *** unconnected ***
+         27       N$13
+         28       3.3V
+         29       GND
+         30       N$2
+         31       N$1
+         32       CS
+         33       SCK
+         34       MISO
+         35       MOSI
+         36       IRQ
+         37       RESET
+         38                *** unconnected ***
+         39                *** unconnected ***
+         40                *** unconnected ***
+         41                *** unconnected ***
+         42                *** unconnected ***
+         43       N$6
+         44       N$5
+         45       N$4
+         46                *** unconnected ***
+         47                *** unconnected ***
+         48       AGND
+
+U$45    
+U$48    
+U$49    
+X1       1        TX+
+         2        TX-
+         3        N$10
+         4        GND
+         5        GND
+         6        N$9
+         7        N$7
+         8        N$8
+         9        GREENLED
+         10       3.3V
+         11       YELLOWLED
+         12       3.3V
+         P$5               *** unconnected ***
+         P$6               *** unconnected ***
+
+Y1       1        N$1
+         2        N$2
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+

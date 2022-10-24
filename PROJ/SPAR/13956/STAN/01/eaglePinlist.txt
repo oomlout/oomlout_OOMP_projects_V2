@@ -1,0 +1,217 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 22:32
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        N$5
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C13      A        VIN
+         C        GND
+
+C14      A        3.3V
+         C        GND
+
+D1       A        N$3
+         C        GND
+
+D3       A        N$7
+         C        GND
+
+D5       A        RAIN
+         C        5V
+
+D6       A        GND
+         C        RAIN
+
+D7       A        WDIR
+         C        5V
+
+D8       A        GND
+         C        WDIR
+
+D9       A        WSPEED
+         C        5V
+
+D10      A        GND
+         C        WSPEED
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        3.3V
+         3        GPS-TX
+         4        GPS-RX
+         5        V_BATT
+         6        3V_PWR_CTL
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+
+JP1      1        N$6
+         2        INT-PRESSURE
+
+JP2      1        GND
+         2        V_BATT
+
+JP9-DNP  1                 *** unconnected ***
+         2        RAIN2
+         3        N$4
+         4        N$11
+         5        RAIN5
+         6                 *** unconnected ***
+
+JP10-DNP 1                 *** unconnected ***
+         2        N$2
+         3        N$1
+         4        N$13
+         5        N$12
+         6                 *** unconnected ***
+
+LOGO1   
+LOGO2   
+Q1       1        3.3V
+         2        SDA
+         3        HV_SDA
+
+Q2       1        3.3V
+         2        SCL
+         3        HV_SCL
+
+R1       1        STAT1
+         2        N$3
+
+R2       1        3.3V
+         2        SCL
+
+R3       1        3.3V
+         2        SDA
+
+R4       1        5V
+         2        HV_SDA
+
+R5       1        5V
+         2        HV_SCL
+
+R6       1        STAT2
+         2        N$7
+
+R7       1        BATT_LVL
+         2        GND
+
+R8       1        VIN
+         2        BATT_LVL
+
+R9       1        PWR_CTL
+         2        3V_PWR_CTL
+
+R10      1        GND
+         2        LIGHT
+
+R11      1        RAIN
+         2        N$4
+
+R12      1        N$11
+         2        GND
+
+R13      1        WDIR
+         2        N$2
+
+R14      1        WSPEED
+         2        N$1
+
+R15      1        N$12
+         2        GND
+
+R16      1        N$13
+         2        GND
+
+R17      1        5V
+         2        WDIR
+
+S2       1        TXO
+         2        GPS-RX
+         3        GTXO
+         4        RXI
+         5        GPS-TX
+         6        GRXI
+
+U$2     
+U1       5V       5V
+         A0       WDIR
+         A1       LIGHT
+         A2       BATT_LVL
+         A3       3.3V
+         A4       HV_SDA
+         A5       HV_SCL
+         D2       RAIN
+         D3       WSPEED
+         D4       GTXO
+         D5       GRXI
+         D6       PWR_CTL
+         D7       STAT1
+         D8       STAT2
+         D9                *** unconnected ***
+         NC                *** unconnected ***
+         RX       RXI
+         TX       TXO
+         D10               *** unconnected ***
+         D11               *** unconnected ***
+         D12      N$6
+         D13               *** unconnected ***
+         RES               *** unconnected ***
+         SCL      HV_SCL
+         SDA      HV_SDA
+         VIN      VIN
+         3.3V              *** unconnected ***
+         AREF              *** unconnected ***
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+U3       C        3.3V
+         E        LIGHT
+
+U4       1        3.3V
+         2        N$5
+         3        GND
+         4        3.3V
+         5                 *** unconnected ***
+         6        INT-PRESSURE
+         7        SDA
+         8        SCL
+
+U5       GND      GND
+         SCK      SCL
+         VDD      3.3V
+         DATA     SDA
+         NC@3              *** unconnected ***
+         NC@4              *** unconnected ***
+
+U6       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+

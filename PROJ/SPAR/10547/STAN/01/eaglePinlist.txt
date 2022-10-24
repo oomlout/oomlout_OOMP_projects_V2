@@ -1,0 +1,133 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 12:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     GND@1    GND
+         GND@2             *** unconnected ***
+         PWR@1    N$4
+         PWR@2             *** unconnected ***
+
+BAT2     GND@1    N$4
+         GND@2             *** unconnected ***
+         PWR@1    N$2
+         PWR@2             *** unconnected ***
+
+C1       1        GND
+         2        3.3V
+
+C2       1        DTR
+         2        RESET
+
+IC1      1        RESET
+         2        RX-I
+         3        TX-O
+         4        BUTTON_GREEN
+         5        LED_GREEN
+         6        BUZZER1
+         7        3.3V
+         8        GND
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       LED_YELLOW
+         12       BUTTON_YELLOW
+         13       BUZZER2
+         14       O4
+         15       BUTTON_RED
+         16       LED_RED
+         17       MOSI
+         18       BUTTON_BLUE
+         19       LED_BLUE/SCK
+         20       3.3V
+         21       3.3V
+         22       GND
+         23       A0
+         24       A1
+         25       A2
+         26       A3
+         27       A4
+         28       A5
+
+JP1      1        DTR
+         2        TX-O
+         3        RX-I
+         4                 *** unconnected ***
+         5        GND
+         6        GND
+
+JP2      1        GND
+         2        LED_RED
+
+JP3      1        BUTTON_BLUE
+         2        3.3V
+         3        LED_BLUE/SCK
+         4        MOSI
+         5        RESET
+         6        GND
+
+JP4      1        GND
+         2        3.3V
+         3        A0
+         4        A1
+         5        A2
+         6        A3
+         7        A4
+         8        A5
+
+JP5      1        LED_RED
+         2        GND
+
+JP6      1        LED_GREEN
+         2        GND
+
+JP7      1        GND
+         2        LED_GREEN
+
+JP8      1        LED_BLUE/SCK
+         2        GND
+
+JP9      1        GND
+         2        LED_BLUE/SCK
+
+JP10     1        LED_YELLOW
+         2        GND
+
+JP11     1        GND
+         2        LED_YELLOW
+
+P1-      A1       LED_BLUE/SCK
+         A2       LED_YELLOW
+         A3       LED_RED
+         A4       LED_GREEN
+         K1       GND
+         K2       GND
+         K3       GND
+         K4       GND
+         SIG1     BUTTON_BLUE
+         SIG2     GND
+         SIG3     BUTTON_YELLOW
+         SIG4     GND
+         SIG5     BUTTON_RED
+         SIG6     GND
+         SIG7     BUTTON_GREEN
+         SIG8     GND
+
+R1       P$1      RESET
+         P$2      3.3V
+
+S1       1                 *** unconnected ***
+         2        N$2
+         3        3.3V
+
+S2       1                 *** unconnected ***
+         2        N$3
+         3        BUZZER2
+
+SG1      +        BUZZER1
+         -        N$3
+
+U$1     
+U$2     

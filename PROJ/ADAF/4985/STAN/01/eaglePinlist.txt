@@ -1,0 +1,431 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 06:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VBUS
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        IO38_DOUBLETAP
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C9       1        GND
+         2        3.3V
+
+C10      1        3.3V
+         2        GND
+
+C11      1        VHIGH
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        3.3V
+         2        GND
+
+C14      1        RESET
+         2        GND
+
+C15      1        VBUS
+         2        GND
+
+C17      1        3.3V
+         2        GND
+
+C20      1        VCC
+         2        GND
+
+CONN1    1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         MT1      GND
+         MT2      GND
+
+D1       A        GND
+         C        AD1
+
+D2       A        GND
+         C        AD2
+
+D3       A        N$5
+         C        VHIGH
+
+D6       A        GND
+         C        AD0
+
+DS0      1        N$10
+         2        N$11
+         3        3.3V
+         4        GND
+         5        DS_CLK
+         6        DS_DATA
+
+DS1      1        N$12
+         2        N$14
+         3        3.3V
+         4        GND
+         5        N$11
+         6        N$10
+
+DS2      1        N$15
+         2        N$17
+         3        3.3V
+         4        GND
+         5        N$14
+         6        N$12
+
+DS3      1        N$24
+         2        N$25
+         3        3.3V
+         4        GND
+         5        N$17
+         6        N$15
+
+DS4      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        3.3V
+         4        GND
+         5        N$25
+         6        N$24
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FID5     1                 *** unconnected ***
+
+FID6     1                 *** unconnected ***
+
+JP1      1        3.3V
+         2        3.3V
+         3        PIR_SENSE
+         4        PIR_SENSE
+         5        GND
+         6        GND
+
+JP2      1        3.3V
+         2        3.3V
+         3        PIR_SENSE
+         4        PIR_SENSE
+         5        GND
+         6        GND
+         T1       3.3V
+         T2       3.3V
+         T3       PIR_SENSE
+         T4       PIR_SENSE
+         T5       GND
+         T6       GND
+
+L        A        N$1
+         C        GND
+
+ON       A        N$3
+         C        GND
+
+Q1       1        TFT_LITE
+         2        GND
+         3        N$99
+
+Q3       1        EN
+         2        VBUS
+         3        VHIGH
+
+Q4       1        SPKR
+         2        GND
+         3        N$5
+
+R1       1        RESET
+         2        3.3V
+
+R2       1        A2_JST2
+         2        AD2
+
+R3       1        GND
+         2        CC2
+
+R4       1        3.3V
+         2        TFT_CS
+
+R5       1        3.3V
+         2        SCL
+
+R6       1        N$3
+         2        N$2
+
+R7       1        3.3V
+         2        SDA
+
+R8       1        GND
+         2        CC1
+
+R9       1        N$1
+         2        MISO
+
+R10      1        GND
+         2        TFT_LITE
+
+R11      1        N$99
+         2        TFT_LEDK
+
+R12      1        VBUS
+         2        EN
+
+R13      1        GND
+         2        SPKR
+
+R14      1        GND
+         2        PIR_SENSE
+
+R16      1        AD1_JST
+         2        AD1
+
+R17      1        GND
+         2        IO38_DOUBLETAP
+
+R18      1        A0_JST
+         2        AD0
+
+R20      1        GND
+         2        LIGHT
+
+SENSE    1        GND
+         2        VCC
+         3        AD1_JST
+         NC1      GND
+         NC2      GND
+
+SENSE1   1        GND
+         2        VCC
+         3        A0_JST
+         NC1      GND
+         NC2      GND
+
+SENSE3   1        GND
+         2        VCC
+         3        A2_JST2
+         NC1      GND
+         NC2      GND
+
+SJ1      1        N$2
+         2        3.3V
+         WIRE              *** unconnected ***
+
+SJ2      1        VHIGH
+         2        VCC
+         3        3.3V
+
+SP1      +        VHIGH
+         -        N$5
+         MT                *** unconnected ***
+         MT2               *** unconnected ***
+
+SW2      P$1      3.3V
+         P$2      BUTTON_UP
+
+SW3      O1       GND
+         O2       GND
+         P1       GND
+         P2       EN
+         S1       GND
+         S2                *** unconnected ***
+
+SW4      1        GND
+         2        BOOT0
+         3        GND
+         4        BOOT0
+
+SW5      P$1      3.3V
+         P$2      BUTTON_SEL
+
+SW6      P$1      3.3V
+         P$2      BUTTON_DOWN
+
+SW7      P$1      GND
+         P$2      RESET
+
+TFT1     1        3.3V
+         2        TFT_LEDK
+         3        3.3V
+         4        3.3V
+         5        GND
+         6        3.3V
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+         14       GND
+         15       GND
+         16       TFT_DC
+         17       SCK
+         18       TFT_CS
+         19                *** unconnected ***
+         20       TFT_RESET
+         21       MOSI
+         22       GND
+         SUPPORT1 GND
+         SUPPORT2 GND
+
+TP1      P$1      BOOT0
+
+TP2      P$1      RXD0
+
+TP3      P$1      TXD0
+
+TP4      P$1               *** unconnected ***
+
+TP5      P$1               *** unconnected ***
+
+TP6      P$1      RESET
+
+TP7      P$1               *** unconnected ***
+
+TP8      P$1               *** unconnected ***
+
+U$41    
+U$45    
+U$69    
+U1       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         5        3.3V
+         6        3.3V
+         7        GND
+         8        3.3V
+
+U2       C        3.3V
+         E        LIGHT
+
+U3       1        GND
+         2        3.3V
+         3        BOOT0
+         4        AD2
+         5        AD1
+         6        BUTTON_DOWN
+         7        BUTTON_SEL
+         8        BUTTON_UP
+         9        CT6
+         10       CT7
+         11       CT8
+         12       CT9
+         13       CT10
+         14       CT11
+         15       CT12
+         16       CT13
+         17       DS_DATA
+         18       DS_CLK
+         19       PIR_SENSE
+         20       AD0
+         21       LIGHT
+         22       D-
+         23       D+
+         24       TFT_LITE
+         25                *** unconnected ***
+         26       GND
+         27       SCL
+         28       SDA
+         29       MOSI
+         30       SCK
+         31       MISO
+         32       IO38_DOUBLETAP
+         33       TFT_DC
+         34       TFT_CS
+         35       TFT_RESET
+         36       SPKR
+         37       TXD0
+         38       RXD0
+         39                *** unconnected ***
+         40                *** unconnected ***
+         41       RESET
+         42       GND
+         43_1     GND
+         43_2     GND
+         43_3     GND
+         43_4     GND
+         43_5     GND
+         43_6     GND
+         43_7     GND
+         43_8     GND
+         43_9     GND
+         43_10    GND
+         43_11    GND
+         43_12    GND
+         43_13    GND
+         43_14    GND
+         43_15    GND
+         43_16    GND
+         43_17    GND
+         43_18    GND
+         43_19    GND
+         43_20    GND
+         43_21    GND
+
+U4       1        VHIGH
+         2        GND
+         3        VHIGH
+         4                 *** unconnected ***
+         5        3.3V
+
+U5       1                 *** unconnected ***
+         2        3.3V
+         3        SCL
+         4        SDA
+         5        GND
+         6                 *** unconnected ***
+
+X1       P$1      CT6
+
+X3       P$1      CT7
+
+X4       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+         M3                *** unconnected ***
+         M4                *** unconnected ***
+         A4B9     VBUS
+         B4A9     VBUS
+         A1B12    GND
+         B1A12    GND
+
+X5       P$1      CT8
+
+X6       P$1      CT13
+         P$2      CT12
+         P$3      CT11
+         P$4      CT10
+         P$5      CT9
+

@@ -1,0 +1,249 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 09:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+A4       1        SDA_IN
+         2        N$4
+
+A5       1        SCL_IN
+         2        N$6
+
+BAT1     GND      GND
+         PWR@1    VBAT
+         PWR@2             *** unconnected ***
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        3.3V
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        VCCIO
+         2        GND
+
+C13      1        VCCIO
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME2  
+J1       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+JP1      1        VBAT
+
+JP2      1        32KHZ
+         2        SQW
+         3        PP
+
+JP3      1        ANT2
+         2        ANT1
+         3        SCL
+         4        SDA
+         5        3.3V
+         6        GND
+
+LOGO2   
+LOGO3   
+Q1       1        N$20
+         2        GND
+         3        N$18
+
+Q2       1        3.3V
+         2        SDA
+         3        SDA_IN
+
+Q3       1        3.3V
+         2        SCL
+         3        SCL_IN
+
+R1       1        N$12
+         2        N$1
+
+R2       1        3.3V
+         2        N$18
+
+R3       1        N$19
+         2        3.3V
+
+R4       1        3.3V
+         2        SDA
+
+R5       1        3.3V
+         2        SCL
+
+R6       1        VCCIO
+         2        SDA_IN
+
+R7       1        VCCIO
+         2        SCL_IN
+
+S2       1        GND
+         2                 *** unconnected ***
+         3        PP
+         4                 *** unconnected ***
+
+STAT     A        N$12
+         C        GND
+
+U$3     
+U$101   
+U1       1                 *** unconnected ***
+         2        !RESET
+         3        GND
+         4        N$20
+         5        VCCIO
+
+U2       1                 *** unconnected ***
+         2        GND
+         3        TPM_CLK
+         4        3.3V
+
+U3       1        GND
+         2        VCCIO
+         3        ANT1
+         4        ANT2
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9        RX
+         10       N$1
+         11       VCCIO
+         NC                *** unconnected ***
+
+U4       5V                *** unconnected ***
+         A0                *** unconnected ***
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4       N$4
+         A5       N$6
+         D2                *** unconnected ***
+         D3                *** unconnected ***
+         D4                *** unconnected ***
+         D5                *** unconnected ***
+         D6                *** unconnected ***
+         D7                *** unconnected ***
+         D8                *** unconnected ***
+         D9                *** unconnected ***
+         NC                *** unconnected ***
+         RX       RX
+         TX                *** unconnected ***
+         D10               *** unconnected ***
+         D11               *** unconnected ***
+         D12               *** unconnected ***
+         D13               *** unconnected ***
+         RES      !RESET
+         SCL      SCL_IN
+         SDA      SDA_IN
+         VIN               *** unconnected ***
+         3.3V     3.3V
+         AREF              *** unconnected ***
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    VCCIO
+
+U5       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        SDA
+         6        SCL
+         7                 *** unconnected ***
+         8        3.3V
+
+U6       1        SDA
+         2        SCL
+         3        GND
+         4        GND
+         5        3.3V
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        GND
+         9        GND
+         10       3.3V
+         11       GND
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       GND
+         16       N$18
+         17       GND
+         18       GND
+         19       3.3V
+         20       GND
+         21       TPM_CLK
+         22       3.3V
+         23       GND
+         24       3.3V
+         25       GND
+         26       GND
+         27       N$19
+         28       3.3V
+
+U7       1        32KHZ
+         2        3.3V
+         3        SQW
+         4        PP
+         5        GND
+         6        VBAT
+         7        SDA
+         8        SCL
+
+U8       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        SDA
+         6        SCL
+         7                 *** unconnected ***
+         8        3.3V
+
+U9       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        SDA
+         6        SCL
+         7                 *** unconnected ***
+         8        3.3V
+

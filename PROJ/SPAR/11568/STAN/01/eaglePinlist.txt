@@ -1,0 +1,67 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 21:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+AJ1      RSH      A1SEN
+         TIP      N$4
+         TSH               *** unconnected ***
+         RING     N$3
+         SLEEVE   GND
+
+AJ2      RSH      A2SEN
+         TIP      N$2
+         TSH               *** unconnected ***
+         RING     N$1
+         SLEEVE   GND
+
+C1       1        A1+
+         2        GND
+
+C2       1        A1-
+         2        GND
+
+C3       1        A2+
+         2        GND
+
+C4       1        A2-
+         2        GND
+
+FRAME1  
+FRAME2  
+JP1      1        GND
+         2                 *** unconnected ***
+         3        3.3V
+         4                 *** unconnected ***
+
+JP2      1        A2-
+         2        A2SEN
+         3        A2+
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6        A1-
+         7        A1SEN
+         8        A1+
+
+JP3     
+JP4     
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+R1       1        A1+
+         2        N$3
+
+R2       1        A1-
+         2        N$4
+
+R3       1        A2+
+         2        N$1
+
+R4       1        A2-
+         2        N$2
+
+U$1     

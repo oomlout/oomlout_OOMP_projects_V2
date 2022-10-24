@@ -1,0 +1,360 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     GND      GND
+         PWR@1    V_BATT
+         PWR@2             *** unconnected ***
+
+C1       1        5V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        IOREF
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+D1       A        N$1
+         C        GND
+
+D2       A        N$17
+         C        N$2
+
+FRAME1  
+J1       5V       5V
+         A0       N$14
+         A1       N$13
+         A2       N$12
+         A3       N$11
+         A4       N$4
+         A5       N$3
+         D2       N$5
+         D3       N$6
+         D4       N$7
+         D5       N$8
+         D6       N$9
+         D7       N$10
+         D8       D8_SW_RX
+         D9       D9_SW_TX
+         NC                *** unconnected ***
+         RX       HW_RX
+         TX       HW_TX
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         RES      !RESET!
+         SCK      ICSP_SCK
+         SCL      N$22
+         SDA      N$21
+         VIN      N$24
+         3.3V     3.3VIN
+         AREF     N$20
+         MISO     ICSP_MISO
+         MOSI     ICSP_MOSI
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    IOREF
+         5V_ICSP           *** unconnected ***
+         GND_ICSP GND
+         RST_ICSP !RESET!
+
+J2       CS       !SD_CS!
+         DI       SD_MOSI
+         DO       SD_MISO
+         CD1      CD
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      3.3V
+         GND1     GND
+         GND3     GND
+         RSV1     N$18
+         RSV2     N$19
+         SCLK     SD_SCK
+
+JP1      1        N$16
+         2        N$16
+         3        N$16
+         4        N$16
+         5        N$16
+         6        N$16
+         7        N$16
+         8        N$16
+         9        N$16
+         10       N$16
+
+JP2      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP3      1        N$24
+         2        GND
+         3        GND
+         4        5V
+         5        3.3VIN
+         6        !RESET!
+         7        IOREF
+
+JP4      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP5      1        N$3
+         2        N$4
+         3        N$11
+         4        N$12
+         5        N$13
+         6        N$14
+
+JP6      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP7      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP8      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP9      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP10     1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+
+JP11     1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP12     1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+
+JP13     1        HW_RX
+         2        HW_TX
+         3        N$5
+         4        N$6
+         5        N$7
+         6        N$8
+         7        N$9
+         8        N$10
+
+JP14     1        D8_SW_RX
+         2        D9_SW_TX
+         3        D10
+         4        D11
+         5        D12
+         6        D13
+         7        GND
+         8        N$20
+         9        N$21
+         10       N$22
+
+JP15     1        N$122
+         2        N$121
+
+JP16     1        CD
+
+JP17     1        HV_CS
+
+JP19     1                 *** unconnected ***
+
+JP20     1                 *** unconnected ***
+
+JP21     1        3.3V
+         2        V_BATT
+         3        GPS_FIX
+         4        GPS_TX
+         5        GPS_RX
+         6        GPS_RST
+         7        PPS
+         8        GND
+
+LOGO1   
+LOGO2   
+R1       1        N$1
+         2        N$15
+
+R2       1        N$18
+         2        3.3V
+
+R3       1        N$19
+         2        3.3V
+
+R4       1        GND
+         2        N$2
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        !RESET!
+         4                 *** unconnected ***
+
+S2       1        HW_RX
+         2        TX
+         3        N$122
+         4        HW_TX
+         5        RX
+         6        N$121
+
+SJ1      1        3.3V
+         2        N$16
+         3        5V
+
+SJ2      1        3.3V
+         2        N$15
+
+SJ3      1        3.3V
+         2        IOREF
+         3        5V
+
+SJ4      1        D8_SW_RX
+         2        N$122
+
+SJ5      1        D9_SW_TX
+         2        N$121
+
+SJ6      1        HV_CS
+         2        D10
+
+SJ7      1        ICSP_SCK
+         2        HV_SCK
+         3        D13
+
+SJ8      1        ICSP_MISO
+         2        HV_MISO
+         3        D12
+
+SJ9      1        N$17
+         2        GPS_FIX
+
+SJ10     1        ICSP_MOSI
+         2        HV_MOSI
+         3        D11
+
+SJ11     1        3.3V
+         2        V_BATT
+
+U1       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U2       1        3.3V
+         2                 *** unconnected ***
+         3        GND
+         4        V_BATT
+         5        GPS_FIX
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        GND
+         9        GPS_TX
+         10       GPS_RX
+         11       GND
+         12       PPS
+         13       GPS_RST
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       GND
+
+U3       1        SD_MISO
+         2        SD_SCK
+         3        SD_MOSI
+         4        !SD_CS!
+         5        3.3V
+         6        3.3V
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GPS_RX
+         10       GPS_TX
+         11       TX
+         12       RX
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       GND
+         16       IOREF
+         17       HV_CS
+         18       HV_MOSI
+         19       HV_SCK
+         20       HV_MISO
+

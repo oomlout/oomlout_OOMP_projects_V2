@@ -1,0 +1,393 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 23:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VMOTOR
+         2        GND
+
+C2       1        FUSED_5V
+         2        GND
+
+C3       1        VMOTOR
+         2        GND
+
+C4       1        VMOTOR
+         2        GND
+
+D1       A        N$22
+         C        DOUT
+
+D2       A        N$43
+         C        DIN
+
+D3       A        N$44
+         C        GND
+
+D4       A        AOUT2
+         C        N$5
+
+D5       A        N$3
+         C        AOUT2
+
+D6       A        BOUT2
+         C        N$9
+
+D7       A        N$8
+         C        BOUT2
+
+D8       A        D13
+         C        N$1
+
+D9       A        N$15
+         C        VMOTOR
+
+D10      A        N$16
+         C        VMOTOR
+
+F2       1        5V
+         2        FUSED_5V
+
+F3       1        3.3V
+         2        FUSED_3.3V
+
+F4       1        IOREF
+         2        FUSED_IOREF
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FRAME1  
+J1       GND      GND
+         P$4               *** unconnected ***
+         VIN0     N$10
+         VIN1              *** unconnected ***
+
+J2       1        GND
+         2        FUSED_3.3V
+         3        SDA
+         4        SCL
+
+J3       1        GND
+         2        N$10
+
+JP0      1        GND
+         2        PWR_RAIL
+         3        D0/RXI
+
+JP1      1        GND
+         2        PWR_RAIL
+         3        D1/TXO
+
+JP2      1        GND
+         2        PWR_RAIL
+         3        D2
+
+JP3      1        GND
+         2        PWR_RAIL
+         3        PWMA
+
+JP4      1        GND
+         2        PWR_RAIL
+         3        AIN1
+
+JP5      1        GND
+         2        PWR_RAIL
+         3        AIN2
+
+JP6      1        GND
+         2        PWR_RAIL
+         3        PWMB
+
+JP7      1        GND
+         2        PWR_RAIL
+         3        BIN1
+
+JP8      1        GND
+         2        PWR_RAIL
+         3        BIN2
+
+JP9      1        GND
+         2        PWR_RAIL
+         3        D9
+
+JP10     1        GND
+         2        PWR_RAIL
+         3        D10
+
+JP11     1        GND
+         2        PWR_RAIL
+         3        D11
+
+JP12     1        GND
+         2        PWR_RAIL
+         3        D12
+
+JP13     1        GND
+         2        PWR_RAIL
+         3        D13
+
+JP14     1        GND
+         2        FUSED_IOREF
+         3        A0/SW_RXI
+
+JP15     1        GND
+         2        FUSED_IOREF
+         3        A1/SW_TXO
+
+JP16     1        GND
+         2        FUSED_IOREF
+         3        A2
+
+JP17     1        GND
+         2        FUSED_IOREF
+         3        A3
+
+JP18     1        GND
+         2        FUSED_IOREF
+         3        A4
+
+JP19     1        GND
+         2        FUSED_IOREF
+         3        A5
+
+JP21     1        BOUT2
+         2        BOUT1
+         3        AOUT2
+         4        AOUT1
+
+JP22     1        BOUT2
+         2        BOUT1
+         3        AOUT2
+         4        AOUT1
+
+JP23     1        GND
+         2        DIO11
+         3        RSSI
+
+JP24     1        GND
+         2        DIO1
+         3        DIO0
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+Q1       1        FUSED_3.3V
+         2        DIN
+         3        XBEE_TXO
+
+Q2       1        FUSED_3.3V
+         2        DOUT
+         3        XBEE_RXI
+
+Q3       1        N$2
+         2        GND
+         3        N$11
+
+Q4       1        N$11
+         2        VMOTOR
+         3        PWR_RAIL
+
+Q5       1        N$12
+         2        N$10
+         3        N$15
+
+Q6       1        N$4
+         2        VIN
+         3        N$16
+
+R1       1        N$5
+         2        AOUT1
+
+R2       1        N$3
+         2        AOUT1
+
+R3       1        N$9
+         2        BOUT1
+
+R4       1        N$8
+         2        BOUT1
+
+R5       1        GND
+         2        N$1
+
+R6       1        FUSED_3.3V
+         2        N$22
+
+R7       1        FUSED_3.3V
+         2        N$43
+
+R8       1        N$44
+         2        RSSI
+
+R9       1        DIN
+         2        FUSED_3.3V
+
+R10      1        XBEE_TXO
+         2        FUSED_5V
+
+R11      1        XBEE_RESET
+         2        FUSED_3.3V
+
+R12      1        DOUT
+         2        FUSED_3.3V
+
+R13      1        XBEE_RXI
+         2        FUSED_5V
+
+R14      1        N$13
+         2        N$2
+
+R15      1        GND
+         2        N$2
+
+R16      1        N$11
+         2        VMOTOR
+
+R17      1        N$12
+         2        N$10
+
+R18      1        N$4
+         2        VIN
+
+S1       1        N$13
+         2        FUSED_IOREF
+         3        PWR_RAIL
+         4        N$13
+         5        FUSED_IOREF
+         6        PWR_RAIL
+
+S2       1        D0/RXI
+         2        XBEE_RXI
+         3        A0/SW_RXI
+         4        D1/TXO
+         5        XBEE_TXO
+         6        A1/SW_TXO
+
+S3       1        N$12
+         2        GND
+         3        N$4
+         4        N$12
+         5        GND
+         6        N$4
+
+S4       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+SJ5      1        XBEE_RESET
+         2        GND
+
+TP1      P$1      AIN1
+
+TP2      P$1      AIN2
+
+TP3      P$1      PWMA
+
+TP4      P$1      BIN1
+
+TP5      P$1      BIN2
+
+TP6      P$1      PWMB
+
+TP7      P$1      D13
+
+TP8      P$1      5V
+
+TP9      P$1      GND
+
+TP10     P$1      VIN
+
+TP11     P$1      3.3V
+
+TP12     P$1      RESET
+
+U1       1        FUSED_3.3V
+         2        DOUT
+         3        DIN
+         4                 *** unconnected ***
+         5        XBEE_RESET
+         6        RSSI
+         7        DIO11
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       GND
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       DIO1
+         20       DIO0
+
+U2       5V       5V
+         A0       A0/SW_RXI
+         A1       A1/SW_TXO
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D2       D2
+         D3       PWMA
+         D4       AIN1
+         D5       AIN2
+         D6       PWMB
+         D7       BIN1
+         D8       BIN2
+         D9       D9
+         NC                *** unconnected ***
+         RX       D0/RXI
+         TX       D1/TXO
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         RES      RESET
+         SCL      SCL
+         SDA      SDA
+         VIN      VIN
+         3.3V     3.3V
+         AREF              *** unconnected ***
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    IOREF
+
+U3       1        AOUT1
+         2        AOUT1
+         3        GND
+         4        GND
+         5        AOUT2
+         6        AOUT2
+         7        BOUT2
+         8        BOUT2
+         9        GND
+         10       GND
+         11       BOUT1
+         12       BOUT1
+         13       VMOTOR
+         14       VMOTOR
+         15       PWMB
+         16       BIN2
+         17       BIN1
+         18       GND
+         19       FUSED_5V
+         20       FUSED_5V
+         21       AIN1
+         22       AIN2
+         23       PWMA
+         24       VMOTOR
+

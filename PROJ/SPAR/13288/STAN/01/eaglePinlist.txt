@@ -1,0 +1,132 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 19:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     GND      GND
+         VCC@1    RTC_BATT
+         VCC@2             *** unconnected ***
+
+C1       1        VRAW
+         2        GND
+
+FRAME1  
+JP1      1        GND
+         2        AREF
+
+JP2      GND      GND
+         PWR      VRAW
+         GNDBREAK GND
+
+JP3      1        GND
+         2        3.3V
+
+JP4      1        N$1
+         2        3.3V
+
+JP6      1        A9
+         2        A8
+
+JP7      1        A10
+         2        A11
+
+JP8      1        GND
+         2        A14/DAC
+         3        PROG
+         4        GND
+
+JP9      1        MISO
+         2        N$1
+         3        SCK
+         4        MOSI
+         5        RESET
+         6        GND
+
+JP10     5V       5V
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       D8
+         D9       D9
+         NC                *** unconnected ***
+         RX       RX
+         TX       TX
+         D10      CS
+         D11      MOSI
+         D12      MISO
+         D13      SCK
+         RES      RESET
+         SCL      SCL
+         SDA      SDA
+         VIN      VRAW
+         3.3V     3.3V
+         AREF     HV_AREF
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+JP11     0        RX
+         1        TX
+         2        D2
+         3        D3
+         4        D4
+         5        D5
+         6        D6
+         7        D7
+         8        D8
+         9        D9
+         10       CS
+         11       MOSI
+         12       MISO
+         13       SCK
+         14       A0
+         15       A1
+         16       A2
+         17       A3
+         18       SDA
+         19       SCL
+         20       A6
+         21       A7
+         22       A8
+         23       A9
+         3V                *** unconnected ***
+         A10      A10
+         A11      A11
+         GND      GND
+         VIN      5V
+         3.3V     3.3V
+         AGND     GND
+         AREF     AREF
+         GND1     GND
+         PROG     PROG
+         VBAT     RTC_BATT
+         VUSB     VUSB
+         A14/DAC  A14/DAC
+
+LOGO1   
+LOGO2   
+SJ1      1        A6
+         2        A4
+         3        SDA
+
+SJ2      1        A7
+         2        A5
+         3        SCL
+
+U1       IN       VRAW
+         GND      GND
+         OUT      5V
+

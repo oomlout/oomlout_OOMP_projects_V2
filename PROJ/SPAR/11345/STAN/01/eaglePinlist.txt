@@ -1,0 +1,244 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 20:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        OSC2
+         2        N$23
+
+C2       A        N$4
+         C        GND
+
+C3       1        RST
+         2        DTR
+
+C4       1        N$11
+         2        GND
+
+C5       1        OSC1
+         2        N$12
+
+C6       1        HV
+         2        GND
+
+C7       1        5V
+         2        N$13
+
+C10      A        5V
+         C        GND
+
+C11      1        GND
+         2        5V
+
+D1       A        N$2
+         C        N$10
+
+D2       A        OSC1
+         C        N$11
+
+D3       A        N$11
+         C        N$12
+
+D4       A        N$12
+         C        HV
+
+F1       1        N$1
+         2        VCC
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME2  
+JP2      1        5V
+         2        GND
+         3        OUT
+         4        MCU_TX
+         5        MCU_RX
+         6        RST
+
+LED1     A        N$19
+         C        GND
+
+LED2     A        5V
+         C        N$20
+
+LOGO1   
+LOGO2   
+Q1       1        N$9
+         2        GND
+         3        N$10
+
+Q2       1        OUT
+         2        N$5
+         3        N$8
+
+Q3       1        OSC2
+         2        N$4
+         3        N$6
+
+Q4       1        OSC2
+         2        N$23
+         3        VCC
+
+R1       1        N$2
+         2        VCC
+
+R2       1        N$4
+         2        N$2
+
+R3       1        OSC2
+         2        N$2
+
+R4       1        GND
+         2        OSC2
+
+R5       1        N$6
+         2        N$9
+
+R6       P$1      N$7
+         P$2      GND
+
+R8       P$1      HV
+         P$2      N$14
+
+R9       P$1      N$18
+         P$2      N$11
+
+R11      1        RST
+         2        5V
+
+R12      1        N$19
+         2        5V
+
+R13      1        N$20
+         2        N$21
+
+R14      P$1      N$3
+         P$2      GND
+
+R15      P$1      N$3
+         P$2      N$5
+
+R16      P$1      N$8
+         P$2      VCC
+
+R17      P$1      GND
+         P$2      OUT
+
+S1       10                *** unconnected ***
+         11       N$7
+         20       N$1
+         21                *** unconnected ***
+         C@1      5V
+         C@2      HV
+         P$7               *** unconnected ***
+         P$8               *** unconnected ***
+         P$9               *** unconnected ***
+         P$10              *** unconnected ***
+
+S2       1        GND
+         2        GND
+         3        RST
+         4        RST
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$6      A        N$23
+         C        N$22
+
+U$7      A        N$22
+         C        N$18
+
+U$8      GND      N$3
+         VCC      N$14
+
+U7       1        VCC
+         2        N$10
+         3        N$10
+         4        OSC1
+
+U8       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        GND
+         4        5V
+         5        GND
+         6        5V
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       5V
+         19                *** unconnected ***
+         20       5V
+         21       GND
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28       N$21
+         29       RST
+         30       MCU_RX
+         31       MCU_TX
+         32       OUT
+
+U10      1        MCU_RX
+         2        DTR
+         3                 *** unconnected ***
+         4        5V
+         5        MCU_TX
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       N$17
+         16       N$15
+         17                *** unconnected ***
+         18       GND
+         19                *** unconnected ***
+         20       5V
+         21       GND
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       GND
+         26       GND
+         27                *** unconnected ***
+         28                *** unconnected ***
+
+U17      1        MISO
+         2        5V
+         3        SCK
+         4        MOSI
+         5        RST
+         6        GND
+
+X1       D+       N$17
+         D-       N$15
+         ID                *** unconnected ***
+         GND      GND
+         MTN1              *** unconnected ***
+         MTN2              *** unconnected ***
+         MTN3              *** unconnected ***
+         MTN4              *** unconnected ***
+         VBUS     5V
+

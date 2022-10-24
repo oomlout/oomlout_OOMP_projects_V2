@@ -1,0 +1,161 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VLOGIC
+         2        GND
+
+C2       A        VLOGIC
+         C        GND
+
+C3       +        VS
+         -        PGND
+
+C4       1        VS
+         2        PGND
+
+C5       1        V_BOOT
+         2        VS
+
+C6       1        CP_HIGH
+         2        V_CP
+
+C7       1        SWITCH_INPUT
+         2        GND
+
+C8       A        3.3V
+         C        GND
+
+D1       1        VS
+         2        V_BOOT
+         3        CP_HIGH
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        5V
+         2        GND
+         3        CSN
+         4        D_RETURN
+         5        SDI
+         6        SCK
+         7        OSCIN
+         8        OSCIN
+         9        GND
+         10       5V
+
+JP2      1        5V
+         2        GND
+         3        CSN
+         4        D_RETURN
+         5        SDO_DOWNSTREAM
+         6        SCK
+         7        OSCOUT
+         8        OSCOUT
+         9        GND
+         10       5V
+
+JP3      1        RESETN
+         2        BUSYN
+         3        FLAGN
+         4                 *** unconnected ***
+         5        GND
+         6        STCK
+
+JP4      1        RESETN
+         2        BUSYN
+         3        FLAGN
+         4                 *** unconnected ***
+         5        GND
+         6        STCK
+
+JP5      1        SWITCH_INPUT
+         2        GND
+
+JP6      1        VS
+         2        VS
+
+JP7      1        PGND
+         2        PGND
+
+JP8      1        OUT2A
+         2        OUT1A
+
+JP9      1        OUT1B
+         2        OUT2B
+
+LOGO1   
+LOGO2   
+R1       1        BUSYN
+         2        VLOGIC
+
+R2       1        FLAGN
+         2        VLOGIC
+
+R3       1        SWITCH_SIG
+         2        SWITCH_INPUT
+
+R4       P$1      N$11
+         P$2      ADC
+         P$3      ADC
+
+R5       1        GND
+         2        ADC
+
+R6       1        N$11
+         2        VS
+
+SJ1      1        3.3V
+         2        VLOGIC
+         3        5V
+
+SJ2      P$1      GND
+         P$2      PGND
+
+SJ3      1        SDO_DOWNSTREAM
+         2        SDO
+         3        D_RETURN
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+TP1      P$1      3.3V
+
+U$4     
+U1       1        OUT1A
+         2        VS
+         3        RESETN
+         4        SWITCH_SIG
+         5        ADC
+         6        3.3V
+         7        OSCIN
+         8        OSCOUT
+         9        GND
+         10       V_CP
+         11       V_BOOT
+         12       VS
+         13       PGND
+         14       OUT1B
+         15       OUT2B
+         16       VS
+         17       VLOGIC
+         18       SDO
+         19       SCK
+         20       SDI
+         21       GND
+         22       BUSYN
+         23       CSN
+         24       FLAGN
+         25       STCK
+         26       VS
+         27       PGND
+         28       OUT2A
+         29       PGND
+

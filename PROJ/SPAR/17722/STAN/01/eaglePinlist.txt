@@ -1,0 +1,596 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 18:46
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3V3      1        N$3
+         2        GND
+
+BT1      +        N$14
+         -        GND
+
+BT2      +        V_BATT
+         -        GND
+
+BYP      1        V_FUSE
+         2        VIN
+
+C1       1        VIN
+         2        GND
+
+C2       +        VIN
+         -        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        N$18
+         2        GND
+
+C13      1        VIN
+         2        GND
+
+D1       A        GND
+         C        3.3V_EN
+
+D2       A        3.3V
+         C        N$1
+
+D3       A        VIN
+         C        N$4
+
+D4       1        N$13
+         2        GND
+         3        N$12
+         4        N$17
+         5        V_USB_2
+         6        N$9
+
+D5       A        V_USB
+         C        V_FUSE
+
+D6       A        N$14
+         C        RTC_3V
+
+D7       A        3.3V
+         C        RTC_3V
+
+D8       A        PPS
+         C        N$28
+
+D9       A        RTK_STAT
+         C        N$29
+
+D10      A        GEO_STAT
+         C        N$46
+
+D11      A        3.3V
+         C        N$32
+
+D12      A        V_USB_2
+         C        V_FUSE
+
+D13      1        GND
+         2        RF_IN
+
+E1       SIG      PPS
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+
+EN       1        3.3V_EN
+         2        N$5
+
+F2       1        V_FUSE
+         2        VIN
+
+FB1      1        RF_IN
+         2        N$18
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+GEOF     1        GND
+         2        N$45
+
+H1      
+H2      
+H3      
+H4      
+H5       1        GND
+
+J1       A5       N$10
+         A6       USB_P
+         A7       USB_N
+         A8                *** unconnected ***
+         B5       N$11
+         B6       USB_P
+         B7       USB_N
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J3       A5       N$6
+         A6       N$12
+         A7       N$13
+         A8                *** unconnected ***
+         B5       N$7
+         B6       N$12
+         B7       N$13
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB_2
+         VBUS2    V_USB_2
+
+J4       SIG      RF_IN
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+
+J5       1        GND
+         2        3.3V
+         3        SDA/!CS!
+         4        SCL/SCK
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J6       1        GND
+         2        3.3V
+         3        USB_P
+         4        N$5
+         5        USB_N
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9        VIN
+         10       TX_READY
+         11       !BOOT!
+         12       SDA/!CS!
+         13                *** unconnected ***
+         14       SCL/SCK
+         15                *** unconnected ***
+         16       INT
+         17       RXI/SDI
+         18       D1
+         19       TXO/SDO
+         20       TXO2
+         21       SWDCK
+         22       RXI2
+         23       SWDIO
+         32                *** unconnected ***
+         33       GND
+         34       A0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       A1
+         39       GND
+         40       G0/D2
+         41                *** unconnected ***
+         42                *** unconnected ***
+         43                *** unconnected ***
+         44                *** unconnected ***
+         45       GND
+         46                *** unconnected ***
+         47                *** unconnected ***
+         48                *** unconnected ***
+         49       VIN/3
+         50                *** unconnected ***
+         51                *** unconnected ***
+         52                *** unconnected ***
+         53                *** unconnected ***
+         54                *** unconnected ***
+         55       SDA/!CS!
+         56                *** unconnected ***
+         57       SCL/SCK
+         58                *** unconnected ***
+         59       RXI/SDI
+         60                *** unconnected ***
+         61       TXO/SDO
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64                *** unconnected ***
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69                *** unconnected ***
+         70                *** unconnected ***
+         71                *** unconnected ***
+         72       RTC_3V
+         73                *** unconnected ***
+         74       3.3V
+         75       GND
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+
+J7       1        GND
+         2        A0
+         3        A1
+         4        D1
+         5        G0/D2
+         6        GND
+
+J8       1        3.3V
+         2        SWDIO
+         3        GND
+         4        SWDCK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET!
+
+J9       1        GND
+         2                 *** unconnected ***
+         3        3.3V
+         4        RXI2
+         5        TXO2
+         6                 *** unconnected ***
+
+J10      1        PPS
+         2        INT
+         3        !SAFEBOOT!
+         4        !ZED_RESET!
+         5        TX_READY
+         6        V_USB_2
+         7        SCL/SCK
+         8        SDA/!CS!
+         9        3.3V
+         10       GND
+         11       RXI/SDI
+         12       TXO/SDO
+
+LOGO1   
+LOGO3   
+MEAS     1        OUT_MEAS
+         2        3.3V
+         3        OUT_MEAS
+         4        3.3V
+
+PPS      1        GND
+         2        N$27
+
+R1       1        N$3
+         2        N$1
+
+R2       1        GND
+         2        N$10
+
+R3       1        GND
+         2        N$11
+
+R4       1        N$2
+         2        N$4
+
+R5       1        3.3V_EN
+         2        VIN
+
+R6       1        GND
+         2        N$6
+
+R7       1        GND
+         2        N$7
+
+R8       1        N$14
+         2        RTC_3V
+
+R9       1        GND
+         2        VIN/3
+
+R10      1        VIN/3
+         2        VIN
+
+R11      P1       N$15
+         P2       N$16
+         P3       N$19
+         P4       N$20
+         P5       TX_READY
+         P6       !ZED_RESET!
+         P7       !SAFEBOOT!
+         P8       INT
+
+R12      P1       N$21
+         P2       N$22
+         P3       N$23
+         P4       N$24
+         P5       TXO/SDO
+         P6       RXI/SDI
+         P7       SDA/!CS!
+         P8       SCL/SCK
+
+R13      P1       N$25
+         P2       N$26
+         P3                *** unconnected ***
+         P4                *** unconnected ***
+         P5                *** unconnected ***
+         P6                *** unconnected ***
+         P7       RXI2
+         P8       TXO2
+
+R15      1        N$17
+         2        ZED_USB_P
+
+R16      1        N$9
+         2        ZED_USB_N
+
+R17      1        N$18
+         2        V_RF
+
+R19      1        N$27
+         2        N$28
+
+R20      1        N$8
+         2        N$29
+
+R21      1        N$45
+         2        N$46
+
+R22      1        GND
+         2        3.3V
+
+R24      1        V_BATT
+         2        N$32
+
+RTK      1        GND
+         2        N$8
+
+S1       1        GND
+         2        GND
+         3        !RESET!
+         4        !RESET!
+
+S2       1        GND
+         2        GND
+         3        !BOOT!
+         4        !BOOT!
+
+SPI      1        D_SEL
+         2        GND
+
+TP1      1        RTC_3V
+
+TP2      1        SWDIO
+
+TP3      1        V_BATT
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$131   
+U$132   
+U$133   
+U$134   
+U1       1        GND
+         2        RF_IN
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        V_RF
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       GND
+         13                *** unconnected ***
+         14       GND
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       GEO_STAT
+         20       RTK_STAT
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26       N$26
+         27       N$25
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32       GND
+         33       3.3V
+         34       3.3V
+         35                *** unconnected ***
+         36       V_BATT
+         37       GND
+         38       3.3V
+         39       ZED_USB_N
+         40       ZED_USB_P
+         41       GND
+         42       N$24
+         43       N$23
+         44       N$22
+         45       N$21
+         46       N$20
+         47       D_SEL
+         48       GND
+         49       N$19
+         50       N$16
+         51       N$15
+         52                *** unconnected ***
+         53       PPS
+         54                *** unconnected ***
+         55       GND
+         56       GND
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+         62       GND
+         63       GND
+         64       GND
+         65       GND
+         66       GND
+         67       GND
+         68       GND
+         69       GND
+         70       GND
+         71       GND
+         72       GND
+         73       GND
+         74       GND
+         75       GND
+         76       GND
+         77       GND
+         78       GND
+         79       GND
+         80       GND
+         81       GND
+         82       GND
+         83       GND
+         84       GND
+         85       GND
+         86       GND
+         87       GND
+         88       GND
+         89       GND
+         90       GND
+         91       GND
+         92       GND
+         93       GND
+         94       GND
+         95       GND
+         96       GND
+         97       GND
+         98       GND
+         99       GND
+         100      GND
+         101      GND
+         102      GND
+
+U5       1        OUT_MEAS
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        3.3V_EN
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        VIN
+         EP       GND
+
+VIN      1        N$2
+         2        GND
+

@@ -1,0 +1,151 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 21:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+IC2      1        PA02_A0
+         2        PA03_A1
+         3        PA04_A2
+         4        BACKLITE
+         5                 *** unconnected ***
+         6        PA07_A5
+         7        !TFT_RST
+         8        PA09_XOSC
+         9        PA10_A18
+         10       PA11_A19
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       PA16_D16
+         14       PA17_D17
+         15       SDA
+         16       SCL
+         17                *** unconnected ***
+         18       !RESET
+         19       SWCLK
+         20       SWDIO
+         21       PA24_D-
+         22       PA25_D+
+         23       GND
+         24       3.3V
+         THERM    GND
+
+MS1      1        !RESET
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       SCK
+         12       MOSI
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       SDA
+         18       SCL
+         19       N$4
+         20       N$3
+         21       N$5
+         22       N$6
+         23       N$7
+         24       N$8
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+
+R1       1        BACKLITE
+         2        N$9
+
+R5       1        SDA
+         2        3.3V
+
+R6       1        SCL
+         2        3.3V
+
+R7       1        SWCLK
+         2        3.3V
+
+SJ1      1        N$4
+         2        CS
+         WIRE              *** unconnected ***
+
+SJ2      1        N$3
+         2        DC
+         WIRE              *** unconnected ***
+
+SJ3      1        N$5
+         2        CS
+
+SJ4      1        N$6
+         2        DC
+
+SJ5      1        N$7
+         2        CS
+
+SJ6      1        N$8
+         2        DC
+
+SJ8      1        PA17_D17
+         2        GND
+
+SJ9      1        PA16_D16
+         2        GND
+
+SW1      A        GND
+         B        !RESET
+         A'       GND
+         B'       !RESET
+
+SW2      A        PA09_XOSC
+         B        GND
+         A'       PA09_XOSC
+         B'       GND
+
+SW3      A        PA10_A18
+         B        GND
+         A'       PA10_A18
+         B'       GND
+
+SW4      1        PA02_A0
+         2        PA03_A1
+         3        PA04_A2
+         4        GND
+         5        PA07_A5
+         6        PA11_A19
+
+TP1      P$1      SWCLK
+
+TP2      P$1      SWDIO
+
+U$2      1        GND
+         2        3.3V
+         3        N$9
+         4                 *** unconnected ***
+         5        GND
+         6        !TFT_RST
+         7        DC
+         8        MOSI
+         9        SCK
+         10       3.3V
+         11       3.3V
+         12       CS
+         13       GND
+
+U$4     
+U$8     
+U$12    
+U$14    

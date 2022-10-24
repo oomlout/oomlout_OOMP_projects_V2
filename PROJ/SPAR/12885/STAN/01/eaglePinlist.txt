@@ -1,0 +1,130 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 16:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VIN
+         2        GND
+
+C2       1        N$4
+         2        GND
+
+C3       A        N$4
+         C        GND
+
+C4       A        N$4
+         C        GND
+
+C5       1        BOOST
+         2        SW
+
+C6       1        GND
+         2        TIMER
+
+D1       1        GND
+         2                 *** unconnected ***
+         3        SW
+
+D2       1        N$4
+         2                 *** unconnected ***
+         3        BOOST
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+J1       GND      GND
+         P$4      GND
+         VIN0     N$8
+         VIN1              *** unconnected ***
+
+J2       GND      N$8
+         PWR      SFSASDF
+         GNDBREAK N$8
+
+J3       1        GND
+         2        V_BATT
+         NC1      GND
+         NC2      GND
+
+J4       1        !CHRG
+         2        !FAULT
+         3        GND
+         4        SET
+
+J5       1        V_BATT
+         2        GND
+
+J6       1        V_BATT
+         2        GND
+
+J7       1        SFSASDF
+         2        N$8
+
+J8       1        N$8
+         2        GND
+
+JP1      1        N$8
+         2        VIN
+
+JP2      1        SFSASDF
+         2        VIN
+
+JP3      1        N$4
+         2        V_BATT
+         P$1               *** unconnected ***
+
+JP4      1        N$4
+         2        SENSE
+
+L1       P$1      SW
+         P$2      SENSE
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        SENSE
+         2        N$4
+
+R2       1        FB
+         2        N$4
+
+R3       1        GND
+         2        FB
+
+R4       1        V_BATT
+         2        !CHRG
+
+R5       1        V_BATT
+         2        !FAULT
+
+R6       1        N$3
+         2        FB
+
+R7       1        VIN
+         2        SET
+         3        GND
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U1       1        VIN
+         2        SET
+         3        VIN
+         4        !CHRG
+         5        !FAULT
+         6        TIMER
+         7        N$3
+         8        NTC
+         9        N$4
+         10       SENSE
+         11       BOOST
+         12       SW
+         13       GND
+

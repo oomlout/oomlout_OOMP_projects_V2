@@ -1,0 +1,285 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 03:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+A1       NC                *** unconnected ***
+         FEED     N$1
+
+C1       1        ADC_VREF
+         2        GND
+
+C2       1        VDDBH
+         2        GND
+
+C3       1        VDDC
+         2        GND
+
+C4       1        VDCDCRF
+         2        GND
+
+C5       1        VDDF
+         2        GND
+
+C6       1        GND
+         2        N$3
+
+C7       1        GND
+         2        N$2
+
+C8       1        VDDS
+         2        GND
+
+C11      1        DVDD
+         2        GND
+
+C12      1        VDD
+         2        GND
+
+C13      1        VDD
+         2        GND
+
+C14      1        VDD
+         2        GND
+
+C15      1        VDD
+         2        GND
+
+C16      1        VDD
+         2        GND
+
+C17      1        RFIOP
+         2        GND
+
+C18      1        N$16
+         2        GND
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+
+J2       1        SWDCK
+
+J3       1        RXI-0
+
+J4       1        ~D39
+
+J5       1        D40
+
+J6       1        D9
+
+J7       1        BOOTLOAD
+
+J8       1        D10
+
+J9       1        TXO-0
+
+J10      1        SWDIO
+
+J11      1        D8
+
+J12      1        ~D5
+
+J13      1        D7
+
+J14      1        ~AD35
+
+J15      1        ~D4
+
+J16      1        ~D24
+
+J17      1        ~D22
+
+J18      1        ~D23
+
+J19      1        ~D27
+
+J20      1        D14
+
+J21      1        ~D28
+
+J22      1        GND
+
+J23      1        ~D6
+
+J24      1        ~AD32
+
+J25      1        ~D25
+
+J26      1        ~AD12
+
+J27      1        ~D26
+
+J28      1        ~AD13
+
+J29      1        D15
+
+J30      1        ~AD33/SWO
+
+J31      1        AD34
+
+J32      1        ~AD11
+
+J33      1        ~AD29
+
+J34      1        XO
+
+J35      1        XI
+
+J36      1        VDD
+
+J37      1        VDD
+
+J38      1        GND
+
+J39      1        GND
+
+J40      1        ~D19
+
+J41      1        ~D18
+
+J42      1        AD16
+
+J43      1        D17
+
+J44      1        ~AD31
+
+J45      1        D41
+
+J46      1        ~D45
+
+J47      1        GND
+
+J48      1        D2
+
+J49      1        D1
+
+J50      1        !RST
+
+J51      1        D0
+
+J52      1        ~D43
+
+J53      1        ~D42
+
+J54      1        D3
+
+J55      1        D36
+
+J56      1        D38
+
+J57      1        ~D37
+
+J58      1        ~D44
+
+J59      1        GND
+
+L1       1        SIMOBUCK_SW
+         2        SIMBUCK_SWSEL
+
+L2       1        VDDBH_SW
+         2        VDDBH
+
+L3       1        RFIOP
+         2        N$16
+
+L4       1        N$16
+         2        N$1
+
+LOGO1   
+R2       1        VDDBH
+         2        VDCDCRF
+
+U1       A1       SIMOBUCK_SW
+         A2       SIMBUCK_SWSEL
+         A3       VDDC
+         A4       XO
+         A5       ~AD29
+         A6       ADC_VREF
+         A7       ~AD12
+         A8       ~D25
+         A9       ~D28
+         B1       VDD
+         B2       VDD
+         B3       GND
+         B4       XI
+         B5       ~AD11
+         B6       ~AD33/SWO
+         B7       ~AD13
+         B8       ~D26
+         B9       ~D27
+         C1       VDDBH
+         C2       GND
+         C3       ~D19
+         C4       VDD
+         C5       ~D18
+         C6       AD34
+         C7       D15
+         C8       ~D24
+         C9       ~D22
+         D1       VDDBH_SW
+         D2       VDDF
+         D3       D17
+         D4       AD16
+         D5       ~AD31
+         D6       ~AD35
+         D7       D14
+         D8       ~D23
+         D9       ~D4
+         E1       VDDS
+         E2       GND
+         E3       GND
+         E4                *** unconnected ***
+         E5       D41
+         E6       ~AD32
+         E7                *** unconnected ***
+         E8       ~D6
+         E9       ~D5
+         F1       N$3
+         F2       GND
+         F3       VDD
+         F4       D2
+         F5       ~D45
+         F6                *** unconnected ***
+         F7       SWDIO
+         F8       D8
+         F9       D7
+         G1       N$2
+         G2       VDCDCRF
+         G3       !RST
+         G4       D1
+         G5       D3
+         G6       SWDCK
+         G7       D9
+         G8       D10
+         G9       TXO-0
+         H1       GND
+         H2       GND
+         H3       DVDD
+         H4       D0
+         H5       ~D42
+         H6       D36
+         H7       ~D37
+         H8       RXI-0
+         H9       BOOTLOAD
+         J1       RFIOP
+         J2       GND
+         J3                *** unconnected ***
+         J4       VDD
+         J5       ~D43
+         J6       D38
+         J7       ~D44
+         J8       ~D39
+         J9       D40
+
+Y1       1        N$2
+         2                 *** unconnected ***
+         3        N$3
+         4                 *** unconnected ***
+

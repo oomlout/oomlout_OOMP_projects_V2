@@ -1,0 +1,210 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 16:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        GND
+         2        N$6
+
+C3       1        GND
+         2        N$4
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+D1       A        N$2
+         C        GND
+
+D2       A        N$5
+         C        3.3V
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        N$5
+         3        USB_D+
+         4        3.3V_EN
+         5        USB_D-
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9        V_USB
+         10       D0
+         11       !BOOT!
+         12       SDA
+         13       RTS1
+         14       SCL
+         15       CTS1
+         16       I2C_!INT!
+         17       TX1
+         18       D1
+         19       RX1
+         20       RX2
+         21       SWDCK
+         22       TX2
+         23       SWDIO
+         32       PWM0
+         33       GND
+         34       ADC0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       ADC1
+         39       GND
+         40       GPIO0
+         41                *** unconnected ***
+         42       GPIO1
+         43                *** unconnected ***
+         44       GPIO2
+         45       GND
+         46       GPIO3
+         47       PWM1
+         48       GPIO4
+         49       BATT_VIN/3
+         50       PDM_CLK
+         51       SDA1
+         52       PDM_DATA
+         53       SCL1
+         54                *** unconnected ***
+         55       SPI_!CS!
+         56                *** unconnected ***
+         57       SPI_SCK
+         58                *** unconnected ***
+         59       SPI_COPI
+         60       SPI_SCK1/SDIO_CLK
+         61       SPI_CIPO
+         62       SPI_COPI1/SDIO_CMD
+         63       GPIO10/NFC2
+         64       SPI_CIPO1/SDIO_DATA0
+         65       GPIO9/NFC1
+         66       SDIO_DATA1
+         67       GPIO8
+         68       SDIO_DATA2
+         69       GPIO7
+         70       SPI_!CS1!/SDIO_DATA3
+         71       GPIO6
+         72       3.3V
+         73       GPIO5
+         74       N$5
+         75       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        N$2
+         2        LED_BUILTIN
+
+R2       1        USB_D+
+         2        N$1
+
+R3       1        USB_D-
+         2        N$3
+
+R4       1        !BOOT!
+         2        3.3V
+
+R5       1        !RESET!
+         2        3.3V
+
+U$1     
+U$2     
+U$3     
+U$5     
+U$6     
+U1       1        FLASH_!CS!
+         2        SPI_CIPO1/SDIO_DATA0
+         3        SDIO_DATA2
+         4        GND
+         5        SPI_COPI1/SDIO_CMD
+         6        SPI_SCK1/SDIO_CLK
+         7        SPI_!CS1!/SDIO_DATA3
+         8        3.3V
+
+U2       1        GND
+         2        GND
+         3        RX1
+         4        GPIO4
+         5        GPIO3
+         6        GPIO2
+         7        GPIO8
+         8        3.3V_EN
+         9        GPIO1
+         10       GPIO0
+         11       SPI_CIPO
+         12       SPI_COPI
+         13       SPI_SCK
+         14       BATT_VIN/3
+         15       GND
+         16       D0
+         17       N$4
+         18       N$6
+         19       PDM_DATA
+         20       ADC0
+         21       ADC1
+         22       PWM0
+         23       !BOOT!
+         24       SDA
+         25       D1
+         26       CTS1
+         27       SCL
+         28       3.3V
+         29       FLASH_!CS!
+         30       3.3V
+         31                *** unconnected ***
+         32       V_USB
+         33       GND
+         34       N$3
+         35       N$1
+         36       SPI_COPI1/SDIO_CMD
+         37       LED_BUILTIN
+         38       PWM1
+         39       I2C_!INT!
+         40       !RESET!
+         41       GPIO5
+         42       SPI_SCK1/SDIO_CLK
+         43       SPI_CIPO1/SDIO_DATA0
+         44       SPI_!CS!
+         45       SDIO_DATA2
+         46       SDIO_DATA1
+         47       SPI_!CS1!/SDIO_DATA3
+         48       SCL1
+         49       PDM_CLK
+         50       RTS1
+         51       SWDIO
+         52       GPIO9/NFC1
+         53       SWDCK
+         54       GPIO10/NFC2
+         55       GND
+         56       GPIO7
+         57       GPIO6
+         58       TX2
+         59       RX2
+         60       TX1
+         61       SDA1
+
+Y1       P$1      N$4
+         P$2      N$6
+

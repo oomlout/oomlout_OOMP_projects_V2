@@ -1,0 +1,267 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 23:22
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCCIO
+         2        GND
+
+C3       +        VIN
+         -        GND
+
+C8       1        VCCIO
+         2        GND
+
+D1       A        OUT1
+         C        VIN
+
+D2       A        GND
+         C        OUT1
+
+D3       A        OUT2
+         C        VIN
+
+D4       A        GND
+         C        OUT2
+
+D5       A        OUT3
+         C        VIN
+
+D6       A        GND
+         C        OUT3
+
+D7       A        OUT4
+         C        VIN
+
+D8       A        GND
+         C        OUT4
+
+D9       A        N$36
+         C        GND
+
+D10      A        N$37
+         C        GND
+
+D11      A        N$39
+         C        GND
+
+D12      A        N$38
+         C        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+H1      
+H2      
+J1       1        D0
+         2        D1
+         3        D2
+         4        D3
+         5        D4
+         6        D5
+         7        D6
+         8        D7
+
+J2       1        IN1
+
+J3       1        N$21
+         2        N$22
+         3        N$23
+         4        N$24
+         5        N$25
+         6        N$26
+
+J4       1        VIN
+         2        GND
+         3        GND
+         4        5V
+         5        3.3V
+         6        RESET
+         7        IOREF
+
+J5       1        D8
+         2        D9
+         3        D10
+         4        D11
+         5        D12
+         6        D13
+
+J6       1        IN3
+
+J7       1        OUT4
+         2        OUT3
+         3        OUT2
+         4        OUT1
+
+J8       1        OUT4
+         2        OUT3
+         3        OUT2
+         4        OUT1
+
+J9       1        GND
+         2        VIN
+
+J10      1        GND
+         2        VIN
+
+J11      1        PWMA
+
+J12      1        PWMB
+
+J13      1        IN4
+
+J14      1        IN2
+
+J15      1        GND
+         2        N$10
+
+JP1      1        D8
+         2        DIRA
+         3        D2
+
+JP2      1        D9
+         2        PWMA
+         3        D3
+
+JP3      1        D7
+         2        DIRB
+         3        D4
+
+JP4      1        D10
+         2        PWMB
+         3        D11
+
+JP5      1        DIRA
+         2        IN1
+
+JP6      1        NDIRA
+         2        IN2
+
+JP7      1        IN4
+         2        NDIRB
+
+JP8      1        IN3
+         2        DIRB
+
+JP9      1        SENA
+         2        GND
+
+JP10     1        GND
+         2        SENB
+
+JP11     1        3.3V
+         2        VCCIO
+         3        5V
+
+LED1     A        N$4
+         C        OUT2
+
+LED2     A        N$9
+         C        OUT3
+
+LED3     A        OUT2
+         C        N$5
+
+LED4     A        OUT3
+         C        N$8
+
+LOGO1   
+LOGO2   
+R1       1        N$4
+         2        OUT1
+
+R2       1        N$5
+         2        OUT1
+
+R3       1        N$8
+         2        OUT4
+
+R4       1        N$9
+         2        OUT4
+
+R5       1        N$36
+         2        PWMB
+
+R6       1        N$37
+         2        PWMA
+
+R7       1        N$39
+         2        DIRA
+
+R8       1        N$38
+         2        DIRB
+
+U$1     
+U1       5V       5V
+         A0       N$21
+         A1       N$22
+         A2       N$23
+         A3       N$24
+         A4       N$25
+         A5       N$26
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       D8
+         D9       D9
+         NC                *** unconnected ***
+         RX       D0
+         TX       D1
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         RES      RESET
+         SCL               *** unconnected ***
+         SDA               *** unconnected ***
+         VIN      VIN
+         3.3V     3.3V
+         AREF     N$10
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    IOREF
+
+U2       1        GND
+         2        SENA
+         3                 *** unconnected ***
+         4        OUT1
+         5        OUT2
+         6        VIN
+         7        IN1
+         8        PWMA
+         9        IN2
+         10       GND
+         11       GND
+         12       VCCIO
+         13       IN3
+         14       PWMB
+         15       IN4
+         16       OUT3
+         17       OUT4
+         18                *** unconnected ***
+         19       SENB
+         20       GND
+         PAD      GND
+
+U5       1                 *** unconnected ***
+         2        DIRA
+         3        GND
+         4        NDIRA
+         5        VCCIO
+
+U6       1                 *** unconnected ***
+         2        DIRB
+         3        GND
+         4        NDIRB
+         5        VCCIO
+

@@ -1,0 +1,224 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 19:50
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        +3V3
+         2        GND
+
+C2       1        N$1
+         2        RTS/DTR
+
+C4       1        +5V
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+IC1      1        DSR_5V
+         2        GND
+         3        RXD_5V
+         4        RXD
+         5        +3V3
+         6        DSR
+
+IC2      1                 *** unconnected ***
+         2        N$1
+         3        GND
+         4        /RESET
+         5        +5V
+
+JP1      1        STATE
+         2        +3V3
+         3        STX
+         4        SRX
+         5        DSR_5V
+
+JP3      1        N$4
+         2        N$5
+         3        N$8
+         4        N$9
+         5        N$11
+         6        N$12
+         7        D1
+         8        D0
+
+JP4      1        N$13
+         2        GND
+         3        GND
+         4        +5V
+         5        N$14
+         6        /RESET
+         7        N$15
+         8        N$16
+
+JP5      1        GND
+         2        SPI_CLK
+         3        SPI_MISO
+         4        SPI_MOSI
+         5        SPI_CS
+         6        +5V
+
+JP6      1        N$17
+         2        N$18
+         3        N$19
+         4        N$20
+         5        N$21
+         6        N$22
+
+LED1     A        N$2
+         C        GND
+
+LED3     A        N$6
+         C        TXD
+
+LED4     A        N$10
+         C        RXD
+
+R1       1        +3V3
+         2        BT_RESET
+
+R2       1        N$2
+         2        PAIR_LED
+
+R3       1        DSR_5V
+         2        +3V3
+
+R4       1        N$1
+         2        +3V3
+
+R5       1        PAIR_BTN
+         2        PAIR_2
+
+R6       1        +3V3
+         2        RXD_5V
+
+R7       1        TXD
+         2        N$3
+
+R8       1        N$6
+         2        +3V3
+
+R10      1        N$10
+         2        +3V3
+
+SJ1      1        RTS
+         2        RTS/DTR
+         3        DTR
+
+SW1      1        +3V3
+         2        PAIR_2
+         3        +3V3
+         4        PAIR_2
+
+SW2      O1       D0
+         O2       D1
+         P1       N$3
+         P2       RXD_5V
+         S1       STX
+         S2       SRX
+
+SW3      A        GND
+         B        /RESET
+         A'       GND
+         B'       /RESET
+
+U$4     
+U$5      3V       N$14
+         5V       +5V
+         A0       N$22
+         A1       N$21
+         A2       N$20
+         A3       N$19
+         A4       N$18
+         A5       N$17
+         D0       D0
+         D1       D1
+         D2       N$12
+         D3       N$11
+         D4       N$9
+         D5       N$8
+         D6       N$5
+         D7       N$4
+         D8       N$32
+         D9       N$31
+         D10      N$30
+         D11      N$29
+         D12      N$28
+         D13      N$27
+         GND      GND
+         SCK               *** unconnected ***
+         SCL      N$23
+         SDA      N$24
+         VIN      N$13
+         AREF     N$25
+         MISO              *** unconnected ***
+         MOSI              *** unconnected ***
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         IOREF    N$15
+         RESET    /RESET
+         5V_ICSP           *** unconnected ***
+         RESERVED N$16
+         RESET_ICS P          *** unconnected ***
+
+U$6      1        N$23
+         2        N$24
+         3        N$25
+         4        GND
+         5        N$27
+         6        N$28
+         7        N$29
+         8        N$30
+         9        N$31
+         10       N$32
+
+U$7     
+U1       1        TXD
+         2        RXD
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        PAIR_BTN
+         10       STATE
+         11       BT_RESET
+         12       +3V3
+         13       GND
+         14       GND
+         15                *** unconnected ***
+         16       SPI_CS
+         17       SPI_MOSI
+         18       SPI_MISO
+         19       SPI_CLK
+         20                *** unconnected ***
+         21       GND
+         22       GND
+         23       DTR
+         24       RTS
+         25                *** unconnected ***
+         26       DSR
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32       PAIR_LED
+         33                *** unconnected ***
+         34                *** unconnected ***
+
+U2       1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        +3V3
+

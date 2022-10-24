@@ -1,0 +1,686 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 06:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        !RST!_BTN
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        N$13
+         2        GND
+
+C9       1        N$16
+         2        GND
+
+C10      1        GND
+         2        N$14
+
+C11      1        GND
+         2        N$15
+
+C12      1        V_USB
+         2        GND
+
+C13      1        V_USB
+         2        GND
+
+C14      1        !INTFC_RST
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        3.3V
+         2        GND
+
+C18      1        3.3V
+         2        GND
+
+C19      1        1.8V
+         2        GND
+
+D1       A        N$1
+         C        LED_MSD
+
+D2       A        N$2
+         C        LED_HID
+
+D3       A        N$3
+         C        LED_UART
+
+D4       A        N$7
+         C        GND
+
+D5       A        N$6
+         C        GND
+
+D6       1        USB_D-_R
+         2        GND
+         3        USB_D+_R
+         4        N$8
+         5        V_USB
+         6        N$9
+
+E1       1        PDM_DATA
+         2        GND
+         3        GND
+         4        PDM_CLK
+         5        3.3V
+         6        GND
+         7        GND
+         8        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       A5       N$5
+         A6       USB_D+_R
+         A7       USB_D-_R
+         A8                *** unconnected ***
+         B5       N$4
+         B6       USB_D+_R
+         B7       USB_D-_R
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         SHLD5             *** unconnected ***
+         SHLD6             *** unconnected ***
+         SHLD7             *** unconnected ***
+         SHLD8             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J2       1        3.3V
+         2        TGT_SWDIO
+         3        GND
+         4        TGT_SWCLK
+         5        GND
+         6        TGT_SWO
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !TGT_RST
+
+J3       1        3.3V
+         2        INTFC_SWDIO
+         3        GND
+         4        INTFC_SWDCLK
+         5        GND
+         6        INTFC_NC6
+         7                 *** unconnected ***
+         8        INTFC_NC5
+         9        GND
+         10       !INTFC_RST
+
+J4       1        GND
+         2        GND
+         3        V_USB
+         4        V_USB
+         5        3.3V
+         6        3.3V
+         7        1.8V
+         8        1.8V
+         1@2      GND
+         2@2      GND
+         3@2      V_USB
+         4@2      V_USB
+         5@2      3.3V
+         6@2      3.3V
+         7@2      1.8V
+         8@2      1.8V
+
+J5       1        D39
+         2        D40
+         3        D44
+         4        D37
+         5        D38
+         6        D36
+         7        D42
+         8        D43
+         9        D45
+         10       D41
+         11       D31
+         12       D16
+         1@2      D39
+         2@2      D40
+         3@2      D44
+         4@2      D37
+         5@2      D38
+         6@2      D36
+         7@2      D42
+         8@2      D43
+         9@2      D45
+         10@2     D41
+         11@2     D31
+         12@2     D16
+
+J6       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J7       1                 *** unconnected ***
+         2        GND
+         3        CAMERA_D1
+         4        3.3V
+         5        CAMERA_D3
+         6        CAMERA_VSYNC
+         7        CAMERA_TRIG
+         8        CAMERA_MCLK
+         9        CAMERA_D2
+         10       1.8V
+         11       3.3V
+         12       CAMERA_D4
+         13       CAMERA_D7
+         14       CAMERA_D0
+         15       GND
+         16       CAMERA_HSYNC
+         17       CAMERA_PCLK
+         18       CAMERA_INT
+         19       CAMERA_D6
+         20       CAMERA_D5
+         21       SCL
+         22       SDA
+         23                *** unconnected ***
+         24                *** unconnected ***
+         MNT1@0            *** unconnected ***
+         MNT1@1            *** unconnected ***
+         MNT2@0            *** unconnected ***
+         MNT2@1            *** unconnected ***
+
+J8       1        GND
+         2        GND
+         3        V_USB
+         4        V_USB
+         5        3.3V
+         6        3.3V
+         7        1.8V
+         8        1.8V
+
+J9       1        D24
+         2        D35
+         3        D23_LED
+         4        D27
+         5        D13
+         6        D33
+         7        D32
+         8        D29
+         9        D34
+         10       D26
+         11       D25
+         12       D28
+         1@2      D24
+         2@2      D35
+         3@2      D23_LED
+         4@2      D27
+         5@2      D13
+         6@2      D33
+         7@2      D32
+         8@2      D29
+         9@2      D34
+         10@2     D26
+         11@2     D25
+         12@2     D28
+
+J12      1        GND
+         2        GND
+         3        V_USB
+         4        V_USB
+         5        3.3V
+         6        3.3V
+         7        1.8V
+         8        1.8V
+
+J14      1        D24
+         2        D35
+         3        D23_LED
+         4        D27
+         5        D13
+         6        D33
+         7        D32
+         8        D29
+         9        D34
+         10       D26
+         11       D25
+         12       D28
+
+J22      1        D39
+         2        D40
+         3        D44
+         4        D37
+         5        D38
+         6        D36
+         7        D42
+         8        D43
+         9        D45
+         10       D41
+         11       D31
+         12       D16
+
+J23      1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+
+J24      1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+
+J25      1        D24
+         2        D35
+         3        D23_LED
+         4        D27
+         5        D13
+         6        D33
+         7        D32
+         8        D29
+         9        D34
+         10       D26
+         11       D25
+         12       D28
+
+J26      1        D39
+         2        D40
+         3        D44
+         4        D37
+         5        D38
+         6        D36
+         7        D42
+         8        D43
+         9        D45
+         10       D41
+         11       D31
+         12       D16
+
+LOGO1   
+LOGO2   
+R1       1        N$1
+         2        3.3V
+
+R2       1        N$2
+         2        3.3V
+
+R3       1        N$3
+         2        3.3V
+
+R4       1        N$7
+         2        3.3V
+
+R5       1        N$6
+         2        D23_LED
+
+R6       1        GND
+         2        N$4
+
+R7       1        GND
+         2        N$5
+
+R11      1        N$10
+         2        3.3V
+
+R12      1        !RST!_BTN
+         2        3.3V
+
+R13      1        GND
+         2        TGT_BOOT
+
+R16      1        N$8
+         2        USB_D+_P
+
+R18      1        N$9
+         2        USB_D-_P
+
+R19      1        !INTFC_RST
+         2        V_USB
+
+R20      1        !INTFC_RST
+         2        GND
+
+S2       1        GND
+         2                 *** unconnected ***
+         3        !RST!_BTN
+         4                 *** unconnected ***
+
+TGT_BOOT 1        N$18
+         2        TGT_BOOT
+
+TGT_SWD_CLK 1        N$12
+         2        TGT_SWCLK
+
+TP1      P$1      INTFC_SWDIO
+
+TP2      P$1      INTFC_SWDCLK
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U$94    
+U$95    
+U$96    
+U$97    
+U$98    
+U$99    
+U$100   
+U$101   
+U$102   
+U$103   
+U$104   
+U$105   
+U$106   
+U$107   
+U$108   
+U$109   
+U$110   
+U$111   
+U$112   
+U$113   
+U$114   
+U$115   
+U$116   
+U$117   
+U$118   
+U$119   
+U$120   
+U$121   
+U$122   
+U$123   
+U$124   
+U$125   
+U$126   
+U$129   
+U$130   
+U$131   
+U$132   
+U$137   
+U$138   
+U$140   
+U$141   
+U$142   
+U$145   
+U$146   
+U$147   
+U$148   
+U$149   
+U$150   
+U$151   
+U$152   
+U$153   
+U$154   
+U$155   
+U$156   
+U$157   
+U$158   
+U$159   
+U$160   
+U$161   
+U$162   
+U$163   
+U1       1                 *** unconnected ***
+         2        GND
+         3        USB_D+_P
+         4        USB_D-_P
+         5                 *** unconnected ***
+         6        V_USB
+         7        3.3V
+         8        GND
+         9        N$18
+         10       INTFC_SWDCLK
+         11       INTFC_NC5
+         12       INTFC_NC6
+         13       INTFC_SWDIO
+         14       N$10
+         15       3.3V
+         16       GND
+         17       N$13
+         18       N$16
+         19       !INTFC_RST
+         20                *** unconnected ***
+         21       !RST!_BTN
+         22       !TGT_RST
+         23                *** unconnected ***
+         24       TGT_TX
+         25       TGT_RX
+         26       N$12
+         27       TGT_SWDIO
+         28       TGT_SWO
+         29       LED_MSD
+         30       LED_HID
+         31       LED_UART
+         32       !INTFC_RST
+
+U2       D0       CAMERA_D0
+         D1       CAMERA_D1
+         D2       CAMERA_D2
+         D3       CAMERA_D3
+         D7       CAMERA_D7
+         D8       SCL
+         D9       SDA
+         XI       N$14
+         XO       N$15
+         D10      CAMERA_INT
+         D14      CAMERA_TRIG
+         D15      CAMERA_VSYNC
+         D17      CAMERA_HSYNC
+         D36      D36
+         D38      D38
+         D40      D40
+         D41      D41
+         ~D4      CAMERA_D4
+         ~D5      CAMERA_D5
+         ~D6      CAMERA_D6
+         AD16     D16
+         AD34     D34
+         BOOT     TGT_BOOT
+         ~D18     CAMERA_MCLK
+         ~D19     CAMERA_PCLK
+         ~D22     TGT_SWO
+         ~D23     D23_LED
+         ~D24     D24
+         ~D25     D25
+         ~D26     D26
+         ~D27     D27
+         ~D28     D28
+         ~D37     D37
+         ~D39     D39
+         ~D42     D42
+         ~D43     D43
+         ~D44     D44
+         ~D45     D45
+         ~RST     !TGT_RST
+         GND@1    GND
+         RXI-0    TGT_RX
+         SWDCK    TGT_SWCLK
+         SWDIO    TGT_SWDIO
+         TXO-0    TGT_TX
+         ~AD11    PDM_DATA
+         ~AD12    PDM_CLK
+         ~AD13    D13
+         ~AD29    D29
+         ~AD31    D31
+         ~AD32    D32
+         ~AD35    D35
+         GND@22   GND
+         GND@38   GND
+         GND@39   GND
+         GND@47   GND
+         GND@59   GND
+         VDD@36   3.3V
+         VDD@37   3.3V
+         ~AD33/SWO  D33
+
+U3       1        SCL
+         2        3.3V
+         3        3.3V
+         4        SDA
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        3.3V
+         10       3.3V
+         11                *** unconnected ***
+         12                *** unconnected ***
+
+U4       1        3.3V
+         2        GND
+         3        3.3V
+         4                 *** unconnected ***
+         5        1.8V
+
+U5       1        V_USB
+         2        GND
+         3        V_USB
+         4                 *** unconnected ***
+         5        3.3V
+
+X1       P1       N$13
+         P2       GND
+         P3       N$16
+         P4       GND
+
+Y1       P$1      N$15
+         P$2      N$14
+

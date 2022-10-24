@@ -1,0 +1,614 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 04:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BT1      1        V_BATT
+         2        GND
+         3                 *** unconnected ***
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+
+BYP      1        VUSB
+         2        V_USB
+
+C1       1        !DTR
+         2        BOOT
+
+C2       1        GND
+         2        VDD
+
+C3       +        5V
+         -        GND
+
+C4       1        5V
+         2        GND
+
+C5       +        VIN
+         -        GND
+
+C6       +        3.3V
+         -        GND
+
+C7       1        VDD
+         2        GND
+
+C8       1        !DTR
+         2        !RESET
+
+C9       1        VDD
+         2        GND
+
+C10      1        VUSB
+         2        GND
+
+C11      1        GND
+         2        N$7
+
+C12      1        V_USB
+         2        GND
+
+C13      1        GND
+         2        N$8
+
+C15      +        V_USB
+         -        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        N$6
+         2        GND
+
+C18      1        3.3V
+         2        GND
+
+C19      1        VDD
+         2        GND
+
+C28      1        !RESET
+         2        GND
+
+D1       A        PWRIN
+         C        VIN
+
+D2       A        N$5
+         C        TXO-0
+
+D3       A        N$9
+         C        RXI-0
+
+D4       A        V_BATT
+         C        3.3V
+
+E1       1        PDMDATA
+         2        VDD
+         3        GND
+         4        PDMCLK
+         5        VDD
+         6        GND
+         7        GND
+         8        GND
+
+F2       1        VUSB
+         2        V_USB
+
+FRAME2  
+FRAME3  
+IC3      1        N$15
+         2        5V
+         3        VIN
+         4        5V
+
+J1       1        VDD
+         2        3.3V
+
+J2       1        VDD
+         2        SWDIO
+         3        GND
+         4        SWDCK
+         5        GND
+         6        ~AD33/SWO
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET
+
+J3       GND      GND
+         P$4      INSERT
+         VIN0     PWRIN
+         VIN1              *** unconnected ***
+
+J4       1        GND
+         2        VDD
+         3        D40/SDA
+         4        ~D39/SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    SHLD
+         SHLD2    SHLD
+         SHLD3    SHLD
+         SHLD4    SHLD
+         SHLD5    SHLD
+         SHLD6    SHLD
+         SHLD7    SHLD
+         SHLD8    SHLD
+         VBUS1    VUSB
+         VBUS2    VUSB
+
+J7       1        RXI-0
+         2        TXO-0
+
+JP1     
+JP2      1A       ~D39/SCL
+         1B       ~D39/SCL
+         2A       D40/SDA
+         2B       D40/SDA
+         3A       N$10
+         3B       N$10
+         4A       GND
+         4B       GND
+         5A       ~D5/SCK
+         5B       ~D5/SCK
+         6A       ~D6/MISO
+         6B       ~D6/MISO
+         7A       ~D7/MOSI
+         7B       ~D7/MOSI
+         8A       ~AD13
+         8B       ~AD13
+         9A       ~AD12
+         9B       ~AD12
+         10A      ~AD32
+         10B      ~AD32
+
+JP3     
+JP4     
+JP5     
+JP6     
+JP7     
+JP8      1                 *** unconnected ***
+
+JP9      1                 *** unconnected ***
+
+JP10     1A       VIN
+         1B       VIN
+         2A       GND
+         2B       GND
+         3A       GND
+         3B       GND
+         4A       5V
+         4B       5V
+         5A       VDD
+         5B       VDD
+         6A       !RESET
+         6B       !RESET
+         7A       VDD
+         7B       VDD
+         8A                *** unconnected ***
+         8B                *** unconnected ***
+
+JP11     1        ~D25/RXI-1
+         2        ~D24/TXO-1
+         3        ~AD35
+         4        ~D4
+         5        ~D22
+         6        ~D23
+         7        ~D27
+         8        ~D28
+         1@2      ~D25/RXI-1
+         2@2      ~D24/TXO-1
+         3@2      ~AD35
+         4@2      ~D4
+         5@2      ~D22
+         6@2      ~D23
+         7@2      ~D27
+         8@2      ~D28
+
+JP12     1        3.3V
+         2        VDD
+
+JP13     1        ~AD29
+         2        ~AD11
+         3        AD34
+         4        ~AD33/SWO
+         5        AD16
+         6        ~AD31
+         7        GND
+         8        GND
+         1@2      ~AD29
+         2@2      ~AD11
+         3@2      AD34
+         4@2      ~AD33/SWO
+         5@2      AD16
+         6@2      ~AD31
+         7@2      GND
+         8@2      GND
+
+JP14     D+       D+
+         D-       D-
+         GND      GND
+         VBUS     VUSB
+
+JP16     1        GND
+         2        N$10
+
+JP17    
+JP18    
+JP19     1        D14
+         2        D8
+         3        D10
+         4        D9
+         5        ~D26
+         6        D15
+         7        ~D19
+         8        ~D18
+         1@2      D14
+         2@2      D8
+         3@2      D10
+         4@2      D9
+         5@2      ~D26
+         6@2      D15
+         7@2      ~D19
+         8@2      ~D18
+
+JP20     1        D17
+         2        D41
+         3        ~D45
+         4        D2
+         5        D1
+         6        D0
+         7        ~D43
+         8        ~D42
+         1@2      D17
+         2@2      D41
+         3@2      ~D45
+         4@2      D2
+         5@2      D1
+         6@2      D0
+         7@2      ~D43
+         8@2      ~D42
+
+JP21     1        D36
+         2        PDMDATA
+
+JP22     1        ~D37
+         2        PDMCLK
+
+JP23     1        ~D39/SCL
+         2        D40/SDA
+         3        GND
+         4        GND
+         5        ~D5/SCK
+         6        ~D6/MISO
+         7        ~D7/MOSI
+         8        ~AD13
+         9        ~AD12
+         10       ~AD32
+
+JP24     1        VIN
+         2        GND
+         3        GND
+         4        5V
+         5        VDD
+         6        !RESET
+         7        VDD
+         8                 *** unconnected ***
+
+JP25     1        D3
+         2        D36
+         3        D38
+         4        ~D37
+         5        ~D44
+
+JP26     1        ~D25/RXI-1
+         2        ~D24/TXO-1
+         3        ~AD35
+         4        ~D4
+         5        ~D22
+         6        ~D23
+         7        ~D27
+         8        ~D28
+
+JP27     1        ~AD29
+         2        ~AD11
+         3        AD34
+         4        ~AD33/SWO
+         5        AD16
+         6        ~AD31
+         7        GND
+         8        GND
+
+JP28     1        ~D18
+         2        ~D19
+         3        D15
+         4        ~D26
+         5        D9
+         6        D10
+         7        D8
+         8        D14
+
+JP29     1        D17
+         2        D41
+         3        ~D45
+         4        D2
+         5        D1
+         6        D0
+         7        ~D43
+         8        ~D42
+
+JP30     1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+
+LED1     A        N$1
+         C        GND
+
+LED2     A        N$2
+         C        GND
+
+LOGO1   
+Q1       1        INSERT
+         2        5V
+         3        V_USB
+
+R1       1        ~D5/SCK
+         2        N$1
+
+R2       1        N$2
+         2        3.3V
+
+R3       1        !RESET
+         2        VDD
+
+R4       1        INSERT
+         2        5V
+
+R5       1        GND
+         2        !DTR
+
+R7       1        GND
+         2        CC2
+
+R8       1        GND
+         2        CC1
+
+R9       1        GND
+         2        BOOT
+
+R12      1        N$9
+         2        3.3V
+
+R14      1        GND
+         2        N$15
+
+R15      1        N$15
+         2        5V
+
+R16      1        N$5
+         2        3.3V
+
+S1       1        GND
+         2        GND
+         3        !RESET
+         4        !RESET
+
+TP1      P$1      SWDCK
+
+TP2      P$1      SWDIO
+
+TP3      P$1      !RESET
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U$94    
+U$95    
+U$96    
+U$97    
+U$98    
+U$99    
+U$100   
+U$101   
+U$102   
+U$103   
+U$104   
+U$105   
+U$106   
+U$107   
+U$108   
+U$109   
+U$110   
+U$111   
+U$112   
+U$113   
+U$114   
+U$115   
+U$116   
+U3       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       D0       D0
+         D1       D1
+         D2       D2
+         D3       D3
+         D7       ~D7/MOSI
+         D8       D8
+         D9       D9
+         XI       N$8
+         XO       N$7
+         D10      D10
+         D14      D14
+         D15      D15
+         D17      D17
+         D36      D36
+         D38      D38
+         D40      D40/SDA
+         D41      D41
+         ~D4      ~D4
+         ~D5      ~D5/SCK
+         ~D6      ~D6/MISO
+         AD16     AD16
+         AD34     AD34
+         BOOT     BOOT
+         ~D18     ~D18
+         ~D19     ~D19
+         ~D22     ~D22
+         ~D23     ~D23
+         ~D24     ~D24/TXO-1
+         ~D25     ~D25/RXI-1
+         ~D26     ~D26
+         ~D27     ~D27
+         ~D28     ~D28
+         ~D37     ~D37
+         ~D39     ~D39/SCL
+         ~D42     ~D42
+         ~D43     ~D43
+         ~D44     ~D44
+         ~D45     ~D45
+         ~RST     !RESET
+         GND@1    GND
+         RXI-0    RXI-0
+         SWDCK    SWDCK
+         SWDIO    SWDIO
+         TXO-0    TXO-0
+         ~AD11    ~AD11
+         ~AD12    ~AD12
+         ~AD13    ~AD13
+         ~AD29    ~AD29
+         ~AD31    ~AD31
+         ~AD32    ~AD32
+         ~AD35    ~AD35
+         GND@22   GND
+         GND@38   GND
+         GND@39   GND
+         GND@47   GND
+         GND@59   GND
+         VDD@36   VDD
+         VDD@37   VDD
+         ~AD33/SWO  ~AD33/SWO
+
+U5       1        GND
+         2        RXI-0
+         3        TXO-0
+         4        N$6
+         5        D+
+         6        D-
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       !DTR
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       3.3V
+
+Y1       P$1      N$8
+         P$2      N$7
+

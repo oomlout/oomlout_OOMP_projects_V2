@@ -1,0 +1,259 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 20:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VDDCORE
+         2        GND
+
+C2       1        N$5
+         2        GND
+
+C3       1        VBAT
+         2        GND
+
+C4       1        N$7
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VBUS
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C9       1        +3V3
+         2        GND
+
+C14      1        AREF
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+D1       A        VBAT
+         C        VBUS
+
+D2       A        N$6
+         C        GND
+
+D3       A        N$8
+         C        GND
+
+JP1      1        DFU
+         2        D1
+         3        D0
+         4        MISO
+         5        MOSI
+         6        SCK
+         7        A5
+         8        A4
+         9        A3
+         10       A2
+         11       A1
+         12       A0
+         13       GND
+         14       AREF
+         15       +3V3
+         16       !RESET
+
+JP3      1        VBAT
+         2        EN
+         3        VBUS
+         4        D13
+         5        D12
+         6        D11
+         7        D10
+         8        D9
+         9        D6
+         10       D5
+         11       SCL
+         12       SDA
+
+L        A        N$2
+         C        GND
+
+R1       1        VBUS
+         2        EN
+
+R2       1        N$1
+         2        N$3
+
+R3       1        VBAT
+         2        D9
+
+R4       1        MODE
+         2        N$6
+
+R6       1        D9
+         2        GND
+
+R7       1        D13
+         2        N$2
+
+R8       1        N$4
+         2        GND
+
+R10      1        CONNECTED
+         2        N$8
+
+SW1      1        !RESET
+         2        GND
+         3        !RESET
+         4        GND
+
+TP1      P$1      SWCLK
+
+TP2      P$1      SWDIO
+
+TP3      P$1      BLE_SWCLK
+
+TP4      P$1      D4_SWDIO/RST
+
+TP5      P$1      FCTRYRST
+
+U$4      1        N$5
+         2        N$7
+         3        A0
+         4        AREF
+         5        GND
+         6        +3V3
+         7        A1
+         8        A2
+         9        A3
+         10       A4
+         11       D8_BLE_CS
+         12       D9
+         13       D4_SWDIO/RST
+         14       D3
+         15       D1
+         16       D0
+         17       +3V3
+         18       GND
+         19       MOSI
+         20       SCK
+         21       MISO
+         22                *** unconnected ***
+         23       D2
+         24       D5
+         25       D11
+         26       D13
+         27       D10
+         28       D12
+         29       D6
+         30       D7_BLE_IRQ
+         31       SDA
+         32       SCL
+         33       D-
+         34       D+
+         35       GND
+         36       +3V3
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39                *** unconnected ***
+         40       !RESET
+         41                *** unconnected ***
+         42       GND
+         43       VDDCORE
+         44       +3V3
+         45       SWCLK
+         46       SWDIO
+         47       A5
+         48                *** unconnected ***
+         THERMAL  GND
+
+U$7     
+U$9     
+U$25    
+U$26    
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        GND
+         2        GND
+         3        +3V3
+         4        SCK
+         5        MISO
+         6        MOSI
+         7        D8_BLE_CS
+         8        D7_BLE_IRQ
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       GND
+         14       +3V3
+         15       DCC
+         16       GND
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       DFU
+         25       GND
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33                *** unconnected ***
+         34       FCTRYRST
+         35       D4_SWDIO/RST
+         36       BLE_SWCLK
+         37                *** unconnected ***
+         38       MODE
+         39       CONNECTED
+         40                *** unconnected ***
+         41       DEC2
+         42       GND
+
+U2       1        VBUS
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        N$3
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        N$4
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X2       P$1      N$5
+         P$2      N$7
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

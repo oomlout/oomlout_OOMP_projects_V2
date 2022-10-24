@@ -1,0 +1,249 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 21:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        +5V
+         2        GND
+
+C3       1        VCC
+         2        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        +5V
+         2        GND
+
+C16      1        +5V
+         2        GND
+
+C18      1        LEDK
+         2        GND
+
+C20      1        +24V
+         2        GND
+
+D1       A        LEDK
+         C        +24V
+
+D2       A        N$3
+         C        +24V
+
+D4       A        SHDN
+         C        LCD_LITE
+
+IC1      1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        VCC
+
+IC2      1        LCD_RD_5V
+         2        LCD_DATA0_5V
+         3        LCD_DATA1_5V
+         4        LCD_DATA2_5V
+         5        LCD_DATA3_5V
+         6        LCD_DATA4_5V
+         7        LCD_DATA5_5V
+         8        LCD_DATA6_5V
+         9        LCD_DATA7_5V
+         10       GND
+         11       LCD_DATA7
+         12       LCD_DATA6
+         13       LCD_DATA5
+         14       LCD_DATA4
+         15       LCD_DATA3
+         16       LCD_DATA2
+         17       LCD_DATA1
+         18       LCD_DATA0
+         19       GND
+         20       VCC
+
+IC3      1        VCC
+         2                 *** unconnected ***
+         3        SD_CS_5V
+         4        SDI_5V
+         5        LCD_CS_5V
+         6        LCD_RS_5V
+         7        LCD_WR_5V
+         8        LCD_RD_5V
+         9        LCD_RST_5V
+         10       GND
+         11       LCD_RST
+         12       LCD_RD
+         13       LCD_WR
+         14       LCD_RS
+         15       LCD_CS
+         16       SDI_3V
+         17       SD_CS_3V
+         18                *** unconnected ***
+         19       GND
+         20       VCC
+
+IC4      1        GND
+         2        LCD_RST_5V
+         3        VCC
+
+JP1      1        GND
+         2        +5V
+         3        LCD_CS_5V
+         4        LCD_RS_5V
+         5        LCD_WR_5V
+         6        LCD_RD_5V
+         7        LCD_RST_5V
+         8        LCD_LITE
+         9        LCD_X+
+         10       LCD_Y+
+         11       LCD_X-
+         12       LCD_Y-
+         13       LCD_DATA0_5V
+         14       LCD_DATA1_5V
+         15       LCD_DATA2_5V
+         16       LCD_DATA3_5V
+         17       LCD_DATA4_5V
+         18       LCD_DATA5_5V
+         19       LCD_DATA6_5V
+         20       LCD_DATA7_5V
+
+JP2      1        GND
+         2        +5V
+         3        VCC
+         4        LCD_WR_5V
+         5        SDO
+         6        SDI_5V
+         7        LCD_CS_5V
+         8        LCD_RS_5V
+         9        LCD_RST_5V
+         10       LCD_LITE
+         11       LCD_Y+
+         12       LCD_X+
+         13       LCD_Y-
+         14       LCD_X-
+         15       GND
+         16       IM2
+         17       IM1
+         18       IM0
+         19       SD_CS_5V
+         20       CARDDET
+
+L1       P$1      +5V
+         P$2      N$3
+
+R1       1        GND
+         2        LEDK
+
+R2       1        SHDN
+         2        VCC
+
+R6       1        LCD_RST_5V
+         2        VCC
+
+R8       1        VCC
+         2        IM0
+
+R9       1        VCC
+         2        IM1
+
+R11      1        IM2
+         2        GND
+
+R12      1        GND
+         2        LCD_RD_5V
+
+SJ3      1        VCC
+         2        IM2
+
+U$7      P$1               *** unconnected ***
+
+U$9      1                 *** unconnected ***
+
+U$11     1                 *** unconnected ***
+
+U$15     P$1               *** unconnected ***
+
+U$16     P$1               *** unconnected ***
+
+U$17     P$1               *** unconnected ***
+
+U$19    
+U$23     1                 *** unconnected ***
+
+U3       1        N$3
+         2        GND
+         3        LEDK
+         4        SHDN
+         5        +5V
+
+X1       1                 *** unconnected ***
+         2        SD_CS_3V
+         3        SDI_3V
+         4        VCC
+         5        LCD_WR
+         6        GND
+         7        SDO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2      CARDDET
+         MT1      GND
+         MT2      GND
+
+X2       1        LEDK
+         2        +24V
+         3        +24V
+         4        +24V
+         5        +24V
+         6        IM0
+         7        IM1
+         8        IM2
+         9                 *** unconnected ***
+         10       LCD_RST
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       LCD_DATA7
+         26       LCD_DATA6
+         27       LCD_DATA5
+         28       LCD_DATA4
+         29       LCD_DATA3
+         30       LCD_DATA2
+         31       LCD_DATA1
+         32       LCD_DATA0
+         33       SDO
+         34       SDI_3V
+         35       LCD_RD
+         36       LCD_WR
+         37       LCD_RS
+         38       LCD_CS
+         39                *** unconnected ***
+         40       VCC
+         41       VCC
+         42       VCC
+         43       GND
+         44       LCD_X-
+         45       LCD_Y-
+         46       LCD_X+
+         47       LCD_Y+
+         48       GND
+         49       GND
+         50       GND
+         PAD1              *** unconnected ***
+         PAD2              *** unconnected ***
+

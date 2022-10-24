@@ -1,0 +1,311 @@
+Pinlist
+
+Exported from boardEagle.brd at 21/08/2022 10:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        +5V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        +5V
+         2        GND
+
+C16      1        +5V
+         2        GND
+
+C18      1        LEDK
+         2        GND
+
+C20      1        +24V
+         2        GND
+
+D1       A        LEDK
+         C        +24V
+
+D2       A        N$3
+         C        +24V
+
+D3       A        VBAT
+         C        +5V
+
+D4       A        USB
+         C        +5V
+
+ENABLE   O1                *** unconnected ***
+         O2                *** unconnected ***
+         P1       LCD_LITE
+         P2       EN
+         S1       GND
+         S2       GND
+
+IC4      1        GND
+         2        !TFT_RST
+         3        3.3V
+
+L1       P$1      +5V
+         P$2      N$3
+
+MS2      1        !RESET
+         2        3.3V
+         3        AREF
+         4        GND
+         5        A
+         6        B
+         7        C
+         8        D
+         9        E
+         1'       !RESET
+         10       F
+         11       SCLK
+         12       MOSI
+         13       MISO
+         14       RX
+         15       TX
+         16       G
+         17       SDA
+         18       SCL
+         19       H
+         2'       3.3V
+         20       I
+         21       J
+         22       K
+         23       L
+         24       M
+         25       N
+         26       USB
+         27       EN
+         28       VBAT
+         3'       AREF
+         4'       GND
+         5'       A
+         6'       B
+         7'       C
+         8'       D
+         9'       E
+         10'      F
+         11'      SCLK
+         12'      MOSI
+         13'      MISO
+         14'      RX
+         15'      TX
+         16'      G
+         17'      SDA
+         18'      SCL
+         19'      H
+         20'      I
+         21'      J
+         22'      K
+         23'      L
+         24'      M
+         25'      N
+         26'      USB
+         27'      EN
+         28'      VBAT
+
+R1       1        GND
+         2        LEDK
+
+R2       1        SD_CS
+         2        3.3V
+
+R5       1        TFT_CS
+         2        3.3V
+
+R6       1        !TFT_RST
+         2        3.3V
+
+R8       1        RT_CS
+         2        3.3V
+
+R12      1        3.3V
+         2        LCD_LITE
+
+SJ1      1        J
+         2        TFT_CS
+         WIRE              *** unconnected ***
+
+SJ2      1        I
+         2        RT_CS
+         WIRE              *** unconnected ***
+
+SJ3      1        H
+         2        SD_CS
+         WIRE              *** unconnected ***
+
+SJ4      1        K
+         2        TFT_DC
+         WIRE              *** unconnected ***
+
+SW1      A        GND
+         B        !RESET
+         A'       GND
+         B'       !RESET
+
+TP1      P$1      LCD_LITE
+
+TP2      P$1      RT_INT
+
+TP4      P$1      !RESET
+
+TP5      P$1      3.3V
+
+TP6      P$1      AREF
+
+TP7      P$1      GND
+
+TP8      P$1      A
+
+TP9      P$1      B
+
+TP10     P$1      EN
+
+TP11     P$1      C
+
+TP12     P$1      D
+
+TP13     P$1      E
+
+TP14     P$1      F
+
+TP15     P$1      SCLK
+
+TP16     P$1      MOSI
+
+TP17     P$1      MISO
+
+TP18     P$1      RX
+
+TP19     P$1      TX
+
+TP20     P$1      G
+
+TP21     P$1      VBAT
+
+TP22     P$1      USB
+
+TP23     P$1      N
+
+TP24     P$1      M
+
+TP25     P$1      L
+
+TP26     P$1      SCL
+
+TP27     P$1      SDA
+
+U$7      P$1               *** unconnected ***
+
+U$9      1                 *** unconnected ***
+
+U$11    
+U$15     P$1               *** unconnected ***
+
+U$16     P$1               *** unconnected ***
+
+U$17     P$1               *** unconnected ***
+
+U$19    
+U$23     1                 *** unconnected ***
+
+U$37    
+U2       1        YU
+         2        RT_INT
+         3        MISO
+         4        SCLK
+         5        RT_CS
+         6        3.3V
+         7        MOSI
+         8                 *** unconnected ***
+         9        3.3V
+         10       GND
+         11       LCD_LITE
+         12                *** unconnected ***
+         13       XR
+         14       3.3V
+         15       YD
+         16       XL
+         THERMAL           *** unconnected ***
+
+U3       1        N$3
+         2        GND
+         3        LEDK
+         4        LCD_LITE
+         5        +5V
+
+X1       1                 *** unconnected ***
+         2        SD_CS
+         3        MOSI
+         4        3.3V
+         5        SCLK
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2      CARDDET
+         MT1      GND
+         MT2      GND
+
+X2       1        LEDK
+         2        +24V
+         3        +24V
+         4        +24V
+         5        +24V
+         6        3.3V
+         7        3.3V
+         8        3.3V
+         9                 *** unconnected ***
+         10       !TFT_RST
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33       MISO
+         34       MOSI
+         35                *** unconnected ***
+         36       SCLK
+         37       TFT_DC
+         38       TFT_CS
+         39                *** unconnected ***
+         40       3.3V
+         41       3.3V
+         42       3.3V
+         43       GND
+         44       XR
+         45       YD
+         46       XL
+         47       YU
+         48       GND
+         49       GND
+         50       GND
+         PAD1              *** unconnected ***
+         PAD2              *** unconnected ***
+

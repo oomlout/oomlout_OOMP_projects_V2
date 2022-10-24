@@ -1,0 +1,203 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      0        UART_RX
+         1        UART_TX
+         2        2
+         3        3
+         4        4
+         5        5
+         6        6
+         7        7/RX3
+         8        8/TX3
+         9        9/RX2
+         10       10/TX2/CS
+         11       11/DOUT
+         12       12/DIN
+         13       13/SCK
+         14       A0/14
+         15       A1/15
+         16       A2/16
+         17       A3/17
+         18       A4/18/SDA0
+         19       A5/19/SCL0
+         20       A6/20
+         21       A7/21
+         22       A8/22
+         23       A9/23
+         3V       3V
+         A10      A10
+         A11      A11
+         GND      GND
+         VIN      VIN
+         3.3V     3.3V
+         AGND     GND
+         AREF     AREF
+         GND1     GND
+         PROG     PROG
+         VBAT     VBAT
+         VUSB     VUSB
+         A14/DAC  A14/DAC
+
+JP2      1        GND
+         2        DTR
+         3        RES
+         4        DIO11
+         5        RSSI
+         6        RESET
+         7        DIO12
+         8        IN
+         9        OUT
+         10       XBEE_VDD
+
+JP3      1        DIO4
+         2        CTS
+         3        DIO9
+         4        RES2
+         5        DIO5
+         6        RTS
+         7        DIO3
+         8        DIO2
+         9        DIO1
+         10       DIO0
+
+JP4      1        GND
+         2        UART_RX
+         3        UART_TX
+         4        2
+         5        3
+         6        4
+         7        5
+         8        6
+         9        7/RX3
+         10       8/TX3
+         11       9/RX2
+         12       10/TX2/CS
+         13       11/DOUT
+         14       12/DIN
+
+JP5      1        VBAT
+         2        3.3V
+         3        GND
+         4        PROG
+         5        A14/DAC
+
+JP6      1        GND
+         2        GND
+         3        GND
+
+JP7      1        VIN
+         2        VUSB
+         3        GND
+         4        3V
+         5        AREF
+         6        A11
+         7        A10
+         8        A9/23
+         9        A8/22
+         10       A7/21
+         11       A6/20
+         12       A5/19/SCL0
+         13       A4/18/SDA0
+         14       A3/17
+         15       A2/16
+         16       A1/15
+         17       A0/14
+         18       13/SCK
+
+JP8      1        EXT_3.3V
+         2        GND
+
+JP9      1        XBEE_VDD
+         2        OUT
+         3        IN
+         4        DIO12
+         5        RESET
+         6        RSSI
+         7        DIO11
+         8        RES
+         9        DTR
+         10       GND
+         11       DIO4
+         12       CTS
+         13       DIO9
+         14       RES2
+         15       DIO5
+         16       RTS
+         17       DIO3
+         18       DIO2
+         19       DIO1
+         20       DIO0
+
+LED1     A        N$12
+         C        GND
+
+LED2     A        N$17
+         C        OUT
+
+LED3     A        N$19
+         C        IN
+
+LED4     A        N$43
+         C        GND
+
+LED5     A        N$139
+         C        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        XBEE_VDD
+         2        N$17
+
+R2       1        N$139
+         2        DIO5
+
+R3       1        XBEE_VDD
+         2        N$19
+
+R4       1        N$43
+         2        RSSI
+
+R11      1        N$12
+         2        XBEE_VDD
+
+S2       1        UART_RX
+         2        OUT
+         3        N$141
+         4        UART_TX
+         5        IN
+         6        N$140
+
+S3       1        RESET
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+SJ1      1        A7/21
+         2        N$140
+
+SJ3      1        A6/20
+         2        N$141
+
+SJ4      1        EXT_3.3V
+         2        XBEE_VDD
+         3        3.3V
+
+SJ5      1        VIN
+         2        EXT_3.3V
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4

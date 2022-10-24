@@ -1,0 +1,123 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 07:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$1
+         2        N$3
+
+C2       1        VIN
+         2        GND
+
+CONN3    1        GND
+         2        VIN
+         3        SDA
+         4        SCL
+         MT1      GND
+         MT2      GND
+
+CONN4    1        GND
+         2        VIN
+         3        SDA
+         4        SCL
+         MT1      GND
+         MT2      GND
+
+D1       A        N$2
+         C        GND
+
+FB1      1        -
+         2        N$4
+
+FB2      1        +
+         2        VSENSE
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+IC1      P$1      GND
+         P$2      N$1
+         P$3      GND
+         P$4      N$3
+         P$5      GND
+         P$6      VSENSE
+         P$7               *** unconnected ***
+         P$8      VIN
+         P$9               *** unconnected ***
+         P$10     GND
+         P$11     ALERT1
+         P$12     ALERT2
+         P$13     GND
+         P$14     ALERT3
+         P$15     ALERT4
+         P$16     ADDR
+         P$17     GND
+         P$18     GND
+         P$19     SCL
+         P$20     SDA
+         THRM     GND
+
+JP3      1        ADDR
+         2        ALERT4
+         3        ALERT3
+         4        ALERT2
+         5        ALERT1
+         6        SDA
+         7        SCL
+         8        GND
+         9        VIN
+
+R1       1        N$2
+         2        SDA
+         3        SCL
+         4        ADDR
+         5        VIN
+         6        VIN
+         7        VIN
+         8        VIN
+
+R2       1        GND
+         2        N$4
+
+R3       1        VSENSE
+         2        GND
+
+R4       1        N$8
+         2        GND
+
+R5       1        VSENSE
+         2        N$1
+
+R6       1        N$4
+         2        N$3
+
+R7       1        N$7
+         2        GND
+
+R8       1        VIN
+         2        VSENSE
+
+SJ1      1        ADDR
+         2        N$7
+
+SJ2      1        ADDR
+         2        N$8
+
+U$16    
+U$17    
+U$18    
+U$20    
+U$33     P$1               *** unconnected ***
+
+U$34     P$1               *** unconnected ***
+
+U$40    
+U$41    
+U$42    
+X1       1        -
+         2        +
+

@@ -1,0 +1,263 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 00:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C2       1        N$5
+         2        GND
+
+C3       1        VBAT
+         2        GND
+
+C4       1        N$7
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VHI
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C10      1        +3V3
+         2        GND
+
+C11      1        +3V3
+         2        GND
+
+C12      1        GND
+         2        !RESET
+
+C13      1        VDDCORE1
+         2        GND
+
+C14      1        AREF
+         2        GND
+
+C15      1        VDDCORE1
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+D+       TP       D+
+
+D-       TP       D-
+
+D4       A        VBUS
+         C        VHI
+
+JP1      1        D4
+         2        TX_D1
+         3        RX_D0
+         4        MISO
+         5        MOSI
+         6        SCK
+         7        A5
+         8        A4
+         9        A3
+         10       A2
+         11       A1
+         12       A0
+         13       GND
+         14       AREF
+         15       +3V3
+         16       !RESET
+
+JP3      1        VBAT
+         2        EN
+         3        VBUS
+         4        D13
+         5        D12
+         6        D11
+         7        D10
+         8        D9
+         9        D6
+         10       D5
+         11       SCL
+         12       SDA
+
+L        A        N$2
+         C        GND
+
+L2       P$1      VDDCORE1
+         P$2      N$11
+
+LED1     1        D8_NEOPIX
+         2        +3V3
+         3                 *** unconnected ***
+         4        GND
+
+Q3       1        VBUS
+         2        VHI
+         3        VBAT
+
+R2       1        N$1
+         2        N$3
+
+R3       1        EN
+         2        VHI
+
+R4       1        +3V3
+         2        !RESET
+
+R5       1        QSPI_CS
+         2        +3V3
+
+R6       1        +3V3
+         2        SWCLK
+
+R7       1        D13
+         2        N$2
+
+R8       1        N$4
+         2        GND
+
+R9       1        V_DIV
+         2        V_DIV
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6        VBUS
+         7        GND
+         8        VBAT
+
+SJ1      1        AREF
+         2        +3V3
+         WIRE              *** unconnected ***
+
+SW1      A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+TP1      P$1      SWCLK
+
+TP2      P$1      SWDIO
+
+U$5     
+U$6     
+U$13    
+U$14     1        N$5
+         2        N$7
+         3        A0
+         4        AREF
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        GND
+         8        +3V3
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       A2
+         12       A3
+         13       A4
+         14       A1
+         15       A5
+         16       +3V3
+         17       QSPI_DATA[0]
+         18       QSPI_DATA[1]
+         19       QSPI_DATA[2]
+         20       QSPI_DATA[3]
+         21       +3V3
+         22       GND
+         23       QSPI_SCK
+         24       QSPI_CS
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29       SDA
+         30       SCL
+         31       D4
+         32                *** unconnected ***
+         33       GND
+         34       +3V3
+         35       D5
+         36       SCK
+         37       D6
+         38       D9
+         39       TX_D1
+         40       RX_D0
+         41       D10
+         42       D11
+         43       D12
+         44       D13
+         45       D-
+         46       D+
+         47       GND
+         48       +3V3
+         49       MISO
+         50       MOSI
+         51                *** unconnected ***
+         52       !RESET
+         53       VDDCORE1
+         54       GND
+         55       N$11
+         56       +3V3
+         57       SWCLK
+         58       SWDIO
+         59                *** unconnected ***
+         60                *** unconnected ***
+         61                *** unconnected ***
+         62       V_DIV
+         63                *** unconnected ***
+         64       D8_NEOPIX
+         EXP      GND
+
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        QSPI_CS
+         2        QSPI_DATA[1]
+         3        QSPI_DATA[2]
+         4        GND
+         5        QSPI_DATA[0]
+         6        QSPI_SCK
+         7        QSPI_DATA[3]
+         8        +3V3
+
+U2       1        VHI
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        N$3
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        N$4
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X2       P$1      N$5
+         P$2      N$7
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

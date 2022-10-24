@@ -1,0 +1,246 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 19:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C3       1        VCC
+         2        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        +5V
+         2        GND
+
+D1       A        TFT_RST
+         C        N$8
+
+IC4      1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        VCC
+
+IC5      1        GND
+         2        TFT_RST
+         3        VCC
+
+ICSP_CLK 1        SCLK_5V
+         2        N$12
+
+ICSP_SI  1        MOSI_5V
+         2        N$6
+
+ICSP_SI1 1        TS_INT
+         2        D7
+
+ICSP_SO  1        MISO
+         2        N$11
+
+PIN3     1        N$5
+         2        N$7
+
+Q1       B        N$16
+         C        N$1
+         E        GND
+
+R1       1        +5V
+         2        N$2
+
+R2       1        +5V
+         2        N$3
+
+R3       1        +5V
+         2        N$4
+
+R4       1        +5V
+         2        N$10
+
+R5       1        N$5
+         2        N$16
+
+R6       1        TFT_RST
+         2        VCC
+
+R7       1        RT_CS_5V
+         2        VCC
+
+R8       1        CARDCS_5V
+         2        VCC
+
+R9       1        N$5
+         2        +5V
+
+SJ1      1        N$15
+         2        MOSI_5V
+         WIRE              *** unconnected ***
+
+SJ2      1        N$14
+         2        MISO
+         WIRE              *** unconnected ***
+
+SJ3      1        N$13
+         2        SCLK_5V
+         WIRE              *** unconnected ***
+
+SW1      A        GND
+         B        N$8
+         A'       GND
+         B'       N$8
+
+U$2      1        N$1
+         2        N$2
+         3        N$3
+         4        N$4
+         5        N$10
+         6        GND
+         7        VCC
+         8        VCC
+         9        VCC
+         10       TFT_RST
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       N$9
+         16       N$9
+         17       N$9
+         18       N$9
+         19       N$9
+         20       N$9
+         21       N$9
+         22       N$9
+         23       N$9
+         24       N$9
+         25       N$9
+         26       N$9
+         27       N$9
+         28       N$9
+         29       N$9
+         30       N$9
+         31       N$9
+         32       N$9
+         33       MISO
+         34       MOSI_3V
+         35                *** unconnected ***
+         36       TFT_DC_3V
+         37       SCLK_3V
+         38       TFT_CS_3V
+         39                *** unconnected ***
+         40       VCC
+         41       VCC
+         42       VCC
+         43       GND
+         44       XR
+         45       YD
+         46       XL
+         47       YU
+         48       GND
+         49       GND
+         50       GND
+         PAD1              *** unconnected ***
+         PAD2              *** unconnected ***
+
+U$3      1                 *** unconnected ***
+         2        CARD_CS_3V
+         3        MOSI_3V
+         4        VCC
+         5        SCLK_3V
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2               *** unconnected ***
+         MT1      GND
+         MT2      GND
+
+U$10     1                 *** unconnected ***
+
+U$11     1                 *** unconnected ***
+
+U$17     3V       3V
+         5V       +5V
+         A0                *** unconnected ***
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4                *** unconnected ***
+         A5                *** unconnected ***
+         D0                *** unconnected ***
+         D1                *** unconnected ***
+         D2                *** unconnected ***
+         D3       N$7
+         D4       CARDCS_5V
+         D5                *** unconnected ***
+         D6                *** unconnected ***
+         D7       D7
+         D8       RT_CS_5V
+         D9       TFT_DC_5V
+         D10      TFT_CS_5V
+         D11      N$15
+         D12      N$14
+         D13      N$13
+         GND      GND
+         SCK      N$12
+         SCL               *** unconnected ***
+         SDA               *** unconnected ***
+         VIN      VIN
+         AREF              *** unconnected ***
+         MISO     N$11
+         MOSI     N$6
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         IOREF             *** unconnected ***
+         RESET    N$8
+         5V_ICSP           *** unconnected ***
+         RESERVED          *** unconnected ***
+         RESET_ICS P          *** unconnected ***
+
+U$19     1                 *** unconnected ***
+
+U$20    
+U2       1        YU
+         2        TS_INT
+         3        MISO
+         4        SCLK_3V
+         5        RT_CS_3V
+         6        VCC
+         7        MOSI_3V
+         8                 *** unconnected ***
+         9        VCC
+         10       GND
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       XR
+         14       VCC
+         15       YD
+         16       XL
+         THERMAL           *** unconnected ***
+
+U3       1        VCC
+         2        SCLK_3V
+         3        SCLK_5V
+         4        CARD_CS_3V
+         5        CARDCS_5V
+         6        TFT_DC_3V
+         7        TFT_DC_5V
+         8        GND
+         9        TFT_CS_5V
+         10       TFT_CS_3V
+         11       MOSI_5V
+         12       MOSI_3V
+         13                *** unconnected ***
+         14       RT_CS_5V
+         15       RT_CS_3V
+         16                *** unconnected ***
+

@@ -1,0 +1,261 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 00:28
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        N$20
+         2        GND
+
+C6       1        VCC
+         2        GND
+
+C7       1        N$31
+         2        VCC
+
+D1       A        5V
+         C        N$20
+
+FRAME1  
+FRAME2  
+J1       D+                *** unconnected ***
+         D-                *** unconnected ***
+         ID                *** unconnected ***
+         GND      GND
+         P$1      SHIELD
+         P$2      SHIELD
+         P$3      SHIELD
+         P$4      SHIELD
+         P$6      SHIELD
+         P$8      SHIELD
+         P$10     SHIELD
+         P$12     SHIELD
+         VBUS     N$20
+         SHIELD   SHIELD
+         SHEILD2  SHIELD
+         SHIELD3  SHIELD
+         SHIELD4  SHIELD
+
+J2       1        GND
+         2        3.3V
+         3        SDA_2
+         4        SCL_2
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP1     
+JP2      1                 *** unconnected ***
+
+JP3      1                 *** unconnected ***
+
+JP4      1        RX
+         2        TX
+         3        D2
+         4        D3
+         5        D4
+         6        D5
+         7        D6
+         8        D7
+
+JP5      1        !CD
+         2        D9
+         3        !CS
+         4        MOSI
+         5        MISO
+         6        SCK
+         7        GND
+         8        AREF
+         9        SDA
+         10       SCL
+
+JP6      1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        A4
+         6        A5
+
+JP7      1        NC
+         2        IOREF
+         3        RES
+         4        3.3V
+         5        5V
+         6        GND
+         7        GND
+         8        VIN
+
+JP8      1        VCC
+         2        RX
+         3        TX_LV
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       GND
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       N$3
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+
+JP9      1        5V
+         2        N$9
+         3        3.3V
+
+JP10     1                 *** unconnected ***
+
+JP11     1                 *** unconnected ***
+
+L1       P$1      N$32
+         P$2      VCC
+
+LED1     A        3.3V
+         C        N$6
+
+LED2     A        N$3
+         C        N$1
+
+LOGO1   
+R1       1        GND
+         2        N$6
+
+R2       1        SCL_2
+         2        3.3V
+
+R3       1        SDA_2
+         2        3.3V
+
+R4       1        SCL
+         2        N$9
+
+R5       1        SDA
+         2        N$9
+
+R6       1        N$19
+         2        N$9
+
+R7       1        GND
+         2        N$1
+
+R8       1        GND
+         2        N$31
+
+R9       1        N$31
+         2        VCC
+
+S1       1        D7
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+S2       1        D9
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+TP1      P$1      SCL_2
+
+TP2      P$1      SDA_2
+
+TP3      P$1      VCC
+
+U1       1                 *** unconnected ***
+         2        N$163
+         3        N$2
+         4        3.3V
+         5        N$4
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1               *** unconnected ***
+         CD2      !CD
+         GND1     GND
+         GND3     GND
+
+U2       5V       5V
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       !CD
+         D9       D9
+         NC                *** unconnected ***
+         RX       RX
+         TX       TX
+         D10      !CS
+         D11      MOSI
+         D12      MISO
+         D13      SCK
+         RES      RES
+         SCL      SCL
+         SDA      SDA
+         VIN      VIN
+         3.3V     3.3V
+         AREF     AREF
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    IOREF
+
+U3       1        3.3V
+         2        N$163
+         3        !CS
+         4        N$2
+         5        MOSI
+         6        N$4
+         7        SCK
+         8        GND
+         9        TX
+         10       TX_LV
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+
+U4       1        3.3V
+         2        SCL_2
+         3        SDA_2
+         4        GND
+         5        SDA
+         6        SCL
+         7        N$19
+         8        N$19
+
+U5       1        GND
+         2        N$32
+         3        GND
+         4        N$31
+         5        N$20
+         6        GND
+         7        N$20
+         8        N$20
+         PAD      GND
+

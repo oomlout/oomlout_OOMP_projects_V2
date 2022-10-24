@@ -1,0 +1,95 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 01:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+B1       -        GND
+         +$1      N$1
+         +$2      N$1
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        VIN
+         2        GND
+
+D1       A        RX_3V
+         C        RX
+
+D2       A        N$1
+         C        VBACKUP
+
+FB1      1        N$3
+         2        3.3V
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        1PPS
+         2        VIN
+         3        GND
+         4        RX
+         5        TX
+         6        FIX
+         7        VBACKUP
+         8        ENABLE
+         9        3.3V
+
+LED1     A        FIX
+         C        N$2
+
+R1       1        GND
+         2        N$2
+
+R2       1        ENABLE
+         2        VIN
+
+R3       1        3.3V
+         2        RX_3V
+
+U$8      P$1               *** unconnected ***
+
+U$9      P$1               *** unconnected ***
+
+U$15    
+U$16    
+U$18    
+U$20     P$1      GND
+         P$2      GND
+         P$3      N$4
+         P$4               *** unconnected ***
+
+U1       P$1      3.3V
+         P$2               *** unconnected ***
+         P$3      GND
+         P$4      VBACKUP
+         P$5      FIX
+         P$6               *** unconnected ***
+         P$7               *** unconnected ***
+         P$8      GND
+         P$9      TX
+         P$10     RX_3V
+         P$11     N$4
+         P$12     GND
+         P$13     1PPS
+         P$14              *** unconnected ***
+         P$15              *** unconnected ***
+         P$16              *** unconnected ***
+         P$17              *** unconnected ***
+         P$18              *** unconnected ***
+         P$19     GND
+         P$20              *** unconnected ***
+
+U2       1        VIN
+         2        GND
+         3        ENABLE
+         4                 *** unconnected ***
+         5        N$3
+

@@ -1,0 +1,127 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 21:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+ANT      1        N$1
+
+C1       1        +3V3
+         2        GND
+
+C2       1        LIN
+         2        N$3
+
+C3       1        RIN
+         2        N$4
+
+C4       1        +3V3
+         2        GND
+
+C5       1        +5V
+         2        GND
+
+C6       1        GND
+         2        RCLK
+
+C7       1        GND
+         2        N$6
+
+D1       A        SEN(AD/CS)
+         C        CS_5.0V
+
+D2       A        RST
+         C        RST_5.0V
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        RIN
+         2        LIN
+         3        +5V
+         4        GND
+         5        +3V3
+         6        GPO2
+         7        GPO1
+         8        SDA_5.0V
+         9        SCL_5.0V
+         10       CS_5.0V
+         11       RST_5.0V
+
+L1       1        N$1
+         2        GND
+
+Q1       1        +3V3
+         2        SCL_3.3V
+         3        SCL_5.0V
+
+Q2       1        +3V3
+         2        SDA_3.3V
+         3        SDA_5.0V
+
+R1       1        SCL_3.3V
+         2        +3V3
+
+R2       1        SCL_5.0V
+         2        +5V
+
+R3       1        +5V
+         2        SDA_5.0V
+
+R4       1        +3V3
+         2        SDA_3.3V
+
+R5       1        +3V3
+         2        SEN(AD/CS)
+
+R6       1        +3V3
+         2        RST
+
+U$7     
+U$9     
+U$15     P$1               *** unconnected ***
+
+U$17     P$1               *** unconnected ***
+
+U1       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        GND
+         4        N$1
+         5        RST
+         6        SEN(AD/CS)
+         7        SCL_3.3V
+         8        SDA_3.3V
+         9        RCLK
+         10       +3V3
+         11       +3V3
+         12       GND
+         13       GND
+         14       GND
+         15       N$4
+         16       N$3
+         17       N$6
+         18       GPO2
+         19       GPO1
+         20                *** unconnected ***
+         THERM    GND
+
+U2       1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        +3V3
+
+X3       1        GND
+         2        LIN
+         3        RIN
+         4        LIN
+         5        RIN
+
+Y2       P$1      RCLK
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+         P$4      N$6
+

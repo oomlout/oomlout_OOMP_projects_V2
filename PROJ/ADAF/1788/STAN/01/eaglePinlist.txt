@@ -1,0 +1,455 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 20:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       +        RIGHT_FILTERED
+         -        R_LINEOUT
+
+C2       +        LEFT_FILTERED
+         -        L_LINEOUT
+
+C3       1        +5V
+         2        GND
+
+C4       1        N$2
+         2        GND
+
+C5       1        N$1
+         2        GND
+
+C6       1        1.8V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        AVDD
+         2        AGND
+
+C9       1        N$14
+         2        N$12
+
+C10      1        GND
+         2        N$12
+
+C11      1        +5V
+         2        GND
+
+C12      1        AGND
+         2        N$9
+
+C13      1        LEFT
+         2        N$8
+
+C14      1        RIGHT
+         2        N$11
+
+C15      1        AGND
+         2        N$10
+
+C16      1        +5V
+         2        GND
+
+C17      1        N$27
+         2        AGND
+
+C18      1        N$31
+         2        AGND
+
+C19      1        3.3V
+         2        GND
+
+C20      1        +5V
+         2        GND
+
+C21      1        N$5
+         2        AGND
+
+C22      1        N$6
+         2        AGND
+
+C23      1        MICN
+         2        AGND
+
+C24      1        MICP
+         2        AGND
+
+C25      1        LINE2
+         2        AGND
+
+C26      1        RST_5V
+         2        GND
+
+C27      1        LEFT_FILTERED
+         2        AGND
+
+C28      1        RIGHT_FILTERED
+         2        AGND
+
+CN1      1                 *** unconnected ***
+         2        SDCS_3V
+         3        MOSI_3V
+         4        3.3V
+         5        SCLK_3V
+         6        GND
+         7        MISO
+         8                 *** unconnected ***
+         CD1      SD_DETECT
+         CD2               *** unconnected ***
+         MT1      GND
+         MT2      GND
+
+D1       A        RX
+         C        RX_5V
+
+D2       A        RST_5V
+         C        !RESET
+
+FB1      1        3.3V
+         2        AVDD
+
+FB2      1        GND
+         2        AGND
+
+FB3      1        +5V
+         2        N$14
+
+FB4      1        GND
+         2        N$12
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+JP1      1        N$18
+         2        N$22
+         3        N$25
+         4        N$24
+         5        N$23
+         6        N$28
+         7        N$29
+         8        N$30
+
+JP2      1        MICN
+         2        MICP
+         3        LINE2
+
+JP3      1        SDCS_5V
+         2        DREQ
+
+JP4      1        N$13
+         2        GND
+         3        GND
+         4        +5V
+         5        N$17
+         6        !RESET
+         7        N$19
+         8        N$20
+
+JP6      1        N$3
+         2        N$4
+         3        N$7
+         4        GND
+         5        D13
+         6        D12
+         7        D11
+         8        D10
+         9        D9
+         10       D8
+
+JP7      1        RST_5V
+         2        SHUTDOWN
+         3        TX
+         4        RX_5V
+         5        SD_DETECT
+         6        CS_5V
+         7        XDCS_5V
+
+JP8      1        N$36
+         2        N$37
+         3        N$38
+         4        N$39
+         5        N$40
+         6        N$41
+
+LEFTSPK  1        OUT-L-N
+         2        OUT-L-P
+
+MP3GPIO  1        3.3V
+         2        GPIO1
+         3        3.3V
+         4        GPIO2
+         5        3.3V
+         6        GPIO3
+         7        3.3V
+         8        GPIO4
+         9        3.3V
+         10       GPIO5
+         11       3.3V
+         12       GPIO6
+         13       3.3V
+         14       GPIO7
+
+R1       1        N$1
+         2        N$2
+
+R2       1        GPIO0
+         2        GND
+
+R3       1        LEFT
+         2        N$5
+
+R4       1        RIGHT
+         2        N$6
+
+R5       1        GBUF
+         2        N$31
+
+R6       1        RIGHT_FILTERED
+         2        RIGHT
+
+R7       1        LEFT_FILTERED
+         2        LEFT
+
+R8       1        GPIO1
+         2        GND
+
+R9       1        RST_5V
+         2        3.3V
+
+R10      1        RX
+         2        3.3V
+
+R12      1        SHUTDOWN
+         2        +5V
+
+R13      1        GPIO2
+         2        GND
+
+R14      1        GPIO3
+         2        GND
+
+R15      1        GPIO4
+         2        GND
+
+R16      1        GPIO5
+         2        GND
+
+R17      1        GPIO6
+         2        GND
+
+R18      1        GPIO7
+         2        GND
+
+R19      1        3.3V
+         2        XDCS_5V
+
+R20      1        3.3V
+         2        SDCS_5V
+
+R21      1        CS_5V
+         2        3.3V
+
+RIGHTSPK 1        OUT-R-P
+         2        OUT-R-N
+
+SJ1      1        GAIN0
+         2        +5V
+
+SJ2      1        N$21
+         2        MISO
+
+SJ3      1        N$16
+         2        SCLK_5V
+
+SJ4      1        N$15
+         2        MOSI_5V
+
+SJ5      1        D12
+         2        MISO
+         WIRE              *** unconnected ***
+
+SJ6      1        D13
+         2        SCLK_5V
+         WIRE              *** unconnected ***
+
+SJ7      1        D11
+         2        MOSI_5V
+         WIRE              *** unconnected ***
+
+SJ8      1        N$18
+         2        CS_5V
+         WIRE              *** unconnected ***
+
+SJ9      1        N$22
+         2        XDCS_5V
+         WIRE              *** unconnected ***
+
+SJ10     1        N$24
+         2        SDCS_5V
+         WIRE              *** unconnected ***
+
+SJ11     1        N$23
+         2        DREQ
+         WIRE              *** unconnected ***
+
+SJ12     1        N$26
+         2        +5V
+
+SW2      A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+U$41     3V       N$17
+         5V       +5V
+         A0       N$41
+         A1       N$40
+         A2       N$39
+         A3       N$38
+         A4       N$37
+         A5       N$36
+         D0       N$30
+         D1       N$29
+         D2       N$28
+         D3       N$23
+         D4       N$24
+         D5       N$25
+         D6       N$22
+         D7       N$18
+         D8       D8
+         D9       D9
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         GND      GND
+         SCK      N$16
+         SCL      N$3
+         SDA      N$4
+         VIN      N$13
+         AREF     N$7
+         MISO     N$21
+         MOSI     N$15
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         IOREF    N$19
+         RESET    !RESET
+         5V_ICSP           *** unconnected ***
+         RESERVED N$20
+         RESET_ICS P          *** unconnected ***
+
+U$50    
+U1       1        MICP
+         2        MICN
+         3        RST_3V
+         4        GND
+         5        1.8V
+         6        3.3V
+         7        1.8V
+         8        DREQ
+         9        GPIO2
+         10       GPIO3
+         11       GPIO6
+         12       GPIO7
+         13       XDCS_3V
+         14       3.3V
+         15       CLKOUT
+         16       GND
+         17       N$1
+         18       N$2
+         19       3.3V
+         20       GND
+         21       GND
+         22       GND
+         23       CS_3V
+         24       1.8V
+         25       GPIO5
+         26       RX
+         27       TX
+         28       SCLK_3V
+         29       MOSI_3V
+         30       MISO
+         31       1.8V
+         32       3.3V
+         33       GPIO0
+         34       GPIO1
+         35       GND
+         36       GPIO4
+         37       AGND
+         38       AVDD
+         39       RIGHT
+         40       AGND
+         41       AGND
+         42       GBUF
+         43       AVDD
+         44       N$27
+         45       AVDD
+         46       LEFT
+         47       AGND
+         48       LINE2
+
+U2       1        3.3V
+         2        GND
+         3        +5V
+         4        +5V
+         5        +5V
+         6        1.8V
+
+U4       1        N$26
+         2        OUT-L-P
+         3        +5V
+         4        GND
+         5        OUT-L-N
+         6                 *** unconnected ***
+         7        SHUTDOWN
+         8        SHUTDOWN
+         9        N$14
+         10                *** unconnected ***
+         11       OUT-R-N
+         12       GND
+         13       +5V
+         14       OUT-R-P
+         15       GAIN0
+         16       N$11
+         17       N$10
+         18       N$12
+         19       N$9
+         20       N$8
+         21       GND
+
+U5       1        3.3V
+         2        RST_3V
+         3        RST_5V
+         4        CS_3V
+         5        CS_5V
+         6        XDCS_3V
+         7        XDCS_5V
+         8        GND
+         9        SCLK_5V
+         10       SCLK_3V
+         11       MOSI_5V
+         12       MOSI_3V
+         13                *** unconnected ***
+         14       SDCS_5V
+         15       SDCS_3V
+         16                *** unconnected ***
+
+X1       1        AGND
+         2        L_LINEOUT
+         3        R_LINEOUT
+         4        L_LINEOUT
+         5        R_LINEOUT
+
+Y1       1        N$1
+         2        N$2
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+

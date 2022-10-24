@@ -1,0 +1,294 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 00:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C2       1        GND
+         2        3.3V
+
+C3       1        GND
+         2        3.3V
+
+C4       1        GND
+         2        3.3V
+
+C5       1        GND
+         2        3.3V
+
+C6       1        GND
+         2        3.3V
+
+C7       1        GND
+         2        VCC_1
+
+C8       1        GND
+         2        V_BATT
+
+D1       A        V_BATT
+         C        VCC_1
+
+D10      1        N$15
+         2        N$8
+         3        N$14
+         4        GND
+
+FRAME1  
+J1       1        3.3V
+
+J2       1        D2
+
+J3       1        D3
+
+J4       1        GND
+
+J5       1        D4
+
+J6       1        D5
+
+J7       1        D6
+
+J8       1        D7
+
+J9       1        D8
+
+J10      1        D9
+
+J11      1        3.3V
+
+J12      1        D10
+
+J13      1        D11
+
+J14      1        GND
+
+J15      D+       N$20
+         D-       N$19
+         ID                *** unconnected ***
+         GND      GND
+         P$1               *** unconnected ***
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+         P$4               *** unconnected ***
+         P$6               *** unconnected ***
+         P$8               *** unconnected ***
+         P$10              *** unconnected ***
+         P$12              *** unconnected ***
+         VBUS     VCC_1
+         SHIELD            *** unconnected ***
+         SHEILD2           *** unconnected ***
+         SHIELD3           *** unconnected ***
+         SHIELD4           *** unconnected ***
+
+J16      1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP1      1                 *** unconnected ***
+
+JP2      1                 *** unconnected ***
+
+JP3      1                 *** unconnected ***
+
+JP4      1                 *** unconnected ***
+
+LED1     A        N$3
+         C        N$4
+
+LED2     A        3.3V
+         C        N$1
+
+LED3     A        3.3V
+         C        N$21
+
+LED4     A        N$18
+         C        GND
+
+LED5     A        N$11
+         C        GND
+
+LED6     A        N$10
+         C        GND
+
+LED7     A        N$9
+         C        GND
+
+LED8     A        N$12
+         C        GND
+
+LED9     A        N$13
+         C        GND
+
+LOGO1   
+LOGO6   
+R1       1        N$3
+         2        VCC_1
+
+R2       1        GND
+         2        N$6
+
+R3       1        3.3V
+         2        RESET
+
+R4       1        D+
+         2        N$20
+
+R5       1        D-
+         2        N$19
+
+R6       1        N$1
+         2        RX_LED
+
+R7       1        N$21
+         2        TX_LED
+
+R8       1        N$18
+         2        BG_LED0
+
+R9       1        N$11
+         2        BG_LED1
+
+R10      1        N$10
+         2        BG_LED2
+
+R11      1        N$9
+         2        BG_LED3
+
+R12      1        N$12
+         2        BG_LED4
+
+R13      1        N$13
+         2        BG_LED5
+
+R14      1        N$15
+         2        RGB_R
+
+R15      1        N$14
+         2        RGB_B
+
+R16      1        N$8
+         2        RGB_G
+
+S1       1        VCC_1
+         2        N$2
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S2       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+TP1      P$1      MISO
+
+TP2      P$1      MOSI
+
+TP3      P$1      SCK
+
+TP4      P$1      RESET
+
+TP5      P$1      GND
+
+TP6      P$1      3.3V
+
+TP7      P$1      V_BATT
+
+TP8      P$1      N$2
+
+U$1     
+U$3     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$44    
+U1       1        N$4
+         2        GND
+         3        V_BATT
+         4        VCC_1
+         5        N$6
+
+U2       1        VCC_1
+         2        GND
+         3        N$2
+         4                 *** unconnected ***
+         5        3.3V
+
+U5       1        BG_LED3
+         2                 *** unconnected ***
+         3        D-
+         4        D+
+         5        GND
+         6        3.3V
+         7        VCC_1
+         8        RX_LED
+         9        SCK
+         10       MOSI
+         11       MISO
+         12       D6
+         13       RESET
+         14       3.3V
+         15       GND
+         16       N$7
+         17       N$5
+         18       D10
+         19       D11
+         20       BG_LED1
+         21       BG_LED2
+         22       TX_LED
+         23       GND
+         24       3.3V
+         25       D2
+         26       D25
+         27       D7
+         28       D4
+         29       D8
+         30       RGB_R
+         31       RGB_G
+         32       RGB_B
+         33       GND
+         34       3.3V
+         35       GND
+         36       D3
+         37       D9
+         38       BG_LED0
+         39       D5
+         40       BG_LED4
+         41       BG_LED5
+         42       3.3V
+         43       GND
+         44       3.3V
+         EPAD              *** unconnected ***
+
+Y1       1        N$5
+         2        GND
+         3        N$7
+

@@ -1,0 +1,306 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 22:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        AREF
+         2        GND
+
+C2       1        GND
+         2        5V
+
+C3       +        5V
+         -        GND
+
+C4       1        5V
+         2        GND
+
+C5       +        VIN
+         -        GND
+
+C6       +        3.3V
+         -        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        DTR
+         2        RESET
+
+C9       1        D+
+         2        GND
+
+C10      1        VUSB
+         2        GND
+
+C12      1        USBVCC
+         2        GND
+
+C13      1        D-
+         2        GND
+
+C14      1        3.3V_F
+         2        GND
+
+C15      +        USBVCC
+         -        GND
+
+D1       A        PWRIN
+         C        VIN
+
+F1       1        VUSB
+         2        USBVCC
+
+FRAME2  
+IC3      1        N$15
+         2        5V
+         3        VIN
+         4        5V
+
+J2       1        MISO
+         2        5V
+         3        SCK
+         4        MOSI
+         5        RESET
+         6        GND
+
+J3       GND      GND
+         P$4      INSERT
+         VIN0     PWRIN
+         VIN1              *** unconnected ***
+
+JP1     
+JP2      1A       AD5/SCL
+         1B       AD5/SCL
+         2A       AD4/SDA
+         2B       AD4/SDA
+         3A       AREF
+         3B       AREF
+         4A       GND
+         4B       GND
+         5A       SCK
+         5B       SCK
+         6A       MISO
+         6B       MISO
+         7A       MOSI
+         7B       MOSI
+         8A       SS
+         8B       SS
+         9A       IO9
+         9B       IO9
+         10A      IO8
+         10B      IO8
+
+JP3     
+JP4     
+JP5     
+JP6     
+JP7     
+JP8      1                 *** unconnected ***
+
+JP9      1                 *** unconnected ***
+
+JP10     1A       VIN
+         1B       VIN
+         2A       GND
+         2B       GND
+         3A       GND
+         3B       GND
+         4A       5V
+         4B       5V
+         5A       3.3V
+         5B       3.3V
+         6A       RESET
+         6B       RESET
+         7A       5V
+         7B       5V
+         8A                *** unconnected ***
+         8B                *** unconnected ***
+
+JP11     1A       RX-I
+         1B       RX-I
+         2A       TX-O
+         2B       TX-O
+         3A       IO2
+         3B       IO2
+         4A       IO3
+         4B       IO3
+         5A       IO4
+         5B       IO4
+         6A       IO5
+         6B       IO5
+         7A       IO6
+         7B       IO6
+         8A       IO7
+         8B       IO7
+
+JP12     D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         MTN1     GND
+         MTN2     GND
+         MTN3     GND
+         MTN4     GND
+         VBUS     VUSB
+
+JP13     1A       AD0
+         1B       AD0
+         2A       AD1
+         2B       AD1
+         3A       AD2
+         3B       AD2
+         4A       AD3
+         4B       AD3
+         5A       AD4/SDA
+         5B       AD4/SDA
+         6A       AD5/SCL
+         6B       AD5/SCL
+
+LED1     A        N$1
+         C        GND
+
+LED2     A        N$2
+         C        GND
+
+LED3     A        N$8
+         C        TXLED
+
+LED4     A        N$10
+         C        RXLED
+
+Q1       1        INSERT
+         2        5V
+         3        USBVCC
+
+Q2       1        3.3V_F
+         2        FTDI_DTR
+         3        DTR
+
+R1       1        SCK
+         2        N$1
+
+R2       1        N$2
+         2        5V
+
+R3       1        RESET
+         2        5V
+
+R4       1        INSERT
+         2        5V
+
+R5       1        D-
+         2        N$6
+
+R6       1        5V
+         2        N$8
+
+R7       1        5V
+         2        N$10
+
+R8       1        RX-I
+         2        TXD
+
+R9       1        TX-O
+         2        RXD
+
+R10      1        D+
+         2        N$7
+
+R11      1        FTDI_DTR
+         2        3.3V_F
+
+R13      1        DTR
+         2        5V
+
+R14      1        GND
+         2        N$15
+
+R15      1        N$15
+         2        5V
+
+S1       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+TP1      P$1      5V
+
+TP2      P$1      MOSI
+
+TP3      P$1      GND
+
+TP4      P$1      MISO
+
+TP5      P$1      SCK
+
+TP6      P$1      RESET
+
+U$16    
+U1       1        FTDI_DTR
+         2                 *** unconnected ***
+         3        3.3V_F
+         4        RXD
+         5                 *** unconnected ***
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       TXLED
+         11       N$7
+         12       N$6
+         13       3.3V_F
+         14       3.3V_F
+         15       USBVCC
+         16       GND
+         17       RXLED
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       TXD
+
+U2       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        IO3
+         2        IO4
+         3        GND
+         4        5V
+         5        GND
+         6        5V
+         7        N$3
+         8        N$4
+         9        IO5
+         10       IO6
+         11       IO7
+         12       IO8
+         13       IO9
+         14       SS
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       5V
+         19                *** unconnected ***
+         20       AREF
+         21       GND
+         22                *** unconnected ***
+         23       AD0
+         24       AD1
+         25       AD2
+         26       AD3
+         27       AD4/SDA
+         28       AD5/SCL
+         29       RESET
+         30       RX-I
+         31       TX-O
+         32       IO2
+
+Y1       1        N$3
+         2        GND
+         3        N$4
+

@@ -1,0 +1,439 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 22:49
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        3.3V
+         C        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       A        VIN
+         C        GND
+
+C4       1        N$28
+         2        GND
+
+C5       1        N$8
+         2        N$13
+
+C6       1        SPKR_LN
+         2        N$5
+
+C7       1        N$12
+         2        GND
+
+C8       1        SPKR_LP
+         2        N$4
+
+C9       1        L_OUT
+         2        N$9
+
+C10      1        N$16
+         2        N$19
+
+C11      1        SPKR_RP
+         2        N$18
+
+C12      1        GND
+         2        N$17
+
+C13      1        SPKR_RN
+         2        N$20
+
+C14      1        R_OUT
+         2        N$21
+
+C15      1        N$26
+         2        N$25
+
+C16      1        N$24
+         2        GND
+
+C17      1        3.3V
+         2        GND
+
+C18      1        MIC_RN
+         2        GND
+
+C19      1        MIC_LN
+         2        GND
+
+D1       A        N$7
+         C        LED_2
+
+D2       A        N$6
+         C        LED_0
+
+D3       A        N$2
+         C        LED_1
+
+D4       A        V_BAT
+         C        VIN
+
+D5       A        V_FTDI
+         C        VIN
+
+D6       A        V_USB
+         C        VIN
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      CTS      5V_CTS
+         DTR      5V_RTS
+         GND      GND
+         RXI      5V_RX
+         TXO      5V_TX
+         VCC      V_FTDI
+
+JP2      D+1      USB_P
+         D-1      USB_N
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    V_USB
+
+JP3      1        3.3V
+         2        VREGEN
+
+JP4      1        3.3V
+         2        N$10
+
+JP5      1        3.3V
+         2        N$11
+
+JP6      1        GND
+         2        V_BAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP7      1        3.3V
+         2        N$14
+
+JP8      1        3.3V
+         2        N$15
+
+JP9      1        3.3V
+         2        N$22
+
+JP10     1        CAP_SENSE_2
+         2        CAP_SENSE_3
+         3        CAP_SENSE-4
+         4        CAP_SENSE_1
+
+JP11     1        3.3V
+         2        LED_0
+         3        3.3V
+         4        LED_1
+         5        3.3V
+         6        LED_2
+
+JP12     1        GND
+         2        PCM_CLK/CLK
+         3        PCM_SYNC/CSB
+         4        PCM_IN/MOSI
+         5        PCM_OUT/MISO
+         6        SPI_!PCM
+
+JP13     RSH               *** unconnected ***
+         TIP      R_OUT
+         TSH               *** unconnected ***
+         RING     L_OUT
+         SLEEVE   GND
+
+JP14     RSH               *** unconnected ***
+         TIP      R_IN
+         TSH               *** unconnected ***
+         RING     L_IN
+         SLEEVE   GND
+
+JP15     1        AIO_1
+         2        PIO_3
+         3        PIO_7
+         4        PIO_6
+
+JP16     1        3.3V
+         2        GND
+         3        3.3V
+         4        GND
+         5        3.3V
+         6        GND
+         7        3.3V
+         8        GND
+
+JP17     1        GND
+         2        MIC_BIAS_A
+         3        MIC_LP
+         4        MIC_LN
+         5        MIC_RP
+         6        MIC_RN
+         7        SPKR_RP
+         8        SPKR_RN
+         9        SPKR_LP
+         10       SPKR_LN
+
+JP18     1        L_IN
+         2        R_IN
+         3        GND
+
+JP19     P$1      5V_CTS
+         P$2      5V_TX
+         P$3      5V_RX
+         P$4      V_FTDI
+         P$5      5V_RTS
+         P$6      GND
+
+JP20     1        L_OUT
+         2        R_OUT
+         3        GND
+
+JP21     1        GND
+         2        N$1
+
+JP22     1        GND
+         2        !RESET
+
+L1       1        R_IN
+         2        MIC_RN
+
+L2       1        L_IN
+         2        MIC_LN
+
+LOGO1   
+LOGO2   
+Q1       1        3.3V
+         2        TX
+         3        5V_TX
+
+Q2       1        3.3V
+         2        RTS
+         3        5V_RTS
+
+Q3       1        CHG_EXT
+         2        VIN
+         3        VBAT_SENSE
+
+R1       1        TX
+         2        3.3V
+
+R2       1        N$7
+         2        3.3V
+
+R3       1        N$2
+         2        3.3V
+
+R4       1        N$6
+         2        3.3V
+
+R5       1        5V_TX
+         2        VIN
+
+R6       1        RTS
+         2        3.3V
+
+R7       1        5V_RTS
+         2        VIN
+
+R8       1        RX
+         2        5V_RX
+
+R9       1        CTS
+         2        5V_CTS
+
+R10      1        !RESET
+         2        3.3V
+
+R11      1        V_BAT
+         2        VBAT_SENSE
+
+R12      1        N$28
+         2        V_BAT
+
+R13      1        N$8
+         2        N$5
+
+R14      1        N$13
+         2        GND
+
+R15      1        N$9
+         2        N$8
+
+R16      1        N$13
+         2        N$4
+
+R17      1        N$12
+         2        N$13
+
+R18      1        L_OUT
+         2        N$8
+
+R19      1        N$16
+         2        N$18
+
+R20      1        GND
+         2        N$16
+
+R21      1        N$17
+         2        N$16
+
+R22      1        N$19
+         2        N$20
+
+R23      1        N$21
+         2        N$19
+
+R24      1        R_OUT
+         2        N$19
+
+R25      1        MIC_RP
+         2        MIC_RN
+
+R26      1        MIC_LP
+         2        MIC_LN
+
+R27      1        3.3V
+         2        N$1
+
+R28      1        N$10
+         2        PIO_0
+
+R29      1        N$11
+         2        PIO_1
+
+R30      1        N$14
+         2        PIO_2
+
+R31      1        N$15
+         2        PIO_4
+
+R32      1        N$22
+         2        PIO_5
+
+R33      1        AIO_1
+         2        VIN
+
+S1       1                 *** unconnected ***
+         2        VREGEN
+         3                 *** unconnected ***
+         4        3.3V
+
+S2       1                 *** unconnected ***
+         2        N$10
+         3                 *** unconnected ***
+         4        3.3V
+
+S3       1                 *** unconnected ***
+         2        N$11
+         3                 *** unconnected ***
+         4        3.3V
+
+S4       1                 *** unconnected ***
+         2        N$14
+         3                 *** unconnected ***
+         4        3.3V
+
+S5       1                 *** unconnected ***
+         2        N$15
+         3                 *** unconnected ***
+         4        3.3V
+
+S6       1                 *** unconnected ***
+         2        N$22
+         3                 *** unconnected ***
+         4        3.3V
+
+S7       1        MIC_BIAS_A
+         2        MIC_LP
+         3        GND
+         4        MIC_BIAS_A
+         5        MIC_RP
+         6        GND
+
+S8       1                 *** unconnected ***
+         2        !RESET
+         3                 *** unconnected ***
+         4        GND
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U1       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        PIO_6
+         6        PIO_7
+         7        CAP_SENSE_1
+         8        CAP_SENSE-4
+         9        CAP_SENSE_3
+         10       CAP_SENSE_2
+         11       GND
+         12       AIO_1
+         13       SPKR_LN
+         14       SPKR_LP
+         15       SPKR_RN
+         16       SPKR_RP
+         17       MIC_BIAS_A
+         18       MIC_RN
+         19       MIC_RP
+         20       MIC_LN
+         21       MIC_LP
+         22       GND
+         23       PIO_0
+         24       PIO_1
+         25       PIO_5
+         26       PIO_4
+         27       GND
+         28       VREGEN
+         29       CHG_EXT
+         30       VIN
+         31       VBAT_SENSE
+         32       V_BAT
+         33       3.3V
+         34                *** unconnected ***
+         35       USB_N
+         36       USB_P
+         37       LED_0
+         38       LED_1
+         39       LED_2
+         40       CTS
+         41       TX
+         42       RX
+         43       RTS
+         44       !RESET
+         45       SPI_!PCM
+         46       PCM_SYNC/CSB
+         47       PCM_CLK/CLK
+         48       PCM_OUT/MISO
+         49       PCM_IN/MOSI
+         50       PIO_2
+         51       PIO_3
+
+U2       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       1        N$12
+         2        N$9
+         3        L_OUT
+         4        GND
+         5        N$1
+         6        N$24
+         7        N$25
+         8        N$26
+         9        3.3V
+         10       GND
+         11                *** unconnected ***
+         12       R_OUT
+         13       N$21
+         14       N$17
+

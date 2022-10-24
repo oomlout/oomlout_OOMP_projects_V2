@@ -1,0 +1,251 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 08:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        +5V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        !RESET
+         2        GND
+
+C4       1        VDD3P3
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        N$2
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        N$3
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        VDD_SPI
+         2        GND
+
+C13      1        VDD_SPI
+         2        GND
+
+C14      1        3.3V
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        N$6
+         2        GND
+
+C18      1        N$7
+         2        GND
+
+C19      1        3.3V
+         2        GND
+
+C20      1        IO10_DBLTAP
+         2        GND
+
+CONN1    1        GND
+         2        3.3V
+         3        SDA1
+         4        SCL1
+         MT1      GND
+         MT2      GND
+
+D1       A        VBUS
+         C        +5V
+
+D2       A        VBAT
+         C        +5V
+
+GND      P$1      GND
+
+JP1      1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        SDA
+         6        SCL
+         7        TX
+         1C       A0
+         2C       A1
+         3C       A2
+         4C       A3
+         5C       SDA
+         6C       SCL
+         7C       TX
+
+JP3      1        RX
+         2        SCK
+         3        MISO
+         4        MOSI
+         5        3.3V
+         6        GND
+         7        +5V
+         1C       RX
+         2C       SCK
+         3C       MISO
+         4C       MOSI
+         5C       3.3V
+         6C       GND
+         7C       +5V
+
+L1       1        3.3V
+         2        VDD3P3
+
+L2       1        N$3
+         2        N$2
+
+LED1     1        NEOPIX
+         2        NEOPIX_PWR
+         3                 *** unconnected ***
+         4        GND
+
+Q1       A        IO0
+         B        GND
+         A'       IO0
+         B'       GND
+
+Q2       A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+R1       1        3.3V
+         2        !RESET
+
+R3       1        N$7
+         2        N$1
+
+R5       1        GND
+         2        CC2
+
+R6       1        GND
+         2        CC1
+
+R17      1        GND
+         2        IO10_DBLTAP
+
+SWC1     TP       !RESET
+
+SWC2     TP       IO0
+
+U$6      1                 *** unconnected ***
+
+U$7     
+U$8      1                 *** unconnected ***
+
+U$11    
+U$12    
+U1       1        +5V
+         2        GND
+         3        +5V
+         4                 *** unconnected ***
+         5        3.3V
+
+VBAT     P$1      VBAT
+
+X1       FP       N$3
+         NC                *** unconnected ***
+
+X2       1        N$2
+         2        VDD3P3
+         3        VDD3P3
+         4        !RESET
+         5        IO0
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       TX
+         11       SCL
+         12       SDA
+         13       A3
+         14       A2
+         15       IO10_DBLTAP
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       3.3V
+         21                *** unconnected ***
+         22       RX
+         23       A1
+         24       A0
+         25       D-
+         26       D+
+         27       3.3V
+         28                *** unconnected ***
+         29       VDD_SPI
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33                *** unconnected ***
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39                *** unconnected ***
+         40       MOSI
+         41       SCK
+         42       MISO
+         43       NEOPIX_PWR
+         44       NEOPIX
+         45       SCL1
+         46       3.3V
+         47       SDA1
+         48                *** unconnected ***
+         49       TX00
+         50                *** unconnected ***
+         51                *** unconnected ***
+         52                *** unconnected ***
+         53       N$1
+         54       N$6
+         55       3.3V
+         56       3.3V
+         57       GND
+
+X6       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+         M3                *** unconnected ***
+         M4                *** unconnected ***
+         A4B9     VBUS
+         B4A9     VBUS
+         A1B12    GND
+         B1A12    GND
+
+Y1       1        N$7
+         2                 *** unconnected ***
+         3        N$6
+         4                 *** unconnected ***
+

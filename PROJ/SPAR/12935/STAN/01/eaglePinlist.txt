@@ -1,0 +1,135 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 16:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        5V
+         C        GND
+
+C2       1        5V
+         2        GND
+
+C3       A        3.3V
+         C        GND
+
+C4       1        N$2
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+CLIENT   CTS      CTS
+         DTR      DTR
+         GND      GND
+         RXI      N$13
+         TXO      N$14
+         VCC      V_OUT
+
+D1       A        N$6
+         C        RXLED
+
+D2       A        N$5
+         C        TXLED
+
+D4       A        SELECT
+         C        N$4
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+HOST     P$1               *** unconnected ***
+         P$2      N$16
+         P$3      N$17
+         P$4      V_OUT
+         P$5               *** unconnected ***
+         P$6      GND
+
+JP2      1        !OE
+         2        SELECT
+
+JP4      D+1      N$3
+         D-1      N$1
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    5V
+         SHIELD1  SHIELD_POUR
+         SHIELD2  SHIELD_POUR
+         SHIELD3  SHIELD_POUR
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        N$5
+         2        3.3V
+
+R2       1        N$6
+         2        3.3V
+
+R3       1        GND
+         2        SELECT
+
+R4       1        !OE
+         2        GND
+
+R5       1        GND
+         2        N$4
+
+SJ1      1        3.3V
+         2        V_OUT
+         3        5V
+
+U$1     
+U1       1        N$12
+         2        DTR
+         3                 *** unconnected ***
+         4        V_OUT
+         5        N$11
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       CTS
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       N$3
+         16       N$1
+         17       N$2
+         18       GND
+         19                *** unconnected ***
+         20       5V
+         21       GND
+         22       RXLED
+         23       TXLED
+         24                *** unconnected ***
+         25       GND
+         26       GND
+         27                *** unconnected ***
+         28                *** unconnected ***
+
+U2       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       1        N$11
+         2        N$12
+         3        N$16
+         4        N$17
+         5        GND
+         6        !OE
+         7        N$14
+         8        N$13
+         9        SELECT
+         10       3.3V
+

@@ -1,0 +1,331 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 17:51
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VSYS
+         2        GND
+
+C2       1        VSYS
+         2        GND
+
+C3       1        1.8V
+         2        GND
+
+D1       A        VSYS
+         C        N$2
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+JP1      1        GND
+         2        VCC
+         3        CH0
+
+JP2      1        GND
+         2        VCC
+         3        CH1
+
+JP3      1        GND
+         2        VCC
+         3        CH2
+
+JP4      1        GND
+         2        VCC
+         3        CH3
+
+JP5      1        GND
+         2        VCC
+         3        CH4
+
+JP6      1        GND
+         2        VCC
+         3        CH5
+
+JP7      1        GND
+         2        VCC
+         3        CH6
+
+JP8      1        GND
+         2        VCC
+         3        CH7
+
+JP9      1        GND
+         2        VCC
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        HV_SDA
+         2        VSYS
+
+R2       1        HV_SCL
+         2        VSYS
+
+R3       1        N$1
+         2        VSYS
+
+R4       1        GP19_I2C_1_SCL
+         2        1.8V
+
+R5       1        GP20_I2C_1_SDA
+         2        1.8V
+
+R6       1        CH7
+         2        VCC
+
+R7       1        CH6
+         2        VCC
+
+R8       1        CH5
+         2        VCC
+
+R9       1        CH4
+         2        VCC
+
+R10      1        CH3
+         2        VCC
+
+R11      1        CH2
+         2        VCC
+
+R12      1        CH1
+         2        VCC
+
+R13      1        CH0
+         2        VCC
+
+R14      1        GND
+         2        A0
+
+R15      1        GND
+         2        A1
+
+R16      1        GND
+         2        A2
+
+R17      1        GND
+         2        A3
+
+R18      1        GND
+         2        A4
+
+R19      1        GND
+         2        A5
+
+SJ1      1        VSYS
+         2        A0
+
+SJ2      1        VSYS
+         2        A1
+
+SJ3      1        VSYS
+         2        A2
+
+SJ4      1        VSYS
+         2        A3
+
+SJ5      1        VSYS
+         2        A4
+
+SJ6      1        VSYS
+         2        A5
+
+SJ7      1        N$2
+         2        VCC
+
+U1       1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        A4
+         6        CH0
+         7        CH1
+         8        CH2
+         9        CH3
+         10       CH4
+         11       CH5
+         12       CH6
+         13       CH7
+         14       GND
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       GND
+         24       A5
+         25       GND
+         26       HV_SCL
+         27       HV_SDA
+         28       VSYS
+
+U2       1        1.8V
+         2        GP19_I2C_1_SCL
+         3        GP20_I2C_1_SDA
+         4        GND
+         5        HV_SDA
+         6        HV_SCL
+         7        N$1
+         8        N$1
+
+U3       1        GND
+         2        VSYS
+         3        USB_ID
+         4        VSYS
+         5        GND
+         6        VSYS
+         7        MSIC_SLP_CLK
+         8        3.3V
+         9        GND
+         10       3.3V
+         11       GND
+         12       1.8V
+         13       GND
+         14       DCIN
+         15       GND
+         16       USB_DP
+         17       PWRBTN#
+         18       USB_DN
+         19       FAULT
+         20       USB_VBUS
+         21       PSW
+         22       GP134_UART_2_RX
+         23       V_BAT_BKUP
+         24       GP44
+         25       GP165
+         26       GP45
+         27       GP135_UART_2_TX
+         28       GP46
+         29                *** unconnected ***
+         30       GP47
+         31       RCVR_MODE
+         32       GP48
+         33       GP13_PWM1
+         34       GP49
+         35       GP12_PWM0
+         36       RESET_OUT#
+         37       GP182_PWM2
+         38                *** unconnected ***
+         39       GP183_PWM3
+         40                *** unconnected ***
+         41       GP19_I2C_1_SCL
+         42       GP15
+         43       GP20_I2C_1_SDA
+         44       GP84_SD_CLK_FB
+         45       GP27_I2C_6_SCL
+         46       GP131_UART_1_TX
+         47       GP28_I2C_6_SDA
+         48       GP14
+         49                *** unconnected ***
+         50       GP42_I2S_2_RXD
+         51       GP111_SPI_2_FS1
+         52       GP40_I2S_2_CLK
+         53       GP110_SPI_2_FS0
+         54       GP41_I2S_2_FS
+         55       GP109_SPI_2_CLK
+         56       GP43_I2S_2_TXD
+         57       GP115_SPI_2_TXD
+         58       GP78_SD_0_CLK
+         59       GP114_SPI_2_RXD
+         60       GP77_SD_0_CD#
+         61       GP130_UART_1_RX
+         62       GP79_SD_0_CMD
+         63       GP129_UART_1_RTS
+         64       GP82_SD_0_DAT2
+         65       GP128_UART_1_CTS
+         66       GP80_SD_0_DAT0
+         67       OSC_CLK_OUT
+         68       GP83_SD_0_DAT3
+         69       FW_RCVR
+         70       GP81_SD_0_DAT1
+
+U4       1        GND
+         2        VSYS
+         3        USB_ID
+         4        VSYS
+         5        GND
+         6        VSYS
+         7        MSIC_SLP_CLK
+         8        3.3V
+         9        GND
+         10       3.3V
+         11       GND
+         12       1.8V
+         13       GND
+         14       DCIN
+         15       GND
+         16       USB_DP
+         17       PWRBTN#
+         18       USB_DN
+         19       FAULT
+         20       USB_VBUS
+         21       PSW
+         22       GP134_UART_2_RX
+         23       V_BAT_BKUP
+         24       GP44
+         25       GP165
+         26       GP45
+         27       GP135_UART_2_TX
+         28       GP46
+         29                *** unconnected ***
+         30       GP47
+         31       RCVR_MODE
+         32       GP48
+         33       GP13_PWM1
+         34       GP49
+         35       GP12_PWM0
+         36       RESET_OUT#
+         37       GP182_PWM2
+         38                *** unconnected ***
+         39       GP183_PWM3
+         40                *** unconnected ***
+         41       GP19_I2C_1_SCL
+         42       GP15
+         43       GP20_I2C_1_SDA
+         44       GP84_SD_CLK_FB
+         45       GP27_I2C_6_SCL
+         46       GP131_UART_1_TX
+         47       GP28_I2C_6_SDA
+         48       GP14
+         49                *** unconnected ***
+         50       GP42_I2S_2_RXD
+         51       GP111_SPI_2_FS1
+         52       GP40_I2S_2_CLK
+         53       GP110_SPI_2_FS0
+         54       GP41_I2S_2_FS
+         55       GP109_SPI_2_CLK
+         56       GP43_I2S_2_TXD
+         57       GP115_SPI_2_TXD
+         58       GP78_SD_0_CLK
+         59       GP114_SPI_2_RXD
+         60       GP77_SD_0_CD#
+         61       GP130_UART_1_RX
+         62       GP79_SD_0_CMD
+         63       GP129_UART_1_RTS
+         64       GP82_SD_0_DAT2
+         65       GP128_UART_1_CTS
+         66       GP80_SD_0_DAT0
+         67       OSC_CLK_OUT
+         68       GP83_SD_0_DAT3
+         69       FW_RCVR
+         70       GP81_SD_0_DAT1
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+         NC3               *** unconnected ***
+         NC4               *** unconnected ***
+

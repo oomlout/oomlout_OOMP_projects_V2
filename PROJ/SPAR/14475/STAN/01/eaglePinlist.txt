@@ -1,0 +1,101 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 00:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        LIN
+         2        N$3
+
+C2       1        RIN
+         2        N$6
+
+C3       +        LOUT+
+         -        LOUT
+
+C4       +        N$12
+         -        ROUT
+
+C5       1        N$5
+         2        GND
+
+C6       1        5V
+         2        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+H1      
+H2      
+J1       1        MONO_OUT
+         2        GND
+         3        LOUT
+         4        ROUT
+         5        GND
+         6        RIN
+         7        LIN
+         8        GND
+         9        5V
+         10       VIN
+
+JP1      1        GND
+         2        MODE
+
+JP2      1        LOUT+
+         2        LOUT
+
+LOGO1   
+LOGO2   
+POT1     A1       N$21
+         A2       N$21
+         A3       LOUT+
+         B1       N$24
+         B2       N$24
+         B3       N$12
+         SW1      VIN
+         SW2      5V
+
+R1       1        N$3
+         2        N$21
+
+R2       1        N$6
+         2        N$24
+
+R3       1        GND
+         2        ROUT
+
+R4       1        GND
+         2        LOUT
+
+R5       1        N$9
+         2        GND
+
+R6       1        MODE
+         2        5V
+
+R7       P$1      N$3
+         P$2      N$21
+
+R8       P$1      N$6
+         P$2      N$24
+
+U$1     
+U1       BP       N$5
+         BTL      MONO_OUT
+         GND      GND
+         LIN      N$21
+         RIN      N$24
+         SDN      N$9
+         VDD      5V
+         LOUT     LOUT+
+         ROUT     N$12
+         HP-IN    MODE
+

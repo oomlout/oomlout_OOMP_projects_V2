@@ -1,0 +1,559 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 01:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+B1       5V       ARDUINO-5V
+         A0                *** unconnected ***
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4                *** unconnected ***
+         A5                *** unconnected ***
+         D2                *** unconnected ***
+         D3                *** unconnected ***
+         D4                *** unconnected ***
+         D5       N$19
+         D6       N$20
+         D7                *** unconnected ***
+         D8       SOFTRX-ARDUINO
+         D9       SOFTTX-ARDUINO
+         NC                *** unconnected ***
+         RX       HARDRX-ARDUINO
+         TX       HARDTX-ARDUINO
+         D10               *** unconnected ***
+         D11               *** unconnected ***
+         D12               *** unconnected ***
+         D13               *** unconnected ***
+         RES               *** unconnected ***
+         SCL               *** unconnected ***
+         SDA               *** unconnected ***
+         VIN               *** unconnected ***
+         3.3V     ARDUINO-3.3V
+         AREF     GND
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF    IOREF
+
+C1       1        3.3V
+         2        GND
+
+C2       1        IOREF
+         2        GND
+
+C3       1        GPS-3.3V
+         2        GND
+
+C4       1        1.8V
+         2        GND
+
+C5       1        V_BATT
+         2        GND
+
+C6       1        VIN
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        3.3V
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        VSIM
+         2        GND
+
+C14      1        VSIM
+         2        GND
+
+C15      1        ANT
+         2        N$8
+
+C16      1        N$7
+         2        GND
+
+C17      1        SIM_IO
+         2        GND
+
+C18      1        SIM_CLK
+         2        GND
+
+C19      1        N$8
+         2        N$21
+
+C20      1        SIM_RST
+         2        GND
+
+D1       1        N$12
+         2        GND
+         3        N$14
+         4        D+
+         5        V_USB
+         6        D-
+
+D2       A        V_USB
+         C        N$17
+
+D3       A        V_USB
+         C        VIN
+
+D4       A        N$16
+         C        GND
+
+D5       A        3.3V
+         C        N$13
+
+D6       1        VSIM
+         2        GND
+         3        SIM_RST
+         4        SIM_IO
+         5        GND
+         6        SIM_CLK
+
+E1       GND      GND
+         FEED     N$22
+         MNT1              *** unconnected ***
+         MNT2              *** unconnected ***
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+H1      
+H2      
+H3      
+J1       D+       N$14
+         D-       N$12
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     V_USB
+         SHIELD   SHIELD
+         SHIELD2  SHIELD
+         SHIELD3  SHIELD
+         SHIELD4  SHIELD
+         SHIELD5  SHIELD
+         SHIELD6  SHIELD
+         SHIELD7  SHIELD
+         SHIELD8  SHIELD
+         SHIELD9  SHIELD
+         SHIELD10 SHIELD
+
+J2       1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        GND
+         2        GPS-3.3V
+         3        SDA-QWIIC
+         4        SCL-QWIIC
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        GPIO3-QWIIC
+
+J5       1                 *** unconnected ***
+         2        RX-ARDUINO
+         3        TX-ARDUINO
+         4        IOREF
+         5                 *** unconnected ***
+         6        GND
+
+J6       1        DSR
+         2        DCD
+         3        RTS
+
+J7       1        RI
+         2        DTR
+         3        CTS
+
+J8       1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     N$9
+
+J9       C1       VSIM
+         C2       SIM_RST
+         C3       SIM_CLK
+         C5       GND
+         C6                *** unconnected ***
+         C7       SIM_IO
+         MNT1              *** unconnected ***
+         MNT2              *** unconnected ***
+         MNT3              *** unconnected ***
+         MNT4              *** unconnected ***
+         MNT5              *** unconnected ***
+         MNT6              *** unconnected ***
+
+J10      1        SDA-QWIIC
+         2        SCL-QWIIC
+
+J11      1        GND
+         2        V_BATT
+
+JP1      1        ARDUINO-5V
+         2        IOREF
+         3        ARDUINO-3.3V
+
+JP2      1        N$19
+         2        PWR_ON
+
+JP3      1        N$20
+         2        RESET_N
+
+JP4      1        GND
+         2        RTS
+
+JP5      1        GND
+         2        DTR
+
+JP6      1        V_USB
+         2        VUSB_DET
+
+JP7      1        N$21
+         2        N$22
+
+JP8      1        N$21
+         2        N$9
+
+L1       1        GND
+         2        N$8
+
+L2       1        N$21
+         2        N$7
+
+LOGO1   
+LOGO2   
+LOGO3   
+Q1       1        V_USB
+         2        VIN
+         3        V_BATT
+
+Q2       1        N$10
+         2        GND
+         3        N$15
+
+R1       1        GND
+         2        GPIO2
+
+R2       1        N$18
+         2        N$17
+
+R3       1        GND
+         2        N$1
+
+R4       1        GND
+         2        V_USB
+
+R5       1        N$16
+         2        3.3V
+
+R6       1        N$10
+         2        GPIO1
+
+R7       1        N$15
+         2        N$13
+
+R8       1        ANT_DET
+         2        N$7
+
+S1       1        HARDRX-ARDUINO
+         2        RX-ARDUINO
+         3        SOFTRX-ARDUINO
+         4        HARDTX-ARDUINO
+         5        TX-ARDUINO
+         6        SOFTTX-ARDUINO
+
+S2       1        VIN
+         2        ARDUINO-5V
+         3        V_USB
+         4        VIN
+         5        ARDUINO-5V
+         6        V_USB
+
+S3       1        GND
+         2        GND
+         3        PWR_ON
+         4        PWR_ON
+
+S4       1        GND
+         2        GND
+         3        RESET_N
+         4        RESET_N
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U$94    
+U$95    
+U$96    
+U$97    
+U$98    
+U$99    
+U$100   
+U$101   
+U$102   
+U$103   
+U$104   
+U$105   
+U$106   
+U$107   
+U$108   
+U$109   
+U$110   
+U$111   
+U$112   
+U1       1        1.8V
+         2        GPIO3-CELL
+         3        TX-CELL
+         4        RX-CELL
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        GND
+         8        1.8V
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       TX-ARDUINO
+         12       RX-ARDUINO
+         13       GPIO3-QWIIC
+         14       IOREF
+
+U2       1        3.3V
+         2        GND
+         3        GPIO2
+         4                 *** unconnected ***
+         5        GPS-3.3V
+
+U3       1        N$18
+         2        GND
+         3        V_BATT
+         4        V_USB
+         5        N$1
+
+U4       1        SDA-QWIIC
+         2        GND
+         3        1.8V
+         4        SDA-CELL
+         5        SCL-CELL
+         6        1.8V
+         7        IOREF
+         8        SCL-QWIIC
+
+U5       1        3.3V
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        VIN
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        VIN
+         EP       GND
+
+U6       1        GND
+         2                 *** unconnected ***
+         3        GND
+         4        1.8V
+         5        GND
+         6        DSR
+         7        RI
+         8        DCD
+         9        DTR
+         10       RTS
+         11       CTS
+         12       RX-CELL
+         13       TX-CELL
+         14       GND
+         15       PWR_ON
+         16       GPIO1
+         17       VUSB_DET
+         18       RESET_N
+         19                *** unconnected ***
+         20       GND
+         21       GND
+         22       GND
+         23       GPIO2
+         24       GPIO3-CELL
+         25                *** unconnected ***
+         26       SDA-CELL
+         27       SCL-CELL
+         28       D-
+         29       D+
+         30       GND
+         31                *** unconnected ***
+         32       GND
+         33       GND
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38       SIM_CLK
+         39       SIM_IO
+         40       SIM_RST
+         41       VSIM
+         42                *** unconnected ***
+         43       GND
+         44                *** unconnected ***
+         45                *** unconnected ***
+         46                *** unconnected ***
+         47                *** unconnected ***
+         48                *** unconnected ***
+         49                *** unconnected ***
+         50       GND
+         51       3.3V
+         52       3.3V
+         53       3.3V
+         54       GND
+         55       GND
+         56       ANT
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+         62       ANT_DET
+         63       GND
+         64       GND
+         65       GND
+         66       GND
+         67       GND
+         68       GND
+         69       GND
+         70       GND
+         71       GND
+         72       GND
+         73       GND
+         74       GND
+         75       GND
+         76       GND
+         77       GND
+         78       GND
+         79       GND
+         80       GND
+         81       GND
+         82       GND
+         83       GND
+         84       GND
+         85       GND
+         86       GND
+         87       GND
+         88       GND
+         89       GND
+         90       GND
+         91       GND
+         92       GND
+         93       GND
+         94       GND
+         95       GND
+         96       GND
+

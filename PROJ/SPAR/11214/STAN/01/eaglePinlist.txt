@@ -1,0 +1,65 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 20:10
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BH1      1                 *** unconnected ***
+         P$1      TRIG+
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+
+BH2      1                 *** unconnected ***
+         P$1      GND
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+
+BH3      1                 *** unconnected ***
+         P$1      V_BATT
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+
+BH4      1                 *** unconnected ***
+         P$1      OUT-
+         P$2               *** unconnected ***
+         P$3               *** unconnected ***
+
+FRAME1  
+JP1      1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP2      1        OUT-
+         2        V_BATT
+
+JP3      1        TRIG+
+         2        GND
+
+JP4      1        V_BATT
+         2        OUT-
+
+JP5      1        GND
+         2        TRIG+
+
+JP6      1                 *** unconnected ***
+
+JP7      1                 *** unconnected ***
+
+Q1       1        GND
+         2        GND
+         3        GND
+         4        N$1
+         5        OUT-
+         6        OUT-
+         7        OUT-
+         8        OUT-
+
+R1       1        TRIG+
+         2        N$1
+
+R2       1        N$1
+         2        GND
+

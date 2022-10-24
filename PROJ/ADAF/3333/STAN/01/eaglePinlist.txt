@@ -1,0 +1,346 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 22:05
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3.3VTAP  P$1      3.3V
+
+3V3TAP2  P$1      3.3V
+
+BATT     1        GND
+         2        N$7
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+C1       1        N$2
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        VCC
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        D12_A0_SPEAKER
+         2        N$6
+
+C10      1        1.2V
+         2        GND
+
+CN1      D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     +5V
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+D1       A        +5V
+         C        N$3
+
+D2       A        N$7
+         C        N$3
+
+D3       A        GND
+         C        IR_ANALOGIN
+
+D5       A        VCC
+         C        N$21
+
+D6       P$1      D6_A1
+
+F1       1        N$3
+         2        VCC
+
+GND3TAP  P$1      GND
+
+GNDTAP   P$1      GND
+
+GNDTAP2  P$1      GND
+
+IC1      1        3.3V
+         2        GND
+         3        I2S_SCK
+         4        I2S_DO
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+
+IC2      1        N$15
+         2        GND
+         3        N$8
+         4        SWCLK/SPK_SD
+         5        VCC
+         6        N$9
+
+IC4      1        3.3V
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        LIS_SCL
+         5        GND
+         6        LIS_SDA
+         7        3.3V
+         8        3.3V
+         9                 *** unconnected ***
+         10       GND
+         11       D36_LISIRQ
+         12       GND
+         13       3.3V
+         14       3.3V
+         15       3.3V
+         16       3.3V
+
+IO9      P$1      D9_A2
+
+IO10     P$1      D10_A3
+
+IO12     P$1      D12_A0_SPEAKER
+
+L        A        N$10
+         C        GND
+
+LED1     1        N$11
+         2        3.3V
+         3        N$12
+         4        GND
+
+LED2     1        N$13
+         2        3.3V
+         3        N$11
+         4        GND
+
+LED3     1        N$12
+         2        3.3V
+         3        N$19
+         4        GND
+
+LED4     1        N$19
+         2        3.3V
+         3        N$20
+         4        GND
+
+LED5     1        N$20
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+
+LED6     1        D8_NEOPIX
+         2        3.3V
+         3        N$14
+         4        GND
+
+LED7     1        N$14
+         2        3.3V
+         3        N$16
+         4        GND
+
+LED8     1        N$16
+         2        3.3V
+         3        N$17
+         4        GND
+
+LED9     1        N$17
+         2        3.3V
+         3        N$18
+         4        GND
+
+LED10    1        N$18
+         2        3.3V
+         3        N$13
+         4        GND
+
+PWR      A        N$1
+         C        GND
+
+Q1       1        N$5
+         2        GND
+         3        N$21
+
+R1       1        N$6
+         2        N$8
+
+R2       1        3.3V
+         2        LIS_SDA
+
+R3       1        N$1
+         2        3.3V
+
+R4       1        GND
+         2        A8_LIGHT
+
+R5       1        D13_LED
+         2        N$10
+
+R6       1        3.3V
+         2        LIS_SCL
+
+R7       1        GND
+         2        A9_TEMP_SENSE
+
+R8       1        N$2
+         2        3.3V
+
+R9       1        N$5
+         2        D29_REMOTEOUT
+
+R10      1        SWCLK/SPK_SD
+         2        3.3V
+
+RESET    A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+RX       P$1      D0_A6_RX
+
+SCL      P$1      D3_A4_SCL
+
+SDA      P$1      D2_A5_SDA
+
+SP1      +        N$15
+         -        N$9
+         MT                *** unconnected ***
+         MT2               *** unconnected ***
+
+SW1      A        D4_LEFTBUTTON
+         B        3.3V
+         A'       D4_LEFTBUTTON
+         B'       3.3V
+
+SW2      A        D5_RIGHTBUTTON
+         B        3.3V
+         A'       D5_RIGHTBUTTON
+         B'       3.3V
+
+SWITCH   O1                *** unconnected ***
+         O2                *** unconnected ***
+         P1       D7_SLIDESWITCH
+         P2       D7_SLIDESWITCH
+         S1       GND
+         S2       GND
+
+THM1     1        A9_TEMP_SENSE
+         2        3.3V
+
+TP1      P$1      !RESET
+
+TP5      P$1      SWCLK/SPK_SD
+
+TP6      P$1      SWDIO
+
+TX       P$1      D1_A7_TX
+
+U$1     
+U$2      1                 *** unconnected ***
+
+U$3      1                 *** unconnected ***
+
+U$4     
+U$5      1        LIS_SDA
+         2        LIS_SCL
+         3        D12_A0_SPEAKER
+         4        3.3V
+         5        GND
+         6        3.3V
+         7        D1_A7_TX
+         8        D0_A6_RX
+         9        IR_ANALOGIN
+         10       D6_A1
+         11       D9_A2
+         12       D10_A3
+         13       I2S_DO
+         14       A9_TEMP_SENSE
+         15       I2S_SCK
+         16       A8_LIGHT
+         17       3.3V
+         18       GND
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21       REMOTEIN
+         22       D36_LISIRQ
+         23       D5_RIGHTBUTTON
+         24       D7_SLIDESWITCH
+         25       D32_FLASH_MISO
+         26       D13_LED
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29       D34_FLASH_MOSI
+         30       D33_FLASH_SCK
+         31                *** unconnected ***
+         32       D29_REMOTEOUT
+         33       D-
+         34       D+
+         35       GND
+         36       3.3V
+         37       D35_FLASH_CS
+         38       D8_NEOPIX
+         39                *** unconnected ***
+         40       !RESET
+         41       D4_LEFTBUTTON
+         42       GND
+         43       1.2V
+         44       3.3V
+         45       SWCLK/SPK_SD
+         46       SWDIO
+         47       D2_A5_SDA
+         48       D3_A4_SCL
+         THERMAL  GND
+
+U$6      1                 *** unconnected ***
+
+U$7     
+U$16    
+U$33    
+U$34    
+U$35    
+U$46    
+U1       1                 *** unconnected ***
+         2        N$2
+         3        REMOTEIN
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6        GND
+         7        IR_ANALOGIN
+         8        GND
+         THERMAL           *** unconnected ***
+
+U2       C        3.3V
+         E        A8_LIGHT
+
+U3       1        VCC
+         2        GND
+         3        VCC
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        D35_FLASH_CS
+         2        D32_FLASH_MISO
+         3        3.3V
+         4        GND
+         5        D34_FLASH_MOSI
+         6        D33_FLASH_SCK
+         7        3.3V
+         8        3.3V
+
+VCC2     P$1      VCC
+

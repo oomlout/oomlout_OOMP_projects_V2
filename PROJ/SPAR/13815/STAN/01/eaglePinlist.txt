@@ -1,0 +1,52 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 22:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+D1       A        DIODENODE
+         C        VCC
+
+D2       A        DIODENODE
+         C        COIL
+
+FRAME2  
+J1       1        NC
+         2        NO
+         3        COMMON
+
+J2       1        GND
+         2        RELAY
+         3        VCC
+
+JP1      1        COIL
+         2        DIODENODE
+
+K1       NC       NC
+         NO       NO
+         MAIN     COMMON
+         COIL1    VCC
+         COIL2    COIL
+
+LED1     A        VCC
+         K        N$9
+
+LOGO1   
+Q1       1        GND
+         2        N$6
+         3        COIL
+
+R1       P$1      COIL
+         P$2      N$9
+
+R2       P$1      N$6
+         P$2      RELAY
+
+U$3     
+U$4     
+U$5     
+U$7     
+U$11    
+U$12    

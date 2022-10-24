@@ -1,0 +1,362 @@
+Pinlist
+
+Exported from boardEagle.brd at 05/08/2022 22:17
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$3
+         2        GND
+
+C2       1        GND
+         2        N$2
+
+C3       1        GND
+         2        N$28
+
+C4       1        +3V3
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        +3V3
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        1.5V
+         2        GND
+
+C9       1        1.5V
+         2        GND
+
+C10      1        1.5V
+         2        GND
+
+C11      1        +3V3
+         2        GND
+
+C12      1        1.5V
+         2        GND
+
+C16      1        VIN
+         2        GND
+
+C17      1        +24V
+         2        GND
+
+C18      1        LEDK
+         2        GND
+
+C19      1        +3V3
+         2        GND
+
+C20      1        +24V
+         2        GND
+
+C21      1        +3V3
+         2        GND
+
+C22      1        N$25
+         2        GND
+
+D1       A        LEDK
+         C        +24V
+
+D2       A        N$1
+         C        +24V
+
+D3       A        SHDN
+         C        PWM0
+
+D4       A        SHDN
+         C        BACKLITE
+
+FB2      1        N$25
+         2        VIN
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+J1       1        LEDK
+         2        +24V
+         3        GND
+         4        +3V3
+         5        GND
+         6        GND
+         7        GND
+         8        R3
+         9        R4
+         10       R5
+         11       R6
+         12       R7
+         13       GND
+         14       GND
+         15       G2
+         16       G3
+         17       G4
+         18       G5
+         19       G6
+         20       G7
+         21       GND
+         22       GND
+         23       GND
+         24       B3
+         25       B4
+         26       B5
+         27       B6
+         28       B7
+         29       GND
+         30       PIXCLK
+         31       ON/OFF
+         32       HSYNC
+         33       VSYNC
+         34       DE
+         35                *** unconnected ***
+         36       GND
+         37       X+
+         38       Y+
+         39       X-
+         40       Y-
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+
+JP1      1        X+
+         2        X-
+         3        Y-
+         4        Y+
+         5        INT
+         6        WAIT
+         7        RESET
+         8        CS
+         9        MOSI
+         10       MISO
+         11       SCK
+         12       BACKLITE
+         13       +3V3
+         14       GND
+         15       VIN
+
+L1       P$1      VIN
+         P$2      N$1
+
+R1       1        N$26
+         2        LEDK
+
+R3       1        N$28
+         2        N$2
+
+R4       1        N$7
+         2        N$6
+         3        N$5
+         4        N$4
+         5        B3
+         6        B4
+         7        B5
+         8        B6
+
+R5       1        N$11
+         2        N$10
+         3        N$9
+         4        N$8
+         5        B7
+         6        G2
+         7        G3
+         8        G4
+
+R6       1        N$15
+         2        N$14
+         3        N$13
+         4        N$12
+         5        G5
+         6        G6
+         7        G7
+         8        R3
+
+R7       1        N$19
+         2        N$18
+         3        N$17
+         4        N$16
+         5        R4
+         6        R5
+         7        R6
+         8        R7
+
+R8       1        N$20
+         2        N$21
+         3        N$22
+         4        N$23
+         5        HSYNC
+         6        VSYNC
+         7        PIXCLK
+         8        DE
+
+R9       1        N$24
+         2        LEDK
+
+R10      1        GND
+         2        LEDK
+
+R11      1        SHDN
+         2        VIN
+
+R12      1        RESET
+         2        +3V3
+
+SJ1      1        GND
+         2        N$24
+
+SJ2      1        GND
+         2        N$26
+
+U$18    
+U$21     P$1               *** unconnected ***
+
+U$22     P$1               *** unconnected ***
+
+U$23     P$1               *** unconnected ***
+
+U$24     P$1               *** unconnected ***
+
+U$25    
+U1       1        GND
+         2        +3V3
+         3        N$2
+         4        N$28
+         5        1.5V
+         6        GND
+         7        WAIT
+         8        INT
+         9        RESET_3V
+         10       GND
+         11       GND
+         12       GND
+         13       +3V3
+         14       PWM0
+         15                *** unconnected ***
+         16       GND
+         17       1.5V
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       GND
+         24       GND
+         25       +3V3
+         26       GND
+         27       +3V3
+         28       GND
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33       GND
+         34       GND
+         35       GND
+         36       GND
+         37       GND
+         38       1.5V
+         39       GND
+         40       +3V3
+         41       SPI_CS_3V
+         42       MISO
+         43       MOSI_3V
+         44       SPI_CLK_3V
+         45       GND
+         46       ON/OFF
+         47       N$23
+         48       N$22
+         49       N$21
+         50       N$20
+         51       N$4
+         52       N$5
+         53       N$6
+         54       N$7
+         55       N$8
+         56       N$9
+         57       N$10
+         58       N$11
+         59       N$12
+         60       1.5V
+         61       GND
+         62       +3V3
+         63       N$13
+         64       N$14
+         65       N$15
+         66       N$16
+         67       N$17
+         68       N$18
+         69       N$19
+         70       GND
+         71       N$3
+         72       X-
+         73       Y+
+         74       Y-
+         75       X+
+         76       +3V3
+         77       +3V3
+         78       +3V3
+         79       +3V3
+         80       +3V3
+         81       GND
+         82                *** unconnected ***
+         83                *** unconnected ***
+         84                *** unconnected ***
+         85       GND
+         86       1.5V
+         87       +3V3
+         88                *** unconnected ***
+         89                *** unconnected ***
+         90                *** unconnected ***
+         91                *** unconnected ***
+         92                *** unconnected ***
+         93                *** unconnected ***
+         94                *** unconnected ***
+         95                *** unconnected ***
+         96                *** unconnected ***
+         97                *** unconnected ***
+         98                *** unconnected ***
+         99                *** unconnected ***
+         100               *** unconnected ***
+
+U3       1        N$1
+         2        GND
+         3        LEDK
+         4        SHDN
+         5        VIN
+
+U4       1        N$25
+         2        GND
+         3        N$25
+         4                 *** unconnected ***
+         5        +3V3
+
+U5       1        +3V3
+         2        SPI_CLK_3V
+         3        SCK
+         4        MOSI_3V
+         5        MOSI
+         6        SPI_CS_3V
+         7        CS
+         8        GND
+         9        RESET
+         10       RESET_3V
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+
+Y1       1        N$28
+         2        N$2
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+

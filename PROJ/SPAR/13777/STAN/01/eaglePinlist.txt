@@ -1,0 +1,208 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:56
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        V_USB
+         2        GND
+
+C2       1        V_BATT
+         2        GND
+
+C3       1        OUT
+         2        GND
+
+C4       1        1.8V
+         2        GND
+
+C5       1        BATTERY_IN
+         2        GND
+
+D1       A        OUT
+         C        N$11
+
+D2       A        OUT
+         C        N$12
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      D+1      D+
+         D-1      D-
+         ID1      USB_ID
+         GND1     GND
+         VBUS1    V_USB
+         SHIELD1  SHIELD
+         SHIELD2  SHIELD
+         SHIELD3  SHIELD
+
+JP2      1        V_USB
+         2        GND
+
+JP3      1        V_USB
+         2        GND
+
+JP4      1        V_USB
+         2        GND
+
+JP5      1        GND
+         2        BATTERY_IN
+
+JP6      1        GND
+         2        BATTERY_IN
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP7      1        OUT
+         2        GND
+
+JP8      1        GND
+         2        OUT
+
+JP9      1        GND
+         2        OUT
+
+JP10     1        GND
+         2        V_PU
+         3        SDA
+         4        SCL
+
+JP11     1        !CE!
+         2        GPOUT
+
+JP12     1        SYSOFF
+
+JP13     1        1.8V
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        GND
+         2        TS
+
+R2       1        N$1
+         2        TS
+
+R3       1        GND
+         2        TMR
+
+R4       1        GND
+         2        ISET
+
+R5       1        N$3
+         2        GND
+
+R6       1        GND
+         2        ILIM
+
+R7       1        N$2
+         2        GND
+
+R8       1        !CE!
+         2        GND
+
+R9       1        N$11
+         2        !CHG!
+
+R10      1        N$12
+         2        N$5
+
+R11      1        V_BATT
+         2        BATTERY_IN
+
+R12      1        V_BATT
+         2        N$4
+
+R13      1        SDA
+         2        V_PU
+
+R14      1        SCL
+         2        V_PU
+
+R15      1        GPOUT
+         2        V_PU
+
+R16      1        OUT
+         2        EN1
+
+R17      1        OUT
+         2        EN2
+
+S1       1        N$4
+         2        SYSOFF
+         3        GND
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         GND4              *** unconnected ***
+
+S2       1        GND
+         2        GND
+         3        EN2
+         4        EN1
+
+SJ1      1        GND
+         2        N$1
+
+SJ2      1        GND
+         2        TMR
+
+SJ3      1        N$3
+         2        ISET
+
+SJ4      1        N$2
+         2        ILIM
+
+SJ5      1        !PGOOD!
+         2        N$5
+         3        GND
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+TP1      P$1      D-
+
+TP2      P$1      D+
+
+U1       1        TS
+         2        V_BATT
+         3        V_BATT
+         4        !CE!
+         5        EN2
+         6        EN1
+         7        !PGOOD!
+         8        GND
+         9        !CHG!
+         10       OUT
+         11       OUT
+         12       ILIM
+         13       V_USB
+         14       TMR
+         15       SYSOFF
+         16       ISET
+         EP       GND
+
+U2       1        SDA
+         2        SCL
+         3        GND
+         4                 *** unconnected ***
+         5        1.8V
+         6        BATTERY_IN
+         7        V_BATT
+         8        BATTERY_IN
+         9                 *** unconnected ***
+         10       TS
+         11                *** unconnected ***
+         12       GPOUT
+         EP       GND
+         EP1      GND
+         EP2      GND
+         EP3      GND
+         EP4      GND
+

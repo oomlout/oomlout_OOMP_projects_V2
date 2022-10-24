@@ -1,0 +1,387 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 01:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BYP      1        VUSB
+         2        USBVCC
+
+C1       1        AREF
+         2        GND
+
+C2       1        GND
+         2        VCC
+
+C3       +        5V
+         -        GND
+
+C4       1        5V
+         2        GND
+
+C5       +        VIN
+         -        GND
+
+C6       +        3.3V
+         -        GND
+
+C8       1        !DTR
+         2        !RESET
+
+C10      1        VUSB
+         2        GND
+
+C12      1        USBVCC
+         2        GND
+
+C15      +        USBVCC
+         -        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        N$6
+         2        GND
+
+C18      1        VCC
+         2        GND
+
+D1       A        PWRIN
+         C        VIN
+
+D2       A        N$5
+         C        TX-O
+
+D3       A        N$9
+         C        RX-I
+
+F2       1        VUSB
+         2        USBVCC
+
+FRAME1  
+IC3      1        N$15
+         2        5V
+         3        VIN
+         4        5V
+
+J2       1        MISO
+         2        VCC
+         3        SCK
+         4        MOSI
+         5        !RESET
+         6        GND
+
+J3       GND      GND
+         P$4      INSERT
+         VIN0     PWRIN
+         VIN1              *** unconnected ***
+
+J4       1        GND
+         2        3.3V
+         3        LV_SDA
+         4        LV_SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    SHLD
+         SHLD2    SHLD
+         SHLD3    SHLD
+         SHLD4    SHLD
+         SHLD5    SHLD
+         SHLD6    SHLD
+         SHLD7    SHLD
+         SHLD8    SHLD
+         VBUS1    VUSB
+         VBUS2    VUSB
+
+JP1     
+JP2      1A       A5/SCL
+         1B       A5/SCL
+         2A       A4/SDA
+         2B       A4/SDA
+         3A       AREF
+         3B       AREF
+         4A       GND
+         4B       GND
+         5A       SCK
+         5B       SCK
+         6A       MISO
+         6B       MISO
+         7A       MOSI
+         7B       MOSI
+         8A       D10
+         8B       D10
+         9A       D9
+         9B       D9
+         10A      D8
+         10B      D8
+
+JP3     
+JP4     
+JP5     
+JP6     
+JP7     
+JP8      1                 *** unconnected ***
+
+JP9      1                 *** unconnected ***
+
+JP10     1A       VIN
+         1B       VIN
+         2A       GND
+         2B       GND
+         3A       GND
+         3B       GND
+         4A       5V
+         4B       5V
+         5A       3.3V
+         5B       3.3V
+         6A       !RESET
+         6B       !RESET
+         7A       VCC
+         7B       VCC
+         8A                *** unconnected ***
+         8B                *** unconnected ***
+
+JP11     1A       RX-I
+         1B       RX-I
+         2A       TX-O
+         2B       TX-O
+         3A       D2
+         3B       D2
+         4A       D3
+         4B       D3
+         5A       D4
+         5B       D4
+         6A       D5
+         6B       D5
+         7A       D6
+         7B       D6
+         8A       D7
+         8B       D7
+
+JP12     1        A5/SCL
+         2        A4/SDA
+         3        AREF
+         4        GND
+         5        SCK
+         6        MISO
+         7        MOSI
+         8        D10
+         9        D9
+         10       D8
+
+JP13     1A       A0
+         1B       A0
+         2A       A1
+         2B       A1
+         3A       A2
+         3B       A2
+         4A       A3
+         4B       A3
+         5A       A4/SDA
+         5B       A4/SDA
+         6A       A5/SCL
+         6B       A5/SCL
+
+JP14     D+       D+
+         D-       D-
+         GND      GND
+         VBUS     VUSB
+
+JP15     1        VIN
+         2        GND
+         3        GND
+         4        5V
+         5        3.3V
+         6        !RESET
+         7        VCC
+         8                 *** unconnected ***
+
+JP18     1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        A4/SDA
+         6        A5/SCL
+
+JP19     1        RX-I
+         2        TX-O
+         3        D2
+         4        D3
+         5        D4
+         6        D5
+         7        D6
+         8        D7
+
+LED1     A        N$1
+         C        GND
+
+LED2     A        N$2
+         C        GND
+
+Q1       1        INSERT
+         2        5V
+         3        USBVCC
+
+Q2       1        3.3V
+         2        LV_SCL
+         3        N$7
+
+Q3       1        3.3V
+         2        LV_SDA
+         3        N$45
+
+QW1      1        A5/SCL
+         2        N$7
+
+QW2      1        A4/SDA
+         2        N$45
+
+R1       1        SCK
+         2        N$1
+
+R2       1        N$2
+         2        VCC
+
+R3       1        !RESET
+         2        VCC
+
+R4       1        INSERT
+         2        5V
+
+R5       1        LV_SDA
+         2        3.3V
+
+R6       1        N$45
+         2        VCC
+
+R7       1        GND
+         2        CC2
+
+R8       1        GND
+         2        CC1
+
+R11      1        LV_SCL
+         2        3.3V
+
+R12      1        N$9
+         2        VCC
+
+R13      1        N$7
+         2        VCC
+
+R14      1        GND
+         2        N$15
+
+R15      1        N$15
+         2        5V
+
+R16      1        N$5
+         2        VCC
+
+S1       1        GND
+         2        GND
+         3        !RESET
+         4        !RESET
+
+S2       1        3.3V
+         2        VCC
+         3        5V
+         4        3.3V
+         5        VCC
+         6        5V
+
+TP1      P$1      VCC
+
+TP2      P$1      MOSI
+
+TP3      P$1      GND
+
+TP4      P$1      MISO
+
+TP5      P$1      SCK
+
+TP6      P$1      !RESET
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$9     
+U$10    
+U$11    
+U$12    
+U$16    
+U$68    
+U3       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        D3
+         2        D4
+         3        GND
+         4        VCC
+         5        GND
+         6        VCC
+         7        N$3
+         8        N$4
+         9        D5
+         10       D6
+         11       D7
+         12       D8
+         13       D9
+         14       D10
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       VCC
+         19                *** unconnected ***
+         20       AREF
+         21       GND
+         22                *** unconnected ***
+         23       A0
+         24       A1
+         25       A2
+         26       A3
+         27       A4/SDA
+         28       A5/SCL
+         29       !RESET
+         30       RX-I
+         31       TX-O
+         32       D2
+
+U5       1        GND
+         2        RX-I
+         3        TX-O
+         4        N$6
+         5        D+
+         6        D-
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       !DTR
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       VCC
+
+Y1       1        N$3
+         2        GND
+         3        N$4
+

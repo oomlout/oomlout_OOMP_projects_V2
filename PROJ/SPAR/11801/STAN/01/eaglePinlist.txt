@@ -1,0 +1,130 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 22:14
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        N$3
+         2        GND
+
+C3       1        VCC
+         2        GND
+
+C4       1        N$4
+         2        GND
+
+D1       1        N$2
+         2        GND
+
+D2       1        N$1
+         2        GND
+
+FRAME1  
+JP1      1        RST
+         2        2
+         3        3
+         4        GND
+
+JP2      1        MOSI
+         2        MISO
+         3        SCK
+         4        VCC
+
+JP3      1        RST
+         2        2
+         3        3
+         4        GND
+         1-2               *** unconnected ***
+         2-2               *** unconnected ***
+         3-2               *** unconnected ***
+         4-2               *** unconnected ***
+
+JP4      1        MOSI
+         2        MISO
+         3        SCK
+         4        VCC
+         1-2               *** unconnected ***
+         2-2               *** unconnected ***
+         3-2               *** unconnected ***
+         4-2               *** unconnected ***
+
+JP5     
+JP6     
+JP7      1                 *** unconnected ***
+
+JP8      1                 *** unconnected ***
+
+JP9      1        MISO
+         2        VCC'
+         3        SCK
+         4        MOSI
+         5        RST
+         6        GND
+
+JP11    
+JP12     1        RST
+         2        MOSI
+         3        MISO
+         4        VCC
+         5        SCK
+         6        GND
+
+LED1     A        N$5
+         C        GND
+
+Q1       1        N$4
+         2                 *** unconnected ***
+         3        N$3
+         4                 *** unconnected ***
+
+R1       1        N$1
+         2        D-
+
+R2       1        N$2
+         2        D+
+
+R3       1        N$1
+         2        VCC
+
+R4       1        RESET
+         2        VCC
+
+R5       1        N$5
+         2        MOSI
+
+SJ1      1        RESET
+         2        RST
+
+SJ2      1        VCC
+         2        VCC'
+
+TP1      P$1      RESET
+
+U$1     
+U1       1        VCC
+         2        N$4
+         3        N$3
+         4        RESET
+         5        D+
+         6        D+
+         7        MOSI
+         8        MISO
+         9        SCK
+         10       RST
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       D-
+         14       GND
+
+X1       D+       N$2
+         D-       N$1
+         GND      GND
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         VBUS     VCC
+

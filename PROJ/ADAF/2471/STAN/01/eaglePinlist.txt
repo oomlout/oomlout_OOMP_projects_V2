@@ -1,0 +1,125 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 17:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        N$2
+         2        GND
+
+D1       A        RESET
+         C        RESET_5V
+
+D2       A        RXD
+         C        RXD_5V
+
+D3       A        3.3V
+         C        N$1
+
+D5       A        VIN
+         C        N$2
+
+D6       A        VBAT
+         C        N$2
+
+FID1     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+JP1      1                 *** unconnected ***
+         2        TXD
+         3        RXD_5V
+         4        VIN
+         5                 *** unconnected ***
+         6        GND
+
+JP4      1        RESET_5V
+         2        ADC
+         3        CH_PD
+         4        GPIO16
+         5        GPIO14
+         6        GPIO12
+         7        GPIO13
+         8        VIN
+         9        VBAT
+         10       GND
+
+JP5      1        GND
+         2        LDO_EN
+         3        3.3V
+         4        GPIO15
+         5        GPIO2
+         6        GPIO0
+         7        GPIO4
+         8        GPIO5
+         9        RXD_5V
+         10       TXD
+
+R1       1        CH_PD
+         2        3.3V
+
+R2       1        GPIO0
+         2        N$1
+
+R3       1        N$2
+         2        LDO_EN
+
+R4       1        RESET
+         2        3.3V
+
+R6       1        GND
+         2        GPIO15
+
+R7       1        GPIO2
+         2        3.3V
+
+SW1      A        GND
+         B        RESET
+         A'       GND
+         B'       RESET
+
+SW2      A        GND
+         B        GPIO0
+         A'       GND
+         B'       GPIO0
+
+U$2     
+U$3     
+U$12    
+U$13    
+U$15     P$1               *** unconnected ***
+
+U$16     P$1               *** unconnected ***
+
+U$17     P$1               *** unconnected ***
+
+U$18     P$1               *** unconnected ***
+
+U1       1        N$2
+         2        GND
+         3        LDO_EN
+         4                 *** unconnected ***
+         5        3.3V
+
+X1       1        RESET
+         2        ADC
+         3        CH_PD
+         4        GPIO16
+         5        GPIO14
+         6        GPIO12
+         7        GPIO13
+         8        3.3V
+         9        GND
+         10       GPIO15
+         11       GPIO2
+         12       GPIO0
+         13       GPIO4
+         14       GPIO5
+         15       RXD
+         16       TXD
+

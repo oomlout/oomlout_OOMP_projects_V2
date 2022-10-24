@@ -1,0 +1,371 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 03:37
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BTNA     A        GND
+         B        D5/BUTTON_A
+         A'       GND
+         B'       D5/BUTTON_A
+
+BTNB     A        GND
+         B        D11/BUTTON_B
+         A'       GND
+         B'       D11/BUTTON_B
+
+C3       1        GND
+         2        3.3V
+
+C4       1        GND
+         2        3.3V
+
+C5       1        GND
+         2        3.3V
+
+C6       1        GND
+         2        VBUS
+
+C7       1        GND
+         2        VHI
+
+C8       1        GND
+         2        3.3V
+
+C9       1        GND
+         2        VBAT
+
+C10      1        GND
+         2        3.3V
+
+C11      1        GND
+         2        3.3V
+
+C12      1        GND
+         2        CAP1
+
+C13      1        GND
+         2        3.3V
+
+C14      1        GND
+         2        3.3V
+
+CONN1    1        GND
+         2        3.3V
+         3        D20/SDA
+         4        D19/SCL
+         MT1      GND
+         MT2      GND
+
+D1       A        VBUS
+         C        VHI
+
+D2       A        N$5
+         C        GND
+
+D3       A        N$3
+         K        GND
+
+D4       A        N$3
+         K        GND
+
+D5       A        VBAT
+         C        VHI
+
+D6       A        N$4
+         C        3.3V
+
+DISPLAY2 1        3.3V
+         2        LEDK
+         3        GND
+         4        3.3V
+         5        3.3V
+         6        3.3V
+         7        TFT_RESET
+         8        TFT_CS
+         9        TFT_SCK
+         10       TFT_DC
+         11       GND
+         12       TFT_MOSI
+         13       GND
+         14       GND
+         15       GND
+         16       GND
+         17       GND
+         18       GND
+         19       GND
+         20       GND
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       GND
+         24       GND
+         MNT1              *** unconnected ***
+         MNT2              *** unconnected ***
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+IC1      1        3.3V
+         2        D19/SCL
+         3        D20/SDA
+         4        GND
+         5        3.3V
+         6                 *** unconnected ***
+         7        LSM_IRQ
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+         14                *** unconnected ***
+         15       GND
+         16       3.3V
+
+IC2      1        QSPI_CS
+         2        QSPI_DATA1
+         3        QSPI_DATA2
+         4        GND
+         5        QSPI_DATA0
+         6        QSPI_SCK
+         7        QSPI_DATA3
+         8        3.3V
+
+IC3      1        D19/SCL
+         2        GND
+         3        GND
+         4        CAP1
+         5        3.3V
+         6        3.3V
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       3.3V
+         11       D20/SDA
+         12       GND
+
+IC4      1        3.3V
+         2        GND
+         3        PDM_CLK
+         4        PDM_DAT
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+
+L1       1        3.3V
+         2        DCCH
+
+LED1     1        NEOPIX
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+
+MB1      P0       D0/AIN2
+         P1       D1/AIN3
+         P2       D2/AIN4
+         P3       D3/AIN5
+         P4       D4/AIN6
+         P5       D5/BUTTON_A
+         P6       D6
+         P7       D7
+         P8       D8
+         P9       D9
+         GND      GND
+         P10      D10/AIN7
+         P11      D11/BUTTON_B
+         P12      D12/AIN0
+         P13      D13/SCK
+         P14      D14/MISO
+         P15      D15/MOSI
+         P16      D16/AIN1
+         P19      D19/SCL
+         P20      D20/SDA
+         +3V3     3.3V
+         GND@1    GND
+         GND@2    GND
+         +3V3@1   3.3V
+         +3V3@2   3.3V
+
+MDBT1    1        GND
+         2        GND
+         3        D11/BUTTON_B
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        D2/AIN4
+         10       D16/AIN1
+         11       D4/AIN6
+         12       D12/AIN0
+         13       D3/AIN5
+         14       D10/AIN7
+         15       GND
+         16       D9
+         17       PDM_DAT
+         18       PDM_CLK
+         19       D15/MOSI
+         20       D0/AIN2
+         21       D1/AIN3
+         22       D14/MISO
+         23       D7
+         24       D13/SCK
+         25                *** unconnected ***
+         26       D6
+         27                *** unconnected ***
+         28       3.3V
+         29       TFT_CS
+         30       3.3V
+         31       DCCH
+         32       VBUS
+         33       GND
+         34       USBD-
+         35       USBD+
+         36       TFT_SCK
+         37       TFT_DC
+         38       NEOPIX
+         39       TFT_MOSI
+         40       RESET
+         41       QSPI_DATA0
+         42       QSPI_SCK
+         43       QSPI_DATA3
+         44       QSPI_CS
+         45       QSPI_DATA2
+         46       QSPI_DATA1
+         47       SPKR
+         48       D20/SDA
+         49       D19/SCL
+         50       D5/BUTTON_A
+         51       SWDIO
+         52       APDS_IRQ
+         53       SWCLK
+         54       WHITE_LED
+         55       GND
+         56                *** unconnected ***
+         57       LSM_IRQ
+         58       D8
+         59       BACKLIGHT
+         60       TFT_RESET
+         61       LED1
+
+Q1       1        SPKR
+         2        GND
+         3        N$4
+
+Q3       1        BACKLIGHT
+         2        GND
+         3        N$1
+
+R1       1        D20/SDA
+         2        3.3V
+
+R2       1        LED1
+         2        N$5
+
+R3       1        D19/SCL
+         2        3.3V
+
+R4       1        BACKLIGHT
+         2        3.3V
+
+R5       1        N$1
+         2        LEDK
+
+R6       1        N$3
+         2        WHITE_LED
+
+R7       1        GND
+         2        D0/AIN2
+
+R8       1        GND
+         2        D1/AIN3
+
+R9       1        GND
+         2        D2/AIN4
+
+R10      1        D-
+         2        USBD-
+
+R11      1        D+
+         2        USBD+
+
+R12      1        SPKR
+         2        GND
+
+SP1      +        3.3V
+         -        N$4
+         MT                *** unconnected ***
+
+SW1      A        GND
+         B        RESET
+         A'       GND
+         B'       RESET
+
+TP1      P$1      SWDIO
+
+TP2      P$1      SWCLK
+
+TP3      P$1      RESET
+
+U$10    
+U$37    
+U$52    
+U1       1        D20/SDA
+         2        GND
+         3                 *** unconnected ***
+         4        D19/SCL
+         5        3.3V
+         6        RESET
+         7        GND
+         8        GND
+         THERMAL  GND
+
+U2       1        VHI
+         2        GND
+         3        VHI
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       1        D20/SDA
+         2        APDS_IRQ
+         3        N$2
+         4        N$2
+         5        3.3V
+         6        GND
+         7        D19/SCL
+         8        3.3V
+
+U4       1        GND
+         2        3.3V
+         3        D20/SDA
+         4        D19/SCL
+         5        3.3V
+         6        3.3V
+         7        GND
+         8        3.3V
+
+X1       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+X3       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+

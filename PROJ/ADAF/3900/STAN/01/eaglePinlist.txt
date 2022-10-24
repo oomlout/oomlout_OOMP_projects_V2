@@ -1,0 +1,395 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 00:45
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VDDCORE
+         2        GND
+
+C2       1        +3V3
+         2        GND
+
+C3       1        VBAT
+         2        GND
+
+C4       1        +3V3
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        V+
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C9       1        N$21
+         2        GND
+
+C10      1        VCC
+         2        GND
+
+C11      1        +3V3
+         2        GND
+
+C13      1        N$22
+         2        N$23
+
+C14      1        AREF
+         2        GND
+
+C15      1        V+
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+D1       A        GND
+         C        D4
+
+D2       A        GND
+         C        D3
+
+D4       A        VBUS
+         C        N$8
+
+I2C      1        GND
+         2        VCC
+         3        SDA
+         4        SCL
+         NC1      GND
+         NC2      GND
+
+IC4      1        +3V3
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        SCL
+         5        GND
+         6        SDA
+         7        GND
+         8        +3V3
+         9                 *** unconnected ***
+         10       GND
+         11       D2
+         12       GND
+         13       +3V3
+         14       +3V3
+         15       +3V3
+         16       +3V3
+
+L        A        N$2
+         C        GND
+
+LED1     1        D8_NEOPIX
+         2        +3V3
+         3                 *** unconnected ***
+         4        GND
+
+MS1      1        !RESET
+         2        +3V3
+         3        AREF
+         4        GND
+         5        A0
+         6        A1
+         7        A2
+         8        A3
+         9        A4
+         1'       !RESET
+         10       A5
+         11       SCK
+         12       MOSI
+         13       MISO
+         14       RX
+         15       TX
+         16       GND
+         17       SDA
+         18       SCL
+         19       D5
+         2'       +3V3
+         20       D6
+         21       D9
+         22       D10
+         23       D11
+         24       D12
+         25       D13
+         26       VBUS
+         27       EN
+         28       VBAT
+         3'       AREF
+         4'       GND
+         5'       A0
+         6'       A1
+         7'       A2
+         8'       A3
+         9'       A4
+         10'      A5
+         11'      SCK
+         12'      MOSI
+         13'      MISO
+         14'      RX
+         15'      TX
+         16'      GND
+         17'      SDA
+         18'      SCL
+         19'      D5
+         20'      D6
+         21'      D9
+         22'      D10
+         23'      D11
+         24'      D12
+         25'      D13
+         26'      VBUS
+         27'      EN
+         28'      VBAT
+
+NEOPIXEL 1        GND
+         2        VCC
+         3        NEOPIXELOUT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+PIR      1        GND
+         2        V+
+         3        SENSORIN
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+Q1       1        VBUS
+         2        N$8
+         3        VBAT
+
+Q2       1        ON/OFF
+         2        N$8
+         3        V+
+
+Q3       1        BACKLITE
+         2        GND
+         3        N$6
+
+R1       1        VBATT
+         2        VBATT
+         3        VBUS
+         4        EN
+         5        V+
+         6        GND
+         7        GND
+         8        VBAT
+
+R2       1        N$1
+         2        CHG_LED
+
+R3       1        GND
+         2        A1
+
+R4       1        SDA
+         2        FLASH_CS
+         3        +3V3
+         4        SCL
+         5        +3V3
+         6        +3V3
+         7        +3V3
+         8        +3V3
+
+R5       1        SENSORIN
+         2        D4
+
+R6       1        NEOPIXELOUT
+         2        D3
+
+R7       1        D13
+         2        N$2
+
+R8       1        CHG_RATE
+         2        GND
+
+R9       1        +3V3
+         2        +3V3
+         3        GND
+         4        +3V3
+         5        TFT_CS
+         6        BACKLITE
+         7        SWCLK
+         8        +3V3
+
+R12      1        N$21
+         2        N$19
+
+R13      1        N$22
+         2        N$20
+
+SJ1      1        V+
+         2        VCC
+         3        +3V3
+
+SW1      1        !RESET
+         2        GND
+         3        !RESET
+         4        GND
+
+SW2      O1                *** unconnected ***
+         O2       GND
+         P1       EN
+         P2       ON/OFF
+         S1       GND
+         S2       N$8
+
+TFT      1        GND
+         2        GND
+         3        N$6
+         4        +3V3
+         5        GND
+         6        TFT_RESET
+         7        TFT_DC
+         8        MOSI
+         9        SCK
+         10       +3V3
+         11       +3V3
+         12       TFT_CS
+         13       GND
+         14       GND
+
+TP1      P$1      SWCLK
+
+TP2      P$1      SWDIO
+
+TP3      P$1      A2
+
+TP4      P$1      A3
+
+TP5      P$1      !RESET
+
+TP28     P$1      A4
+
+TP29     P$1      A5
+
+U$4      1        BACKLITE
+         2        TFT_CS
+         3        A0
+         4        AREF
+         5        GND
+         6        +3V3
+         7        A1
+         8        A2
+         9        A3
+         10       A4
+         11       A5
+         12       FLASH_CS
+         13       D4
+         14       RX
+         15       TX
+         16       D3
+         17       +3V3
+         18       GND
+         19       FLASHMOSI
+         20       FLASHSCK
+         21       D8_NEOPIX
+         22       FLASHMISO
+         23       D2
+         24       D5
+         25       SDA
+         26       SCL
+         27       D6
+         28       D9
+         29       D10
+         30       D11
+         31       D12
+         32       D13
+         33       D-
+         34       D+
+         35       GND
+         36       +3V3
+         37       MOSI
+         38       SCK
+         39       TFT_RESET
+         40       !RESET
+         41       TFT_DC
+         42       GND
+         43       VDDCORE
+         44       +3V3
+         45       SWCLK
+         46       SWDIO
+         47       VBATT
+         48       MISO
+         THERMAL  GND
+
+U$8     
+U$12    
+U$13     1        SPKR+
+         2        SPKR-
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        FLASH_CS
+         2        FLASHMISO
+         3        +3V3
+         4        GND
+         5        FLASHMOSI
+         6        FLASHSCK
+         7        +3V3
+         8        +3V3
+
+U2       1        V+
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        CHG_LED
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        CHG_RATE
+
+U4       1_E      A1
+         2_C      +3V3
+
+U5       1        V+
+         2                 *** unconnected ***
+         3        N$20
+         4        N$19
+         5        SPKR+
+         6        V+
+         7        GND
+         8        SPKR-
+
+VR2      1        GND
+         2        N$23
+         3        A0
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+X6       1        SPKR-
+         2        SPKR+
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+

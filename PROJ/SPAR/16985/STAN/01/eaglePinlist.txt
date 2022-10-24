@@ -1,0 +1,443 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 16:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3V3_EN   1        3.3V_EN
+         2        ENABLE
+
+BYP      1        V_USB
+         2        VIN
+
+C1       1        VIN
+         2        GND
+
+C2       +        VIN
+         -        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        VIN
+         2        GND
+
+D1       A        GND
+         C        ENABLE
+
+D2       A        N$22
+         C        GND
+
+D3       P1       LED_DATA
+         P2       LED_CLK
+         P3       GND
+         P4       3.3V
+         P5       N$11
+         P6       N$14
+
+D4       P1       N$14
+         P2       N$11
+         P3       GND
+         P4       3.3V
+         P5       N$24
+         P6       N$25
+
+D5       P1       N$25
+         P2       N$24
+         P3       GND
+         P4       3.3V
+         P5       N$26
+         P6       N$27
+
+D6       P1       N$27
+         P2       N$26
+         P3       GND
+         P4       3.3V
+         P5       N$28
+         P6       N$29
+
+D7       P1       N$29
+         P2       N$28
+         P3       GND
+         P4       3.3V
+         P5       N$30
+         P6       N$31
+
+D8       P1       N$31
+         P2       N$30
+         P3       GND
+         P4       3.3V
+         P5                *** unconnected ***
+         P6                *** unconnected ***
+
+F2       1        V_USB
+         2        VIN
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+H1      
+H2      
+H3      
+H4      
+H5       1        GND
+
+I2C      1        N$2
+         2        3.3V
+         3        N$1
+
+J1       1        GND
+         2        3.3V
+         3        USB_D+
+         4        3.3V_EN
+         5        USB_D-
+         6        !RESET
+         7        GND
+         8                 *** unconnected ***
+         9        VIN
+         10       !DISP_CS
+         11       !BOOT
+         12       SDA
+         13                *** unconnected ***
+         14       SCL
+         15                *** unconnected ***
+         16       !INT
+         17       TX1
+         18       DISP_D/!C
+         19       RX1
+         20                *** unconnected ***
+         21       SWDCK
+         22                *** unconnected ***
+         23       SWDIO
+         32       !DISP_BL
+         33       GND
+         34       A0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       A1
+         39       GND
+         40       LED_CLK
+         41       CAN-RX
+         42       LED_DATA
+         43       CAN-TX
+         44       !DISP_RST
+         45       GND
+         46                *** unconnected ***
+         47       BUZZER
+         48                *** unconnected ***
+         49                *** unconnected ***
+         50                *** unconnected ***
+         51                *** unconnected ***
+         52                *** unconnected ***
+         53                *** unconnected ***
+         54                *** unconnected ***
+         55       !SD_CS
+         56                *** unconnected ***
+         57       SPI_SCK
+         58                *** unconnected ***
+         59       SPI_COPI
+         60                *** unconnected ***
+         61       SPI_CIPO
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64                *** unconnected ***
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69                *** unconnected ***
+         70                *** unconnected ***
+         71                *** unconnected ***
+         72                *** unconnected ***
+         73                *** unconnected ***
+         74       3.3V
+         75       GND
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+
+J2       CS       !SD_CS
+         DI       SPI_COPI
+         DO       SPI_CIPO
+         CD1      GND
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      3.3V
+         GND1              *** unconnected ***
+         GND3              *** unconnected ***
+         RSV1              *** unconnected ***
+         RSV2              *** unconnected ***
+         SCLK     SPI_SCK
+
+J3       A5       N$19
+         A6       USB_D+
+         A7       USB_D-
+         A8                *** unconnected ***
+         B5       N$20
+         B6       USB_D+
+         B7       USB_D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J4       1        MISO_ATTINY
+         2        3.3V
+         3        SCL
+         4        SDA
+         5        !RESET
+         6        GND
+
+J5       1        GND
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        N$3
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       GND
+         12       GND
+         13       GND
+         14       GND
+         15       GND
+         16       GND
+         17       GND
+         18       GND
+         19       GND
+         20       GND
+         21       GND
+         22       GND
+         23       GND
+         24       GND
+         25       GND
+         26       GND
+         27       GND
+         28       SPI_CIPO
+         29       3.3V
+         30       DISP_D/!C
+         31       3.3V
+         32       !DISP_CS
+         33       SPI_SCK
+         34       !DISP_RST
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38       3.3V
+         39       SPI_COPI
+         40       GND
+
+J6       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J7       1        3.3V
+         2        SWDIO
+         3        GND
+         4        SWDCK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET
+
+J8       1        V_USB
+         2        GND
+         3        3.3V
+         4        CAN-RX
+         5        CAN-TX
+         6        RX1
+         7        TX1
+         8        A1
+         9        A0
+
+LOGO1   
+LOGO2   
+LOGO3   
+LS1      +        3.3V
+         -        N$5
+
+MEAS     1        N$23
+         2        3.3V
+         3        N$23
+         4        3.3V
+
+PWR      1        N$21
+         2        3.3V
+
+Q1       1        !DISP_BL
+         2        3.3V
+         3        N$4
+
+Q2       1        N$6
+         2        GND
+         3        N$5
+
+R1       1        GND
+         2        N$20
+
+R2       1        GND
+         2        N$19
+
+R3       1        !RESET
+         2        3.3V
+
+R4       1        !DISP_CS
+         2        3.3V
+
+R5       1        ENABLE
+         2        VIN
+
+R6       1        !SD_CS
+         2        3.3V
+
+R7       1        SCL
+         2        N$1
+
+R8       1        SDA
+         2        N$2
+
+R9       1        GND
+         2        !DISP_BL
+
+R10      1        !DISP_RST
+         2        3.3V
+
+R11      1        N$22
+         2        N$21
+
+R12      1        N$3
+         2        N$4
+
+R13      1        BUZZER
+         2        N$6
+
+S1       1        GND
+         2        GND
+         3        !RESET
+         4        !RESET
+
+S2       1        GND
+         2        GND
+         3        !BOOT
+         4        !BOOT
+
+S3       1        GND
+         2                 *** unconnected ***
+         3        BTN_A
+         4                 *** unconnected ***
+
+S4       1        GND
+         2                 *** unconnected ***
+         3        BTN_B
+         4                 *** unconnected ***
+
+S6       A        BTN_UP
+         B        BTN_RIGHT
+         C        BTN_LEFT
+         D        BTN_DOWN
+         NC                *** unconnected ***
+         CTR      BTN_CENTER
+         GND      GND
+         NC@0              *** unconnected ***
+
+TP1      P$1      SWDCK
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U2       1        3.3V
+         2        BTN_A
+         3        BTN_B
+         4        !RESET
+         5        BTN_LEFT
+         6        !INT
+         7        SDA
+         8        MISO_ATTINY
+         9        SCL
+         10       BTN_CENTER
+         11       BTN_UP
+         12       BTN_RIGHT
+         13       BTN_DOWN
+         14       GND
+
+U5       1        N$23
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        ENABLE
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        VIN
+         EP       GND
+

@@ -1,0 +1,495 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 20:04
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC_1
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        N$3
+         2        GND
+
+C4       1        N$4
+         2        GND
+
+C5       1        MICROSD_VCC
+         2        GND
+
+C6       1        V_USB
+         2        GND
+
+C7       1        VCC_1
+         2        GND
+
+C8       1        VCC
+         2        GND
+
+C9       1        VCC
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        VCC
+         2        GND
+
+C12      1        GND
+         2        XTAL1
+
+C13      1        VCC
+         2        GND
+
+C14      1        SDIO_VDD
+         2        GND
+
+C15      1        SDIO_VDD
+         2        GND
+
+C16      1        SDIO_!RESET!
+         2        GND
+
+C17      1        GND
+         2        XTAL2
+
+C18      1        VCC
+         2        GND
+
+C19      1        SDIO_VDD
+         2        GND
+
+C20      1        VCC
+         2        GND
+
+C21      1        VCC
+         2        GND
+
+C22      1        VCC
+         2        GND
+
+C23      1        VCC
+         2        GND
+
+C24      1        VCC
+         2        GND
+
+D1       A        N$22
+         C        N$27
+
+D2       A        N$18
+         C        N$19
+
+D3       1        D+
+         2        GND
+         3        D-
+         4        D-_IN
+         5        V_USB
+         6        D+_IN
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+GPIO10   1        GPIO10
+
+H1      
+H2      
+H3      
+H4      
+I2C      1        N$16
+         2        VCC
+         3        N$14
+
+IC1      1        ACTIVITY
+         2        D+
+         3        D-
+         4        SD_D1
+         5        SD_D0
+         6        SDIO_VDD
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        SD_CLK
+         10                *** unconnected ***
+         11       SD_CMD
+         12                *** unconnected ***
+         13       N$3
+         14       SDIO_VDD
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       SDIO_!RESET!
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21       GPIO10
+         22       SDIO_VDD
+         23       SD_D3
+         24                *** unconnected ***
+         25       SD_D2
+         26       SD_!CD!
+         27       GPIO2
+         28       GND
+         29       GPIO4
+         30       N$20
+         31       GPIO7
+         32       XTAL2
+         33       XTAL1
+         34       N$4
+         35       N$23
+         36       SDIO_VDD
+         EPAD     GND
+
+J1       A5       N$1
+         A6       D+_IN
+         A7       D-_IN
+         A8                *** unconnected ***
+         B5       N$2
+         B6       D+_IN
+         B7       D-_IN
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    N$12
+         SHLD2    N$12
+         SHLD3    N$12
+         SHLD4    N$12
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J2       1        MICROSD_D2
+         2        MICROSD_D3/!CS!
+         3        MICROSD_CMD/SDI
+         4        MICROSD_VCC
+         5        MICROSD_CLK/SCK
+         6        GND
+         7        MICROSD_D0/SDO
+         8        MICROSD_D1
+         9        SD_!CD!
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+
+J3       1        AT_POCI
+         2        VCC
+         3        SCL
+         4        SDA
+         5        !RESET!
+         6        GND
+
+J4       1        SDA
+         2        SCL
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       N$25
+         15       N$26
+         16       POCI
+         17       PICO
+         18       SCLK
+         19       N$9
+         20       N$10
+         21       N$11
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       GND
+         26                *** unconnected ***
+         27       3.3V
+         28                *** unconnected ***
+
+JP1      1        N$9
+         2        !CS!
+
+JP2      1        N$10
+         2        !CS!
+
+JP3      1        N$11
+         2        !CS!
+
+JP4      D+       D+_IN
+         D-       D-_IN
+         GND      GND
+         VBUS     V_USB
+
+LED1     1        GND
+         2        N$27
+
+LED2     1        GND
+         2        N$19
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+LOGO5   
+MICROSD_VCC 1        MICROSD_VCC
+
+Q1       1        N$17
+         2        VCC
+         3        SDIO_VDD
+
+Q2       1        N$7
+         2        GND
+         3        N$8
+
+Q3       1        N$6
+         2        VCC
+         3        MICROSD_VCC
+
+Q4       1        N$13
+         2        VCC
+         3        VCC_1
+
+Q5       1        VCC_1
+         2        N$5
+         3        N$13
+         4        VCC
+         5        N$5
+         6        N$5
+
+Q6       1        N$28
+         2        VCC
+         3        3.3V
+
+Q7       1        3.3V
+         2        N$15
+         3        N$28
+         4        VCC
+         5        N$15
+         6        N$15
+
+R1       1        SDIO_VDD
+         2        SDIO_!RESET!
+
+R2       1        V_USB_DIV_2
+         2        V_USB
+
+R3       1        GND
+         2        V_USB_DIV_2
+
+R4       1        !RESET!
+         2        VCC
+
+R5       1        3V3_DIV_2
+         2        3.3V
+
+R6       1        GND
+         2        3V3_DIV_2
+
+R7       1        N$17
+         2        VCC
+
+R8       1        N$22
+         2        VCC
+
+R9       1        N$6
+         2        VCC
+
+R10      1        GND
+         2        N$2
+
+R11      1        GND
+         2        N$1
+
+R12      1        XTAL2
+         2        XTAL1
+
+R13      1        SDIO_VDD
+         2        GPIO2
+
+R14      1        SDIO_VDD
+         2        GPIO7
+
+R15      1        GND
+         2        SPI_EN
+
+R16      1        GND
+         2        N$23
+
+R17      1        N$18
+         2        ACTIVITY
+
+R18      1        N$16
+         2        SDA
+
+R19      1        SCL
+         2        N$14
+
+R20      1        GND
+         2        N$7
+
+R21      1        GND
+         2        N$5
+
+R22      1        GND
+         2        N$13
+
+R23      1        GND
+         2        N$15
+
+R24      1        GND
+         2        N$28
+
+R25      1        GPIO4
+         2        GND
+
+R26      1        MICROSD_PWR_EN
+         2        N$6
+
+R27      1        N$7
+         2        SDIO_EN
+
+R28      1        N$8
+         2        N$17
+
+R29      1        N$20
+         2        GND
+
+R30      1        3.3V
+         2        POCI
+
+RXD      1        N$25
+         2        RXD0
+
+SDIO_!RESET! 1        SDIO_!RESET!
+
+SDIO_VDD 1        SDIO_VDD
+
+SH       1        N$12
+         2        GND
+
+TXD      1        N$26
+         2        TXD0
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$25    
+U1       1        V_USB
+         2        GND
+         3        V_USB
+         4                 *** unconnected ***
+         5        VCC_1
+
+U2       1        SD_D3
+         2        MICROSD_D3/!CS!
+         3        MICROSD_D2
+         4        SD_D2
+         5        SDIO_EN
+         6        GND
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       GND
+         13       SDIO_EN
+         14       VCC
+         EPAD     GND
+
+U3       1        SCL
+         2        SDIO_EN
+         3        RXD0
+         4        TXD0
+         5        MICROSD_PWR_EN
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        GND
+         9        VCC
+         10                *** unconnected ***
+         11       SPI_EN
+         12       MICROSD_CLK/SCK
+         13       !RESET!
+         14       V_USB_DIV_2
+         15       3V3_DIV_2
+         16       SDA
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       AT_POCI
+         PAD      GND
+
+U4       1        POCI
+         2        MICROSD_D0/SDO
+         3        MICROSD_D3/!CS!
+         4        !CS!
+         5        SPI_EN
+         6        SPI_EN
+         7        GND
+         8        PICO
+         9        MICROSD_CMD/SDI
+         10       MICROSD_CLK/SCK
+         11       SCLK
+         12       SPI_EN
+         13       SPI_EN
+         14       VCC
+         EPAD     GND
+
+U5       1        SD_D1
+         2        MICROSD_D1
+         3        MICROSD_CMD/SDI
+         4        SD_CMD
+         5        SDIO_EN
+         6        SDIO_EN
+         7        GND
+         8        SD_CLK
+         9        MICROSD_CLK/SCK
+         10       MICROSD_D0/SDO
+         11       SD_D0
+         12       SDIO_EN
+         13       SDIO_EN
+         14       VCC
+         EPAD     GND
+
+U6       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GPIO2
+         6        GPIO7
+         7        GND
+         8        SDIO_VDD
+
+Y1       1        XTAL2
+         2                 *** unconnected ***
+         3        XTAL1
+         4                 *** unconnected ***
+

@@ -1,0 +1,311 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:23
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        LED_BIAS
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C3       1        I2C_PWR
+         2        GND
+
+C4       1        I2C_PWR
+         2        GND
+
+C5       1        N$6
+         2        GND
+
+C6       1        ~RESET
+         2        GND
+
+C7       1        I2C_PWR
+         2        GND
+
+C8       A        VCC
+         C        GND
+
+D1       A        N$5
+         C        GND
+
+D2       A        N$7
+         C        GND
+
+D3       A        N$9
+         C        GND
+
+D4       A        N$11
+         C        GND
+
+D5       A        N$20
+         C        GND
+
+D6       A        N$22
+         C        GND
+
+D7       A        N$24
+         C        GND
+
+D8       A        N$26
+         C        GND
+
+D9       A        N$18
+         C        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME2  
+JP1      1        GND
+         2        GND
+         3        VCC
+         4        VCC
+         5        SCL
+         6        SDA
+
+JP2      1        INT
+
+LOGO1   
+LOGO2   
+LOGO5   
+LOGO6   
+Q1       1        !IRLEDEN
+         2        GND
+         3        N$1
+
+R1       1        LED_BIAS
+         2        N$1
+
+R2       1        N$18
+         2        LED_BIAS
+
+R3       1        LED_BIAS
+         2        N$2
+
+R4       1        SEN0
+         2        I2C_PWR
+
+R5       1        SEN0BUF
+         2        N$5
+
+R6       1        SEN1BUF
+         2        N$7
+
+R7       1        SEN2BUF
+         2        N$9
+
+R8       1        SEN3BUF
+         2        N$11
+
+R9       1        LED_BIAS
+         2        N$12
+
+R10      1        SEN1
+         2        I2C_PWR
+
+R11      1        LED_BIAS
+         2        N$14
+
+R12      1        SEN2
+         2        I2C_PWR
+
+R13      1        LED_BIAS
+         2        N$16
+
+R14      1        SEN3
+         2        I2C_PWR
+
+R16      1        N$1
+         2        GND
+         3        GND
+
+R17      1        SEN4BUF
+         2        N$20
+
+R18      1        SEN5BUF
+         2        N$22
+
+R19      1        SEN6BUF
+         2        N$24
+
+R20      1        SEN7BUF
+         2        N$26
+
+R21      1        LED_BIAS
+         2        N$3
+
+R22      1        SEN4
+         2        I2C_PWR
+
+R23      1        LED_BIAS
+         2        N$13
+
+R24      1        LED_BIAS
+         2        N$15
+
+R25      1        LED_BIAS
+         2        N$17
+
+R26      1        SEN5
+         2        I2C_PWR
+
+R27      1        SEN6
+         2        I2C_PWR
+
+R28      1        SEN7
+         2        I2C_PWR
+
+R30      1        SCL
+         2        N$4
+
+R31      1        I2C_PWR
+         2        ~RESET
+
+R32      1        SDA
+         2        N$8
+
+R33      1        I2C_PWR
+         2        N$21
+
+R34      1        I2C_PWR
+         2        N$10
+
+SJ1      1        N$21
+         2        A0
+         3        GND
+
+SJ2      1        N$10
+         2        A1
+         3        GND
+
+SJ3      1        N$4
+         2        N$19
+         3        N$8
+
+SJ5      1        VCC
+         2        N$19
+         3        I2C_PWR
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+STANDOFF5
+STANDOFF6
+U1       1        SEN2BUF
+         2        SEN3BUF
+         3        GND
+         4        I2C_PWR
+         5        SEN4BUF
+         6        SEN5BUF
+         7        SEN6BUF
+         8        SEN7BUF
+         9        INT
+         10       A1
+         11                *** unconnected ***
+         12       I2C_PWR
+         13       !IRLEDEN
+         14       !FBLEDEN
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       GND
+         18       I2C_PWR
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       ~RESET
+         24       SDA
+         25       SCL
+         26       A0
+         27       SEN0BUF
+         28       SEN1BUF
+         29       GND
+
+U2       1        !FBLEDEN
+         2        SEN0
+         3        SEN0BUF
+         4        !FBLEDEN
+         5        SEN1
+         6        SEN1BUF
+         7        GND
+         8        SEN3BUF
+         9        SEN3
+         10       !FBLEDEN
+         11       SEN2BUF
+         12       SEN2
+         13       !FBLEDEN
+         14       I2C_PWR
+
+U3       1        VCC
+         2        GND
+         3        VCC
+         4        N$6
+         5        I2C_PWR
+
+U5       1        N$1
+         2        LED_BIAS
+         3        VCC
+         4        LED_BIAS
+
+U6       1        !FBLEDEN
+         2        SEN4
+         3        SEN4BUF
+         4        !FBLEDEN
+         5        SEN5
+         6        SEN5BUF
+         7        GND
+         8        SEN7BUF
+         9        SEN7
+         10       !FBLEDEN
+         11       SEN6BUF
+         12       SEN6
+         13       !FBLEDEN
+         14       I2C_PWR
+
+U101     1        N$2
+         2        GND
+         3        SEN0
+         4        GND
+
+U102     1        N$12
+         2        GND
+         3        SEN1
+         4        GND
+
+U103     1        N$14
+         2        GND
+         3        SEN2
+         4        GND
+
+U104     1        N$16
+         2        GND
+         3        SEN3
+         4        GND
+
+U105     1        N$3
+         2        GND
+         3        SEN4
+         4        GND
+
+U106     1        N$13
+         2        GND
+         3        SEN5
+         4        GND
+
+U107     1        N$15
+         2        GND
+         3        SEN6
+         4        GND
+
+U108     1        N$17
+         2        GND
+         3        SEN7
+         4        GND
+

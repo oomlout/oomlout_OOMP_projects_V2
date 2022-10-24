@@ -1,0 +1,114 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 22:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+1        A        GND
+         B        PLAYER2
+         A'       GND
+         B'       PLAYER2
+
+2        A        GND
+         B        PLAYER1
+         A'       GND
+         B'       PLAYER1
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+JOY1     X        JOYVERT
+         Y        JOYHORIZ
+         X+       3.3V
+         X-       GND
+         Y+       3.3V
+         Y-       GND
+
+RPI1     1        3.3V
+         2        +5V
+         3        SDA
+         4        +5V
+         5        SCL
+         6        GND
+         7        GPIO4
+         8        TXD
+         9        GND
+         10       RXD
+         11       GPIO17
+         12       BCLK
+         13       GPIO27
+         14       GND
+         15       PLAYER1
+         16       PLAYER2
+         17       3.3V
+         18       GPIO24
+         19       SPI_MOSI
+         20       GND
+         21       SPI_MISO
+         22       GPIO25
+         23       SPI_SCLK
+         24       SPI_CE0
+         25       GND
+         26       SPI_CE1
+         27       EEDATA
+         28       EECLK
+         29       GPIO5
+         30       GND
+         31       B
+         32       A
+         33       Y
+         34       GND
+         35       LRCLK
+         36       X
+         37       START
+         38       SELECT
+         39       GND
+         40       DIN
+         41                *** unconnected ***
+         42                *** unconnected ***
+
+SW1      A        GND
+         B        START
+         A'       GND
+         B'       START
+
+SW2      A        GND
+         B        Y
+         A'       GND
+         B'       Y
+
+SW3      A        GND
+         B        X
+         A'       GND
+         B'       X
+
+SW4      A        GND
+         B        B
+         A'       GND
+         B'       B
+
+SW5      A        GND
+         B        A
+         A'       GND
+         B'       A
+
+SW8      A        GND
+         B        SELECT
+         A'       GND
+         B'       SELECT
+
+U$7     
+U1       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        GND
+         4        JOYHORIZ
+         5        JOYVERT
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        3.3V
+         9        SDA
+         10       SCL
+

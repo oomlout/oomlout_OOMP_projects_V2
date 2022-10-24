@@ -1,0 +1,201 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 16:16
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        3.3V
+         C        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       A        5V
+         C        GND
+
+C4       1        RST
+         2        N$5
+
+FRAME1  
+JP1      1        D_RX
+         2        D_TX
+         3        N$142
+         4        N$143
+         5        N$144
+         6        N$145
+
+JP2      1        GND
+         2        DTR
+         3        RES1
+         4        DIO11
+         5        RSSI
+         6        RESET
+         7        DIO12
+         8        DIN
+         9        DOUT
+         10       3.3V
+         11       GND
+
+JP3      1        DIO0
+         2        DIO1
+         3        DIO2
+         4        DIO3
+         5        RTS
+         6        DIO5
+         7        RES2
+         8        DIO9
+         9        CTS
+         10       DIO4
+         11       5V
+
+JP4      1        N$17
+         2        N$18
+         3        N$30
+         4        N$43
+         5        N$55
+         6        N$3
+         7        GND
+         8        AREF
+         9        N$6
+         10       N$7
+
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+JP7     
+LED1     A        N$38
+         C        GND
+
+LED2     A        N$1
+         C        DOUT
+
+LED3     A        N$4
+         C        DIN
+
+LED4     A        N$2
+         C        GND
+
+LED5     A        N$139
+         C        GND
+
+Q1       1        3.3V
+         2        DIN
+         3        IN
+
+Q2       1        3.3V
+         2        DOUT
+         3        OUT
+
+R1       1        3.3V
+         2        N$1
+
+R2       1        N$139
+         2        DIO5
+
+R3       1        3.3V
+         2        N$4
+
+R4       1        N$2
+         2        RSSI
+
+R5       1        DIN
+         2        3.3V
+
+R6       1        IN
+         2        5V
+
+R7       1        DOUT
+         2        3.3V
+
+R8       1        OUT
+         2        5V
+
+R11      1        N$38
+         2        3.3V
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        RST
+         4                 *** unconnected ***
+
+S2       1        UART_RX
+         2        OUT
+         3        N$141
+         4        UART_TX
+         5        IN
+         6        N$140
+
+SJ1      1        D_TX
+         2        N$140
+
+SJ2      1        N$5
+         2        DIO3
+
+SJ3      1        D_RX
+         2        N$141
+
+U$1     
+U$8     
+U1       5V       5V
+         A0                *** unconnected ***
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4                *** unconnected ***
+         A5                *** unconnected ***
+         D2       D_RX
+         D3       D_TX
+         D4       N$142
+         D5       N$143
+         D6       N$144
+         D7       N$145
+         D8       N$17
+         D9       N$18
+         NC                *** unconnected ***
+         RX       UART_RX
+         TX       UART_TX
+         D10      N$30
+         D11      N$43
+         D12      N$55
+         D13      N$3
+         RES      RST
+         SCL      N$7
+         SDA      N$6
+         VIN      VIN
+         3.3V              *** unconnected ***
+         AREF     AREF
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+U2       1        3.3V
+         2        DOUT
+         3        DIN
+         4        DIO12
+         5        RESET
+         6        RSSI
+         7        DIO11
+         8        RES1
+         9        DTR
+         10       GND
+         11       DIO4
+         12       CTS
+         13       DIO9
+         14       RES2
+         15       DIO5
+         16       RTS
+         17       DIO3
+         18       DIO2
+         19       DIO1
+         20       DIO0
+
+U4       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+

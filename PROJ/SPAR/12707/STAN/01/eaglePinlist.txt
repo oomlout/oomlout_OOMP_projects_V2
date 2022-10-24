@@ -1,0 +1,547 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 15:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     V+       VBATT
+         V-       GND
+
+C1       1        BTN-OUT
+         2        GND
+
+C2       1        N$10
+         2        GND
+
+C3       1        N$18
+         2        GND
+
+C4       1        N$10
+         2        GND
+
+C5       1        VCC
+         2        GND
+
+C6       1        VCC
+         2        GND
+
+C7       1        VCC
+         2        GND
+
+C8       1        N$7
+         2        GND
+
+C9       +        VCC
+         -        GND
+
+C10      1        N$14
+         2        GND
+
+C11      1        VCC
+         2        N$63
+
+D1       A        LASTSTEP
+         C        N$14
+
+D2       A        STOP-IN
+         C        N$14
+
+D3       A        N$71
+         C        VCC
+
+D100     A        N$4
+         C        POTSUM
+
+D101     A        N$3
+         C        GATESUM
+
+D200     A        N$29
+         C        POTSUM
+
+D201     A        N$30
+         C        GATESUM
+
+D300     A        N$33
+         C        POTSUM
+
+D301     A        N$34
+         C        GATESUM
+
+D400     A        N$37
+         C        POTSUM
+
+D401     A        N$38
+         C        GATESUM
+
+D500     A        N$41
+         C        POTSUM
+
+D501     A        N$42
+         C        GATESUM
+
+D600     A        N$45
+         C        POTSUM
+
+D601     A        N$46
+         C        GATESUM
+
+D700     A        N$49
+         C        POTSUM
+
+D701     A        N$50
+         C        GATESUM
+
+D800     A        N$53
+         C        POTSUM
+
+D801     A        N$54
+         C        GATESUM
+
+D900     A        N$57
+         C        POTSUM
+
+D901     A        N$58
+         C        GATESUM
+
+D1000    A        N$61
+         C        POTSUM
+
+D1001    A        N$62
+         C        GATESUM
+
+FRAME1  
+IC1      1        GND
+         2        N$10
+         3        555OUT
+         4        RUN-IN
+         5        N$7
+         6        N$10
+         7        PRECLK
+         8        VCC
+
+IC2      1        N$66
+         2        N$17
+         3        N$19
+         4        GND
+         5        N$22
+         6        N$69
+         7        N$23
+         8        VCC
+
+IC3      1        N$6
+         2        N$6
+         3        N$15
+         4        GND
+         5        N$18
+         6        N$65
+         7        N$65
+         8        VCC
+
+IC4      1        N$11
+         2        N$11
+         3        GATESUM
+         4        GND
+         5        N$70
+         6        N$64
+         7        N$69
+         8        VCC
+
+IC5      1        STOP-OUT
+         2        RUN-OUT
+         3        N$21
+         4        N$9
+         5        RUN-OUT
+         6        N$63
+         7        GND
+         8        GND
+         9        N$26
+         10       STOP-IN
+         11       PRECLK
+         12       N$26
+         13       CLK-OUT
+         14       VCC
+
+IC6      1        STEP6
+         2        STEP2
+         3        STEP1
+         4        STEP3
+         5        STEP7
+         6        STEP8
+         7        STEP4
+         8        GND
+         9        STEP9
+         10       STEP5
+         11       STEP10
+         12                *** unconnected ***
+         13       GND
+         14       CLK-IN
+         15       N$14
+         16       VCC
+
+JP1      1        N$20
+
+JP2      1        N$68
+
+JP3      1        N$7
+
+JP4      1        N$67
+
+JP5      1        N$65
+
+JP6      1        VCC
+
+JP7      1        GND
+
+JP100    1        STEP1
+
+JP200    1        LASTSTEP
+         2        STEP2
+
+JP300    1        LASTSTEP
+         2        STEP3
+
+JP400    1        LASTSTEP
+         2        STEP4
+
+JP500    1        LASTSTEP
+         2        STEP5
+
+JP600    1        LASTSTEP
+         2        STEP6
+
+JP700    1        LASTSTEP
+         2        STEP7
+
+JP800    1        LASTSTEP
+         2        STEP8
+
+JP900    1        LASTSTEP
+         2        STEP9
+
+JP1000   1        LASTSTEP
+         2        STEP10
+
+LED1     A        CLK-IN
+         K        N$13
+
+LED100   A        N$1
+         K        N$2
+
+LED200   A        N$27
+         K        N$28
+
+LED300   A        N$31
+         K        N$32
+
+LED400   A        N$35
+         K        N$36
+
+LED500   A        N$39
+         K        N$40
+
+LED600   A        N$43
+         K        N$44
+
+LED700   A        N$47
+         K        N$48
+
+LED800   A        N$51
+         K        N$52
+
+LED900   A        N$55
+         K        N$56
+
+LED1000  A        N$59
+         K        N$60
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+Q100     1        N$1
+         2        STEP1
+         3        VCC
+
+Q200     1        N$27
+         2        STEP2
+         3        VCC
+
+Q300     1        N$31
+         2        STEP3
+         3        VCC
+
+Q400     1        N$35
+         2        STEP4
+         3        VCC
+
+Q500     1        N$39
+         2        STEP5
+         3        VCC
+
+Q600     1        N$43
+         2        STEP6
+         3        VCC
+
+Q700     1        N$47
+         2        STEP7
+         3        VCC
+
+Q800     1        N$51
+         2        STEP8
+         3        VCC
+
+Q900     1        N$55
+         2        STEP9
+         3        VCC
+
+Q1000    1        N$59
+         2        STEP10
+         3        VCC
+
+R1       P$1      555OUT
+         P$2      N$5
+
+R2       P$1      GND
+         P$2      N$9
+
+R3       P$1      GND
+         P$2      N$14
+
+R4       P$1      GND
+         P$2      BTN-OUT
+
+R5       P$1      GND
+         P$2      N$22
+
+R6       P$1      GND
+         P$2      N$8
+
+R7       P$1      PRECLK
+         P$2      VCC
+
+R9       P$1      N$16
+         P$2      N$15
+
+R10      P$1      N$66
+         P$2      N$68
+
+R12      P$1      N$15
+         P$2      GND
+
+R13      P$1      CLK-IN
+         P$2      N$64
+
+R14      P$1      GND
+         P$2      N$63
+
+R15      P$1      N$23
+         P$2      N$20
+
+R16      P$1      N$22
+         P$2      VCC
+
+R17      P$1      GND
+         P$2      N$25
+
+R18      P$1      N$64
+         P$2      N$11
+
+R19      P$1      GND
+         P$2      N$13
+
+R20      P$1      N$19
+         P$2      VCC
+
+R21      P$1      N$64
+         P$2      N$69
+
+R22      P$1      POTSUM
+         P$2      N$16
+
+R23      P$1      GND
+         P$2      N$70
+
+R24      P$1      N$70
+         P$2      VCC
+
+R25      P$1      GND
+         P$2      GATESUM
+
+R26      P$1      N$66
+         P$2      N$67
+
+R27      P$1      N$66
+         P$2      N$17
+
+R28      P$1      N$17
+         P$2      N$65
+
+R29      P$1      GND
+         P$2      N$19
+
+R30      P$1      N$64
+         P$2      RUN-IN
+
+R100     P$1      GND
+         P$2      N$2
+
+R200     P$1      GND
+         P$2      N$28
+
+R300     P$1      GND
+         P$2      N$32
+
+R400     P$1      GND
+         P$2      N$36
+
+R500     P$1      GND
+         P$2      N$40
+
+R600     P$1      GND
+         P$2      N$44
+
+R700     P$1      GND
+         P$2      N$48
+
+R800     P$1      GND
+         P$2      N$52
+
+R900     P$1      GND
+         P$2      N$56
+
+R1000    P$1      GND
+         P$2      N$60
+
+RV1      P$1      N$10
+         P$2      N$10
+         P$3      N$5
+         P$4               *** unconnected ***
+         P$5               *** unconnected ***
+
+RV2      P$1      N$18
+         P$2      N$6
+         P$3      N$6
+         P$4               *** unconnected ***
+         P$5               *** unconnected ***
+
+S1       1        VBATT
+         2        N$71
+         3                 *** unconnected ***
+
+S3       1                 *** unconnected ***
+         2        BTN-OUT
+         3                 *** unconnected ***
+         4        VCC
+         A        RUN-IN
+         C        N$8
+
+S5       1        N$25
+         2        N$22
+         3                 *** unconnected ***
+
+S100     1        GND
+         2        N$3
+         3        N$1
+
+S200     1        GND
+         2        N$30
+         3        N$27
+
+S300     1        GND
+         2        N$34
+         3        N$31
+
+S400     1        GND
+         2        N$38
+         3        N$35
+
+S500     1        GND
+         2        N$42
+         3        N$39
+
+S600     1        GND
+         2        N$46
+         3        N$43
+
+S700     1        GND
+         2        N$50
+         3        N$47
+
+S800     1        GND
+         2        N$54
+         3        N$51
+
+S900     1        GND
+         2        N$58
+         3        N$55
+
+S1000    1        GND
+         2        N$62
+         3        N$59
+
+SJ1      1        RUN-OUT
+         2        RUN-IN
+         P$1               *** unconnected ***
+
+SJ2      1        STOP-OUT
+         2        STOP-IN
+         P$1               *** unconnected ***
+
+SJ3      1        CLK-OUT
+         2        CLK-IN
+         P$1               *** unconnected ***
+
+SJ4      1        BTN-OUT
+         2        N$21
+         P$1               *** unconnected ***
+
+SJ5      1        N$63
+         2        LASTSTEP
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF5
+STANDOFF6
+VR100    TOP      N$1
+         WIPER    N$4
+         BOTTOM   GND
+
+VR200    TOP      N$27
+         WIPER    N$29
+         BOTTOM   GND
+
+VR300    TOP      N$31
+         WIPER    N$33
+         BOTTOM   GND
+
+VR400    TOP      N$35
+         WIPER    N$37
+         BOTTOM   GND
+
+VR500    TOP      N$39
+         WIPER    N$41
+         BOTTOM   GND
+
+VR600    TOP      N$43
+         WIPER    N$45
+         BOTTOM   GND
+
+VR700    TOP      N$47
+         WIPER    N$49
+         BOTTOM   GND
+
+VR800    TOP      N$51
+         WIPER    N$53
+         BOTTOM   GND
+
+VR900    TOP      N$55
+         WIPER    N$57
+         BOTTOM   GND
+
+VR1000   TOP      N$59
+         WIPER    N$61
+         BOTTOM   GND
+

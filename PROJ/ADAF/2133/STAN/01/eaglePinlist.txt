@@ -1,0 +1,250 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/08/2022 22:13
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        L_AC
+         2        N$6
+
+C2       1        R_AC
+         2        N$2
+
+C3       1        N$3
+         2        GND
+
+C6       1        GND
+         2        N$5
+
+C7       1        GND
+         2        VDD
+
+C8       1        GND
+         2        AVDD
+
+C9       1        GND
+         2        VHIGH
+
+C10      1        PWRBUTTON
+         2        VHIGH
+
+C11      1        N$6
+         2        GND
+
+C12      1        N$2
+         2        GND
+
+CONTROL  1        VIN
+         2        GND
+         3        VBUS
+         4        PWRBUTTON
+         5        TX
+         6        RX_5V
+         7        GPIO0_11
+         8        GPIO0_13
+         9        GPIO0_14
+         10       CS
+         11       GND
+         12       R_AC
+         13       L_AC
+         14       GND
+
+D2       A        RX
+         C        RX_5V
+
+D3       A        VIN
+         C        VHIGH
+
+D4       A        VBUS
+         C        VHIGH
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+GPIO1    1        GND
+         2        GPIO0_12
+         3        GPIO0_10
+         4        GPIO0_9
+         5        GPIO0_8
+         6        GPIO0_7
+         7        GPIO0_6
+         8        GPIO0_5
+         9        GPIO0_4
+         10       GPIO0_3
+         11       GPIO0_2
+         12       GPIO0_1
+         13       GPIO0_0
+         14       RST
+
+GREEN    A        VDD
+         C        N$8
+
+LED4     A        N$1
+         C        GND
+
+R1       1        N$12
+         2        N$4
+
+R2       1        GND
+         2        VDD
+         3        VDD
+         4        VDD
+         5        RST
+         6        D+
+         7        D-
+         8        PWRBUTTON
+
+R3       1        LEFT
+         2        N$6
+
+R6       1        RIGHT
+         2        N$2
+
+R7       1        N$1
+         2        VHIGH
+
+R8       1        N$8
+         2        GPIO0_12
+
+R9       1        GPIO0_3
+         2        GPIO0_2
+         3        GPIO0_1
+         4        GPIO0_0
+         5        VDD
+         6        VDD
+         7        VDD
+         8        VDD
+
+R10      1        GPIO0_7
+         2        GPIO0_6
+         3        GPIO0_5
+         4        GPIO0_4
+         5        VDD
+         6        VDD
+         7        VDD
+         8        VDD
+
+R11      1        GPIO0_11
+         2        GPIO0_10
+         3        GPIO0_8
+         4        GPIO0_9
+         5        VDD
+         6        VDD
+         7        VDD
+         8        VDD
+
+R12      1        GPIO0_14
+         2        CS
+         3        GPIO0_13
+         4        RX
+         5        VDD
+         6        VDD
+         7        VDD
+         8        VDD
+
+TP1      TP       SCK
+
+TP2      TP       MOSI
+
+TP3      TP       MISO
+
+U$5      P$1               *** unconnected ***
+
+U$6      P$1               *** unconnected ***
+
+U$7      P$1               *** unconnected ***
+
+U$8      P$1               *** unconnected ***
+
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U1       1        CS
+         2        MISO
+         3        VDD
+         4        GND
+         5        MOSI
+         6        SCK
+         7        VDD
+         8        VDD
+
+U2       1        RST
+         2        GPIO0_0
+         3        GPIO0_1
+         4        GPIO0_2
+         5        GPIO0_3
+         6        GND
+         7        VDD
+         8        GND
+         9        GPIO0_4
+         10       GPIO0_5
+         11       GPIO0_6
+         12       GPIO0_7
+         13       GPIO0_8
+         14       GPIO0_9
+         15       GPIO0_10
+         16       GPIO0_12
+         17       GPIO0_13
+         18       GND
+         19       VDD
+         20       GPIO0_11
+         21       GPIO0_14
+         22       CS
+         23       SCK
+         24       MISO
+         25       MOSI
+         26       TX
+         27       RX
+         28       N$12
+         29       N$4
+         30       VDD
+         31       GND
+         32       N$5
+         33       VHIGH
+         34       AVDD
+         35       D+
+         36       D-
+         37       PWRBUTTON
+         38       GND
+         39       AVDD
+         40       RIGHT
+         41       GND
+         42       GND
+         43                *** unconnected ***
+         44       AVDD
+         45       N$3
+         46       AVDD
+         47       LEFT
+         48       GND
+
+X1       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+X2       1        GND
+         2        VIN
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X3       1-GND    GND
+         2-TIP    L_AC
+         3-OUTER_S LEEVE R_AC
+         4-INNER_S LEEVE GND
+
+Y2       1        N$12
+         2        GND
+         3        N$4
+

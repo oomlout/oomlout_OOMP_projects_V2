@@ -1,0 +1,131 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 12:59
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       A        3.3V
+         C        GND
+
+C3       1        N$3
+         2        GND
+
+C4       1        3.3V
+         2        RFGND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+J$1      SIG      N$14
+         GND@0    RFGND
+         GND@1    RFGND
+         GND@2    RFGND
+         GND@3    RFGND
+
+JP1      1        GND
+         2        TX
+         3        RX
+         4        3.3V
+
+JP2      1        GND
+         2        VBATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP3      1        VBAT
+         2        PPS
+         3        GPIO1
+         4        GPIO2
+         5        GPIO24
+
+JP4      1        GND
+         2        GPIO24
+
+JP5      1        VBAT
+         2        3.3V
+
+LED3     A        3.3V
+         C        N$1
+
+R1       1        N$3
+         2        3.3V
+
+R2       1        GND
+         2        BTSEL
+
+R6       1        N$1
+         2        NAV
+
+U$1     
+U$2     
+U$3     
+U1       1        N$3
+         2        3.3V
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5        GPIO2
+         6        GPIO1
+         7        NAV
+         8        GPIO24
+         9        BTSEL
+         10       GND
+         11       GND
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       GND
+         15       GND
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       VBAT
+         19       GND
+         20                *** unconnected ***
+         21       RFGND
+         22       RFGND
+         23                *** unconnected ***
+         24       RFGND
+         25       RFGND
+         26                *** unconnected ***
+         27       RFGND
+         28       RFGND
+         29       RFGND
+         30                *** unconnected ***
+         31       RFGND
+         32       N$14
+         33       RFGND
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36       3.3V
+         37       GND
+         38       MOSI
+         39       MISO
+         40       PPS
+         41       CLK
+         42       RX
+         43       CS
+         44       TX
+
+U2       1        3.3V
+         2        N$14
+
+U3       1        VBATT
+         2        GND
+         3        VBATT
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        CS
+         2        MISO
+         3        3.3V
+         4        GND
+         5        MOSI
+         6        CLK
+         7        3.3V
+         8        3.3V
+

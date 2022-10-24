@@ -1,0 +1,455 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 20:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        RAW
+         2        GND
+
+C2       A        INV
+         C        GND
+
+C3       A        VCC
+         C        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        DTR
+         2        RST
+
+C6       1        VCC
+         2        GND
+
+C7       1        VCC
+         2        GND
+
+FRAME1  
+FRAME2  
+J1       1        GND
+         2        VBATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J2       1        GND
+         2        INV
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        HVGND
+         2        HV
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        HVGND
+         2        N$21
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       1        HVGND
+         2        N$9
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J6       1        HVGND
+         2        N$16
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J7       1        HVGND
+         2        N$20
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J8       1        HVGND
+         2        N$25
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J9       1        HVGND
+         2        N$29
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J10      1        HVGND
+         2        N$33
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J11      1        HVGND
+         2        N$37
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP1      1        GND
+         2        VBATT
+
+JP2      1        GND
+         2        VCC
+         3        ADC_7*
+         4        ADC_6*
+         5        ADC_5
+         6        ADC_4
+         7        ADC_3
+         8        ADC_2
+
+JP3      1        FTDI_DTR
+         2        TXO
+         3        FTDI_RXI
+         4        5VUSB
+         5        GND
+         6        GND
+
+JP4      1        GND
+         2        IRQ
+         3        MISO
+         4        MOSI
+         5        SCK
+         6        CSN
+         7        CE/SLEEP
+         8        VCC
+
+JP5      1        MISO
+         2        VCC
+         3        SCK
+         4        MOSI
+         5        RST
+         6        GND
+
+JP6      1        INV
+         2        GND
+
+JP7      1        HV
+         2        HVGND
+
+JP8     
+JP9      1        HVGND
+         2        N$21
+
+JP10     1        HVGND
+         2        N$9
+
+JP11     1        HVGND
+         2        N$16
+
+JP12     1        HVGND
+         2        N$20
+
+JP13     1        HVGND
+         2        N$25
+
+JP14     1        HVGND
+         2        N$29
+
+JP15     1        HVGND
+         2        N$33
+
+JP16     1        HVGND
+         2        N$37
+
+LED1     A        N$4
+         C        GND
+
+LED2     A        N$14
+         C        GND
+
+R1       1        GND
+         2        N$13
+
+R2       1        N$13
+         2        INV
+
+R3       1        RXI
+         2        FTDI_RXI
+
+R4       1        GND
+         2        RXI
+
+R5       1        DTR
+         2        FTDI_DTR
+
+R6       1        GND
+         2        DTR
+
+R7       1        N$4
+         2        VCC
+
+R8       1        RST
+         2        VCC
+
+R9       1        N$14
+         2        SCK
+
+R10      1        GND
+         2        N$7
+
+R11      1        GND
+         2        N$3
+
+R12      1        GND
+         2        N$12
+
+R13      1        GND
+         2        N$18
+
+R14      1        N$11
+         2        HV
+
+R15      1        N$117
+         2        N$21
+
+R16      1        N$5
+         2        HV
+
+R17      1        N$2
+         2        N$9
+
+R18      1        N$15
+         2        HV
+
+R19      1        N$10
+         2        N$16
+
+R20      1        N$19
+         2        HV
+
+R21      1        N$17
+         2        N$20
+
+R22      1        GND
+         2        N$23
+
+R23      1        GND
+         2        N$27
+
+R24      1        GND
+         2        N$31
+
+R25      1        GND
+         2        N$35
+
+R26      1        N$24
+         2        HV
+
+R27      1        N$22
+         2        N$25
+
+R28      1        N$28
+         2        HV
+
+R29      1        N$26
+         2        N$29
+
+R30      1        N$32
+         2        HV
+
+R31      1        N$30
+         2        N$33
+
+R32      1        N$36
+         2        HV
+
+R33      1        N$34
+         2        N$37
+
+RA       P$1      N$13
+         P$2      INV
+
+RB       P$1      GND
+         P$2      N$13
+
+S1       1        VBATT
+         2        RAW
+         3        5VUSB
+         4        VBATT
+         5        RAW
+         6        5VUSB
+
+S2       1        RST
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+SJ1      1        RAW
+         2        INV
+
+SJ2      1        N$8
+         2        DTR
+
+U$1     
+U$2     
+U$3      1                 *** unconnected ***
+
+U$4      1                 *** unconnected ***
+
+U$5     
+U$6     
+U$7     
+U$8     
+U1       1        N$13
+         3        RAW
+         4        INV
+
+U2       1        RAW
+         2        GND
+         3        RAW
+         4                 *** unconnected ***
+         5        VCC
+
+U3       1        EL_B
+         2        EL_C
+         3        GND
+         4        VCC
+         5        GND
+         6        VCC
+         7        N$1
+         8        N$6
+         9        EL_D
+         10       EL_E
+         11       EL_F
+         12       EL_G
+         13       EL_H
+         14       CSN
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       VCC
+         19       ADC_6*
+         20       VCC
+         21       GND
+         22       ADC_7*
+         23       IRQ
+         24       CE/SLEEP
+         25       ADC_2
+         26       ADC_3
+         27       ADC_4
+         28       ADC_5
+         29       RST
+         30       RXI
+         31       TXO
+         32       EL_A
+
+U4-DNP   1        VCC
+         2        RXI
+         3        TXO
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        CE/SLEEP
+         10       GND
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       N$8
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+
+U5       1        EL_A
+         2        N$7
+         3                 *** unconnected ***
+         4        N$117
+         5                 *** unconnected ***
+         6        N$11
+
+U6       1        EL_B
+         2        N$3
+         3                 *** unconnected ***
+         4        N$2
+         5                 *** unconnected ***
+         6        N$5
+
+U7       1        EL_C
+         2        N$12
+         3                 *** unconnected ***
+         4        N$10
+         5                 *** unconnected ***
+         6        N$15
+
+U8       1        EL_D
+         2        N$18
+         3                 *** unconnected ***
+         4        N$17
+         5                 *** unconnected ***
+         6        N$19
+
+U9       1        N$21
+         2                 *** unconnected ***
+         3        N$117
+         4        HV
+
+U10      1        N$9
+         2                 *** unconnected ***
+         3        N$2
+         4        HV
+
+U11      1        N$16
+         2                 *** unconnected ***
+         3        N$10
+         4        HV
+
+U12      1        N$20
+         2                 *** unconnected ***
+         3        N$17
+         4        HV
+
+U13      1        EL_E
+         2        N$23
+         3                 *** unconnected ***
+         4        N$22
+         5                 *** unconnected ***
+         6        N$24
+
+U14      1        EL_F
+         2        N$27
+         3                 *** unconnected ***
+         4        N$26
+         5                 *** unconnected ***
+         6        N$28
+
+U15      1        EL_G
+         2        N$31
+         3                 *** unconnected ***
+         4        N$30
+         5                 *** unconnected ***
+         6        N$32
+
+U16      1        EL_H
+         2        N$35
+         3                 *** unconnected ***
+         4        N$34
+         5                 *** unconnected ***
+         6        N$36
+
+U17      1        N$25
+         2                 *** unconnected ***
+         3        N$22
+         4        HV
+
+U18      1        N$29
+         2                 *** unconnected ***
+         3        N$26
+         4        HV
+
+U19      1        N$33
+         2                 *** unconnected ***
+         3        N$30
+         4        HV
+
+U20      1        N$37
+         2                 *** unconnected ***
+         3        N$34
+         4        HV
+
+Y1       1        N$1
+         2        GND
+         3        N$6
+

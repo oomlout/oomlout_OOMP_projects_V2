@@ -1,0 +1,759 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 04:55
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C5       +        SERVO
+         -        GND
+
+C6       1        SERVO
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        5V
+         2        GND
+
+C10      1        VBUS
+         2        GND
+
+C11      1        ENC1B_FILTERED
+         2        GND
+
+C12      1        N$29
+         2        GND
+
+C13      1        1.8V
+         2        GND
+
+C14      1        1.8V
+         2        GND
+
+C15      1        3.3V
+         2        GND
+
+C16      1        ENC1A_FILTERED
+         2        GND
+
+C17      1        N$24
+         2        GND
+
+C18      1        VDDD1
+         2        GND
+
+C19      1        N$25
+         2        GND
+
+C20      1        N$26
+         2        GND
+
+C21      1        VDDD1
+         2        GND
+
+C22      1        N$25
+         2        GND
+
+C23      1        !MTR_RST
+         2        GND
+
+C24      1        VIN-MTR
+         2        GND
+
+C25      1        VIN-MTR
+         2        GND
+
+C26      1        ENC2B_FILTERED
+         2        GND
+
+C27      1        ENC2A_FILTERED
+         2        GND
+
+D2       A        N$27
+         C        GND
+
+F2       1        VBUS
+         2        5V
+
+FD5      1                 *** unconnected ***
+
+FD6      1                 *** unconnected ***
+
+FD7      1                 *** unconnected ***
+
+FD8      1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+FRAME3  
+H9      
+H10     
+H11     
+H12     
+INT      1        INT_R
+         2        3.3V
+
+J2       1        3.3V
+         2        N$20
+         3        SDA_3.3V
+         4        N$20
+         5        SCL_3.3V
+         6        GND
+         7        !ENC_INT
+         8        PI_TXO
+         9        GND
+         10       PI_RXI
+         11       GP17
+         12       GP18
+         13       GP27
+         14       GND
+         15       GP22
+         16       GP23
+         17       3.3V
+         18       GP24
+         19       PI_MOSI
+         1B       3.3V
+         20       GND
+         21       PI_MISO
+         22       GP25
+         23       SCLK
+         24       CE0
+         25       GND
+         26       IMU_INT_3.3V
+         27       ID_SD
+         28       ID_SC
+         29       GP5
+         2B       N$20
+         30       GND
+         31       GP6
+         32       GP12
+         33       GP13
+         34       GND
+         35       GP19
+         36       GP16
+         37       GP26
+         38       GP20
+         39       GND
+         3B       SDA_3.3V
+         40       GP21
+         4B       N$20
+         5B       SCL_3.3V
+         6B       GND
+         7B       !ENC_INT
+         8B       PI_TXO
+         9B       GND
+         10B      PI_RXI
+         11B      GP17
+         12B      GP18
+         13B      GP27
+         14B      GND
+         15B      GP22
+         16B      GP23
+         17B      3.3V
+         18B      GP24
+         19B      PI_MOSI
+         20B      GND
+         21B      PI_MISO
+         22B      GP25
+         23B      SCLK
+         24B      CE0
+         25B      GND
+         26B      IMU_INT_3.3V
+         27B      ID_SD
+         28B      ID_SC
+         29B      GP5
+         30B      GND
+         31B      GP6
+         32B      GP12
+         33B      GP13
+         34B      GND
+         35B      GP19
+         36B      GP16
+         37B      GP26
+         38B      GP20
+         39B      GND
+         40B      GP21
+
+J3       1        GND
+         2        SERVO
+         3        CH0
+
+J4       1        GND
+         2        SERVO
+         3        CH1
+
+J5       1        GND
+         2        SERVO
+         3        CH2
+
+J6       1        !ENC_INT
+
+J7       1        GND
+         2        SERVO
+
+J8       1        GND
+         2        5V
+
+J9       P1       GND
+         P2       ENC1B_RAW
+
+J10      1        GND
+         2        SERVO
+         3        CH3
+
+J11      1        GND
+         2        VIN-MTR
+
+J12      P1       ENC1A_RAW
+         P2       3.3V
+
+J13      P1       AOUT1
+         P2       AOUT2
+
+J14      P1       BOUT1
+         P2       BOUT2
+
+J15      P1       3.3V
+         P2       ENC2A_RAW
+
+J16      P1       ENC2B_RAW
+         P2       GND
+
+J17      1        !ENC_RST
+
+J18      1        MISO
+         2        3.3V
+         3        SCL_3.3V
+         4        SDA_3.3V
+         5        !ENC_RST
+         6        GND
+
+J19      1        GND
+         2        3.3V
+         3        SDA_3.3V
+         4        SCL_3.3V
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J20      A5       CC1
+         A6                *** unconnected ***
+         A7                *** unconnected ***
+         A8                *** unconnected ***
+         B5       CC2
+         B6                *** unconnected ***
+         B7                *** unconnected ***
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         SHLD5             *** unconnected ***
+         SHLD6             *** unconnected ***
+         SHLD7             *** unconnected ***
+         SHLD8             *** unconnected ***
+         VBUS1    VBUS
+         VBUS2    VBUS
+
+J21      1        !FSYNC_3.3V
+
+J22      1        !MTR_RST
+
+J23      1        3.3V
+         2        P3.2
+         3        GND
+         4        P3.3
+         5        GND
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9        GND
+         10       !MTR_RST
+
+JP1      1        GND
+         2        ADD_A0
+
+JP2      1        VBUS
+         2        5V
+
+JP3      1        N$5
+         2        3.3V
+         3        N$2
+
+JP4      1        PI-5V
+         2        N$20
+
+JP5      1        GND
+         2        ADD_A1
+
+JP6      1        GND
+         2        ADD_A2
+
+JP9      1        GND
+         2        MODEB3
+
+JP10     1        GND
+         2        MODEB2
+
+JP11     1        GND
+         2        MODEB1
+
+JP12     1        GND
+         2        MODEB0
+
+JP13     1        GND
+         2        ADR
+
+JP15     1        GND
+         2        AD0/SDO
+
+LOGO1   
+LOGO2   
+LOGO4   
+Q1       1        3.3V
+         2        SCL_3.3V
+         3        N$3
+
+Q4       1        3.3V
+         2        SDA_3.3V
+         3        N$4
+
+Q5       1        N$1
+         2        SERVO
+         3        5V
+
+Q6       1        5V
+         2        N$11
+         3        N$1
+         4        SERVO
+         5        N$11
+         6        N$11
+
+Q7       1        N$15
+         2        VIN-MTR
+         3        5V
+
+Q8       1        5V
+         2        N$16
+         3        N$15
+         4        VIN-MTR
+         5        N$16
+         6        N$16
+
+Q9       1        N$18
+         2        PI-5V
+         3        5V
+
+Q10      1        5V
+         2        N$19
+         3        N$18
+         4        PI-5V
+         5        N$19
+         6        N$19
+
+Q23      1        1.8V
+         2        SCL_1.8V
+         3        SCL_3.3V
+
+Q24      1        1.8V
+         2        SDA_1.8V
+         3        SDA_3.3V
+
+Q27      1        1.8V
+         2        !FSYNC_1.8V
+         3        !FSYNC_3.3V
+
+Q28      1        1.8V
+         2        INT_1.8V
+         3        IMU_INT_3.3V
+
+R1       1        N$4
+         2        5V
+
+R2       1        N$3
+         2        5V
+
+R3       1        SDA_OUT
+         2        3.3V
+
+R4       1        SCL_3.3V
+         2        N$2
+
+R5       1        SDA_3.3V
+         2        N$5
+
+R6       1        GND
+         2        CONFIG_OUT
+
+R7       1        GND
+         2        N$1
+
+R8       1        GND
+         2        N$11
+
+R9       1        GND
+         2        N$15
+
+R10      1        GND
+         2        CC2
+
+R11      1        GND
+         2        CC1
+
+R12      1        SCL_OUT
+         2        3.3V
+
+R13      1        GND
+         2        N$16
+
+R14      1        GND
+         2        N$18
+
+R15      1        GND
+         2        N$19
+
+R16      1        AD0/SDO
+         2        1.8V
+
+R17      1        ADD_A1
+         2        5V
+
+R18      1        ADD_A0
+         2        5V
+
+R19      1        ADD_A2
+         2        5V
+
+R22      1        !ENC_RST
+         2        3.3V
+
+R25      1        N$25
+         2        3.3V
+
+R26      1        VDDD1
+         2        3.3V
+
+R27      1        SLED
+         2        N$27
+
+R33      1        !ENC_INT
+         2        INT_R
+
+R37      1        ENC1A_RAW
+         2        3.3V
+
+R38      1        ENC1A_RAW
+         2        ENC1A_FILTERED
+
+R39      1        ENC1B_RAW
+         2        3.3V
+
+R40      1        ENC1B_FILTERED
+         2        ENC1B_RAW
+
+R41      1        ENC2A_RAW
+         2        3.3V
+
+R42      1        ENC2A_RAW
+         2        ENC2A_FILTERED
+
+R43      1        3.3V
+         2        ENC2B_RAW
+
+R44      1        ENC2B_FILTERED
+         2        ENC2B_RAW
+
+R45      1        SCL_1.8V
+         2        1.8V
+
+R47      1        SDA_1.8V
+         2        1.8V
+
+R53      1        !FSYNC_1.8V
+         2        1.8V
+
+R54      1        !FSYNC_3.3V
+         2        3.3V
+
+R55      1        INT_1.8V
+         2        1.8V
+
+R56      1        IMU_INT_3.3V
+         2        3.3V
+
+TP0      P$1      CH0
+
+TP1      P$1      CH1
+
+TP2      P$1      CH2
+
+TP3      P$1      CH3
+
+TP4      P$1      SCL_3.3V
+
+TP5      P$1      SDA_3.3V
+
+TP6      P$1      PI-5V
+
+TP7      P$1      P3.2
+
+TP8      P$1      P3.3
+
+TP9      P$1      1.8V
+
+TP10     P$1      IMU_INT_3.3V
+
+TP11     P$1      ENC2B_RAW
+
+TP12     P$1      ENC2A_RAW
+
+TP13     P$1      BOUT2
+
+TP14     P$1      BOUT1
+
+TP15     P$1      AOUT2
+
+TP16     P$1      AOUT1
+
+TP17     P$1      ENC1A_RAW
+
+TP18     P$1      ENC1B_RAW
+
+TP19     P$1      3.3V
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$85    
+U$103   
+U$104   
+U$105   
+U$106   
+U$107   
+U$108   
+U$109   
+U$110   
+U$111   
+U$122   
+U$123   
+U$124   
+U$125   
+U$126   
+U$127   
+U$128   
+U$129   
+U$130   
+U1       1        ADD_A0
+         2        ADD_A1
+         3        ADD_A2
+         4        GND
+         5        GND
+         6        CH0
+         7        CH1
+         8        CH2
+         9        CH3
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       GND
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       GND
+         24                *** unconnected ***
+         25       GND
+         26       N$3
+         27       N$4
+         28       5V
+
+U4       1        3.3V
+         2        ENC1A_FILTERED
+         3        ADR
+         4        !ENC_RST
+         5        ENC2B_FILTERED
+         6        ENC2A_FILTERED
+         7        SDA_3.3V
+         8        MISO
+         9        SCL_3.3V
+         10                *** unconnected ***
+         11       ENC1B_FILTERED
+         12                *** unconnected ***
+         13       !ENC_INT
+         14       GND
+
+U5       1        VIN-MTR
+         2        AOUT1
+         3        AOUT2
+         4        BOUT1
+         5        BOUT2
+         6        GND
+         7        P2.4
+         8        P2.3
+         9        P2.2
+         10       P2.1
+         11       P2.0
+         12       3.3V
+         PAD      GND
+
+U6       1        P2.0
+         2        P2.1
+         3        P2.2
+         4        P2.3
+         5        P2.4
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       CONFIG_OUT
+         11                *** unconnected ***
+         12       P3.2
+         13       P3.3
+         14       SLED
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       SCL_OUT
+         19       SDA_OUT
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22       MODEB0
+         23       MODEB1
+         24       MODEB2
+         25       MODEB3
+         26       SCL_3.3V
+         27       SDA_3.3V
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30       !MTR_RST
+         31       N$24
+         32       VDDD1
+         33       N$25
+         34       GND
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39                *** unconnected ***
+         40       N$26
+         EP       GND
+
+U7       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        1.8V
+         9        AD0/SDO
+         10       N$29
+         11       !FSYNC_1.8V
+         12       INT_1.8V
+         13       1.8V
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       GND
+         19                *** unconnected ***
+         20       GND
+         21                *** unconnected ***
+         22       1.8V
+         23       SCL_1.8V
+         24       SDA_1.8V
+
+U8       1        3.3V
+         2        GND
+         3        3.3V
+         4                 *** unconnected ***
+         5        1.8V
+

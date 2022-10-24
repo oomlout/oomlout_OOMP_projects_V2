@@ -1,0 +1,212 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        N$5
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C13      A        VREG
+         C        GND
+
+C14      A        3.3V
+         C        GND
+
+D5       A        RAIN
+         C        3.3V
+
+D6       A        GND
+         C        RAIN
+
+D7       A        WDIR
+         C        3.3V
+
+D8       A        GND
+         C        WDIR
+
+D9       A        WSPEED
+         C        3.3V
+
+D10      A        GND
+         C        WSPEED
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        SCL
+         2        SDA
+         3        3.3V
+         4        GND
+
+JP2      1        GND
+         2        SOIL_TEMP
+         3        3.3V
+
+JP3      1        GND
+         2        SOIL_MOIST
+         3        SOIL_MOIST_POWER
+
+JP4      1        TXO
+         2        RXI
+         3        GND
+         4        3.3V
+
+JP5-DNP  GND      GND
+         P$4      GND
+         VIN0     RAW
+         VIN1              *** unconnected ***
+
+JP6-DNP  1        GND
+         2        RAW
+
+JP7      1                 *** unconnected ***
+         2        RAIN2
+         3        N$4
+         4        N$11
+         5        RAIN5
+         6                 *** unconnected ***
+
+JP8      1                 *** unconnected ***
+         2        N$2
+         3        N$1
+         4        N$13
+         5        N$12
+         6                 *** unconnected ***
+
+JP9      1        PHOTON_VIN
+         2        GND
+         3        TXO
+         4        RXI
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       SOIL_MOIST
+         12       WDIR
+         13       SDA
+         14       SCL
+         15       RAIN
+         16       WSPEED
+         17       SOIL_TEMP
+         18       SOIL_MOIST_POWER
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21       GND
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       N$7
+         A0       WDIR
+         A1       SOIL_MOIST
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4                *** unconnected ***
+         A5                *** unconnected ***
+         D0       SDA
+         D1       SCL
+         D2       RAIN
+         D3       WSPEED
+         D4       SOIL_TEMP
+         D5       SOIL_MOIST_POWER
+         D6                *** unconnected ***
+         D7                *** unconnected ***
+         RX       RXI
+         TX       TXO
+         3V3      N$7
+         DAC               *** unconnected ***
+         RST               *** unconnected ***
+         VIN      PHOTON_VIN
+         WKP               *** unconnected ***
+         VBAT              *** unconnected ***
+         GND@0    GND
+         GND@2    GND
+
+LOGO1   
+LOGO2   
+R1       1        3.3V
+         2        SOIL_TEMP
+
+R2       1        SDA
+         2        N$6
+
+R3       1        SCL
+         2        N$3
+
+R11      1        RAIN
+         2        N$4
+
+R12      1        N$11
+         2        GND
+
+R13      1        WDIR
+         2        N$2
+
+R14      1        WSPEED
+         2        N$1
+
+R15      1        N$12
+         2        GND
+
+R16      1        N$13
+         2        GND
+
+R17      1        3.3V
+         2        WDIR
+
+SJ1      1        N$6
+         2        3.3V
+         3        N$3
+
+SJ2      1        PHOTON_VIN
+         2        RAW
+         3        VREG
+
+SJ3      1        N$7
+         2        3.3V
+
+U$1     
+U$3     
+U1       1        VREG
+         2        GND
+         3        VREG
+         4                 *** unconnected ***
+         5        3.3V
+
+U2       7        GND
+         GND      GND
+         SCK      SCL
+         VDD      3.3V
+         DATA     SDA
+         NC@1              *** unconnected ***
+         NC@6              *** unconnected ***
+
+U3       1        3.3V
+         2        N$5
+         3        GND
+         4        3.3V
+         5                 *** unconnected ***
+         6        INT-PRESSURE
+         7        SDA
+         8        SCL
+

@@ -1,0 +1,95 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 23:47
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$23
+         2        GND
+
+C2       1        N$24
+         2        GND
+
+C3       A        VDD
+         C        GND
+
+C4       1        VDD
+         2        GND
+
+IC1      1        RESET
+         2        N$24
+         3        N$23
+         4        VDD
+         5        I2C
+         6        A0
+         7        A1
+         8        NC
+         9        SCL
+         10       SDA
+         11       /IRQ
+         12       IO0
+         13       IO1
+         14       IO2
+         15       IO3
+         16       GND
+         17       IO4
+         18       IO5
+         19       IO6
+         20       IO7
+         21       /RTS
+         22       /CTS
+         23       TX
+         24       RX
+
+JP1     
+JP2      1        GND
+         2        RESET
+         3        RX
+         4        TX
+         5        /CTS
+         6        /RTS
+         7        IO7
+         8        IO6
+         9        IO5
+         10       IO4
+         11       IO3
+
+JP3     
+JP4      1        VIN
+         2        IO2
+         3        IO1
+         4        IO0
+         5        IRQ
+         6        SDA
+         7        SCL
+         8        NC
+         9        A1
+         10       A0
+         11       I2C
+
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+Q1       1        N$23
+         2                 *** unconnected ***
+         3        N$24
+         4                 *** unconnected ***
+
+R1       1        N$23
+         2        N$24
+
+R2       1        /IRQ
+         2        VDD
+
+R3       1        RESET
+         2        VDD
+
+U1       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        VDD
+

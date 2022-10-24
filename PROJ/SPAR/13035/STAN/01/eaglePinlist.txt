@@ -1,0 +1,209 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 17:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        C1P
+         2        C1N
+
+C3       1        C2P
+         2        C2N
+
+C4       1        1.8V
+         2        GND
+
+C5       1        VCOMH
+         2        GND
+
+C6       1        VSYS
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+FID4     1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+J1       1        GND
+         2        VSYS
+         3        USB_ID
+         4        VSYS
+         5        GND
+         6        VSYS
+         7        MSIC_SLP_CLK
+         8        3.3V
+         9        GND
+         10       3.3V
+         11       GND
+         12       1.8V
+         13       GND
+         14                *** unconnected ***
+         15       GND
+         16       USB_DP
+         17       PWRBTN#
+         18       USB_DN
+         19       FAULT
+         20       USB_VBUS
+         21       PSW
+         22       GP134_UART_2_RX
+         23       V_BAT_BKUP
+         24       GP44
+         25       GP165
+         26       GP45
+         27       GP135_UART_2_TX
+         28       GP46
+         29                *** unconnected ***
+         30       GP47
+         31       RCVR_MODE
+         32       GP48
+         33       GP13_PWM1
+         34       GP49
+         35       GP12_PWM0
+         36       RESET_OUT#
+         37       GP182_PWM2
+         38                *** unconnected ***
+         39       GP183_PWM3
+         40                *** unconnected ***
+         41       GP19_I2C_1_SCL
+         42       GP15
+         43       GP20_I2C_1_SDA
+         44       GP84_SD_CLK_FB
+         45       GP27_I2C_6_SCL
+         46       GP131_UART_1_TX
+         47       GP28_I2C_6_SDA
+         48       GP14
+         49                *** unconnected ***
+         50       GP42_I2S_2_RXD
+         51       GP111_SPI_2_FS1
+         52       GP40_I2S_2_CLK
+         53       GP110_SPI_2_FS0
+         54       GP41_I2S_2_FS
+         55       GP109_SPI_2_CLK
+         56       GP43_I2S_2_TXD
+         57       GP115_SPI_2_TXD
+         58       GP78_SD_0_CLK
+         59       GP114_SPI_2_RXD
+         60       GP77_SD_0_CD#
+         61       GP130_UART_1_RX
+         62       GP79_SD_0_CMD
+         63       GP129_UART_1_RTS
+         64       GP82_SD_0_DAT2
+         65       GP128_UART_1_CTS
+         66       GP80_SD_0_DAT0
+         67       OSC_CLK_OUT
+         68       GP83_SD_0_DAT3
+         69       FW_RCVR
+         70       GP81_SD_0_DAT1
+
+JP1      1        GND
+         2        VSYS
+
+LOGO2   
+LOGO3   
+OLED1    1        GND
+         2        C2P
+         3        C2N
+         4        C1P
+         5        C1N
+         6        VSYS
+         7        GND
+         8        1.8V
+         9        GND
+         10       GND
+         11       OLED_!CS!
+         12       GP15
+         13       GP14
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       GP109_SPI_2_CLK
+         17       GP115_SPI_2_TXD
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       IREF
+         25       VCOMH
+         26       VCC
+         27       GND
+         28       GND
+
+R1       1        GND
+         2        IREF
+
+R2       1        JOY_U
+         2        1.8V
+
+R3       1        JOY_D
+         2        1.8V
+
+R4       1        JOY_L
+         2        1.8V
+
+R5       1        JOY_R
+         2        1.8V
+
+R6       1        JOY_C
+         2        1.8V
+
+R7       1        BUT_A
+         2        1.8V
+
+R8       1        BUT_B
+         2        1.8V
+
+S1       A1                *** unconnected ***
+         A2       BUT_A
+         B1                *** unconnected ***
+         B2       GND
+
+S2       A1                *** unconnected ***
+         A2       BUT_B
+         B1                *** unconnected ***
+         B2       GND
+
+S3       A        JOY_U
+         B        JOY_R
+         C        JOY_L
+         D        JOY_D
+         NC                *** unconnected ***
+         CTR      JOY_C
+         GND      GND
+         NC@0              *** unconnected ***
+
+SJ1      1        BUT_B
+         2        GP46
+
+SJ2      1        GP110_SPI_2_FS0
+         2        OLED_!CS!
+         3        GP111_SPI_2_FS1
+
+SJ3      1        JOY_U
+         2        GP47
+
+SJ4      1        JOY_D
+         2        GP44
+
+SJ5      1        JOY_L
+         2        GP165
+
+SJ6      1        JOY_R
+         2        GP45
+
+SJ7      1        JOY_C
+         2        GP48
+
+SJ8      1        BUT_A
+         2        GP49
+

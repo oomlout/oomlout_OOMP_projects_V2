@@ -1,0 +1,826 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 18:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$48
+         2        N$49
+
+C2       1        N$17
+         2        VIN
+
+C3       1        5V
+         2        GND
+
+C4       1        VIN
+         2        GND
+
+C5       1        5V
+         2        GND
+
+C6       1        VIN
+         2        N$47
+
+C7       1        N$68
+         2        N$70
+
+C8       1        GND
+         2        N$26
+
+C9       1        N$78
+         2        GND
+
+C10      1        N$59
+         2        GND
+
+C11      1        N$72
+         2        GND
+
+C12      1        N$11
+         2        GND
+
+C13      1        N$12
+         2        GND
+
+C14      +        VIN
+         -        GND
+
+C15      1        N$14
+         2        GND
+
+C16      1        N$24
+         2        N$25
+
+C17      1        VIN
+         2        N$67
+
+C18      1        GND
+         2        N$38
+
+C19      1        N$92
+         2        GND
+
+C20      1        N$96
+         2        GND
+
+C21      1        N$28
+         2        GND
+
+C22      1        N$29
+         2        GND
+
+C23      +        VIN
+         -        GND
+
+C24      1        5V
+         2        GND
+
+C25      +        VIN
+         -        GND
+
+C26      +        VIN
+         -        GND
+
+C27      1        N$85
+         2        N$86
+
+C28      1        VIN
+         2        N$84
+
+C29      1        GND
+         2        N$80
+
+C30      1        N$91
+         2        GND
+
+C31      1        N$93
+         2        GND
+
+C32      1        N$30
+         2        GND
+
+C33      1        N$73
+         2        GND
+
+C34      1        N$74
+         2        GND
+
+C35      +        VIN
+         -        GND
+
+C36      1        N$75
+         2        GND
+
+C37      1        5V
+         2        GND
+
+C38      +        VIN
+         -        GND
+
+C39      1        5V
+         2        GND
+
+C40      +        5V
+         -        GND
+
+C41      +        VIN
+         -        GND
+
+C42      1        VCC
+         2        GND
+
+C43      1        VIN
+         2        GND
+
+C44      1        5V
+         2        GND
+
+C45      1        VIN
+         2        GND
+
+C46      1        VIN
+         2        GND
+
+C47      1        N$98
+         2        GND
+
+C50      1        GND
+         2        5V
+
+C51      1        GND
+         2        AREF
+
+C52      1        RESET
+         2        DTR
+
+C53      1        VCC_USB
+         2        GND
+
+C54      1        X_LIM
+         2        GND
+
+C55      1        Y_LIM
+         2        GND
+
+C56      1        Z_LIM
+         2        GND
+
+C57      1        PROBE
+         2        GND
+
+C58      1        ESTOP
+         2        GND
+
+D1       A        N$3
+         C        N$32
+
+D2       A        N$2
+         C        N$33
+
+D3       A        N$17
+         C        N$41
+
+D4       A        N$20
+         C        GND
+
+D5       A        N$19
+         C        GND
+
+D6       A        N$18
+         C        GND
+
+D7       A        N$5
+         C        GND
+
+D8       A        N$36
+         C        GND
+
+D9       A        N$31
+         C        GND
+
+D10      A        N$22
+         C        GND
+
+D11      A        N$13
+         C        PROBE
+
+D12      A        N$64
+         C        GND
+
+D13      A        N$63
+         C        GND
+
+D14      A        N$40
+         C        GND
+
+D15      A        N$16
+         C        GND
+
+D16      A        N$51
+         C        5V
+
+D17      A        N$97
+         C        N$70
+
+D18      A        N$62
+         C        GND
+
+F1       1        VCC_USB
+         2        N$51
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+J1       1        MISO-D12-LIMIT-Z
+         2        5V
+         3        SCK-D13-SPINDLE_DIR
+         4        MOSI-D11-SPINDLE_PWM
+         5        RESET
+         6        GND
+
+JP1      1        N$4
+         2        N$7
+
+JP2      1        VIN
+         2        5V
+         3        VIN
+         4        ESTOP-LOGIC
+         5        VCC
+         6        A0-RESET/ABORT
+         7        VCC
+         8        A1-FEED_HOLD
+         9        GND
+         10       A2-CYCLE_START/RESUME
+         11       GND
+         12       A3-COOLANT_ENABLE
+         13       GND
+         14       A4
+         15       GND
+         16       A5-PROBE
+         17       GND
+         18       RESET
+         19       AREF
+         20       GND
+         21       RXI
+         22       TXO
+         23       A7
+         24       A6
+         25       SCK-D13-SPINDLE_DIR
+         26       MOSI-D11-SPINDLE_PWM
+
+JP3      1        N$4
+         2        N$42
+
+JP4      1        N$4
+         2        N$43
+
+JP5      D+       D+
+         D-       D-
+         S1                *** unconnected ***
+         S2                *** unconnected ***
+         GND      GND
+         VBUS     VCC_USB
+
+JP6      GND      N$17
+         PWR      VIN
+         GNDBREAK          *** unconnected ***
+
+JP8      1        GND
+         2        N$53
+
+JP9      1        GND
+         2        N$57
+
+JP15     1        GND
+         2        VCC
+
+JP19     1        GND
+         2        GND
+         3        5V
+         4        VIN
+         5        VIN
+         6        STEP_ENABLE
+         7        D2-STEP-X
+         8        D3-STEP-Y
+         9        D4-STEP-Z
+         10       D7-DIR-Z
+         11       D6-DIR-Y
+         12       D5-DIR-X
+
+L1       P$1      N$70
+         P$2      5V
+
+LOGO1   
+LOGO2   
+LOGO3   
+POT1     1        N$10
+         2        N$94
+         3        N$9
+
+POT2     1        N$46
+         2        N$27
+         3        N$45
+
+POT3     1        N$83
+         2        N$81
+         3        N$82
+
+Q1       1        N$8
+         2        GND
+         3        N$6
+
+Q2       1        N$39
+         2        N$17
+         3        GND
+
+R1       1        GND
+         2        N$10
+
+R2       1        GND
+         2        N$72
+
+R3       1        GND
+         2        N$59
+
+R4       1        GND
+         2        N$11
+
+R5       1        GND
+         2        N$12
+
+R6       1        RESET
+         2        5V
+
+R7       1        N$14
+         2        5V
+
+R8       1        GND
+         2        N$14
+
+R9       1        N$2
+         2        5V
+
+R10      1        GND
+         2        N$96
+
+R11      1        GND
+         2        N$92
+
+R12      1        GND
+         2        N$28
+
+R13      1        GND
+         2        N$29
+
+R14      1        N$30
+         2        5V
+
+R15      1        GND
+         2        N$30
+
+R16      1        N$45
+         2        5V
+
+R17      1        GND
+         2        N$46
+
+R18      1        N$3
+         2        5V
+
+R19      1        GND
+         2        N$93
+
+R20      1        GND
+         2        N$91
+
+R21      1        GND
+         2        N$73
+
+R22      1        GND
+         2        N$74
+
+R23      1        N$75
+         2        5V
+
+R24      1        GND
+         2        N$75
+
+R25      1        N$82
+         2        5V
+
+R26      1        GND
+         2        N$83
+
+R27      1        N$95
+         2        N$42
+
+R28      1        N$95
+         2        N$43
+
+R29      1        5V
+         2        N$53
+
+R30      1        N$7
+         2        X_LIM
+
+R31      1        N$18
+         2        D9-LIM-X
+
+R32      1        N$19
+         2        D5-DIR-X
+
+R33      1        N$42
+         2        Y_LIM
+
+R34      1        N$43
+         2        Z_LIM
+
+R35      1        5V
+         2        N$57
+
+R36      1        N$53
+         2        PROBE
+
+R37      1        N$9
+         2        5V
+
+R38      1        N$95
+         2        N$7
+
+R39      1        N$20
+         2        D2-STEP-X
+
+R40      1        N$5
+         2        ESTOP-LOGIC
+
+R41      1        N$22
+         2        D10-LIM-Y
+
+R42      1        N$31
+         2        D6-DIR-Y
+
+R43      1        N$36
+         2        D3-STEP-Y
+
+R44      1        N$13
+         2        5V
+
+R45      1        N$40
+         2        MISO-D12-LIMIT-Z
+
+R46      1        N$63
+         2        D7-DIR-Z
+
+R47      1        N$64
+         2        D4-STEP-Z
+
+R48      1        N$57
+         2        ESTOP
+
+R49      1        N$16
+         2        STEP-EN_LED
+
+R50      1        VIN
+         2        N$39
+
+R51      1        VIN
+         2        N$41
+
+R52      1        N$21
+         2        GND
+
+R53      1        N$21
+         2        5V
+
+R54      1        GND
+         2        N$97
+
+R55      1        N$66
+         2        VIN
+
+R56      1        VIN
+         2        N$62
+
+R57      1        TXO
+         2        N$65
+
+R58      1        RXI
+         2        N$1
+
+S1       1        N$35
+         2        N$34
+         3        5V
+         4        5V
+
+S2       1        N$23
+         2        N$15
+         3        5V
+         4        5V
+
+S3       1        N$77
+         2        N$76
+         3        5V
+         4        5V
+
+S4       1        GND
+         2                 *** unconnected ***
+         3        RESET
+         4                 *** unconnected ***
+
+S5       1        5V
+         2        N$95
+         3        GND
+         4        GND
+         5        N$4
+         6        5V
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U1       1        D3-STEP-Y
+         2        D4-STEP-Z
+         3        GND
+         4        5V
+         5        GND
+         6        5V
+         7        N$8
+         8        N$6
+         9        D5-DIR-X
+         10       D6-DIR-Y
+         11       D7-DIR-Z
+         12       D8-STEP_EN
+         13       D9-LIM-X
+         14       D10-LIM-Y
+         15       MOSI-D11-SPINDLE_PWM
+         16       MISO-D12-LIMIT-Z
+         17       SCK-D13-SPINDLE_DIR
+         18       5V
+         19       A6
+         20       AREF
+         21       GND
+         22       A7
+         23       A0-RESET/ABORT
+         24       A1-FEED_HOLD
+         25       A2-CYCLE_START/RESUME
+         26       A3-COOLANT_ENABLE
+         27       A4
+         28       A5-PROBE
+         29       RESET
+         30       RXI
+         31       TXO
+         32       D2-STEP-X
+
+U2       1        N$1
+         2        DTR
+         3                 *** unconnected ***
+         4        VCC_USB
+         5        N$65
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       D+
+         16       D-
+         17       N$98
+         18       GND
+         19                *** unconnected ***
+         20       VCC_USB
+         21       GND
+         22       N$33
+         23       N$32
+         24                *** unconnected ***
+         25       GND
+         26       GND
+         27                *** unconnected ***
+         28                *** unconnected ***
+
+U3       1                 *** unconnected ***
+         2        STEP_ENABLE
+         3        GND
+         4        STEP-EN_LED
+         5        5V
+
+U4       1        VIN
+         2        N$66
+         3                 *** unconnected ***
+         4        N$78
+         5        GND
+         6        N$21
+         7        GND
+         8        N$97
+         9        N$70
+         10       N$68
+         PAD      GND
+
+U5       1        N$96
+         2                 *** unconnected ***
+         3        D5-DIR-X
+         4        N$71
+         5        N$30
+         6        N$28
+         7        GND
+         8        N$94
+         9        N$29
+         10       5V
+         11       N$37
+         12       N$35
+         13       N$34
+         14       N$92
+         15       VIN
+         16       GND
+         17       5V
+         18       N$69
+         19       D2-STEP-X
+         20       N$38
+         21       GND
+         22       N$67
+         23       N$25
+         24       N$24
+         25       N$79
+         26       STEP_ENABLE
+         27       5V
+         28       VIN
+         GND@10   GND
+         GND@11   GND
+         GND@12   GND
+         GND@13   GND
+         GND@14   GND
+         GND@15   GND
+         GND@16   GND
+         GND@17   GND
+         GND@18   GND
+         GND@19   GND
+         GND@20   GND
+         GND@21   GND
+         GND@22   GND
+         GND@23   GND
+         GND@24   GND
+         GND@25   GND
+         GND@26   GND
+         GND@27   GND
+         GND@28   GND
+         GND@29   GND
+         GND@30   GND
+         GND@PAD  GND
+
+U6       1        X_LIM
+         2        D9-LIM-X
+         3        Y_LIM
+         4        D10-LIM-Y
+         5        Z_LIM
+         6        MISO-D12-LIMIT-Z
+         7        GND
+         8        A5-PROBE
+         9        PROBE
+         10       ESTOP-LOGIC
+         11       ESTOP
+         12                *** unconnected ***
+         13       GND
+         14       5V
+
+U7       1        D8-STEP_EN
+         2        ESTOP-LOGIC
+         3        GND
+         4        STEP_ENABLE
+         5        5V
+
+U8       1        N$72
+         2                 *** unconnected ***
+         3        D6-DIR-Y
+         4        N$56
+         5        N$14
+         6        N$11
+         7        GND
+         8        N$27
+         9        N$12
+         10       5V
+         11       N$50
+         12       N$23
+         13       N$15
+         14       N$59
+         15       VIN
+         16       GND
+         17       5V
+         18       N$55
+         19       D3-STEP-Y
+         20       N$26
+         21       GND
+         22       N$47
+         23       N$49
+         24       N$48
+         25       N$58
+         26       STEP_ENABLE
+         27       5V
+         28       VIN
+         GND@10   GND
+         GND@11   GND
+         GND@12   GND
+         GND@13   GND
+         GND@14   GND
+         GND@15   GND
+         GND@16   GND
+         GND@17   GND
+         GND@18   GND
+         GND@19   GND
+         GND@20   GND
+         GND@21   GND
+         GND@22   GND
+         GND@23   GND
+         GND@24   GND
+         GND@25   GND
+         GND@26   GND
+         GND@27   GND
+         GND@28   GND
+         GND@29   GND
+         GND@30   GND
+         GND@PAD  GND
+
+U9       1        N$93
+         2                 *** unconnected ***
+         3        D7-DIR-Z
+         4        N$89
+         5        N$75
+         6        N$73
+         7        GND
+         8        N$81
+         9        N$74
+         10       5V
+         11       N$87
+         12       N$77
+         13       N$76
+         14       N$91
+         15       VIN
+         16       GND
+         17       5V
+         18       N$88
+         19       D4-STEP-Z
+         20       N$80
+         21       GND
+         22       N$84
+         23       N$86
+         24       N$85
+         25       N$90
+         26       STEP_ENABLE
+         27       5V
+         28       VIN
+         GND@10   GND
+         GND@11   GND
+         GND@12   GND
+         GND@13   GND
+         GND@14   GND
+         GND@15   GND
+         GND@16   GND
+         GND@17   GND
+         GND@18   GND
+         GND@19   GND
+         GND@20   GND
+         GND@21   GND
+         GND@22   GND
+         GND@23   GND
+         GND@24   GND
+         GND@25   GND
+         GND@26   GND
+         GND@27   GND
+         GND@28   GND
+         GND@29   GND
+         GND@30   GND
+         GND@PAD  GND
+
+U10      1        VIN
+         2        VCC
+         3        GND
+
+VIN      1        N$17
+         2        VIN
+
+X-A      1        N$71
+         2        N$79
+
+X-B      1        N$37
+         2        N$69
+
+Y-A      1        N$56
+         2        N$58
+
+Y-B      1        N$50
+         2        N$55
+
+Z-A      1        N$89
+         2        N$90
+
+Z-B      1        N$87
+         2        N$88
+

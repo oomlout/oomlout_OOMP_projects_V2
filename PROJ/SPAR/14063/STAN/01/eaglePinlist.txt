@@ -1,0 +1,217 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 23:16
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+$1_61_$_2016-09-25_21-56-09
+BAT1     +1       BATT3V
+         +2       BATT3V
+         -3       GND
+
+C1       1        GND
+         2        X1
+
+C2       1        GND
+         2        X2
+
+C3       1        !RST!1
+         2        GND
+
+C4       1        VDD
+         2        GND
+
+D1       1        R
+         2        G
+         3        B
+         4        VDD
+
+D2       A        N$1
+         C        VDD
+
+D3       A        SEWTAP3
+         C        N$2
+
+D4       A        SEWTAP3
+         C        N$3
+
+D5       A        SEWTAP4
+         C        N$4
+
+D6       A        SEWTAP4
+         C        N$5
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+JP1      D+       USB_P
+         D-       USB_N
+         ID                *** unconnected ***
+         P1                *** unconnected ***
+         P2                *** unconnected ***
+         P3                *** unconnected ***
+         GND      GND
+         VBUS     USB5V
+
+JP2      1        USB5V
+
+JP3      P$1      !RED!/SWDCLK
+
+JP4      P$1      GND
+
+JP5      P$1               *** unconnected ***
+
+JP6      P$1      VDD
+
+JP7      P$1      !BLUE!/SWDIO
+
+JP8      P$1      !RST!
+
+JP9      P$1      BATT3V
+
+JP12     1        SEWTAP2
+
+JP13     1        GND
+
+JP20     1        SEWTAP3
+
+JP21     1        GND
+
+JP22     1        SEWTAP3
+
+JP23     1        GND
+
+JP24     1        SEWTAP4
+
+JP25     1        GND
+
+JP26     1        SEWTAP4
+
+JP27     1        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+Q1       1        USB5V
+         2        VDD
+         3        BATT3V
+
+R1       1        GND
+         2        USB5V
+
+R2       1        !BLUE!/SWDIO
+         2        B
+
+R3       1        !GREEN!
+         2        G
+
+R4       1        !RED!/SWDCLK
+         2        R
+
+R5       1        !RST!1
+         2        !RST!
+
+R6       1        GND
+         2        SEWTAP1
+
+R7       1        GND
+         2        N$2
+
+R8       1        GND
+         2        N$3
+
+R9       1        GND
+         2        N$4
+
+R10      1        GND
+         2        N$5
+
+S1       1        BUTTON
+         2        BUTTON
+         3        GND
+         4        GND
+
+S2       1        SEWTAP2
+         2        SEWTAP2
+         3        GND
+         4        GND
+
+SEWTAP+  1        SEWTAP+
+
+SEWTAP-  1        GND
+
+SEWTAP1  1        SEWTAP1
+
+SEWTAP2  1        SEWTAP2
+
+SEWTAP3  1        SEWTAP3
+
+SEWTAP4  1        SEWTAP4
+
+SEWTAPLS+ 1        SEWTAP+
+
+SEWTAPLS- 1        GND
+
+SEWTAPLSOUT 1        SEWTAP1
+
+SJ1      1        BUTTON
+         2        !RST!
+
+ST1     
+ST2     
+ST3     
+U$1     
+U$2     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U1       1        SEWTAP+
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        BUTTON
+         5        SEWTAP4
+         6        SEWTAP3
+         7        X1
+         8        X2
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       SEWTAP1
+         12       SEWTAP2
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       !GREEN!
+         18       !RST!1
+         19       !RED!/SWDCLK
+         20       !BLUE!/SWDIO
+         21       USB_N
+         22       USB_P
+         23       GND
+         24       VDD
+         EP                *** unconnected ***
+
+U2       1        USB5V
+         2        GND
+         3        USB5V
+         4                 *** unconnected ***
+         5        N$1
+
+U3       C        SEWTAP+
+         E        SEWTAP1
+
+Y1       P$1      X2
+         P$2      X1
+

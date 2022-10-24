@@ -1,0 +1,153 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 18:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        N$3
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+D1       A        N$5
+         C        GND
+
+D2       A        N$6
+         C        GND
+
+D3       A        VBAT
+         C        N$3
+
+D4       A        CTS_3V
+         C        CTS_5V
+
+D5       A        RXD_3V
+         C        RXD_5V
+
+D6       A        MODE_3V
+         C        MODE_5V
+
+D7       A        DFU_3V
+         C        DFU_5V
+
+D8       A        VIN
+         C        N$3
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        DFU_5V
+         2        GND
+         3        RTS_O
+         4        VIN
+         5        RXD_5V
+         6        TX_O
+         7        CTS_5V
+         8        MODE_5V
+
+R1       1        MODE_LED
+         2        N$5
+
+R2       1        CONNECTED_LED
+         2        N$6
+
+R3       1        CTS_3V
+         2        3.3V
+
+R4       1        RXD_3V
+         2        3.3V
+
+R7       1        MODE_5V
+         2        N$4
+
+SW1      O1                *** unconnected ***
+         O2       3.3V
+         P1                *** unconnected ***
+         P2       N$4
+         S1                *** unconnected ***
+         S2       GND
+
+TP1      P$1      SWCLK
+
+TP2      P$1      SWDIO/RST_3V
+
+TP3      P$1      FCTRYRST_3V
+
+U$9     
+U$24    
+U$25    
+U$26    
+U$28     P$1               *** unconnected ***
+
+U$29     P$1               *** unconnected ***
+
+U1       1        GND
+         2        GND
+         3        3.3V
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        N$1
+         10       N$2
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       GND
+         14       3.3V
+         15       DCC
+         16       GND
+         17                *** unconnected ***
+         18       MODE_3V
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       DFU_3V
+         25       GND
+         26       RTS_O
+         27       TX_O
+         28       CTS_3V
+         29       RXD_3V
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33                *** unconnected ***
+         34       FCTRYRST_3V
+         35       SWDIO/RST_3V
+         36       SWCLK
+         37                *** unconnected ***
+         38       MODE_LED
+         39       CONNECTED_LED
+         40                *** unconnected ***
+         41       DEC2
+         42       GND
+
+U2       1        N$3
+         2        GND
+         3        N$3
+         4                 *** unconnected ***
+         5        3.3V
+
+VTREF    P$1      3.3V
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+Y1       1        N$1
+         2        N$2
+         CYLINDER          *** unconnected ***
+

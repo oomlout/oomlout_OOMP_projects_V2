@@ -1,0 +1,296 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 02:43
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCCIO
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        VOUTL
+         2        AC-L
+
+C4       1        5V
+         2        GND
+
+C5       1        GND
+         2        N$8
+
+C6       1        VOUTR
+         2        AC-R
+
+C7       1        VOUTL
+         2        N$9
+
+C8       1        VOUTR
+         2        N$5
+
+C9       1        VCCIO
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+D1       A        N$3
+         C        GND
+
+FRAME1  
+J1       CS                *** unconnected ***
+         DI       SD_CMD
+         DO       SD_DAT
+         CD1      GND
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      VCCIO
+         GND1              *** unconnected ***
+         GND3              *** unconnected ***
+         RSV1              *** unconnected ***
+         RSV2              *** unconnected ***
+         SCLK     SD_CLK
+
+J2       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+
+J4       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       1        !INT
+
+J7       1        TRIGGER1
+         2        3.3V
+         3        SCL
+         4        SDA
+         5        !RST
+         6        GND
+
+J8       TIP      AC-R
+         EARTH    GND
+         RING1    AC-L
+         RING2    GND
+
+J9       P1       OUT+
+         P2       OUT-
+         P3       OUT+
+         P4       OUT-
+
+J10      1        !RST
+
+J11      1        GND
+         2        GND
+         3        GND
+         4        GND
+
+J12      1        TRIGGER4
+         2        TRIGGER3
+         3        TRIGGER2
+         4        TRIGGER1
+
+J15      A5       N$2
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       N$1
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    GND
+         SHLD2    GND
+         SHLD3    GND
+         SHLD4    GND
+         SHLD5    GND
+         SHLD6    GND
+         SHLD7    GND
+         SHLD8    GND
+         VBUS1    5V
+         VBUS2    5V
+
+JP1      1                 *** unconnected ***
+
+JP2      1                 *** unconnected ***
+
+JP3     
+JP4     
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+JP7      1        GND
+         2        ADR
+
+JP8      1        N$4
+         2        3.3V
+
+JP9      1        SCL_PU1
+         2        3.3V
+         3        SDA_PU1
+
+JP10     1        GND
+         2        AC-R
+         3        AC-L
+
+JP11    
+JP12     1        OUT+
+         2        OUT-
+
+JP13    
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        ADKEY
+         2        VCCIO
+
+R2       1        SCL
+         2        SCL_PU1
+
+R3       1        N$3
+         2        3.3V
+
+R4       1        GND
+         2        SD_CLK
+
+R5       1        N$9
+         2        IN-AMP
+
+R6       1        SDA
+         2        SDA_PU1
+
+R7       1        !INT
+         2        N$4
+
+R8       1        !RST
+         2        3.3V
+
+R9       1        N$5
+         2        IN-AMP
+
+R10      1        PLAYING
+         2        3.3V
+
+R11      1        N$8
+         2        IN+AMP
+
+R13      1        GND
+         2        N$1
+
+R14      1        GND
+         2        N$2
+
+U$1     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$49    
+U$50    
+U1       1        PLAYING
+         2                 *** unconnected ***
+         3        IN+AMP
+         4        IN-AMP
+         5        OUT+
+         6        3.3V
+         7        GND
+         8        OUT-
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+
+U2       1        VOUTL
+         2        VOUTR
+         3        GND
+         4        VCCIO
+         5        3.3V
+         6        GND
+         7        !SDN
+         8        SD_DAT
+         9        SD_CLK
+         10       SD_CMD
+         11       D-
+         12       D+
+         13       ADKEY
+         14       PLAYING
+         15       MP3-RXI
+         16       MP3-TXO
+
+U3       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        3.3V
+         2        TRIGGER2
+         3        ADR
+         4        !RST
+         5        TRIGGER3
+         6        !INT
+         7        SDA
+         8        TRIGGER1
+         9        SCL
+         10       TRIGGER4
+         11       PLAYING
+         12       MP3-TXO
+         13       MP3-RXI
+         14       GND
+

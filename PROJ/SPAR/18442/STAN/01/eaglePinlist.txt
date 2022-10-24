@@ -1,0 +1,697 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 19:26
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BT1     
+C1       1        ANT_VCC
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        GND
+         2        3.3V
+
+C6       1        VOUT
+         2        GND
+
+C7       1        GND
+         2        3.3V
+
+C8       1        V_BATT
+         2        GND
+
+C9       1        V_RAW
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        ESP32_EN
+         2        GND
+
+C13      1        3.3V
+         2        GND
+
+C14      1        3.3V
+         2        GND
+
+C15      1        V_BATT
+         2        GND
+
+C16      1        3.3V
+         2        GND
+
+C17      1        V_BATT
+         2        GND
+
+C18      1        V_BKCP
+         2        GND
+
+C19      1        3.3V
+         2        GND
+
+C20      1        VOUT
+         2        ESP_27/FAST_OFF
+
+C21      1        ESP_14/SETUP_BUTTON
+         2        GND
+
+C22      1        N$15
+         2        V_RAW
+
+C23      1        POWER_BTN
+         2        N$15
+
+C28      1        3.3V
+         2        GND
+
+D1       A        ESP_13/POWER_CTRL
+         C        POWER_BTN
+
+D2       1        ESP_D1-
+         2        GND
+         3        ESP_D1+
+         4        D+1
+         5        V_USB
+         6        D-1
+
+D3       A        V_USB
+         C        V_RAW
+
+D6       1        UNP_D-
+         2        GND
+         3        UNP_D+
+         4        D+
+         5        V_USB
+         6        D-
+
+D7       A        V_BATT
+         C        V_RAW
+
+D9       A        N$32
+         C        V_USB
+
+D10      1        GPS_ANT1
+         2        GND
+
+E1       SIG      GPS_ANT1
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+
+FB1      1        GPS_ANT1
+         2        ANT_VCC
+
+FRAME2  
+FRAME3  
+J1       1        GND
+         2        ZED_FENCE_STAT
+         3        ZED_RTK_STAT
+         4        3.3V
+
+J2       1        3.3V
+         2        EXTERNAL_DATA_OUT
+         3        EXTERNAL_DATA_IN
+         4        GND
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       A5       CC4
+         A6       ESP_D1+
+         A7       ESP_D1-
+         A8                *** unconnected ***
+         B5       CC3
+         B6       ESP_D1+
+         B7       ESP_D1-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    GND
+         SHLD2    GND
+         SHLD3    GND
+         SHLD4    GND
+         VBUS1    N$32
+         VBUS2    N$32
+
+J4       1        GND
+         2        3.3V
+         3        ESP_21/SDA
+         4        ESP_22/SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       A5       CC1
+         A6       UNP_D+
+         A7       UNP_D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       UNP_D+
+         B7       UNP_D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    GND
+         SHLD2    GND
+         SHLD3    GND
+         SHLD4    GND
+         VBUS1    N$4
+         VBUS2    N$4
+
+J6       1        ESP_I34/ZED_TX_READY
+         2        ZED_D_SEL
+         3        ZED_!RESET!
+         4        ZED_!SAFE!
+         5        ZED_PPS_STAT
+
+J7       1        GND
+         2        CHG_LED_RES
+         3        ESP_14/SETUP_BUTTON
+         4        POWER_BTN
+
+J8       1        GND
+         2        LIPO_RAW
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J9       1        VOUT
+         2        ZED-TXO2
+         3        ZED-RXI2
+         4        GND
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J10      1        V_BATT
+         2        GND
+
+J11      1        GND
+         2        ZED-RXI2
+         3        ZED-TXO2
+         4        VOUT
+
+J12      1        GND
+         2        EXTERNAL_DATA_IN
+         3        EXTERNAL_DATA_OUT
+         4        3.3V
+
+J13      1        GND
+         2        3.3V
+         3        ESP_21/SDA
+         4        ESP_22/SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J14      1        ESP32_EN
+         2        GND
+
+J15      1        ESP_I16/ZED-TXO1
+         2        ESP_O17/ZED-RXI1
+
+J17      1        GND
+         2        3.3V
+         3        ESP_21/SDA
+         4        ESP_22/SCL
+
+J18      1        ESP_4/ACCEL_INT
+
+J19      1                 *** unconnected ***
+         2        ESP_25/SD_!CS!
+         3        ESP_23/COPI
+         4        3.3V
+         5        ESP_18/SCK
+         6        GND
+         7        ESP_19/CIPO
+         8                 *** unconnected ***
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+
+JP1      1        ESP_4/ACCEL_INT
+         2        POWER_BTN
+
+JP2      1        V_USB
+         2        CHG_LED_RES
+         3                 *** unconnected ***
+         4        ESP_14/SETUP_BUTTON
+         5        POWER_BTN
+         6        GND
+
+JP21     1                 *** unconnected ***
+
+JP61     1                 *** unconnected ***
+
+JP71     1                 *** unconnected ***
+
+JP81     1                 *** unconnected ***
+
+LOGO1   
+LOGO2   
+LOGO3   
+MEAS     1        N$4
+         2        V_USB
+         3        N$4
+         4        V_USB
+
+MEAS1    1        LIPO_RAW
+         2        V_BATT
+         3        LIPO_RAW
+         4        V_BATT
+
+Q1       D1       N$15
+         D2       VOUT
+         G1       ESP_27/FAST_OFF
+         G2       N$15
+         S1       GND
+         S2       V_RAW
+
+Q2       1        ESP32_!DTR
+         2        N$25
+         3        ESP32_EN
+         4        ESP32_!RTS
+         5        N$24
+         6        ESP_0/BOOT
+
+R1       1        CHG_LED_RES
+         2        CHG_LED
+
+R2       P1       SCL_LV
+         P2       SDA_LV
+         P3       RXLV
+         P4       TXLV
+         P5       ESP_I16/ZED-TXO1
+         P6       ESP_O17/ZED-RXI1
+         P7       ESP_21/SDA
+         P8       ESP_22/SCL
+
+R3       P1       ZED_!SAFE!_LV
+         P2       ZED_!RESET!_LV
+         P3       ZED_D_SEL_LV
+         P4       ESP_26/ZED_TX_READY_LV
+         P5       ESP_I34/ZED_TX_READY
+         P6       ZED_D_SEL
+         P7       ZED_!RESET!
+         P8       ZED_!SAFE!
+
+R4       P1       TX2_LV
+         P2       RX2_LV
+         P3       RTK_LV
+         P4       FENCE_LV
+         P5       ZED_FENCE_STAT
+         P6       ZED_RTK_STAT
+         P7       ZED-RXI2
+         P8       ZED-TXO2
+
+R5       1        N$5
+         2        CHG_THERM1
+
+R6       1        GND
+         2        CHG_THERM1
+
+R7       1        GND
+         2        PROG1
+
+R9       P1       PPS
+         P2       EXTINT_LV
+         P3                *** unconnected ***
+         P4                *** unconnected ***
+         P5                *** unconnected ***
+         P6                *** unconnected ***
+         P7       ZED_EXTINT
+         P8       ZED_PPS_STAT
+
+R13      1        ESP_25/SD_!CS!
+         2        3.3V
+
+R14      1        ANT_VCC
+         2        N$13
+
+R15      1        GND
+         2        3.3V
+
+R16      1        GND
+         2        CC2
+
+R17      1        GND
+         2        CC1
+
+R19      1        N$6
+         2        ESP_O17/ZED-RXI1
+
+R20      1        ESP32_EN
+         2        3.3V
+
+R22      1        ESP_13/POWER_CTRL
+         2        VOUT
+
+R23      1        ESP32_!DTR
+         2        N$24
+
+R24      1        ESP_27/FAST_OFF
+         2        ESP_13/POWER_CTRL
+
+R26      1        N$15
+         2        V_RAW
+
+R27      1        D+
+         2        N$11
+
+R28      1        D-
+         2        N$12
+
+R29      1        ESP32_!RTS
+         2        N$25
+
+R30      1        GND
+         2        CHG_THERM1
+
+R31      1        POWER_BTN
+         2        V_RAW
+
+R33      1        GND
+         2        ESP_I35/DEVICE_SENSE
+
+R34      1        ESP_I35/DEVICE_SENSE
+         2        3.3V
+
+R37      1        GND
+         2        CC3
+
+R38      1        GND
+         2        CC4
+
+S1       1        POWER_BTN
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$23    
+U$24    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$53    
+U$55    
+U$56    
+U$60    
+U$65    
+U$66    
+U$67    
+U$68    
+U$70    
+U$72    
+U$74    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$93    
+U1       1        ESP_O17/ZED-RXI1
+         2        ESP_21/SDA
+         3        EXTERNAL_DATA_IN
+         4        ESP_I39/ADC39
+         5        ZED_EXTINT
+         6        GND
+         7        GND
+         8        GND
+         9        ESP_4/MUX_B
+         10       ESP_2/MUX_A
+         11       ESP_26/DAC2
+         12       ESP_I16/ZED-TXO1
+         13       EXTERNAL_DATA_OUT
+         14       ZED_PPS_STAT
+         15       ESP_22/SCL
+         16       3.3V
+
+U2       1        VOUT
+         2        GND
+         3        VOUT
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       1        GND
+         2        GPS_ANT1
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        N$13
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       GND
+         13                *** unconnected ***
+         14       GND
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       FENCE_LV
+         20       RTK_LV
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26       RX2_LV
+         27       TX2_LV
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32       GND
+         33       3.3V
+         34       3.3V
+         35                *** unconnected ***
+         36       V_BKCP
+         37       GND
+         38       3.3V
+         39       N$12
+         40       N$11
+         41       GND
+         42       TXLV
+         43       RXLV
+         44       SDA_LV
+         45       SCL_LV
+         46       ESP_26/ZED_TX_READY_LV
+         47       ZED_D_SEL_LV
+         48       GND
+         49       ZED_!RESET!_LV
+         50       ZED_!SAFE!_LV
+         51       EXTINT_LV
+         52                *** unconnected ***
+         53       PPS
+         54                *** unconnected ***
+         55       GND
+         56       GND
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+         62       GND
+         63       GND
+         64       GND
+         65       GND
+         66       GND
+         67       GND
+         68       GND
+         69       GND
+         70       GND
+         71       GND
+         72       GND
+         73       GND
+         74       GND
+         75       GND
+         76       GND
+         77       GND
+         78       GND
+         79       GND
+         80       GND
+         81       GND
+         82       GND
+         83       GND
+         84       GND
+         85       GND
+         86       GND
+         87       GND
+         88       GND
+         89       GND
+         90       GND
+         91       GND
+         92       GND
+         93       GND
+         94       GND
+         95       GND
+         96       GND
+         97       GND
+         98       GND
+         99       GND
+         100      GND
+         101      GND
+         102      GND
+
+U4       1        V_BATT
+         2        GND
+         3        V_BATT
+         4                 *** unconnected ***
+         5        V_BKCP
+
+U5       1        GND
+         2        3.3V
+         3        ESP32_EN
+         4        ESP_I36
+         5        ESP_I39/ADC39
+         6        ESP_I34/ZED_TX_READY
+         7        ESP_I35/DEVICE_SENSE
+         8        ESP_32
+         9        ESP_33
+         10       ESP_25/SD_!CS!
+         11       ESP_26/DAC2
+         12       ESP_27/FAST_OFF
+         13       ESP_14/SETUP_BUTTON
+         14       ESP_12
+         15       GND
+         16       ESP_13/POWER_CTRL
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       ESP_15
+         24       ESP_2/MUX_A
+         25       ESP_0/BOOT
+         26       ESP_4/MUX_B
+         27       ESP_I16/ZED-TXO1
+         28       N$6
+         29       ESP_5
+         30       ESP_18/SCK
+         31       ESP_19/CIPO
+         32                *** unconnected ***
+         33       ESP_21/SDA
+         34       ESP32_RXI
+         35       ESP32_TXO
+         36       ESP_22/SCL
+         37       ESP_23/COPI
+         38       GND
+         GND      GND
+         GNDT1    GND
+         GNDT2    GND
+         GNDT3    GND
+         GNDT4    GND
+         GNDT5    GND
+         GNDT6    GND
+         GNDT7    GND
+         GNDT8    GND
+
+U6       1        GND
+         2        ESP32_RXI
+         3        ESP32_TXO
+         4        3.3V
+         5        D+1
+         6        D-1
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       ESP32_!DTR
+         14       ESP32_!RTS
+         15                *** unconnected ***
+         16       3.3V
+
+U7       1        GND
+         2        V_BATT
+         3        V_BATT
+         4        GND
+         5                 *** unconnected ***
+         6        GND
+         7        ESP_22/SCL
+         8        ESP_21/SDA
+         9        GND
+
+U10      1        V_RAW
+         2        V_RAW
+         3        CHG_LED
+         4                 *** unconnected ***
+         5        GND
+         6        PROG1
+         7                 *** unconnected ***
+         8        N$5
+         9        V_BATT
+         10       V_BATT
+         11       GND
+
+U13      1        ESP_22/SCL
+         2        3.3V
+         3        3.3V
+         4        ESP_21/SDA
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        3.3V
+         10       3.3V
+         11                *** unconnected ***
+         12       ESP_4/ACCEL_INT
+

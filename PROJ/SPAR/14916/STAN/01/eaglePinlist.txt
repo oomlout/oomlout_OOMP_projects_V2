@@ -1,0 +1,373 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 01:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       +        V_BATT
+         -        GND
+
+C2       1        GND
+         2        N$6
+
+C3       1        GND
+         2        N$7
+
+C4       1        GND
+         2        3.3V
+
+C5       1        VIN
+         2        GND
+
+C6       1        GND
+         2        3.3V
+
+C9       1        V_USB
+         2        GND
+
+C10      1        GND
+         2        3.3V
+
+C11      1        GND
+         2        V_USB
+
+C12      1        3.3V
+         2        GND
+
+C13      +        3.3V
+         -        GND
+
+C14      1        GND
+         2        3.3V
+
+C15      1        GND
+         2        VDDANA
+
+D1       A        3.3V
+         C        N$2
+
+D2       A        STAT_LED
+         C        N$3
+
+D3       A        V_USB
+         C        RAW
+
+D4       A        V_USB
+         C        N$8
+
+D6       A        3.3V
+         C        N$1
+
+F1       1        RAW
+         2        N$9
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME2  
+H1      
+H2      
+J1       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     V_USB
+         SHIELD   SHLD
+         SHIELD2  SHLD
+         SHIELD3  SHLD
+         SHIELD4  SHLD
+         SHIELD5  SHLD
+         SHIELD6  SHLD
+         SHIELD7  SHLD
+         SHIELD8  SHLD
+         SHIELD9  SHLD
+         SHIELD10 SHLD
+
+J2       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        RAW
+         2        3.3V
+         3        D9
+         4        D4
+         5        D3
+         6        D2
+         7        D5
+         8        !RST
+         9        TXO
+         10       RXI
+
+J4       1        ANT
+
+J5       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+
+J6       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+
+J7       1        GND
+         2        V_BATT
+
+J8       1        GND
+         2        V_USB
+
+J9       1        VIN
+         2        N$9
+
+J11      1        GND
+         2        MISO
+         3        MOSI
+         4        SCK
+         5        A4
+         6        A3
+         7        A2
+         8        A1
+         9        A0
+
+J12      1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J13      1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     ANT
+
+JP3      1        N$17
+         2        D10_LORA-WAN
+
+JP4      1        N$18
+         2        D11_LORA-WAN
+
+L1       1        3.3V
+         2        VDDANA
+
+LED1     A        N$38
+         C        GND
+
+LOGO1   
+LOGO2   
+Q1       1        V_USB
+         2        RAW
+         3        V_BATT
+
+R1       1        VBATT_LVL
+         2        V_BATT
+
+R2       1        GND
+         2        VBATT_LVL
+
+R3       1        GND
+         2        N$3
+
+R4       1        !RFM_CS
+         2        3.3V
+
+R5       1        N$11
+         2        GND
+
+R6       1        !RST
+         2        3.3V
+
+R7       1        TX_LED
+         2        N$2
+
+R8       1        GND
+         2        V_USB
+
+R9       1        CHARGE_STAT
+         2        N$8
+
+R10      1        RX_LED
+         2        N$1
+
+R13      1        N$38
+         2        3.3V
+
+S1       1        N$9
+         2        VIN
+         3                 *** unconnected ***
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         GND4              *** unconnected ***
+
+S3       1        !RST
+         2        GND
+
+TP1      P$1      SWDIO
+
+TP2      P$1      SWDCLK
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$57    
+U$60    
+U$61    
+U$62    
+U$63    
+U$65    
+U$69    
+U$70    
+U$72    
+U$73    
+U1       1        CHARGE_STAT
+         2        GND
+         3        V_BATT
+         4        V_USB
+         5        N$11
+
+U3       ANT      ANT
+         NSS      !RFM_CS
+         SCK      SCK
+         3.3V     3.3V
+         DIO0     RFM_INT
+         DIO1     N$17
+         DIO2     N$18
+         DIO3              *** unconnected ***
+         DIO4              *** unconnected ***
+         DIO5              *** unconnected ***
+         MISO     MISO
+         MOSI     MOSI
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         !RESET   !RFM_RST
+
+U4       1        N$6
+         2        N$7
+         3        A0
+         4                 *** unconnected ***
+         5        GND
+         6        VDDANA
+         7        A1
+         8        A2
+         9        A3
+         10       A4
+         11                *** unconnected ***
+         12       D9
+         13       D4
+         14       D3
+         15       TXO
+         16       RXI
+         17       3.3V
+         18       GND
+         19       MOSI
+         20       SCK
+         21       MISO
+         22                *** unconnected ***
+         23       D2
+         24       D5
+         25       D11_LORA-WAN
+         26       STAT_LED
+         27       D10_LORA-WAN
+         28       !RFM_CS
+         29       RFM_INT
+         30       !RFM_RST
+         31       SDA
+         32       SCL
+         33       D-
+         34       D+
+         35       GND
+         36       3.3V
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39       TX_LED
+         40       !RST
+         41                *** unconnected ***
+         42       GND
+         43       3.3V
+         44       3.3V
+         45       SWDCLK
+         46       SWDIO
+         47       VBATT_LVL
+         48       RX_LED
+
+U6       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+
+Y1       P$1      N$7
+         P$2      N$6
+

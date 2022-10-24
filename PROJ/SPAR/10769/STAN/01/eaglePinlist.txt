@@ -1,0 +1,335 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 12:12
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        OSC1
+         2        GND
+
+C3       1        OSC2
+         2        GND
+
+C4       A        N$26
+         C        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        5V
+         2        GND
+
+C7       1        BATT_V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       A        VCC
+         C        GND
+
+C10      1        VCC
+         2        GND
+
+C11      1        5V
+         2        GND
+
+C12      1        N$10
+         2        GND
+
+C13      1        N$27
+         2        GND
+
+C14      1        VBAT
+         2        GND
+
+C15      1        5V
+         2        GND
+
+C16      1        N$34
+         2        GND
+
+C17      1        VCC
+         2        GND
+
+C18      A        5V
+         C        GND
+
+D1       1        J1850BUS+
+         2        N$9
+
+D2       1        GND
+         2        N$24
+
+D3       1        N$14
+         2        5V
+
+D4       A        VBATT_RAW
+         C        VBAT
+
+IC1      1        !VPW_RX
+         2        PWM_RX
+         3        J1850BUS+_TX
+         4        J1850BUS-_TX
+         5        GND
+         6        OSC1
+         7        OSC2
+         8        !ISO_RX
+         9        HOST_PRESENT
+         10       3.3V
+         11       CAN_RX
+         12       CAN_TX
+         13       RX-I
+         14       TX-O
+         15       !PWR_SAVE
+         16       GND
+         17       N$26
+         18       RST_NVM
+         19       !OBD_RX_STATUS!/PGC
+         20       TX-STAT
+         21       RX-STAT
+         22       !ISO_K_TX
+         23       !ISO_L_TX
+         24       GND
+         25       3.3V
+         26       RESET
+         27       BATT_V
+         28       PWM/!VPW
+         EXP      GND
+
+IC3      1        PWM_RX
+         2        !ISO_RX
+         3        VBAT
+         4        N$13
+         5        N$6
+         6        N$3
+         7        N$1
+         8        N$7
+         9        N$12
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       GND
+         13                *** unconnected ***
+         14       !VPW_RX
+
+IC4      1        CAN_TX
+         2        GND
+         3        5V
+         4        CAN_RX
+         5                 *** unconnected ***
+         6        CAN_LO
+         7        CAN_HI
+         8        N$11
+
+JP1      1        GND
+         2        J1850BUS-
+         3        J1850BUS+
+         4        L-LINE
+         5        K-LINE
+         6        CAN_HI
+         7        CAN_LO
+         8        VBAT
+
+JP2      1                 *** unconnected ***
+
+JP3     
+JP4     
+JP5     
+JP6     
+JP7     
+JP8      CTS      NC3
+         DTR      NC1
+         GND      GND
+         RXI      TX-O
+         TXO      RX-I
+         VCC      NC2
+
+JP9      1        RST_NVM
+         2        GND
+
+JP10     1                 *** unconnected ***
+
+LED1     A        3.3V
+         C        N$35
+
+LED2     A        3.3V
+         C        N$36
+
+LED3     A        3.3V
+         C        N$30
+
+LED4     A        3.3V
+         C        N$31
+
+LED5     A        N$32
+         C        GND
+
+Q3       1        N$5
+         2        GND
+         3        L-LINE
+
+Q4       1        N$4
+         2        GND
+         3        K-LINE
+
+Q7       1        N$18
+         2        VCC
+         3        N$9
+
+Q8       1        N$25
+         2        GND
+         3        J1850BUS-
+
+Q9       1        J1850BUS+_TX
+         2        GND
+         3        N$18
+
+Q10      1        PWM/!VPW
+         2        GND
+         3        N$22
+
+R1       1        RESET
+         2        5V
+
+R2       1        N$32
+         2        VCC
+
+R3       1        BATT_V
+         2        VBATT_RAW
+
+R4       1        !OBD_RX_STATUS!/PGC
+         2        N$30
+
+R5       1        N$31
+         2        RST_NVM
+
+R6       1        GND
+         2        BATT_V
+
+R7       1        N$5
+         2        !ISO_L_TX
+
+R8       1        VBAT
+         2        L-LINE
+
+R9       1        !ISO_RX
+         2        3.3V
+
+R10      1        VBAT
+         2        N$6
+
+R11      1        VBAT
+         2        K-LINE
+
+R12      1        K-LINE
+         2        N$13
+
+R13      1        N$4
+         2        !ISO_K_TX
+
+R14      1        N$10
+         2        CAN_HI
+
+R15      1        N$27
+         2        CAN_LO
+
+R16      1        GND
+         2        N$11
+
+R17      1        N$12
+         2        5V
+
+R18      1        !VPW_RX
+         2        3.3V
+
+R19      1        N$22
+         2        N$8
+
+R20      1        VCC
+         2        N$8
+
+R21      1        J1850BUS+
+         2        N$7
+
+R22      1        GND
+         2        N$22
+
+R23      1        GND
+         2        N$12
+
+R24      1        VCC
+         2        N$18
+
+R25      1        5V
+         2        TX-O
+
+R27      1        PWM_RX
+         2        3.3V
+
+R28      1        J1850BUS+
+         2        N$1
+
+R29      1        J1850BUS-
+         2        N$3
+
+R30      1        J1850BUS+
+         2        N$24
+
+R31      1        N$14
+         2        J1850BUS-
+
+R32      1        J1850BUS-_TX
+         2        N$25
+
+R33      1        N$6
+         2        GND
+
+R34      1        5V
+         2        CAN_TX
+
+R35      1        RX-STAT
+         2        N$35
+
+R37      1        N$36
+         2        TX-STAT
+
+U$1     
+U$14    
+U1       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+
+U2       1        N$8
+         3        VBAT
+         4        VCC
+
+U3       1        VCC
+         2        GND
+         3        VCC
+         4        N$34
+         5        5V
+
+X2       1        GND
+         2        GND
+         3        CAN_HI
+         4        K-LINE
+         5        CAN_LO
+         6        J1850BUS-
+         7        J1850BUS+
+         8        L-LINE
+         9        VBATT_RAW
+         G1                *** unconnected ***
+         G2                *** unconnected ***
+
+Y1       1        OSC2
+         2                 *** unconnected ***
+         3        OSC1
+         4                 *** unconnected ***
+

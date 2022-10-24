@@ -1,0 +1,612 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCCA
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        5V
+         2        GND
+
+C6       1        5V
+         2        GND
+
+C7       1        VCCD
+         2        GND
+
+C9       1        VDDIO
+         2        GND
+
+C11      1        VDDIO_ARDUINO
+         2        GND
+
+C12      1        P15.1
+         2        GND
+
+C13      1        VDDIO
+         2        GND
+
+C14      1        P15.0
+         2        GND
+
+C15      1        VDDIO
+         2        GND
+
+C16      1        N$14
+         2        GND
+
+C17      1        N$27
+         2        GND
+
+C18      1        P15.2
+         2        GND
+
+C19      1        3.3V
+         2        GND
+
+C20      1        5V
+         2        GND
+
+C21      1        3.3V
+         2        GND
+
+C22      1        3.3V
+         2        GND
+
+C23      1        5V
+         2        GND
+
+C24      1        P15.3
+         2        GND
+
+C25      1        VDDIO
+         2        GND
+
+C26      1        GND
+         2        N$1
+
+C27      1        VDDIO
+         2        GND
+
+C28      1        GND
+         2        N$6
+
+C29      1        VDDIO
+         2        GND
+
+C30      1        DEBUG_DS_BP
+         2        GND
+
+C31      1        VDDIO
+         2        GND
+
+C32      1        DEBUG_SAR1_BP
+         2        GND
+
+C33      1        DEBUG_SAR0_BP
+         2        GND
+
+C34      1        N$3
+         2        GND
+
+C35      1        N$4
+         2        GND
+
+C36      1        N$5
+         2        GND
+
+C37      1        V_IN
+         2        GND
+
+C38      1        V_IN
+         2        GND
+
+D1       A        V_HOST
+         C        N$16
+
+D2       A        V_DEBUG
+         C        N$16
+
+D3       A        N$13
+         C        N$16
+
+D4       A        N$17
+         C        V_IN
+
+D5       A        N$26
+         C        GND
+
+D6       A        N$23
+         C        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+FRAME2  
+FRAME3  
+JP1      D+1      PSOC_D+_BUS
+         D-1      PSOC_D-_BUS
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    V_HOST
+         SHIELD1  ANCHOR_POUR
+         SHIELD2  ANCHOR_POUR
+         SHIELD3  ANCHOR_POUR
+
+JP2      D+1      DEBUG_D+_BUS
+         D-1      DEBUG_D-_BUS
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    V_DEBUG
+         SHIELD1  ANCHOR_POUR
+         SHIELD2  ANCHOR_POUR
+         SHIELD3  ANCHOR_POUR
+
+JP3      1        GND
+         2        N$17
+
+JP4      1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        A4
+         6        A5
+
+JP5      1        D0
+         2        D1
+         3        D2
+         4        D3
+         5        D4
+         6        D5
+         7        D6
+         8        D7
+
+JP6      1        V_IN
+         2        GND
+         3        GND
+         4        5V
+         5        3.3V
+         6        !RESET
+         7        VDDIO_ARDUINO
+         8                 *** unconnected ***
+
+JP7      1        D8
+         2        D9
+         3        D10
+         4        D11
+         5        D12
+         6        D13
+         7        GND
+         8                 *** unconnected ***
+         9        A4
+         10       A5
+
+JP8      1        P0.0
+         2        P0.1
+         3        P0.2
+         4        P0.3
+         5        P0.4
+         6        P0.5
+         7        P0.6
+         8        P0.7
+         9        VDDIO
+         10       VDDIO
+         11       GND
+         12       GND
+
+JP9      1        P4.1
+         2        P4.0
+         3        P4.3
+         4        P4.2
+         5        P4.5
+         6        P4.4
+         7        P4.7
+         8        P4.6
+         9        VDDIO
+         10       VDDIO
+         11       GND
+         12       GND
+
+JP10     1        GND
+         2        VDDIO
+         3        P12.0
+         4        P12.1
+         5        P12.2
+         6        P12.3
+         7        P12.6
+         8        P12.7
+
+JP11     1        P5.1
+         2        P5.0
+         3        P5.3
+         4        P5.2
+         5        P5.5
+         6        P5.4
+         7        P5.7
+         8        P5.6
+         9        VDDIO
+         10       VDDIO
+         11       GND
+         12       GND
+
+JP12     1        P3.0
+         2        P3.1
+         3        P3.2
+         4        P3.3
+         5        P3.4
+         6        P3.5
+         7        P3.6
+         8        P3.7
+         9        VDDIO
+         10       VDDIO
+         11       GND
+         12       GND
+
+JP13     1        D12
+         2        VDDIO_ARDUINO
+         3        D13
+         4        D11
+         5        !RESET
+         6        GND
+
+JP14     1        VDDIO
+         2        DEBUG_SWDIO_TMS
+         3        GND
+         4        DEBUG_SWDCK_TCK
+         5        GND
+         6        DEBUG_SWV_TDO
+         7        GND
+         8        DEBUG_TDI
+         9        GND
+         10       !DEBUG_RESET
+
+JP15     1        VDDIO
+         2        DEBUG_P1.2
+         3        DEBUG_P0.0
+         4        DEBUG_P0.1
+         5        DEBUG_P3.4
+         6        DEBUG_P3.5
+         7        DEBUG_P3.6
+         8        DEBUG_P3.7
+         9        DEBUG_P12.6_RX
+         10       DEBUG_P12.7_TX
+         11       GND
+         12       DEBUG_P3.0
+
+JP17     1        VDDIO
+         2        P1.0
+         3        GND
+         4        P1.1
+         5        GND
+         6        P1.3
+         7        GND
+         8        P1.4
+         9        GND
+         10       !RESET
+
+JP18     GND      GND
+         PWR      N$13
+         GNDBREAK GND
+
+LOGO1   
+LOGO2   
+R1       1        !RESET
+         2        3.3V
+
+R2       1        !DEBUG_RESET
+         2        3.3V
+
+R3       1        V_HOST
+         2        V_BUS_HOST
+
+R4       1        V_DEBUG
+         2        V_BUS_DEBUG
+
+R5       1        GND
+         2        V_BUS_DEBUG
+
+R6       1        GND
+         2        V_BUS_HOST
+
+R7       1        N$8
+         2        VDDIO
+
+R8       1        N$7
+         2        VDDIO
+
+R9       1        DEBUG_P12.6_RX
+         2        D1
+
+R10      1        DEBUG_P12.7_TX
+         2        D0
+
+R11      1        N$1
+         2        3.3V
+
+R12      1        N$6
+         2        5V
+
+R16      1        PSOC_D+_PAD
+         2        PSOC_D+_BUS
+
+R17      1        PSOC_D-_PAD
+         2        PSOC_D-_BUS
+
+R18      1        DEBUG_D+_PAD
+         2        DEBUG_D+_BUS
+
+R19      1        DEBUG_D-_PAD
+         2        DEBUG_D-_BUS
+
+R20      1        DEBUG_LED
+         2        N$23
+
+R21      1        D13
+         2        N$26
+
+S1       1        !DEBUG_RESET
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+S2       1        !RESET
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+S3       1        5V
+         2        VDDIO_ARDUINO
+         3        3.3V
+
+S4       1        5V
+         2        VDDIO
+         3        3.3V
+
+S5       1        DEBUG_BTN
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+S6       1        P1.2
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+SJ1      1        N$16
+         2        V_IN
+
+SJ2      1        N$17
+         2        V_IN
+
+SJ3      1        P0.2
+         2        N$5
+
+SJ4      1        P0.3
+         2        N$4
+
+SJ5      1        P0.4
+         2        N$3
+
+SJ6      1        A5
+         2        DEBUG_P12.1_SDA
+
+SJ7      1        A4
+         2        DEBUG_P12.0_SCL
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U$1     
+U$2     
+U1       1        D5
+         2        D6
+         3        D7
+         4        D8
+         5        D9
+         6        D10
+         7        D11
+         8        D12
+         9        D13
+         10       GND
+         11                *** unconnected ***
+         12       GND
+         13       GND
+         14       GND
+         15       !RESET
+         16       P5.0
+         17       P5.1
+         18       P5.2
+         19       P5.3
+         20       P1.0
+         21       P1.1
+         22       P1.2
+         23       P1.3
+         24       P1.4
+         25                *** unconnected ***
+         26       VDDIO
+         27       V_BUS_HOST
+         28                *** unconnected ***
+         29       P12.6
+         30       P12.7
+         31       P5.4
+         32       P5.5
+         33       P5.6
+         34       P5.7
+         35       PSOC_D+_PAD
+         36       PSOC_D-_PAD
+         37       3.3V
+         38       GND
+         39       VCCD
+         40                *** unconnected ***
+         41                *** unconnected ***
+         42       P15.0
+         43       P15.1
+         44       P3.0
+         45       P3.1
+         46       P3.2
+         47       P3.3
+         48       P3.4
+         49       P3.5
+         50       VDDIO
+         51       P3.6
+         52       P3.7
+         53       P12.0
+         54       P12.1
+         55       P15.2
+         56       P15.3
+         57                *** unconnected ***
+         58                *** unconnected ***
+         59                *** unconnected ***
+         60                *** unconnected ***
+         61                *** unconnected ***
+         62                *** unconnected ***
+         63       VCCA
+         64       GND
+         65       5V
+         66       GND
+         67       P12.2
+         68       P12.3
+         69       P4.0
+         70       P4.1
+         71       P0.0
+         72       P0.1
+         73       P0.2
+         74       P0.3
+         75       VDDIO
+         76       P0.4
+         77       P0.5
+         78       P0.6
+         79       P0.7
+         80       P4.2
+         81       P4.3
+         82       P4.4
+         83       P4.5
+         84       P4.6
+         85       P4.7
+         86       VCCD
+         87       GND
+         88       3.3V
+         89       A5
+         90       A4
+         91       A3
+         92       A2
+         93       A1
+         94       A0
+         95       D0
+         96       D1
+         97       D2
+         98       D3
+         99       D4
+         100      VDDIO_ARDUINO
+
+U2       1        V_IN
+         2        GND
+         3        V_IN
+         4        N$2
+         5        5V
+
+U3       1        V_IN
+         2        GND
+         3        V_IN
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       D1       DEBUG_P12.1_SDA
+         D2       DEBUG_P12.0_SCL
+         G1       !DEBUG_P2.7_SDA_PU_EN
+         G2       !DEBUG_P2.6_SCL_PU_EN
+         S1       N$8
+         S2       N$7
+
+U7       1        !DEBUG_P2.6_SCL_PU_EN
+         2        !DEBUG_P2.7_SDA_PU_EN
+         3        !RESET
+         4                 *** unconnected ***
+         5        GND
+         6                 *** unconnected ***
+         7        GND
+         8        GND
+         9        GND
+         10       !DEBUG_RESET
+         11       DEBUG_SWDIO_TMS
+         12       DEBUG_SWDCK_TCK
+         13       DEBUG_P1.2
+         14       DEBUG_SWV_TDO
+         15       DEBUG_TDI
+         16                *** unconnected ***
+         17       VDDIO
+         18       V_BUS_DEBUG
+         19                *** unconnected ***
+         20       DEBUG_P12.6_RX
+         21       DEBUG_P12.7_TX
+         22       DEBUG_D+_PAD
+         23       DEBUG_D-_PAD
+         24       3.3V
+         25       GND
+         26       N$14
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29       DEBUG_P3.0
+         30       DEBUG_LED
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33       DEBUG_P3.4
+         34       DEBUG_P3.5
+         35       VDDIO
+         36       DEBUG_P3.6
+         37       DEBUG_P3.7
+         38       DEBUG_P12.1_SDA
+         39       DEBUG_P12.0_SCL
+         40                *** unconnected ***
+         41                *** unconnected ***
+         42       N$27
+         43       GND
+         44       5V
+         45       GND
+         46       P1.0
+         47       P1.1
+         48       DEBUG_P0.0
+         49       DEBUG_P0.1
+         50       DEBUG_SAR1_BP
+         51       DEBUG_DS_BP
+         52       VDDIO
+         53       DEBUG_SAR0_BP
+         54       GND
+         55                *** unconnected ***
+         56       GND
+         57       N$14
+         58       GND
+         59       3.3V
+         60                *** unconnected ***
+         61                *** unconnected ***
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64       DEBUG_BTN
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67       VDDIO
+         68                *** unconnected ***
+         69       GND
+
+Y1       1        P15.3
+         2        P15.2
+
+Y2       1        P15.0
+         2        P15.1
+

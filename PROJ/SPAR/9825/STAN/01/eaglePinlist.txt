@@ -1,0 +1,159 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 23:27
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        VCC
+         C        GND
+
+C2       1        VCC
+         2        GND
+
+C3       1        N$5
+         2        GND
+
+C4       1        N$6
+         2        GND
+
+D1       A        N$17
+         C        N$18
+
+D2       A        N$2
+         C        N$19
+
+D3       A        VCC
+         C        N$3
+
+F1       1        N$4
+         2        VCC
+
+FRAME1  
+JP1      1        VCC
+         2        VCC
+
+JP2      1        MISO'
+         2        VCC
+         3        SCK'
+         4        MOSI'
+         5        RST
+         6        GND
+
+JP3      1        TARGET-MOSI
+         2        TARGET-PWR
+         3                 *** unconnected ***
+         4        GND
+         5        TARGET-RST
+         6        GND
+         7        TARGET-SCK
+         8        GND
+         9        TARGET-MISO
+         10       GND
+
+LED1     A        D+
+         C        GND
+
+LED2     A        D-
+         C        GND
+
+LOGO1   
+Q1       1        N$6
+         2                 *** unconnected ***
+         3        N$5
+         4                 *** unconnected ***
+
+R1       1        D+
+         2        PD+
+
+R2       1        D-
+         2        PD-
+
+R3       1        D-
+         2        N$1
+
+R4       1        GND
+         2        N$18
+
+R5       1        GND
+         2        N$19
+
+R6       1        RST
+         2        VCC
+
+R7       1        N$22
+         2        TARGET-MOSI
+
+R8       1        N$25
+         2        TARGET-SCK
+
+R9       1        GND
+         2        N$3
+
+R10      1        CTL
+         2        TARGET-PWR
+
+S1       1        VCC
+         2        TARGET-PWR
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6      1                 *** unconnected ***
+
+U$7      1                 *** unconnected ***
+
+U$8     
+U1       1        RST
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        N$5
+         5        N$6
+         6        PD+
+         7        PD-
+         8        CTL
+         9        N$2
+         10       GND
+         11       N$1
+         12       N$17
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       RST'
+         17       MOSI'
+         18       MISO'
+         19       SCK'
+         20       VCC
+
+U2       1        CTL
+         2        RST'
+         3        TARGET-RST
+         4        CTL
+         5        MOSI'
+         6        N$22
+         7        GND
+         8        MISO'
+         9        TARGET-MISO
+         10       CTL
+         11       N$25
+         12       SCK'
+         13       CTL
+         14       TARGET-PWR
+
+X2       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     N$4
+         GND@1             *** unconnected ***
+         GND@2             *** unconnected ***
+         GND@3             *** unconnected ***
+         GND@4             *** unconnected ***
+

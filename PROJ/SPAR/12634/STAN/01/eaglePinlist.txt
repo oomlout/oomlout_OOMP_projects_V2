@@ -1,0 +1,190 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 09:48
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     GND@1    GND
+         GND@2             *** unconnected ***
+         PWR@1    N$4
+         PWR@2             *** unconnected ***
+
+BAT2     GND@1    N$4
+         GND@2             *** unconnected ***
+         PWR@1    N$2
+         PWR@2             *** unconnected ***
+
+C1       1        GND
+         2        3.3V
+
+C2       1        DTR
+         2        RESET
+
+FRAME1  
+JP1      1        DTR
+         2        TX-O
+         3        RX-I
+         4                 *** unconnected ***
+         5        GND
+         6        GND
+
+JP2     
+JP3      1        MISO
+         2        3.3V
+         3        SCK
+         4        MOSI
+         5        RESET
+         6        GND
+
+JP4      1        3.3V
+         2        GND
+         3        D9
+         4        MOSI
+         5        A3
+         6        A4
+         7        A5
+         8        PB7
+         9        PB6
+
+JP5     
+JP6     
+JP7     
+LED0     A        N$1
+         K        N$7
+
+LED1     A        N$8
+         K        N$9
+
+LED2     A        N$10
+         K        N$11
+
+LED3     A        N$12
+         K        N$13
+
+LED4     A        N$14
+         K        N$15
+
+LED5     A        N$16
+         K        N$17
+
+R1       P$1      RESET
+         P$2      3.3V
+
+R2       P$1      N$6
+         P$2      3.3V
+
+R3       P$1      TILT-2
+         P$2      3.3V
+
+R4       P$1      TILT-1
+         P$2      3.3V
+
+R5       P$1      TILT-0
+         P$2      3.3V
+
+S1       1                 *** unconnected ***
+         2        N$2
+         3        3.3V
+
+S2       1        SCK
+         2        N$3
+         3                 *** unconnected ***
+
+SG1      +        MISO
+         -        N$3
+
+SJ1      1        LEDS-GND
+         2        N$1
+         3        LED0
+
+SJ2      1        LED0
+         2        N$7
+         3        LEDS-GND
+
+SJ3      1        LEDS-GND
+         2        N$8
+         3        LED1
+
+SJ4      1        LED1
+         2        N$9
+         3        LEDS-GND
+
+SJ5      1        LEDS-GND
+         2        N$10
+         3        LED2
+
+SJ6      1        LED2
+         2        N$11
+         3        LEDS-GND
+
+SJ7      1        LEDS-GND
+         2        N$12
+         3        LED3
+
+SJ8      1        LED3
+         2        N$13
+         3        LEDS-GND
+
+SJ9      1        LEDS-GND
+         2        N$14
+         3        LED4
+
+SJ10     1        LED4
+         2        N$15
+         3        LEDS-GND
+
+SJ11     1        LEDS-GND
+         2        N$16
+         3        LED5
+
+SJ12     1        LED5
+         2        N$17
+         3        LEDS-GND
+
+U$1     
+U$3     
+U$4      D+       TILT-0
+         D-       GND
+         E+       N$6
+         E-       GND
+
+U$5      D+       TILT-1
+         D-       GND
+         E+       N$6
+         E-       GND
+
+U$6      D+       TILT-2
+         D-       GND
+         E+       N$6
+         E-       GND
+
+U$7      1        RESET
+         2        RX-I
+         3        TX-O
+         4        LED0
+         5        LED1
+         6        LED2
+         7        3.3V
+         8        GND
+         9        PB6
+         10       PB7
+         11       LED3
+         12       LED4
+         13       LED5
+         15       D9
+         16       LEDS-GND
+         17       MOSI
+         18       MISO
+         19       SCK
+         20       3.3V
+         21       3.3V
+         22       GND
+         23       TILT-0
+         24       TILT-1
+         25       TILT-2
+         26       A3
+         27       A4
+         28       A5
+

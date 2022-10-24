@@ -1,0 +1,289 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:53
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VUSB
+         2        GND
+
+C2       1        VBAT
+         2        GND
+
+C3       1        VIN
+         2        GND
+
+C4       1        VIN
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        VDDANA
+         2        GND
+
+C7       1        N$4
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        GND
+         2        N$2
+
+C10      1        VDDCORE
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+D1       A        VBAT
+         C        VIN
+
+D2       A        VIN
+         C        N$8
+
+D3       A        N$5
+         C        N$12
+
+D4       A        N$6
+         C        N$3
+
+D5       A        N$10
+         C        TX_LED
+
+D6       A        N$11
+         C        RX_LED
+
+F1       1        N$1
+         2        VUSB
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        GND
+         2        VIN
+
+JP2      D+1      USB_D+
+         D-1      USB_D-
+         ID1      USB_ID
+         GND1     GND
+         VBUS1    N$1
+         SHIELD1  GND
+         SHIELD2  GND
+         SHIELD3  GND
+
+JP3      GND      GND
+         PWR      VIN
+         GNDBREAK GND
+
+JP4      1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP5      1        SWDIO
+         2        SWCLK
+         3        PB23
+         4        PB22
+         5        PA13
+
+JP6      1        3.3V
+         2        SWDIO
+         3        GND
+         4        SWCLK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       !RESET
+
+JP7      5V       VUSB
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D0       D0/RXI
+         D1       D1/TXO
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       D8
+         D9       D9
+         NC                *** unconnected ***
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         SCK      SPI_SCK
+         SCL      SCL
+         SDA      SDA
+         VCC      3.3V
+         VIN      VIN
+         3.3V     3.3V
+         AREF     AREF
+         MISO     SPI_MISO
+         MOSI     SPI_MOSI
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         GND@4    GND
+         IOREF    3.3V
+         RESET@1  !RESET
+         RESET@2  !RESET
+
+JP8      1        GND
+         2        VBAT
+
+JP9      1        GND
+         2        VBAT
+
+L1       1        3.3V
+         2        VDDANA
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+Q1       1        USB_HOST_POWER_EN
+         2        VIN
+         3        VUSB
+
+Q2       1        D13
+         2        GND
+         3        N$3
+
+R1       1        GND
+         2        N$13
+
+R2       1        USB_HOST_EN
+         2        USB_ID
+
+R3       1        GND
+         2        N$15
+
+R4       1        USB_ID
+         2        VIN
+
+R5       1        USB_HOST_POWER_EN
+         2        VIN
+
+R6       1        N$8
+         2        CHG_STAT
+
+R7       1        N$5
+         2        3.3V
+
+R8       1        N$6
+         2        3.3V
+
+R9       1        N$10
+         2        3.3V
+
+R10      1        N$11
+         2        3.3V
+
+R11      1        !RESET
+         2        3.3V
+
+R12      1        GND
+         2        D13
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        !RESET
+         4                 *** unconnected ***
+
+SJ1      1        N$13
+         2        N$15
+
+SJ2      1        GND
+         2        N$12
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U1       1        CHG_STAT
+         2        GND
+         3        VBAT
+         4        VIN
+         5        N$15
+
+U2       1        USB_ID
+         2        USB_ID
+         3        GND
+         4        USB_HOST_POWER_EN
+         5        VIN
+
+U3       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        N$2
+         2        N$4
+         3        A0
+         4        AREF
+         5        GND
+         6        VDDANA
+         7        A1
+         8        A2
+         9        A3
+         10       A4
+         11       D8
+         12       D9
+         13       D4
+         14       D3
+         15       D1/TXO
+         16       D0/RXI
+         17       3.3V
+         18       GND
+         19       SPI_MOSI
+         20       SPI_SCK
+         21       SPI_MISO
+         22       PA13
+         23       D2
+         24       D5
+         25       D11
+         26       D13
+         27       D10
+         28       D12
+         29       D6
+         30       D7
+         31       SDA
+         32       SCL
+         33       USB_D-
+         34       USB_D+
+         35       GND
+         36       3.3V
+         37       PB22
+         38       PB23
+         39       TX_LED
+         40       !RESET
+         41       USB_HOST_EN
+         42       GND
+         43       VDDCORE
+         44       3.3V
+         45       SWCLK
+         46       SWDIO
+         47       A5
+         48       RX_LED
+
+Y1       P$1      N$4
+         P$2      N$2
+

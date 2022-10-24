@@ -1,0 +1,256 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        V_BATT
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        V_BATT
+         2        GND
+
+C4       1        V_BATT
+         2        GND
+
+C11      1        GND
+         2        N$7
+
+C13      1        GND
+         2        N$5
+
+C17      1        3.3V
+         2        GND
+
+C18      1        3.3V
+         2        GND
+
+C20      1        !RTS
+         2        !RESET!
+
+C21      1        !RTS
+         2        BOOT
+
+C28      1        !RESET!
+         2        GND
+
+D2       A        N$2
+         C        GND
+
+D7       A        3.3V
+         C        V_BATT
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       1        GND
+         2        3.3V
+         3        USB_D+
+         4        3.3V_EN
+         5        USB_D-
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       D0
+         11       BOOT
+         12       SDA
+         13       RTS1
+         14       SCL
+         15       CTS1
+         16       I2C_!INT!
+         17       TX1/ADC_D-
+         18       D1
+         19       RX1
+         20                *** unconnected ***
+         21       SWDCK
+         22                *** unconnected ***
+         23       SWDIO
+         32       PWM0
+         33       GND
+         34       ADC0
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       ADC1
+         39       GND
+         40       GPIO0
+         41                *** unconnected ***
+         42       GPIO1
+         43                *** unconnected ***
+         44       GPIO2
+         45       GND
+         46       GPIO3
+         47       PWM1
+         48       GPIO4
+         49       BATT_VIN/3
+         50       PDM_CLK
+         51       SDA1
+         52       PDM_DATA
+         53       SCL1
+         54       CAM_PCLK
+         55       SPI_!CS!
+         56       CAM_MCLK
+         57       SPI_SCK
+         58       CAM_MCLK
+         59       SPI_COPI
+         60       SPI_SCK1/QSPI_SCK
+         61       SPI_CIPO
+         62       SPI_COPI1/QSPI_!CS!
+         63       ADC_D+
+         64       SPI_CIPO1/QSPI0
+         65       TX1/ADC_D-
+         66       QSPI1
+         67                *** unconnected ***
+         68       QSPI2
+         69       GPIO7
+         70       SPI_!CS1!/QSPI3
+         71       GPIO6
+         72       V_BATT
+         73       GPIO5
+         74       3.3V
+         75       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        N$2
+         2        LED_BUILTIN
+
+R2       1        SCALED_BATT_VIN/3
+         2        BATT_VIN/3
+
+R3       1        ADC0_BUFF2
+         2        ADC0_BUFF1
+
+R4       1        GND
+         2        SCALED_BATT_VIN/3
+
+R5       1        GND
+         2        ADC0_BUFF2
+
+R6       1        ADC1_BUFF2
+         2        ADC_BUFF1
+
+R7       1        GND
+         2        ADC1_BUFF2
+
+R14      1        !RESET!
+         2        V_BATT
+
+R15      1        GND
+         2        BOOT
+
+U$1     
+U$5     
+U$7     
+U$8     
+U$9     
+U$11    
+U1       D0       D0
+         D1       D1
+         D2       I2C_!INT!
+         D3       3.3V_EN
+         D7       SPI_COPI1/QSPI_!CS!
+         D8       SCL1
+         D9       SDA1
+         XI       N$5
+         XO       N$7
+         D10      RTS1
+         D14      GPIO6
+         D15      GPIO7
+         D17      CTS1
+         D36      PDM_DATA
+         D38      SPI_COPI
+         D40      SDA
+         D41      SPI_!CS!
+         ~D4      QSPI2
+         ~D5      SPI_SCK1/QSPI_SCK
+         ~D6      SPI_CIPO1/QSPI0
+         AD16     GPIO0
+         AD34     GPIO2
+         BOOT     BOOT
+         ~D18     CAM_MCLK
+         ~D19     LED_BUILTIN
+         ~D22     SPI_CIPO1/QSPI0
+         ~D23     SPI_!CS1!/QSPI3
+         ~D24     SPI_SCK1/QSPI_SCK
+         ~D25     RX1
+         ~D26     QSPI1
+         ~D27     GPIO3
+         ~D28     GPIO4
+         ~D37     PDM_CLK
+         ~D39     SCL
+         ~D42     SPI_SCK
+         ~D43     SPI_CIPO
+         ~D44     PWM0
+         ~D45     PWM1
+         ~RST     !RESET!
+         GND@1    GND
+         RXI-0    RXI-0
+         SWDCK    SWDCK
+         SWDIO    SWDIO
+         TXO-0    TXO-0
+         ~AD11    CAM_PCLK
+         ~AD12    TX1/ADC_D-
+         ~AD13    ADC_D+
+         ~AD29    GPIO5
+         ~AD31    SCALED_BATT_VIN/3
+         ~AD32    SCALED_ADC0
+         ~AD35    SCALED_ADC1
+         GND@22   GND
+         GND@38   GND
+         GND@39   GND
+         GND@47   GND
+         GND@59   GND
+         VDD@36   V_BATT
+         VDD@37   V_BATT
+         ~AD33/SWO  GPIO1
+
+U2       1        ADC0
+         2        V_BATT
+         3                 *** unconnected ***
+         4        ADC0_BUFF2
+         5        SCALED_ADC0
+         6        SCALED_ADC0
+         7        SCALED_ADC1
+         8        SCALED_ADC1
+         9        ADC1_BUFF2
+         10                *** unconnected ***
+         11       GND
+         12       ADC1
+         13       ADC_BUFF1
+         14       ADC_BUFF1
+         15       ADC0_BUFF1
+         16       ADC0_BUFF1
+         17                *** unconnected ***
+
+U6       1        USB_D+
+         2        USB_D-
+         3        GND
+         4        !RTS
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        3.3V
+         8        RXI-0
+         9        TXO-0
+         10       3.3V
+
+Y1       P$1      N$5
+         P$2      N$7
+

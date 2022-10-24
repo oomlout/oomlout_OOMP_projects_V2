@@ -1,0 +1,116 @@
+Pinlist
+
+Exported from boardEagle.brd at 17/08/2022 22:33
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        N$11
+         2        N$5
+
+C2       1        VIN
+         2        GND
+
+C3       1        N$13
+         2        N$9
+
+C4       1        VIN
+         2        GND
+
+C5       1        N$1
+         2        N$16
+
+C6       1        VIN
+         2        GND
+
+CH1      1        N$11
+         2        N$5
+
+CH2      1        N$13
+         2        N$9
+
+CH3      1        N$1
+         2        N$16
+
+D1       A        IND1-1
+         C        VIN
+
+D2       A        IND2-1
+         C        VIN
+
+D3       A        IND3-1
+         C        VIN
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP2      1        GND
+         2        VIN
+
+JP3      P1       CTRL_CH3
+         P2       CTRL_CH2
+
+JP4      P1       CTRL_CH1
+         P2       GND
+
+L1       1        IND1-1
+         2        N$5
+
+L2       1        IND2-1
+         2        N$9
+
+L3       1        IND3-1
+         2        N$16
+
+LOGO1   
+LOGO2   
+R1       1        VIN
+         2        N$11
+
+R2       1        VIN
+         2        N$13
+
+R3       1        VIN
+         2        N$1
+
+R4       1        N$11
+         2        N$2
+
+R5       1        N$13
+         2        N$3
+
+R6       1        N$1
+         2        N$7
+
+SJ1      1        VIN
+         2        N$2
+
+SJ2      1        VIN
+         2        N$3
+
+SJ3      1        VIN
+         2        N$7
+
+STANDOFF1
+STANDOFF2
+U1       1        IND1-1
+         2        GND
+         3        CTRL_CH1
+         4        N$11
+         5        VIN
+
+U2       1        IND2-1
+         2        GND
+         3        CTRL_CH2
+         4        N$13
+         5        VIN
+
+U3       1        IND3-1
+         2        GND
+         3        CTRL_CH3
+         4        N$1
+         5        VIN
+

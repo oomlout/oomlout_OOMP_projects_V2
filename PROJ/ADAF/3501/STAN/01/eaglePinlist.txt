@@ -1,0 +1,133 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 23:07
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+3V3      P$1      3.3V
+
+B0       P$1      D0_SDA_TX
+
+B1       P$1      D1_A0
+
+B2       P$1      D2_SCL_RX
+
+C1       1        VOUT
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        VDDCORE
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+CN1      1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+D1       A        VBAT
+         C        VHIGH
+
+D2       A        VBUS
+         C        VHIGH
+
+GND      P$1      GND
+
+IC1      1        D3
+         2        D4
+         3        D1_A0
+         4                 *** unconnected ***
+         5        D0_SDA_TX
+         6        D2_SCL_RX
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        3.3V
+         10       GND
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22       D13
+         23       D-
+         24       D+
+         25                *** unconnected ***
+         26       !RESET
+         27                *** unconnected ***
+         28       GND
+         29       VDDCORE
+         30       3.3V
+         31       SWCLK
+         32       SWDIO
+         33       GND
+
+LED1     1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        3.3V
+         4        GND
+         5        D4
+         6        D3
+
+PWR      A        N$1
+         C        GND
+
+Q1       A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+R5       1        N$1
+         2        D13
+
+SW1      O1       VOUT
+         O2       VOUT
+         P1       VHIGH
+         P2       VHIGH
+         S1                *** unconnected ***
+         S2                *** unconnected ***
+
+SWC      TP       SWCLK
+
+SWD      TP       SWDIO
+
+TP1      TP       !RESET
+
+U$1      1                 *** unconnected ***
+
+U$6      1                 *** unconnected ***
+
+U$7     
+U$8     
+U$10    
+U1       1        VOUT
+         2        GND
+         3        VOUT
+         4                 *** unconnected ***
+         5        3.3V
+
+VBAT     P$1      VOUT
+
+X2       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

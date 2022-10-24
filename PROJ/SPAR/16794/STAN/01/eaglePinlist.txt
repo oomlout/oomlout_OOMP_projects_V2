@@ -1,0 +1,475 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 05:52
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BT1      +        N$14
+         -        GND
+
+BYP      1        V_USB
+         2        VIN
+
+C1       1        VIN
+         2        GND
+
+C2       +        VIN
+         -        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        N$15
+         2        GND
+
+C8       1        INP
+         2        GND
+
+C9       1        N$1
+         2        GND
+
+C10      1        N$1
+         2        GND
+
+C11      1        N$1
+         2        GND
+
+C12      1        GND
+         2        WSPEED
+
+C13      1        VIN
+         2        GND
+
+C14      1        GND
+         2        RAIN
+
+C46      1        3.3V
+         2        GND
+
+D1       A        GND
+         C        VREG_EN
+
+D2       A        N$6
+         C        GND
+
+D3       A        RAIN
+         C        3.3V
+
+D4       A        GND
+         C        RAIN
+
+D5       A        WSPEED
+         C        3.3V
+
+D6       A        N$14
+         C        RTC_3V
+
+D7       A        3.3V
+         C        RTC_3V
+
+D8       A        GND
+         C        WSPEED
+
+D9       A        WDIR
+         C        3.3V
+
+D10      A        GND
+         C        WDIR
+
+D11      A        N$16
+         C        GND
+
+F2       1        V_USB
+         2        VIN
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+H1      
+H2      
+H3      
+H4      
+H5       1        GND
+
+J1       A5       N$10
+         A6       USB_D+
+         A7       USB_D-
+         A8                *** unconnected ***
+         B5       N$11
+         B6       USB_D+
+         B7       USB_D-
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J2       1        3.3V
+         2        SWDIO
+         3        GND
+         4        SWDCK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       !RESET!
+
+J3       1        GND
+         2        3.3V
+         3        I2C_SDA
+         4        I2C_SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        SOIL_MOIST_SIG
+         2        GND
+         3        SOIL_MOIST_PWR
+
+J5       1        SPI_SCK
+         2        SPI_COPI
+         3        SPI_CIPO
+         4        HEADER_!CS!
+         5        GND
+
+J6       1        TX1
+         2        RX1
+         3        GND
+
+J7       1                 *** unconnected ***
+         2                 *** unconnected ***
+         3        RAIN
+         4        GND
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+J8       1        GND
+         2        GND
+
+J9       1        PWM1
+         2        PWM0
+
+J11      CD1      GND
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      3.3V
+         DAT1              *** unconnected ***
+         DAT2              *** unconnected ***
+         GND1     GND
+         GND3     GND
+         SCLK     SPI_SCK
+         DI/CMD   SPI_COPI
+         CS/DAT3  SD_!CS!
+         DO/DAT0  SPI_CIPO
+
+J12      1        TX2
+         2        RX2
+         3        GND
+
+J13      1                 *** unconnected ***
+         2        WDIR
+         3        WSPEED
+         4        GND
+         5        GND
+         6                 *** unconnected ***
+
+J14      1        GND
+         2        3.3V
+         3        I2C_SDA
+         4        I2C_SCL
+
+J15      1        GND
+         2        3.3V
+         3        USB_D+
+         4        3.3V_EN
+         5        USB_D-
+         6        !RESET!
+         7        GND
+         8                 *** unconnected ***
+         9        VIN
+         10       WSPEED
+         11       !BOOT!
+         12       I2C_SDA
+         13                *** unconnected ***
+         14       I2C_SCL
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       TX1
+         18       RAIN
+         19       RX1
+         20       RX2
+         21       SWDCK
+         22       TX2
+         23       SWDIO
+         32       PWM0
+         33       GND
+         34       SOIL_MOIST_SIG
+         35                *** unconnected ***
+         36       GND
+         37                *** unconnected ***
+         38       WDIR
+         39       GND
+         40       SOIL_MOIST_PWR
+         41                *** unconnected ***
+         42       LIGHTNING_!CS!
+         43                *** unconnected ***
+         44       HEADER_!CS!
+         45       GND
+         46       LIGHTNING_INT
+         47       PWM1
+         48                *** unconnected ***
+         49       VIN/3
+         50                *** unconnected ***
+         51                *** unconnected ***
+         52                *** unconnected ***
+         53                *** unconnected ***
+         54                *** unconnected ***
+         55       SD_!CS!
+         56                *** unconnected ***
+         57       SPI_SCK
+         58                *** unconnected ***
+         59       SPI_COPI
+         60                *** unconnected ***
+         61       SPI_CIPO
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64                *** unconnected ***
+         65                *** unconnected ***
+         66                *** unconnected ***
+         67                *** unconnected ***
+         68                *** unconnected ***
+         69                *** unconnected ***
+         70                *** unconnected ***
+         71                *** unconnected ***
+         72       RTC_3V
+         73                *** unconnected ***
+         74       3.3V
+         75       GND
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+
+JP1      1        N$3
+         2        3.3V
+         3        N$2
+
+JP2      1        N$5
+         2        VIN
+
+JP3      1        N$7
+         2        3.3V
+
+JP4      1        N$4
+         2        3.3V
+
+JP6      1        3.3V_EN
+         2        VREG_EN
+
+L1       1        INP
+         2        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+MEAS     1        N$1
+         2        3.3V
+         3        N$1
+         4        3.3V
+
+R1       1        I2C_SDA
+         2        N$3
+
+R2       1        GND
+         2        N$10
+
+R3       1        GND
+         2        N$11
+
+R4       1        I2C_SCL
+         2        N$2
+
+R5       1        VREG_EN
+         2        VIN
+
+R6       1        GND
+         2        INP
+
+R7       1        N$8
+         2        3.3V
+
+R8       1        N$14
+         2        RTC_3V
+
+R9       1        GND
+         2        VIN/3
+
+R10      1        VIN/3
+         2        VIN
+
+R11      1        N$6
+         2        N$4
+
+R12      1        SD_!CS!
+         2        3.3V
+
+R14      1        WDIR
+         2        3.3V
+
+R15      1        RAIN
+         2        3.3V
+
+R16      1        WSPEED
+         2        3.3V
+
+R19      1        LIGHTNING_!CS!
+         2        3.3V
+
+R20      1        N$16
+         2        N$5
+
+R21      1        N$19
+         2        3.3V
+
+S1       1        GND
+         2        GND
+         3        !RESET!
+         4        !RESET!
+
+S2       1        GND
+         2        GND
+         3        !BOOT!
+         4        !BOOT!
+
+TP1      P$1      SWDIO
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U1       1        GND
+         2        N$19
+         3        I2C_SDA
+         4        I2C_SCL
+         5        N$8
+         6        3.3V
+         7        GND
+         8        3.3V
+
+U2       1        GND
+         2        I2C_SDA
+         3        I2C_SCL
+         4        N$7
+
+U3       1        N$15
+         2        GND
+         3        INP
+         4        GND
+         5        3.3V
+         6        3.3V
+         7        GND
+         8        LIGHTNING_!CS!
+         9        GND
+         10       LIGHTNING_INT
+         11       SPI_SCK
+         12       SPI_CIPO
+         13       SPI_COPI
+         14                *** unconnected ***
+         15       GND
+         16       GND
+         17       GND
+
+U5       1        N$1
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        GND
+         5        VREG_EN
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        VIN
+         EP       GND
+

@@ -1,0 +1,226 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 20:36
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        +3V3
+         2        GND
+
+C2       1        +3V3
+         2        GND
+
+C3       1        VBAT
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VBUS
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C10      1        +3V3
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+D1       A        VBAT
+         C        VBUS
+
+JP1      1        DFU/SCK3
+         2        A9/TXD
+         3        A10/RXD
+         4        A6/MISO1
+         5        A7/MOSI1
+         6        A5/SCK1
+         7        A1/ADC1
+         8        A2/ADC2
+         9        A3/ADC3
+         10       C2/ADC12
+         11       C3/ADC13
+         12       A0/WAKEUP
+         13       GND
+         14       VRTC
+         15       +3V3
+         16       !RESET
+
+JP2      1        SWCLK
+
+JP3      1        VBAT
+         2        EN
+         3        VBUS
+         4        B5/MOSI3
+         5        SWDIO
+         6        A4/CS
+         7        B4/MISO3
+         8        A15
+         9        C7
+         10       C5
+         11       B6/SCL
+         12       B7/SDA
+
+L        A        N$2
+         C        GND
+
+R1       1        N$6
+         2        +3V3
+
+R2       1        N$1
+         2        N$3
+
+R3       1        VBAT
+         2        N$5
+
+R4       1        EN
+         2        VBUS
+
+R6       1        N$5
+         2        GND
+
+R7       1        A15
+         2        N$2
+
+R8       1        N$4
+         2        GND
+
+SJ1      1        A1/ADC1
+         2        N$5
+
+SJ2      1        N$6
+         2        A4/CS
+
+SW1      A        !RESET
+         B        GND
+         A'       !RESET
+         B'       GND
+
+U$7     
+U$8     
+U$10    
+U$23    
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U1       1        C3/ADC13
+         2        C2/ADC12
+         3        B5/MOSI3
+         4        B7/SDA
+         5        B6/SCL
+         6        A3/ADC3
+         7        A2/ADC2
+         8        A1/ADC1
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       GND
+         15       ANT
+         16       GND
+         17       GND
+         18       GND
+         19       +3V3
+         20       +3V3
+         21       GND
+         22       A4/CS
+         23       A7/MOSI1
+         24       A5/SCK1
+         25       A6/MISO1
+         26       !RESET
+         27       A0/WAKEUP
+         28       VRTC
+         29       GND
+         30       GND
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33                *** unconnected ***
+         34                *** unconnected ***
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37       GND
+         38       A10/RXD
+         39       A9/TXD
+         40       SWCLK
+         41       DFU/SCK3
+         42       B4/MISO3
+         43       A15
+         44       SWDIO
+         45       GND
+         46       +3V3
+         47       +3V3
+         48       GND
+         49       +3V3
+         50       GND
+         51       D+
+         52       D-
+         53       C7
+         54       C5
+         55       GND
+         56       GND
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+         62       GND
+         63       GND
+         64       GND
+         65       GND
+         66       GND
+         67       GND
+
+U2       1        VBUS
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        +3V3
+
+U3       1        N$3
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        N$4
+
+U4       1        N$6
+         2        B4/MISO3
+         3        +3V3
+         4        GND
+         5        B5/MOSI3
+         6        DFU/SCK3
+         7        +3V3
+         8        +3V3
+
+X1       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X2       NC                *** unconnected ***
+         FEED     ANT
+
+X3       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+

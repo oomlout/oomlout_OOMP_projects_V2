@@ -1,0 +1,422 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:29
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       A        3.3V
+         C        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       A        N$18
+         C        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       A        CVDD
+         C        GND
+
+C8       1        CVDD
+         2        GND
+
+C9       1        GND
+         2        N$3
+
+C10      1        GND
+         2        N$5
+
+C11      1        GND
+         2        N$11
+
+C12      1        N$16
+         2        GND
+
+C13      1        N$15
+         2        GND
+
+C14      1        N$14
+         2        GND
+
+C15      1        RIGHT
+         2        N$8
+
+C16      1        LEFT
+         2        N$23
+
+F1       1        VBUS
+         2        N$18
+
+FRAME1  
+FRAME3  
+J1       GND      GND
+         P$4      GND
+         VIN0     N$13
+         VIN1              *** unconnected ***
+
+JP2      RSH               *** unconnected ***
+         TIP      N$19
+         TSH               *** unconnected ***
+         RING     N$6
+         SLEEVE   N$1
+
+JP3      1        NC1
+         2        TX
+         3        RX-I
+         4        USBVCC
+         5        NC2
+         6        GND
+
+JP5      1        GND
+         2        VBUS
+
+JP6      1                 *** unconnected ***
+
+JP7      1                 *** unconnected ***
+
+JP9      1        VBUS
+         2        GND
+         3        XRES
+         4        TRIG18
+         5        TRIG17
+
+LED1     A        N$4
+         C        GND
+
+LED2     A        N$9
+         C        N$12
+
+LOGO1   
+LOGO3   
+Q1       1        N$5
+         2                 *** unconnected ***
+         3        N$3
+         4                 *** unconnected ***
+
+R1       1        N$4
+         2        3.3V
+
+R2       1        N$9
+         2        3.3V
+
+R3       1        N$5
+         2        N$3
+
+R4       1        GND
+         2        MICN
+
+R5       1        FDO
+         2        3.3V
+
+R6       1        N$2
+         2        3.3V
+
+R7       1        GND
+         2        MRST
+
+R8       1        GND
+         2        MICP
+
+R9       1        N$16
+         2        RIGHT
+
+R10      1        N$15
+         2        GBUF
+
+R11      1        N$14
+         2        LEFT
+
+R12      1        COM
+         2        3.3V
+
+R13      1        N$8
+         2        N$7
+
+R14      1        GND
+         2        N$10
+
+R15      1        GND
+         2        N$17
+
+R16      1        GND
+         2        N$8
+
+R17      1        GND
+         2        N$2
+
+R18      1        GND
+         2        N$23
+
+R19      1        RX
+         2        3.3V
+
+R20      1        RX-I
+         2        RX
+
+R21      1        TRIG3
+         2        T3
+
+R22      1        TRIG4
+         2        T4
+
+R23      1        TRIG5
+         2        T5
+
+R24      1        TRIG6
+         2        T6
+
+R25      1        TRIG7
+         2        T7
+
+R26      1        TRIG8
+         2        T8
+
+R27      1        TRIG9
+         2        T9
+
+R28      1        TRIG10
+         2        T10
+
+R29      1        TRIG11
+         2        T11
+
+R30      1        TRIG12
+         2        T12
+
+R31      1        TRIG13
+         2        T13
+
+R32      1        TRIG14
+         2        T14
+
+R33      1        TRIG15
+         2        T15
+
+R34      1        TRIG16
+         2        T16
+
+R35      1        TRIG2
+         2        T2
+
+R36      1        TRIG1
+         2        T1
+
+R37      1        TRIG17
+         2        T17
+
+R38      1        TRIG18
+         2        T18
+
+R39      1        N$23
+         2        N$22
+
+S1       1        SW1
+         2        SW3
+         C        GND
+         T        SW2
+         NC                *** unconnected ***
+
+S2       1        VBUS
+         2        N$13
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5        USBVCC
+         6        N$20
+
+SJ1      1        3.3V
+         2        N$20
+         3        VBUS
+
+SJ2      1        N$22
+         2        N$19
+         3        LEFT
+
+SJ3      1        N$7
+         2        N$6
+         3        RIGHT
+
+SJ4      1        GND
+         2        N$1
+         3        GBUF
+
+U$1     
+U$4     
+U$12    
+U$13    
+U$14    
+U$15    
+U1       1        S3
+         2        S1
+         3        COM
+         4        SW2
+         5        N$12
+         6        MSO
+         7        MDCS
+         8        MSCLK
+         9                 *** unconnected ***
+         10       FSCK
+         11       FDO
+         12       TX
+         13       TRIG18
+         14       GND
+         15       TRIG17
+         16       RX
+         17       FCS
+         18       FDI
+         19       XRES
+         20       MDREQ
+         21       MSI
+         22       MCS
+         23       MRST
+         24       SW1
+         25       SW3
+         26       S0
+         27       S2
+         28       3.3V
+
+U2       1                 *** unconnected ***
+         2        FCS
+         3        FDI
+         4        3.3V
+         5        FSCK
+         6        GND
+         7        FDO
+         8                 *** unconnected ***
+         CD1      GND
+         CD2      GND
+         GND1     GND
+         GND3     GND
+
+U3       1        COM
+         2        TRIG8
+         3        TRIG7
+         4        TRIG6
+         5        TRIG5
+         6        TRIG4
+         7        TRIG3
+         8        TRIG2
+         9        TRIG1
+         10       S0
+         11       S1
+         12       GND
+         13       S3
+         14       S2
+         15       GND
+         16       TRIG16
+         17       TRIG15
+         18       TRIG14
+         19       TRIG13
+         20       TRIG12
+         21       TRIG11
+         22       TRIG10
+         23       TRIG9
+         24       3.3V
+
+U4       1        N$2
+         2        3.3V
+         3        N$18
+         4                 *** unconnected ***
+
+U5       1        3.3V
+         2        GND
+         3        3.3V
+         4                 *** unconnected ***
+         5        CVDD
+
+U7       1        MICP
+         2        MICN
+         3        MRST
+         4        GND
+         5        CVDD
+         6        3.3V
+         7        CVDD
+         8        MDREQ
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       MDCS
+         14       3.3V
+         15                *** unconnected ***
+         16       GND
+         17       N$5
+         18       N$3
+         19       3.3V
+         20       GND
+         21       GND
+         22       GND
+         23       MCS
+         24       CVDD
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28       MSCLK
+         29       MSI
+         30       MSO
+         31       CVDD
+         32       3.3V
+         33       N$17
+         34       N$10
+         35       GND
+         36                *** unconnected ***
+         37       GND
+         38       3.3V
+         39       RIGHT
+         40       GND
+         41       GND
+         42       GBUF
+         43       3.3V
+         44       N$11
+         45       3.3V
+         46       LEFT
+         47       GND
+         48                *** unconnected ***
+
+U9       1        GND
+         2        GND
+         3        GND
+         4        GND
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13       GND
+         14       GND
+         15       GND
+         16       GND
+         17       GND
+         18       GND
+
+U10      1        T18
+         2        T17
+         3        T16
+         4        T15
+         5        T14
+         6        T13
+         7        T12
+         8        T11
+         9        T10
+         10       T9
+         11       T8
+         12       T7
+         13       T6
+         14       T5
+         15       T4
+         16       T3
+         17       T2
+         18       T1
+

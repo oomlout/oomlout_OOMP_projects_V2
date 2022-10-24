@@ -1,0 +1,356 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 05:18
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VMID
+         2        GND
+
+C2       1        MICBIAS
+         2        GND
+
+C3       1        AVDD
+         2        AGND
+
+C4       +        N$5
+         -        LEFT
+
+C5       1        AVDD
+         2        AGND
+
+C6       +        N$3
+         -        RIGHT
+
+C7       1        VMID
+         2        GND
+
+C8       1        MICBIAS
+         2        GND
+
+C9       1        5.0V
+         2        GND
+
+C10      1        5.0V
+         2        GND
+
+C11      1        5.0V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        OUT
+         2        GND
+
+C14      1        OUT
+         2        GND
+
+C16      1        AVDD
+         2        GND
+
+C18      1        AVDD
+         2        GND
+
+C19      1        N$12
+         2        GND
+
+C20      1        N$13
+         2        GND
+
+C21      1        N$16
+         2        GND
+
+C22      1        N$17
+         2        GND
+
+C23      1        N$17
+         2        LINPUT1
+
+C24      1        N$16
+         2        RINPUT1
+
+C25      1        AVDD
+         2        GND
+
+C26      1        RIGHT
+         2        GND
+
+C27      1        LEFT
+         2        GND
+
+C28      1        RIGHT_N
+         2        GND
+
+C29      1        RIGHT_P
+         2        GND
+
+C30      1        LEFT_P
+         2        GND
+
+C31      1        LEFT_N
+         2        GND
+
+C32      1        5.0V
+         2        GND
+
+C33      1        5.0V
+         2        GND
+
+C34      1        VCC
+         2        GND
+
+CONN3    1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         MT1               *** unconnected ***
+         MT2               *** unconnected ***
+
+D1       A        GND
+         C        PWM0
+
+FB1      1        AVDD
+         2        OUT
+
+FB2      1        AGND
+         2        GND
+
+FB3      1        N$12
+         2        N$16
+
+FB4      1        N$13
+         2        N$17
+
+FB7      1        N$1
+         2        RIGHT_N
+
+FB8      1        N$2
+         2        RIGHT_P
+
+FB9      1        N$21
+         2        LEFT_P
+
+FB10     1        N$22
+         2        LEFT_N
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+IC3      1        MICBIAS
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4        LINPUT1
+         5        RINPUT1
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        3.3V
+         9        GND
+         10       3.3V
+         11       MCLK
+         12       I2S_BCLK
+         13       I2S_LRCLK
+         14       I2S_DOUT
+         15       I2S_LRCLK
+         16       I2S_DIN
+         17       SCL
+         18       SDA
+         19       N$1
+         20       GND
+         21       5.0V
+         22       N$2
+         23       N$22
+         24       GND
+         25       N$21
+         26       5.0V
+         27       VMID
+         28       AGND
+         29       N$3
+         30                *** unconnected ***
+         31       N$5
+         32       AVDD
+         33       AGND
+
+LED1     1        LEDD
+         2        LEDC
+         3        GND
+         4        5.0V
+         5        N$11
+         6        N$7
+
+LED2     1        N$7
+         2        N$11
+         3        GND
+         4        5.0V
+         5        N$15
+         6        N$14
+
+LED3     1        N$14
+         2        N$15
+         3        GND
+         4        5.0V
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+LEFTMIC  1        N$13
+         2        GND
+         3        GND
+         4        AVDD
+
+NEOPIX   1        GND
+         2        VCC
+         3        LSTEMMA
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+OSC1     1        MCLK_EN
+         2        GND
+         3        MCLK
+         4        3.3V
+
+R1       1        BUTTON
+         2        3.3V
+
+R4       1        GND
+         2        LEFT
+
+R6       1        GND
+         2        RIGHT
+
+R7       1        LSTEMMA
+         2        PWM0
+
+RIGHTMIC 1        N$12
+         2        GND
+         3        GND
+         4        AVDD
+
+RPI1     1        3.3V
+         2        5.0V
+         3        SDA
+         4        5.0V
+         5        SCL
+         6        GND
+         7        GPIO4
+         8        TXD
+         9        GND
+         10       RXD
+         11       BUTTON
+         12       I2S_BCLK
+         13       GPIO27
+         14       GND
+         15       GPIO22
+         16       GPIO23
+         17       3.3V
+         18       GPIO24
+         19       MOSI
+         20       GND
+         21       MISO
+         22       GPIO25
+         23       SCLK
+         24       CE0
+         25       GND
+         26       CE1
+         27       EED
+         28       EEC
+         29       LEDD
+         30       GND
+         31       LEDC
+         32       PWM0
+         33       GPIO13
+         34       GND
+         35       I2S_LRCLK
+         36       GPIO19
+         37       GPIO26
+         38       I2S_DIN
+         39       GND
+         40       I2S_DOUT
+         41                *** unconnected ***
+         42                *** unconnected ***
+         S1       3.3V
+         S2       5.0V
+         S3       SDA
+         S4       5.0V
+         S5       SCL
+         S6       GND
+         S7       GPIO4
+         S8       TXD
+         S9       GND
+         S10      RXD
+         S11      BUTTON
+         S12      I2S_BCLK
+         S13      GPIO27
+         S14      GND
+         S15      GPIO22
+         S16      GPIO23
+         S17      3.3V
+         S18      GPIO24
+         S19      MOSI
+         S20      GND
+         S21      MISO
+         S22      GPIO25
+         S23      SCLK
+         S24      CE0
+         S25      GND
+         S26      CE1
+         S27      EED
+         S28      EEC
+         S29      LEDD
+         S30      GND
+         S31      LEDC
+         S32      PWM0
+         S33      GPIO13
+         S34      GND
+         S35      I2S_LRCLK
+         S36      GPIO19
+         S37      GPIO26
+         S38      I2S_DIN
+         S39      GND
+         S40      I2S_DOUT
+
+SJ1      1        5.0V
+         2        VCC
+         3        3.3V
+
+SW1      A        GND
+         B        BUTTON
+         A'       GND
+         B'       BUTTON
+
+SW6      O1       GND
+         O2       GND
+         P1       MCLK_EN
+         P2       MCLK_EN
+         S1       3.3V
+         S2       3.3V
+
+U$11    
+U$12    
+U$15    
+U$16    
+U$79    
+U3       1        5.0V
+         2        GND
+         3        5.0V
+         4                 *** unconnected ***
+         5        OUT
+
+X1       1        LEFT_P
+         2        LEFT_N
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+X2       1        GND
+         2        LEFT
+         3        RIGHT
+         4        LEFT
+         5        RIGHT
+
+X5       1        RIGHT_P
+         2        RIGHT_N
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+

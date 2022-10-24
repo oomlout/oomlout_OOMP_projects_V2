@@ -1,0 +1,722 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 08:38
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+!RESET   1        ARTEMIS_!RESET
+
+3V3EN    1        VIN
+         2        N$36
+
+3V3SW    1        3V3SW
+
+5V3      1        EXT_PWR
+
+B1       +        V_BCKP
+         -        GND
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        N$10
+         2        N$9
+
+C4       1        LTC3225_VOUT
+         2        GND
+
+C5       +        LTC3225_VOUT
+         -        N$1
+
+C6       +        N$1
+         -        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        V_BATT
+         2        GND
+
+C9       1        N$14
+         2        GND
+
+C10      1        N$15
+         2        GND
+
+C11      1        N$17
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+C13      1        3V3SW
+         2        GND
+
+C14      1        N$28
+         2        IRIDIUM
+
+C15      1        N$29
+         2        GNSS
+
+C16      1        ANTENNA
+         2        N$30
+
+C17      1        V_USB
+         2        GND
+
+C18      1        GND
+         2        XTALO
+
+C19      1        GND
+         2        XTALI
+
+C20      1        GND
+         2        3.3V
+
+C21      1        VIN
+         2        GND
+
+C22      1        3.3V
+         2        GND
+
+C23      1        3.3V
+         2        GND
+
+C24      1        3.3V
+         2        GND
+
+C25      1        3.3V
+         2        GND
+
+C27      1        3.3V
+         2        GND
+
+C28      1        3.3V
+         2        GND
+
+C29      1        ARTEMIS_!RESET
+         2        GND
+
+C30      1        ARTEMIS_!RTS!
+         2        ARTEMIS_BOOT
+
+C31      1        ARTEMIS_!RTS!
+         2        ARTEMIS_!RESET
+
+D1       A        N$23
+         C        GND
+
+D2       A        N$5
+         C        ARTEMIS_D28
+
+D3       A        N$6
+         C        GND
+
+D4       A        N$21
+         C        GND
+
+D5       A        N$7
+         C        N$20
+
+D6       A        N$35
+         C        GND
+
+D7       A        3.3V
+         C        N$32
+
+D8       A        V_BATT
+         C        VBUS
+
+D9       A        V_USB
+         C        N$40
+
+D10      A        V_AAA
+         C        VBUS
+
+D11      A        3.3V
+         C        N$24
+
+D12      A        V_BCKP
+         C        N$24
+
+D13      A        3.3V
+         C        N$22
+
+D14      A        V_USB
+         C        VBUS
+
+D17      1        ARTEMIS_D17
+
+D41      1        ARTEMIS_D41
+
+DEBUG    1        3.3V
+         2        ARTEMIS_SWDIO
+         3        GND
+         4        ARTEMIS_SWDCK
+         5        GND
+         6        ARTEMIS_D33
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       ARTEMIS_!RESET
+
+EN       1        N$36
+
+FRAME3  
+FRAME5  
+GND      1        GND
+
+GPS_RX   1        N$26
+
+GPS_TX   1        N$27
+
+I2C      1        GND
+         2        3.3V
+         3        ARTEMIS_D9_SDA
+         4        ARTEMIS_D8_SCL
+
+J1       1        EXT_PWR
+         2        EXT_PWR
+         3        GND
+         4        GND
+         5        ARTEMIS_D17
+         6        ARTEMIS_D24
+         7        ARTEMIS_D25
+         8        GND
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       ARTEMIS_D41
+         13       GND
+         14       GND
+         15       GND
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       GND
+         19       ARTEMIS_D18
+         20                *** unconnected ***
+
+J2       A5       CC4
+         A6       D+2
+         A7       D-2
+         A8                *** unconnected ***
+         B5       CC3
+         B6       D+2
+         B7       D-2
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1             *** unconnected ***
+         SHLD2             *** unconnected ***
+         SHLD3             *** unconnected ***
+         SHLD4             *** unconnected ***
+         VBUS1    V_USB
+         VBUS2    V_USB
+
+J3       1        GND
+         2        V_AAA
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        VIN
+         2        VBUS
+
+J5       1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J6       1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     IRIDIUM
+
+J7       SIG      ANTENNA
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+
+J8       1        GND
+
+J9       1        GND
+
+J10      1        ARTEMIS_AD31
+         2        ARTEMIS_D42
+         3        ARTEMIS_D43
+         4        ARTEMIS_AD32
+
+J11      1        ARTEMIS_AD12
+         2        ARTEMIS_D15
+         3        ARTEMIS_AD11
+         4        ARTEMIS_AD29
+
+J13      1        ARTEMIS_D37
+
+JP1      1        N$4
+         2        N$11
+         3        N$2
+
+JP2      1        N$23
+         2        N$3
+
+JP7      1                 *** unconnected ***
+
+JP8      1                 *** unconnected ***
+
+JP9     
+JP10    
+JP11    
+JP12    
+JP13     1                 *** unconnected ***
+
+JP14     1                 *** unconnected ***
+
+L1       1        N$17
+         2        N$16
+
+LOGO1   
+LOGO2   
+LOGO4   
+MEAS     1        VBUS
+         2        VIN
+
+Q1       1        N$12
+         2        EXT_PWR
+         3        N$8
+
+Q2       1        ARTEMIS_D26
+         2        3.3V
+         3        3V3SW
+
+Q3       1        N$37
+         2        VIN
+         3        N$46
+
+Q4       1        N$47
+         2        GND
+         3        N$37
+
+Q6       1        ARTEMIS_D44
+         2        3.3V
+         3        N$7
+
+QWIIC    1        GND
+         2        3.3V
+         3        ARTEMIS_D40_SDA4
+         4        ARTEMIS_D39_SCL4
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+R1       1        N$3
+         2        3.3V
+
+R2       1        ARTEMIS_RX0
+         2        N$22
+
+R3       1        ARTEMIS_TX0
+         2        N$32
+
+R4       1        GND
+         2        CC3
+
+R5       1        GND
+         2        ARTEMIS_D27
+
+R6       1        GND
+         2        N$2
+
+R7       1        N$4
+         2        GND
+
+R8       1        ARTEMIS_D28
+         2        3.3V
+
+R9       1        N$8
+         2        LTC3225_VOUT
+
+R10      1        N$12
+         2        N$13
+
+R11      1        N$13
+         2        N$14
+
+R12      1        N$5
+         2        3.3V
+
+R13      1        N$6
+         2        EXT_PWR
+
+R14      1        ARTEMIS_D22
+         2        GND
+
+R15      1        V_BCKP
+         2        N$20
+
+R16      1        N$21
+         2        3V3SW
+
+R17      1        ARTEMIS_D26
+         2        3.3V
+
+R19      1        ARTEMIS_D44
+         2        3.3V
+
+R20      1        GND
+         2        CC4
+
+R21      1        N$35
+         2        ARTEMIS_D19
+
+R22      1        N$37
+         2        VIN
+
+R23      1        ARTEMIS_D13
+         2        GND
+
+R24      1        N$46
+         2        ARTEMIS_D13
+
+R25      1        ARTEMIS_D34
+         2        N$47
+
+R26      1        ARTEMIS_!RESET
+         2        3.3V
+
+R27      1        GND
+         2        ARTEMIS_BOOT
+
+R28      1        GND
+         2        N$39
+
+R29      1        N$41
+         2        N$40
+
+R30      1        ARTEMIS_D34
+         2        GND
+
+R31      1        N$31
+         2        GND
+
+RX0      1        ARTEMIS_RX0
+
+RX1      1        ARTEMIS_D25
+
+S1       1        GND
+         2        GND
+         3        ARTEMIS_!RESET
+         4        ARTEMIS_!RESET
+
+SAFEBOOT 1        N$25
+
+SC1+     1        LTC3225_VOUT
+
+SC1-     1        N$1
+
+SC2+     1        N$1
+
+SC2-     1        GND
+
+SPI      1        GND
+         2        ARTEMIS_D7_MOSI
+         3        ARTEMIS_D6_MISO
+         4        ARTEMIS_D5_SCK
+         5        ARTEMIS_D35
+         6        ARTEMIS_D4
+         7        3.3V
+
+TX0      1        ARTEMIS_TX0
+
+TX1      1        ARTEMIS_D24
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$50    
+U$51    
+U$52    
+U$53    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$69    
+U$70    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$76    
+U$77    
+U$78    
+U$79    
+U$80    
+U$81    
+U$82    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U$94    
+U$95    
+U$96    
+U1       1        D+2
+         2        D-2
+         3        GND
+         4        ARTEMIS_!RTS!
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        3.3V
+         8        ARTEMIS_RX0
+         9        ARTEMIS_TX0
+         10       3.3V
+
+U2       1        N$10
+         2        N$9
+         3        N$1
+         4        ARTEMIS_D27
+         5        ARTEMIS_D28
+         6        3.3V
+         7        N$11
+         8        GND
+         9        3.3V
+         10       LTC3225_VOUT
+         11       GND
+
+U3       1        N$15
+         2        GND
+         3        ARTEMIS_D22
+         4        N$13
+         5        N$8
+         6        LTC3225_VOUT
+
+U4       1        GND
+         2        ARTEMIS_D9_SDA
+         3        GND
+         4        GNSS
+         5        GND
+         6                 *** unconnected ***
+         7        GND
+         8        GND
+         9        GND
+         10       GND
+         11       GND
+         12       GND
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       N$24
+         17       GND
+         18       N$18
+         19       N$19
+         20       ARTEMIS_!RESET
+         21       N$27
+         22       N$26
+         23       GND
+         24       3V3SW
+         25       3V3SW
+         26       N$16
+         27       N$17
+         28                *** unconnected ***
+         29       GND
+         30                *** unconnected ***
+         31       GND
+         32       ARTEMIS_D8_SCL
+         33                *** unconnected ***
+         34       N$25
+         35                *** unconnected ***
+         36                *** unconnected ***
+         37       GND
+         38       GND
+         39       GND
+         40       GND
+         41       GND
+         42                *** unconnected ***
+         43                *** unconnected ***
+         44       GND
+         45                *** unconnected ***
+         46       GND
+         47       GND
+         48                *** unconnected ***
+         49       GND
+         50       ARTEMIS_D10
+         51                *** unconnected ***
+
+U5       1        N$28
+         2        GND
+         3        N$29
+         4        EXT_PWR
+         5        N$30
+         6        N$31
+
+U6       1        3.3V
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        ARTEMIS_D9_SDA
+         8        ARTEMIS_D8_SCL
+
+U7       D0                *** unconnected ***
+         D1                *** unconnected ***
+         D2                *** unconnected ***
+         D3                *** unconnected ***
+         D7       ARTEMIS_D7_MOSI
+         D8       ARTEMIS_D8_SCL
+         D9       ARTEMIS_D9_SDA
+         XI       XTALI
+         XO       XTALO
+         D10      ARTEMIS_D10
+         D14               *** unconnected ***
+         D15      ARTEMIS_D15
+         D17      ARTEMIS_D17
+         D36               *** unconnected ***
+         D38               *** unconnected ***
+         D40      ARTEMIS_D40_SDA4
+         D41      ARTEMIS_D41
+         ~D4      ARTEMIS_D4
+         ~D5      ARTEMIS_D5_SCK
+         ~D6      ARTEMIS_D6_MISO
+         AD16              *** unconnected ***
+         AD34     ARTEMIS_D34
+         BOOT     ARTEMIS_BOOT
+         ~D18     ARTEMIS_D18
+         ~D19     ARTEMIS_D19
+         ~D22     ARTEMIS_D22
+         ~D23              *** unconnected ***
+         ~D24     ARTEMIS_D24
+         ~D25     ARTEMIS_D25
+         ~D26     ARTEMIS_D26
+         ~D27     ARTEMIS_D27
+         ~D28     ARTEMIS_D28
+         ~D37     ARTEMIS_D37
+         ~D39     ARTEMIS_D39_SCL4
+         ~D42     ARTEMIS_D42
+         ~D43     ARTEMIS_D43
+         ~D44     ARTEMIS_D44
+         ~D45              *** unconnected ***
+         ~RST     ARTEMIS_!RESET
+         GND@1    GND
+         RXI-0    ARTEMIS_RX0
+         SWDCK    ARTEMIS_SWDCK
+         SWDIO    ARTEMIS_SWDIO
+         TXO-0    ARTEMIS_TX0
+         ~AD11    ARTEMIS_AD11
+         ~AD12    ARTEMIS_AD12
+         ~AD13    ARTEMIS_D13
+         ~AD29    ARTEMIS_AD29
+         ~AD31    ARTEMIS_AD31
+         ~AD32    ARTEMIS_AD32
+         ~AD35    ARTEMIS_D35
+         GND@22   GND
+         GND@38   GND
+         GND@39   GND
+         GND@47   GND
+         GND@59   GND
+         VDD@36   3.3V
+         VDD@37   3.3V
+         ~AD33/SWO  ARTEMIS_D33
+
+U8       1        GND
+         2        ARTEMIS_!RESET
+         3        3.3V
+
+U9       1        N$41
+         2        GND
+         3        V_BATT
+         4        V_USB
+         5        N$39
+
+U10      1        VIN
+         2        GND
+         3        N$36
+         4                 *** unconnected ***
+         5        3.3V
+
+U11      1                 *** unconnected ***
+         2        EXT_PWR
+         3        GND
+         4        N$33
+         5        3.3V
+
+U12      1        3V3SW
+         2        N$33
+         3        GND
+         4        N$31
+         5        3.3V
+
+VIN/3    1        ARTEMIS_D13
+
+X1       P$1      XTALI
+         P$2      XTALO
+
+X2       P$1      N$19
+         P$2      N$18
+

@@ -1,0 +1,270 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:03
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        FUSED_VIN
+         2        GND
+
+C2       1        FUSED_VCC
+         2        GND
+
+C4       A        FUSED_VIN
+         C        GND
+
+F1       1        VIN
+         2        FUSED_VIN
+
+F2       1        VCC
+         2        FUSED_VCC
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME2  
+JP0      1        GND
+         2        PWR_RAIL
+         3        D0
+
+JP1      1        GND
+         2        PWR_RAIL
+         3        D1
+
+JP2      1        GND
+         2        PWR_RAIL
+         3        D2
+
+JP3      1        GND
+         2        PWR_RAIL
+         3        PWMA
+
+JP4      1        GND
+         2        PWR_RAIL
+         3        AIN1
+
+JP5      1        GND
+         2        PWR_RAIL
+         3        AIN2
+
+JP6      1        GND
+         2        PWR_RAIL
+         3        PWMB
+
+JP7      1        GND
+         2        PWR_RAIL
+         3        BIN1
+
+JP8      1        GND
+         2        PWR_RAIL
+         3        BIN2
+
+JP9      1        GND
+         2        PWR_RAIL
+         3        D9
+
+JP10     1        GND
+         2        PWR_RAIL
+         3        D10
+
+JP11     1        GND
+         2        PWR_RAIL
+         3        D11
+
+JP12     1        GND
+         2        PWR_RAIL
+         3        D12
+
+JP13     1        GND
+         2        PWR_RAIL
+         3        D13
+
+JP14     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A0
+
+JP15     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A1
+
+JP16     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A2
+
+JP17     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A3
+
+JP18     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A4
+
+JP19     1        GND
+         2        ANALOG_PWR_RAIL
+         3        A5
+
+JP20     1        GND
+         2        3.3V
+         3        SDA_I2C_PORT
+         4        SCL_I2C_PORT
+
+JP21     1        BOUT2
+         2        BOUT1
+         3        AOUT2
+         4        AOUT1
+
+JP22     1        GND
+         2        3.3V
+         3        SDA_I2C_PORT
+         4        SCL_I2C_PORT
+
+JP23     1        BOUT2
+         2        BOUT1
+         3        AOUT2
+         4        AOUT1
+
+LED1     A        N$4
+         C        AOUT2
+
+LED2     A        N$8
+         C        BOUT2
+
+LED3     A        AOUT2
+         C        N$5
+
+LED4     A        BOUT2
+         C        N$9
+
+LED5     A        D13
+         C        N$1
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+R1       1        N$4
+         2        AOUT1
+
+R2       1        N$5
+         2        AOUT1
+
+R3       1        N$8
+         2        BOUT1
+
+R4       1        N$9
+         2        BOUT1
+
+R5       1        GND
+         2        N$1
+
+S1       1        FUSED_VIN
+         2        ANALOG_PWR_RAIL
+         3        FUSED_VCC
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S2       1        FUSED_VIN
+         2        PWR_RAIL
+         3        FUSED_VCC
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S4       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+SJ3      1        SDA
+         2        SDA_I2C_PORT
+         3        A4
+
+SJ4      1        SCL
+         2        SCL_I2C_PORT
+         3        A5
+
+TP1      P$1      AIN1
+
+TP2      P$1      AIN2
+
+TP3      P$1      PWMA
+
+TP4      P$1      BIN1
+
+TP5      P$1      BIN2
+
+TP6      P$1      PWMB
+
+TP7      P$1      D13
+
+TP8      P$1      RESET
+
+TP9      P$1      VIN
+
+TP10     P$1      VCC
+
+TP11     P$1      GND
+
+U$1     
+U1       5V       VCC
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       A4
+         A5       A5
+         D2       D2
+         D3       PWMA
+         D4       AIN1
+         D5       AIN2
+         D6       PWMB
+         D7       BIN1
+         D8       BIN2
+         D9       D9
+         NC                *** unconnected ***
+         RX       D0
+         TX       D1
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         RES      RESET
+         SCL      SCL
+         SDA      SDA
+         VIN      VIN
+         3.3V     3.3V
+         AREF              *** unconnected ***
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+U2       1        AOUT1
+         2        AOUT1
+         3        GND
+         4        GND
+         5        AOUT2
+         6        AOUT2
+         7        BOUT2
+         8        BOUT2
+         9        GND
+         10       GND
+         11       BOUT1
+         12       BOUT1
+         13       FUSED_VIN
+         14       FUSED_VIN
+         15       PWMB
+         16       BIN2
+         17       BIN1
+         18       GND
+         19       FUSED_VCC
+         20       FUSED_VCC
+         21       AIN1
+         22       AIN2
+         23       PWMA
+         24       FUSED_VIN
+

@@ -1,0 +1,240 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 09:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        CELL
+         2        GND
+
+C3       1        5V
+         2        GND
+
+C4       1        VBATT
+         2        GND
+
+C5       1        N$4
+         2        GND
+
+C6       1        VBATT
+         2        UVLO
+
+C7       A        3.3V
+         C        GND
+
+C8       1        GND
+         2        VBUS
+
+C9       1        VBATT
+         2        GND
+
+D1       A        N$1
+         C        GND
+
+D2       A        VBUS
+         C        N$5
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      1        GND
+         2        N$7
+
+JP2      1        RST
+         2        3.3-ARDUINO
+         3        5V
+         4        GND
+         5        GND
+         6        VIN
+
+JP3      1        AREF
+         2        GND
+         3        D13
+         4        D12
+         5        D11
+         6        D10
+         7        D9
+         8        D8
+
+JP4      1        VBUS
+         2        GND
+
+JP7      1        A0
+         2        A1
+         3        A2
+         4        A3
+         5        SDA-A4
+         6        SCL-A5
+
+JP8      1        D7
+         2        D6
+         3        D5
+         4        D4
+         5        D3
+         6        D2
+         7        TX
+         8        RX
+
+JP9     
+JP10    
+JP11     D+                *** unconnected ***
+         D-                *** unconnected ***
+         ID                *** unconnected ***
+         GND      GND
+         MTN1              *** unconnected ***
+         MTN2              *** unconnected ***
+         MTN3              *** unconnected ***
+         MTN4              *** unconnected ***
+         VBUS     VBUS
+
+JP13     1        GND
+         2        N$7
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+L1       P$1      N$3
+         P$2      VBATT
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        CELL
+         2        VBATT
+
+R2       1        GND
+         2        QST
+
+R3       1        5V
+         2        N$1
+
+R4       1        FB
+         2        5V
+
+R5       1        EN
+         2        VBATT
+
+R6       1        GND
+         2        FB
+
+R7       1        UVLO
+         2        VBATT
+
+R8       1        PS
+         2        VBATT
+
+R9       1        GND
+         2        UVLO
+
+R10      1        GND
+         2        PROG
+
+R11      1        GND
+         2        PROG
+
+R12      1        N$5
+         2        STAT
+
+S2       1        VBATT
+         2        N$7
+         3                 *** unconnected ***
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         GND4              *** unconnected ***
+
+SJ1      1        ALT
+         2        D2
+
+SJ2      1        GND
+         2        PS
+
+SJ3      1        SDA-R3
+         2        N$20
+         3        SDA-A4
+
+SJ4      1        SCL-R3
+         2        SCL
+         3        SCL-A5
+
+TP1      P$1      UVLO
+
+TP2      P$1      3.3V
+
+U1       1        GND
+         2        CELL
+         3        3.3V
+         4        GND
+         5        ALT
+         6        QST
+         7        SCL
+         8        N$20
+         EP       GND
+
+U2       1        N$4
+         2        5V
+         3        N$3
+         4        GND
+         5        VBATT
+         6        EN
+         7        UVLO
+         8        PS
+         9        GND
+         10       FB
+         11       GND
+         12       GND
+         13       GND
+         14       GND
+         15       GND
+
+U3       1        STAT
+         2        GND
+         3        VBATT
+         4        VBUS
+         5        PROG
+
+U4       5V       5V
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3
+         A4       SDA-A4
+         A5       SCL-A5
+         D2       D2
+         D3       D3
+         D4       D4
+         D5       D5
+         D6       D6
+         D7       D7
+         D8       D8
+         D9       D9
+         NC                *** unconnected ***
+         RX       RX
+         TX       TX
+         D10      D10
+         D11      D11
+         D12      D12
+         D13      D13
+         RES      RST
+         SCL      SCL-R3
+         SDA      SDA-R3
+         VIN      VIN
+         3.3V     3.3-ARDUINO
+         AREF     AREF
+         GND@0    GND
+         GND@1    GND
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+VREG     1        VBATT
+         2        GND
+         3        VBATT
+         4                 *** unconnected ***
+         5        3.3V
+

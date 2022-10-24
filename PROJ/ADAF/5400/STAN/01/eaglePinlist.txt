@@ -1,0 +1,310 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 08:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        VBAT
+         2        GND
+
+C4       1        !RESET
+         2        GND
+
+C5       1        A13_I35
+         2        GND
+
+C6       1        VHI
+         2        GND
+
+C7       1        V_NEOI2C
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        3.3V
+         2        GND
+
+C10      1        3.45V
+         2        GND
+
+C11      1        VBUS
+         2        GND
+
+C12      1        3.45V
+         2        GND
+
+C13      1        3.3V
+         2        GND
+
+CHG      A        VBUS
+         C        N$1
+
+CONN1    1        GND
+         2        V_NEOI2C
+         3        SDA
+         4        SCL
+         MT1      GND
+         MT2      GND
+
+D+1      TP       D+
+
+D-1      TP       D-
+
+D3       A        N$5
+         C        GND
+
+D4       A        VBUS
+         C        VHI
+
+IC3      1                 *** unconnected ***
+         2        GND
+         3        D+
+         4        D-
+         5        3.45V
+         6        3.45V
+         7        VBUS
+         8        VBUS_DET
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       RTS
+         20       TXD0
+         21       RXD0
+         22                *** unconnected ***
+         23       DTR
+         24                *** unconnected ***
+         THERM    GND
+
+JP1      1        I37
+         2        TX/IO8
+         3        RX/IO7
+         4        MISO
+         5        MOSI
+         6        SCK
+         7        A5_IO4
+         8        A4_I36
+         9        A3_I39
+         10       A2_I34
+         11       A1_DAC1
+         12       A0_DAC2
+         13       GND
+         14                *** unconnected ***
+         15       3.3V
+         16       !RESET
+
+JP3      1        VBAT
+         2        EN
+         3        VBUS
+         4        IO13_A12
+         5        IO12_A11
+         6        IO27_A10
+         7        IO33_A9
+         8        IO15_A8
+         9        IO32_A7
+         10       IO14_A6
+         11       SCL
+         12       SDA
+
+LED1     1        GPIO0
+         2        V_NEOI2C
+         3                 *** unconnected ***
+         4        GND
+
+Q3       1        VBUS
+         2        VHI
+         3        VBAT
+
+Q5       1        DTR
+         2        N$13
+         3        !RESET
+         4        RTS
+         5        N$12
+         6        GPIO0
+
+R1       1        A13_I35
+         2        VBAT
+
+R2       1        N$1
+         2        N$3
+
+R3       1        GND
+         2        A13_I35
+
+R4       1        GND
+         2        N$4
+
+R5       1        GND
+         2        CC2
+
+R6       1        GND
+         2        CC1
+
+R7       1        EN
+         2        VHI
+
+R9       1        VBUS_DET
+         2        VBUS_DET
+         3        GND
+         4        N$6
+         5        3.3V
+         6        VBUS_DET
+         7        VBUS
+         8        VBUS
+
+R10      1        IO13_A12
+         2        N$5
+
+R12      1        GND
+         2        VBUS
+
+R13      1        3.3V
+         2        N$13
+         3        DTR
+         4        NEOI2C_PWR
+         5        GND
+         6        N$12
+         7        RTS
+         8        !RESET
+
+SW1      A        GND
+         B        N$6
+         A'       GND
+         B'       N$6
+
+SW2      A        GND
+         B        !RESET
+         A'       GND
+         B'       !RESET
+
+U$7     
+U$9     
+U$13    
+U$14    
+U$15    
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$34     1                 *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U$43    
+U1       1        VHI
+         2        GND
+         3        NEOI2C_PWR
+         4                 *** unconnected ***
+         5        V_NEOI2C
+
+U2       1        VHI
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        3.3V
+
+U3       1        N$3
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        N$4
+
+X1       1        GND
+         2        VBAT
+         NC1      GND
+         NC2      GND
+
+X3       1        GND
+         2        GND
+         3        3.3V
+         4        A4_I36
+         5        I37
+         6        N$6
+         7        A3_I39
+         8        !RESET
+         9        A2_I34
+         10       A13_I35
+         11       GND
+         12       IO32_A7
+         13       IO33_A9
+         14       GND
+         15       A1_DAC1
+         16       A0_DAC2
+         17       IO27_A10
+         18       IO14_A6
+         19       IO12_A11
+         20       IO13_A12
+         21       IO15_A8
+         22       NEOI2C_PWR
+         23       GPIO0
+         24       A5_IO4
+         25                *** unconnected ***
+         26       SCL
+         27       RX/IO7
+         28       TX/IO8
+         29       SCK
+         30       RXD0
+         31       TXD0
+         32                *** unconnected ***
+         33       MOSI
+         34       SDA
+         35       MISO
+         36       GND
+         37       GND
+         38       GND
+         39       GND
+         40       GND
+         41       GND
+         42       GND
+         43       GND
+         44       GND
+         45       GND
+         46       GND
+         47       GND
+         48       GND
+         49       GND
+         50       GND
+         51       GND
+         52       GND
+         53       GND
+         54       GND
+         55       GND
+         56       GND
+         57       GND
+         58       GND
+         59       GND
+         60       GND
+         61       GND
+
+X6       A5       CC1
+         A6       D+
+         A7       D-
+         A8                *** unconnected ***
+         B5       CC2
+         B6       D+
+         B7       D-
+         B8                *** unconnected ***
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+         M3                *** unconnected ***
+         M4                *** unconnected ***
+         A4B9     VBUS
+         B4A9     VBUS
+         A1B12    GND
+         B1A12    GND
+

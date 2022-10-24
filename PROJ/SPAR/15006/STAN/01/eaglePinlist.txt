@@ -1,0 +1,270 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 02:01
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        V_USB
+         2        GND
+
+C2       1        RESET
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        3.3V
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+D1       A        3.3V
+         C        N$1
+
+D2       A        N$2
+         C        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+J1       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     V_USB
+         SHIELD   SHIELD
+         SHIELD2  SHIELD
+         SHIELD3  SHIELD
+         SHIELD4  SHIELD
+         SHIELD5  SHIELD
+         SHIELD6  SHIELD
+         SHIELD7  SHIELD
+         SHIELD8  SHIELD
+         SHIELD9  SHIELD
+         SHIELD10 SHIELD
+
+J2       1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     N$3
+
+J3       1        ANT
+
+J4       1        MOSI
+         2        MISO
+         3        SCK
+         4        IO27
+         5        IO25
+         6        RESET
+         7        3.3V
+         8        GND
+
+J5       1        SDA
+         2        SCL
+         3        IO4
+         4        IO5
+         5        IO18
+         6        IO19
+         7        IO23
+         8        RXI
+         9        TXO
+         10       GND
+
+J6       1        GND
+         2        3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP1      1        N$3
+         2        ANT
+
+LOGO1   
+LOGO2   
+LOGO3   
+Q1       1        !DTR
+         2        N$12
+         3        RESET
+         4        !RTS
+         5        N$10
+         6        0
+
+R1       1        RESET
+         2        3.3V
+
+R2       1        GND
+         2        N$1
+
+R3       1        IO17
+         2        N$2
+
+R4       1        RFM_RST
+         2        3.3V
+
+R5       1        0
+         2        3.3V
+
+R6       1        SDA
+         2        3.3V
+
+R7       1        !DTR
+         2        N$10
+
+R8       1        !RTS
+         2        N$12
+
+R9       1        SCL
+         2        3.3V
+
+S1       1        GND
+         2        GND
+         3        RESET
+         4        RESET
+
+S2       1        GND
+         2        GND
+         3        0
+         4        0
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U1       1        V_USB
+         2        GND
+         3        V_USB
+         4                 *** unconnected ***
+         5        3.3V
+
+U2       1        GND
+         2        3.3V
+         3        RESET
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        RFM_DIO2/32
+         9        RFM_DIO1/33
+         10       IO25
+         11       RFM_INT/26
+         12       IO27
+         13       SCK
+         14       MISO
+         15       GND
+         16       MOSI
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       0
+         26       IO4
+         27       RFM_CS
+         28       IO17
+         29       IO5
+         30       IO18
+         31       IO19
+         32                *** unconnected ***
+         33       SDA
+         34       RXI
+         35       TXO
+         36       SCL
+         37       IO23
+         38       GND
+         GND      GND
+
+U3       1        GND
+         2        RXI
+         3        TXO
+         4        3.3V
+         5        D+
+         6        D-
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       !DTR
+         14       !RTS
+         15                *** unconnected ***
+         16       3.3V
+
+U4       ANT      ANT
+         NSS      RFM_CS
+         SCK      SCK
+         3.3V     3.3V
+         DIO0     RFM_INT/26
+         DIO1     RFM_DIO1/33
+         DIO2     RFM_DIO2/32
+         DIO3              *** unconnected ***
+         DIO4              *** unconnected ***
+         DIO5              *** unconnected ***
+         MISO     MISO
+         MOSI     MOSI
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         !RESET   RFM_RST
+

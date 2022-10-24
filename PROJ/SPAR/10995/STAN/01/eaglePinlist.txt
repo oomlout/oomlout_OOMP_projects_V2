@@ -1,0 +1,110 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 13:21
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        1.8V
+         2        GND
+
+C2       A        1.8V
+         C        GND
+
+C3       1        VCC
+         2        GND
+
+C4       A        VCC
+         C        GND
+
+JP1      1        ONOFF
+
+JP2     
+JP3     
+JP4     
+JP5     
+JP6      CTS      GND
+         DTR               *** unconnected ***
+         GND      GND
+         RXI      TX
+         TXO      RX
+         VCC      VCC
+
+JP7      1        1PPS
+
+JP8      1                 *** unconnected ***
+
+JP9      1                 *** unconnected ***
+
+LED1     A        N$2
+         C        N$1
+
+Q1       1        1.8V
+         2        RX_I
+         3        RX
+
+Q2       1        1.8V
+         2        TX_O
+         3        TX
+
+Q3       1        1.8V
+         2        ONOFF_I
+         3        ONOFF
+
+Q4       1        1.8V
+         2        1PPS_I
+         3        1PPS
+
+R1       1        RX_I
+         2        1.8V
+
+R2       1        RX
+         2        VCC
+
+R3       1        TX_O
+         2        1.8V
+
+R4       1        TX
+         2        VCC
+
+R5       1        ONOFF_I
+         2        1.8V
+
+R6       1        ONOFF
+         2        VCC
+
+R7       1        1PPS_I
+         2        1.8V
+
+R8       1        1PPS
+         2        VCC
+
+R9       1        GND
+         2        N$1
+
+S1       1        ONOFF
+         2                 *** unconnected ***
+         3        GND
+         4                 *** unconnected ***
+
+SJ1      1        N$2
+         2        1PPS_I
+
+U$7     
+U$8     
+U1       RX       RX_I
+         TX       TX_O
+         GND      GND
+         P$7               *** unconnected ***
+         P$8               *** unconnected ***
+         VCC      1.8V
+         1PPS     1PPS_I
+         ONOFF    ONOFF_I
+
+U2       1        VCC
+         2        GND
+         3        VCC
+         4                 *** unconnected ***
+         5        1.8V
+

@@ -1,0 +1,292 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 20:09
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       A        VIN
+         C        GND
+
+C2       1        !RST
+         2        GND
+
+C3       1        3.3V
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        VBAT
+         2        GND
+
+C6       1        VBAT
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+C8       1        3.3V
+         2        GND
+
+C9       1        3.3V
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C11      1        3.3V
+         2        GND
+
+C12      1        3.3V
+         2        GND
+
+D1       A        VUSB
+         C        VIN
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+JP1      D+1      D+
+         D-1      D-
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    VUSB
+         SHIELD1  GND
+         SHIELD2  GND
+         SHIELD3  GND
+
+JP2      GND      GND
+         PWR      VIN
+         GNDBREAK GND
+
+JP3      1        SPARE6
+         2        SPARE5
+         3        SPARE4
+         4        SPARE3
+         5        SPARE2
+         6        SPARE1
+
+JP4      1        GND
+         2        VBAT
+
+JP5      5V       VUSB
+         A0       A0
+         A1       A1
+         A2       A2
+         A3       A3/SPI_SCK
+         A4       A4/SPI_MISO
+         A5       A5/SPI_MOSI
+         D0       RX
+         D1       TX
+         D2       D2
+         D3       D3(JTAG_TRST)
+         D4       D4(JTAG_TDO)
+         D5       D5(JTAG_TDI)
+         D6       D6(JTAG_TCK)
+         D7       D7(JTAG_TMS)
+         D8       DAC
+         D9       WKP
+         NC                *** unconnected ***
+         D10      A2
+         D11      A5/SPI_MOSI
+         D12      A4/SPI_MISO
+         D13      A3/SPI_SCK
+         SCL      D1/SCL
+         SDA      D0/SDA
+         VIN      VIN
+         3.3V     3.3V
+         AREF              *** unconnected ***
+         GND@1    GND
+         GND@2    GND
+         GND@3    GND
+         IOREF             *** unconnected ***
+         RESET@1  !RST
+
+JP6      1        3.3V
+         2                 *** unconnected ***
+         3        D3(JTAG_TRST)
+         4        GND
+         5        D5(JTAG_TDI)
+         6        GND
+         7        D7(JTAG_TMS)
+         8        GND
+         9        D6(JTAG_TCK)
+         10       GND
+         11       GND
+         12       GND
+         13       D4(JTAG_TDO)
+         14       GND
+         15       !RST
+         16       GND
+         17                *** unconnected ***
+         18       GND
+         19                *** unconnected ***
+         20       GND
+
+LED1     A        N$6
+         C        N$2
+
+LED2     A        N$7
+         C        N$8
+
+LED3     AB       3.3V
+         AG       3.3V
+         AR       3.3V
+         CB       N$5
+         CG       N$3
+         CR       N$4
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        D-
+         2        MCU_USB_D-
+
+R2       1        D+
+         2        MCU_USB_D+
+
+R3       1        N$6
+         2        3.3V
+
+R4       1        GND
+         2        N$15
+
+R5       1        D7(JTAG_TMS)
+         2        N$7
+
+R6       1        !RST
+         2        3.3V
+
+R7       1        N$15
+         2        3.3V
+
+R8       1        N$3
+         2        RGB_GREEN
+
+R9       1        N$4
+         2        RGB_RED
+
+R10      1        N$5
+         2        RGB_BLUE
+
+S1       1        GND
+         2                 *** unconnected ***
+         3        !RST
+         4                 *** unconnected ***
+
+S2       1        GND
+         2                 *** unconnected ***
+         3        !MODE
+         4                 *** unconnected ***
+
+SJ1      1        GND
+         2        N$2
+
+SJ2      1        GND
+         2        N$8
+
+TP1      P$1      BTCX_TXCONF
+
+TP2      P$1      BTCX_STATUS
+
+TP3      P$1      BTCX_RF_ACTIVE
+
+TP4      P$1      WL_JTAG_TDI
+
+TP5      P$1      WL_JTAG_TCK
+
+TP6      P$1      WL_JTAG_TRST
+
+TP7      P$1      WL_JTAG_TMS
+
+TP8      P$1      WL_JTAG_TDO
+
+TP9      P$1      WL_SLEEP_CLK
+
+TP10     P$1      N$1
+
+U1       1        GND
+         2        3.3V
+         3        3.3V
+         4        GND
+         5        3.3V
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       GND
+         14                *** unconnected ***
+         15       GND
+         16       WL_JTAG_TDI
+         17       WL_JTAG_TCK
+         18       WL_JTAG_TRST
+         19       WL_JTAG_TMS
+         20       WL_JTAG_TDO
+         21       A4/SPI_MISO
+         22       A3/SPI_SCK
+         23       A5/SPI_MOSI
+         24       DAC
+         25       GND
+         26       3.3V
+         27       3.3V
+         28       GND
+         29       RGB_RED
+         30       WKP
+         31       RGB_BLUE
+         32       RGB_GREEN
+         33       N$1
+         34       !RST
+         35       D1/SCL
+         36       D0/SDA
+         37       GND
+         38       VBAT
+         39       GND
+         40       SPARE1
+         41       SPARE2
+         42       SPARE3
+         43       A1
+         44       SPARE4
+         45       D2
+         46       !MODE
+         47       SPARE5
+         48       SPARE6
+         49       A2
+         50       A0
+         51       D3(JTAG_TRST)
+         52       D4(JTAG_TDO)
+         53       D5(JTAG_TDI)
+         54       D7(JTAG_TMS)
+         55       D6(JTAG_TCK)
+         56       BTCX_STATUS
+         57       BTCX_RF_ACTIVE
+         58       BTCX_TXCONF
+         59       GND
+         60       WL_SLEEP_CLK
+         61       MCU_USB_D+
+         62       MCU_USB_D-
+         63       RX
+         64       TX
+         65       GND
+         66       GND
+         67       GND
+         68       GND
+         69       GND
+         70       GND
+         71       GND
+         72       GND
+         73       GND
+         74                *** unconnected ***
+         75                *** unconnected ***
+
+U2       1        N$15
+         2        3.3V
+         3        VIN
+         4        3.3V
+

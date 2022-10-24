@@ -1,0 +1,290 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:15
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C3       1        GND
+         2        N$3
+
+C4       1        GND
+         2        N$2
+
+C5       1        VIN
+         2        GND
+
+C6       1        VCC
+         2        GND
+
+C7       1        LNA
+         2        LNA2
+
+C8       1        VUSB
+         2        GND
+
+C9       1        D-
+         2        GND
+
+C10      1        VCC
+         2        GND
+
+C11      1        D+
+         2        GND
+
+C12      1        USBVCC
+         2        GND
+
+C13      +        USBVCC
+         -        GND
+
+C14      1        3.3V_F
+         2        GND
+
+D1       A        USBVCC
+         C        VIN
+
+D2       A        VCC
+         C        N$11
+
+D3       A        VCC
+         C        N$9
+
+D4       A        N$10
+         C        RXLED
+
+D5       A        N$8
+         C        TXLED
+
+E1       ANT      TRACE_ANT
+         GND      GND
+         GND2     GND
+
+F1       1        VUSB
+         2        USBVCC
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FRAME1  
+J1       P$1      GND
+         P$2      GND
+         P$3      ANT
+         P$4               *** unconnected ***
+
+J2       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VUSB
+         SHIELD1  GND
+         SHIELD2  GND
+         SHIELD3  GND
+
+JP2      1        GND
+         2        VCC
+         3        GPIO2
+         4        GPIO14
+         5        RESET
+         6        U0TXO
+         7        U0RXI
+         8        USBVCC
+         9                 *** unconnected ***
+         10       GND
+
+JP3      1        GND
+         2        VIN
+         3        GPIO5
+         4        GPIO0
+         5        GPIO4
+         6        GPIO13
+         7        GPIO12
+         8        GPIO16
+         9        ADC
+         10       GPIO15
+
+JP4      1        GND
+         2        VIN
+
+JP5      1        GND
+         2        VIN
+
+JP6      1        GND
+         2        VIN
+
+L1       1        LNA
+         2        GND
+
+L2       1        LNA2
+         2        GND
+
+LOGO1   
+LOGO2   
+Q1       1        N$6
+         2        RTS
+         3        RESET
+
+Q2       1        N$12
+         2        DTR
+         3        GPIO0
+
+R1       1        GND
+         2        N$1
+
+R2       1        CHIP_EN
+         2        VCC
+
+R3       1        N$11
+         2        N$5
+
+R4       1        SD_CLK
+         2        SD_CLK0
+
+R5       1        RESET
+         2        VCC
+
+R6       1        GPIO5
+         2        N$9
+
+R7       1        D-
+         2        N$4
+
+R8       1        D+
+         2        N$7
+
+R9       1        DTR
+         2        N$6
+
+R10      1        RTS
+         2        N$12
+
+R11      1        GPIO2
+         2        VCC
+
+R12      1        U0RXI
+         2        TXD
+
+R13      1        U0TXO
+         2        RXD
+
+R14      1        GPIO0
+         2        VCC
+
+R15      1        USBVCC
+         2        N$10
+
+R16      1        USBVCC
+         2        N$8
+
+R17      1        GND
+         2        GPIO15
+
+S1       1        GND
+         2        N$14
+         3        VIN
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+         GND3              *** unconnected ***
+         GND4              *** unconnected ***
+
+SJ1      1        GND
+         2        N$5
+
+SJ2      1        GPIO16
+         2        RESET
+
+SJ3      1        LNA2
+         2        TRACE_ANT
+
+SJ4      1        ANT
+         2        LNA2
+
+STANDOFF1
+STANDOFF2
+STANDOFF3
+STANDOFF4
+U$1     
+U$2     
+U1       1        VIN
+         2        GND
+         3        N$14
+         4                 *** unconnected ***
+         5        VCC
+
+U2       1        VCC
+         2        LNA
+         3        VCC
+         4        VCC
+         5                 *** unconnected ***
+         6        ADC
+         7        CHIP_EN
+         8        GPIO16
+         9        GPIO14
+         10       GPIO12
+         11       VCC
+         12       GPIO13
+         13       GPIO15
+         14       GPIO2
+         15       GPIO0
+         16       GPIO4
+         17       VCC
+         18       SD_!HD!
+         19       SD_!WP!
+         20       SD_CS0
+         21       SD_CLK0
+         22       SD_SO
+         23       SD_SI
+         24       GPIO5
+         25       U0RXI
+         26       U0TXO
+         27       N$3
+         28       N$2
+         29       VCC
+         30       VCC
+         31       N$1
+         32       RESET
+         EP       GND
+
+U3       1        SD_CS0
+         2        SD_SO
+         3        SD_!WP!
+         4        GND
+         5        SD_SI
+         6        SD_CLK
+         7        SD_!HD!
+         8        VCC
+
+U4       1        DTR
+         2        RTS
+         3        3.3V_F
+         4        RXD
+         5                 *** unconnected ***
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       TXLED
+         11       N$7
+         12       N$4
+         13       3.3V_F
+         14       3.3V_F
+         15       USBVCC
+         16       GND
+         17       RXLED
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       TXD
+
+Y1       1        N$3
+         2        GND
+         3        N$2
+         4        GND
+

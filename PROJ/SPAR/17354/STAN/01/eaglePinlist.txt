@@ -1,0 +1,605 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 18:20
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        ANT_FILT
+         2        ANT
+
+C2       1        ANT
+         2        GND
+
+C3       1        +3V3
+         2        GND
+
+C4       1        +3V3
+         2        GND
+
+C5       1        +3V3
+         2        GND
+
+C6       1        VSYS
+         2        GND
+
+C7       1        VSYS
+         2        GND
+
+C8       1        +3V3
+         2        GND
+
+C9       1        N$5
+         2        GND
+
+C10      1        +3V3
+         2        GND
+
+C11      1        VBUS
+         2        GND
+
+C12      1        GPS
+         2        GPS_ANT
+
+C13      1        VBUS
+         2        GND
+
+C14      1        VBUS
+         2        GND
+
+C15      1        CP2102N-VDD
+         2        GND
+
+C16      1        CP2102N-VDD
+         2        GND
+
+C17      1        VSYS
+         2        GND
+
+C19      1        LNA_SW_OUT
+         2        GND
+
+C20      1        +3V3
+         2        GND
+
+D3       A        N$8
+         C        P0.03/D7
+
+D4       A        N$13
+         C        CHRG
+
+D5       A        VBUS
+         C        VCC_5V0
+
+D6       A        VBUS
+         C        VSYS
+
+J1       A5       N$3
+         A6       DIFF_P
+         A7       DIFF_N
+         A8                *** unconnected ***
+         B5       N$9
+         B6       DIFF_P
+         B7       DIFF_N
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    GND
+         SHLD2    GND
+         SHLD3    GND
+         SHLD4    GND
+         VBUS1    VBUS
+         VBUS2    VBUS
+
+J2       1        VBAT
+         2        !EN
+         3        VCC_5V0
+         4        P0.04/D8
+         5        P0.03/D7
+         6        P0.02/D6
+         7        P0.01/D5
+         8        P0.00/D4
+         9        P0.30/D3
+         10       P0.29/D2
+         11       P0.27/SCL
+         12       P0.26/SDA
+
+J3       1        !RESET
+         2        +3V3
+         3        MODE/WAKE
+         4        GND
+         5        P0.13/A0
+         6        P0.14/A1
+         7        P0.15/A2
+         8        P0.16/A3
+         9        P0.17/A4
+         10       P0.18/A5
+         11       P0.19/SCK
+         12       P0.21/COPI
+         13       P0.22/CIPO
+         14       P0.23/RX
+         15       P0.24/TX
+         16       P0.31/NRF_PS_EN
+
+J4       1        ANT_FILT
+         2        GND
+         3        GND
+
+J5       1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J6       G1       GND
+         G2       GND
+         G3       GND
+         G4       GND
+         R1                *** unconnected ***
+         R2                *** unconnected ***
+         S1       SIM_VCC
+         S2       SIM_RST
+         S3       SIM_CLK
+         S4       GND
+         S5       VPP
+         S6       SIM_IO
+
+J7       1        GPS_ANT
+         2        GND
+         3        GND
+
+J8       1        +3V3
+         2        SWDIO
+         3        GND
+         4        SWCLK
+         5        GND
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10                *** unconnected ***
+
+J10      1        GND
+         2        +3V3
+         3        P0.26/SDA
+         4        P0.27/SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JMP1     P$1      N$12
+         P$2      P0.29/D2
+
+JMP2     P$1      VSYS
+         P$2      NRF_PS_EN_JMP
+         P$3      P0.31/NRF_PS_EN
+
+L1       1        GND
+         2        ANT_FILT
+
+L2       P$1      N$1
+         P$2      N$2
+
+L4       1        LNA_SW_OUT
+         2        GPS_ANT
+
+LOGO5   
+PCB1    
+Q1       1        RTC_INT
+         2        VSYS
+         3        RTC_PS_EN
+
+Q2       1        GND
+         2        P0.25/VBAT_MEAS_EN
+         3        N$6
+         4        VBAT
+         5        N$7
+         6        N$7
+
+Q3       1        VBUS
+         2        VSYS
+         3        VBAT
+
+Q4       1        MODE/WAKE
+         2        GND
+         3        P0.12/MD
+
+Q5       1        !EN
+         2        GND
+         3        PS_EN
+
+R1       1        GND
+         2        COEX0/LNA_EN
+
+R2       1        GND
+         2        PS_EN_CC
+
+R3       1        P0.20/VBAT_MEAS
+         2        N$6
+
+R4       1        CP2102N-!RST
+         2        CP2102N-VDD
+
+R5       1        PS_EN
+         2        PS_EN_CC
+
+R6       1        RTC_INT
+         2        VSYS
+
+R7       1        GND
+         2        VBUS
+
+R8       1        GND
+         2        P0.20/VBAT_MEAS
+
+R9       1        N$4
+         2        +3V3
+
+R10      1        N$7
+         2        VBAT
+
+R11      1        N$8
+         2        +3V3
+
+R12      1        GND
+         2        PROG
+
+R13      1        GND
+         2        MODE/WAKE
+
+R14      1        N$13
+         2        +3V3
+
+R15      1        CP212_VBUS
+         2        VBUS
+
+R16      1        GND
+         2        CP212_VBUS
+
+R17      1        P0.26/SDA
+         2        +3V3
+
+R18      1        P0.27/SCL
+         2        +3V3
+
+R19      1        GND
+         2        !EN
+
+R20      1        GND
+         2        N$9
+
+R21      1        GND
+         2        N$3
+
+R23      1        N$11
+         2        +3V3
+
+SW1      1        !RESET
+         2        !RESET
+         3        GND
+         4        GND
+
+SW2      1        VSYS
+         2        VSYS
+         3        MODE/WAKE
+         4        MODE/WAKE
+
+TP1      TP       SWDIO
+
+TP2      TP       SWCLK
+
+TP3      TP       SIM_CLK
+
+TP4      TP       SIM_RST
+
+TP5      TP       SIM_VCC
+
+TP6      TP       SIM_IO
+
+U$1     
+U$2     
+U$3      1                 *** unconnected ***
+
+U$4      1                 *** unconnected ***
+
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24     1                 *** unconnected ***
+
+U$31     P$1               *** unconnected ***
+
+U$32     P$1               *** unconnected ***
+
+U$35     1                 *** unconnected ***
+
+U$69    
+U$71    
+U$72    
+U$73    
+U$74    
+U$75    
+U$83    
+U$84    
+U$85    
+U$86    
+U$87    
+U$88    
+U$89    
+U$90    
+U$91    
+U$92    
+U$93    
+U1       1        GND
+         2        P0.05/USB_UART_RX
+         3        P0.06/USB_UART_TX
+         4        FLASH_CS
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        GND
+         10                *** unconnected ***
+         11       GND
+         12       +3V3
+         13       N$5
+         14       GND
+         15       FLASH_WP
+         16       FLASH_SI
+         17       GND
+         18       FLASH_HOLD
+         19       FLASH_SCK
+         20       P0.12/MD
+         21       GND
+         22       +3V3
+         23       P0.13/A0
+         24       P0.14/A1
+         25       P0.15/A2
+         26       P0.16/A3
+         27       GND
+         28       P0.17/A4
+         29       P0.18/A5
+         30       P0.19/SCK
+         31       GND
+         32       !RESET
+         33       SWCLK
+         34       SWDIO
+         35       P0.20/VBAT_MEAS
+         36       GND
+         37       P0.21/COPI
+         38       P0.22/CIPO
+         39       P0.23/RX
+         40       P0.24/TX
+         41       GND
+         42       P0.25/VBAT_MEAS_EN
+         43       SIM_RST
+         44       GND
+         45       SIM_DET
+         46       SIM_CLK
+         47       GND
+         48       SIM_IO
+         49       SIM_VCC
+         50       GND
+         51                *** unconnected ***
+         52       GND
+         53                *** unconnected ***
+         54                *** unconnected ***
+         55                *** unconnected ***
+         56       GND
+         57       VIO
+         58                *** unconnected ***
+         59                *** unconnected ***
+         60       GND
+         61       ANT
+         62       GND
+         63       GND
+         64                *** unconnected ***
+         65       GND
+         66       GND
+         67       GPS
+         68       GND
+         69       GND
+         70                *** unconnected ***
+         71                *** unconnected ***
+         72       GND
+         73                *** unconnected ***
+         74       GND
+         75       GND
+         76       GND
+         77       GND
+         78       GND
+         79       GND
+         80       GND
+         81       GND
+         82       GND
+         83       P0.26/SDA
+         84       P0.27/SCL
+         85       GND
+         86       FLASH_SO
+         87       P0.29/D2
+         88       P0.30/D3
+         89       P0.31/NRF_PS_EN
+         90       GND
+         91                *** unconnected ***
+         92                *** unconnected ***
+         93       COEX0/LNA_EN
+         94       GND
+         95       P0.00/D4
+         96       P0.01/D5
+         97       P0.02/D6
+         98       GND
+         99       P0.03/D7
+         100      P0.04/D8
+         101      N$4
+         102      +3V3
+         104               *** unconnected ***
+         105               *** unconnected ***
+         106               *** unconnected ***
+         107               *** unconnected ***
+         108               *** unconnected ***
+         109               *** unconnected ***
+         110               *** unconnected ***
+         111               *** unconnected ***
+         112               *** unconnected ***
+         113               *** unconnected ***
+         114               *** unconnected ***
+         115               *** unconnected ***
+         116               *** unconnected ***
+         117               *** unconnected ***
+         118               *** unconnected ***
+         119               *** unconnected ***
+         120               *** unconnected ***
+         121               *** unconnected ***
+         122               *** unconnected ***
+         123               *** unconnected ***
+         124               *** unconnected ***
+         125               *** unconnected ***
+         126               *** unconnected ***
+         127               *** unconnected ***
+         103_1    GND
+         103_2    GND
+         103_3    GND
+         103_4    GND
+         103_5    GND
+         103_6    GND
+         103_7    GND
+         103_8    GND
+         103_9    GND
+         103_10   GND
+         103_11   GND
+         103_12   GND
+         103_13   GND
+         103_14   GND
+         103_15   GND
+         103_16   GND
+         103_17   GND
+         103_18   GND
+         103_19   GND
+         103_20   GND
+         103_21   GND
+         103_22   GND
+         103_23   GND
+         103_24   GND
+         103_25   GND
+         103_26   GND
+         103_27   GND
+         103_28   GND
+         103_29   GND
+         103_30   GND
+         103_31   GND
+         103_32   GND
+         103_33   GND
+         103_34   GND
+         103_35   GND
+
+U2       1        CHRG
+         2        GND
+         3        VBAT
+         4        VBUS
+         5        PROG
+
+U3       1        +3V3
+         2        N$2
+         3        GND
+         4        N$1
+         5        VSYS
+         6        PS_EN
+         7        VSYS
+         8        VSYS
+         9        GND
+         10       +3V3
+         11       GND
+
+U4       1        LNA_SW_OUT
+         2        GND
+         3                 *** unconnected ***
+         4        +3V3
+         5        GND
+         6        COEX0/LNA_EN
+
+U5       1                 *** unconnected ***
+         2        GND
+         3        DIFF_P
+         4        DIFF_N
+         5        CP2102N-VDD
+         6        CP2102N-VDD
+         7        VBUS
+         8        CP212_VBUS
+         9        CP2102N-!RST
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       P0.06/USB_UART_TX
+         21       P0.05/USB_UART_RX
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       GND
+
+U6       1        FLASH_CS
+         2        FLASH_SO
+         3        FLASH_WP
+         4        GND
+         5        FLASH_SI
+         6        FLASH_SCK
+         7        FLASH_HOLD
+         8        +3V3
+         9                 *** unconnected ***
+
+U8       1        N$10
+         2        N$18
+         3        GND
+         4        RTC_INT
+         5        GND
+         6        P0.26/SDA
+         7        P0.27/SCL
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       VSYS
+         11       GND
+
+U9       1        NRF_PS_EN_JMP
+         2        VBUS
+         3        PS_EN_CC
+         4        MODE/WAKE
+         5        RTC_PS_EN
+         6        PS_EN_CC
+
+U12      1        P0.27/SCL
+         2        N$11
+         3        GND
+         4        P0.26/SDA
+         5        GND
+         6        GND
+         7        GND
+         8        GND
+         9        +3V3
+         10       +3V3
+         11                *** unconnected ***
+         12       N$12
+
+Y1       1        N$18
+         2        N$10
+

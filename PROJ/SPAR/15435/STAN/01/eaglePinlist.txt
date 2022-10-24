@@ -1,0 +1,294 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 03:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C6       1        V_BATT
+         2        GND
+
+C7       1        N$1
+         2        GND
+
+C10      1        3.3V
+         2        GND
+
+C19      1        V_USB
+         2        GND
+
+D1       A        N$17
+         C        CHG
+
+D2       A        V_USB
+         C        N$1
+
+D3       A        N$4
+         C        GND
+
+D4       A        N$5
+         C        GND
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+H1      
+H2      
+H3      
+H4      
+J1       1        V_BATT
+         2        EN
+         3        V_USB
+         4        D17
+         5        D7
+         6        D8
+         7        D9
+         8        D10
+         9        D12
+         10       D19
+         11       D1
+         12       D11
+
+J2       1        !RST
+         2        3.3V
+         3                 *** unconnected ***
+         4        GND
+         5        A0
+         6        A2
+         7        A3
+         8        D4
+         9        D5
+         10       D6
+         11       SCK
+         12       MOSI
+         13       MISO
+         14       D14
+         15       D13
+         16       GND
+
+J3       1        GND
+         2        3.3V
+         3        D11
+         4        D1
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J4       1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J5       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     V_USB
+         SHIELD   N$6
+         SHIELD2  N$6
+         SHIELD3  N$6
+         SHIELD4  N$6
+         SHIELD5  N$6
+         SHIELD6  N$6
+         SHIELD7  N$6
+         SHIELD8  N$6
+         SHIELD9  N$6
+         SHIELD10 N$6
+
+LOGO1   
+LOGO2   
+Q1       1        V_USB
+         2        N$1
+         3        V_BATT
+
+R1       1        3.3V
+         2        N$2
+
+R2       1        V_USB
+         2        N$3
+
+R3       1        V_USB
+         2        N$17
+
+R4       1        D4
+         2        N$4
+
+R5       1        !RST
+         2        3.3V
+
+R6       1        GND
+         2        N$14
+
+R7       1        GND
+         2        V_USB
+
+R8       1        N$1
+         2        EN
+
+R9       1        3.3V
+         2        N$5
+
+S1       1                 *** unconnected ***
+         2        !RST
+         3        GND
+         4        GND
+
+S2       1                 *** unconnected ***
+         2        D5
+         3        GND
+         4        GND
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$52    
+U$54    
+U$55    
+U$56    
+U$57    
+U$58    
+U$59    
+U$60    
+U$61    
+U$62    
+U$63    
+U$64    
+U$65    
+U$66    
+U$67    
+U$68    
+U$69    
+U$70    
+U$71    
+U$72    
+U1       P$1      GND
+         P$2      3.3V
+         P$3      D13
+         P$4      D14
+         P$5      D12
+         P$6      !RST
+         P$7      D10
+         P$8      D11
+         P$9      D8
+         P$10     GND
+         P$11     D19
+         P$12     GND
+         P$13     SCK
+         P$14     D17
+         P$15     MOSI
+         P$16     MISO
+         P$17              *** unconnected ***
+         P$18              *** unconnected ***
+         P$19              *** unconnected ***
+         P$20              *** unconnected ***
+         P$21     GND
+         P$22              *** unconnected ***
+         P$23     D4
+         P$24     D7
+         P$25     D9
+         P$26     D5
+         P$27     D6
+         P$28     A3
+         P$29     A2
+         P$30     D1
+         P$31     A0
+         P$32     GND
+         P$33              *** unconnected ***
+         P$34     GND
+
+U2       1        CHG
+         2        GND
+         3        V_BATT
+         4        V_USB
+         5        N$14
+
+U3       1        N$1
+         2        GND
+         3        EN
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1                 *** unconnected ***
+         2        GND
+         3        D+
+         4        D-
+         5        3.3V
+         6        3.3V
+         7        N$3
+         8        N$3
+         9        N$2
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       D6
+         20       D13
+         21       D14
+         22                *** unconnected ***
+         23       D8
+         24                *** unconnected ***
+         PAD      GND
+

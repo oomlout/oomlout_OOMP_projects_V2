@@ -1,0 +1,107 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 15:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3.3V
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C5       A        VCC
+         C        GND
+
+F1       1        N$3
+         2        VCC
+
+FRAME1  
+JP1      1        GND
+         2        TXLED
+         3        RXLED
+         4        VCC
+         5        3.3V
+         6        CTS
+         7        SLEEP
+         8        TXDEN
+         9        PWREN
+
+JP2      1        TXD
+         2        DTR
+         3        RTS
+         4        VCCIO
+         5        RXD
+         6        RI
+         7        GND
+         8        DSR
+         9        DCD
+
+JP3      1        3.3V
+         2        TXD
+         3        RXD
+         4        GND
+
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+JP7      D+1      USB_D+
+         D-1      USB_D-
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    N$3
+
+LED1     A        N$1
+         C        TXLED
+
+LED2     A        N$2
+         C        RXLED
+
+LOGO1   
+R1       1        N$1
+         2        VCCIO
+
+R2       1        N$2
+         2        VCCIO
+
+S1       1        3.3V
+         2        VCCIO
+         3        VCC
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+U$1     
+U$2     
+U1       1        TXD
+         2        DTR
+         3        RTS
+         4        VCCIO
+         5        RXD
+         6        RI
+         7        GND
+         8                 *** unconnected ***
+         9        DSR
+         10       DCD
+         11       CTS
+         12       SLEEP
+         13       TXDEN
+         14       PWREN
+         15       USB_D+
+         16       USB_D-
+         17       3.3V
+         18       GND
+         19                *** unconnected ***
+         20       VCC
+         21       GND
+         22       RXLED
+         23       TXLED
+         24                *** unconnected ***
+         25       GND
+         26       GND
+         27                *** unconnected ***
+         28                *** unconnected ***
+

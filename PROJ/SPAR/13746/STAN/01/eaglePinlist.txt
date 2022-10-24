@@ -1,0 +1,90 @@
+Pinlist
+
+Exported from boardEagle.brd at 19/08/2022 21:40
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        5V
+         2        GND
+
+C2       1        3V3
+         2        GND
+
+C3       1        5V
+         2        GND
+
+C4       A        5V
+         C        GND
+
+C5       1        3V3LC
+         2        GND
+
+D1       A        N$2
+         C        RXLED
+
+D2       A        N$1
+         C        TXLED
+
+FRAME1  
+JP1      D+1      USB_D+
+         D-1      USB_D-
+         ID1               *** unconnected ***
+         GND1     GND
+         VBUS1    5V
+         SHIELD1  SHIELD
+         SHIELD2  SHIELD
+         SHIELD3  SHIELD
+
+JP2      1        GND
+         2        !CTS
+         3        3V3
+         4        TXO
+         5        RXI
+         6        !DTR
+
+JP3      1                 *** unconnected ***
+
+JP4      1                 *** unconnected ***
+
+JP5      1                 *** unconnected ***
+
+JP6      1                 *** unconnected ***
+
+LOGO1   
+LOGO2   
+LOGO3   
+R1       1        N$2
+         2        5V
+
+R2       1        N$1
+         2        5V
+
+U1       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3V3
+
+U2       1        !DTR
+         2                 *** unconnected ***
+         3        3V3LC
+         4        RXI
+         5                 *** unconnected ***
+         6        GND
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        !CTS
+         10       TXLED
+         11       USB_D+
+         12       USB_D-
+         13       3V3LC
+         14       3V3LC
+         15       5V
+         16       GND
+         17       RXLED
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       TXO
+

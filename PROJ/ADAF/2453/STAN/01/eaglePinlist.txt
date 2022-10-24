@@ -1,0 +1,305 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 17:41
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        LEDK
+         2        GND
+
+C2       1        +24V
+         2        GND
+
+C3       1        VBUS
+         2        GND
+
+C4       1        VBUS
+         2        GND
+
+C5       1        VUSB
+         2        GND
+
+C7       1        5.0V
+         2        GND
+
+C8       1        +24V
+         2        GND
+
+D1       A        LEDK
+         C        +24V
+
+D2       A        N$5
+         C        +24V
+
+D3       A        PWM
+         C        N$27
+
+FB1      1        X+
+         2        XR
+
+FB2      1        Y+
+         2        YD
+
+FB3      1        X-
+         2        XL
+
+FB4      1        Y-
+         2        YU
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+FID3     1                 *** unconnected ***
+
+IC1      1        VBUS
+         2        N$34
+         3        N$33
+         4        VBUS
+         5        N$28
+         6        GND
+         7        X+
+         8        GND
+         9        GND
+         10                *** unconnected ***
+         11       N$31
+         12                *** unconnected ***
+         13       GND
+         14       X-
+         15       Y+
+         16       Y-
+         17       VUSB
+         18       D-
+         19       D+
+         20       GND
+
+J1       1        LEDK
+         2        +24V
+         3        GND
+         4        3.3V
+         5        N$6
+         6        N$4
+         7        N$10
+         8        N$9
+         9        N$8
+         10       N$7
+         11       N$6
+         12       N$4
+         13       N$15
+         14       N$16
+         15       N$11
+         16       N$12
+         17       N$13
+         18       N$14
+         19       N$15
+         20       N$16
+         21       N$21
+         22       N$22
+         23       N$17
+         24       N$18
+         25       N$19
+         26       N$20
+         27       N$21
+         28       N$22
+         29       GND
+         30       N$23
+         31       ON/OFF
+         32       N$24
+         33       N$25
+         34       N$26
+         35                *** unconnected ***
+         36       GND
+         37       XR
+         38       YD
+         39       XL
+         40       YU
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+
+L1       P$1      5.0V
+         P$2      N$5
+
+LED1     A        N$28
+         C        N$29
+
+R1       1        PWM
+         2        5.0V
+
+R2       1        N$1
+         2        LEDK
+
+R3       1        N$2
+         2        LEDK
+
+R4       1        N$3
+         2        LEDK
+
+R5       1        ON/OFF
+         2        3.3V
+
+R6       1        N$7
+         2        N$8
+         3        N$9
+         4        N$10
+         5        R2
+         6        R3
+         7        R4
+         8        R5
+
+R7       1        GND
+         2        LEDK
+
+R8       1        R6
+         2        R7
+         3        G2
+         4        G3
+         5        N$12
+         6        N$11
+         7        N$4
+         8        N$6
+
+R9       1        G4
+         2        G5
+         3        G6
+         4        G7
+         5        N$16
+         6        N$15
+         7        N$14
+         8        N$13
+
+R10      1        B2
+         2        B3
+         3        B4
+         4        B5
+         5        N$20
+         6        N$19
+         7        N$18
+         8        N$17
+
+R11      1        B6
+         2        B7
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        N$22
+         8        N$21
+
+R12      1        CLK
+         2        HSYNC
+         3        VSYNC
+         4        DE
+         5        N$26
+         6        N$25
+         7        N$24
+         8        N$23
+
+R13      1        GND
+         2        N$29
+
+R14      1        N$31
+         2        X-
+
+RPI1     1        3.3V
+         2        5.0V
+         3        VSYNC
+         4        5.0V
+         5        HSYNC
+         6        GND
+         7        B2
+         8        G6
+         9        GND
+         10       G7
+         11       R3
+         12       R4
+         13       GPIO27
+         14       GND
+         15       GPIO22
+         16       GPIO23
+         17       3.3V
+         18       GPIO24
+         19       G2
+         20       GND
+         21       B7
+         22       GPIO25
+         23       G3
+         24       B6
+         25       GND
+         26       B5
+         27       CLK
+         28       DE
+         29       B3
+         30       GND
+         31       B4
+         32       G4
+         33       G5
+         34       GND
+         35       R5
+         36       R2
+         37       GPIO26
+         38       R6
+         39       GND
+         40       R7
+
+SJ1      1        GND
+         2        N$1
+
+SJ2      1        GND
+         2        N$2
+
+SJ3      1        GND
+         2        N$3
+
+TP1      TP       GPIO27
+
+TP2      TP       GPIO22
+
+TP3      TP       GPIO23
+
+TP4      TP       GPIO24
+
+TP5      TP       ON/OFF
+
+TP6      TP       N$27
+
+TP7      TP       5.0V
+
+TP8      TP       3.3V
+
+TP9      TP       GND
+
+TP10     TP       GND
+
+TP11     TP       GND
+
+TP12     TP       GPIO25
+
+TP13     TP       GPIO26
+
+U$30    
+U$31    
+U$32    
+U3       1        N$5
+         2        GND
+         3        LEDK
+         4        PWM
+         5        5.0V
+
+X1       D+       D+
+         D-       D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     VBUS
+         BASE@1   GND
+         BASE@2   GND
+         SPRT@1   GND
+         SPRT@2   GND
+         SPRT@3   GND
+         SPRT@4   GND
+
+Y1       1        N$34
+         2        GND
+         3        N$33
+

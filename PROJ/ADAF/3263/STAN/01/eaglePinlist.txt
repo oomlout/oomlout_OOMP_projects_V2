@@ -1,0 +1,100 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/08/2022 21:35
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        T-
+
+C2       1        T-
+         2        T+
+
+C3       1        T+
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        3.3V
+         2        GND
+
+C6       1        VIN
+         2        GND
+
+C7       1        3.3V
+         2        GND
+
+D1       A        !CS_3V
+         C        !CS
+
+D2       A        SCK_3V
+         C        SCK
+
+D3       A        SDO_3V
+         C        SDI
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        DRDY
+         2        !FAULT
+         3        !CS
+         4        SDI
+         5        SDO
+         6        SCK
+         7        GND
+         8        3.3V
+         9        VIN
+
+R1       1        THERM-
+         2        T-
+
+R2       1        THERM+
+         2        T+
+
+R3       1        SDO_3V
+         2        3.3V
+
+R4       1        SCK_3V
+         2        3.3V
+
+R5       1        !CS_3V
+         2        3.3V
+
+U$1     
+U$13     P$1               *** unconnected ***
+
+U$14     P$1               *** unconnected ***
+
+U$23    
+U$24    
+U$25    
+U$26    
+U1       1        VIN
+         2        GND
+         3        VIN
+         4                 *** unconnected ***
+         5        3.3V
+
+U2       1        GND
+         2        THERM-
+         3        T-
+         4        T+
+         5        3.3V
+         6                 *** unconnected ***
+         7        DRDY
+         8        3.3V
+         9        !CS_3V
+         10       SCK_3V
+         11       SDO
+         12       SDO_3V
+         13       !FAULT
+         14       GND
+
+X1       1        THERM+
+         2        THERM-
+

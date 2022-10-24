@@ -1,0 +1,263 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 01:58
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+B1       +        BACKUP
+         -        GND
+
+C1       1        ANT_VCC
+         2        GND
+
+C3       1        BACKUP
+         2        GND
+
+C4       1        3.3V
+         2        GND
+
+C5       1        GND
+         2        3.3V
+
+C6       1        5V
+         2        GND
+
+D1       A        N$2
+         C        GND
+
+D2       A        3.3V
+         C        N$6
+
+D3       A        N$1
+         C        GND
+
+D4       A        N$7
+         C        GND
+
+D5       1        USB_D-
+         2        GND
+         3        USB_D+
+         4        D+
+         5        5V
+         6        D-
+
+FB1      1        GPS_ANT1
+         2        ANT_VCC
+
+FRAME1  
+J1       1        GND
+         2        5V
+         3        3.3V
+         4        SDA/!CS
+         5        RXI/MOSI
+         6        TXO/MISO
+         7        SCL/SCK
+
+J2       1        GND
+         2        3.3V
+         3        SDA/!CS
+         4        SCL/SCK
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        GND
+         2        3.3V
+         3        SDA/!CS
+         4        SCL/SCK
+
+J4       1        GND
+         2        3.3V
+         3        SDA/!CS
+         4        SCL/SCK
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J6       D+       USB_D+
+         D-       USB_D-
+         ID                *** unconnected ***
+         GND      GND
+         VBUS     5V
+         SHIELD   SHLD
+         SHIELD2  SHLD
+         SHIELD3  SHLD
+         SHIELD4  SHLD
+         SHIELD5  SHLD
+         SHIELD6  SHLD
+         SHIELD7  SHLD
+         SHIELD8  SHLD
+         SHIELD9  SHLD
+         SHIELD10 SHLD
+
+J13      1        GND
+         2        GND
+         NC                *** unconnected ***
+         FEED     GPS_ANT1
+
+JP1      1        N$4
+         2        PPS
+
+JP2      1        N$3
+         2        RTK_STAT
+
+JP3      1        N$9
+         2        FENCE_STAT
+
+JP4      1        GND
+         2        D_SEL
+
+JP5      1        N$5
+         2        3.3V
+         3        N$8
+
+JP15     1        INT
+         2        !SAFE
+         3        !RESET
+         4        PPS
+         5        RTK_STAT
+         6        FENCE_STAT
+
+JP21     1                 *** unconnected ***
+
+JP31    
+JP41    
+JP61     1                 *** unconnected ***
+
+JP71     1                 *** unconnected ***
+
+JP81     1                 *** unconnected ***
+
+JP91    
+JP101   
+LED2     A        N$10
+         C        GND
+
+LOGO1   
+LOGO2   
+R1       1        N$10
+         2        3.3V
+
+R2       1        SDA_LV
+         2        SDA/!CS
+
+R3       1        TXLV
+         2        TXO/MISO
+
+R4       1        SCL_LV
+         2        SCL/SCK
+
+R5       1        BACKUP
+         2        N$6
+
+R6       1        RXLV
+         2        RXI/MOSI
+
+R7       1        SCL/SCK
+         2        N$8
+
+R8       1        SDA/!CS
+         2        N$5
+
+R9       1        D+
+         2        N$11
+
+R10      1        D-
+         2        N$12
+
+R11      1        N$2
+         2        N$4
+
+R12      1        N$1
+         2        N$3
+
+R13      1        N$7
+         2        N$9
+
+R14      1        ANT_VCC
+         2        N$13
+
+R15      1        GND
+         2        3.3V
+
+U$1     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$16    
+U$17    
+U$18    
+U$19    
+U$20    
+U$21    
+U$22    
+U$23    
+U$24    
+U$25    
+U$26    
+U$27    
+U$28    
+U$29    
+U$30    
+U$31    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$43    
+U$44    
+U$52    
+U$53    
+U$54    
+U$55    
+U$60    
+U$61    
+U$62    
+U$63    
+U1       1        !SAFE
+         2        D_SEL
+         3        PPS
+         4        INT
+         5        N$12
+         6        N$11
+         7        3.3V
+         8        !RESET
+         9        N$13
+         10       GND
+         11       GPS_ANT1
+         12       GND
+         13       GND
+         14                *** unconnected ***
+         15       RTK_STAT
+         16       FENCE_STAT
+         17                *** unconnected ***
+         18       SDA_LV
+         19       SCL_LV
+         20       TXLV
+         21       RXLV
+         22       BACKUP
+         23       3.3V
+         24       GND
+
+U2       1        5V
+         2        GND
+         3        5V
+         4                 *** unconnected ***
+         5        3.3V
+

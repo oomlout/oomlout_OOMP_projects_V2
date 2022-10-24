@@ -1,0 +1,470 @@
+Pinlist
+
+Exported from boardEagle.brd at 20/08/2022 06:06
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BT1      +        RTC_BAT+
+         -        GND
+
+C1       1        VIN
+         2        GND
+
+C2       1        3.3V
+         2        GND
+
+C3       1        5V
+         2        GND
+
+C4       1        V_BATT
+         2        GND
+
+C5       1        QWIIC_3.3V
+         2        GND
+
+C7       1        QWIIC_3.3V
+         2        GND
+
+C29      1        GND
+         2        N$20
+
+C30      1        GND
+         2        N$21
+
+C31      1        GND
+         2        VCC_1
+
+C32      1        VCC_1
+         2        GND
+
+C33      1        VCC_1
+         2        GND
+
+C40      1        3.3V
+         2        GND
+
+C41      1        3.3V
+         2        GND
+
+C42      1        ARTEMIS_!RTS!
+         2        ARTEMIS_!RESET
+
+C43      1        ARTEMIS_!RTS!
+         2        ARTEMIS_BOOT
+
+C44      1        ARTEMIS_!RESET
+         2        GND
+
+C46      1        SD_PWR
+         2        GND
+
+C51      1        N$30
+         2        GND
+
+C52      1        ICM-20948-LV_#_1.8V
+         2        GND
+
+C53      1        ICM-20948-LV_#_1.8V
+         2        GND
+
+C54      1        3.3V
+         2        GND
+
+D1       A        V_BATT
+         C        5V
+
+D2       A        5V
+         C        N$11
+
+D3       A        RTC_BAT+
+         C        VCC_1
+
+D6       A        3.3V
+         C        VCC_1
+
+D9       A        N$25
+         C        GND
+
+D11      A        N$27
+         C        ARTEMIS_RX0
+
+D12      A        N$26
+         C        ARTEMIS_TX0
+
+FD1      1                 *** unconnected ***
+
+FD2      1                 *** unconnected ***
+
+FD3      1                 *** unconnected ***
+
+FD4      1                 *** unconnected ***
+
+FRAME1  
+GND      P$1      GND
+
+H1      
+H2      
+H3      
+H4      
+J1       1        V_BATT
+         2        GND
+
+J2       1        GND
+         2        V_BATT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J3       1        VREG_EN
+         2        GND
+
+J4       1        ARTEMIS_~AD11
+         2        ARTEMIS_~AD13/RX1
+         3        ARTEMIS_~AD12/TX1
+         4        ARTEMIS_~AD32
+         5        3.3V
+         6        GND
+
+J5       A5       CC4
+         A6       D+2
+         A7       D-2
+         A8                *** unconnected ***
+         B5       CC3
+         B6       D+2
+         B7       D-2
+         B8                *** unconnected ***
+         GND      GND
+         GND2     GND
+         SHLD1    N$1
+         SHLD2    N$1
+         SHLD3    N$1
+         SHLD4    N$1
+         VBUS1    5V
+         VBUS2    5V
+
+J6       CD1      GND
+         CD2               *** unconnected ***
+         GND      GND
+         VCC      SD_PWR
+         DAT1     DAT1
+         DAT2     DAT2
+         GND1     GND
+         GND3     GND
+         SCLK     SCK
+         DI/CMD   SDO
+         CS/DAT3  MICROSD_!CS!
+         DO/DAT0  SDI
+
+J7       1        ARTEMIS_!RESET
+
+J11      1        GND
+         2        QWIIC_3.3V
+         3        SDA
+         4        SCL
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+J14      1        3.3V
+         2        ARTEMIS_SWDIO
+         3        GND
+         4        ARTEMIS_SWDCK
+         5        GND
+         6        SWO
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        GND
+         10       ARTEMIS_!RESET
+
+JP2      1        5V
+         2        VIN
+         3        5V
+         4        VIN
+
+LED1     A        N$24
+         C        GND
+
+LOGO1   
+LOGO2   
+LOGO3   
+LOGO4   
+LOGO5   
+Q1       1        ICM-20948-LV_#_1.8V
+         2        ICM-20948-LV_SCK
+         3        SCK
+
+Q2       1        MICROSD_PWR
+         2        3.3V
+         3        SD_PWR
+
+Q3       1        ICM-20948-LV_#_1.8V
+         2        ICM-20948-LV_SDI
+         3        SDO
+
+Q7       1        ICM-20948-LV_#_1.8V
+         2        ICM-20948-LV_INT
+         3        ICM_INT
+
+Q9       1        ICM-20948-LV_#_1.8V
+         2        ICM-20948-LV_!CS!
+         3        ICM_!CS!
+
+Q10      1        ICM-20948-LV_#_1.8V
+         2        ICM-20948-LV_SDO
+         3        SDI
+
+QWIIC_3.3V P$1      QWIIC_3.3V
+
+R1       1        RTC_BAT+
+         2        VCC_1
+
+R2       1        VREG_EN
+         2        VIN
+
+R3       1        GND
+         2        QWIIC_PWR
+
+R4       1        GND
+         2        N$7
+
+R5       1        CHG_LED
+         2        N$11
+
+R6       1        GND
+         2        VIN/3
+
+R7       1        VIN/3
+         2        VIN
+
+R8       1        GND
+         2        N$1
+
+R22      1        N$24
+         2        PWR_LED
+
+R23      1        N$25
+         2        STATLED
+
+R24      1        N$27
+         2        3.3V
+
+R25      1        N$26
+         2        3.3V
+
+R26      1        GND
+         2        CC3
+
+R27      1        GND
+         2        CC4
+
+R28      1        ARTEMIS_!RESET
+         2        VCC_1
+
+R29      1        GND
+         2        ARTEMIS_BOOT
+
+R40      1        ICM-20948-LV_SCK
+         2        ICM-20948-LV_#_1.8V
+
+R41      1        ICM-20948-LV_SDI
+         2        ICM-20948-LV_#_1.8V
+
+R44      1        ICM-20948-LV_INT
+         2        ICM-20948-LV_#_1.8V
+
+R45      1        ICM_INT
+         2        3.3V
+
+R46      1        ICM-20948-LV_!CS!
+         2        ICM-20948-LV_#_1.8V
+
+R47      1        ICM_!CS!
+         2        3.3V
+
+R48      1        ICM-20948-LV_SDO
+         2        ICM-20948-LV_#_1.8V
+
+R49      1        SDI
+         2        3.3V
+
+S3       1        GND
+         2        GND
+         3        ARTEMIS_!RESET
+         4        ARTEMIS_!RESET
+
+SCL      P$1      SCL
+
+SDA      P$1      SDA
+
+TP1      P$1      RTC_BAT+
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U$7     
+U$8     
+U$9     
+U$10    
+U$11    
+U$12    
+U$13    
+U$14    
+U$15    
+U$27    
+U$28    
+U$32    
+U$33    
+U$34    
+U$35    
+U$36    
+U$37    
+U$38    
+U$39    
+U$40    
+U$41    
+U$42    
+U$43    
+U$44    
+U$45    
+U$46    
+U$47    
+U$48    
+U$49    
+U$50    
+U$51    
+U$54    
+U$55    
+U$56    
+U1       1        GND
+         2        !POWER_LOSS!
+         3        3.3V
+
+U2       1        CHG_LED
+         2        GND
+         3        V_BATT
+         4        5V
+         5        N$7
+
+U3       1        VIN
+         2        GND
+         3        VREG_EN
+         4                 *** unconnected ***
+         5        3.3V
+
+U4       1        VIN
+         2        GND
+         3        QWIIC_PWR
+         4                 *** unconnected ***
+         5        QWIIC_3.3V
+
+U8       D0                *** unconnected ***
+         D1                *** unconnected ***
+         D2                *** unconnected ***
+         D3       !POWER_LOSS!
+         D7       SDO
+         D8       SCL
+         D9       SDA
+         XI       N$21
+         XO       N$20
+         D10               *** unconnected ***
+         D14               *** unconnected ***
+         D15      MICROSD_PWR
+         D17               *** unconnected ***
+         D36               *** unconnected ***
+         D38               *** unconnected ***
+         D40               *** unconnected ***
+         D41               *** unconnected ***
+         ~D4      DAT2
+         ~D5      SCK
+         ~D6      SDI
+         AD16              *** unconnected ***
+         AD34     VIN/3
+         BOOT     ARTEMIS_BOOT
+         ~D18     QWIIC_PWR
+         ~D19     STATLED
+         ~D22     SDI
+         ~D23     MICROSD_!CS!
+         ~D24              *** unconnected ***
+         ~D25     VREG_EN1
+         ~D26     DAT1
+         ~D27     ICM_PWR
+         ~D28              *** unconnected ***
+         ~D37     ICM_INT
+         ~D39              *** unconnected ***
+         ~D42              *** unconnected ***
+         ~D43              *** unconnected ***
+         ~D44     ICM_!CS!
+         ~D45              *** unconnected ***
+         ~RST     ARTEMIS_!RESET
+         GND@1    GND
+         RXI-0    ARTEMIS_RX0
+         SWDCK    ARTEMIS_SWDCK
+         SWDIO    ARTEMIS_SWDIO
+         TXO-0    ARTEMIS_TX0
+         ~AD11    ARTEMIS_~AD11
+         ~AD12    ARTEMIS_~AD12/TX1
+         ~AD13    ARTEMIS_~AD13/RX1
+         ~AD29    PWR_LED
+         ~AD31             *** unconnected ***
+         ~AD32    ARTEMIS_~AD32
+         ~AD35             *** unconnected ***
+         GND@22   GND
+         GND@38   GND
+         GND@39   GND
+         GND@47   GND
+         GND@59   GND
+         VDD@36   VCC_1
+         VDD@37   VCC_1
+         ~AD33/SWO  SWO
+
+U10      1        D+2
+         2        D-2
+         3        GND
+         4        ARTEMIS_!RTS!
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        3.3V
+         8        ARTEMIS_RX0
+         9        ARTEMIS_TX0
+         10       3.3V
+
+U13      1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8        ICM-20948-LV_#_1.8V
+         9        ICM-20948-LV_SDO
+         10       N$30
+         11                *** unconnected ***
+         12       ICM-20948-LV_INT
+         13       ICM-20948-LV_#_1.8V
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18       GND
+         19                *** unconnected ***
+         20       GND
+         21                *** unconnected ***
+         22       ICM-20948-LV_!CS!
+         23       ICM-20948-LV_SCK
+         24       ICM-20948-LV_SDI
+
+U14      1        3.3V
+         2        GND
+         3        ICM_PWR
+         4                 *** unconnected ***
+         5        ICM-20948-LV_#_1.8V
+
+VE       1        VREG_EN1
+         2        VREG_EN
+
+Y3       P$1      N$21
+         P$2      N$20
+

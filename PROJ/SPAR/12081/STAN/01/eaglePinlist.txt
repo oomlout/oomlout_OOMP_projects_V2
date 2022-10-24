@@ -1,0 +1,338 @@
+Pinlist
+
+Exported from boardEagle.brd at 18/08/2022 09:24
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VCC
+         2        GND
+
+C2       1        VCC
+         2        GND
+
+C3       1        N$8
+         2        GND
+
+C4       1        DTR
+         2        RST
+
+C5       1        VRAW
+         2        GND
+
+C6       1        N$6
+         2        GND
+
+C7       A        VCC
+         C        GND
+
+C8       1        3V-INT
+         2        GND
+
+C9       1        VCC
+         2        GND
+
+C10      1        GND
+         2        VCC
+
+C11      1        VCC
+         2        GND
+
+C12      1        VCC
+         2        GND
+
+D1       A        N$1
+         C        GND
+
+D2       A        N$5
+         C        GND
+
+D3       1        RF-RX
+         2        GND
+
+D4       1        RF-RTS
+         2        GND
+
+D5       1        VCC
+         2        RAIN
+
+D6       1        RAIN
+         2        GND
+
+D7       1        VCC
+         2        WDIR
+
+D8       1        WDIR
+         2        GND
+
+D9       1        VCC
+         2        WSPEED
+
+D10      1        WSPEED
+         2        GND
+
+D11      1        VCC
+         2        GND
+
+E$1      1                 *** unconnected ***
+
+E$2      1                 *** unconnected ***
+
+JP1      1        GND
+         2        VBAT
+         NC1               *** unconnected ***
+         NC2               *** unconnected ***
+
+JP2      1        GND
+         2        VBAT
+
+JP3      1        MISO
+         2        VCC
+         3        SCK
+         4        MOSI
+         5        RST
+         6        GND
+
+JP4      D+       USB_D+
+         D-       USB_D-
+         ID                *** unconnected ***
+         GND      GND
+         MTN1              *** unconnected ***
+         MTN2              *** unconnected ***
+         MTN3              *** unconnected ***
+         MTN4              *** unconnected ***
+         VBUS     VUSB
+
+JP5-DNP  1        RF-CTS
+         2        VRAW
+         3        GND
+         4        BT-RX
+         5        TX
+         6        BT-RTS
+
+JP6-DNP  1        VCC
+         2        RF-RX
+         3        TX
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       GND
+         11                *** unconnected ***
+         12       RF-CTS
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16       RF-RTS
+         17       RF-DTR
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20                *** unconnected ***
+
+JP7      1        LIGHT
+         2        GND
+         3        VCC
+         4        GND
+         5        VCC
+         6        SDA
+         7        SCL
+         8        RAIN2
+         9        RAIN5
+
+JP8      1        VCC
+         2        GND
+
+JP9-DNP  1                 *** unconnected ***
+         2        RAIN2
+         3        N$7
+         4        N$11
+         5        RAIN5
+         6                 *** unconnected ***
+
+JP10-DNP 1                 *** unconnected ***
+         2        N$2
+         3        N$3
+         4        N$13
+         5        N$12
+         6                 *** unconnected ***
+
+LOGO1   
+R1       1        N$1
+         2        VCC
+
+R2       1        N$5
+         2        N$4
+
+R3       1        RST
+         2        VCC
+
+R4       1        VCC
+         2        SDA
+
+R5       1        VCC
+         2        SCL
+
+R6       1        VBAT
+         2        BATT_LVL
+
+R7       1        BATT_LVL
+         2        GND
+
+R8       1        VCC
+         2        N$9
+
+R9       1        BT-RX
+         2        RF-RX
+
+R10      1        BT-RTS
+         2        RF-RTS
+
+R11      1        RAIN
+         2        N$7
+
+R12      1        N$11
+         2        GND
+
+R13      1        WDIR
+         2        N$2
+
+R14      1        WSPEED
+         2        N$3
+
+R15      1        N$12
+         2        GND
+
+R16      1        N$13
+         2        GND
+
+R17      1        VCC
+         2        WDIR
+
+S1       1        VUSB
+         2        VRAW
+         3        VBAT
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+
+S2       1        GND
+         2        GND
+         3        RST
+         4        RST
+
+S3       1        USB-RX
+         2        RX
+         3        RF-RX
+         4        USB-DTR
+         5        DTR
+         6        RF-DTR
+
+SJ1      1        LIGHT
+         2        N$9
+
+SJ2      1        RF-DTR
+         2        RF-RTS
+
+U$1     
+U$2     
+U$3     
+U$4     
+U$5     
+U$6     
+U1       1        WSPEED
+         2        N$4
+         3        GND
+         4        VCC
+         5        GND
+         6        VCC
+         7        N$10
+         8        N$14
+         9        RF-CTS
+         10       RF-RTS
+         11                *** unconnected ***
+         12       EOC
+         13       XCLR
+         14                *** unconnected ***
+         15       MOSI
+         16       MISO
+         17       SCK
+         18       VCC
+         19       BATT_LVL
+         20       N$8
+         21       GND
+         22       LIGHT
+         23       WDIR
+         24                *** unconnected ***
+         25                *** unconnected ***
+         26                *** unconnected ***
+         27       SDA
+         28       SCL
+         29       RST
+         30       RX
+         31       TX
+         32       RAIN
+
+U2       1        VRAW
+         2        GND
+         3        VRAW
+         4        N$6
+         5        VCC
+
+U3       1        USB-RX
+         2        USB-DTR
+         3                 *** unconnected ***
+         4        3V-INT
+         5        TX
+         6                 *** unconnected ***
+         7        GND
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15       USB_D+
+         16       USB_D-
+         17       3V-INT
+         18       GND
+         19                *** unconnected ***
+         20       VUSB
+         21       GND
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       GND
+         26       GND
+         27                *** unconnected ***
+         28                *** unconnected ***
+
+U4       1        GND
+         2        SDA
+         3        SCL
+         4        VCC
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+
+U5       1        GND
+         2        EOC
+         3        VCC
+         4        VCC
+         5                 *** unconnected ***
+         6        SCL
+         7        SDA
+         8        XCLR
+
+U6       BASE              *** unconnected ***
+         EMITTER  GND
+         COLLECTOR  N$9
+
+Y1       1        N$10
+         2        GND
+         3        N$14
+
