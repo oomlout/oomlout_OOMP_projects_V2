@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17777-STAN-01|
 |Hex ID (short code)|hexID|PRPR17777|
-|Name|name|Zio Qwiic Ultrasonic Distance Sensor|
+|name|name|Zio Qwiic Ultrasonic Distance Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/Zio-Qwiic-Ultrasonic-Distance-Sensor|
 |gitName|gitName|Zio-Qwiic-Ultrasonic-Distance-Sensor|
 |eagleBoard|eagleBoard|/EAGLE/Zio Ultrasonic Distance Sensor.brd|

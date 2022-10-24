@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8688 > Ambient Light Sensor Breakout TEMT6000
 
 - ID: PROJ-SPAR-8688-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8688-STAN-01|
 |Hex ID (short code)|hexID|PRPR8688|
-|Name|name|Ambient Light Sensor Breakout TEMT6000|
+|name|name|Ambient Light Sensor Breakout TEMT6000|
 |gitRepo|gitRepo|https://github.com/sparkfun/Ambient_Light_Sensor_Breakout-TEMT6000|
 |gitName|gitName|Ambient_Light_Sensor_Breakout-TEMT6000|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_TEMT6000_Breakout-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_TEMT6000_Breakout-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8688/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17001-STAN-01|
 |Hex ID (short code)|hexID|PRPR17001|
-|Name|name|Qwiic BMP388 Pressure Sensor|
+|name|name|Qwiic BMP388 Pressure Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor|
 |gitName|gitName|Qwiic_BMP388_Pressure_Sensor|
 |eagleBoard|eagleBoard|Hardware/Qwiic_BMP388_Pressure_Sensor.brd|

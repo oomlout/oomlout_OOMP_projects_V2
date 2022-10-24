@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2487 > Adafruit Flora Bluefruit LE PCB
 
 - ID: PROJ-ADAF-2487-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2487-STAN-01|
 |Hex ID (short code)|hexID|PRPR2487|
-|Name|name|Adafruit Flora Bluefruit LE PCB|
+|name|name|Adafruit Flora Bluefruit LE PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Bluefruit-LE-PCB|
 |gitName|gitName|Adafruit-Flora-Bluefruit-LE-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora BLE Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora BLE Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2487/STAN/01/kicadPcb3d_450.png

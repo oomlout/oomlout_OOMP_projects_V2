@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11927 > BC127 Breakout Board
 
 - ID: PROJ-SPAR-11927-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11927-STAN-01|
 |Hex ID (short code)|hexID|PRPR11927|
-|Name|name|BC127 Breakout Board|
+|name|name|BC127 Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/BC127_Breakout_Board|
 |gitName|gitName|BC127_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/BC127_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/BC127_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11927/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5296 > Adafruit LED Arcade Button 1x4 PCB
 
 - ID: PROJ-ADAF-5296-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5296-STAN-01|
 |Hex ID (short code)|hexID|PRPR5296|
-|Name|name|Adafruit LED Arcade Button 1x4 PCB|
+|name|name|Adafruit LED Arcade Button 1x4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LED-Arcade-Button-1x4-PCB|
 |gitName|gitName|Adafruit-LED-Arcade-Button-1x4-PCB|
 |eagleBoard|eagleBoard|/Adafruit LED Arcade Button 1x4.brd|
 |eagleSchem|eagleSchem|/Adafruit LED Arcade Button 1x4.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5296/STAN/01/kicadPcb3d_450.png

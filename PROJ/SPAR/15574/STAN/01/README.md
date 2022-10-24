@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15574 > Artemis Thing Plus
 
 - ID: PROJ-SPAR-15574-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15574-STAN-01|
 |Hex ID (short code)|hexID|PRPR15574|
-|Name|name|Artemis Thing Plus|
+|name|name|Artemis Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/Artemis_Thing_Plus|
 |gitName|gitName|Artemis_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/Artemis Thing Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/Artemis Thing Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15574/STAN/01/kicadPcb3d_450.png

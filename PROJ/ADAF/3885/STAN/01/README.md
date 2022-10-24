@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3885 > Adafruit STEMMA Speaker PCB
 
 - ID: PROJ-ADAF-3885-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3885-STAN-01|
 |Hex ID (short code)|hexID|PRPR3885|
-|Name|name|Adafruit STEMMA Speaker PCB|
+|name|name|Adafruit STEMMA Speaker PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-STEMMA-Speaker-PCB|
 |gitName|gitName|Adafruit-STEMMA-Speaker-PCB|
 |eagleBoard|eagleBoard|/Adafruit STEMMA Speaker.brd|
 |eagleSchem|eagleSchem|/Adafruit STEMMA Speaker.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3885/STAN/01/kicadPcb3d_450.png

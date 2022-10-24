@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10864 > PoEthernet Shield
 
 - ID: PROJ-SPAR-10864-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10864-STAN-01|
 |Hex ID (short code)|hexID|PRPR10864|
-|Name|name|PoEthernet Shield|
+|name|name|PoEthernet Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/PoEthernet_Shield|
 |gitName|gitName|PoEthernet_Shield|
 |eagleBoard|eagleBoard|/Hardware/PoEthernet-Shield-v11.brd|
 |eagleSchem|eagleSchem|/Hardware/PoEthernet-Shield-v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10864/STAN/01/kicadPcb3d_450.png

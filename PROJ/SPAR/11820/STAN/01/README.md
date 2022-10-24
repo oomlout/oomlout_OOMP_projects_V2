@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11820 > WS2812 Breakout
 
 - ID: PROJ-SPAR-11820-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11820-STAN-01|
 |Hex ID (short code)|hexID|PRPR11820|
-|Name|name|WS2812 Breakout|
+|name|name|WS2812 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/WS2812_Breakout|
 |gitName|gitName|WS2812_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFunws2812bBreakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunws2812bBreakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11820/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10103 > Serial Alphanumeric Display Driver
 
 - ID: PROJ-SPAR-10103-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10103-STAN-01|
 |Hex ID (short code)|hexID|PRPR10103|
-|Name|name|Serial Alphanumeric Display Driver|
+|name|name|Serial Alphanumeric Display Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial_Alphanumeric_Display_Driver|
 |gitName|gitName|Serial_Alphanumeric_Display_Driver|
 |eagleBoard|eagleBoard|/hardware/AlphaNumeric-Display-Driver.brd|
 |eagleSchem|eagleSchem|/hardware/AlphaNumeric-Display-Driver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10103/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14475 > Noisy Cricket 1.5W Stereo Amplifier Breakout
 
 - ID: PROJ-SPAR-14475-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14475-STAN-01|
 |Hex ID (short code)|hexID|PRPR14475|
-|Name|name|Noisy Cricket 1.5W Stereo Amplifier Breakout|
+|name|name|Noisy Cricket 1.5W Stereo Amplifier Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout|
 |gitName|gitName|Noisy_Cricket-1.5W_Stereo_Amplifier_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Noisy_Cricket.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Noisy_Cricket.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14475/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13310 > Ludus ProtoShield
 
 - ID: PROJ-SPAR-13310-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13310-STAN-01|
 |Hex ID (short code)|hexID|PRPR13310|
-|Name|name|Ludus ProtoShield|
+|name|name|Ludus ProtoShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Ludus_ProtoShield|
 |gitName|gitName|Ludus_ProtoShield|
 |eagleBoard|eagleBoard|/hardware/ludusProtoShield.brd|
 |eagleSchem|eagleSchem|/hardware/ludusProtoShield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13310/STAN/01/kicadPcb3d_450.png

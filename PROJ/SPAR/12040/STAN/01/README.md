@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12040 > INA169 Breakout
 
 - ID: PROJ-SPAR-12040-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12040-STAN-01|
 |Hex ID (short code)|hexID|PRPR12040|
-|Name|name|INA169 Breakout|
+|name|name|INA169 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/INA169_Breakout|
 |gitName|gitName|INA169_Breakout|
 |eagleBoard|eagleBoard|/Hardware/INA169_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/INA169_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12040/STAN/01/kicadPcb3d_450.png

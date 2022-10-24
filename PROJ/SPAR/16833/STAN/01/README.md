@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16833 > Qwiic Quad Solid State Relay
 
 - ID: PROJ-SPAR-16833-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16833-STAN-01|
 |Hex ID (short code)|hexID|PRPR16833|
-|Name|name|Qwiic Quad Solid State Relay|
+|name|name|Qwiic Quad Solid State Relay|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Quad_Solid_State_Relay|
 |gitName|gitName|Qwiic_Quad_Solid_State_Relay|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Solid State Relay.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Solid State Relay.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16833/STAN/01/kicadPcb3d_450.png

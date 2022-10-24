@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8776 > LilyPad Button Board
 
 - ID: PROJ-SPAR-8776-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8776-STAN-01|
 |Hex ID (short code)|hexID|PRPR8776|
-|Name|name|LilyPad Button Board|
+|name|name|LilyPad Button Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Button_Board|
 |gitName|gitName|LilyPad_Button_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad-Button.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad-Button.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8776/STAN/01/kicadPcb3d_450.png

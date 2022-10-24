@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2995 > Adafruit Feather M0 Bluefruit LE PCB
 
 - ID: PROJ-ADAF-2995-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2995-STAN-01|
 |Hex ID (short code)|hexID|PRPR2995|
-|Name|name|Adafruit Feather M0 Bluefruit LE PCB|
+|name|name|Adafruit Feather M0 Bluefruit LE PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M0-Bluefruit-LE-PCB|
 |gitName|gitName|Adafruit-Feather-M0-Bluefruit-LE-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather Zero BLE rev A.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather Zero BLE rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2995/STAN/01/kicadPcb3d_450.png

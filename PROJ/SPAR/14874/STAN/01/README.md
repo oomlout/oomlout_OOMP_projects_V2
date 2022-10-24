@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14874 > TSH82 Configurable Op Amp Board
 
 - ID: PROJ-SPAR-14874-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14874-STAN-01|
 |Hex ID (short code)|hexID|PRPR14874|
-|Name|name|TSH82 Configurable Op Amp Board|
+|name|name|TSH82 Configurable Op Amp Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/TSH82_Configurable_Op_Amp_Board|
 |gitName|gitName|TSH82_Configurable_Op_Amp_Board|
 |eagleBoard|eagleBoard|/Hardware/TSH82_Configurable_Op_Amp_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/TSH82_Configurable_Op_Amp_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14874/STAN/01/kicadPcb3d_450.png

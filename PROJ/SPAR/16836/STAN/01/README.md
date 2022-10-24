@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16836 > SparkFun ProDriver TC78H670FTG
 
 - ID: PROJ-SPAR-16836-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16836-STAN-01|
 |Hex ID (short code)|hexID|PRPR16836|
-|Name|name|SparkFun ProDriver TC78H670FTG|
+|name|name|SparkFun ProDriver TC78H670FTG|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_ProDriver_TC78H670FTG|
 |gitName|gitName|SparkFun_ProDriver_TC78H670FTG|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ProDriver_TC78H670FTG.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ProDriver_TC78H670FTG.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16836/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0376-STAN-01|
 |Hex ID (short code)|hexID|PRPR0376|
-|Name|name|Adafruit 2.8 Inch TFT Shield PCB|
+|name|name|Adafruit 2.8 Inch TFT Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_2.8_Inch_TFT_Shield_PCB|
 |gitName|gitName|Adafruit_2.8_Inch_TFT_Shield_PCB|
 |eagleBoard|eagleBoard|/tfttouchshield.brd|

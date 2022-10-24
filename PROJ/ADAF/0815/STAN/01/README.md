@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0815-STAN-01|
 |Hex ID (short code)|hexID|PRPR0815|
-|Name|name|Adafruit 16 Channel PWM Servo Driver PCB|
+|name|name|Adafruit 16 Channel PWM Servo Driver PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-16-Channel-PWM-Servo-Driver-PCB|
 |gitName|gitName|Adafruit-16-Channel-PWM-Servo-Driver-PCB|
 |eagleBoard|eagleBoard|/Adafruit PCA9685 rev C.brd|

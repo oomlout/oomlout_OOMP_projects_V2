@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12589 > RedBot Accelerometer
 
 - ID: PROJ-SPAR-12589-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12589-STAN-01|
 |Hex ID (short code)|hexID|PRPR12589|
-|Name|name|RedBot Accelerometer|
+|name|name|RedBot Accelerometer|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBot_Accelerometer|
 |gitName|gitName|RedBot_Accelerometer|
 |eagleBoard|eagleBoard|/Hardware/RedBot Accelerometer.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot Accelerometer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12589/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15173 > Qwiic Transparent Graphical OLED
 
 - ID: PROJ-SPAR-15173-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15173-STAN-01|
 |Hex ID (short code)|hexID|PRPR15173|
-|Name|name|Qwiic Transparent Graphical OLED|
+|name|name|Qwiic Transparent Graphical OLED|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Transparent_Graphical_OLED|
 |gitName|gitName|Qwiic_Transparent_Graphical_OLED|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Transparent_Graphical_OLED_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Transparent_Graphical_OLED_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15173/STAN/01/kicadPcb3d_450.png

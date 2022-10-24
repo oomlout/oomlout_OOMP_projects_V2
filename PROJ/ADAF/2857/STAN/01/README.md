@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2857 > Adafruit SHT31 Sensor Breakout PCB
 
 - ID: PROJ-ADAF-2857-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2857-STAN-01|
 |Hex ID (short code)|hexID|PRPR2857|
-|Name|name|Adafruit SHT31 Sensor Breakout PCB|
+|name|name|Adafruit SHT31 Sensor Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SHT31-Sensor-Breakout-PCB|
 |gitName|gitName|Adafruit-SHT31-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit SHT31 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit SHT31 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2857/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3305 > Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB
 
 - ID: PROJ-ADAF-3305-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3305-STAN-01|
 |Hex ID (short code)|hexID|PRPR3305|
-|Name|name|Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB|
+|name|name|Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB|
 |gitName|gitName|Adafruit-50pin-to-40pin-TFT-with-AR1100-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit 50pin to 40pin TFT with AR1100 Adapter.brd|
 |eagleSchem|eagleSchem|/Adafruit 50pin to 40pin TFT with AR1100 Adapter.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3305/STAN/01/kicadPcb3d_450.png

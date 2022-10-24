@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4654 > Adafruit TPS61023 PCB
 
 - ID: PROJ-ADAF-4654-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4654-STAN-01|
 |Hex ID (short code)|hexID|PRPR4654|
-|Name|name|Adafruit TPS61023 PCB|
+|name|name|Adafruit TPS61023 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPS61023-PCB|
 |gitName|gitName|Adafruit-TPS61023-PCB|
 |eagleBoard|eagleBoard|/Adafruit TPS61023.brd|
 |eagleSchem|eagleSchem|/Adafruit TPS61023.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4654/STAN/01/kicadPcb3d_450.png

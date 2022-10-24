@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3364 > Adafruit pIRKey PCB
 
 - ID: PROJ-ADAF-3364-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3364-STAN-01|
 |Hex ID (short code)|hexID|PRPR3364|
-|Name|name|Adafruit pIRKey PCB|
+|name|name|Adafruit pIRKey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-pIRKey-PCB|
 |gitName|gitName|Adafruit-pIRKey-PCB|
 |eagleBoard|eagleBoard|/Adafruit pIRkeyboard.brd|
 |eagleSchem|eagleSchem|/Adafruit pIRkeyboard.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3364/STAN/01/kicadPcb3d_450.png

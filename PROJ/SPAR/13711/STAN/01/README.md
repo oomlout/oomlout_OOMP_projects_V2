@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13711 > ESP8266 Thing Dev 4H
 
 - ID: PROJ-SPAR-13711-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13711-STAN-01|
 |Hex ID (short code)|hexID|PRPR13711|
-|Name|name|ESP8266 Thing Dev 4H|
+|name|name|ESP8266 Thing Dev 4H|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP8266_Thing_Dev_4H|
 |gitName|gitName|ESP8266_Thing_Dev_4H|
 |eagleBoard|eagleBoard|/Hardware/ESP8266-Thing-Dev-4H.brd|
 |eagleSchem|eagleSchem|/Hardware/ESP8266-Thing-Dev-4H.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13711/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10252 > IMU Fusion Board
 
 - ID: PROJ-SPAR-10252-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10252-STAN-01|
 |Hex ID (short code)|hexID|PRPR10252|
-|Name|name|IMU Fusion Board|
+|name|name|IMU Fusion Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/IMU_Fusion_Board|
 |gitName|gitName|IMU_Fusion_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_IMU_Fusion_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_IMU_Fusion_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10252/STAN/01/kicadPcb3d_450.png

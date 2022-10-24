@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14066 > Simultaneous RFID Tag Reader
 
 - ID: PROJ-SPAR-14066-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14066-STAN-01|
 |Hex ID (short code)|hexID|PRPR14066|
-|Name|name|Simultaneous RFID Tag Reader|
+|name|name|Simultaneous RFID Tag Reader|
 |gitRepo|gitRepo|https://github.com/sparkfun/Simultaneous_RFID_Tag_Reader|
 |gitName|gitName|Simultaneous_RFID_Tag_Reader|
 |eagleBoard|eagleBoard|/Hardware/Simultaneous_RFID_Tag_Reader.brd|
 |eagleSchem|eagleSchem|/Hardware/Simultaneous_RFID_Tag_Reader.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14066/STAN/01/kicadPcb3d_450.png

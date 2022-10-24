@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12636 > LSM9DS0 Breakout
 
 - ID: PROJ-SPAR-12636-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12636-STAN-01|
 |Hex ID (short code)|hexID|PRPR12636|
-|Name|name|LSM9DS0 Breakout|
+|name|name|LSM9DS0 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LSM9DS0_Breakout|
 |gitName|gitName|LSM9DS0_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_lsm9ds0-breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_lsm9ds0-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12636/STAN/01/kicadPcb3d_450.png

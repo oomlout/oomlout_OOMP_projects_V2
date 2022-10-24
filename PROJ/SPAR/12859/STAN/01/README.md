@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12859 > Big Easy Driver
 
 - ID: PROJ-SPAR-12859-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12859-STAN-01|
 |Hex ID (short code)|hexID|PRPR12859|
-|Name|name|Big Easy Driver|
+|name|name|Big Easy Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Big_Easy_Driver|
 |gitName|gitName|Big_Easy_Driver|
 |eagleBoard|eagleBoard|/Hardware/BigEasyDriver.brd|
 |eagleSchem|eagleSchem|/Hardware/BigEasyDriver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12859/STAN/01/kicadPcb3d_450.png

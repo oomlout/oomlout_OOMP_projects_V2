@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13034 > Edison I2C Breakout Block
 
 - ID: PROJ-SPAR-13034-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13034-STAN-01|
 |Hex ID (short code)|hexID|PRPR13034|
-|Name|name|Edison I2C Breakout Block|
+|name|name|Edison I2C Breakout Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_I2C_Breakout_Block|
 |gitName|gitName|Edison_I2C_Breakout_Block|
 |eagleBoard|eagleBoard|/Hardware/I2C_Breakout_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/I2C_Breakout_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13034/STAN/01/kicadPcb3d_450.png

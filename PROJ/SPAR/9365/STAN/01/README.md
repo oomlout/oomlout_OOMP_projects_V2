@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9365 > AD Stereo Converter PCM1803A
 
 - ID: PROJ-SPAR-9365-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9365-STAN-01|
 |Hex ID (short code)|hexID|PRPR9365|
-|Name|name|AD Stereo Converter PCM1803A|
+|name|name|AD Stereo Converter PCM1803A|
 |gitRepo|gitRepo|https://github.com/sparkfun/AD_Stereo_Converter-PCM1803A|
 |gitName|gitName|AD_Stereo_Converter-PCM1803A|
 |eagleBoard|eagleBoard|/Hardware/PCM1803A_Breakout-v11.brd|
 |eagleSchem|eagleSchem|/Hardware/PCM1803A_Breakout-v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9365/STAN/01/kicadPcb3d_450.png

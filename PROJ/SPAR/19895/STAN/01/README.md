@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19895 > SparkFun Qwiic 9DoF ISM330DHCX MMC5983MA
 
 - ID: PROJ-SPAR-19895-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19895-STAN-01|
 |Hex ID (short code)|hexID|PRPR19895|
-|Name|name|SparkFun Qwiic 9DoF ISM330DHCX MMC5983MA|
+|name|name|SparkFun Qwiic 9DoF ISM330DHCX MMC5983MA|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA|
 |gitName|gitName|SparkFun_Qwiic_9DoF-ISM330DHCX-MMC5983MA|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_9DoF_ISM330DHCX-MMC5983MA.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_9DoF_ISM330DHCX-MMC5983MA.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19895/STAN/01/kicadPcb3d_450.png

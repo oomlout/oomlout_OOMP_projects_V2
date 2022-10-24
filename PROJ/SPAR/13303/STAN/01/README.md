@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13303 > LSM303C 6 DOF IMU Breakout
 
 - ID: PROJ-SPAR-13303-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13303-STAN-01|
 |Hex ID (short code)|hexID|PRPR13303|
-|Name|name|LSM303C 6 DOF IMU Breakout|
+|name|name|LSM303C 6 DOF IMU Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LSM303C_6_DOF_IMU_Breakout|
 |gitName|gitName|LSM303C_6_DOF_IMU_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LSM303C_6_DOF_IMU_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LSM303C_6_DOF_IMU_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13303/STAN/01/kicadPcb3d_450.png

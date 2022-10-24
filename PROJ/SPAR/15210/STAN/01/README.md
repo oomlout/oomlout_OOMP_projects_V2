@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15210 > SparkFun u blox SAM M8Q
 
 - ID: PROJ-SPAR-15210-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15210-STAN-01|
 |Hex ID (short code)|hexID|PRPR15210|
-|Name|name|SparkFun u blox SAM M8Q|
+|name|name|SparkFun u blox SAM M8Q|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-blox_SAM-M8Q|
 |gitName|gitName|SparkFun_u-blox_SAM-M8Q|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Ublox SAM-M8Q.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Ublox SAM-M8Q.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15210/STAN/01/kicadPcb3d_450.png

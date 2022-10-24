@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3695 > Adafruit DragonTail for micro bit PCB
 
 - ID: PROJ-ADAF-3695-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3695-STAN-01|
 |Hex ID (short code)|hexID|PRPR3695|
-|Name|name|Adafruit DragonTail for micro bit PCB|
+|name|name|Adafruit DragonTail for micro bit PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DragonTail-for-micro-bit-PCB|
 |gitName|gitName|Adafruit-DragonTail-for-micro-bit-PCB|
 |eagleBoard|eagleBoard|/Adafruit DragonTail.brd|
 |eagleSchem|eagleSchem|/Adafruit DragonTail.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3695/STAN/01/kicadPcb3d_450.png

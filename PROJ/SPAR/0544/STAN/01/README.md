@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0544-STAN-01|
 |Hex ID (short code)|hexID|PRPR0544|
-|Name|name|microSD Transflash Breakout|
+|name|name|microSD Transflash Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/microSD_Transflash_Breakout|
 |gitName|gitName|microSD_Transflash_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_microSD_Breakout.brd|

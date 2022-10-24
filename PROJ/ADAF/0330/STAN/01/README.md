@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0330-STAN-01|
 |Hex ID (short code)|hexID|PRPR0330|
-|Name|name|Adafruit Microtouch|
+|name|name|Adafruit Microtouch|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Microtouch|
 |gitName|gitName|Adafruit_Microtouch|
 |eagleBoard|eagleBoard|/PCB/microtouch.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14631 > LilyPad USB Plus Standalone
 
 - ID: PROJ-SPAR-14631-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14631-STAN-01|
 |Hex ID (short code)|hexID|PRPR14631|
-|Name|name|LilyPad USB Plus Standalone|
+|name|name|LilyPad USB Plus Standalone|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_USB_Plus_Standalone|
 |gitName|gitName|LilyPad_USB_Plus_Standalone|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_USB_Plus_Standalone.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_USB_Plus_Standalone.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14631/STAN/01/kicadPcb3d_450.png

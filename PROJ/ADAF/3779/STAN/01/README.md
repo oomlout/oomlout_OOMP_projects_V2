@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3779 > Adafruit AS7262 Breakout PCB
 
 - ID: PROJ-ADAF-3779-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3779-STAN-01|
 |Hex ID (short code)|hexID|PRPR3779|
-|Name|name|Adafruit AS7262 Breakout PCB|
+|name|name|Adafruit AS7262 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AS7262-Breakout-PCB|
 |gitName|gitName|Adafruit-AS7262-Breakout-PCB|
 |eagleBoard|eagleBoard|/AS726x-Spectral_REV-D.brd|
 |eagleSchem|eagleSchem|/AS726x-Spectral_REV-D.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3779/STAN/01/kicadPcb3d_450.png

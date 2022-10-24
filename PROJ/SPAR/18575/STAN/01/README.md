@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18575 > SparkFun MicroMod Main Board Single
 
 - ID: PROJ-SPAR-18575-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18575-STAN-01|
 |Hex ID (short code)|hexID|PRPR18575|
-|Name|name|SparkFun MicroMod Main Board Single|
+|name|name|SparkFun MicroMod Main Board Single|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_MicroMod_Main_Board_Single|
 |gitName|gitName|SparkFun_MicroMod_Main_Board_Single|
 |eagleBoard|eagleBoard|/Hardware/Main Board - Single.brd|
 |eagleSchem|eagleSchem|/Hardware/Main Board - Single.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18575/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13044 > Edison Pi Block
 
 - ID: PROJ-SPAR-13044-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13044-STAN-01|
 |Hex ID (short code)|hexID|PRPR13044|
-|Name|name|Edison Pi Block|
+|name|name|Edison Pi Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_Pi_Block|
 |gitName|gitName|Edison_Pi_Block|
 |eagleBoard|eagleBoard|/Hardware/Pi_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/Pi_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13044/STAN/01/kicadPcb3d_450.png

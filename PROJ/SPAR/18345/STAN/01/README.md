@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18345 > Qwiic Air Quality Sensor SGP40
 
 - ID: PROJ-SPAR-18345-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18345-STAN-01|
 |Hex ID (short code)|hexID|PRPR18345|
-|Name|name|Qwiic Air Quality Sensor SGP40|
+|name|name|Qwiic Air Quality Sensor SGP40|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Air_Quality_Sensor_SGP40|
 |gitName|gitName|Qwiic_Air_Quality_Sensor_SGP40|
 |eagleBoard|eagleBoard|/Hardware/SGP40 Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SGP40 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18345/STAN/01/kicadPcb3d_450.png

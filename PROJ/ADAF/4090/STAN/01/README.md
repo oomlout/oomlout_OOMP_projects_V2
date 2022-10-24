@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4090 > Adafruit USB C Downstream Breakout
 
 - ID: PROJ-ADAF-4090-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4090-STAN-01|
 |Hex ID (short code)|hexID|PRPR4090|
-|Name|name|Adafruit USB C Downstream Breakout|
+|name|name|Adafruit USB C Downstream Breakout|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-USB-C-Downstream-Breakout|
 |gitName|gitName|Adafruit-USB-C-Downstream-Breakout|
 |eagleBoard|eagleBoard|/Adafruit USB Type C Downstream Breakout rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit USB Type C Downstream Breakout rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4090/STAN/01/kicadPcb3d_450.png

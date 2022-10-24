@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1673 > Adafruit 1.27inch Color OLED Breakout PCB
 
 - ID: PROJ-ADAF-1673-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1673-STAN-01|
 |Hex ID (short code)|hexID|PRPR1673|
-|Name|name|Adafruit 1.27inch Color OLED Breakout PCB|
+|name|name|Adafruit 1.27inch Color OLED Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.27inch-Color-OLED-Breakout-PCB|
 |gitName|gitName|Adafruit-1.27inch-Color-OLED-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.27 128x96 RGB OLED.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.27 128x96 RGB OLED.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1673/STAN/01/kicadPcb3d_450.png

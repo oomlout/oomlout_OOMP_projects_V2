@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4741 > Adafruit Grayscale 1.5 inch 128x128 OLED PCB
 
 - ID: PROJ-ADAF-4741-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4741-STAN-01|
 |Hex ID (short code)|hexID|PRPR4741|
-|Name|name|Adafruit Grayscale 1.5 inch 128x128 OLED PCB|
+|name|name|Adafruit Grayscale 1.5 inch 128x128 OLED PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB|
 |gitName|gitName|Adafruit-Grayscale-1.5-inch-128x128-OLED-PCB|
 |eagleBoard|eagleBoard|/Adafruit Grayscale 1.5-inch 128x128 OLED.brd|
 |eagleSchem|eagleSchem|/Adafruit Grayscale 1.5-inch 128x128 OLED.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4741/STAN/01/kicadPcb3d_450.png

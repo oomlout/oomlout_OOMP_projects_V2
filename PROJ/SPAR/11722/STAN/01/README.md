@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11722 > Rotary Encoder Breakout Illuminated
 
 - ID: PROJ-SPAR-11722-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11722-STAN-01|
 |Hex ID (short code)|hexID|PRPR11722|
-|Name|name|Rotary Encoder Breakout Illuminated|
+|name|name|Rotary Encoder Breakout Illuminated|
 |gitRepo|gitRepo|https://github.com/sparkfun/Rotary_Encoder_Breakout-Illuminated|
 |gitName|gitName|Rotary_Encoder_Breakout-Illuminated|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Rotary_Encoder-Illuminated.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Rotary_Encoder-Illuminated.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11722/STAN/01/kicadPcb3d_450.png

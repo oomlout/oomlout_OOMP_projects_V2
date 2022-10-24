@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4920 > Adafruit TPS62827 PCB
 
 - ID: PROJ-ADAF-4920-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4920-STAN-01|
 |Hex ID (short code)|hexID|PRPR4920|
-|Name|name|Adafruit TPS62827 PCB|
+|name|name|Adafruit TPS62827 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPS62827-PCB|
 |gitName|gitName|Adafruit-TPS62827-PCB|
 |eagleBoard|eagleBoard|/TPS62827 3.3V Buck Converter.brd|
 |eagleSchem|eagleSchem|/TPS62827 3.3V Buck Converter.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4920/STAN/01/kicadPcb3d_450.png

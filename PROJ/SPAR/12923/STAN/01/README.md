@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12923-STAN-01|
 |Hex ID (short code)|hexID|PRPR12923|
-|Name|name|MicroView|
+|name|name|MicroView|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroView|
 |gitName|gitName|MicroView|
 |eagleBoard|eagleBoard|/Hardware/MicroView/SparkFun_MicroView.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2716 > Adafruit SPW2430 PCB
 
 - ID: PROJ-ADAF-2716-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2716-STAN-01|
 |Hex ID (short code)|hexID|PRPR2716|
-|Name|name|Adafruit SPW2430 PCB|
+|name|name|Adafruit SPW2430 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SPW2430-PCB|
 |gitName|gitName|Adafruit-SPW2430-PCB|
 |eagleBoard|eagleBoard|/SPW2430-Silicon-Mic_Rev-B.brd|
 |eagleSchem|eagleSchem|/SPW2430-Silicon-Mic_Rev-B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2716/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4480 > Adafruit LSM6DS33 PCB
 
 - ID: PROJ-ADAF-4480-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4480-STAN-01|
 |Hex ID (short code)|hexID|PRPR4480|
-|Name|name|Adafruit LSM6DS33 PCB|
+|name|name|Adafruit LSM6DS33 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DS33-PCB|
 |gitName|gitName|Adafruit-LSM6DS33-PCB|
 |eagleBoard|eagleBoard|/Adfruit LSM6DS33.brd|
 |eagleSchem|eagleSchem|/Adfruit LSM6DS33.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4480/STAN/01/kicadPcb3d_450.png

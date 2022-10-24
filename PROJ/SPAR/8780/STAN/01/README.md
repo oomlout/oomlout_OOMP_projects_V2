@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8780 > RS232 Shifter
 
 - ID: PROJ-SPAR-8780-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8780-STAN-01|
 |Hex ID (short code)|hexID|PRPR8780|
-|Name|name|RS232 Shifter|
+|name|name|RS232 Shifter|
 |gitRepo|gitRepo|https://github.com/sparkfun/RS232_Shifter|
 |gitName|gitName|RS232_Shifter|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_RS232.brd|
 |eagleSchem|eagleSchem|/Hardware/Sparkfun_RS232.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8780/STAN/01/kicadPcb3d_450.png

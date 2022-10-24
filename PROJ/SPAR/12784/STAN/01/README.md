@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12784 > ToF Range Finder Breakout VL6180
 
 - ID: PROJ-SPAR-12784-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12784-STAN-01|
 |Hex ID (short code)|hexID|PRPR12784|
-|Name|name|ToF Range Finder Breakout VL6180|
+|name|name|ToF Range Finder Breakout VL6180|
 |gitRepo|gitRepo|https://github.com/sparkfun/ToF_Range_Finder_Breakout-VL6180|
 |gitName|gitName|ToF_Range_Finder_Breakout-VL6180|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_VL6180_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_VL6180_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12784/STAN/01/kicadPcb3d_450.png

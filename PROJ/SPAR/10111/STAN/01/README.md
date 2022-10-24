@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10111 > Tri Color Breakout
 
 - ID: PROJ-SPAR-10111-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10111-STAN-01|
 |Hex ID (short code)|hexID|PRPR10111|
-|Name|name|Tri Color Breakout|
+|name|name|Tri Color Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Tri-Color_Breakout|
 |gitName|gitName|Tri-Color_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Tri-color LED Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Tri-color LED Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10111/STAN/01/kicadPcb3d_450.png

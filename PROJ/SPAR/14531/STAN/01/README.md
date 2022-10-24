@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14531 > Pioneer IoT Kit Shield
 
 - ID: PROJ-SPAR-14531-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14531-STAN-01|
 |Hex ID (short code)|hexID|PRPR14531|
-|Name|name|Pioneer IoT Kit Shield|
+|name|name|Pioneer IoT Kit Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pioneer_IoT_Kit_Shield|
 |gitName|gitName|Pioneer_IoT_Kit_Shield|
 |eagleBoard|eagleBoard|/Hardware/Pioneer_Kit_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Pioneer_Kit_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14531/STAN/01/kicadPcb3d_450.png

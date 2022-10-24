@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0659-STAN-01|
 |Hex ID (short code)|hexID|PRPR0659|
-|Name|name|Adafruit Flora Mainboard|
+|name|name|Adafruit Flora Mainboard|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Mainboard|
 |gitName|gitName|Adafruit-Flora-Mainboard|
 |eagleBoard|eagleBoard|/adafruit flora mainboard 2.brd|

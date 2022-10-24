@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16790 > Qwiic Shield for Thing Plus
 
 - ID: PROJ-SPAR-16790-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16790-STAN-01|
 |Hex ID (short code)|hexID|PRPR16790|
-|Name|name|Qwiic Shield for Thing Plus|
+|name|name|Qwiic Shield for Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_Thing_Plus|
 |gitName|gitName|Qwiic_Shield_for_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Shield_for_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Shield_for_Thing_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16790/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2651 > Adafruit BMP280 Breakout PCB
 
 - ID: PROJ-ADAF-2651-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2651-STAN-01|
 |Hex ID (short code)|hexID|PRPR2651|
-|Name|name|Adafruit BMP280 Breakout PCB|
+|name|name|Adafruit BMP280 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BMP280-Breakout-PCB|
 |gitName|gitName|Adafruit-BMP280-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit BMP280 STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit BMP280 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2651/STAN/01/kicadPcb3d_450.png

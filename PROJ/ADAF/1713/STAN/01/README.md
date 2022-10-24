@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1713 > Adafruit MAX9814 AGC Microphone PCB
 
 - ID: PROJ-ADAF-1713-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1713-STAN-01|
 |Hex ID (short code)|hexID|PRPR1713|
-|Name|name|Adafruit MAX9814 AGC Microphone PCB|
+|name|name|Adafruit MAX9814 AGC Microphone PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX9814-AGC-Microphone-PCB|
 |gitName|gitName|Adafruit-MAX9814-AGC-Microphone-PCB|
 |eagleBoard|eagleBoard|/Adafruit MAX9814.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX9814.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1713/STAN/01/kicadPcb3d_450.png

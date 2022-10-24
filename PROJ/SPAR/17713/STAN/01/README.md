@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17713 > MicroMod STM32 Processor
 
 - ID: PROJ-SPAR-17713-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17713-STAN-01|
 |Hex ID (short code)|hexID|PRPR17713|
-|Name|name|MicroMod STM32 Processor|
+|name|name|MicroMod STM32 Processor|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_STM32_Processor|
 |gitName|gitName|MicroMod_STM32_Processor|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_STM32_Processor.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_STM32_Processor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17713/STAN/01/kicadPcb3d_450.png

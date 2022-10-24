@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13019 > BLE Mate2
 
 - ID: PROJ-SPAR-13019-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13019-STAN-01|
 |Hex ID (short code)|hexID|PRPR13019|
-|Name|name|BLE Mate2|
+|name|name|BLE Mate2|
 |gitRepo|gitRepo|https://github.com/sparkfun/BLE_Mate2|
 |gitName|gitName|BLE_Mate2|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_BLEMate2.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_BLEMate2.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13019/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10274 > LilyPad Arduino Simple
 
 - ID: PROJ-SPAR-10274-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10274-STAN-01|
 |Hex ID (short code)|hexID|PRPR10274|
-|Name|name|LilyPad Arduino Simple|
+|name|name|LilyPad Arduino Simple|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Arduino_Simple|
 |gitName|gitName|LilyPad_Arduino_Simple|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-Simple-v25.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-Simple-v25.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10274/STAN/01/kicadPcb3d_450.png

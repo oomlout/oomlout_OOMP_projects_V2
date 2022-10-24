@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0684-STAN-01|
 |Hex ID (short code)|hexID|PRPR0684|
-|Name|name|Adafruit 96x64 RGB OLED Breakout PCB|
+|name|name|Adafruit 96x64 RGB OLED Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-96x64-RGB-OLED-Breakout-PCB|
 |gitName|gitName|Adafruit-96x64-RGB-OLED-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 96x64 RGB OLED Breakout v2.0.brd|

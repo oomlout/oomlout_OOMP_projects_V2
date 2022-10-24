@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3199 > Adafruit MiCS 5524 Gas Sensor Breakout PCB
 
 - ID: PROJ-ADAF-3199-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3199-STAN-01|
 |Hex ID (short code)|hexID|PRPR3199|
-|Name|name|Adafruit MiCS 5524 Gas Sensor Breakout PCB|
+|name|name|Adafruit MiCS 5524 Gas Sensor Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB|
 |gitName|gitName|Adafruit-MiCS-5524-Gas-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit MICS-5524.brd|
 |eagleSchem|eagleSchem|/Adafruit MICS-5524.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3199/STAN/01/kicadPcb3d_450.png

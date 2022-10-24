@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1059 > Adafruit Flora Ultimate GPS
 
 - ID: PROJ-ADAF-1059-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1059-STAN-01|
 |Hex ID (short code)|hexID|PRPR1059|
-|Name|name|Adafruit Flora Ultimate GPS|
+|name|name|Adafruit Flora Ultimate GPS|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Ultimate-GPS|
 |gitName|gitName|Adafruit-Flora-Ultimate-GPS|
 |eagleBoard|eagleBoard|/Adafruit Flora_GPS.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora_GPS.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1059/STAN/01/kicadPcb3d_450.png

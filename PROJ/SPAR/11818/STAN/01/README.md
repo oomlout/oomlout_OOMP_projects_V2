@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11818 > GPS Breakout
 
 - ID: PROJ-SPAR-11818-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11818-STAN-01|
 |Hex ID (short code)|hexID|PRPR11818|
-|Name|name|GPS Breakout|
+|name|name|GPS Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/GPS_Breakout|
 |gitName|gitName|GPS_Breakout|
 |eagleBoard|eagleBoard|/Hardware/GPS_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/GPS_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11818/STAN/01/kicadPcb3d_450.png

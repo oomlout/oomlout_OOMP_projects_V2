@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12787 > APDS 9960 RGB and Gesture Sensor
 
 - ID: PROJ-SPAR-12787-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12787-STAN-01|
 |Hex ID (short code)|hexID|PRPR12787|
-|Name|name|APDS 9960 RGB and Gesture Sensor|
+|name|name|APDS 9960 RGB and Gesture Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor|
 |gitName|gitName|APDS-9960_RGB_and_Gesture_Sensor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_APDS-9960_RGB_and_Gesture_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_APDS-9960_RGB_and_Gesture_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12787/STAN/01/kicadPcb3d_450.png

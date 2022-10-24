@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5217 > Adafruit EyeLights LED Glasses and Driver PCB
 
 - ID: PROJ-ADAF-5217-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5217-STAN-01|
 |Hex ID (short code)|hexID|PRPR5217|
-|Name|name|Adafruit EyeLights LED Glasses and Driver PCB|
+|name|name|Adafruit EyeLights LED Glasses and Driver PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-EyeLights-LED-Glasses-and-Driver-PCB|
 |gitName|gitName|Adafruit-EyeLights-LED-Glasses-and-Driver-PCB|
 |eagleBoard|eagleBoard|/Adafruit EyeLights LED Glasses Driver.brd|
 |eagleSchem|eagleSchem|/Adafruit EyeLights LED Glasses Driver.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5217/STAN/01/kicadPcb3d_450.png

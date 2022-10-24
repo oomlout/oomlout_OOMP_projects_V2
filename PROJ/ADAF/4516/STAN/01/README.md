@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4516 > Adafruit Feather nRF52840 Sense PCB
 
 - ID: PROJ-ADAF-4516-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4516-STAN-01|
 |Hex ID (short code)|hexID|PRPR4516|
-|Name|name|Adafruit Feather nRF52840 Sense PCB|
+|name|name|Adafruit Feather nRF52840 Sense PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-nRF52840-Sense-PCB|
 |gitName|gitName|Adafruit-Feather-nRF52840-Sense-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather nRF52840 Sense.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather nRF52840 Sense.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4516/STAN/01/kicadPcb3d_450.png

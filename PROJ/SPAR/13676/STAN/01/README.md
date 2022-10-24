@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13676 > SparkFun BME280 Breakout Board
 
 - ID: PROJ-SPAR-13676-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13676-STAN-01|
 |Hex ID (short code)|hexID|PRPR13676|
-|Name|name|SparkFun BME280 Breakout Board|
+|name|name|SparkFun BME280 Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_BME280_Breakout_Board|
 |gitName|gitName|SparkFun_BME280_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_BME280_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_BME280_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13676/STAN/01/kicadPcb3d_450.png

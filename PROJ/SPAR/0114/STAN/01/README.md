@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0114-STAN-01|
 |Hex ID (short code)|hexID|PRPR0114|
-|Name|name|Breadboard Power Supply 5V 3.3V|
+|name|name|Breadboard Power Supply 5V 3.3V|
 |gitRepo|gitRepo|https://github.com/sparkfun/Breadboard_Power_Supply_5V_3.3V|
 |gitName|gitName|Breadboard_Power_Supply_5V_3.3V|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Breadboard_Power_Supply_5_3.3V.brd|

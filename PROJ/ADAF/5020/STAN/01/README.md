@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5020 > Adafruit NeoKey Trinkey PCB
 
 - ID: PROJ-ADAF-5020-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5020-STAN-01|
 |Hex ID (short code)|hexID|PRPR5020|
-|Name|name|Adafruit NeoKey Trinkey PCB|
+|name|name|Adafruit NeoKey Trinkey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoKey-Trinkey-PCB|
 |gitName|gitName|Adafruit-NeoKey-Trinkey-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoKey Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoKey Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5020/STAN/01/kicadPcb3d_450.png

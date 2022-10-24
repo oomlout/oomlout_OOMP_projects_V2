@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13328 > Photon Wearable Shield
 
 - ID: PROJ-SPAR-13328-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13328-STAN-01|
 |Hex ID (short code)|hexID|PRPR13328|
-|Name|name|Photon Wearable Shield|
+|name|name|Photon Wearable Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_Wearable_Shield|
 |gitName|gitName|Photon_Wearable_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Photon_Wearable_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Photon_Wearable_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13328/STAN/01/kicadPcb3d_450.png

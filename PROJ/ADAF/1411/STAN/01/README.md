@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1411 > Adafruit 16 channel PWM Servo Shield
 
 - ID: PROJ-ADAF-1411-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1411-STAN-01|
 |Hex ID (short code)|hexID|PRPR1411|
-|Name|name|Adafruit 16 channel PWM Servo Shield|
+|name|name|Adafruit 16 channel PWM Servo Shield|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-16-channel-PWM-Servo-Shield|
 |gitName|gitName|Adafruit-16-channel-PWM-Servo-Shield|
 |eagleBoard|eagleBoard|/Adafruit PWM Servo Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit PWM Servo Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1411/STAN/01/kicadPcb3d_450.png

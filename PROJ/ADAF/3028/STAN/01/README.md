@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3028 > Adafruit DS3231 Precision RTC FeatherWing PCB
 
 - ID: PROJ-ADAF-3028-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3028-STAN-01|
 |Hex ID (short code)|hexID|PRPR3028|
-|Name|name|Adafruit DS3231 Precision RTC FeatherWing PCB|
+|name|name|Adafruit DS3231 Precision RTC FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-FeatherWing-PCB|
 |gitName|gitName|Adafruit-DS3231-Precision-RTC-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS3231 RTC FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit DS3231 RTC FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3028/STAN/01/kicadPcb3d_450.png

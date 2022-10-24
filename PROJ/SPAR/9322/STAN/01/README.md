@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9322 > Photo Interrupter Breakout
 
 - ID: PROJ-SPAR-9322-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9322-STAN-01|
 |Hex ID (short code)|hexID|PRPR9322|
-|Name|name|Photo Interrupter Breakout|
+|name|name|Photo Interrupter Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photo_Interrupter_Breakout|
 |gitName|gitName|Photo_Interrupter_Breakout|
 |eagleBoard|eagleBoard|/Hardware/PhotoInterrupter-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/PhotoInterrupter-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9322/STAN/01/kicadPcb3d_450.png

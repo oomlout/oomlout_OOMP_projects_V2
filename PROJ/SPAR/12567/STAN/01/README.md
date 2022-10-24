@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12567 > RedBot Buzzer
 
 - ID: PROJ-SPAR-12567-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12567-STAN-01|
 |Hex ID (short code)|hexID|PRPR12567|
-|Name|name|RedBot Buzzer|
+|name|name|RedBot Buzzer|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBot_Buzzer|
 |gitName|gitName|RedBot_Buzzer|
 |eagleBoard|eagleBoard|/Hardware/RedBot_Buzzer.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot_Buzzer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12567/STAN/01/kicadPcb3d_450.png

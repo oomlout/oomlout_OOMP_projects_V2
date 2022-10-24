@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2045 > Adafruit Si5351A Clock Generator Breakout PCB
 
 - ID: PROJ-ADAF-2045-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2045-STAN-01|
 |Hex ID (short code)|hexID|PRPR2045|
-|Name|name|Adafruit Si5351A Clock Generator Breakout PCB|
+|name|name|Adafruit Si5351A Clock Generator Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-Breakout-PCB|
 |gitName|gitName|Adafruit-Si5351A-Clock-Generator-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit Si5351A.brd|
 |eagleSchem|eagleSchem|/Adafruit Si5351A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2045/STAN/01/kicadPcb3d_450.png

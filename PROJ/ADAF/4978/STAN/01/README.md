@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4978 > Adafruit NeoKey Breakout PCB
 
 - ID: PROJ-ADAF-4978-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4978-STAN-01|
 |Hex ID (short code)|hexID|PRPR4978|
-|Name|name|Adafruit NeoKey Breakout PCB|
+|name|name|Adafruit NeoKey Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoKey-Breakout-PCB|
 |gitName|gitName|Adafruit-NeoKey-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoKey Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoKey Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4978/STAN/01/kicadPcb3d_450.png

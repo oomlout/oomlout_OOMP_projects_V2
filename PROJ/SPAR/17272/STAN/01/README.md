@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17272 > MicroMod Asset Tracker
 
 - ID: PROJ-SPAR-17272-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17272-STAN-01|
 |Hex ID (short code)|hexID|PRPR17272|
-|Name|name|MicroMod Asset Tracker|
+|name|name|MicroMod Asset Tracker|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Asset_Tracker|
 |gitName|gitName|MicroMod_Asset_Tracker|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_Asset_Tracker.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_Asset_Tracker.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17272/STAN/01/kicadPcb3d_450.png

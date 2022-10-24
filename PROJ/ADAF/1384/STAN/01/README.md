@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1384 > Adafruit GA1A1S202WP Breakout PCB
 
 - ID: PROJ-ADAF-1384-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1384-STAN-01|
 |Hex ID (short code)|hexID|PRPR1384|
-|Name|name|Adafruit GA1A1S202WP Breakout PCB|
+|name|name|Adafruit GA1A1S202WP Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-GA1A1S202WP-Breakout-PCB|
 |gitName|gitName|Adafruit-GA1A1S202WP-Breakout-PCB|
 |eagleBoard|eagleBoard|/GA1A1S202WP-REV-B.brd|
 |eagleSchem|eagleSchem|/GA1A1S202WP-REV-B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1384/STAN/01/kicadPcb3d_450.png

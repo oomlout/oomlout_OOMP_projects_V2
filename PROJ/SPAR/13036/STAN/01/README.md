@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13036 > Edison Arduino Block
 
 - ID: PROJ-SPAR-13036-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13036-STAN-01|
 |Hex ID (short code)|hexID|PRPR13036|
-|Name|name|Edison Arduino Block|
+|name|name|Edison Arduino Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_Arduino_Block|
 |gitName|gitName|Edison_Arduino_Block|
 |eagleBoard|eagleBoard|/Hardware/arduino_block.brd|
 |eagleSchem|eagleSchem|/Hardware/arduino_block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13036/STAN/01/kicadPcb3d_450.png

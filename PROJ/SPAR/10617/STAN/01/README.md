@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10617 > Lipo Fuel Gauge
 
 - ID: PROJ-SPAR-10617-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10617-STAN-01|
 |Hex ID (short code)|hexID|PRPR10617|
-|Name|name|Lipo Fuel Gauge|
+|name|name|Lipo Fuel Gauge|
 |gitRepo|gitRepo|https://github.com/sparkfun/Lipo_Fuel_Gauge|
 |gitName|gitName|Lipo_Fuel_Gauge|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Lipo_Fuel_Gauge.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Lipo_Fuel_Gauge.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10617/STAN/01/kicadPcb3d_450.png

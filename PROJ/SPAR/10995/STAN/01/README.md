@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10995 > GPS Evaluation Board GP 2106
 
 - ID: PROJ-SPAR-10995-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10995-STAN-01|
 |Hex ID (short code)|hexID|PRPR10995|
-|Name|name|GPS Evaluation Board GP 2106|
+|name|name|GPS Evaluation Board GP 2106|
 |gitRepo|gitRepo|https://github.com/sparkfun/GPS_Evaluation_Board_GP-2106|
 |gitName|gitName|GPS_Evaluation_Board_GP-2106|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_GPS_Evaluation_Board_GP-2106.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_GPS_Evaluation_Board_GP-2106.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10995/STAN/01/kicadPcb3d_450.png

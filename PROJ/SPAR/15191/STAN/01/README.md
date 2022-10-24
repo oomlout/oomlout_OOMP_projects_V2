@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15191 > SparkFun Qwiic RFID ID XXLA
 
 - ID: PROJ-SPAR-15191-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15191-STAN-01|
 |Hex ID (short code)|hexID|PRPR15191|
-|Name|name|SparkFun Qwiic RFID ID XXLA|
+|name|name|SparkFun Qwiic RFID ID XXLA|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_RFID_ID-XXLA|
 |gitName|gitName|SparkFun_Qwiic_RFID_ID-XXLA|
 |eagleBoard|eagleBoard|/Hardware/Qwiic RFID - IDXXLA.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic RFID - IDXXLA.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15191/STAN/01/kicadPcb3d_450.png

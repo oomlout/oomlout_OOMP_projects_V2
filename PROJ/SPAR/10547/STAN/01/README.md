@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10547 > Simon Says
 
 - ID: PROJ-SPAR-10547-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10547-STAN-01|
 |Hex ID (short code)|hexID|PRPR10547|
-|Name|name|Simon Says|
+|name|name|Simon Says|
 |gitRepo|gitRepo|https://github.com/sparkfun/Simon-Says|
 |gitName|gitName|Simon-Says|
 |eagleBoard|eagleBoard|/Hardware/Simon-PTH.brd|
 |eagleSchem|eagleSchem|/Hardware/Simon-PTH.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10547/STAN/01/kicadPcb3d_450.png

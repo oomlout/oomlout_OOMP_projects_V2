@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9760 > Joystick Shield Kit
 
 - ID: PROJ-SPAR-9760-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9760-STAN-01|
 |Hex ID (short code)|hexID|PRPR9760|
-|Name|name|Joystick Shield Kit|
+|name|name|Joystick Shield Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Joystick_Shield_Kit|
 |gitName|gitName|Joystick_Shield_Kit|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Joystick_Shield_Kit.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Joystick_Shield_Kit.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9760/STAN/01/kicadPcb3d_450.png

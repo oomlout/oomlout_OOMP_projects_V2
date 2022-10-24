@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14450 > Motor Driver Dual TB6612FNG
 
 - ID: PROJ-SPAR-14450-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14450-STAN-01|
 |Hex ID (short code)|hexID|PRPR14450|
-|Name|name|Motor Driver Dual TB6612FNG|
+|name|name|Motor Driver Dual TB6612FNG|
 |gitRepo|gitRepo|https://github.com/sparkfun/Motor_Driver-Dual_TB6612FNG|
 |gitName|gitName|Motor_Driver-Dual_TB6612FNG|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Motor_Driver-TB6612FNG_v11.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Motor_Driver-TB6612FNG_v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14450/STAN/01/kicadPcb3d_450.png

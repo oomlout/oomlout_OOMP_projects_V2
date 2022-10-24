@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4037 > Adafruit I2S Audio Bonnet for Raspberry Pi PCB
 
 - ID: PROJ-ADAF-4037-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4037-STAN-01|
 |Hex ID (short code)|hexID|PRPR4037|
-|Name|name|Adafruit I2S Audio Bonnet for Raspberry Pi PCB|
+|name|name|Adafruit I2S Audio Bonnet for Raspberry Pi PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB|
 |gitName|gitName|Adafruit-I2S-Audio-Bonnet-for-Raspberry-Pi-PCB|
 |eagleBoard|eagleBoard|/Adafruit I2S Audio UDA1334 Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit I2S Audio UDA1334 Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4037/STAN/01/kicadPcb3d_450.png

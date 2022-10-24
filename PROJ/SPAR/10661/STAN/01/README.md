@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10661 > VoiceBox Shield
 
 - ID: PROJ-SPAR-10661-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10661-STAN-01|
 |Hex ID (short code)|hexID|PRPR10661|
-|Name|name|VoiceBox Shield|
+|name|name|VoiceBox Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/VoiceBox_Shield|
 |gitName|gitName|VoiceBox_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_VoiceBox_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_VoiceBox_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10661/STAN/01/kicadPcb3d_450.png

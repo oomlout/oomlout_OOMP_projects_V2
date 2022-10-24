@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13794 > Blynk Board ESP8266
 
 - ID: PROJ-SPAR-13794-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13794-STAN-01|
 |Hex ID (short code)|hexID|PRPR13794|
-|Name|name|Blynk Board ESP8266|
+|name|name|Blynk Board ESP8266|
 |gitRepo|gitRepo|https://github.com/sparkfun/Blynk_Board_ESP8266|
 |gitName|gitName|Blynk_Board_ESP8266|
 |eagleBoard|eagleBoard|/Hardware/SparkFun-Blynk-Board-ESP8266.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun-Blynk-Board-ESP8266.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13794/STAN/01/kicadPcb3d_450.png

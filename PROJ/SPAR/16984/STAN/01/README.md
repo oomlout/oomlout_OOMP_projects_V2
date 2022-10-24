@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16984 > MicroMod Processor Board nRF52840
 
 - ID: PROJ-SPAR-16984-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16984-STAN-01|
 |Hex ID (short code)|hexID|PRPR16984|
-|Name|name|MicroMod Processor Board nRF52840|
+|name|name|MicroMod Processor Board nRF52840|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Processor_Board-nRF52840|
 |gitName|gitName|MicroMod_Processor_Board-nRF52840|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_Processor_Board-nRF52840.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_Processor_Board-nRF52840.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16984/STAN/01/kicadPcb3d_450.png

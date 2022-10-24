@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15247 > GNSS Chip Antenna Evaluation Board
 
 - ID: PROJ-SPAR-15247-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15247-STAN-01|
 |Hex ID (short code)|hexID|PRPR15247|
-|Name|name|GNSS Chip Antenna Evaluation Board|
+|name|name|GNSS Chip Antenna Evaluation Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/GNSS_Chip_Antenna_Evaluation_Board|
 |gitName|gitName|GNSS_Chip_Antenna_Evaluation_Board|
 |eagleBoard|eagleBoard|/Hardware/GNSS_Chip_Antenna_Evaluation_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/GNSS_Chip_Antenna_Evaluation_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15247/STAN/01/kicadPcb3d_450.png

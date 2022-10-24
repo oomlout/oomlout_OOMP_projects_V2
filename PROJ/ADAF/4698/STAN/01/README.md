@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4698 > Adafruit AS7341 PCB
 
 - ID: PROJ-ADAF-4698-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4698-STAN-01|
 |Hex ID (short code)|hexID|PRPR4698|
-|Name|name|Adafruit AS7341 PCB|
+|name|name|Adafruit AS7341 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AS7341-PCB|
 |gitName|gitName|Adafruit-AS7341-PCB|
 |eagleBoard|eagleBoard|/Adafruit_AS7341.brd|
 |eagleSchem|eagleSchem|/Adafruit_AS7341.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4698/STAN/01/kicadPcb3d_450.png

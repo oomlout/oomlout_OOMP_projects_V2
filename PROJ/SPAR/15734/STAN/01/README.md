@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15734 > SparkFun Clock Generator 5P49V60
 
 - ID: PROJ-SPAR-15734-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15734-STAN-01|
 |Hex ID (short code)|hexID|PRPR15734|
-|Name|name|SparkFun Clock Generator 5P49V60|
+|name|name|SparkFun Clock Generator 5P49V60|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Clock_Generator_5P49V60|
 |gitName|gitName|SparkFun_Clock_Generator_5P49V60|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Clock_Generator_5PV49V60.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Clock_Generator_5PV49V60.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15734/STAN/01/kicadPcb3d_450.png

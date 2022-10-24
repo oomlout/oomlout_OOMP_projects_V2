@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15451 > Qwiic Motor Driver
 
 - ID: PROJ-SPAR-15451-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15451-STAN-01|
 |Hex ID (short code)|hexID|PRPR15451|
-|Name|name|Qwiic Motor Driver|
+|name|name|Qwiic Motor Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Motor_Driver|
 |gitName|gitName|Qwiic_Motor_Driver|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Motor_Driver.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_Motor_Driver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15451/STAN/01/kicadPcb3d_450.png

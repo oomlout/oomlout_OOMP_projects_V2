@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11028 > MPU 6050 Breakout
 
 - ID: PROJ-SPAR-11028-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11028-STAN-01|
 |Hex ID (short code)|hexID|PRPR11028|
-|Name|name|MPU 6050 Breakout|
+|name|name|MPU 6050 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPU-6050_Breakout|
 |gitName|gitName|MPU-6050_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Triple_Axis_Accelerometer_-_Gyro_Breakout_-_MPU-6050.brd|
 |eagleSchem|eagleSchem|/Hardware/Triple_Axis_Accelerometer_-_Gyro_Breakout_-_MPU-6050.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11028/STAN/01/kicadPcb3d_450.png

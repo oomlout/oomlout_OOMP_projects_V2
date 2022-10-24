@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10701 > Color Light Sensor Evaluation Board
 
 - ID: PROJ-SPAR-10701-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10701-STAN-01|
 |Hex ID (short code)|hexID|PRPR10701|
-|Name|name|Color Light Sensor Evaluation Board|
+|name|name|Color Light Sensor Evaluation Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/Color_Light_Sensor_Evaluation_Board|
 |gitName|gitName|Color_Light_Sensor_Evaluation_Board|
 |eagleBoard|eagleBoard|/Hardware/ADJD-S311_Breakout-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/ADJD-S311_Breakout-v10.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10701/STAN/01/kicadPcb3d_450.png

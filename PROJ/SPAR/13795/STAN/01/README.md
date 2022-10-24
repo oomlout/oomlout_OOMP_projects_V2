@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13795 > LED Array 8x7
 
 - ID: PROJ-SPAR-13795-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13795-STAN-01|
 |Hex ID (short code)|hexID|PRPR13795|
-|Name|name|LED Array 8x7|
+|name|name|LED Array 8x7|
 |gitRepo|gitRepo|https://github.com/sparkfun/LED_Array_8x7|
 |gitName|gitName|LED_Array_8x7|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LED_Array_8x7.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LED_Array_8x7.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13795/STAN/01/kicadPcb3d_450.png

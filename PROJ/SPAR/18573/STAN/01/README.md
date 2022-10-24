@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18573 > MicroMod Function LoRa 1W
 
 - ID: PROJ-SPAR-18573-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18573-STAN-01|
 |Hex ID (short code)|hexID|PRPR18573|
-|Name|name|MicroMod Function LoRa 1W|
+|name|name|MicroMod Function LoRa 1W|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Function_LoRa_1W|
 |gitName|gitName|MicroMod_Function_LoRa_1W|
 |eagleBoard|eagleBoard|/Hardware/MicroMod-LoRa-1W-Function-Board.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod-LoRa-1W-Function-Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18573/STAN/01/kicadPcb3d_450.png

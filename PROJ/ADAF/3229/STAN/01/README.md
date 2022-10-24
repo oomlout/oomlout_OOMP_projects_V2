@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3229 > Adafruit Radio FeatherWing PCB
 
 - ID: PROJ-ADAF-3229-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3229-STAN-01|
 |Hex ID (short code)|hexID|PRPR3229|
-|Name|name|Adafruit Radio FeatherWing PCB|
+|name|name|Adafruit Radio FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Radio-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Radio-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit Radio FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit Radio FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3229/STAN/01/kicadPcb3d_450.png

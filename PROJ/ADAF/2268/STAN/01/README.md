@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2268 > Adafruit Particle Spark Neopixel Ring PCB
 
 - ID: PROJ-ADAF-2268-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2268-STAN-01|
 |Hex ID (short code)|hexID|PRPR2268|
-|Name|name|Adafruit Particle Spark Neopixel Ring PCB|
+|name|name|Adafruit Particle Spark Neopixel Ring PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Particle-Spark-Neopixel-Ring-PCB|
 |gitName|gitName|Adafruit-Particle-Spark-Neopixel-Ring-PCB|
 |eagleBoard|eagleBoard|/Adafruit_NeoParticle24.brd|
 |eagleSchem|eagleSchem|/Adafruit_NeoParticle24.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2268/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13956 > Weather Shield
 
 - ID: PROJ-SPAR-13956-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13956-STAN-01|
 |Hex ID (short code)|hexID|PRPR13956|
-|Name|name|Weather Shield|
+|name|name|Weather Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Weather_Shield|
 |gitName|gitName|Weather_Shield|
 |eagleBoard|eagleBoard|/Hardware/Weather Shield_V12.brd|
 |eagleSchem|eagleSchem|/Hardware/Weather Shield_V12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13956/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5021 > Adafruit Slider Trinkey PCB
 
 - ID: PROJ-ADAF-5021-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5021-STAN-01|
 |Hex ID (short code)|hexID|PRPR5021|
-|Name|name|Adafruit Slider Trinkey PCB|
+|name|name|Adafruit Slider Trinkey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Slider-Trinkey-PCB|
 |gitName|gitName|Adafruit-Slider-Trinkey-PCB|
 |eagleBoard|eagleBoard|/Adafruit Slider Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit Slider Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5021/STAN/01/kicadPcb3d_450.png

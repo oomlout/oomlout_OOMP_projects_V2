@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11197 > ATmega128RFA1 Dev
 
 - ID: PROJ-SPAR-11197-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11197-STAN-01|
 |Hex ID (short code)|hexID|PRPR11197|
-|Name|name|ATmega128RFA1 Dev|
+|name|name|ATmega128RFA1 Dev|
 |gitRepo|gitRepo|https://github.com/sparkfun/ATmega128RFA1_Dev|
 |gitName|gitName|ATmega128RFA1_Dev|
 |eagleBoard|eagleBoard|/hardware/ATmega128RFA1-DevBoard.brd|
 |eagleSchem|eagleSchem|/hardware/ATmega128RFA1-DevBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11197/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10530 > Triple Axis Magnetometer HMC5883L
 
 - ID: PROJ-SPAR-10530-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10530-STAN-01|
 |Hex ID (short code)|hexID|PRPR10530|
-|Name|name|Triple Axis Magnetometer HMC5883L|
+|name|name|Triple Axis Magnetometer HMC5883L|
 |gitRepo|gitRepo|https://github.com/sparkfun/Triple_Axis_Magnetometer-HMC5883L|
 |gitName|gitName|Triple_Axis_Magnetometer-HMC5883L|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_HMC5883L_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_HMC5883L_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10530/STAN/01/kicadPcb3d_450.png

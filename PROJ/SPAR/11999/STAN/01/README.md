@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11999 > RedBot Whisker Bumper
 
 - ID: PROJ-SPAR-11999-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11999-STAN-01|
 |Hex ID (short code)|hexID|PRPR11999|
-|Name|name|RedBot Whisker Bumper|
+|name|name|RedBot Whisker Bumper|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBot_Whisker_Bumper|
 |gitName|gitName|RedBot_Whisker_Bumper|
 |eagleBoard|eagleBoard|/Hardware/RedBot Whisker Bumper.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot Whisker Bumper.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11999/STAN/01/kicadPcb3d_450.png

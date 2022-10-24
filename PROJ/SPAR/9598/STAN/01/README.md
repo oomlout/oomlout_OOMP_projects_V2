@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9598 > MIDI Breakout
 
 - ID: PROJ-SPAR-9598-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9598-STAN-01|
 |Hex ID (short code)|hexID|PRPR9598|
-|Name|name|MIDI Breakout|
+|name|name|MIDI Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MIDI_Breakout|
 |gitName|gitName|MIDI_Breakout|
 |eagleBoard|eagleBoard|/Hardware/MIDI_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/MIDI_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9598/STAN/01/kicadPcb3d_450.png

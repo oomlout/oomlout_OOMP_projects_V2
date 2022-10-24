@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3538 > Adafruit AMG8833 Breakout PCB
 
 - ID: PROJ-ADAF-3538-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3538-STAN-01|
 |Hex ID (short code)|hexID|PRPR3538|
-|Name|name|Adafruit AMG8833 Breakout PCB|
+|name|name|Adafruit AMG8833 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AMG8833-Breakout-PCB|
 |gitName|gitName|Adafruit-AMG8833-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit AMG8833 FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit AMG8833 FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3538/STAN/01/kicadPcb3d_450.png

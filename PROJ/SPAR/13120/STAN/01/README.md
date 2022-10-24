@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13120 > MG2639 Cellular Shield
 
 - ID: PROJ-SPAR-13120-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13120-STAN-01|
 |Hex ID (short code)|hexID|PRPR13120|
-|Name|name|MG2639 Cellular Shield|
+|name|name|MG2639 Cellular Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MG2639_Cellular_Shield|
 |gitName|gitName|MG2639_Cellular_Shield|
 |eagleBoard|eagleBoard|/Hardware/MG2639 Cellular Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/MG2639 Cellular Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13120/STAN/01/kicadPcb3d_450.png

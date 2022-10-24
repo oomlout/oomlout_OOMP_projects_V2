@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15005 > Qwiic GPS RTK
 
 - ID: PROJ-SPAR-15005-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15005-STAN-01|
 |Hex ID (short code)|hexID|PRPR15005|
-|Name|name|Qwiic GPS RTK|
+|name|name|Qwiic GPS RTK|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_GPS-RTK|
 |gitName|gitName|Qwiic_GPS-RTK|
 |eagleBoard|eagleBoard|/Hardware/Qwiic GPS-RTK - ublox NEO-M8P.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic GPS-RTK - ublox NEO-M8P.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15005/STAN/01/kicadPcb3d_450.png

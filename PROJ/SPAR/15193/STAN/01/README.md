@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15193 > SparkFun u blox ZOE M8Q
 
 - ID: PROJ-SPAR-15193-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15193-STAN-01|
 |Hex ID (short code)|hexID|PRPR15193|
-|Name|name|SparkFun u blox ZOE M8Q|
+|name|name|SparkFun u blox ZOE M8Q|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-blox_ZOE-M8Q|
 |gitName|gitName|SparkFun_u-blox_ZOE-M8Q|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ZOE-M8Q GPS.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ZOE-M8Q GPS.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15193/STAN/01/kicadPcb3d_450.png

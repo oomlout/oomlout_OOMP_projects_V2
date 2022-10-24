@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3317 > Adafruit VL53L0X ToF Distance Sensor PCB
 
 - ID: PROJ-ADAF-3317-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3317-STAN-01|
 |Hex ID (short code)|hexID|PRPR3317|
-|Name|name|Adafruit VL53L0X ToF Distance Sensor PCB|
+|name|name|Adafruit VL53L0X ToF Distance Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VL53L0X-ToF-Distance-Sensor-PCB|
 |gitName|gitName|Adafruit-VL53L0X-ToF-Distance-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit VL530X STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit VL530X STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3317/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13720 > MP3 Trigger
 
 - ID: PROJ-SPAR-13720-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13720-STAN-01|
 |Hex ID (short code)|hexID|PRPR13720|
-|Name|name|MP3 Trigger|
+|name|name|MP3 Trigger|
 |gitRepo|gitRepo|https://github.com/sparkfun/MP3_Trigger|
 |gitName|gitName|MP3_Trigger|
 |eagleBoard|eagleBoard|/Hardware/mp3-trigger.brd|
 |eagleSchem|eagleSchem|/Hardware/mp3-trigger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13720/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1135 > Adafruit Perma Proto Pi PCBs
 
 - ID: PROJ-ADAF-1135-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1135-STAN-01|
 |Hex ID (short code)|hexID|PRPR1135|
-|Name|name|Adafruit Perma Proto Pi PCBs|
+|name|name|Adafruit Perma Proto Pi PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Perma-Proto-Pi-PCBs|
 |gitName|gitName|Adafruit-Perma-Proto-Pi-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Pi - Full Size.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Pi - Full Size.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1135/STAN/01/kicadPcb3d_450.png

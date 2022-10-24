@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12017 > MPR121 Capacitive Touch Keypad
 
 - ID: PROJ-SPAR-12017-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12017-STAN-01|
 |Hex ID (short code)|hexID|PRPR12017|
-|Name|name|MPR121 Capacitive Touch Keypad|
+|name|name|MPR121 Capacitive Touch Keypad|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPR121_Capacitive_Touch_Keypad|
 |gitName|gitName|MPR121_Capacitive_Touch_Keypad|
 |eagleBoard|eagleBoard|/Hardware/MPR121-Cap-Touch-Keypad.brd|
 |eagleSchem|eagleSchem|/Hardware/MPR121-Cap-Touch-Keypad.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12017/STAN/01/kicadPcb3d_450.png

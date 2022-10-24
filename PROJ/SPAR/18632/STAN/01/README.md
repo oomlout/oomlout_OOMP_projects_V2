@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18632 > MicroMod Environmental Sensor Function Board
 
 - ID: PROJ-SPAR-18632-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18632-STAN-01|
 |Hex ID (short code)|hexID|PRPR18632|
-|Name|name|MicroMod Environmental Sensor Function Board|
+|name|name|MicroMod Environmental Sensor Function Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Environmental_Sensor_Function_Board|
 |gitName|gitName|MicroMod_Environmental_Sensor_Function_Board|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_Environmental.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_Environmental.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18632/STAN/01/kicadPcb3d_450.png

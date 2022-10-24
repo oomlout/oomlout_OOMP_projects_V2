@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4000 > Adafruit Metro M4 Express AirLift PCB
 
 - ID: PROJ-ADAF-4000-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4000-STAN-01|
 |Hex ID (short code)|hexID|PRPR4000|
-|Name|name|Adafruit Metro M4 Express AirLift PCB|
+|name|name|Adafruit Metro M4 Express AirLift PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Metro-M4-Express-AirLift-PCB|
 |gitName|gitName|Adafruit-Metro-M4-Express-AirLift-PCB|
 |eagleBoard|eagleBoard|/Metro M4 Express AirLift.brd|
 |eagleSchem|eagleSchem|/Metro M4 Express AirLift.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4000/STAN/01/kicadPcb3d_450.png

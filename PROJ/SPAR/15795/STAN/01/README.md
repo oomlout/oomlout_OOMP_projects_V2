@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15795-STAN-01|
 |Hex ID (short code)|hexID|PRPR15795|
-|Name|name|Pro Micro|
+|name|name|Pro Micro|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pro_Micro|
 |gitName|gitName|Pro_Micro|
 |eagleBoard|eagleBoard|/Hardware/v13/SparkFun_Pro_Micro.brd|

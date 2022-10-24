@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13268 > Snappable P Board
 
 - ID: PROJ-SPAR-13268-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13268-STAN-01|
 |Hex ID (short code)|hexID|PRPR13268|
-|Name|name|Snappable P Board|
+|name|name|Snappable P Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/Snappable_P-Board|
 |gitName|gitName|Snappable_P-Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Snappable_P-Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Snappable_P-Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13268/STAN/01/kicadPcb3d_450.png

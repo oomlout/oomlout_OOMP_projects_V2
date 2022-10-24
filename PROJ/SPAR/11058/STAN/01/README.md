@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11058 > Venus GPS SMA Connector
 
 - ID: PROJ-SPAR-11058-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11058-STAN-01|
 |Hex ID (short code)|hexID|PRPR11058|
-|Name|name|Venus GPS SMA Connector|
+|name|name|Venus GPS SMA Connector|
 |gitRepo|gitRepo|https://github.com/sparkfun/Venus_GPS_SMA_Connector|
 |gitName|gitName|Venus_GPS_SMA_Connector|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Venus_GPS_SMA_Connector.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Venus_GPS_SMA_Connector.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11058/STAN/01/kicadPcb3d_450.png

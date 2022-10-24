@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9607 > SM5100B Cellular Shield
 
 - ID: PROJ-SPAR-9607-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9607-STAN-01|
 |Hex ID (short code)|hexID|PRPR9607|
-|Name|name|SM5100B Cellular Shield|
+|name|name|SM5100B Cellular Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/SM5100B_Cellular_Shield|
 |gitName|gitName|SM5100B_Cellular_Shield|
 |eagleBoard|eagleBoard|/Hardware/cellular shield-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/cellular shield-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9607/STAN/01/kicadPcb3d_450.png

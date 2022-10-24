@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0259-STAN-01|
 |Hex ID (short code)|hexID|PRPR0259|
-|Name|name|Adafruit MCP73833 PCB|
+|name|name|Adafruit MCP73833 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_MCP73833_PCB|
 |gitName|gitName|Adafruit_MCP73833_PCB|
 |eagleBoard|eagleBoard|/MCP73833_QFN_v1.0.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4829 > Adafruit SGP40 PCB
 
 - ID: PROJ-ADAF-4829-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4829-STAN-01|
 |Hex ID (short code)|hexID|PRPR4829|
-|Name|name|Adafruit SGP40 PCB|
+|name|name|Adafruit SGP40 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SGP40-PCB|
 |gitName|gitName|Adafruit-SGP40-PCB|
 |eagleBoard|eagleBoard|/Adafruit SGP40.brd|
 |eagleSchem|eagleSchem|/Adafruit SGP40.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4829/STAN/01/kicadPcb3d_450.png

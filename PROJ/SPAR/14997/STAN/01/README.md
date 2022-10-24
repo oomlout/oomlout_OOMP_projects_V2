@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14997 > LTE Cat M1 Shield
 
 - ID: PROJ-SPAR-14997-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14997-STAN-01|
 |Hex ID (short code)|hexID|PRPR14997|
-|Name|name|LTE Cat M1 Shield|
+|name|name|LTE Cat M1 Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/LTE_Cat_M1_Shield|
 |gitName|gitName|LTE_Cat_M1_Shield|
 |eagleBoard|eagleBoard|/Hardware/lte_cat_m1_shield_sara-r4.brd|
 |eagleSchem|eagleSchem|/Hardware/lte_cat_m1_shield_sara-r4.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14997/STAN/01/kicadPcb3d_450.png

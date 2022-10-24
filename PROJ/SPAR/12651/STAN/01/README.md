@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12651 > Digital Sandbox
 
 - ID: PROJ-SPAR-12651-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12651-STAN-01|
 |Hex ID (short code)|hexID|PRPR12651|
-|Name|name|Digital Sandbox|
+|name|name|Digital Sandbox|
 |gitRepo|gitRepo|https://github.com/sparkfun/Digital_Sandbox|
 |gitName|gitName|Digital_Sandbox|
 |eagleBoard|eagleBoard|/Hardware/DigitalSandbox.brd|
 |eagleSchem|eagleSchem|/Hardware/DigitalSandbox.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12651/STAN/01/kicadPcb3d_450.png

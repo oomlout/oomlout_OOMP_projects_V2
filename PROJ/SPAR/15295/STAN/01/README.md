@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15295-STAN-01|
 |Hex ID (short code)|hexID|PRPR15295|
-|Name|name|SparkFun PCB Ruler|
+|name|name|SparkFun PCB Ruler|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_PCB_Ruler|
 |gitName|gitName|SparkFun_PCB_Ruler|
 |eagleBoard|eagleBoard|/Hardware/SparkFunRuler.brd|

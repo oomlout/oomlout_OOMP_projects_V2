@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13629 > Photon IMU Shield
 
 - ID: PROJ-SPAR-13629-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13629-STAN-01|
 |Hex ID (short code)|hexID|PRPR13629|
-|Name|name|Photon IMU Shield|
+|name|name|Photon IMU Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_IMU_Shield|
 |gitName|gitName|Photon_IMU_Shield|
 |eagleBoard|eagleBoard|/Hardware/Photon-IMU-Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Photon-IMU-Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13629/STAN/01/kicadPcb3d_450.png

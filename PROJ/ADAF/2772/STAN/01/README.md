@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2772 > Adafruit Feather M0 Basic Proto PCB
 
 - ID: PROJ-ADAF-2772-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2772-STAN-01|
 |Hex ID (short code)|hexID|PRPR2772|
-|Name|name|Adafruit Feather M0 Basic Proto PCB|
+|name|name|Adafruit Feather M0 Basic Proto PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB|
 |gitName|gitName|Adafruit-Feather-M0-Basic-Proto-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather M0 Basic rev C.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather M0 Basic rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2772/STAN/01/kicadPcb3d_450.png

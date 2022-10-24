@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5543-STAN-01|
 |Hex ID (short code)|hexID|PRPR5543|
-|Name|name|Adafruit LSM6DS3TR C LIS3MDL PCB|
+|name|name|Adafruit LSM6DS3TR C LIS3MDL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DS3TR-C-LIS3MDL-PCB|
 |gitName|gitName|Adafruit-LSM6DS3TR-C-LIS3MDL-PCB|
 |eagleBoard|eagleBoard|/LIS3MDL + LSM6DS3 rev A.brd|

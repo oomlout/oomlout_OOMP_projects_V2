@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10124 > RS 485 Breakout
 
 - ID: PROJ-SPAR-10124-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10124-STAN-01|
 |Hex ID (short code)|hexID|PRPR10124|
-|Name|name|RS 485 Breakout|
+|name|name|RS 485 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/RS-485_Breakout|
 |gitName|gitName|RS-485_Breakout|
 |eagleBoard|eagleBoard|/Hardware/RS485_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/RS485_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10124/STAN/01/kicadPcb3d_450.png

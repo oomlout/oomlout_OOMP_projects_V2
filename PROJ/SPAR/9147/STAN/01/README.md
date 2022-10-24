@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9147 > AVR Stick
 
 - ID: PROJ-SPAR-9147-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9147-STAN-01|
 |Hex ID (short code)|hexID|PRPR9147|
-|Name|name|AVR Stick|
+|name|name|AVR Stick|
 |gitRepo|gitRepo|https://github.com/sparkfun/AVR_Stick|
 |gitName|gitName|AVR_Stick|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_AVR_Stick.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_AVR_Stick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9147/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11018 > RFM22 Shield 434MHz
 
 - ID: PROJ-SPAR-11018-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11018-STAN-01|
 |Hex ID (short code)|hexID|PRPR11018|
-|Name|name|RFM22 Shield 434MHz|
+|name|name|RFM22 Shield 434MHz|
 |gitRepo|gitRepo|https://github.com/sparkfun/RFM22_Shield-434MHz|
 |gitName|gitName|RFM22_Shield-434MHz|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RFM22_SHield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_RFM22_SHield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11018/STAN/01/kicadPcb3d_450.png

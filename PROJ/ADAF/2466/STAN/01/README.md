@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2466 > Adafruit METRO 328 PCB
 
 - ID: PROJ-ADAF-2466-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2466-STAN-01|
 |Hex ID (short code)|hexID|PRPR2466|
-|Name|name|Adafruit METRO 328 PCB|
+|name|name|Adafruit METRO 328 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-METRO-328-PCB|
 |gitName|gitName|Adafruit-METRO-328-PCB|
 |eagleBoard|eagleBoard|/Metro Mini 328 V2 - STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Metro Mini 328 V2 - STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2466/STAN/01/kicadPcb3d_450.png

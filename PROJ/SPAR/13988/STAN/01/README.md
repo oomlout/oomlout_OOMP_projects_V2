@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13988 > Micro Bit Breakout
 
 - ID: PROJ-SPAR-13988-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13988-STAN-01|
 |Hex ID (short code)|hexID|PRPR13988|
-|Name|name|Micro Bit Breakout|
+|name|name|Micro Bit Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Micro_Bit_Breakout|
 |gitName|gitName|Micro_Bit_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Micro_Bit_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Micro_Bit_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13988/STAN/01/kicadPcb3d_450.png

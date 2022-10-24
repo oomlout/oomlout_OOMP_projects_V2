@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15423 > SparkFun Qwiic Micro SAMD21E
 
 - ID: PROJ-SPAR-15423-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15423-STAN-01|
 |Hex ID (short code)|hexID|PRPR15423|
-|Name|name|SparkFun Qwiic Micro SAMD21E|
+|name|name|SparkFun Qwiic Micro SAMD21E|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_Micro_SAMD21E|
 |gitName|gitName|SparkFun_Qwiic_Micro_SAMD21E|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Micro_SAMD21E.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_Micro_SAMD21E.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15423/STAN/01/kicadPcb3d_450.png

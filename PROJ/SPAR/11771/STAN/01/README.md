@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11771 > TXB0104 breakout
 
 - ID: PROJ-SPAR-11771-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11771-STAN-01|
 |Hex ID (short code)|hexID|PRPR11771|
-|Name|name|TXB0104 breakout|
+|name|name|TXB0104 breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/TXB0104_breakout|
 |gitName|gitName|TXB0104_breakout|
 |eagleBoard|eagleBoard|/Hardware/TXB0104_breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/TXB0104_breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11771/STAN/01/kicadPcb3d_450.png

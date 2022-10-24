@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19696-STAN-01|
 |Hex ID (short code)|hexID|PRPR19696|
-|Name|name|SparkFun Thing Plus DA16200|
+|name|name|SparkFun Thing Plus DA16200|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Thing_Plus_DA16200|
 |gitName|gitName|SparkFun_Thing_Plus_DA16200|
 |eagleBoard|eagleBoard|/Hardware/DA16200_Thing_Plus.brd|

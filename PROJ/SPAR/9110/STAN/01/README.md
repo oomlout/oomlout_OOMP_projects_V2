@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9110 > Thumb Joystick Breakout
 
 - ID: PROJ-SPAR-9110-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9110-STAN-01|
 |Hex ID (short code)|hexID|PRPR9110|
-|Name|name|Thumb Joystick Breakout|
+|name|name|Thumb Joystick Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Thumb_Joystick_Breakout|
 |gitName|gitName|Thumb_Joystick_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Joystick-Breakout-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/Joystick-Breakout-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9110/STAN/01/kicadPcb3d_450.png

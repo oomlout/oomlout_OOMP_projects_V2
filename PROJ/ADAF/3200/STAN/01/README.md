@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3200 > Adafruit Teensy 3.x Feather Adapter PCB
 
 - ID: PROJ-ADAF-3200-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3200-STAN-01|
 |Hex ID (short code)|hexID|PRPR3200|
-|Name|name|Adafruit Teensy 3.x Feather Adapter PCB|
+|name|name|Adafruit Teensy 3.x Feather Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Teensy-3.x-Feather-Adapter-PCB|
 |gitName|gitName|Adafruit-Teensy-3.x-Feather-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather Teensy3 Adapter Original.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather Teensy3 Adapter Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3200/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16566 > Qwiic Quad Relay
 
 - ID: PROJ-SPAR-16566-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16566-STAN-01|
 |Hex ID (short code)|hexID|PRPR16566|
-|Name|name|Qwiic Quad Relay|
+|name|name|Qwiic Quad Relay|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Quad_Relay|
 |gitName|gitName|Qwiic_Quad_Relay|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Quad_Relay.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Quad_Relay.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16566/STAN/01/kicadPcb3d_450.png

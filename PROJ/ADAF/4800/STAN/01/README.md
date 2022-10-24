@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4800 > Adafruit MagTag PCBs
 
 - ID: PROJ-ADAF-4800-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4800-STAN-01|
 |Hex ID (short code)|hexID|PRPR4800|
-|Name|name|Adafruit MagTag PCBs|
+|name|name|Adafruit MagTag PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_MagTag_PCBs|
 |gitName|gitName|Adafruit_MagTag_PCBs|
 |eagleBoard|eagleBoard|/Adafruit MagTag 2.9in.brd|
 |eagleSchem|eagleSchem|/Adafruit MagTag 2.9in.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4800/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3088 > Adafruit LED Backpack FeatherWing PCB
 
 - ID: PROJ-ADAF-3088-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3088-STAN-01|
 |Hex ID (short code)|hexID|PRPR3088|
-|Name|name|Adafruit LED Backpack FeatherWing PCB|
+|name|name|Adafruit LED Backpack FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LED-Backpack-FeatherWing-PCB|
 |gitName|gitName|Adafruit-LED-Backpack-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/16x8 mono LED FeatherWing rev A.brd|
 |eagleSchem|eagleSchem|/16x8 mono LED FeatherWing rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3088/STAN/01/kicadPcb3d_450.png

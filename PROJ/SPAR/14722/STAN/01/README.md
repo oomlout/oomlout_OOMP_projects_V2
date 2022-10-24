@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14722 > Qwiic Distance VL53L1X
 
 - ID: PROJ-SPAR-14722-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14722-STAN-01|
 |Hex ID (short code)|hexID|PRPR14722|
-|Name|name|Qwiic Distance VL53L1X|
+|name|name|Qwiic Distance VL53L1X|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Distance_VL53L1X|
 |gitName|gitName|Qwiic_Distance_VL53L1X|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Distance Sensor - VL53L1X.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Distance Sensor - VL53L1X.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14722/STAN/01/kicadPcb3d_450.png

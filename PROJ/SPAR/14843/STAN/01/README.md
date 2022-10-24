@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14843 > Qwiic IR Array MLX90640
 
 - ID: PROJ-SPAR-14843-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14843-STAN-01|
 |Hex ID (short code)|hexID|PRPR14843|
-|Name|name|Qwiic IR Array MLX90640|
+|name|name|Qwiic IR Array MLX90640|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_IR_Array_MLX90640|
 |gitName|gitName|Qwiic_IR_Array_MLX90640|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-mlx90640-qwiic-breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-mlx90640-qwiic-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14843/STAN/01/kicadPcb3d_450.png

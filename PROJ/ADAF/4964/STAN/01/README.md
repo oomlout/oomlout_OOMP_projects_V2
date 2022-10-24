@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4964 > Adafruit Rotary Trinkey PCB
 
 - ID: PROJ-ADAF-4964-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4964-STAN-01|
 |Hex ID (short code)|hexID|PRPR4964|
-|Name|name|Adafruit Rotary Trinkey PCB|
+|name|name|Adafruit Rotary Trinkey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Rotary-Trinkey-PCB|
 |gitName|gitName|Adafruit-Rotary-Trinkey-PCB|
 |eagleBoard|eagleBoard|/Adafruit Rotary Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit Rotary Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4964/STAN/01/kicadPcb3d_450.png

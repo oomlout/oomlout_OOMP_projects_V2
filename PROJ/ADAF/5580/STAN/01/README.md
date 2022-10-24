@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5580-STAN-01|
 |Hex ID (short code)|hexID|PRPR5580|
-|Name|name|Adafruit MAX17048 PCB|
+|name|name|Adafruit MAX17048 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX17048-PCB|
 |gitName|gitName|Adafruit-MAX17048-PCB|
 |eagleBoard|eagleBoard|/Adafruit-MAX17048-STEMMA.brd|

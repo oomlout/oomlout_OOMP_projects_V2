@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14666 > Qwiic Flex Glove Controller
 
 - ID: PROJ-SPAR-14666-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14666-STAN-01|
 |Hex ID (short code)|hexID|PRPR14666|
-|Name|name|Qwiic Flex Glove Controller|
+|name|name|Qwiic Flex Glove Controller|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Flex_Glove_Controller|
 |gitName|gitName|Qwiic_Flex_Glove_Controller|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Flex Glove Controller.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Flex Glove Controller.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14666/STAN/01/kicadPcb3d_450.png

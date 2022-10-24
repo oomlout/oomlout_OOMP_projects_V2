@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3966 > Adafruit BMP3xx PCB
 
 - ID: PROJ-ADAF-3966-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3966-STAN-01|
 |Hex ID (short code)|hexID|PRPR3966|
-|Name|name|Adafruit BMP3xx PCB|
+|name|name|Adafruit BMP3xx PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BMP3xx-PCB|
 |gitName|gitName|Adafruit-BMP3xx-PCB|
 |eagleBoard|eagleBoard|/Adafruit BMP388 QT.brd|
 |eagleSchem|eagleSchem|/Adafruit BMP388 QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3966/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11931 > Digital Temperature Sensor Breakout   TMP102
 
 - ID: PROJ-SPAR-11931-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11931-STAN-01|
 |Hex ID (short code)|hexID|PRPR11931|
-|Name|name|Digital Temperature Sensor Breakout   TMP102|
+|name|name|Digital Temperature Sensor Breakout   TMP102|
 |gitRepo|gitRepo|https://github.com/sparkfun/Digital_Temperature_Sensor_Breakout_-_TMP102|
 |gitName|gitName|Digital_Temperature_Sensor_Breakout_-_TMP102|
 |eagleBoard|eagleBoard|/Hardware/Digital Temperature Sensor Breakout - TMP102.brd|
 |eagleSchem|eagleSchem|/Hardware/Digital Temperature Sensor Breakout - TMP102.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11931/STAN/01/kicadPcb3d_450.png

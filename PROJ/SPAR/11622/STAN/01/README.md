@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11622 > RedBot with Optical Encoder
 
 - ID: PROJ-SPAR-11622-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11622-STAN-01|
 |Hex ID (short code)|hexID|PRPR11622|
-|Name|name|RedBot with Optical Encoder|
+|name|name|RedBot with Optical Encoder|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBot_with_Optical_Encoder|
 |gitName|gitName|RedBot_with_Optical_Encoder|
 |eagleBoard|eagleBoard|/Hardware/RedBot.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11622/STAN/01/kicadPcb3d_450.png

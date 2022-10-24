@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1463 > Adafruit NeoPixel Ring
 
 - ID: PROJ-ADAF-1463-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1463-STAN-01|
 |Hex ID (short code)|hexID|PRPR1463|
-|Name|name|Adafruit NeoPixel Ring|
+|name|name|Adafruit NeoPixel Ring|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-Ring|
 |gitName|gitName|Adafruit-NeoPixel-Ring|
 |eagleBoard|eagleBoard|/Adafruit NeoPixel Ring 12.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoPixel Ring 12.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1463/STAN/01/kicadPcb3d_450.png

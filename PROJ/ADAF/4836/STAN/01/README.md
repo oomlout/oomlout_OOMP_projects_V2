@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4836 > Adafruit Wii Nunchuck Breakout Adapter PCB
 
 - ID: PROJ-ADAF-4836-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4836-STAN-01|
 |Hex ID (short code)|hexID|PRPR4836|
-|Name|name|Adafruit Wii Nunchuck Breakout Adapter PCB|
+|name|name|Adafruit Wii Nunchuck Breakout Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB|
 |gitName|gitName|Adafruit-Wii-Nunchuck-Breakout-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Wii Nunchuck Breakout Adapter.brd|
 |eagleSchem|eagleSchem|/Adafruit Wii Nunchuck Breakout Adapter.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4836/STAN/01/kicadPcb3d_450.png

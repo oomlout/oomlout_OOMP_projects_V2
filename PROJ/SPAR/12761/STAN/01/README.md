@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12761 > microSD Shield
 
 - ID: PROJ-SPAR-12761-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12761-STAN-01|
 |Hex ID (short code)|hexID|PRPR12761|
-|Name|name|microSD Shield|
+|name|name|microSD Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/microSD_Shield|
 |gitName|gitName|microSD_Shield|
 |eagleBoard|eagleBoard|/Hardware/microSD_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/microSD_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12761/STAN/01/kicadPcb3d_450.png

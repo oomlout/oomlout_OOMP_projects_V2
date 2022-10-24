@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0801-STAN-01|
 |Hex ID (short code)|hexID|PRPR0801|
-|Name|name|Adafruit Prototyping Pi Plate PCB|
+|name|name|Adafruit Prototyping Pi Plate PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Prototyping-Pi-Plate-PCB|
 |gitName|gitName|Adafruit-Prototyping-Pi-Plate-PCB|
 |eagleBoard|eagleBoard|/Adafruit proto pi plate.brd|

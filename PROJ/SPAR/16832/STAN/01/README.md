@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16832 > OpenLog Artemis
 
 - ID: PROJ-SPAR-16832-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16832-STAN-01|
 |Hex ID (short code)|hexID|PRPR16832|
-|Name|name|OpenLog Artemis|
+|name|name|OpenLog Artemis|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpenLog_Artemis|
 |gitName|gitName|OpenLog_Artemis|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Artemis_OpenLog.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Artemis_OpenLog.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16832/STAN/01/kicadPcb3d_450.png

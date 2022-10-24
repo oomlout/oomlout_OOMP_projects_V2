@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4900 > Adafruit QT Py RP2040 PCB
 
 - ID: PROJ-ADAF-4900-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4900-STAN-01|
 |Hex ID (short code)|hexID|PRPR4900|
-|Name|name|Adafruit QT Py RP2040 PCB|
+|name|name|Adafruit QT Py RP2040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-QT-Py-RP2040-PCB|
 |gitName|gitName|Adafruit-QT-Py-RP2040-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT Py RP2040.brd|
 |eagleSchem|eagleSchem|/Adafruit QT Py RP2040.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4900/STAN/01/kicadPcb3d_450.png

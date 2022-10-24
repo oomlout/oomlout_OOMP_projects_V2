@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4201 > Adafruit AirLift Breakout PCB
 
 - ID: PROJ-ADAF-4201-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4201-STAN-01|
 |Hex ID (short code)|hexID|PRPR4201|
-|Name|name|Adafruit AirLift Breakout PCB|
+|name|name|Adafruit AirLift Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AirLift-Breakout-PCB|
 |gitName|gitName|Adafruit-AirLift-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit AirLift Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit AirLift Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4201/STAN/01/kicadPcb3d_450.png

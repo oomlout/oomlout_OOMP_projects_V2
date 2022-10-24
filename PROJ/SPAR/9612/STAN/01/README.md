@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9612 > Audio Amplifier Kit STA540
 
 - ID: PROJ-SPAR-9612-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9612-STAN-01|
 |Hex ID (short code)|hexID|PRPR9612|
-|Name|name|Audio Amplifier Kit STA540|
+|name|name|Audio Amplifier Kit STA540|
 |gitRepo|gitRepo|https://github.com/sparkfun/Audio_Amplifier_Kit-STA540|
 |gitName|gitName|Audio_Amplifier_Kit-STA540|
 |eagleBoard|eagleBoard|/hardware/SparkFun_STA540_Audio_Amp.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_STA540_Audio_Amp.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9612/STAN/01/kicadPcb3d_450.png

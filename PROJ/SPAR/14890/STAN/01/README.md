@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14890 > gator color
 
 - ID: PROJ-SPAR-14890-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14890-STAN-01|
 |Hex ID (short code)|hexID|PRPR14890|
-|Name|name|gator color|
+|name|name|gator color|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_color|
 |gitName|gitName|gator_color|
 |eagleBoard|eagleBoard|/Hardware/gatorBytes_LED_board.brd|
 |eagleSchem|eagleSchem|/Hardware/gatorBytes_LED_board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14890/STAN/01/kicadPcb3d_450.png

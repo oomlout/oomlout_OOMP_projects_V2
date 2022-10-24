@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10730 > LilyPad Coin Cell Battery Holder 20mm
 
 - ID: PROJ-SPAR-10730-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10730-STAN-01|
 |Hex ID (short code)|hexID|PRPR10730|
-|Name|name|LilyPad Coin Cell Battery Holder 20mm|
+|name|name|LilyPad Coin Cell Battery Holder 20mm|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Coin_Cell_Battery_Holder-20mm|
 |gitName|gitName|LilyPad_Coin_Cell_Battery_Holder-20mm|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad_Coincell-Battery.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad_Coincell-Battery.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10730/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2088 > Adafruit 1.44 TFT Breakout PCB
 
 - ID: PROJ-ADAF-2088-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2088-STAN-01|
 |Hex ID (short code)|hexID|PRPR2088|
-|Name|name|Adafruit 1.44 TFT Breakout PCB|
+|name|name|Adafruit 1.44 TFT Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.44-TFT-Breakout-PCB|
 |gitName|gitName|Adafruit-1.44-TFT-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit TFT144 Breakout rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit TFT144 Breakout rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2088/STAN/01/kicadPcb3d_450.png

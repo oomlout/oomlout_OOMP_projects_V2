@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19389 > SparkFun Analog MEMS Microphone Breakout SPH8878LR5H 1
 
 - ID: PROJ-SPAR-19389-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19389-STAN-01|
 |Hex ID (short code)|hexID|PRPR19389|
-|Name|name|SparkFun Analog MEMS Microphone Breakout SPH8878LR5H 1|
+|name|name|SparkFun Analog MEMS Microphone Breakout SPH8878LR5H 1|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1|
 |gitName|gitName|SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19389/STAN/01/kicadPcb3d_450.png

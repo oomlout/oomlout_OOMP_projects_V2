@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1487 > Adafruit NeoPixel 8x8 Matrix
 
 - ID: PROJ-ADAF-1487-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1487-STAN-01|
 |Hex ID (short code)|hexID|PRPR1487|
-|Name|name|Adafruit NeoPixel 8x8 Matrix|
+|name|name|Adafruit NeoPixel 8x8 Matrix|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-8x8-Matrix|
 |gitName|gitName|Adafruit-NeoPixel-8x8-Matrix|
 |eagleBoard|eagleBoard|/Adafruit_NeoMatrix_8x8 v2.brd|
 |eagleSchem|eagleSchem|/Adafruit_NeoMatrix_8x8 v2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1487/STAN/01/kicadPcb3d_450.png

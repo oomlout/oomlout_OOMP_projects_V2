@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14030 > Mini GPS Shield
 
 - ID: PROJ-SPAR-14030-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14030-STAN-01|
 |Hex ID (short code)|hexID|PRPR14030|
-|Name|name|Mini GPS Shield|
+|name|name|Mini GPS Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mini_GPS_Shield|
 |gitName|gitName|Mini_GPS_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Mini_GPS_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Mini_GPS_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14030/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3500 > Adafruit Trinket M0 PCB
 
 - ID: PROJ-ADAF-3500-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3500-STAN-01|
 |Hex ID (short code)|hexID|PRPR3500|
-|Name|name|Adafruit Trinket M0 PCB|
+|name|name|Adafruit Trinket M0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Trinket-M0-PCB|
 |gitName|gitName|Adafruit-Trinket-M0-PCB|
 |eagleBoard|eagleBoard|/Trinket M0 rev D.brd|
 |eagleSchem|eagleSchem|/Trinket M0 rev D.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3500/STAN/01/kicadPcb3d_450.png

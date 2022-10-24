@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15271 > gator particle
 
 - ID: PROJ-SPAR-15271-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15271-STAN-01|
 |Hex ID (short code)|hexID|PRPR15271|
-|Name|name|gator particle|
+|name|name|gator particle|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_particle|
 |gitName|gitName|gator_particle|
 |eagleBoard|eagleBoard|/Hardware/GatorParticle.brd|
 |eagleSchem|eagleSchem|/Hardware/GatorParticle.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15271/STAN/01/kicadPcb3d_450.png

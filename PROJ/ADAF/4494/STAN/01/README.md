@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4494 > Adafruit DPS310 PCB
 
 - ID: PROJ-ADAF-4494-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4494-STAN-01|
 |Hex ID (short code)|hexID|PRPR4494|
-|Name|name|Adafruit DPS310 PCB|
+|name|name|Adafruit DPS310 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DPS310-PCB|
 |gitName|gitName|Adafruit-DPS310-PCB|
 |eagleBoard|eagleBoard|/Adafruit DPS310.brd|
 |eagleSchem|eagleSchem|/Adafruit DPS310.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4494/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16784 > Qwiic Mux TCA9548A
 
 - ID: PROJ-SPAR-16784-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16784-STAN-01|
 |Hex ID (short code)|hexID|PRPR16784|
-|Name|name|Qwiic Mux TCA9548A|
+|name|name|Qwiic Mux TCA9548A|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Mux_TCA9548A|
 |gitName|gitName|Qwiic_Mux_TCA9548A|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Mux.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Mux.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16784/STAN/01/kicadPcb3d_450.png

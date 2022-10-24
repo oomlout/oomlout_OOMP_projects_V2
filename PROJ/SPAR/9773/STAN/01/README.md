@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9773 > SparkFun Fuse Breakout Board
 
 - ID: PROJ-SPAR-9773-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9773-STAN-01|
 |Hex ID (short code)|hexID|PRPR9773|
-|Name|name|SparkFun Fuse Breakout Board|
+|name|name|SparkFun Fuse Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun-Fuse-Breakout-Board|
 |gitName|gitName|SparkFun-Fuse-Breakout-Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Fuse Breakout Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Fuse Breakout Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9773/STAN/01/kicadPcb3d_450.png

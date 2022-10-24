@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19013 > SparkFun Qwiic ToF Imager VL53L5CX Mini
 
 - ID: PROJ-SPAR-19013-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19013-STAN-01|
 |Hex ID (short code)|hexID|PRPR19013|
-|Name|name|SparkFun Qwiic ToF Imager VL53L5CX Mini|
+|name|name|SparkFun Qwiic ToF Imager VL53L5CX Mini|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini|
 |gitName|gitName|SparkFun_Qwiic_ToF_Imager_VL53L5CX-Mini|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Qwiic ToF Imager - VL53L5CX - Mini.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Qwiic ToF Imager - VL53L5CX - Mini.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19013/STAN/01/kicadPcb3d_450.png

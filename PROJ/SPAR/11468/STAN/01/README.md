@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11468 > SD Sniffer
 
 - ID: PROJ-SPAR-11468-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11468-STAN-01|
 |Hex ID (short code)|hexID|PRPR11468|
-|Name|name|SD Sniffer|
+|name|name|SD Sniffer|
 |gitRepo|gitRepo|https://github.com/sparkfun/SD_Sniffer|
 |gitName|gitName|SD_Sniffer|
 |eagleBoard|eagleBoard|/hardware/SD_Sniffer.brd|
 |eagleSchem|eagleSchem|/hardware/SD_Sniffer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11468/STAN/01/kicadPcb3d_450.png

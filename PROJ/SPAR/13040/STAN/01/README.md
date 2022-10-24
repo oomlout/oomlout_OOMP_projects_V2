@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13040 > Edison UART Block
 
 - ID: PROJ-SPAR-13040-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13040-STAN-01|
 |Hex ID (short code)|hexID|PRPR13040|
-|Name|name|Edison UART Block|
+|name|name|Edison UART Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_UART_Block|
 |gitName|gitName|Edison_UART_Block|
 |eagleBoard|eagleBoard|/Hardware/UART_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/UART_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13040/STAN/01/kicadPcb3d_450.png

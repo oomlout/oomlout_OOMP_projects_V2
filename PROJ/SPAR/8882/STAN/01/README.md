@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8882 > Hall Effect Current Sensor Breakout ACS712
 
 - ID: PROJ-SPAR-8882-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8882-STAN-01|
 |Hex ID (short code)|hexID|PRPR8882|
-|Name|name|Hall Effect Current Sensor Breakout ACS712|
+|name|name|Hall Effect Current Sensor Breakout ACS712|
 |gitRepo|gitRepo|https://github.com/sparkfun/Hall-Effect_Current_Sensor_Breakout-ACS712|
 |gitName|gitName|Hall-Effect_Current_Sensor_Breakout-ACS712|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ACS712_Breakout_v11.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ACS712_Breakout_v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8882/STAN/01/kicadPcb3d_450.png

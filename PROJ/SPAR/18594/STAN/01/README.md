@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18594 > MicroMod DA16200 Function
 
 - ID: PROJ-SPAR-18594-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18594-STAN-01|
 |Hex ID (short code)|hexID|PRPR18594|
-|Name|name|MicroMod DA16200 Function|
+|name|name|MicroMod DA16200 Function|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_DA16200_Function|
 |gitName|gitName|MicroMod_DA16200_Function|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroMod_DA16200_Function.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroMod_DA16200_Function.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18594/STAN/01/kicadPcb3d_450.png

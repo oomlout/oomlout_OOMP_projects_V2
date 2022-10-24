@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15100 > USB C Breakout
 
 - ID: PROJ-SPAR-15100-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15100-STAN-01|
 |Hex ID (short code)|hexID|PRPR15100|
-|Name|name|USB C Breakout|
+|name|name|USB C Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB-C-Breakout|
 |gitName|gitName|USB-C-Breakout|
 |eagleBoard|eagleBoard|/Hardware/USB-C-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/USB-C-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15100/STAN/01/kicadPcb3d_450.png

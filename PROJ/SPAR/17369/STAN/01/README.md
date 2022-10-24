@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17369 > SparkFun RTK Surveyor
 
 - ID: PROJ-SPAR-17369-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17369-STAN-01|
 |Hex ID (short code)|hexID|PRPR17369|
-|Name|name|SparkFun RTK Surveyor|
+|name|name|SparkFun RTK Surveyor|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_RTK_Surveyor|
 |gitName|gitName|SparkFun_RTK_Surveyor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun GPS RTK Surveyor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun GPS RTK Surveyor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17369/STAN/01/kicadPcb3d_450.png

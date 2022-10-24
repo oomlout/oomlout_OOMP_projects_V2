@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15031 > ESP8266 WiFi IR Blaster
 
 - ID: PROJ-SPAR-15031-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15031-STAN-01|
 |Hex ID (short code)|hexID|PRPR15031|
-|Name|name|ESP8266 WiFi IR Blaster|
+|name|name|ESP8266 WiFi IR Blaster|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP8266_WiFi_IR_Blaster|
 |gitName|gitName|ESP8266_WiFi_IR_Blaster|
 |eagleBoard|eagleBoard|/Hardware/esp8266_ir_blaster.brd|
 |eagleSchem|eagleSchem|/Hardware/esp8266_ir_blaster.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15031/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14050 > Serial Basic Breakout CH340G
 
 - ID: PROJ-SPAR-14050-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14050-STAN-01|
 |Hex ID (short code)|hexID|PRPR14050|
-|Name|name|Serial Basic Breakout CH340G|
+|name|name|Serial Basic Breakout CH340G|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial_Basic_Breakout-CH340G|
 |gitName|gitName|Serial_Basic_Breakout-CH340G|
 |eagleBoard|eagleBoard|/Hardware/Serial-Basic.brd|
 |eagleSchem|eagleSchem|/Hardware/Serial-Basic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14050/STAN/01/kicadPcb3d_450.png

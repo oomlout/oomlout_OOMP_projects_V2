@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1431-STAN-01|
 |Hex ID (short code)|hexID|PRPR1431|
-|Name|name|Adafruit 1.5inch Color OLED PCB|
+|name|name|Adafruit 1.5inch Color OLED PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.5inch-Color-OLED-PCB|
 |gitName|gitName|Adafruit-1.5inch-Color-OLED-PCB|
 |eagleBoard|eagleBoard|/Adafruit_1.5_128x128_RGB_OLED.brd|

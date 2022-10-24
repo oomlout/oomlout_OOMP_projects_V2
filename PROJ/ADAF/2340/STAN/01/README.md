@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2340 > Adafruit Capacitive Touch HAT PCB
 
 - ID: PROJ-ADAF-2340-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2340-STAN-01|
 |Hex ID (short code)|hexID|PRPR2340|
-|Name|name|Adafruit Capacitive Touch HAT PCB|
+|name|name|Adafruit Capacitive Touch HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Capacitive-Touch-HAT-PCB|
 |gitName|gitName|Adafruit-Capacitive-Touch-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit Capacitive Touch HAT.brd|
 |eagleSchem|eagleSchem|/Adafruit Capacitive Touch HAT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2340/STAN/01/kicadPcb3d_450.png

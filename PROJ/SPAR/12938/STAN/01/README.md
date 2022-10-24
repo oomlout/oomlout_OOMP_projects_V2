@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12938 > Si4703 FM Tuner Evaluation Board
 
 - ID: PROJ-SPAR-12938-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12938-STAN-01|
 |Hex ID (short code)|hexID|PRPR12938|
-|Name|name|Si4703 FM Tuner Evaluation Board|
+|name|name|Si4703 FM Tuner Evaluation Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/Si4703_FM_Tuner_Evaluation_Board|
 |gitName|gitName|Si4703_FM_Tuner_Evaluation_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Si4703_Eval.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Si4703_Eval.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12938/STAN/01/kicadPcb3d_450.png

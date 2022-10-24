@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1032 > Adafruit L3GD20 Breakout PCB
 
 - ID: PROJ-ADAF-1032-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1032-STAN-01|
 |Hex ID (short code)|hexID|PRPR1032|
-|Name|name|Adafruit L3GD20 Breakout PCB|
+|name|name|Adafruit L3GD20 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-L3GD20-Breakout-PCB|
 |gitName|gitName|Adafruit-L3GD20-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit L3GD20H Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit L3GD20H Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1032/STAN/01/kicadPcb3d_450.png

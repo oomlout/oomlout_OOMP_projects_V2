@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18159 > SparkFun Tsunami Super WAV Trigger Qwiic
 
 - ID: PROJ-SPAR-18159-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18159-STAN-01|
 |Hex ID (short code)|hexID|PRPR18159|
-|Name|name|SparkFun Tsunami Super WAV Trigger Qwiic|
+|name|name|SparkFun Tsunami Super WAV Trigger Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Tsunami_Super_WAV_Trigger_Qwiic|
 |gitName|gitName|SparkFun_Tsunami_Super_WAV_Trigger_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Tsunami_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Tsunami_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18159/STAN/01/kicadPcb3d_450.png

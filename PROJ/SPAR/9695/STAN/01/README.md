@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9695 > MPR121 Capacitive Touch Breakout
 
 - ID: PROJ-SPAR-9695-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9695-STAN-01|
 |Hex ID (short code)|hexID|PRPR9695|
-|Name|name|MPR121 Capacitive Touch Breakout|
+|name|name|MPR121 Capacitive Touch Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPR121_Capacitive_Touch_Breakout|
 |gitName|gitName|MPR121_Capacitive_Touch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/MPR121-Breakout-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/MPR121-Breakout-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9695/STAN/01/kicadPcb3d_450.png

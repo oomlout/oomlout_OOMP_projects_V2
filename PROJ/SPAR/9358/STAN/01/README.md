@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9358 > Bluetooth Mate
 
 - ID: PROJ-SPAR-9358-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9358-STAN-01|
 |Hex ID (short code)|hexID|PRPR9358|
-|Name|name|Bluetooth Mate|
+|name|name|Bluetooth Mate|
 |gitRepo|gitRepo|https://github.com/sparkfun/Bluetooth_Mate|
 |gitName|gitName|Bluetooth_Mate|
 |eagleBoard|eagleBoard|/Hardware/BluetoothMate.brd|
 |eagleSchem|eagleSchem|/Hardware/BluetoothMate.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9358/STAN/01/kicadPcb3d_450.png

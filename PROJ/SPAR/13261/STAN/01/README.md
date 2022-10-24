@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13261 > OpenScale
 
 - ID: PROJ-SPAR-13261-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13261-STAN-01|
 |Hex ID (short code)|hexID|PRPR13261|
-|Name|name|OpenScale|
+|name|name|OpenScale|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpenScale|
 |gitName|gitName|OpenScale|
 |eagleBoard|eagleBoard|/hardware/SparkFun_openScale.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_openScale.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13261/STAN/01/kicadPcb3d_450.png

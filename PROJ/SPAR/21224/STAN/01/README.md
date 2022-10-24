@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-21224-STAN-01|
 |Hex ID (short code)|hexID|PRPR21224|
-|Name|name|Qwiic MultiStar Board Promo Constellation|
+|name|name|Qwiic MultiStar Board Promo Constellation|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_MultiStar_Board_Promo_Constellation|
 |gitName|gitName|Qwiic_MultiStar_Board_Promo_Constellation|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_MultiStar.brd|

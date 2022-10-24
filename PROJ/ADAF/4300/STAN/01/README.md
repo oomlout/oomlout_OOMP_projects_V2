@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4300 > Adafruit Hallowing M4 PCB
 
 - ID: PROJ-ADAF-4300-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4300-STAN-01|
 |Hex ID (short code)|hexID|PRPR4300|
-|Name|name|Adafruit Hallowing M4 PCB|
+|name|name|Adafruit Hallowing M4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Hallowing-M4-PCB|
 |gitName|gitName|Adafruit-Hallowing-M4-PCB|
 |eagleBoard|eagleBoard|/Adafruit Hallowing M4.brd|
 |eagleSchem|eagleSchem|/Adafruit Hallowing M4.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4300/STAN/01/kicadPcb3d_450.png

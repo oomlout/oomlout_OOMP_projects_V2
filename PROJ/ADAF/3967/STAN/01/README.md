@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3967 > Adafruit VL53L1X PCB
 
 - ID: PROJ-ADAF-3967-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3967-STAN-01|
 |Hex ID (short code)|hexID|PRPR3967|
-|Name|name|Adafruit VL53L1X PCB|
+|name|name|Adafruit VL53L1X PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VL53L1X-PCB|
 |gitName|gitName|Adafruit-VL53L1X-PCB|
 |eagleBoard|eagleBoard|/Adafruit VL53L1X.brd|
 |eagleSchem|eagleSchem|/Adafruit VL53L1X.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3967/STAN/01/kicadPcb3d_450.png

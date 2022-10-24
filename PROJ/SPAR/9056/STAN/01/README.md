@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9056 > Analog Digital MUX Breakout
 
 - ID: PROJ-SPAR-9056-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9056-STAN-01|
 |Hex ID (short code)|hexID|PRPR9056|
-|Name|name|Analog Digital MUX Breakout|
+|name|name|Analog Digital MUX Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Analog_Digital_MUX_Breakout|
 |gitName|gitName|Analog_Digital_MUX_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Analog-Digital-Mux-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Analog-Digital-Mux-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9056/STAN/01/kicadPcb3d_450.png

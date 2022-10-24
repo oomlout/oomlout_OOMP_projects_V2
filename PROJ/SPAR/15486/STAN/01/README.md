@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15486 > gator rtc
 
 - ID: PROJ-SPAR-15486-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15486-STAN-01|
 |Hex ID (short code)|hexID|PRPR15486|
-|Name|name|gator rtc|
+|name|name|gator rtc|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_rtc|
 |gitName|gitName|gator_rtc|
 |eagleBoard|eagleBoard|/Hardware/Gator_rtc.brd|
 |eagleSchem|eagleSchem|/Hardware/Gator_rtc.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15486/STAN/01/kicadPcb3d_450.png

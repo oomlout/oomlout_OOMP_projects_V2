@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2741 > Pixie 3W Smart LED PCB
 
 - ID: PROJ-ADAF-2741-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2741-STAN-01|
 |Hex ID (short code)|hexID|PRPR2741|
-|Name|name|Pixie 3W Smart LED PCB|
+|name|name|Pixie 3W Smart LED PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Pixie-3W-Smart-LED-PCB|
 |gitName|gitName|Pixie-3W-Smart-LED-PCB|
 |eagleBoard|eagleBoard|/Pixie.brd|
 |eagleSchem|eagleSchem|/Pixie.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2741/STAN/01/kicadPcb3d_450.png

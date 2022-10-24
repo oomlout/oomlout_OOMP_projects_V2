@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5165 > Adafruit MCP9601 PCB
 
 - ID: PROJ-ADAF-5165-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5165-STAN-01|
 |Hex ID (short code)|hexID|PRPR5165|
-|Name|name|Adafruit MCP9601 PCB|
+|name|name|Adafruit MCP9601 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MCP9601-PCB|
 |gitName|gitName|Adafruit-MCP9601-PCB|
 |eagleBoard|eagleBoard|/Adafruit MCP9601.brd|
 |eagleSchem|eagleSchem|/Adafruit MCP9601.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5165/STAN/01/kicadPcb3d_450.png

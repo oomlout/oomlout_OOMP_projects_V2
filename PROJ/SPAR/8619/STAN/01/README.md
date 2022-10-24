@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8619 > ProtoBoard Wombat PTH
 
 - ID: PROJ-SPAR-8619-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8619-STAN-01|
 |Hex ID (short code)|hexID|PRPR8619|
-|Name|name|ProtoBoard Wombat PTH|
+|name|name|ProtoBoard Wombat PTH|
 |gitRepo|gitRepo|https://github.com/sparkfun/ProtoBoard_Wombat-PTH|
 |gitName|gitName|ProtoBoard_Wombat-PTH|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Protoboard-PTH-v14.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Protoboard-PTH-v14.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8619/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13264 > LilyPixel
 
 - ID: PROJ-SPAR-13264-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13264-STAN-01|
 |Hex ID (short code)|hexID|PRPR13264|
-|Name|name|LilyPixel|
+|name|name|LilyPixel|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPixel|
 |gitName|gitName|LilyPixel|
 |eagleBoard|eagleBoard|/Hardware/SparkFunLilyPixel.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunLilyPixel.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13264/STAN/01/kicadPcb3d_450.png

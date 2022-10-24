@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2601 > Adafruit RGB Matrix Shield PCB
 
 - ID: PROJ-ADAF-2601-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2601-STAN-01|
 |Hex ID (short code)|hexID|PRPR2601|
-|Name|name|Adafruit RGB Matrix Shield PCB|
+|name|name|Adafruit RGB Matrix Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RGB-Matrix-Shield-PCB|
 |gitName|gitName|Adafruit-RGB-Matrix-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit RGB Matrix Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit RGB Matrix Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2601/STAN/01/kicadPcb3d_450.png

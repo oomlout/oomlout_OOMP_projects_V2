@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14809 > I2S Audio Breakout
 
 - ID: PROJ-SPAR-14809-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14809-STAN-01|
 |Hex ID (short code)|hexID|PRPR14809|
-|Name|name|I2S Audio Breakout|
+|name|name|I2S Audio Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/I2S_Audio_Breakout|
 |gitName|gitName|I2S_Audio_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_I2S_Audio_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_I2S_Audio_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14809/STAN/01/kicadPcb3d_450.png

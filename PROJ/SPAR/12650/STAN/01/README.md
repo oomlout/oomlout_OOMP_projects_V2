@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12650 > AD8232 Heart Rate Monitor
 
 - ID: PROJ-SPAR-12650-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12650-STAN-01|
 |Hex ID (short code)|hexID|PRPR12650|
-|Name|name|AD8232 Heart Rate Monitor|
+|name|name|AD8232 Heart Rate Monitor|
 |gitRepo|gitRepo|https://github.com/sparkfun/AD8232_Heart_Rate_Monitor|
 |gitName|gitName|AD8232_Heart_Rate_Monitor|
 |eagleBoard|eagleBoard|/Hardware/AD8232_Heart_Rate_Monitor.brd|
 |eagleSchem|eagleSchem|/Hardware/AD8232_Heart_Rate_Monitor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12650/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5206 > Adafruit 1.69in 280x240 Round Rectangle TFT PCB
 
 - ID: PROJ-ADAF-5206-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5206-STAN-01|
 |Hex ID (short code)|hexID|PRPR5206|
-|Name|name|Adafruit 1.69in 280x240 Round Rectangle TFT PCB|
+|name|name|Adafruit 1.69in 280x240 Round Rectangle TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB|
 |gitName|gitName|Adafruit-1.69in-280x240-Round-Rectangle-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.69in 280x240 Round Rectangle TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.69in 280x240 Round Rectangle TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5206/STAN/01/kicadPcb3d_450.png

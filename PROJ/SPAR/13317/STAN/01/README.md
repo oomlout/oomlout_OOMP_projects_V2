@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13317-STAN-01|
 |Hex ID (short code)|hexID|PRPR13317|
-|Name|name|Sparkfun Big Red Box Proto Board|
+|name|name|Sparkfun Big Red Box Proto Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/Sparkfun_Big_Red_Box_Proto_Board|
 |gitName|gitName|Sparkfun_Big_Red_Box_Proto_Board|
 |eagleBoard|eagleBoard|/Hardware/Big_Red_Box_Proto_Board.brd|

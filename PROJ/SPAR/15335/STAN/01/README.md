@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15335 > SparkFun Qwiic 9DoF IMU Breakout
 
 - ID: PROJ-SPAR-15335-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15335-STAN-01|
 |Hex ID (short code)|hexID|PRPR15335|
-|Name|name|SparkFun Qwiic 9DoF IMU Breakout|
+|name|name|SparkFun Qwiic 9DoF IMU Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_9DoF_IMU_Breakout|
 |gitName|gitName|SparkFun_Qwiic_9DoF_IMU_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_IMU_Breakout_ICM-20948.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_IMU_Breakout_ICM-20948.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15335/STAN/01/kicadPcb3d_450.png

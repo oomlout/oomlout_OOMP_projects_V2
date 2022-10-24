@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18356-STAN-01|
 |Hex ID (short code)|hexID|PRPR18356|
-|Name|name|Buck Regulator AP63203|
+|name|name|Buck Regulator AP63203|
 |gitRepo|gitRepo|https://github.com/sparkfun/Buck_Regulator_AP63203|
 |gitName|gitName|Buck_Regulator_AP63203|
 |eagleBoard|eagleBoard|/SparkFun BabyBuck Regulator - AP63203/Hardware/SparkFun BabyBuck Regulator - AP63203.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14532 > Qwiic Micro OLED
 
 - ID: PROJ-SPAR-14532-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14532-STAN-01|
 |Hex ID (short code)|hexID|PRPR14532|
-|Name|name|Qwiic Micro OLED|
+|name|name|Qwiic Micro OLED|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Micro_OLED|
 |gitName|gitName|Qwiic_Micro_OLED|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_OLED_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_OLED_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14532/STAN/01/kicadPcb3d_450.png

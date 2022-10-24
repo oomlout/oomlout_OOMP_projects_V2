@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16466 > SparkFun Environmental Sensor Breakout BME680
 
 - ID: PROJ-SPAR-16466-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16466-STAN-01|
 |Hex ID (short code)|hexID|PRPR16466|
-|Name|name|SparkFun Environmental Sensor Breakout BME680|
+|name|name|SparkFun Environmental Sensor Breakout BME680|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Environmental_Sensor_Breakout_BME680|
 |gitName|gitName|SparkFun_Environmental_Sensor_Breakout_BME680|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Environmental BME680.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Environmental BME680.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16466/STAN/01/kicadPcb3d_450.png

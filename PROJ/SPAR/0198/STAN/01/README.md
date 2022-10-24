@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0198-STAN-01|
 |Hex ID (short code)|hexID|PRPR0198|
-|Name|name|CP2102 Breakout|
+|name|name|CP2102 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/CP2102_Breakout|
 |gitName|gitName|CP2102_Breakout|
 |eagleBoard|eagleBoard|/Hardware/CP2102 USB to Serial Breakout.brd|

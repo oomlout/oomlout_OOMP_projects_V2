@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1393 > Adafruit Sharp Memory Display PCBs
 
 - ID: PROJ-ADAF-1393-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1393-STAN-01|
 |Hex ID (short code)|hexID|PRPR1393|
-|Name|name|Adafruit Sharp Memory Display PCBs|
+|name|name|Adafruit Sharp Memory Display PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Sharp-Memory-Display-PCBs|
 |gitName|gitName|Adafruit-Sharp-Memory-Display-PCBs|
 |eagleBoard|eagleBoard|/Adafruit 2.7in Sharp Memory Display.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.7in Sharp Memory Display.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1393/STAN/01/kicadPcb3d_450.png

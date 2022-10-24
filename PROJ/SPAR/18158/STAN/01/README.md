@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18158 > RedBoard Plus
 
 - ID: PROJ-SPAR-18158-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18158-STAN-01|
 |Hex ID (short code)|hexID|PRPR18158|
-|Name|name|RedBoard Plus|
+|name|name|RedBoard Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Plus|
 |gitName|gitName|RedBoard_Plus|
 |eagleBoard|eagleBoard|/Hardware/RedBoard_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBoard_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18158/STAN/01/kicadPcb3d_450.png

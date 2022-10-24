@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2218 > Adafruit TFP401 HDMI To 40Pin TFT PCB
 
 - ID: PROJ-ADAF-2218-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2218-STAN-01|
 |Hex ID (short code)|hexID|PRPR2218|
-|Name|name|Adafruit TFP401 HDMI To 40Pin TFT PCB|
+|name|name|Adafruit TFP401 HDMI To 40Pin TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB|
 |gitName|gitName|Adafruit-TFP401-HDMI-To-40Pin-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit TFP401 to 40pin TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit TFP401 to 40pin TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2218/STAN/01/kicadPcb3d_450.png

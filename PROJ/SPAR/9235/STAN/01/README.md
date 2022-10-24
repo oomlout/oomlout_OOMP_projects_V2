@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9235 > SPI Shortcut
 
 - ID: PROJ-SPAR-9235-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9235-STAN-01|
 |Hex ID (short code)|hexID|PRPR9235|
-|Name|name|SPI Shortcut|
+|name|name|SPI Shortcut|
 |gitRepo|gitRepo|https://github.com/sparkfun/SPI_Shortcut|
 |gitName|gitName|SPI_Shortcut|
 |eagleBoard|eagleBoard|/Hardware/SPIShortcut.brd|
 |eagleSchem|eagleSchem|/Hardware/SPIShortcut.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9235/STAN/01/kicadPcb3d_450.png

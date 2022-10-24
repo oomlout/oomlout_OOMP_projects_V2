@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13183 > CryptoShield
 
 - ID: PROJ-SPAR-13183-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13183-STAN-01|
 |Hex ID (short code)|hexID|PRPR13183|
-|Name|name|CryptoShield|
+|name|name|CryptoShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/CryptoShield|
 |gitName|gitName|CryptoShield|
 |eagleBoard|eagleBoard|/Hardware/cryptoshield.brd|
 |eagleSchem|eagleSchem|/Hardware/cryptoshield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13183/STAN/01/kicadPcb3d_450.png

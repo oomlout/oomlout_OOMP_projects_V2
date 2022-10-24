@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5300 > Adafruit ESP32 S2 TFT Feather PCB
 
 - ID: PROJ-ADAF-5300-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5300-STAN-01|
 |Hex ID (short code)|hexID|PRPR5300|
-|Name|name|Adafruit ESP32 S2 TFT Feather PCB|
+|name|name|Adafruit ESP32 S2 TFT Feather PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ESP32-S2-TFT-Feather-PCB|
 |gitName|gitName|Adafruit-ESP32-S2-TFT-Feather-PCB|
 |eagleBoard|eagleBoard|/Adafruit ESP32-S2 TFT Feather.brd|
 |eagleSchem|eagleSchem|/Adafruit ESP32-S2 TFT Feather.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5300/STAN/01/kicadPcb3d_450.png

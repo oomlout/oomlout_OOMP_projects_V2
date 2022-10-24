@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17731-STAN-01|
 |Hex ID (short code)|hexID|PRPR17731|
-|Name|name|Zio Qwiic Soil Moisture Sensor|
+|name|name|Zio Qwiic Soil Moisture Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/Zio-Qwiic-Soil-Moisture-Sensor|
 |gitName|gitName|Zio-Qwiic-Soil-Moisture-Sensor|
 |eagleBoard|eagleBoard|/EAGLE/SparkFun Qwiic Soil Moisture Sensor.brd|

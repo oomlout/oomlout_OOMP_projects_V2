@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15932 > Qwiic Button
 
 - ID: PROJ-SPAR-15932-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15932-STAN-01|
 |Hex ID (short code)|hexID|PRPR15932|
-|Name|name|Qwiic Button|
+|name|name|Qwiic Button|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Button|
 |gitName|gitName|Qwiic_Button|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Button.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Button.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15932/STAN/01/kicadPcb3d_450.png

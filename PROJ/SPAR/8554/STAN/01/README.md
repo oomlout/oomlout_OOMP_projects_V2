@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8554 > IR Receiver Breakout
 
 - ID: PROJ-SPAR-8554-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8554-STAN-01|
 |Hex ID (short code)|hexID|PRPR8554|
-|Name|name|IR Receiver Breakout|
+|name|name|IR Receiver Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/IR_Receiver_Breakout|
 |gitName|gitName|IR_Receiver_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_IR_Receiver.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_IR_Receiver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8554/STAN/01/kicadPcb3d_450.png

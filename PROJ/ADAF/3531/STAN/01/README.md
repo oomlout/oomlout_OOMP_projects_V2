@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3531 > Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB
 
 - ID: PROJ-ADAF-3531-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3531-STAN-01|
 |Hex ID (short code)|hexID|PRPR3531|
-|Name|name|Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB|
+|name|name|Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB|
 |gitName|gitName|Adafruit-128x64-OLED-Bonnet-for-Raspberry-Pi-PCB|
 |eagleBoard|eagleBoard|/Adafruit 128x64 OLED Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit 128x64 OLED Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3531/STAN/01/kicadPcb3d_450.png

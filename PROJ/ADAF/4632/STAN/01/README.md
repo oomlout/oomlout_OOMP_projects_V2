@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4632 > Adafruit PMSA003I PCB
 
 - ID: PROJ-ADAF-4632-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4632-STAN-01|
 |Hex ID (short code)|hexID|PRPR4632|
-|Name|name|Adafruit PMSA003I PCB|
+|name|name|Adafruit PMSA003I PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PMSA003I-PCB|
 |gitName|gitName|Adafruit-PMSA003I-PCB|
 |eagleBoard|eagleBoard|/Adafruit PMSA003I.brd|
 |eagleSchem|eagleSchem|/Adafruit PMSA003I.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4632/STAN/01/kicadPcb3d_450.png

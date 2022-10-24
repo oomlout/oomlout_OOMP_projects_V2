@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11044 > Mono Audio Amp Breakout TPA2005D1
 
 - ID: PROJ-SPAR-11044-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11044-STAN-01|
 |Hex ID (short code)|hexID|PRPR11044|
-|Name|name|Mono Audio Amp Breakout TPA2005D1|
+|name|name|Mono Audio Amp Breakout TPA2005D1|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mono_Audio_Amp_Breakout-TPA2005D1|
 |gitName|gitName|Mono_Audio_Amp_Breakout-TPA2005D1|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Mono_Audio_Amp-TPA2005D1.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Mono_Audio_Amp-TPA2005D1.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11044/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19096 > Qwiic Environmental Sensor BME688
 
 - ID: PROJ-SPAR-19096-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19096-STAN-01|
 |Hex ID (short code)|hexID|PRPR19096|
-|Name|name|Qwiic Environmental Sensor BME688|
+|name|name|Qwiic Environmental Sensor BME688|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Environmental_Sensor_BME688|
 |gitName|gitName|Qwiic_Environmental_Sensor_BME688|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_BME688.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_BME688.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19096/STAN/01/kicadPcb3d_450.png

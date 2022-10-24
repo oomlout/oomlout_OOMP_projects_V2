@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13632 > SparkFun Simblee Breakout Board
 
 - ID: PROJ-SPAR-13632-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13632-STAN-01|
 |Hex ID (short code)|hexID|PRPR13632|
-|Name|name|SparkFun Simblee Breakout Board|
+|name|name|SparkFun Simblee Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Simblee_Breakout_Board|
 |gitName|gitName|SparkFun_Simblee_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Simblee_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Simblee_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13632/STAN/01/kicadPcb3d_450.png

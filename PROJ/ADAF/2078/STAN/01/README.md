@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2078 > Adafruit PowerBoost 500 Shield PCB
 
 - ID: PROJ-ADAF-2078-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2078-STAN-01|
 |Hex ID (short code)|hexID|PRPR2078|
-|Name|name|Adafruit PowerBoost 500 Shield PCB|
+|name|name|Adafruit PowerBoost 500 Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PowerBoost-500-Shield-PCB|
 |gitName|gitName|Adafruit-PowerBoost-500-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit PowerBoost Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerBoost Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2078/STAN/01/kicadPcb3d_450.png

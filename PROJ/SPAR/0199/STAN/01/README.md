@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0199-STAN-01|
 |Hex ID (short code)|hexID|PRPR0199|
-|Name|name|USB Serial GPIO Breakout CP2103|
+|name|name|USB Serial GPIO Breakout CP2103|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_Serial_GPIO_Breakout-CP2103|
 |gitName|gitName|USB_Serial_GPIO_Breakout-CP2103|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_CP2103_Breakout.brd|

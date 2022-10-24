@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9774 > Benchtop Power Board Kit
 
 - ID: PROJ-SPAR-9774-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9774-STAN-01|
 |Hex ID (short code)|hexID|PRPR9774|
-|Name|name|Benchtop Power Board Kit|
+|name|name|Benchtop Power Board Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Benchtop_Power_Board_Kit|
 |gitName|gitName|Benchtop_Power_Board_Kit|
 |eagleBoard|eagleBoard|/Hardware/Benchtop Power Supply.brd|
 |eagleSchem|eagleSchem|/Hardware/Benchtop Power Supply.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9774/STAN/01/kicadPcb3d_450.png

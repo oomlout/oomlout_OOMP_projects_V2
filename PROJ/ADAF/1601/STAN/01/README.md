@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1601 > Adafruit PiTFT 2.8 inch Display PCB
 
 - ID: PROJ-ADAF-1601-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1601-STAN-01|
 |Hex ID (short code)|hexID|PRPR1601|
-|Name|name|Adafruit PiTFT 2.8 inch Display PCB|
+|name|name|Adafruit PiTFT 2.8 inch Display PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiTFT-2.8-inch-Display-PCB|
 |gitName|gitName|Adafruit-PiTFT-2.8-inch-Display-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiTFT 2.8inch Resistive PCB.brd|
 |eagleSchem|eagleSchem|/Adafruit PiTFT 2.8inch Resistive PCB.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1601/STAN/01/kicadPcb3d_450.png

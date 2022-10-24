@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1381 > Adafruit VS1053 Breakout PCB
 
 - ID: PROJ-ADAF-1381-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1381-STAN-01|
 |Hex ID (short code)|hexID|PRPR1381|
-|Name|name|Adafruit VS1053 Breakout PCB|
+|name|name|Adafruit VS1053 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VS1053-Breakout-PCB|
 |gitName|gitName|Adafruit-VS1053-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit VS1053 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit VS1053 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1381/STAN/01/kicadPcb3d_450.png

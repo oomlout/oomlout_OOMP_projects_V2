@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13041 > Edison Micro SD Block
 
 - ID: PROJ-SPAR-13041-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13041-STAN-01|
 |Hex ID (short code)|hexID|PRPR13041|
-|Name|name|Edison Micro SD Block|
+|name|name|Edison Micro SD Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_Micro_SD_Block|
 |gitName|gitName|Edison_Micro_SD_Block|
 |eagleBoard|eagleBoard|/Hardware/Micro_SD_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/Micro_SD_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13041/STAN/01/kicadPcb3d_450.png

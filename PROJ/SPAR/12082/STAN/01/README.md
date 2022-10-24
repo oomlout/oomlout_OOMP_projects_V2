@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12082 > AD5330 Breakout
 
 - ID: PROJ-SPAR-12082-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12082-STAN-01|
 |Hex ID (short code)|hexID|PRPR12082|
-|Name|name|AD5330 Breakout|
+|name|name|AD5330 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/AD5330_Breakout|
 |gitName|gitName|AD5330_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_AD5330_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_AD5330_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12082/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0795-STAN-01|
 |Hex ID (short code)|hexID|PRPR0795|
-|Name|name|Adafruit Menta PCB|
+|name|name|Adafruit Menta PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Menta-PCB|
 |gitName|gitName|Adafruit-Menta-PCB|
 |eagleBoard|eagleBoard|/menta.brd|

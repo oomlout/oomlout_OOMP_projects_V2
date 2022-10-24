@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0258-STAN-01|
 |Hex ID (short code)|hexID|PRPR0258|
-|Name|name|Serial Enabled LCD Backpack|
+|name|name|Serial Enabled LCD Backpack|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial_Enabled_LCD_Backpack|
 |gitName|gitName|Serial_Enabled_LCD_Backpack|
 |eagleBoard|eagleBoard|/Hardware/Serial LCD Backpack v28.brd|

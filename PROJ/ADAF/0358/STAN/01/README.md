@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0358-STAN-01|
 |Hex ID (short code)|hexID|PRPR0358|
-|Name|name|Adafruit 1.8 Inch TFT Breakout PCB|
+|name|name|Adafruit 1.8 Inch TFT Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB|
 |gitName|gitName|Adafruit_1.8_Inch_TFT_Breakout_PCB|
 |eagleBoard|eagleBoard|/jdt1800-bob.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11509 > Papilio Button LED Wing
 
 - ID: PROJ-SPAR-11509-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11509-STAN-01|
 |Hex ID (short code)|hexID|PRPR11509|
-|Name|name|Papilio Button LED Wing|
+|name|name|Papilio Button LED Wing|
 |gitRepo|gitRepo|https://github.com/sparkfun/Papilio_Button_LED_Wing|
 |gitName|gitName|Papilio_Button_LED_Wing|
 |eagleBoard|eagleBoard|/Hardware/Papilio-Button_LED_Wing.brd|
 |eagleSchem|eagleSchem|/Hardware/Papilio-Button_LED_Wing.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11509/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3800 > Adafruit ItsyBitsy M4 Express PCB
 
 - ID: PROJ-ADAF-3800-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3800-STAN-01|
 |Hex ID (short code)|hexID|PRPR3800|
-|Name|name|Adafruit ItsyBitsy M4 Express PCB|
+|name|name|Adafruit ItsyBitsy M4 Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ItsyBitsy-M4-Express-PCB|
 |gitName|gitName|Adafruit-ItsyBitsy-M4-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit ItsyBitsy M4.brd|
 |eagleSchem|eagleSchem|/Adafruit ItsyBitsy M4.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3800/STAN/01/kicadPcb3d_450.png

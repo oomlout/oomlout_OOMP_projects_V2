@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17717 > SparkFun Pro Micro RP2040
 
 - ID: PROJ-SPAR-17717-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17717-STAN-01|
 |Hex ID (short code)|hexID|PRPR17717|
-|Name|name|SparkFun Pro Micro RP2040|
+|name|name|SparkFun Pro Micro RP2040|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Pro_Micro-RP2040|
 |gitName|gitName|SparkFun_Pro_Micro-RP2040|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ProMicro-RP2040.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ProMicro-RP2040.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17717/STAN/01/kicadPcb3d_450.png

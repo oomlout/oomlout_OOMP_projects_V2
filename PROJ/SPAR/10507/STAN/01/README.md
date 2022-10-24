@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10507 > Quadstepper Motor Driver
 
 - ID: PROJ-SPAR-10507-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10507-STAN-01|
 |Hex ID (short code)|hexID|PRPR10507|
-|Name|name|Quadstepper Motor Driver|
+|name|name|Quadstepper Motor Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Quadstepper_Motor_Driver|
 |gitName|gitName|Quadstepper_Motor_Driver|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_quadstep-v11assembly.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_quadstep-v11assembly.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10507/STAN/01/kicadPcb3d_450.png

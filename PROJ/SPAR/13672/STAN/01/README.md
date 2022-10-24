@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13672 > SAMD21 Dev Breakout
 
 - ID: PROJ-SPAR-13672-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13672-STAN-01|
 |Hex ID (short code)|hexID|PRPR13672|
-|Name|name|SAMD21 Dev Breakout|
+|name|name|SAMD21 Dev Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SAMD21_Dev_Breakout|
 |gitName|gitName|SAMD21_Dev_Breakout|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-samd21-pro-breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-samd21-pro-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13672/STAN/01/kicadPcb3d_450.png

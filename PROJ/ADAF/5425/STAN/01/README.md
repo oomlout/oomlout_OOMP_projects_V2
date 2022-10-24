@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5425 > Adafruit VL53L4CX PCB
 
 - ID: PROJ-ADAF-5425-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5425-STAN-01|
 |Hex ID (short code)|hexID|PRPR5425|
-|Name|name|Adafruit VL53L4CX PCB|
+|name|name|Adafruit VL53L4CX PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VL53L4CX-PCB|
 |gitName|gitName|Adafruit-VL53L4CX-PCB|
 |eagleBoard|eagleBoard|/Adafruit VL53L4CX.brd|
 |eagleSchem|eagleSchem|/Adafruit VL53L4CX.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5425/STAN/01/kicadPcb3d_450.png

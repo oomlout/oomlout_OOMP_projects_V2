@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15219 > SparkFun Pulse Oximeter Heart Rate Sensor
 
 - ID: PROJ-SPAR-15219-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15219-STAN-01|
 |Hex ID (short code)|hexID|PRPR15219|
-|Name|name|SparkFun Pulse Oximeter Heart Rate Sensor|
+|name|name|SparkFun Pulse Oximeter Heart Rate Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Pulse_Oximeter_Heart_Rate_Sensor|
 |gitName|gitName|SparkFun_Pulse_Oximeter_Heart_Rate_Sensor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Pulse_Oximeter_Heart-Rate_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Pulse_Oximeter_Heart-Rate_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15219/STAN/01/kicadPcb3d_450.png

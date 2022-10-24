@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0204-STAN-01|
 |Hex ID (short code)|hexID|PRPR0204|
-|Name|name|monochron|
+|name|name|monochron|
 |gitRepo|gitRepo|https://github.com/adafruit/monochron|
 |gitName|gitName|monochron|
 |eagleBoard|eagleBoard|/pcb/ratt.brd|

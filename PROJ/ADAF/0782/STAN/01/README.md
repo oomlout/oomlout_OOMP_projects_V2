@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0782-STAN-01|
 |Hex ID (short code)|hexID|PRPR0782|
-|Name|name|Adafruit USB Serial RGB Character Backpack PCB|
+|name|name|Adafruit USB Serial RGB Character Backpack PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB|
 |gitName|gitName|Adafruit-USB-Serial-RGB-Character-Backpack-PCB|
 |eagleBoard|eagleBoard|/Adafruit USB Serial Char LCD.brd|

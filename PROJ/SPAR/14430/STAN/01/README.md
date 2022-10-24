@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14430 > ESP32 Motion Shield
 
 - ID: PROJ-SPAR-14430-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14430-STAN-01|
 |Hex ID (short code)|hexID|PRPR14430|
-|Name|name|ESP32 Motion Shield|
+|name|name|ESP32 Motion Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32_Motion_Shield|
 |gitName|gitName|ESP32_Motion_Shield|
 |eagleBoard|eagleBoard|/Hardware/ESP32_GPS_Motion_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/ESP32_GPS_Motion_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14430/STAN/01/kicadPcb3d_450.png

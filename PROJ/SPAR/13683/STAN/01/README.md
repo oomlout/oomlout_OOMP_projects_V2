@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13683 > SHT15 Breakout
 
 - ID: PROJ-SPAR-13683-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13683-STAN-01|
 |Hex ID (short code)|hexID|PRPR13683|
-|Name|name|SHT15 Breakout|
+|name|name|SHT15 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SHT15_Breakout|
 |gitName|gitName|SHT15_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SHT1x-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SHT1x-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13683/STAN/01/kicadPcb3d_450.png

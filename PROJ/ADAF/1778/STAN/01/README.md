@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1778 > Adafruit AD8495 Breakout PCB
 
 - ID: PROJ-ADAF-1778-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1778-STAN-01|
 |Hex ID (short code)|hexID|PRPR1778|
-|Name|name|Adafruit AD8495 Breakout PCB|
+|name|name|Adafruit AD8495 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB|
 |gitName|gitName|Adafruit-AD8495-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit AD849x_Thermo.brd|
 |eagleSchem|eagleSchem|/Adafruit AD849x_Thermo.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1778/STAN/01/kicadPcb3d_450.png

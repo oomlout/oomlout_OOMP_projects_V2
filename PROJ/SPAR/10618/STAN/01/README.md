@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10618 > Power Driver Shield Kit
 
 - ID: PROJ-SPAR-10618-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10618-STAN-01|
 |Hex ID (short code)|hexID|PRPR10618|
-|Name|name|Power Driver Shield Kit|
+|name|name|Power Driver Shield Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Power_Driver_Shield_Kit|
 |gitName|gitName|Power_Driver_Shield_Kit|
 |eagleBoard|eagleBoard|/Hardware/PowerDriver-Shield-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/PowerDriver-Shield-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10618/STAN/01/kicadPcb3d_450.png

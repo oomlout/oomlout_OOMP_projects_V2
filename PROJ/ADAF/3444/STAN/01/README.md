@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3444 > DotStar 2020 8x8 Matrix PCB
 
 - ID: PROJ-ADAF-3444-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3444-STAN-01|
 |Hex ID (short code)|hexID|PRPR3444|
-|Name|name|DotStar 2020 8x8 Matrix PCB|
+|name|name|DotStar 2020 8x8 Matrix PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/DotStar-2020-8x8-Matrix-PCB|
 |gitName|gitName|DotStar-2020-8x8-Matrix-PCB|
 |eagleBoard|eagleBoard|/Adafruit DotStar 2020 8x8 Matrix .brd|
 |eagleSchem|eagleSchem|/Adafruit DotStar 2020 8x8 Matrix .sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3444/STAN/01/kicadPcb3d_450.png

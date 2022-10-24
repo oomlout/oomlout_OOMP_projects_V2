@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15269 > gator environment
 
 - ID: PROJ-SPAR-15269-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15269-STAN-01|
 |Hex ID (short code)|hexID|PRPR15269|
-|Name|name|gator environment|
+|name|name|gator environment|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_environment|
 |gitName|gitName|gator_environment|
 |eagleBoard|eagleBoard|/Hardware/Gator_Environment.brd|
 |eagleSchem|eagleSchem|/Hardware/Gator_Environment.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15269/STAN/01/kicadPcb3d_450.png

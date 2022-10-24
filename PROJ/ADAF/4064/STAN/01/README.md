@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4064 > Adafruit Grand Central PCB
 
 - ID: PROJ-ADAF-4064-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4064-STAN-01|
 |Hex ID (short code)|hexID|PRPR4064|
-|Name|name|Adafruit Grand Central PCB|
+|name|name|Adafruit Grand Central PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Grand-Central-PCB|
 |gitName|gitName|Adafruit-Grand-Central-PCB|
 |eagleBoard|eagleBoard|/Adafruit Grand Central M4 Express rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit Grand Central M4 Express rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4064/STAN/01/kicadPcb3d_450.png

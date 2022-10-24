@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13994 > SSOP DIP Adapter 16 Pin
 
 - ID: PROJ-SPAR-13994-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13994-STAN-01|
 |Hex ID (short code)|hexID|PRPR13994|
-|Name|name|SSOP DIP Adapter 16 Pin|
+|name|name|SSOP DIP Adapter 16 Pin|
 |gitRepo|gitRepo|https://github.com/sparkfun/SSOP-DIP_Adapter_16-Pin|
 |gitName|gitName|SSOP-DIP_Adapter_16-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SSOP16_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SSOP16_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13994/STAN/01/kicadPcb3d_450.png

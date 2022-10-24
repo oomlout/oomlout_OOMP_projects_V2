@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2478 > Adafruit 2.4 TFT Breakout PCB
 
 - ID: PROJ-ADAF-2478-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2478-STAN-01|
 |Hex ID (short code)|hexID|PRPR2478|
-|Name|name|Adafruit 2.4 TFT Breakout PCB|
+|name|name|Adafruit 2.4 TFT Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.4-TFT-Breakout-PCB|
 |gitName|gitName|Adafruit-2.4-TFT-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.4in TFT Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.4in TFT Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2478/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0661-STAN-01|
 |Hex ID (short code)|hexID|PRPR0661|
-|Name|name|Adafruit 128x32 SPI OLED breakout board PCB|
+|name|name|Adafruit 128x32 SPI OLED breakout board PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-128x32-SPI-OLED-breakout-board-PCB|
 |gitName|gitName|Adafruit-128x32-SPI-OLED-breakout-board-PCB|
 |eagleBoard|eagleBoard|/Adafruit OLED 128x32 Mono.brd|

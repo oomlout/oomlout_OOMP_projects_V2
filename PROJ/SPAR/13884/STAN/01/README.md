@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13884 > LP55231 Breakout
 
 - ID: PROJ-SPAR-13884-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13884-STAN-01|
 |Hex ID (short code)|hexID|PRPR13884|
-|Name|name|LP55231 Breakout|
+|name|name|LP55231 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LP55231_Breakout|
 |gitName|gitName|LP55231_Breakout|
 |eagleBoard|eagleBoard|/Hardware/LP55231_breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/LP55231_breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13884/STAN/01/kicadPcb3d_450.png

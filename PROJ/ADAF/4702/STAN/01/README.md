@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4702 > Adafruit RGB Matrix FeatherWing PCB
 
 - ID: PROJ-ADAF-4702-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4702-STAN-01|
 |Hex ID (short code)|hexID|PRPR4702|
-|Name|name|Adafruit RGB Matrix FeatherWing PCB|
+|name|name|Adafruit RGB Matrix FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RGB-Matrix-FeatherWing-PCB|
 |gitName|gitName|Adafruit-RGB-Matrix-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit RGB Matrix FeatherWing nRF52.brd|
 |eagleSchem|eagleSchem|/Adafruit RGB Matrix FeatherWing nRF52.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4702/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0499-STAN-01|
 |Hex ID (short code)|hexID|PRPR0499|
-|Name|name|SSOP DIP Adapter 20 Pin|
+|name|name|SSOP DIP Adapter 20 Pin|
 |gitRepo|gitRepo|https://github.com/sparkfun/SSOP-DIP_Adapter_20-Pin|
 |gitName|gitName|SSOP-DIP_Adapter_20-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Adapter-SSOP20-v10.brd|

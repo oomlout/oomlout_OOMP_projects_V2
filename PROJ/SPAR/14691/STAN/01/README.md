@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14691 > Qwiic Transparent OLED HUD
 
 - ID: PROJ-SPAR-14691-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14691-STAN-01|
 |Hex ID (short code)|hexID|PRPR14691|
-|Name|name|Qwiic Transparent OLED HUD|
+|name|name|Qwiic Transparent OLED HUD|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Transparent_OLED_HUD|
 |gitName|gitName|Qwiic_Transparent_OLED_HUD|
 |eagleBoard|eagleBoard|/Hardware/QwiicHUD.brd|
 |eagleSchem|eagleSchem|/Hardware/QwiicHUD.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14691/STAN/01/kicadPcb3d_450.png

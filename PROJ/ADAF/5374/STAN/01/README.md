@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5374 > Adafruit ADXL375 PCB
 
 - ID: PROJ-ADAF-5374-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5374-STAN-01|
 |Hex ID (short code)|hexID|PRPR5374|
-|Name|name|Adafruit ADXL375 PCB|
+|name|name|Adafruit ADXL375 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_ADXL375_PCB|
 |gitName|gitName|Adafruit_ADXL375_PCB|
 |eagleBoard|eagleBoard|/Adafruit ADXL375.brd|
 |eagleSchem|eagleSchem|/Adafruit ADXL375.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5374/STAN/01/kicadPcb3d_450.png

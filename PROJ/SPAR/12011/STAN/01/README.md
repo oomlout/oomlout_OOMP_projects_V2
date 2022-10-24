@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12011 > Tilt a Whirl Breakout
 
 - ID: PROJ-SPAR-12011-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12011-STAN-01|
 |Hex ID (short code)|hexID|PRPR12011|
-|Name|name|Tilt a Whirl Breakout|
+|name|name|Tilt a Whirl Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Tilt-a-Whirl_Breakout|
 |gitName|gitName|Tilt-a-Whirl_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Tilt-A-Whirl_RPI-1031.brd|
 |eagleSchem|eagleSchem|/Hardware/Tilt-A-Whirl_RPI-1031.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12011/STAN/01/kicadPcb3d_450.png

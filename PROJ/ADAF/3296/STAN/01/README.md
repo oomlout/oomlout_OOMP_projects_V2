@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3296 > DS1307 breakout board
 
 - ID: PROJ-ADAF-3296-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3296-STAN-01|
 |Hex ID (short code)|hexID|PRPR3296|
-|Name|name|DS1307 breakout board|
+|name|name|DS1307 breakout board|
 |gitRepo|gitRepo|https://github.com/adafruit/DS1307-breakout-board|
 |gitName|gitName|DS1307-breakout-board|
 |eagleBoard|eagleBoard|/DS1307 Rev B.brd|
 |eagleSchem|eagleSchem|/DS1307 Rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3296/STAN/01/kicadPcb3d_450.png

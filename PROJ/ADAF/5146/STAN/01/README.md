@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5146 > Adafruit 24LC32 PCB
 
 - ID: PROJ-ADAF-5146-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5146-STAN-01|
 |Hex ID (short code)|hexID|PRPR5146|
-|Name|name|Adafruit 24LC32 PCB|
+|name|name|Adafruit 24LC32 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-24LC32-PCB|
 |gitName|gitName|Adafruit-24LC32-PCB|
 |eagleBoard|eagleBoard|/Adafruit 24LC32 I2C EEPROM.brd|
 |eagleSchem|eagleSchem|/Adafruit 24LC32 I2C EEPROM.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5146/STAN/01/kicadPcb3d_450.png

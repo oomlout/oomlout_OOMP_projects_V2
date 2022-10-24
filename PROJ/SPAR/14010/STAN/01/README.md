@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14010 > LilyPad LED 5pcs
 
 - ID: PROJ-SPAR-14010-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14010-STAN-01|
 |Hex ID (short code)|hexID|PRPR14010|
-|Name|name|LilyPad LED 5pcs|
+|name|name|LilyPad LED 5pcs|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_LED_5pcs|
 |gitName|gitName|LilyPad_LED_5pcs|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_LED_5pcs.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_LED_5pcs.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14010/STAN/01/kicadPcb3d_450.png

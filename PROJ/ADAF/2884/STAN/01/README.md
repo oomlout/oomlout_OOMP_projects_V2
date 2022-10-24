@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2884 > Adafruit FeatherWing Proto Doubler Tripler and Quad
 
 - ID: PROJ-ADAF-2884-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2884-STAN-01|
 |Hex ID (short code)|hexID|PRPR2884|
-|Name|name|Adafruit FeatherWing Proto Doubler Tripler and Quad|
+|name|name|Adafruit FeatherWing Proto Doubler Tripler and Quad|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad|
 |gitName|gitName|Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad|
 |eagleBoard|eagleBoard|/DoubleWing.brd|
 |eagleSchem|eagleSchem|/DoubleWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2884/STAN/01/kicadPcb3d_450.png

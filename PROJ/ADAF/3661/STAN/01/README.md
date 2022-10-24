@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3661 > Adafruit AP3602A PCB
 
 - ID: PROJ-ADAF-3661-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3661-STAN-01|
 |Hex ID (short code)|hexID|PRPR3661|
-|Name|name|Adafruit AP3602A PCB|
+|name|name|Adafruit AP3602A PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AP3602A-PCB|
 |gitName|gitName|Adafruit-AP3602A-PCB|
 |eagleBoard|eagleBoard|/Adafruit AP6302.brd|
 |eagleSchem|eagleSchem|/Adafruit AP6302.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3661/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11007 > Mega Pro
 
 - ID: PROJ-SPAR-11007-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11007-STAN-01|
 |Hex ID (short code)|hexID|PRPR11007|
-|Name|name|Mega Pro|
+|name|name|Mega Pro|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mega_Pro|
 |gitName|gitName|Mega_Pro|
 |eagleBoard|eagleBoard|/Hardware/mega_pro-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/mega_pro-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11007/STAN/01/kicadPcb3d_450.png

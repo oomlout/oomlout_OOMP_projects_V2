@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5325 > Adafruit QT Py ESP32 S2 PCB
 
 - ID: PROJ-ADAF-5325-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5325-STAN-01|
 |Hex ID (short code)|hexID|PRPR5325|
-|Name|name|Adafruit QT Py ESP32 S2 PCB|
+|name|name|Adafruit QT Py ESP32 S2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-QT-Py-ESP32-S2-PCB|
 |gitName|gitName|Adafruit-QT-Py-ESP32-S2-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT Py ESP32-S2 Rev C.brd|
 |eagleSchem|eagleSchem|/Adafruit QT Py ESP32-S2 Rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5325/STAN/01/kicadPcb3d_450.png

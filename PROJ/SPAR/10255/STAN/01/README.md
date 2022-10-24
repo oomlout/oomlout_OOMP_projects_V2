@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10255 > LiPower Boost Converter
 
 - ID: PROJ-SPAR-10255-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10255-STAN-01|
 |Hex ID (short code)|hexID|PRPR10255|
-|Name|name|LiPower Boost Converter|
+|name|name|LiPower Boost Converter|
 |gitRepo|gitRepo|https://github.com/sparkfun/LiPower_Boost_Converter|
 |gitName|gitName|LiPower_Boost_Converter|
 |eagleBoard|eagleBoard|/HARDWARE/Li_Power_Boost_Converter.brd|
 |eagleSchem|eagleSchem|/HARDWARE/Li_Power_Boost_Converter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10255/STAN/01/kicadPcb3d_450.png

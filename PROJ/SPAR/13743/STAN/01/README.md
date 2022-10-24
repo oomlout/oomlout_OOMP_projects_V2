@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13743 > Shifting microSD
 
 - ID: PROJ-SPAR-13743-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13743-STAN-01|
 |Hex ID (short code)|hexID|PRPR13743|
-|Name|name|Shifting microSD|
+|name|name|Shifting microSD|
 |gitRepo|gitRepo|https://github.com/sparkfun/Shifting_microSD|
 |gitName|gitName|Shifting_microSD|
 |eagleBoard|eagleBoard|/Hardware/Shifting_microSD.brd|
 |eagleSchem|eagleSchem|/Hardware/Shifting_microSD.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13743/STAN/01/kicadPcb3d_450.png

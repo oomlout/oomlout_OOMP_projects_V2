@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11590 > LilyTwinkle ProtoSnap
 
 - ID: PROJ-SPAR-11590-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11590-STAN-01|
 |Hex ID (short code)|hexID|PRPR11590|
-|Name|name|LilyTwinkle ProtoSnap|
+|name|name|LilyTwinkle ProtoSnap|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyTwinkle_ProtoSnap|
 |gitName|gitName|LilyTwinkle_ProtoSnap|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ProtoSnap-LilyTwinkle.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ProtoSnap-LilyTwinkle.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11590/STAN/01/kicadPcb3d_450.png

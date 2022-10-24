@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0292-STAN-01|
 |Hex ID (short code)|hexID|PRPR0292|
-|Name|name|Adafruit I2C SPI LCD Backpack PCB|
+|name|name|Adafruit I2C SPI LCD Backpack PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-I2C-SPI-LCD-Backpack-PCB|
 |gitName|gitName|Adafruit-I2C-SPI-LCD-Backpack-PCB|
 |eagleBoard|eagleBoard|/i2cspilcdbackpack.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11769 > RedBot Line Sensor
 
 - ID: PROJ-SPAR-11769-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11769-STAN-01|
 |Hex ID (short code)|hexID|PRPR11769|
-|Name|name|RedBot Line Sensor|
+|name|name|RedBot Line Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBot_Line_Sensor|
 |gitName|gitName|RedBot_Line_Sensor|
 |eagleBoard|eagleBoard|/Hardware/RedBot_Line_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot_Line_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11769/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16885 > MicroMod ATP Carrier Board
 
 - ID: PROJ-SPAR-16885-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16885-STAN-01|
 |Hex ID (short code)|hexID|PRPR16885|
-|Name|name|MicroMod ATP Carrier Board|
+|name|name|MicroMod ATP Carrier Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_ATP_Carrier_Board|
 |gitName|gitName|MicroMod_ATP_Carrier_Board|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_ATP_CarrierBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_ATP_CarrierBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16885/STAN/01/kicadPcb3d_450.png

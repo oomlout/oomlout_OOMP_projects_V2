@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11187 > 5 Way Tactile Switch Breakout
 
 - ID: PROJ-SPAR-11187-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11187-STAN-01|
 |Hex ID (short code)|hexID|PRPR11187|
-|Name|name|5 Way Tactile Switch Breakout|
+|name|name|5 Way Tactile Switch Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/5-Way_Tactile_Switch_Breakout|
 |gitName|gitName|5-Way_Tactile_Switch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_5-Way_Tactile_Switch_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_5-Way_Tactile_Switch_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11187/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4991 > Adafruit I2C QT Rotary Encoder PCB
 
 - ID: PROJ-ADAF-4991-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4991-STAN-01|
 |Hex ID (short code)|hexID|PRPR4991|
-|Name|name|Adafruit I2C QT Rotary Encoder PCB|
+|name|name|Adafruit I2C QT Rotary Encoder PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-I2C-QT-Rotary-Encoder-PCB|
 |gitName|gitName|Adafruit-I2C-QT-Rotary-Encoder-PCB|
 |eagleBoard|eagleBoard|/Adafruit I2C QT Rotary Encoder.brd|
 |eagleSchem|eagleSchem|/Adafruit I2C QT Rotary Encoder.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4991/STAN/01/kicadPcb3d_450.png

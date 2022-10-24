@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5188 > Adafruit DS3231 Precision RTC Breakout PCB
 
 - ID: PROJ-ADAF-5188-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5188-STAN-01|
 |Hex ID (short code)|hexID|PRPR5188|
-|Name|name|Adafruit DS3231 Precision RTC Breakout PCB|
+|name|name|Adafruit DS3231 Precision RTC Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DS3231-Precision-RTC-Breakout-PCB|
 |gitName|gitName|Adafruit-DS3231-Precision-RTC-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS3231 RTC Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit DS3231 RTC Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5188/STAN/01/kicadPcb3d_450.png

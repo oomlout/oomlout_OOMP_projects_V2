@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13628 > Photon OLED Shield
 
 - ID: PROJ-SPAR-13628-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13628-STAN-01|
 |Hex ID (short code)|hexID|PRPR13628|
-|Name|name|Photon OLED Shield|
+|name|name|Photon OLED Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_OLED_Shield|
 |gitName|gitName|Photon_OLED_Shield|
 |eagleBoard|eagleBoard|/Hardware/Photon_Micro_OLED_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Photon_Micro_OLED_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13628/STAN/01/kicadPcb3d_450.png

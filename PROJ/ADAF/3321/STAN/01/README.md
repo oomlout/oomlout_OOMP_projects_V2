@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3321 > Adafruit Mini TFT with Joystick Featherwing PCB
 
 - ID: PROJ-ADAF-3321-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3321-STAN-01|
 |Hex ID (short code)|hexID|PRPR3321|
-|Name|name|Adafruit Mini TFT with Joystick Featherwing PCB|
+|name|name|Adafruit Mini TFT with Joystick Featherwing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB|
 |gitName|gitName|Adafruit-Mini-TFT-with-Joystick-Featherwing-PCB|
 |eagleBoard|eagleBoard|/Adafruit Mini TFT Wing.brd|
 |eagleSchem|eagleSchem|/Adafruit Mini TFT Wing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3321/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0000-STAN-01|
 |Hex ID (short code)|hexID|PRPR0000|
-|Name|name|TransmogriShield|
+|name|name|TransmogriShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/TransmogriShield|
 |gitName|gitName|TransmogriShield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_TransmogriShield.brd|

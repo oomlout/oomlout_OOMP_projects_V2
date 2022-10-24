@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4286 > Adafruit DS3502 PCB
 
 - ID: PROJ-ADAF-4286-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4286-STAN-01|
 |Hex ID (short code)|hexID|PRPR4286|
-|Name|name|Adafruit DS3502 PCB|
+|name|name|Adafruit DS3502 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DS3502-PCB|
 |gitName|gitName|Adafruit-DS3502-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS3502.brd|
 |eagleSchem|eagleSchem|/Adafruit DS3502.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4286/STAN/01/kicadPcb3d_450.png

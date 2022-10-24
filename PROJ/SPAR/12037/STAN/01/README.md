@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12037 > Binary Blaster
 
 - ID: PROJ-SPAR-12037-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12037-STAN-01|
 |Hex ID (short code)|hexID|PRPR12037|
-|Name|name|Binary Blaster|
+|name|name|Binary Blaster|
 |gitRepo|gitRepo|https://github.com/sparkfun/Binary_Blaster|
 |gitName|gitName|Binary_Blaster|
 |eagleBoard|eagleBoard|/Hardware/Binary_Blaster.brd|
 |eagleSchem|eagleSchem|/Hardware/Binary_Blaster.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12037/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1083 > ADS1X15 Breakout Board PCBs
 
 - ID: PROJ-ADAF-1083-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1083-STAN-01|
 |Hex ID (short code)|hexID|PRPR1083|
-|Name|name|ADS1X15 Breakout Board PCBs|
+|name|name|ADS1X15 Breakout Board PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/ADS1X15-Breakout-Board-PCBs|
 |gitName|gitName|ADS1X15-Breakout-Board-PCBs|
 |eagleBoard|eagleBoard|/Adafruit ADS1015 ADC STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit ADS1015 ADC STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1083/STAN/01/kicadPcb3d_450.png

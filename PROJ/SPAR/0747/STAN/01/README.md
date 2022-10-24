@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0747-STAN-01|
 |Hex ID (short code)|hexID|PRPR0747|
-|Name|name|LMD1820x Breakout|
+|name|name|LMD1820x Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LMD1820x_Breakout|
 |gitName|gitName|LMD1820x_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LMD1820x-Breakout-V12.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11977 > ITG 3200 Breakout
 
 - ID: PROJ-SPAR-11977-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11977-STAN-01|
 |Hex ID (short code)|hexID|PRPR11977|
-|Name|name|ITG 3200 Breakout|
+|name|name|ITG 3200 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ITG-3200_Breakout|
 |gitName|gitName|ITG-3200_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Triple_axis_digital_-_output_gyro_ITG-3200_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Triple_axis_digital_-_output_gyro_ITG-3200_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11977/STAN/01/kicadPcb3d_450.png

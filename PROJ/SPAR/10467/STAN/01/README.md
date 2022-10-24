@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10467 > LED Tactile Button Breakout
 
 - ID: PROJ-SPAR-10467-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10467-STAN-01|
 |Hex ID (short code)|hexID|PRPR10467|
-|Name|name|LED Tactile Button Breakout|
+|name|name|LED Tactile Button Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LED_Tactile_Button_Breakout|
 |gitName|gitName|LED_Tactile_Button_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Button-LED-Breakout-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/Button-LED-Breakout-v10.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10467/STAN/01/kicadPcb3d_450.png

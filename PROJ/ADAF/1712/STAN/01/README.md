@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1712 > Adafruit TPA2016 PCB
 
 - ID: PROJ-ADAF-1712-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1712-STAN-01|
 |Hex ID (short code)|hexID|PRPR1712|
-|Name|name|Adafruit TPA2016 PCB|
+|name|name|Adafruit TPA2016 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPA2016-PCB|
 |gitName|gitName|Adafruit-TPA2016-PCB|
 |eagleBoard|eagleBoard|/Adafruit TPA2016D2.brd|
 |eagleSchem|eagleSchem|/Adafruit TPA2016D2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1712/STAN/01/kicadPcb3d_450.png

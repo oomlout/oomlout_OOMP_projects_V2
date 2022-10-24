@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14285 > Wireless Motor Driver Shield
 
 - ID: PROJ-SPAR-14285-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14285-STAN-01|
 |Hex ID (short code)|hexID|PRPR14285|
-|Name|name|Wireless Motor Driver Shield|
+|name|name|Wireless Motor Driver Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Wireless_Motor_Driver_Shield|
 |gitName|gitName|Wireless_Motor_Driver_Shield|
 |eagleBoard|eagleBoard|/hardware/Wireless_Motor_Driver_Shield.brd|
 |eagleSchem|eagleSchem|/hardware/Wireless_Motor_Driver_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14285/STAN/01/kicadPcb3d_450.png

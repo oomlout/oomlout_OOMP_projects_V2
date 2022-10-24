@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4980 > Adafruit NeoKey 1x4 PCB
 
 - ID: PROJ-ADAF-4980-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4980-STAN-01|
 |Hex ID (short code)|hexID|PRPR4980|
-|Name|name|Adafruit NeoKey 1x4 PCB|
+|name|name|Adafruit NeoKey 1x4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoKey-1x4-PCB|
 |gitName|gitName|Adafruit-NeoKey-1x4-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoKey 1x4 QT I2C.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoKey 1x4 QT I2C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4980/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR7841 > FT245RL Breakout
 
 - ID: PROJ-SPAR-7841-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-7841-STAN-01|
 |Hex ID (short code)|hexID|PRPR7841|
-|Name|name|FT245RL Breakout|
+|name|name|FT245RL Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/FT245RL_Breakout|
 |gitName|gitName|FT245RL_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_FT245-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_FT245-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/7841/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15353 > SparkFun TPL5110 Nano Power Timer
 
 - ID: PROJ-SPAR-15353-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15353-STAN-01|
 |Hex ID (short code)|hexID|PRPR15353|
-|Name|name|SparkFun TPL5110 Nano Power Timer|
+|name|name|SparkFun TPL5110 Nano Power Timer|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_TPL5110_Nano_Power_Timer|
 |gitName|gitName|SparkFun_TPL5110_Nano_Power_Timer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_TPL5110_Nano_Power_Switch.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_TPL5110_Nano_Power_Switch.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15353/STAN/01/kicadPcb3d_450.png

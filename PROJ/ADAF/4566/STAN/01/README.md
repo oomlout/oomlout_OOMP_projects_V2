@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4566 > Adafruit AHT20 PCB
 
 - ID: PROJ-ADAF-4566-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4566-STAN-01|
 |Hex ID (short code)|hexID|PRPR4566|
-|Name|name|Adafruit AHT20 PCB|
+|name|name|Adafruit AHT20 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AHT20-PCB|
 |gitName|gitName|Adafruit-AHT20-PCB|
 |eagleBoard|eagleBoard|/Adafruit AHT20 Temperature & Humidity.brd|
 |eagleSchem|eagleSchem|/Adafruit AHT20 Temperature & Humidity.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4566/STAN/01/kicadPcb3d_450.png

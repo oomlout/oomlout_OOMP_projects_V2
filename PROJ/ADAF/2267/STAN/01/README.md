@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2267 > Adafruit Bluefruit LE USB Friend and Sniffer PCB
 
 - ID: PROJ-ADAF-2267-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2267-STAN-01|
 |Hex ID (short code)|hexID|PRPR2267|
-|Name|name|Adafruit Bluefruit LE USB Friend and Sniffer PCB|
+|name|name|Adafruit Bluefruit LE USB Friend and Sniffer PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB|
 |gitName|gitName|Adafruit-Bluefruit-LE-USB-Friend-and-Sniffer-PCB|
 |eagleBoard|eagleBoard|/Adafrruit Bluefruit LE USB Friend CP2102N.brd|
 |eagleSchem|eagleSchem|/Adafrruit Bluefruit LE USB Friend CP2102N.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2267/STAN/01/kicadPcb3d_450.png

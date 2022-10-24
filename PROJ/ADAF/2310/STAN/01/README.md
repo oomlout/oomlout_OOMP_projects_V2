@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2310 > Adafruit Perma Proto HAT PCB
 
 - ID: PROJ-ADAF-2310-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2310-STAN-01|
 |Hex ID (short code)|hexID|PRPR2310|
-|Name|name|Adafruit Perma Proto HAT PCB|
+|name|name|Adafruit Perma Proto HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Perma-Proto-HAT-PCB|
 |gitName|gitName|Adafruit-Perma-Proto-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit HaD Proto HAT rev A.brd|
 |eagleSchem|eagleSchem|/Adafruit HaD Proto HAT rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2310/STAN/01/kicadPcb3d_450.png

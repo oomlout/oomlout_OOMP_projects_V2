@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11470-STAN-01|
 |Hex ID (short code)|hexID|PRPR11470|
-|Name|name|Qtechknow ArduSensor Learning Kit|
+|name|name|Qtechknow ArduSensor Learning Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qtechknow_ArduSensor_Learning_Kit|
 |gitName|gitName|Qtechknow_ArduSensor_Learning_Kit|
 |eagleBoard|eagleBoard|/ArduSensor PCB/Hardware/SensorBoard-v11.brd|

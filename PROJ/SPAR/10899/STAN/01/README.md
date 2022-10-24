@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10899 > LilyTiny LilyTwinkle
 
 - ID: PROJ-SPAR-10899-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10899-STAN-01|
 |Hex ID (short code)|hexID|PRPR10899|
-|Name|name|LilyTiny LilyTwinkle|
+|name|name|LilyTiny LilyTwinkle|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyTiny_LilyTwinkle|
 |gitName|gitName|LilyTiny_LilyTwinkle|
 |eagleBoard|eagleBoard|/Hardware/LilyTiny.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyTiny.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10899/STAN/01/kicadPcb3d_450.png

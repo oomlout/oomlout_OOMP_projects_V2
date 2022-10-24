@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10121 > IMU Digital Combo Board
 
 - ID: PROJ-SPAR-10121-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10121-STAN-01|
 |Hex ID (short code)|hexID|PRPR10121|
-|Name|name|IMU Digital Combo Board|
+|name|name|IMU Digital Combo Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/IMU_Digital_Combo_Board|
 |gitName|gitName|IMU_Digital_Combo_Board|
 |eagleBoard|eagleBoard|/Hardware/IMU_Digital_Combo_Board _-_6_Degrees_of_Freedom_-_ITG3200_-_ADXL345.brd|
 |eagleSchem|eagleSchem|/Hardware/IMU_Digital_Combo_Board _-_6_Degrees_of_Freedom_-_ITG3200_-_ADXL345.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10121/STAN/01/kicadPcb3d_450.png

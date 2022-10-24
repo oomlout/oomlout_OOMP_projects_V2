@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1535 > Adafruit Bluefruit EZ Key PCB
 
 - ID: PROJ-ADAF-1535-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1535-STAN-01|
 |Hex ID (short code)|hexID|PRPR1535|
-|Name|name|Adafruit Bluefruit EZ Key PCB|
+|name|name|Adafruit Bluefruit EZ Key PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB|
 |gitName|gitName|Adafruit-Bluefruit-EZ-Key-PCB|
 |eagleBoard|eagleBoard|/Adafruit Bluefruit EZ Key.brd|
 |eagleSchem|eagleSchem|/Adafruit Bluefruit EZ Key.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1535/STAN/01/kicadPcb3d_450.png

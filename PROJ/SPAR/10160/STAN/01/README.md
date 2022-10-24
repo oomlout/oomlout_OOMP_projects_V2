@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10160 > DeadOn RTC
 
 - ID: PROJ-SPAR-10160-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10160-STAN-01|
 |Hex ID (short code)|hexID|PRPR10160|
-|Name|name|DeadOn RTC|
+|name|name|DeadOn RTC|
 |gitRepo|gitRepo|https://github.com/sparkfun/DeadOn_RTC|
 |gitName|gitName|DeadOn_RTC|
 |eagleBoard|eagleBoard|/Hardware/DeadOn RTC - DS3234 Breakout-v11.brd|
 |eagleSchem|eagleSchem|/Hardware/DeadOn RTC - DS3234 Breakout-v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10160/STAN/01/kicadPcb3d_450.png

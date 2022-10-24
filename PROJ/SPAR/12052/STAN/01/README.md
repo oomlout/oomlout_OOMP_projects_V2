@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12052 > LTC4150 Coulomb Counter BOB
 
 - ID: PROJ-SPAR-12052-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12052-STAN-01|
 |Hex ID (short code)|hexID|PRPR12052|
-|Name|name|LTC4150 Coulomb Counter BOB|
+|name|name|LTC4150 Coulomb Counter BOB|
 |gitRepo|gitRepo|https://github.com/sparkfun/LTC4150_Coulomb_Counter_BOB|
 |gitName|gitName|LTC4150_Coulomb_Counter_BOB|
 |eagleBoard|eagleBoard|/Hardware/LTC4150_BOB.brd|
 |eagleSchem|eagleSchem|/Hardware/LTC4150_BOB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12052/STAN/01/kicadPcb3d_450.png

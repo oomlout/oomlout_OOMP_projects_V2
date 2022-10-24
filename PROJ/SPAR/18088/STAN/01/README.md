@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18088 > 2D Barcode Scanner Breakout
 
 - ID: PROJ-SPAR-18088-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18088-STAN-01|
 |Hex ID (short code)|hexID|PRPR18088|
-|Name|name|2D Barcode Scanner Breakout|
+|name|name|2D Barcode Scanner Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/2D_Barcode_Scanner_Breakout|
 |gitName|gitName|2D_Barcode_Scanner_Breakout|
 |eagleBoard|eagleBoard|/Hardware/2DBarcodeScanner.brd|
 |eagleSchem|eagleSchem|/Hardware/2DBarcodeScanner.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18088/STAN/01/kicadPcb3d_450.png

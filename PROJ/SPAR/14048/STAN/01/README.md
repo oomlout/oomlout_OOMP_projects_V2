@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14048 > TeensyView
 
 - ID: PROJ-SPAR-14048-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14048-STAN-01|
 |Hex ID (short code)|hexID|PRPR14048|
-|Name|name|TeensyView|
+|name|name|TeensyView|
 |gitRepo|gitRepo|https://github.com/sparkfun/TeensyView|
 |gitName|gitName|TeensyView|
 |eagleBoard|eagleBoard|/Hardware/TeensyView.brd|
 |eagleSchem|eagleSchem|/Hardware/TeensyView.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14048/STAN/01/kicadPcb3d_450.png

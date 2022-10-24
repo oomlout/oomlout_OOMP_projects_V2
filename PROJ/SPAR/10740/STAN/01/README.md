@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10740 > IR Thermometer Evaluation Board MLX90614
 
 - ID: PROJ-SPAR-10740-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10740-STAN-01|
 |Hex ID (short code)|hexID|PRPR10740|
-|Name|name|IR Thermometer Evaluation Board MLX90614|
+|name|name|IR Thermometer Evaluation Board MLX90614|
 |gitRepo|gitRepo|https://github.com/sparkfun/IR_Thermometer_Evaluation_Board-MLX90614|
 |gitName|gitName|IR_Thermometer_Evaluation_Board-MLX90614|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_IR_Thermometer_Eval-MLX90614.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_IR_Thermometer_Eval-MLX90614.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10740/STAN/01/kicadPcb3d_450.png

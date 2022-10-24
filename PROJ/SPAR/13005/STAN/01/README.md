@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13005 > TRS Jack Breakout
 
 - ID: PROJ-SPAR-13005-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13005-STAN-01|
 |Hex ID (short code)|hexID|PRPR13005|
-|Name|name|TRS Jack Breakout|
+|name|name|TRS Jack Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/TRS_Jack_Breakout|
 |gitName|gitName|TRS_Jack_Breakout|
 |eagleBoard|eagleBoard|/Hardware/TRS_Jack_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/TRS_Jack_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13005/STAN/01/kicadPcb3d_450.png

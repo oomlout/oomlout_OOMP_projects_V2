@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16985 > MicroMod Input and Display Carrier
 
 - ID: PROJ-SPAR-16985-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16985-STAN-01|
 |Hex ID (short code)|hexID|PRPR16985|
-|Name|name|MicroMod Input and Display Carrier|
+|name|name|MicroMod Input and Display Carrier|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Input_and_Display_Carrier|
 |gitName|gitName|MicroMod_Input_and_Display_Carrier|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroMod_Input_and_Display_Carrier.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroMod_Input_and_Display_Carrier.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16985/STAN/01/kicadPcb3d_450.png

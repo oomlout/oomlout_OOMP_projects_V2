@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13144 > Touch Potentiometer
 
 - ID: PROJ-SPAR-13144-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13144-STAN-01|
 |Hex ID (short code)|hexID|PRPR13144|
-|Name|name|Touch Potentiometer|
+|name|name|Touch Potentiometer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Touch_Potentiometer|
 |gitName|gitName|Touch_Potentiometer|
 |eagleBoard|eagleBoard|/Hardware/touch_pot.brd|
 |eagleSchem|eagleSchem|/Hardware/touch_pot.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13144/STAN/01/kicadPcb3d_450.png

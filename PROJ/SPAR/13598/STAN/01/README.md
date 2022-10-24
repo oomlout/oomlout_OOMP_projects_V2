@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13598 > Photon Proto Shield
 
 - ID: PROJ-SPAR-13598-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13598-STAN-01|
 |Hex ID (short code)|hexID|PRPR13598|
-|Name|name|Photon Proto Shield|
+|name|name|Photon Proto Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_Proto_Shield|
 |gitName|gitName|Photon_Proto_Shield|
 |eagleBoard|eagleBoard|/Hardware/Photon_Proto_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Photon_Proto_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13598/STAN/01/kicadPcb3d_450.png

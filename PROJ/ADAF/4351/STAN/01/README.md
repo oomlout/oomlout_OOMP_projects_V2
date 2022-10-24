@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4351-STAN-01|
 |Hex ID (short code)|hexID|PRPR4351|
-|Name|name|Adafruit Infineon Trust M PCB|
+|name|name|Adafruit Infineon Trust M PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Infineon-Trust-M-PCB|
 |gitName|gitName|Adafruit-Infineon-Trust-M-PCB|
 |eagleBoard|eagleBoard|/Adafruit Infineon Trust M.brd|

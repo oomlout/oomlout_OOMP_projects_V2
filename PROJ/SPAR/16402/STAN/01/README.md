@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16402 > MicroMod Teensy Processor
 
 - ID: PROJ-SPAR-16402-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16402-STAN-01|
 |Hex ID (short code)|hexID|PRPR16402|
-|Name|name|MicroMod Teensy Processor|
+|name|name|MicroMod Teensy Processor|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Teensy_Processor|
 |gitName|gitName|MicroMod_Teensy_Processor|
 |eagleBoard|eagleBoard|/Hardware/MicroMod-Teensy.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod-Teensy.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16402/STAN/01/kicadPcb3d_450.png

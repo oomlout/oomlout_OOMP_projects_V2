@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13709 > MyoWare Proto Shield
 
 - ID: PROJ-SPAR-13709-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13709-STAN-01|
 |Hex ID (short code)|hexID|PRPR13709|
-|Name|name|MyoWare Proto Shield|
+|name|name|MyoWare Proto Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MyoWare_Proto_Shield|
 |gitName|gitName|MyoWare_Proto_Shield|
 |eagleBoard|eagleBoard|/Hardware/MyoWare_Proto_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/MyoWare_Proto_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13709/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3660 > Adafruit BME680 PCB
 
 - ID: PROJ-ADAF-3660-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3660-STAN-01|
 |Hex ID (short code)|hexID|PRPR3660|
-|Name|name|Adafruit BME680 PCB|
+|name|name|Adafruit BME680 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BME680-PCB|
 |gitName|gitName|Adafruit-BME680-PCB|
 |eagleBoard|eagleBoard|/Adafruit BME680 Original.brd|
 |eagleSchem|eagleSchem|/Adafruit BME680 Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3660/STAN/01/kicadPcb3d_450.png

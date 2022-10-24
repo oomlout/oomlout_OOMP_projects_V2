@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10967 > NCP1402 3.3V
 
 - ID: PROJ-SPAR-10967-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10967-STAN-01|
 |Hex ID (short code)|hexID|PRPR10967|
-|Name|name|NCP1402 3.3V|
+|name|name|NCP1402 3.3V|
 |gitRepo|gitRepo|https://github.com/sparkfun/NCP1402-3.3V|
 |gitName|gitName|NCP1402-3.3V|
 |eagleBoard|eagleBoard|/Hardware/NCP1402_3.3V_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/NCP1402_3.3V_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10967/STAN/01/kicadPcb3d_450.png

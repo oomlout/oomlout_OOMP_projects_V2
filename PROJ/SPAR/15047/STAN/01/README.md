@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15047 > Lumini 8x8
 
 - ID: PROJ-SPAR-15047-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15047-STAN-01|
 |Hex ID (short code)|hexID|PRPR15047|
-|Name|name|Lumini 8x8|
+|name|name|Lumini 8x8|
 |gitRepo|gitRepo|https://github.com/sparkfun/Lumini_8x8|
 |gitName|gitName|Lumini_8x8|
 |eagleBoard|eagleBoard|/Hardware/LuMini_8X8.brd|
 |eagleSchem|eagleSchem|/Hardware/LuMini_8X8.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15047/STAN/01/kicadPcb3d_450.png

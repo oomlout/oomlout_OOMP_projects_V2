@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13819 > Arduino ProtoShield Bare PCB
 
 - ID: PROJ-SPAR-13819-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13819-STAN-01|
 |Hex ID (short code)|hexID|PRPR13819|
-|Name|name|Arduino ProtoShield Bare PCB|
+|name|name|Arduino ProtoShield Bare PCB|
 |gitRepo|gitRepo|https://github.com/sparkfun/Arduino_ProtoShield_Bare_PCB|
 |gitName|gitName|Arduino_ProtoShield_Bare_PCB|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ProtoShield_Kit_rev40.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ProtoShield_Kit_rev40.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13819/STAN/01/kicadPcb3d_450.png

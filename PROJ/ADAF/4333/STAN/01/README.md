@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4333 > Adafruit Circuit Playground Bluefruit PCB
 
 - ID: PROJ-ADAF-4333-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4333-STAN-01|
 |Hex ID (short code)|hexID|PRPR4333|
-|Name|name|Adafruit Circuit Playground Bluefruit PCB|
+|name|name|Adafruit Circuit Playground Bluefruit PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Circuit-Playground-Bluefruit-PCB|
 |gitName|gitName|Adafruit-Circuit-Playground-Bluefruit-PCB|
 |eagleBoard|eagleBoard|/Adafruit Circuit Playground Bluefruit.brd|
 |eagleSchem|eagleSchem|/Adafruit Circuit Playground Bluefruit.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4333/STAN/01/kicadPcb3d_450.png

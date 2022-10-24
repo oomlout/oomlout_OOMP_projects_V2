@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15332 > SparkFun Artemis
 
 - ID: PROJ-SPAR-15332-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15332-STAN-01|
 |Hex ID (short code)|hexID|PRPR15332|
-|Name|name|SparkFun Artemis|
+|name|name|SparkFun Artemis|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Artemis|
 |gitName|gitName|SparkFun_Artemis|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Artemis.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Artemis.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15332/STAN/01/kicadPcb3d_450.png

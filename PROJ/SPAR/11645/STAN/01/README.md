@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11645 > OpenSegment
 
 - ID: PROJ-SPAR-11645-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11645-STAN-01|
 |Hex ID (short code)|hexID|PRPR11645|
-|Name|name|OpenSegment|
+|name|name|OpenSegment|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpenSegment|
 |gitName|gitName|OpenSegment|
 |eagleBoard|eagleBoard|/Hardware/OpenSegment.brd|
 |eagleSchem|eagleSchem|/Hardware/OpenSegment.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11645/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11525 > P8X32A Breakout
 
 - ID: PROJ-SPAR-11525-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11525-STAN-01|
 |Hex ID (short code)|hexID|PRPR11525|
-|Name|name|P8X32A Breakout|
+|name|name|P8X32A Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/P8X32A_Breakout|
 |gitName|gitName|P8X32A_Breakout|
 |eagleBoard|eagleBoard|/hardware/P8X32A_Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/P8X32A_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11525/STAN/01/kicadPcb3d_450.png

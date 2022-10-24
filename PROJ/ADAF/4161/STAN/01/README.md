@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4161 > Adafruit VCNL4040 PCB
 
 - ID: PROJ-ADAF-4161-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4161-STAN-01|
 |Hex ID (short code)|hexID|PRPR4161|
-|Name|name|Adafruit VCNL4040 PCB|
+|name|name|Adafruit VCNL4040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VCNL4040-PCB|
 |gitName|gitName|Adafruit-VCNL4040-PCB|
 |eagleBoard|eagleBoard|/Adafruit VCNL4040.brd|
 |eagleSchem|eagleSchem|/Adafruit VCNL4040.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4161/STAN/01/kicadPcb3d_450.png

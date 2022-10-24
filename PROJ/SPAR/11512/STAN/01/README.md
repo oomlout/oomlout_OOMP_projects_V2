@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11512 > SN74HC165 Shift In Breakout
 
 - ID: PROJ-SPAR-11512-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11512-STAN-01|
 |Hex ID (short code)|hexID|PRPR11512|
-|Name|name|SN74HC165 Shift In Breakout|
+|name|name|SN74HC165 Shift In Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SN74HC165-Shift-In-Breakout|
 |gitName|gitName|SN74HC165-Shift-In-Breakout|
 |eagleBoard|eagleBoard|/hardware/SN74HC165 Shift-In Breakout-v12.brd|
 |eagleSchem|eagleSchem|/hardware/SN74HC165 Shift-In Breakout-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11512/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13810 > tsunami
 
 - ID: PROJ-SPAR-13810-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13810-STAN-01|
 |Hex ID (short code)|hexID|PRPR13810|
-|Name|name|tsunami|
+|name|name|tsunami|
 |gitRepo|gitRepo|https://github.com/sparkfun/tsunami|
 |gitName|gitName|tsunami|
 |eagleBoard|eagleBoard|/Hardware/tsunami.brd|
 |eagleSchem|eagleSchem|/Hardware/tsunami.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13810/STAN/01/kicadPcb3d_450.png

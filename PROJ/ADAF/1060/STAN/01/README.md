@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1060 > Adafruit Flora Smart NeoPixel
 
 - ID: PROJ-ADAF-1060-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1060-STAN-01|
 |Hex ID (short code)|hexID|PRPR1060|
-|Name|name|Adafruit Flora Smart NeoPixel|
+|name|name|Adafruit Flora Smart NeoPixel|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Smart-NeoPixel|
 |gitName|gitName|Adafruit-Flora-Smart-NeoPixel|
 |eagleBoard|eagleBoard|/adafruit flora neopixel.brd|
 |eagleSchem|eagleSchem|/adafruit flora neopixel.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1060/STAN/01/kicadPcb3d_450.png

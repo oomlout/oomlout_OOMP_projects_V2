@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15801 > Power Delivery Board USB C
 
 - ID: PROJ-SPAR-15801-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15801-STAN-01|
 |Hex ID (short code)|hexID|PRPR15801|
-|Name|name|Power Delivery Board USB C|
+|name|name|Power Delivery Board USB C|
 |gitRepo|gitRepo|https://github.com/sparkfun/Power_Delivery_Board-USB-C|
 |gitName|gitName|Power_Delivery_Board-USB-C|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_STUSB4500_USB-PD.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_STUSB4500_USB-PD.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15801/STAN/01/kicadPcb3d_450.png

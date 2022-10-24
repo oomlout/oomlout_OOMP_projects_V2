@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13975 > RedBoard
 
 - ID: PROJ-SPAR-13975-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13975-STAN-01|
 |Hex ID (short code)|hexID|PRPR13975|
-|Name|name|RedBoard|
+|name|name|RedBoard|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard|
 |gitName|gitName|RedBoard|
 |eagleBoard|eagleBoard|/Hardware/RedBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13975/STAN/01/kicadPcb3d_450.png

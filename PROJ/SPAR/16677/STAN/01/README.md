@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16677 > SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic
 
 - ID: PROJ-SPAR-16677-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16677-STAN-01|
 |Hex ID (short code)|hexID|PRPR16677|
-|Name|name|SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic|
+|name|name|SparkFun Refrigeration Gas Sensor ZMOD4450 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic|
 |gitName|gitName|SparkFun_Refrigeration_Gas_Sensor_ZMOD4450_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Refrigerator Gas Sensor - ZMOD4450.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Refrigerator Gas Sensor - ZMOD4450.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16677/STAN/01/kicadPcb3d_450.png

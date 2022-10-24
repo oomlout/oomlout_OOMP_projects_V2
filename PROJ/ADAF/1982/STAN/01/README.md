@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1982 > Adafruit MPR121 PCB
 
 - ID: PROJ-ADAF-1982-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1982-STAN-01|
 |Hex ID (short code)|hexID|PRPR1982|
-|Name|name|Adafruit MPR121 PCB|
+|name|name|Adafruit MPR121 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPR121-PCB|
 |gitName|gitName|Adafruit-MPR121-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPR121 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit MPR121 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1982/STAN/01/kicadPcb3d_450.png

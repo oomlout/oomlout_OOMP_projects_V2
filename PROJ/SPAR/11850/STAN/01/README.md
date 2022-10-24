@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11850 > PicoBuck
 
 - ID: PROJ-SPAR-11850-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11850-STAN-01|
 |Hex ID (short code)|hexID|PRPR11850|
-|Name|name|PicoBuck|
+|name|name|PicoBuck|
 |gitRepo|gitRepo|https://github.com/sparkfun/PicoBuck|
 |gitName|gitName|PicoBuck|
 |eagleBoard|eagleBoard|/hardware/picoBuck.brd|
 |eagleSchem|eagleSchem|/hardware/picoBuck.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11850/STAN/01/kicadPcb3d_450.png

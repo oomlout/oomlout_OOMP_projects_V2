@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4979 > Adafruit NeoKey FeatherWing PCB
 
 - ID: PROJ-ADAF-4979-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4979-STAN-01|
 |Hex ID (short code)|hexID|PRPR4979|
-|Name|name|Adafruit NeoKey FeatherWing PCB|
+|name|name|Adafruit NeoKey FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoKey-FeatherWing-PCB|
 |gitName|gitName|Adafruit-NeoKey-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoKey FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoKey FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4979/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13714 > FreeSoc2
 
 - ID: PROJ-SPAR-13714-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13714-STAN-01|
 |Hex ID (short code)|hexID|PRPR13714|
-|Name|name|FreeSoc2|
+|name|name|FreeSoc2|
 |gitRepo|gitRepo|https://github.com/sparkfun/FreeSoc2|
 |gitName|gitName|FreeSoc2|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_FreeSoC2.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_FreeSoC2.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13714/STAN/01/kicadPcb3d_450.png

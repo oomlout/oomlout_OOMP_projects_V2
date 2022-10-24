@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11295 > HIH6130 Breakout
 
 - ID: PROJ-SPAR-11295-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11295-STAN-01|
 |Hex ID (short code)|hexID|PRPR11295|
-|Name|name|HIH6130 Breakout|
+|name|name|HIH6130 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/HIH6130_Breakout|
 |gitName|gitName|HIH6130_Breakout|
 |eagleBoard|eagleBoard|/Hardware/HIH6130_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/HIH6130_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11295/STAN/01/kicadPcb3d_450.png

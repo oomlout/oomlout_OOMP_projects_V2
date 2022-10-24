@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14193 > CCS811 Air Quality Breakout
 
 - ID: PROJ-SPAR-14193-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14193-STAN-01|
 |Hex ID (short code)|hexID|PRPR14193|
-|Name|name|CCS811 Air Quality Breakout|
+|name|name|CCS811 Air Quality Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/CCS811_Air_Quality_Breakout|
 |gitName|gitName|CCS811_Air_Quality_Breakout|
 |eagleBoard|eagleBoard|/Hardware/CSS811_CO2_TVOC_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/CSS811_CO2_TVOC_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14193/STAN/01/kicadPcb3d_450.png

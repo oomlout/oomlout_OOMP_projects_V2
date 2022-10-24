@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10769 > OBD II UART
 
 - ID: PROJ-SPAR-10769-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10769-STAN-01|
 |Hex ID (short code)|hexID|PRPR10769|
-|Name|name|OBD II UART|
+|name|name|OBD II UART|
 |gitRepo|gitRepo|https://github.com/sparkfun/OBD-II_UART|
 |gitName|gitName|OBD-II_UART|
 |eagleBoard|eagleBoard|/Hardware/OBD-II-UART.brd|
 |eagleSchem|eagleSchem|/Hardware/OBD-II-UART.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10769/STAN/01/kicadPcb3d_450.png

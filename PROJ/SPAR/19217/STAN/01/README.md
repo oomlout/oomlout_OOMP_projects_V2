@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19217 > Thing Plus Dual Port Logging Shield
 
 - ID: PROJ-SPAR-19217-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19217-STAN-01|
 |Hex ID (short code)|hexID|PRPR19217|
-|Name|name|Thing Plus Dual Port Logging Shield|
+|name|name|Thing Plus Dual Port Logging Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Thing_Plus_Dual-Port_Logging_Shield|
 |gitName|gitName|Thing_Plus_Dual-Port_Logging_Shield|
 |eagleBoard|eagleBoard|/Hardware/Dual-Port_Logging_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Dual-Port_Logging_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19217/STAN/01/kicadPcb3d_450.png

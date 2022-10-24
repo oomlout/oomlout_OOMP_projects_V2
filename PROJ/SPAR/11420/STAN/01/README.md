@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11420 > MiniGen
 
 - ID: PROJ-SPAR-11420-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11420-STAN-01|
 |Hex ID (short code)|hexID|PRPR11420|
-|Name|name|MiniGen|
+|name|name|MiniGen|
 |gitRepo|gitRepo|https://github.com/sparkfun/MiniGen|
 |gitName|gitName|MiniGen|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MiniGen.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MiniGen.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11420/STAN/01/kicadPcb3d_450.png

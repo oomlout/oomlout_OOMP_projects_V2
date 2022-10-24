@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0000-STAN-01|
 |Hex ID (short code)|hexID|PRPR0000|
-|Name|name|Data Logger shield|
+|name|name|Data Logger shield|
 |gitRepo|gitRepo|https://github.com/adafruit/Data-Logger-shield|
 |gitName|gitName|Data-Logger-shield|
 |eagleBoard|eagleBoard|/Adafruit Datalogger Shield.brd|

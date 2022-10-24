@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13990 > nRF52832 Breakout
 
 - ID: PROJ-SPAR-13990-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13990-STAN-01|
 |Hex ID (short code)|hexID|PRPR13990|
-|Name|name|nRF52832 Breakout|
+|name|name|nRF52832 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/nRF52832_Breakout|
 |gitName|gitName|nRF52832_Breakout|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-nrf52832-breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-nrf52832-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13990/STAN/01/kicadPcb3d_450.png

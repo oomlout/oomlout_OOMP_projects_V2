@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0391-STAN-01|
 |Hex ID (short code)|hexID|PRPR0391|
-|Name|name|Adafruit BMP085 PCB|
+|name|name|Adafruit BMP085 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BMP085-PCB|
 |gitName|gitName|Adafruit-BMP085-PCB|
 |eagleBoard|eagleBoard|/Adafruit_BMP085.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13158 > LiPower Shield
 
 - ID: PROJ-SPAR-13158-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13158-STAN-01|
 |Hex ID (short code)|hexID|PRPR13158|
-|Name|name|LiPower Shield|
+|name|name|LiPower Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/LiPower-Shield|
 |gitName|gitName|LiPower-Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFunLiPowerShield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunLiPowerShield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13158/STAN/01/kicadPcb3d_450.png

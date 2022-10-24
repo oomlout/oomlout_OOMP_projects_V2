@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9540 > Full Bridge Motor Driver Breakout L298N
 
 - ID: PROJ-SPAR-9540-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9540-STAN-01|
 |Hex ID (short code)|hexID|PRPR9540|
-|Name|name|Full Bridge Motor Driver Breakout L298N|
+|name|name|Full Bridge Motor Driver Breakout L298N|
 |gitRepo|gitRepo|https://github.com/sparkfun/Full_Bridge_Motor_Driver_Breakout-L298N|
 |gitName|gitName|Full_Bridge_Motor_Driver_Breakout-L298N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Full_Bridge_Motor_Driver_Breakout-L298N.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Full_Bridge_Motor_Driver_Breakout-L298N.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9540/STAN/01/kicadPcb3d_450.png

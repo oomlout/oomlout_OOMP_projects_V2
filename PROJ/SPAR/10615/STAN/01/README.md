@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10615 > PWM Shield
 
 - ID: PROJ-SPAR-10615-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10615-STAN-01|
 |Hex ID (short code)|hexID|PRPR10615|
-|Name|name|PWM Shield|
+|name|name|PWM Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/PWM_Shield|
 |gitName|gitName|PWM_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_PWM_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_PWM_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10615/STAN/01/kicadPcb3d_450.png

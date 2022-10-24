@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0691-STAN-01|
 |Hex ID (short code)|hexID|PRPR0691|
-|Name|name|Transceiver Breakout nRF24L01|
+|name|name|Transceiver Breakout nRF24L01|
 |gitRepo|gitRepo|https://github.com/sparkfun/Transceiver_Breakout-nRF24L01|
 |gitName|gitName|Transceiver_Breakout-nRF24L01|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Tranceiver_Breakout-nRF24L01.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3246 > Adafruit Mini Analog Thumbstick Breakout PCB
 
 - ID: PROJ-ADAF-3246-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3246-STAN-01|
 |Hex ID (short code)|hexID|PRPR3246|
-|Name|name|Adafruit Mini Analog Thumbstick Breakout PCB|
+|name|name|Adafruit Mini Analog Thumbstick Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Mini-Analog-Thumbstick-Breakout-PCB|
 |gitName|gitName|Adafruit-Mini-Analog-Thumbstick-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit Mini Analog Thumbstick.brd|
 |eagleSchem|eagleSchem|/Adafruit Mini Analog Thumbstick.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3246/STAN/01/kicadPcb3d_450.png

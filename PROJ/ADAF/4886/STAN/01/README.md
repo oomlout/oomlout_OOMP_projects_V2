@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4886 > Adafruit AW9523 PCB
 
 - ID: PROJ-ADAF-4886-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4886-STAN-01|
 |Hex ID (short code)|hexID|PRPR4886|
-|Name|name|Adafruit AW9523 PCB|
+|name|name|Adafruit AW9523 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AW9523-PCB|
 |gitName|gitName|Adafruit-AW9523-PCB|
 |eagleBoard|eagleBoard|/Adafruit AW9523.brd|
 |eagleSchem|eagleSchem|/Adafruit AW9523.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4886/STAN/01/kicadPcb3d_450.png

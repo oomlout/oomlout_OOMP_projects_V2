@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2077 > Adafruit Proto Shield PCB
 
 - ID: PROJ-ADAF-2077-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2077-STAN-01|
 |Hex ID (short code)|hexID|PRPR2077|
-|Name|name|Adafruit Proto Shield PCB|
+|name|name|Adafruit Proto Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Proto-Shield-PCB|
 |gitName|gitName|Adafruit-Proto-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit Proto Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit Proto Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2077/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3678 > Adafruit UDA1334A I2S Stereo DAC PCB
 
 - ID: PROJ-ADAF-3678-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3678-STAN-01|
 |Hex ID (short code)|hexID|PRPR3678|
-|Name|name|Adafruit UDA1334A I2S Stereo DAC PCB|
+|name|name|Adafruit UDA1334A I2S Stereo DAC PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB|
 |gitName|gitName|Adafruit-UDA1334A-I2S-Stereo-DAC-PCB|
 |eagleBoard|eagleBoard|/Adafruit UDA1334 I2S DAC.brd|
 |eagleSchem|eagleSchem|/Adafruit UDA1334 I2S DAC.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3678/STAN/01/kicadPcb3d_450.png

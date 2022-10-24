@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15270 > gator log
 
 - ID: PROJ-SPAR-15270-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15270-STAN-01|
 |Hex ID (short code)|hexID|PRPR15270|
-|Name|name|gator log|
+|name|name|gator log|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_log|
 |gitName|gitName|gator_log|
 |eagleBoard|eagleBoard|/Hardware/GatorLog.brd|
 |eagleSchem|eagleSchem|/Hardware/GatorLog.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15270/STAN/01/kicadPcb3d_450.png

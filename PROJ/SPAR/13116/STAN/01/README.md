@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13116 > Spectrum Shield
 
 - ID: PROJ-SPAR-13116-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13116-STAN-01|
 |Hex ID (short code)|hexID|PRPR13116|
-|Name|name|Spectrum Shield|
+|name|name|Spectrum Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Spectrum_Shield|
 |gitName|gitName|Spectrum_Shield|
 |eagleBoard|eagleBoard|/Hardware/Spectrum_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Spectrum_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13116/STAN/01/kicadPcb3d_450.png

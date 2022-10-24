@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR20170 > SparkFun Qwiic Pressure Sensor BMP581
 
 - ID: PROJ-SPAR-20170-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-20170-STAN-01|
 |Hex ID (short code)|hexID|PRPR20170|
-|Name|name|SparkFun Qwiic Pressure Sensor BMP581|
+|name|name|SparkFun Qwiic Pressure Sensor BMP581|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP581|
 |gitName|gitName|SparkFun_Qwiic_Pressure_Sensor_BMP581|
 |eagleBoard|eagleBoard|/Hardware/Qwiic 1x1/SparkFun_Pressure_Sensor_BMP581_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic 1x1/SparkFun_Pressure_Sensor_BMP581_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/20170/STAN/01/kicadPcb3d_450.png

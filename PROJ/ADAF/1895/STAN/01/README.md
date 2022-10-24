@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1895-STAN-01|
 |Hex ID (short code)|hexID|PRPR1895|
-|Name|name|Adafruit FRAM Breakout PCB|
+|name|name|Adafruit FRAM Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FRAM-Breakout-PCB|
 |gitName|gitName|Adafruit-FRAM-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit I2C FRAM.brd|

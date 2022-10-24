@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2260 > Adafruit 5 HDMI Backpack PCB
 
 - ID: PROJ-ADAF-2260-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2260-STAN-01|
 |Hex ID (short code)|hexID|PRPR2260|
-|Name|name|Adafruit 5 HDMI Backpack PCB|
+|name|name|Adafruit 5 HDMI Backpack PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-5-HDMI-Backpack-PCB|
 |gitName|gitName|Adafruit-5-HDMI-Backpack-PCB|
 |eagleBoard|eagleBoard|/Adafruit 5in HDMI Backpack.brd|
 |eagleSchem|eagleSchem|/Adafruit 5in HDMI Backpack.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2260/STAN/01/kicadPcb3d_450.png

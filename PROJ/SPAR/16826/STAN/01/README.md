@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16826 > SparkFun Pulsed Radar Breakout A111
 
 - ID: PROJ-SPAR-16826-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16826-STAN-01|
 |Hex ID (short code)|hexID|PRPR16826|
-|Name|name|SparkFun Pulsed Radar Breakout A111|
+|name|name|SparkFun Pulsed Radar Breakout A111|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Pulsed_Radar_Breakout_A111|
 |gitName|gitName|SparkFun_Pulsed_Radar_Breakout_A111|
 |eagleBoard|eagleBoard|/Hardware/A111_Pulsed_Radar_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/A111_Pulsed_Radar_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16826/STAN/01/kicadPcb3d_450.png

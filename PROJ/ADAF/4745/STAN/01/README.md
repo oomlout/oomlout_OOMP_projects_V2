@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4745 > Adafruit MatrixPortal M4 PCB
 
 - ID: PROJ-ADAF-4745-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4745-STAN-01|
 |Hex ID (short code)|hexID|PRPR4745|
-|Name|name|Adafruit MatrixPortal M4 PCB|
+|name|name|Adafruit MatrixPortal M4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MatrixPortal-M4-PCB|
 |gitName|gitName|Adafruit-MatrixPortal-M4-PCB|
 |eagleBoard|eagleBoard|/Adafruit MatrixPortal M4.brd|
 |eagleSchem|eagleSchem|/Adafruit MatrixPortal M4.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4745/STAN/01/kicadPcb3d_450.png

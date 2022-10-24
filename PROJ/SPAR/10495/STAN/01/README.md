@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10495 > Coin Cell Battery Holder Breakout 24.5mm
 
 - ID: PROJ-SPAR-10495-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10495-STAN-01|
 |Hex ID (short code)|hexID|PRPR10495|
-|Name|name|Coin Cell Battery Holder Breakout 24.5mm|
+|name|name|Coin Cell Battery Holder Breakout 24.5mm|
 |gitRepo|gitRepo|https://github.com/sparkfun/Coin_Cell_Battery_Holder_Breakout-24.5mm|
 |gitName|gitName|Coin_Cell_Battery_Holder_Breakout-24.5mm|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Coin_Cell_Battery_Holder-24.5mm.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Coin_Cell_Battery_Holder-24.5mm.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10495/STAN/01/kicadPcb3d_450.png

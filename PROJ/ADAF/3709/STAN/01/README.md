@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3709 > Adafruit SGP30 PCB
 
 - ID: PROJ-ADAF-3709-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3709-STAN-01|
 |Hex ID (short code)|hexID|PRPR3709|
-|Name|name|Adafruit SGP30 PCB|
+|name|name|Adafruit SGP30 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SGP30-PCB|
 |gitName|gitName|Adafruit-SGP30-PCB|
 |eagleBoard|eagleBoard|/SGP30 Rev C.brd|
 |eagleSchem|eagleSchem|/SGP30 Rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3709/STAN/01/kicadPcb3d_450.png

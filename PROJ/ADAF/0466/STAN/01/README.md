@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0466-STAN-01|
 |Hex ID (short code)|hexID|PRPR0466|
-|Name|name|Adafruit VCNL40X0 PCB|
+|name|name|Adafruit VCNL40X0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VCNL40X0-PCB|
 |gitName|gitName|Adafruit-VCNL40X0-PCB|
 |eagleBoard|eagleBoard|/Adafruit VCNL4010.brd|

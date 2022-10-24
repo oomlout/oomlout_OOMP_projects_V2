@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3147 > Adafruit FONA SIMCOM 3G Breakout PCB
 
 - ID: PROJ-ADAF-3147-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3147-STAN-01|
 |Hex ID (short code)|hexID|PRPR3147|
-|Name|name|Adafruit FONA SIMCOM 3G Breakout PCB|
+|name|name|Adafruit FONA SIMCOM 3G Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FONA-SIMCOM-3G-Breakout-PCB|
 |gitName|gitName|Adafruit-FONA-SIMCOM-3G-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit FONA SIM5320 3G Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit FONA SIM5320 3G Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3147/STAN/01/kicadPcb3d_450.png

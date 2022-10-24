@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9814 > ADXL345 Eval
 
 - ID: PROJ-SPAR-9814-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9814-STAN-01|
 |Hex ID (short code)|hexID|PRPR9814|
-|Name|name|ADXL345 Eval|
+|name|name|ADXL345 Eval|
 |gitRepo|gitRepo|https://github.com/sparkfun/ADXL345_Eval|
 |gitName|gitName|ADXL345_Eval|
 |eagleBoard|eagleBoard|/hardware/ADXL345_Eval_Board-v11.brd|
 |eagleSchem|eagleSchem|/hardware/ADXL345_Eval_Board-v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9814/STAN/01/kicadPcb3d_450.png

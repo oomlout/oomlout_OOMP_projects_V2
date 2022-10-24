@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1552 > Adafruit TPA2012 or TS2012 Breakout PCB
 
 - ID: PROJ-ADAF-1552-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1552-STAN-01|
 |Hex ID (short code)|hexID|PRPR1552|
-|Name|name|Adafruit TPA2012 or TS2012 Breakout PCB|
+|name|name|Adafruit TPA2012 or TS2012 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPA2012-or-TS2012-Breakout-PCB|
 |gitName|gitName|Adafruit-TPA2012-or-TS2012-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit TS2012 TPA2012 Class D Audio Amp.brd|
 |eagleSchem|eagleSchem|/Adafruit TS2012 TPA2012 Class D Audio Amp.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1552/STAN/01/kicadPcb3d_450.png

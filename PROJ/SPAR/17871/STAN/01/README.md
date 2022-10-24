@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17871 > Qwiic KX13X
 
 - ID: PROJ-SPAR-17871-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17871-STAN-01|
 |Hex ID (short code)|hexID|PRPR17871|
-|Name|name|Qwiic KX13X|
+|name|name|Qwiic KX13X|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_KX13X|
 |gitName|gitName|Qwiic_KX13X|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_KX13X.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_KX13X.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17871/STAN/01/kicadPcb3d_450.png

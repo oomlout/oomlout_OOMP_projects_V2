@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0759-STAN-01|
 |Hex ID (short code)|hexID|PRPR0759|
-|Name|name|LED Matrix Serial Interface RedGreen|
+|name|name|LED Matrix Serial Interface RedGreen|
 |gitRepo|gitRepo|https://github.com/sparkfun/LED_Matrix_Serial_Interface_RedGreen|
 |gitName|gitName|LED_Matrix_Serial_Interface_RedGreen|
 |eagleBoard|eagleBoard|/Hardware/RG_Medium_Matrix-v11.brd|

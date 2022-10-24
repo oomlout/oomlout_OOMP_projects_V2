@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4409 > Adafruit STEMMA Non Latching Mini Relay PCB
 
 - ID: PROJ-ADAF-4409-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4409-STAN-01|
 |Hex ID (short code)|hexID|PRPR4409|
-|Name|name|Adafruit STEMMA Non Latching Mini Relay PCB|
+|name|name|Adafruit STEMMA Non Latching Mini Relay PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB|
 |gitName|gitName|Adafruit-STEMMA-Non-Latching-Mini-Relay-PCB|
 |eagleBoard|eagleBoard|/Adafruit Non-Latching Relay Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit Non-Latching Relay Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4409/STAN/01/kicadPcb3d_450.png

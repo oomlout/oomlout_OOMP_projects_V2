@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1426 > NeoPixel Sticks
 
 - ID: PROJ-ADAF-1426-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1426-STAN-01|
 |Hex ID (short code)|hexID|PRPR1426|
-|Name|name|NeoPixel Sticks|
+|name|name|NeoPixel Sticks|
 |gitRepo|gitRepo|https://github.com/adafruit/NeoPixel-Sticks|
 |gitName|gitName|NeoPixel-Sticks|
 |eagleBoard|eagleBoard|/Adafruit NeoPixel 8 Stick v2.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoPixel 8 Stick v2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1426/STAN/01/kicadPcb3d_450.png

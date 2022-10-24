@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4132 > Adafruit GPIO Expander Bonnet PCBs
 
 - ID: PROJ-ADAF-4132-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4132-STAN-01|
 |Hex ID (short code)|hexID|PRPR4132|
-|Name|name|Adafruit GPIO Expander Bonnet PCBs|
+|name|name|Adafruit GPIO Expander Bonnet PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-GPIO-Expander-Bonnet-PCBs|
 |gitName|gitName|Adafruit-GPIO-Expander-Bonnet-PCBs|
 |eagleBoard|eagleBoard|/Adafruit GPIO Expander Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit GPIO Expander Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4132/STAN/01/kicadPcb3d_450.png

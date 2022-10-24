@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12847 > XBee Shield
 
 - ID: PROJ-SPAR-12847-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12847-STAN-01|
 |Hex ID (short code)|hexID|PRPR12847|
-|Name|name|XBee Shield|
+|name|name|XBee Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Shield|
 |gitName|gitName|XBee_Shield|
 |eagleBoard|eagleBoard|/Hardware/Xbee_shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Xbee_shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12847/STAN/01/kicadPcb3d_450.png

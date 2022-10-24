@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14587 > Qwiic Accelerometer MMA8452Q
 
 - ID: PROJ-SPAR-14587-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14587-STAN-01|
 |Hex ID (short code)|hexID|PRPR14587|
-|Name|name|Qwiic Accelerometer MMA8452Q|
+|name|name|Qwiic Accelerometer MMA8452Q|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Accelerometer_MMA8452Q|
 |gitName|gitName|Qwiic_Accelerometer_MMA8452Q|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Accelerometer-MMA8452Q.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Accelerometer-MMA8452Q.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14587/STAN/01/kicadPcb3d_450.png

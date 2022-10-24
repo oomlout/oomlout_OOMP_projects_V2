@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3263 > Adafruit MAX31856 PCB
 
 - ID: PROJ-ADAF-3263-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3263-STAN-01|
 |Hex ID (short code)|hexID|PRPR3263|
-|Name|name|Adafruit MAX31856 PCB|
+|name|name|Adafruit MAX31856 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX31856-PCB|
 |gitName|gitName|Adafruit-MAX31856-PCB|
 |eagleBoard|eagleBoard|/Adafruit MAX31856.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX31856.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3263/STAN/01/kicadPcb3d_450.png

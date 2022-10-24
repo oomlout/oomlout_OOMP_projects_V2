@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2745 > Adafruit LM3671 Buck Converter PCB
 
 - ID: PROJ-ADAF-2745-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2745-STAN-01|
 |Hex ID (short code)|hexID|PRPR2745|
-|Name|name|Adafruit LM3671 Buck Converter PCB|
+|name|name|Adafruit LM3671 Buck Converter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LM3671-Buck-Converter-PCB|
 |gitName|gitName|Adafruit-LM3671-Buck-Converter-PCB|
 |eagleBoard|eagleBoard|/Adafruit LM3671 Buck.brd|
 |eagleSchem|eagleSchem|/Adafruit LM3671 Buck.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2745/STAN/01/kicadPcb3d_450.png

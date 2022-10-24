@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15093 > Qwiic Relay
 
 - ID: PROJ-SPAR-15093-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15093-STAN-01|
 |Hex ID (short code)|hexID|PRPR15093|
-|Name|name|Qwiic Relay|
+|name|name|Qwiic Relay|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Relay|
 |gitName|gitName|Qwiic_Relay|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Relay.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Relay.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15093/STAN/01/kicadPcb3d_450.png

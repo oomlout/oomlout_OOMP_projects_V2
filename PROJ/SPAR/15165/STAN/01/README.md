@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15165 > Qwiic MP3 Trigger
 
 - ID: PROJ-SPAR-15165-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15165-STAN-01|
 |Hex ID (short code)|hexID|PRPR15165|
-|Name|name|Qwiic MP3 Trigger|
+|name|name|Qwiic MP3 Trigger|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_MP3_Trigger|
 |gitName|gitName|Qwiic_MP3_Trigger|
 |eagleBoard|eagleBoard|/Hardware/Qwiic MP3 Trigger.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic MP3 Trigger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15165/STAN/01/kicadPcb3d_450.png

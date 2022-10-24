@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2190 > Adafruit Verter PCB
 
 - ID: PROJ-ADAF-2190-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2190-STAN-01|
 |Hex ID (short code)|hexID|PRPR2190|
-|Name|name|Adafruit Verter PCB|
+|name|name|Adafruit Verter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Verter-PCB|
 |gitName|gitName|Adafruit-Verter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Verter TPS63060 2A BoostBuck.brd|
 |eagleSchem|eagleSchem|/Adafruit Verter TPS63060 2A BoostBuck.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2190/STAN/01/kicadPcb3d_450.png

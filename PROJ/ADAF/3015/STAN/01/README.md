@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3015 > Adafruit PiGRRL PCB
 
 - ID: PROJ-ADAF-3015-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3015-STAN-01|
 |Hex ID (short code)|hexID|PRPR3015|
-|Name|name|Adafruit PiGRRL PCB|
+|name|name|Adafruit PiGRRL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiGRRL-PCB|
 |gitName|gitName|Adafruit-PiGRRL-PCB|
 |eagleBoard|eagleBoard|/PiGRRL-ButtonPCB.brd|
 |eagleSchem|eagleSchem|/PiGRRL-ButtonPCB.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3015/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2829 > Adafruit Feather 32u4 Bluefruit LE PCB
 
 - ID: PROJ-ADAF-2829-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2829-STAN-01|
 |Hex ID (short code)|hexID|PRPR2829|
-|Name|name|Adafruit Feather 32u4 Bluefruit LE PCB|
+|name|name|Adafruit Feather 32u4 Bluefruit LE PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-32u4-Bluefruit-LE-PCB|
 |gitName|gitName|Adafruit-Feather-32u4-Bluefruit-LE-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather 32u4 Bluefruit LE.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather 32u4 Bluefruit LE.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2829/STAN/01/kicadPcb3d_450.png

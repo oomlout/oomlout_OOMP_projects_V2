@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10705 > MyDAQ Protoboard Kit
 
 - ID: PROJ-SPAR-10705-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10705-STAN-01|
 |Hex ID (short code)|hexID|PRPR10705|
-|Name|name|MyDAQ Protoboard Kit|
+|name|name|MyDAQ Protoboard Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/MyDAQ_Protoboard_Kit|
 |gitName|gitName|MyDAQ_Protoboard_Kit|
 |eagleBoard|eagleBoard|/Hardware/MyDaq Breadboard.brd|
 |eagleSchem|eagleSchem|/Hardware/MyDaq Breadboard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10705/STAN/01/kicadPcb3d_450.png

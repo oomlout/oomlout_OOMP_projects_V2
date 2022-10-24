@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16794 > MicroMod Weather Carrier Board
 
 - ID: PROJ-SPAR-16794-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16794-STAN-01|
 |Hex ID (short code)|hexID|PRPR16794|
-|Name|name|MicroMod Weather Carrier Board|
+|name|name|MicroMod Weather Carrier Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Weather_Carrier_Board|
 |gitName|gitName|MicroMod_Weather_Carrier_Board|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_Weather_Carrier.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_Weather_Carrier.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16794/STAN/01/kicadPcb3d_450.png

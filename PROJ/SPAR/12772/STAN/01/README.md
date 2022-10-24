@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12772 > Logomatic
 
 - ID: PROJ-SPAR-12772-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12772-STAN-01|
 |Hex ID (short code)|hexID|PRPR12772|
-|Name|name|Logomatic|
+|name|name|Logomatic|
 |gitRepo|gitRepo|https://github.com/sparkfun/Logomatic|
 |gitName|gitName|Logomatic|
 |eagleBoard|eagleBoard|/Hardware/Logomatic.brd|
 |eagleSchem|eagleSchem|/Hardware/Logomatic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12772/STAN/01/kicadPcb3d_450.png

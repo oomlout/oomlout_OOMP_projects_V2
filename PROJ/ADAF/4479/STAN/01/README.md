@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4479 > Adafruit LIS3MDL PCB
 
 - ID: PROJ-ADAF-4479-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4479-STAN-01|
 |Hex ID (short code)|hexID|PRPR4479|
-|Name|name|Adafruit LIS3MDL PCB|
+|name|name|Adafruit LIS3MDL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LIS3MDL-PCB|
 |gitName|gitName|Adafruit-LIS3MDL-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIS3MDL.brd|
 |eagleSchem|eagleSchem|/Adafruit LIS3MDL.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4479/STAN/01/kicadPcb3d_450.png

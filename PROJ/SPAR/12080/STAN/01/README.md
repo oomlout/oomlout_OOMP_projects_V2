@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12080 > VKey Voltage Keypad
 
 - ID: PROJ-SPAR-12080-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12080-STAN-01|
 |Hex ID (short code)|hexID|PRPR12080|
-|Name|name|VKey Voltage Keypad|
+|name|name|VKey Voltage Keypad|
 |gitRepo|gitRepo|https://github.com/sparkfun/VKey_Voltage_Keypad|
 |gitName|gitName|VKey_Voltage_Keypad|
 |eagleBoard|eagleBoard|/hardware/SparkFunVKeyVoltageKeypad.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFunVKeyVoltageKeypad.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12080/STAN/01/kicadPcb3d_450.png

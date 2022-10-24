@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8130 > I2C Expander Breakout PCF8575
 
 - ID: PROJ-SPAR-8130-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8130-STAN-01|
 |Hex ID (short code)|hexID|PRPR8130|
-|Name|name|I2C Expander Breakout PCF8575|
+|name|name|I2C Expander Breakout PCF8575|
 |gitRepo|gitRepo|https://github.com/sparkfun/I2C_Expander_Breakout-PCF8575|
 |gitName|gitName|I2C_Expander_Breakout-PCF8575|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_I2C_Expander-PCF8575.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_I2C_Expander-PCF8575.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8130/STAN/01/kicadPcb3d_450.png

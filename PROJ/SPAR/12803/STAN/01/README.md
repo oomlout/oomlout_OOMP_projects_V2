@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12803 > ADXL377 Breakout
 
 - ID: PROJ-SPAR-12803-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12803-STAN-01|
 |Hex ID (short code)|hexID|PRPR12803|
-|Name|name|ADXL377 Breakout|
+|name|name|ADXL377 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ADXL377_Breakout|
 |gitName|gitName|ADXL377_Breakout|
 |eagleBoard|eagleBoard|/hardware/ADXL377 Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/ADXL377 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12803/STAN/01/kicadPcb3d_450.png

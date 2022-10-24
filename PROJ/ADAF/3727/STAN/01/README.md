@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3727 > Adafruit ItsyBitsy M0 PCB
 
 - ID: PROJ-ADAF-3727-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3727-STAN-01|
 |Hex ID (short code)|hexID|PRPR3727|
-|Name|name|Adafruit ItsyBitsy M0 PCB|
+|name|name|Adafruit ItsyBitsy M0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ItsyBitsy-M0-PCB|
 |gitName|gitName|Adafruit-ItsyBitsy-M0-PCB|
 |eagleBoard|eagleBoard|/Adafruit ItsyBitsy M0.brd|
 |eagleSchem|eagleSchem|/Adafruit ItsyBitsy M0.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3727/STAN/01/kicadPcb3d_450.png

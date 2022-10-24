@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1916 > Adafruit Cupcade Adapter PCB
 
 - ID: PROJ-ADAF-1916-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1916-STAN-01|
 |Hex ID (short code)|hexID|PRPR1916|
-|Name|name|Adafruit Cupcade Adapter PCB|
+|name|name|Adafruit Cupcade Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Cupcade-Adapter-PCB|
 |gitName|gitName|Adafruit-Cupcade-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Cupcade.brd|
 |eagleSchem|eagleSchem|/Adafruit Cupcade.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1916/STAN/01/kicadPcb3d_450.png

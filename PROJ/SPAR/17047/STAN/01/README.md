@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17047 > Qwiic GPIO
 
 - ID: PROJ-SPAR-17047-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17047-STAN-01|
 |Hex ID (short code)|hexID|PRPR17047|
-|Name|name|Qwiic GPIO|
+|name|name|Qwiic GPIO|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_GPIO|
 |gitName|gitName|Qwiic_GPIO|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_GPIO.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_GPIO.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17047/STAN/01/kicadPcb3d_450.png

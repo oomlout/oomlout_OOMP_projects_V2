@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2927 > Adafruit DC Stepper Motor FeatherWing PCB
 
 - ID: PROJ-ADAF-2927-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2927-STAN-01|
 |Hex ID (short code)|hexID|PRPR2927|
-|Name|name|Adafruit DC Stepper Motor FeatherWing PCB|
+|name|name|Adafruit DC Stepper Motor FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DC-Stepper-Motor-FeatherWing-PCB|
 |gitName|gitName|Adafruit-DC-Stepper-Motor-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit DC+Stepper Wing.brd|
 |eagleSchem|eagleSchem|/Adafruit DC+Stepper Wing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2927/STAN/01/kicadPcb3d_450.png

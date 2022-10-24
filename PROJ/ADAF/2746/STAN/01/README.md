@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2746 > Adafruit Bluefruit LE Shield PCB
 
 - ID: PROJ-ADAF-2746-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2746-STAN-01|
 |Hex ID (short code)|hexID|PRPR2746|
-|Name|name|Adafruit Bluefruit LE Shield PCB|
+|name|name|Adafruit Bluefruit LE Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-LE-Shield-PCB|
 |gitName|gitName|Adafruit-Bluefruit-LE-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit Bluefruit LE Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit Bluefruit LE Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2746/STAN/01/kicadPcb3d_450.png

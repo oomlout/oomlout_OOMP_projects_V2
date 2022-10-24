@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4413 > Adafruit LSM303AGR PCB
 
 - ID: PROJ-ADAF-4413-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4413-STAN-01|
 |Hex ID (short code)|hexID|PRPR4413|
-|Name|name|Adafruit LSM303AGR PCB|
+|name|name|Adafruit LSM303AGR PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM303AGR-PCB|
 |gitName|gitName|Adafruit-LSM303AGR-PCB|
 |eagleBoard|eagleBoard|/Adafruit_LSM303AGR.brd|
 |eagleSchem|eagleSchem|/Adafruit_LSM303AGR.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4413/STAN/01/kicadPcb3d_450.png

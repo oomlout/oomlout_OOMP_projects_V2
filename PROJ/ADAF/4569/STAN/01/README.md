@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4569 > Adafruit ISM330DHCX LIS3MDL FeatherWing PCB
 
 - ID: PROJ-ADAF-4569-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4569-STAN-01|
 |Hex ID (short code)|hexID|PRPR4569|
-|Name|name|Adafruit ISM330DHCX LIS3MDL FeatherWing PCB|
+|name|name|Adafruit ISM330DHCX LIS3MDL FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB|
 |gitName|gitName|Adafruit-ISM330DHCX-LIS3MDL-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit ISM330DHCX + LIS3MDL FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit ISM330DHCX + LIS3MDL FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4569/STAN/01/kicadPcb3d_450.png

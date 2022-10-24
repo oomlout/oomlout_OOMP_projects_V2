@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5100 > Adafruit MacroPad RP2040 PCB
 
 - ID: PROJ-ADAF-5100-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5100-STAN-01|
 |Hex ID (short code)|hexID|PRPR5100|
-|Name|name|Adafruit MacroPad RP2040 PCB|
+|name|name|Adafruit MacroPad RP2040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MacroPad-RP2040-PCB|
 |gitName|gitName|Adafruit-MacroPad-RP2040-PCB|
 |eagleBoard|eagleBoard|/Adafruit MacroPad 2040.brd|
 |eagleSchem|eagleSchem|/Adafruit MacroPad 2040.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5100/STAN/01/kicadPcb3d_450.png

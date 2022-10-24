@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13032 > Breadboard Power Supply Stick 5V 3.3V
 
 - ID: PROJ-SPAR-13032-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13032-STAN-01|
 |Hex ID (short code)|hexID|PRPR13032|
-|Name|name|Breadboard Power Supply Stick 5V 3.3V|
+|name|name|Breadboard Power Supply Stick 5V 3.3V|
 |gitRepo|gitRepo|https://github.com/sparkfun/Breadboard_Power_Supply_Stick_5V-3.3V|
 |gitName|gitName|Breadboard_Power_Supply_Stick_5V-3.3V|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Breadboard_Power_Supply-5v_3V_SMD.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Breadboard_Power_Supply-5v_3V_SMD.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13032/STAN/01/kicadPcb3d_450.png

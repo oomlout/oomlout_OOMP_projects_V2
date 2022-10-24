@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15217 > LiPo Charger Plus
 
 - ID: PROJ-SPAR-15217-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15217-STAN-01|
 |Hex ID (short code)|hexID|PRPR15217|
-|Name|name|LiPo Charger Plus|
+|name|name|LiPo Charger Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/LiPo_Charger_Plus|
 |gitName|gitName|LiPo_Charger_Plus|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LiPo_Charger_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LiPo_Charger_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15217/STAN/01/kicadPcb3d_450.png

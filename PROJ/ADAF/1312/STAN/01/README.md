@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1312 > Adafruit Breadboard NeoPixel PCB
 
 - ID: PROJ-ADAF-1312-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1312-STAN-01|
 |Hex ID (short code)|hexID|PRPR1312|
-|Name|name|Adafruit Breadboard NeoPixel PCB|
+|name|name|Adafruit Breadboard NeoPixel PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Breadboard_NeoPixel_PCB|
 |gitName|gitName|Adafruit_Breadboard_NeoPixel_PCB|
 |eagleBoard|eagleBoard|/Adafruit_Breadboard_NeoPixel.brd|
 |eagleSchem|eagleSchem|/Adafruit_Breadboard_NeoPixel.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1312/STAN/01/kicadPcb3d_450.png

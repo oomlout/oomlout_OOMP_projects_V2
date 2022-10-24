@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15164 > Qwiic OpenLog
 
 - ID: PROJ-SPAR-15164-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15164-STAN-01|
 |Hex ID (short code)|hexID|PRPR15164|
-|Name|name|Qwiic OpenLog|
+|name|name|Qwiic OpenLog|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_OpenLog|
 |gitName|gitName|Qwiic_OpenLog|
 |eagleBoard|eagleBoard|/Hardware/Qwiic-OpenLog.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic-OpenLog.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15164/STAN/01/kicadPcb3d_450.png

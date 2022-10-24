@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14129 > Ardumoto Motor Driver Shield
 
 - ID: PROJ-SPAR-14129-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14129-STAN-01|
 |Hex ID (short code)|hexID|PRPR14129|
-|Name|name|Ardumoto Motor Driver Shield|
+|name|name|Ardumoto Motor Driver Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Ardumoto-Motor_Driver_Shield|
 |gitName|gitName|Ardumoto-Motor_Driver_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Ardumoto.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Ardumoto.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14129/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14130 > Roshamglo
 
 - ID: PROJ-SPAR-14130-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14130-STAN-01|
 |Hex ID (short code)|hexID|PRPR14130|
-|Name|name|Roshamglo|
+|name|name|Roshamglo|
 |gitRepo|gitRepo|https://github.com/sparkfun/Roshamglo|
 |gitName|gitName|Roshamglo|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Roshamglo.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Roshamglo.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14130/STAN/01/kicadPcb3d_450.png

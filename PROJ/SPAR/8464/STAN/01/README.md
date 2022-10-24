@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8464 > LilyPad Light Sensor
 
 - ID: PROJ-SPAR-8464-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8464-STAN-01|
 |Hex ID (short code)|hexID|PRPR8464|
-|Name|name|LilyPad Light Sensor|
+|name|name|LilyPad Light Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Light_Sensor|
 |gitName|gitName|LilyPad_Light_Sensor|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Light_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Light_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8464/STAN/01/kicadPcb3d_450.png

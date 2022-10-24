@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10031 > USB microB Plug Breakout
 
 - ID: PROJ-SPAR-10031-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10031-STAN-01|
 |Hex ID (short code)|hexID|PRPR10031|
-|Name|name|USB microB Plug Breakout|
+|name|name|USB microB Plug Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_microB_Plug_Breakout|
 |gitName|gitName|USB_microB_Plug_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_USB_MicroB_Plug_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_USB_MicroB_Plug_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10031/STAN/01/kicadPcb3d_450.png

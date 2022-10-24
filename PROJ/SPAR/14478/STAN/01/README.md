@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14478 > MaKeyMaKey
 
 - ID: PROJ-SPAR-14478-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14478-STAN-01|
 |Hex ID (short code)|hexID|PRPR14478|
-|Name|name|MaKeyMaKey|
+|name|name|MaKeyMaKey|
 |gitRepo|gitRepo|https://github.com/sparkfun/MaKeyMaKey|
 |gitName|gitName|MaKeyMaKey|
 |eagleBoard|eagleBoard|/Hardware/makey_makey.brd|
 |eagleSchem|eagleSchem|/Hardware/makey_makey.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14478/STAN/01/kicadPcb3d_450.png

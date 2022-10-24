@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11824 > BMP180 Breakout
 
 - ID: PROJ-SPAR-11824-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11824-STAN-01|
 |Hex ID (short code)|hexID|PRPR11824|
-|Name|name|BMP180 Breakout|
+|name|name|BMP180 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/BMP180_Breakout|
 |gitName|gitName|BMP180_Breakout|
 |eagleBoard|eagleBoard|/hardware/SparkFun_BMP180_Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_BMP180_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11824/STAN/01/kicadPcb3d_450.png

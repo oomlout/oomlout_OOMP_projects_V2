@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3566 > Adafruit CCS811 Breakout PCB
 
 - ID: PROJ-ADAF-3566-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3566-STAN-01|
 |Hex ID (short code)|hexID|PRPR3566|
-|Name|name|Adafruit CCS811 Breakout PCB|
+|name|name|Adafruit CCS811 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CCS811-Breakout-PCB|
 |gitName|gitName|Adafruit-CCS811-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit CCS811 STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit CCS811 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3566/STAN/01/kicadPcb3d_450.png

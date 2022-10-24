@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11260 > LilyPad LiPower
 
 - ID: PROJ-SPAR-11260-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11260-STAN-01|
 |Hex ID (short code)|hexID|PRPR11260|
-|Name|name|LilyPad LiPower|
+|name|name|LilyPad LiPower|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_LiPower|
 |gitName|gitName|LilyPad_LiPower|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_LiPower.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_LiPower.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11260/STAN/01/kicadPcb3d_450.png

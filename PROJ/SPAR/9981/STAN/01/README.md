@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9981 > SC16IS750 Breakout
 
 - ID: PROJ-SPAR-9981-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9981-STAN-01|
 |Hex ID (short code)|hexID|PRPR9981|
-|Name|name|SC16IS750 Breakout|
+|name|name|SC16IS750 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SC16IS750_Breakout|
 |gitName|gitName|SC16IS750_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SC16IS750_Breakout-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SC16IS750_Breakout-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9981/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-20168-STAN-01|
 |Hex ID (short code)|hexID|PRPR20168|
-|Name|name|SparkFun Thing Plus ESP32 WROOM C|
+|name|name|SparkFun Thing Plus ESP32 WROOM C|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Thing_Plus_ESP32_WROOM_C|
 |gitName|gitName|SparkFun_Thing_Plus_ESP32_WROOM_C|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Thing_Plus_ESP32_WROOM_C.brd|

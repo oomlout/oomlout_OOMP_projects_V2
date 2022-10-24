@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2090 > Adafruit 2.8 TFT with Capacitive Touch PCB
 
 - ID: PROJ-ADAF-2090-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2090-STAN-01|
 |Hex ID (short code)|hexID|PRPR2090|
-|Name|name|Adafruit 2.8 TFT with Capacitive Touch PCB|
+|name|name|Adafruit 2.8 TFT with Capacitive Touch PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.8-TFT-with-Capacitive-Touch-PCB|
 |gitName|gitName|Adafruit-2.8-TFT-with-Capacitive-Touch-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.8 inch TFT w Capacitive Touch.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.8 inch TFT w Capacitive Touch.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2090/STAN/01/kicadPcb3d_450.png

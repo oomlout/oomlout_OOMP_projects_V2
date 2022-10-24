@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14779 > LumiDrive
 
 - ID: PROJ-SPAR-14779-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14779-STAN-01|
 |Hex ID (short code)|hexID|PRPR14779|
-|Name|name|LumiDrive|
+|name|name|LumiDrive|
 |gitRepo|gitRepo|https://github.com/sparkfun/LumiDrive|
 |gitName|gitName|LumiDrive|
 |eagleBoard|eagleBoard|/HARDWARE/LumiDrive.brd|
 |eagleSchem|eagleSchem|/HARDWARE/LumiDrive.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14779/STAN/01/kicadPcb3d_450.png

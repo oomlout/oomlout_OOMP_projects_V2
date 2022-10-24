@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3178 > Adafruit Feather M0 RFM LoRa PCB
 
 - ID: PROJ-ADAF-3178-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3178-STAN-01|
 |Hex ID (short code)|hexID|PRPR3178|
-|Name|name|Adafruit Feather M0 RFM LoRa PCB|
+|name|name|Adafruit Feather M0 RFM LoRa PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M0-RFM-LoRa-PCB|
 |gitName|gitName|Adafruit-Feather-M0-RFM-LoRa-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather M0 RFMxx.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather M0 RFMxx.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3178/STAN/01/kicadPcb3d_450.png

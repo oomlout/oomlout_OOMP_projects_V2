@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2024 > Adafruit MPR121 Capacitive Touch Shield PCB
 
 - ID: PROJ-ADAF-2024-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2024-STAN-01|
 |Hex ID (short code)|hexID|PRPR2024|
-|Name|name|Adafruit MPR121 Capacitive Touch Shield PCB|
+|name|name|Adafruit MPR121 Capacitive Touch Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPR121-Capacitive-Touch-Shield-PCB|
 |gitName|gitName|Adafruit-MPR121-Capacitive-Touch-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPR121 Capacitive Touch Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit MPR121 Capacitive Touch Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2024/STAN/01/kicadPcb3d_450.png

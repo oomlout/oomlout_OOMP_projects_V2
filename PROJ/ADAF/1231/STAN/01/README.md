@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1231 > Adafruit ADXL345 PCB
 
 - ID: PROJ-ADAF-1231-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1231-STAN-01|
 |Hex ID (short code)|hexID|PRPR1231|
-|Name|name|Adafruit ADXL345 PCB|
+|name|name|Adafruit ADXL345 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_ADXL345_PCB|
 |gitName|gitName|Adafruit_ADXL345_PCB|
 |eagleBoard|eagleBoard|/Adafruit ADXL345 Triple-Axis Accelerometer.brd|
 |eagleSchem|eagleSchem|/Adafruit ADXL345 Triple-Axis Accelerometer.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1231/STAN/01/kicadPcb3d_450.png

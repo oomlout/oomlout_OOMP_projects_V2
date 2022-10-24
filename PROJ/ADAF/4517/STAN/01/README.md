@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4517 > Adafruit LSM6DSOX LIS3MDL PCB
 
 - ID: PROJ-ADAF-4517-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4517-STAN-01|
 |Hex ID (short code)|hexID|PRPR4517|
-|Name|name|Adafruit LSM6DSOX LIS3MDL PCB|
+|name|name|Adafruit LSM6DSOX LIS3MDL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DSOX-LIS3MDL-PCB|
 |gitName|gitName|Adafruit-LSM6DSOX-LIS3MDL-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIS3MDL + LSM6DSOX FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit LIS3MDL + LSM6DSOX FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4517/STAN/01/kicadPcb3d_450.png

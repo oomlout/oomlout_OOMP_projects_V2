@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17712 > STM32 Thing Plus
 
 - ID: PROJ-SPAR-17712-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17712-STAN-01|
 |Hex ID (short code)|hexID|PRPR17712|
-|Name|name|STM32 Thing Plus|
+|name|name|STM32 Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/STM32_Thing_Plus|
 |gitName|gitName|STM32_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_STM32 Thing Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_STM32 Thing Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17712/STAN/01/kicadPcb3d_450.png

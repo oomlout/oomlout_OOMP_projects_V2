@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3000 > Adafruit Circuit Playground PCB
 
 - ID: PROJ-ADAF-3000-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3000-STAN-01|
 |Hex ID (short code)|hexID|PRPR3000|
-|Name|name|Adafruit Circuit Playground PCB|
+|name|name|Adafruit Circuit Playground PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Circuit-Playground-PCB|
 |gitName|gitName|Adafruit-Circuit-Playground-PCB|
 |eagleBoard|eagleBoard|/Adafruit Circuit Playground.brd|
 |eagleSchem|eagleSchem|/Adafruit Circuit Playground.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3000/STAN/01/kicadPcb3d_450.png

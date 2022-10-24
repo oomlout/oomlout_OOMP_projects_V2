@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0254-STAN-01|
 |Hex ID (short code)|hexID|PRPR0254|
-|Name|name|MicroSD breakout board|
+|name|name|MicroSD breakout board|
 |gitRepo|gitRepo|https://github.com/adafruit/MicroSD-breakout-board|
 |gitName|gitName|MicroSD-breakout-board|
 |eagleBoard|eagleBoard|/microsd.brd|

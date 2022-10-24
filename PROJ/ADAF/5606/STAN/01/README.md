@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5606-STAN-01|
 |Hex ID (short code)|hexID|PRPR5606|
-|Name|name|Adafruit ENS160 PCB|
+|name|name|Adafruit ENS160 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ENS160-PCB|
 |gitName|gitName|Adafruit-ENS160-PCB|
 |eagleBoard|eagleBoard|/Adafruit ENS160.brd|

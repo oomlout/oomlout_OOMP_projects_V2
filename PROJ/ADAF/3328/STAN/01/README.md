@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3328 > Adafruit MAX31865 PCB
 
 - ID: PROJ-ADAF-3328-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3328-STAN-01|
 |Hex ID (short code)|hexID|PRPR3328|
-|Name|name|Adafruit MAX31865 PCB|
+|name|name|Adafruit MAX31865 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX31865-PCB|
 |gitName|gitName|Adafruit-MAX31865-PCB|
 |eagleBoard|eagleBoard|/Adafruit MAX31865.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX31865.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3328/STAN/01/kicadPcb3d_450.png

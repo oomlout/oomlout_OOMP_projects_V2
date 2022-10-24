@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9269 > ADXL335 Breakout
 
 - ID: PROJ-SPAR-9269-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9269-STAN-01|
 |Hex ID (short code)|hexID|PRPR9269|
-|Name|name|ADXL335 Breakout|
+|name|name|ADXL335 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ADXL335_Breakout|
 |gitName|gitName|ADXL335_Breakout|
 |eagleBoard|eagleBoard|/Hardware/ADXL335_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/ADXL335_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9269/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2771 > Adafruit Feather 32u4 Basic Proto PCB
 
 - ID: PROJ-ADAF-2771-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2771-STAN-01|
 |Hex ID (short code)|hexID|PRPR2771|
-|Name|name|Adafruit Feather 32u4 Basic Proto PCB|
+|name|name|Adafruit Feather 32u4 Basic Proto PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-32u4-Basic-Proto-PCB|
 |gitName|gitName|Adafruit-Feather-32u4-Basic-Proto-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather 32u4 Basic rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather 32u4 Basic rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2771/STAN/01/kicadPcb3d_450.png

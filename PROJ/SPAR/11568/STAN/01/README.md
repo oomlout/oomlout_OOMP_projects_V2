@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11568 > Papilio Audio Wing
 
 - ID: PROJ-SPAR-11568-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11568-STAN-01|
 |Hex ID (short code)|hexID|PRPR11568|
-|Name|name|Papilio Audio Wing|
+|name|name|Papilio Audio Wing|
 |gitRepo|gitRepo|https://github.com/sparkfun/Papilio_Audio_Wing|
 |gitName|gitName|Papilio_Audio_Wing|
 |eagleBoard|eagleBoard|/Hardware/Papilio-Audio_Wing.brd|
 |eagleSchem|eagleSchem|/Hardware/Papilio-Audio_Wing.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11568/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13815 > Beefcake Relay Control Kit
 
 - ID: PROJ-SPAR-13815-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13815-STAN-01|
 |Hex ID (short code)|hexID|PRPR13815|
-|Name|name|Beefcake Relay Control Kit|
+|name|name|Beefcake Relay Control Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Beefcake_Relay_Control_Kit|
 |gitName|gitName|Beefcake_Relay_Control_Kit|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Beefcake_Relay_Control_Kit.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Beefcake_Relay_Control_Kit.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13815/STAN/01/kicadPcb3d_450.png

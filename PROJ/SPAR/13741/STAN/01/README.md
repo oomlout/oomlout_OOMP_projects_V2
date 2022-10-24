@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13741 > RedStick
 
 - ID: PROJ-SPAR-13741-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13741-STAN-01|
 |Hex ID (short code)|hexID|PRPR13741|
-|Name|name|RedStick|
+|name|name|RedStick|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedStick|
 |gitName|gitName|RedStick|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RedStick.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_RedStick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13741/STAN/01/kicadPcb3d_450.png

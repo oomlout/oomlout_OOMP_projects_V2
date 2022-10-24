@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12072 > CC3000 WiFi Breakout
 
 - ID: PROJ-SPAR-12072-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12072-STAN-01|
 |Hex ID (short code)|hexID|PRPR12072|
-|Name|name|CC3000 WiFi Breakout|
+|name|name|CC3000 WiFi Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/CC3000_WiFi_Breakout|
 |gitName|gitName|CC3000_WiFi_Breakout|
 |eagleBoard|eagleBoard|/Hardware/CC3000_WiFi_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/CC3000_WiFi_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12072/STAN/01/kicadPcb3d_450.png

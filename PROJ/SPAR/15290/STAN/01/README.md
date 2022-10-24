@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15290 > Qwiic Keypad
 
 - ID: PROJ-SPAR-15290-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15290-STAN-01|
 |Hex ID (short code)|hexID|PRPR15290|
-|Name|name|Qwiic Keypad|
+|name|name|Qwiic Keypad|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Keypad|
 |gitName|gitName|Qwiic_Keypad|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_keypad.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_keypad.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15290/STAN/01/kicadPcb3d_450.png

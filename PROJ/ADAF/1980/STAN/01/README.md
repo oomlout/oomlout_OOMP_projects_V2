@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1980 > TSL2561 breakout board PCB
 
 - ID: PROJ-ADAF-1980-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1980-STAN-01|
 |Hex ID (short code)|hexID|PRPR1980|
-|Name|name|TSL2561 breakout board PCB|
+|name|name|TSL2561 breakout board PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/TSL2561-breakout-board-PCB|
 |gitName|gitName|TSL2561-breakout-board-PCB|
 |eagleBoard|eagleBoard|/TSL2561 Stemma.brd|
 |eagleSchem|eagleSchem|/TSL2561 Stemma.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1980/STAN/01/kicadPcb3d_450.png

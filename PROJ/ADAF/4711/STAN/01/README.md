@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4711 > Adafruit AP3429A PCB
 
 - ID: PROJ-ADAF-4711-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4711-STAN-01|
 |Hex ID (short code)|hexID|PRPR4711|
-|Name|name|Adafruit AP3429A PCB|
+|name|name|Adafruit AP3429A PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-AP3429A-PCB|
 |gitName|gitName|Adafruit-AP3429A-PCB|
 |eagleBoard|eagleBoard|/AP3429 3.3 Buck rev A.brd|
 |eagleSchem|eagleSchem|/AP3429 3.3 Buck rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4711/STAN/01/kicadPcb3d_450.png

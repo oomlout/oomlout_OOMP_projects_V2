@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13169 > Blackberry Trackballer Breakout
 
 - ID: PROJ-SPAR-13169-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13169-STAN-01|
 |Hex ID (short code)|hexID|PRPR13169|
-|Name|name|Blackberry Trackballer Breakout|
+|name|name|Blackberry Trackballer Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Blackberry_Trackballer_Breakout|
 |gitName|gitName|Blackberry_Trackballer_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13169/STAN/01/kicadPcb3d_450.png

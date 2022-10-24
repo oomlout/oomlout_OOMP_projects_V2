@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2264 > Adafruit FT232H Breakout PCB
 
 - ID: PROJ-ADAF-2264-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2264-STAN-01|
 |Hex ID (short code)|hexID|PRPR2264|
-|Name|name|Adafruit FT232H Breakout PCB|
+|name|name|Adafruit FT232H Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FT232H-Breakout-PCB|
 |gitName|gitName|Adafruit-FT232H-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit FT232H Original.brd|
 |eagleSchem|eagleSchem|/Adafruit FT232H Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2264/STAN/01/kicadPcb3d_450.png

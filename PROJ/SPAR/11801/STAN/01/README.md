@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11801 > Tiny AVR Programmer
 
 - ID: PROJ-SPAR-11801-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11801-STAN-01|
 |Hex ID (short code)|hexID|PRPR11801|
-|Name|name|Tiny AVR Programmer|
+|name|name|Tiny AVR Programmer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Tiny-AVR-Programmer|
 |gitName|gitName|Tiny-AVR-Programmer|
 |eagleBoard|eagleBoard|/Hardware/Tiny_Programmer.brd|
 |eagleSchem|eagleSchem|/Hardware/Tiny_Programmer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11801/STAN/01/kicadPcb3d_450.png

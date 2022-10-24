@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4319 > Adafruit PyRuler PCB
 
 - ID: PROJ-ADAF-4319-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4319-STAN-01|
 |Hex ID (short code)|hexID|PRPR4319|
-|Name|name|Adafruit PyRuler PCB|
+|name|name|Adafruit PyRuler PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PyRuler-PCB|
 |gitName|gitName|Adafruit-PyRuler-PCB|
 |eagleBoard|eagleBoard|/Adafruit_PyRuler.brd|
 |eagleSchem|eagleSchem|/Adafruit_PyRuler.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4319/STAN/01/kicadPcb3d_450.png

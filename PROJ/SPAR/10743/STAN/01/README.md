@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10743 > Mega Pro Mini
 
 - ID: PROJ-SPAR-10743-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10743-STAN-01|
 |Hex ID (short code)|hexID|PRPR10743|
-|Name|name|Mega Pro Mini|
+|name|name|Mega Pro Mini|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mega_Pro_Mini|
 |gitName|gitName|Mega_Pro_Mini|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Mega_Pro_Mini-3.3V.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Mega_Pro_Mini-3.3V.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10743/STAN/01/kicadPcb3d_450.png

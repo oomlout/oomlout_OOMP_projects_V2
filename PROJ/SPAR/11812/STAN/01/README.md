@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11812 > XBee Explorer USB
 
 - ID: PROJ-SPAR-11812-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11812-STAN-01|
 |Hex ID (short code)|hexID|PRPR11812|
-|Name|name|XBee Explorer USB|
+|name|name|XBee Explorer USB|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Explorer_USB|
 |gitName|gitName|XBee_Explorer_USB|
 |eagleBoard|eagleBoard|/Hardware/XBee-Explorer.brd|
 |eagleSchem|eagleSchem|/Hardware/XBee-Explorer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11812/STAN/01/kicadPcb3d_450.png

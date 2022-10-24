@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5395 > Adafruit QT Py ESP32 Pico PCB
 
 - ID: PROJ-ADAF-5395-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5395-STAN-01|
 |Hex ID (short code)|hexID|PRPR5395|
-|Name|name|Adafruit QT Py ESP32 Pico PCB|
+|name|name|Adafruit QT Py ESP32 Pico PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-QT-Py-ESP32-Pico-PCB|
 |gitName|gitName|Adafruit-QT-Py-ESP32-Pico-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT Py ESP32 Pico.brd|
 |eagleSchem|eagleSchem|/Adafruit QT Py ESP32 Pico.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5395/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1903 > Adafruit PowerBoost 500 Basic PCB
 
 - ID: PROJ-ADAF-1903-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1903-STAN-01|
 |Hex ID (short code)|hexID|PRPR1903|
-|Name|name|Adafruit PowerBoost 500 Basic PCB|
+|name|name|Adafruit PowerBoost 500 Basic PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PowerBoost-500-Basic-PCB|
 |gitName|gitName|Adafruit-PowerBoost-500-Basic-PCB|
 |eagleBoard|eagleBoard|/Adafruit PowerBoost 500 Basic.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerBoost 500 Basic.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1903/STAN/01/kicadPcb3d_450.png

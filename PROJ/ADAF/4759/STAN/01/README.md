@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4759 > Adafruit Feather M4 CAN PCB
 
 - ID: PROJ-ADAF-4759-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4759-STAN-01|
 |Hex ID (short code)|hexID|PRPR4759|
-|Name|name|Adafruit Feather M4 CAN PCB|
+|name|name|Adafruit Feather M4 CAN PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M4-CAN-PCB|
 |gitName|gitName|Adafruit-Feather-M4-CAN-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather M4 Express CAN.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather M4 Express CAN.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4759/STAN/01/kicadPcb3d_450.png

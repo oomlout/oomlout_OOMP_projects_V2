@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16789 > Qwiic Shield for Arduino Nano
 
 - ID: PROJ-SPAR-16789-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16789-STAN-01|
 |Hex ID (short code)|hexID|PRPR16789|
-|Name|name|Qwiic Shield for Arduino Nano|
+|name|name|Qwiic Shield for Arduino Nano|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_Arduino_Nano|
 |gitName|gitName|Qwiic_Shield_for_Arduino_Nano|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Shield_for_Arduino_Nano.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Shield_for_Arduino_Nano.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16789/STAN/01/kicadPcb3d_450.png

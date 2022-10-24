@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4074 > Adafruit Radio Bonnet PCB
 
 - ID: PROJ-ADAF-4074-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4074-STAN-01|
 |Hex ID (short code)|hexID|PRPR4074|
-|Name|name|Adafruit Radio Bonnet PCB|
+|name|name|Adafruit Radio Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Radio-Bonnet-PCB|
 |gitName|gitName|Adafruit-Radio-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit LoRa Radio Bonnet with OLED.brd|
 |eagleSchem|eagleSchem|/Adafruit LoRa Radio Bonnet with OLED.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4074/STAN/01/kicadPcb3d_450.png

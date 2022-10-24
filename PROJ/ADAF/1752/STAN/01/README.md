@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1752 > Adafruit MAX9744 Amplifier PCB
 
 - ID: PROJ-ADAF-1752-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1752-STAN-01|
 |Hex ID (short code)|hexID|PRPR1752|
-|Name|name|Adafruit MAX9744 Amplifier PCB|
+|name|name|Adafruit MAX9744 Amplifier PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX9744-Amplifier-PCB|
 |gitName|gitName|Adafruit-MAX9744-Amplifier-PCB|
 |eagleBoard|eagleBoard|/Adafruit MAX9744.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX9744.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1752/STAN/01/kicadPcb3d_450.png

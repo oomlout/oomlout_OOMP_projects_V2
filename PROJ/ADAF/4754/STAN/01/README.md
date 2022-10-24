@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4754 > Adafruit BNO08x PCB
 
 - ID: PROJ-ADAF-4754-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4754-STAN-01|
 |Hex ID (short code)|hexID|PRPR4754|
-|Name|name|Adafruit BNO08x PCB|
+|name|name|Adafruit BNO08x PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BNO08x-PCB|
 |gitName|gitName|Adafruit-BNO08x-PCB|
 |eagleBoard|eagleBoard|/Adafruit_BNO08x.brd|
 |eagleSchem|eagleSchem|/Adafruit_BNO08x.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4754/STAN/01/kicadPcb3d_450.png

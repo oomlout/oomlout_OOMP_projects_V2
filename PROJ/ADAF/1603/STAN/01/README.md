@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1603 > Adafruit BMP180 PCB
 
 - ID: PROJ-ADAF-1603-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1603-STAN-01|
 |Hex ID (short code)|hexID|PRPR1603|
-|Name|name|Adafruit BMP180 PCB|
+|name|name|Adafruit BMP180 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BMP180-PCB|
 |gitName|gitName|Adafruit-BMP180-PCB|
 |eagleBoard|eagleBoard|/Adafruit BMP180.brd|
 |eagleSchem|eagleSchem|/Adafruit BMP180.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1603/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4026 > Adafruit STEMMA Soil Sensor PCB
 
 - ID: PROJ-ADAF-4026-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4026-STAN-01|
 |Hex ID (short code)|hexID|PRPR4026|
-|Name|name|Adafruit STEMMA Soil Sensor PCB|
+|name|name|Adafruit STEMMA Soil Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-STEMMA-Soil-Sensor-PCB|
 |gitName|gitName|Adafruit-STEMMA-Soil-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit STEMMA Soil Sensor.brd|
 |eagleSchem|eagleSchem|/Adafruit STEMMA Soil Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4026/STAN/01/kicadPcb3d_450.png

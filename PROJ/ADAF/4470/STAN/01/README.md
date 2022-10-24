@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4470 > Adafruit MCP4728 PCB
 
 - ID: PROJ-ADAF-4470-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4470-STAN-01|
 |Hex ID (short code)|hexID|PRPR4470|
-|Name|name|Adafruit MCP4728 PCB|
+|name|name|Adafruit MCP4728 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MCP4728-PCB|
 |gitName|gitName|Adafruit-MCP4728-PCB|
 |eagleBoard|eagleBoard|/Adafruit MCP4728.brd|
 |eagleSchem|eagleSchem|/Adafruit MCP4728.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4470/STAN/01/kicadPcb3d_450.png

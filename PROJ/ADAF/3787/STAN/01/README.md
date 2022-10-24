@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3787 > Adafruit 1.54 inch 240x240 TFT PCB
 
 - ID: PROJ-ADAF-3787-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3787-STAN-01|
 |Hex ID (short code)|hexID|PRPR3787|
-|Name|name|Adafruit 1.54 inch 240x240 TFT PCB|
+|name|name|Adafruit 1.54 inch 240x240 TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.54-inch-240x240-TFT-PCB|
 |gitName|gitName|Adafruit-1.54-inch-240x240-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.54inch 240x240 rev E.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.54inch 240x240 rev E.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3787/STAN/01/kicadPcb3d_450.png

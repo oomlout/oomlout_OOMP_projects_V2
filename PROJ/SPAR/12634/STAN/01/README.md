@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12634 > Simon Tilts
 
 - ID: PROJ-SPAR-12634-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12634-STAN-01|
 |Hex ID (short code)|hexID|PRPR12634|
-|Name|name|Simon Tilts|
+|name|name|Simon Tilts|
 |gitRepo|gitRepo|https://github.com/sparkfun/Simon_Tilts|
 |gitName|gitName|Simon_Tilts|
 |eagleBoard|eagleBoard|/Hardware/Simon_Tilts.brd|
 |eagleSchem|eagleSchem|/Hardware/Simon_Tilts.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12634/STAN/01/kicadPcb3d_450.png

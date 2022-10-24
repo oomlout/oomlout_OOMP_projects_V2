@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0495-STAN-01|
 |Hex ID (short code)|hexID|PRPR0495|
-|Name|name|SOIC20 DIP Adapter|
+|name|name|SOIC20 DIP Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/SOIC20-DIP_Adapter|
 |gitName|gitName|SOIC20-DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOIC20_Adapter_v10.brd|

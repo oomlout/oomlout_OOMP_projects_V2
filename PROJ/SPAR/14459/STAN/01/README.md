@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14459 > Qwiic Hat for Raspberry Pi
 
 - ID: PROJ-SPAR-14459-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14459-STAN-01|
 |Hex ID (short code)|hexID|PRPR14459|
-|Name|name|Qwiic Hat for Raspberry Pi|
+|name|name|Qwiic Hat for Raspberry Pi|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Hat_for_Raspberry_Pi|
 |gitName|gitName|Qwiic_Hat_for_Raspberry_Pi|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Shield for RaspberryPi.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Shield for RaspberryPi.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14459/STAN/01/kicadPcb3d_450.png

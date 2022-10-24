@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11282 > BMP085 Breakout
 
 - ID: PROJ-SPAR-11282-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11282-STAN-01|
 |Hex ID (short code)|hexID|PRPR11282|
-|Name|name|BMP085 Breakout|
+|name|name|BMP085 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/BMP085_Breakout|
 |gitName|gitName|BMP085_Breakout|
 |eagleBoard|eagleBoard|/Hardware/BMP085 Breakout-v14.brd|
 |eagleSchem|eagleSchem|/Hardware/BMP085 Breakout-v14.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11282/STAN/01/kicadPcb3d_450.png

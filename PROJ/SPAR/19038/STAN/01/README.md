@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19038 > SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110
 
 - ID: PROJ-SPAR-19038-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19038-STAN-01|
 |Hex ID (short code)|hexID|PRPR19038|
-|Name|name|SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110|
+|name|name|SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110|
 |gitName|gitName|SparkFun_MicroMod_Single_Pair_Ethernet_Function_Board_ADIN1110|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroMod_Function_ADIN1110.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroMod_Function_ADIN1110.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19038/STAN/01/kicadPcb3d_450.png

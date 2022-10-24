@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3211 > Adafruit RGB Matrix Bonnet PCB
 
 - ID: PROJ-ADAF-3211-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3211-STAN-01|
 |Hex ID (short code)|hexID|PRPR3211|
-|Name|name|Adafruit RGB Matrix Bonnet PCB|
+|name|name|Adafruit RGB Matrix Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RGB-Matrix-Bonnet-PCB|
 |gitName|gitName|Adafruit-RGB-Matrix-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit RGB Matrix Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit RGB Matrix Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3211/STAN/01/kicadPcb3d_450.png

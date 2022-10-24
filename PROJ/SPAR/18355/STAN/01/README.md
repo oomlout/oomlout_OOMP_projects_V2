@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18355 > Qwiic EEPROM - 512Kbit
 
 - ID: PROJ-SPAR-18355-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18355-STAN-01|
 |Hex ID (short code)|hexID|PRPR18355|
-|Name|name|Qwiic EEPROM - 512Kbit|
+|name|name|Qwiic EEPROM - 512Kbit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_EEPROM_Breakout|
 |gitName|gitName|Qwiic_EEPROM_Breakout|
 |eagleBoard|eagleBoard|Qwiic AHT20 Breakout.brd|
 |eagleSchem|eagleSchem|Qwiic AHT20 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18355/STAN/01/kicadPcb3d_450.png

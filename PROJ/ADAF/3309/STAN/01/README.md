@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3309 > Adafruit CP2104 Friend PCB
 
 - ID: PROJ-ADAF-3309-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3309-STAN-01|
 |Hex ID (short code)|hexID|PRPR3309|
-|Name|name|Adafruit CP2104 Friend PCB|
+|name|name|Adafruit CP2104 Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CP2104-Friend-PCB|
 |gitName|gitName|Adafruit-CP2104-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit CP2104 Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit CP2104 Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3309/STAN/01/kicadPcb3d_450.png

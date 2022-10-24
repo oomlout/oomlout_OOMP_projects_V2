@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12958 > Electric Imp imp002 Breakout
 
 - ID: PROJ-SPAR-12958-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12958-STAN-01|
 |Hex ID (short code)|hexID|PRPR12958|
-|Name|name|Electric Imp imp002 Breakout|
+|name|name|Electric Imp imp002 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Electric_Imp_imp002_Breakout|
 |gitName|gitName|Electric_Imp_imp002_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Electric_Imp_imp002_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Electric_Imp_imp002_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12958/STAN/01/kicadPcb3d_450.png

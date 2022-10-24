@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10936 > Bar Graph Breakout Kit
 
 - ID: PROJ-SPAR-10936-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10936-STAN-01|
 |Hex ID (short code)|hexID|PRPR10936|
-|Name|name|Bar Graph Breakout Kit|
+|name|name|Bar Graph Breakout Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Bar_Graph_Breakout_Kit|
 |gitName|gitName|Bar_Graph_Breakout_Kit|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Bar_Graph_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Bar_Graph_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10936/STAN/01/kicadPcb3d_450.png

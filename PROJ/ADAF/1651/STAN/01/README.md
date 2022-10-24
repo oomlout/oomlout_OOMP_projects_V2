@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1651 > Adafruit 2.8 TFT Shield v2 PCB
 
 - ID: PROJ-ADAF-1651-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1651-STAN-01|
 |Hex ID (short code)|hexID|PRPR1651|
-|Name|name|Adafruit 2.8 TFT Shield v2 PCB|
+|name|name|Adafruit 2.8 TFT Shield v2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.8-TFT-Shield-v2-PCB|
 |gitName|gitName|Adafruit-2.8-TFT-Shield-v2-PCB|
 |eagleBoard|eagleBoard|/Adafruit tftcaptouchshield rev C.brd|
 |eagleSchem|eagleSchem|/Adafruit tftcaptouchshield rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1651/STAN/01/kicadPcb3d_450.png

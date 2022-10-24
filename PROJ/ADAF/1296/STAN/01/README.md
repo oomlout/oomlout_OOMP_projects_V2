@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1296 > Adafruit TMP006 and TMP007 PCB
 
 - ID: PROJ-ADAF-1296-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1296-STAN-01|
 |Hex ID (short code)|hexID|PRPR1296|
-|Name|name|Adafruit TMP006 and TMP007 PCB|
+|name|name|Adafruit TMP006 and TMP007 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TMP006-and-TMP007-PCB|
 |gitName|gitName|Adafruit-TMP006-and-TMP007-PCB|
 |eagleBoard|eagleBoard|/TMP006.brd|
 |eagleSchem|eagleSchem|/TMP006.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1296/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0364-STAN-01|
 |Hex ID (short code)|hexID|PRPR0364|
-|Name|name|Adafruit PN532 RFID NFC Breakout|
+|name|name|Adafruit PN532 RFID NFC Breakout|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Breakout|
 |gitName|gitName|Adafruit-PN532-RFID-NFC-Breakout|
 |eagleBoard|eagleBoard|/Adafruit PN532_Breakout_v1.6.brd|

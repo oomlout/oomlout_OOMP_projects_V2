@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11569 > Papilio VGA Wing
 
 - ID: PROJ-SPAR-11569-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11569-STAN-01|
 |Hex ID (short code)|hexID|PRPR11569|
-|Name|name|Papilio VGA Wing|
+|name|name|Papilio VGA Wing|
 |gitRepo|gitRepo|https://github.com/sparkfun/Papilio_VGA_Wing|
 |gitName|gitName|Papilio_VGA_Wing|
 |eagleBoard|eagleBoard|/Hardware/Papilio-VGA_Wing.brd|
 |eagleSchem|eagleSchem|/Hardware/Papilio-VGA_Wing.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11569/STAN/01/kicadPcb3d_450.png

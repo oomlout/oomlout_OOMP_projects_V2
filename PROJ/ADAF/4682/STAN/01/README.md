@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4682 > Adafruit MicroSD SPI or SDIO card breakout PCB
 
 - ID: PROJ-ADAF-4682-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4682-STAN-01|
 |Hex ID (short code)|hexID|PRPR4682|
-|Name|name|Adafruit MicroSD SPI or SDIO card breakout PCB|
+|name|name|Adafruit MicroSD SPI or SDIO card breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB|
 |gitName|gitName|Adafruit-MicroSD-SPI-or-SDIO-card-breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit SDIO microSD.brd|
 |eagleSchem|eagleSchem|/Adafruit SDIO microSD.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4682/STAN/01/kicadPcb3d_450.png

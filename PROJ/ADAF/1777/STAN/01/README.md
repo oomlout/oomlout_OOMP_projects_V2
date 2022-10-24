@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1777 > Adafruit Si1145 Light Sensor PCB
 
 - ID: PROJ-ADAF-1777-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1777-STAN-01|
 |Hex ID (short code)|hexID|PRPR1777|
-|Name|name|Adafruit Si1145 Light Sensor PCB|
+|name|name|Adafruit Si1145 Light Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Si1145-Light-Sensor-PCB|
 |gitName|gitName|Adafruit-Si1145-Light-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit Si1145 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit Si1145 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1777/STAN/01/kicadPcb3d_450.png

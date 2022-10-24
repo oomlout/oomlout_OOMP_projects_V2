@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2453 > Adafruit DPI Kippah PCB
 
 - ID: PROJ-ADAF-2453-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2453-STAN-01|
 |Hex ID (short code)|hexID|PRPR2453|
-|Name|name|Adafruit DPI Kippah PCB|
+|name|name|Adafruit DPI Kippah PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DPI-Kippah-PCB|
 |gitName|gitName|Adafruit-DPI-Kippah-PCB|
 |eagleBoard|eagleBoard|/Adafruit DPI Kippah.brd|
 |eagleSchem|eagleSchem|/Adafruit DPI Kippah.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2453/STAN/01/kicadPcb3d_450.png

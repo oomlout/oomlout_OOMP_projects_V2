@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1430 > Adafruit NeoPixel Shield PCB
 
 - ID: PROJ-ADAF-1430-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1430-STAN-01|
 |Hex ID (short code)|hexID|PRPR1430|
-|Name|name|Adafruit NeoPixel Shield PCB|
+|name|name|Adafruit NeoPixel Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-Shield-PCB|
 |gitName|gitName|Adafruit-NeoPixel-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoPixel Shield v2.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoPixel Shield v2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1430/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12670 > MAG3110 Breakout Board
 
 - ID: PROJ-SPAR-12670-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12670-STAN-01|
 |Hex ID (short code)|hexID|PRPR12670|
-|Name|name|MAG3110 Breakout Board|
+|name|name|MAG3110 Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/MAG3110_Breakout_Board|
 |gitName|gitName|MAG3110_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/MAG3110_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/MAG3110_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12670/STAN/01/kicadPcb3d_450.png

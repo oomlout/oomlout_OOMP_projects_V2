@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18712 > SparkFun Artemis Global Tracker
 
 - ID: PROJ-SPAR-18712-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18712-STAN-01|
 |Hex ID (short code)|hexID|PRPR18712|
-|Name|name|SparkFun Artemis Global Tracker|
+|name|name|SparkFun Artemis Global Tracker|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Artemis_Global_Tracker|
 |gitName|gitName|SparkFun_Artemis_Global_Tracker|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Artemis_Global_Tracker.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Artemis_Global_Tracker.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18712/STAN/01/kicadPcb3d_450.png

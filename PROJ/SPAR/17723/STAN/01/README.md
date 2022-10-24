@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17723-STAN-01|
 |Hex ID (short code)|hexID|PRPR17723|
-|Name|name|MicroMod Qwiic Carrier|
+|name|name|MicroMod Qwiic Carrier|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Qwiic_Carrier|
 |gitName|gitName|MicroMod_Qwiic_Carrier|
 |eagleBoard|eagleBoard|/Hardware/Double/MM-Qwiic-Carrier-Double.brd|

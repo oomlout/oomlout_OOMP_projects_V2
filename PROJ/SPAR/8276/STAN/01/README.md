@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8276 > XBee Module Breakout Board
 
 - ID: PROJ-SPAR-8276-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8276-STAN-01|
 |Hex ID (short code)|hexID|PRPR8276|
-|Name|name|XBee Module Breakout Board|
+|name|name|XBee Module Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Module_Breakout_Board|
 |gitName|gitName|XBee_Module_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_XBee-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_XBee-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8276/STAN/01/kicadPcb3d_450.png

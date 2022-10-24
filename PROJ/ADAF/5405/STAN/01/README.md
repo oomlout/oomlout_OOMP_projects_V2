@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5405 > Adafruit QT Py ESP32 C3 PCB
 
 - ID: PROJ-ADAF-5405-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5405-STAN-01|
 |Hex ID (short code)|hexID|PRPR5405|
-|Name|name|Adafruit QT Py ESP32 C3 PCB|
+|name|name|Adafruit QT Py ESP32 C3 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-QT-Py-ESP32-C3-PCB|
 |gitName|gitName|Adafruit-QT-Py-ESP32-C3-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT Py ESP32-C3.brd|
 |eagleSchem|eagleSchem|/Adafruit QT Py ESP32-C3.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5405/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8883 > Low Current Sensor Breakout ACS712
 
 - ID: PROJ-SPAR-8883-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8883-STAN-01|
 |Hex ID (short code)|hexID|PRPR8883|
-|Name|name|Low Current Sensor Breakout ACS712|
+|name|name|Low Current Sensor Breakout ACS712|
 |gitRepo|gitRepo|https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712|
 |gitName|gitName|Low_Current_Sensor_Breakout-ACS712|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ACS712LowCurrentSensorBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ACS712LowCurrentSensorBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8883/STAN/01/kicadPcb3d_450.png

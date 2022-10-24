@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17354 > nRF9160 Thing Plus
 
 - ID: PROJ-SPAR-17354-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17354-STAN-01|
 |Hex ID (short code)|hexID|PRPR17354|
-|Name|name|nRF9160 Thing Plus|
+|name|name|nRF9160 Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/nRF9160_Thing_Plus|
 |gitName|gitName|nRF9160_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/nRF9160 Thing Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/nRF9160 Thing Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17354/STAN/01/kicadPcb3d_450.png

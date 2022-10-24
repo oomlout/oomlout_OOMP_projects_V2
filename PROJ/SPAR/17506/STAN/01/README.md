@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17506 > SparkFun LoRa Thing Plus expLoRaBLE
 
 - ID: PROJ-SPAR-17506-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17506-STAN-01|
 |Hex ID (short code)|hexID|PRPR17506|
-|Name|name|SparkFun LoRa Thing Plus expLoRaBLE|
+|name|name|SparkFun LoRa Thing Plus expLoRaBLE|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_LoRa_Thing_Plus_expLoRaBLE|
 |gitName|gitName|SparkFun_LoRa_Thing_Plus_expLoRaBLE|
 |eagleBoard|eagleBoard|/Hardware/expLoRaBLE Thing Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/expLoRaBLE Thing Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17506/STAN/01/kicadPcb3d_450.png

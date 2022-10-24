@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15208 > Buck Boost
 
 - ID: PROJ-SPAR-15208-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15208-STAN-01|
 |Hex ID (short code)|hexID|PRPR15208|
-|Name|name|Buck Boost|
+|name|name|Buck Boost|
 |gitRepo|gitRepo|https://github.com/sparkfun/Buck-Boost|
 |gitName|gitName|Buck-Boost|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Buck-Boost.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Buck-Boost.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15208/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13042 > Edison PWM Block
 
 - ID: PROJ-SPAR-13042-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13042-STAN-01|
 |Hex ID (short code)|hexID|PRPR13042|
-|Name|name|Edison PWM Block|
+|name|name|Edison PWM Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_PWM_Block|
 |gitName|gitName|Edison_PWM_Block|
 |eagleBoard|eagleBoard|/Hardware/PWM_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/PWM_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13042/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9627 > Mini FET Shield
 
 - ID: PROJ-SPAR-9627-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9627-STAN-01|
 |Hex ID (short code)|hexID|PRPR9627|
-|Name|name|Mini FET Shield|
+|name|name|Mini FET Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mini_FET_Shield|
 |gitName|gitName|Mini_FET_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Mini_FET_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Mini_FET_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9627/STAN/01/kicadPcb3d_450.png

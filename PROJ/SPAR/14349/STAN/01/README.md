@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14349 > Qwiic Human Presence Sensor Breakout AK9753
 
 - ID: PROJ-SPAR-14349-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14349-STAN-01|
 |Hex ID (short code)|hexID|PRPR14349|
-|Name|name|Qwiic Human Presence Sensor Breakout AK9753|
+|name|name|Qwiic Human Presence Sensor Breakout AK9753|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Human_Presence_Sensor_Breakout_AK9753|
 |gitName|gitName|Qwiic_Human_Presence_Sensor_Breakout_AK9753|
 |eagleBoard|eagleBoard|/Hardware/AK9753 Human Movement Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/AK9753 Human Movement Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14349/STAN/01/kicadPcb3d_450.png

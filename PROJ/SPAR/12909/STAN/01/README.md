@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12909 > MS5803 14BA Breakout
 
 - ID: PROJ-SPAR-12909-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12909-STAN-01|
 |Hex ID (short code)|hexID|PRPR12909|
-|Name|name|MS5803 14BA Breakout|
+|name|name|MS5803 14BA Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MS5803-14BA_Breakout|
 |gitName|gitName|MS5803-14BA_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MS5803-14BA_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MS5803-14BA_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12909/STAN/01/kicadPcb3d_450.png

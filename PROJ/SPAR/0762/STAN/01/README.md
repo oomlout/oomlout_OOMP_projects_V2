@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0762-STAN-01|
 |Hex ID (short code)|hexID|PRPR0762|
-|Name|name|USB Bit Whacker 18F2553|
+|name|name|USB Bit Whacker 18F2553|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_Bit_Whacker-18F2553|
 |gitName|gitName|USB_Bit_Whacker-18F2553|
 |eagleBoard|eagleBoard|/Hardware/USB_Bit_Whacker-18F2553.brd|

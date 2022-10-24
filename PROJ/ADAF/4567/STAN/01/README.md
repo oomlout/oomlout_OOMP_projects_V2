@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4567 > Adafruit 2.23 inch Monochrome OLED Bonnet PCB
 
 - ID: PROJ-ADAF-4567-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4567-STAN-01|
 |Hex ID (short code)|hexID|PRPR4567|
-|Name|name|Adafruit 2.23 inch Monochrome OLED Bonnet PCB|
+|name|name|Adafruit 2.23 inch Monochrome OLED Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB|
 |gitName|gitName|Adafruit-2.23-inch-Monochrome-OLED-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.23-inch Monochrome OLED Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.23-inch Monochrome OLED Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4567/STAN/01/kicadPcb3d_450.png

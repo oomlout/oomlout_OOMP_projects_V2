@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5378 > Adafruit VEML7700 PCB
 
 - ID: PROJ-ADAF-5378-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5378-STAN-01|
 |Hex ID (short code)|hexID|PRPR5378|
-|Name|name|Adafruit VEML7700 PCB|
+|name|name|Adafruit VEML7700 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VEML7700-PCB|
 |gitName|gitName|Adafruit-VEML7700-PCB|
 |eagleBoard|eagleBoard|/Adafruit VEML7700 STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit VEML7700 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5378/STAN/01/kicadPcb3d_450.png

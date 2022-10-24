@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2899 > Adafruit VEML6070 PCB
 
 - ID: PROJ-ADAF-2899-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2899-STAN-01|
 |Hex ID (short code)|hexID|PRPR2899|
-|Name|name|Adafruit VEML6070 PCB|
+|name|name|Adafruit VEML6070 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VEML6070-PCB|
 |gitName|gitName|Adafruit-VEML6070-PCB|
 |eagleBoard|eagleBoard|/Adafruit VEML6070.brd|
 |eagleSchem|eagleSchem|/Adafruit VEML6070.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2899/STAN/01/kicadPcb3d_450.png

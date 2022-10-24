@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4899 > Adafruit SPI Flash SD Card PCB
 
 - ID: PROJ-ADAF-4899-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4899-STAN-01|
 |Hex ID (short code)|hexID|PRPR4899|
-|Name|name|Adafruit SPI Flash SD Card PCB|
+|name|name|Adafruit SPI Flash SD Card PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SPI-Flash-SD-Card-PCB|
 |gitName|gitName|Adafruit-SPI-Flash-SD-Card-PCB|
 |eagleBoard|eagleBoard|/Adafruit SPI Flash SD Card.brd|
 |eagleSchem|eagleSchem|/Adafruit SPI Flash SD Card.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4899/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16344 > SparkFun GPS Dead Reckoning ZED F9R
 
 - ID: PROJ-SPAR-16344-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16344-STAN-01|
 |Hex ID (short code)|hexID|PRPR16344|
-|Name|name|SparkFun GPS Dead Reckoning ZED F9R|
+|name|name|SparkFun GPS Dead Reckoning ZED F9R|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R|
 |gitName|gitName|SparkFun_GPS_Dead_Reckoning_ZED-F9R|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_GPS_ZED-F9R_BoB.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_GPS_ZED-F9R_BoB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16344/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13626 > Photon Battery Shield
 
 - ID: PROJ-SPAR-13626-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13626-STAN-01|
 |Hex ID (short code)|hexID|PRPR13626|
-|Name|name|Photon Battery Shield|
+|name|name|Photon Battery Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_Battery_Shield|
 |gitName|gitName|Photon_Battery_Shield|
 |eagleBoard|eagleBoard|/Hardware/Photon Battery Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Photon Battery Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13626/STAN/01/kicadPcb3d_450.png

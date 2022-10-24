@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3387 > Adafruit LSM9DS1 Breakout PCB
 
 - ID: PROJ-ADAF-3387-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3387-STAN-01|
 |Hex ID (short code)|hexID|PRPR3387|
-|Name|name|Adafruit LSM9DS1 Breakout PCB|
+|name|name|Adafruit LSM9DS1 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM9DS1-Breakout-PCB|
 |gitName|gitName|Adafruit-LSM9DS1-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit LSM9DS1 Rev A.brd|
 |eagleSchem|eagleSchem|/Adafruit LSM9DS1 Rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3387/STAN/01/kicadPcb3d_450.png

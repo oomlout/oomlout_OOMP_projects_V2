@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9266 > LilyPad Arduino 328 Main Board
 
 - ID: PROJ-SPAR-9266-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9266-STAN-01|
 |Hex ID (short code)|hexID|PRPR9266|
-|Name|name|LilyPad Arduino 328 Main Board|
+|name|name|LilyPad Arduino 328 Main Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Arduino_328_Main_Board|
 |gitName|gitName|LilyPad_Arduino_328_Main_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad_Main_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad_Main_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9266/STAN/01/kicadPcb3d_450.png

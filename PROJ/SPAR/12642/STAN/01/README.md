@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12642 > Sound Detector
 
 - ID: PROJ-SPAR-12642-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12642-STAN-01|
 |Hex ID (short code)|hexID|PRPR12642|
-|Name|name|Sound Detector|
+|name|name|Sound Detector|
 |gitRepo|gitRepo|https://github.com/sparkfun/Sound_Detector|
 |gitName|gitName|Sound_Detector|
 |eagleBoard|eagleBoard|/hardware/sound-detector.brd|
 |eagleSchem|eagleSchem|/hardware/sound-detector.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12642/STAN/01/kicadPcb3d_450.png

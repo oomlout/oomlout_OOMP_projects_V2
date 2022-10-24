@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4712 > Adafruit LC709203F PCB
 
 - ID: PROJ-ADAF-4712-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4712-STAN-01|
 |Hex ID (short code)|hexID|PRPR4712|
-|Name|name|Adafruit LC709203F PCB|
+|name|name|Adafruit LC709203F PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LC709203F-PCB|
 |gitName|gitName|Adafruit-LC709203F-PCB|
 |eagleBoard|eagleBoard|/Adafruit LC709203F LiPoly LiIon Fuel Gauge and Battery Monitor.brd|
 |eagleSchem|eagleSchem|/Adafruit LC709203F LiPoly LiIon Fuel Gauge and Battery Monitor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4712/STAN/01/kicadPcb3d_450.png

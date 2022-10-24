@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2324 > Adafruit Ultimate GPS HAT PCB
 
 - ID: PROJ-ADAF-2324-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2324-STAN-01|
 |Hex ID (short code)|hexID|PRPR2324|
-|Name|name|Adafruit Ultimate GPS HAT PCB|
+|name|name|Adafruit Ultimate GPS HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Ultimate-GPS-HAT-PCB|
 |gitName|gitName|Adafruit-Ultimate-GPS-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit Ultimate GPS HAT.brd|
 |eagleSchem|eagleSchem|/Adafruit Ultimate GPS HAT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2324/STAN/01/kicadPcb3d_450.png

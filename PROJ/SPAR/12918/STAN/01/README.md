@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12918 > MCP4725 Breakout
 
 - ID: PROJ-SPAR-12918-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12918-STAN-01|
 |Hex ID (short code)|hexID|PRPR12918|
-|Name|name|MCP4725 Breakout|
+|name|name|MCP4725 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MCP4725_Breakout|
 |gitName|gitName|MCP4725_Breakout|
 |eagleBoard|eagleBoard|/Hardware/MCP4725_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/MCP4725_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12918/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4488 > Adafruit LIS2MDL PCB
 
 - ID: PROJ-ADAF-4488-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4488-STAN-01|
 |Hex ID (short code)|hexID|PRPR4488|
-|Name|name|Adafruit LIS2MDL PCB|
+|name|name|Adafruit LIS2MDL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LIS2MDL-PCB|
 |gitName|gitName|Adafruit-LIS2MDL-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIS2MDL.brd|
 |eagleSchem|eagleSchem|/Adafruit LIS2MDL.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4488/STAN/01/kicadPcb3d_450.png

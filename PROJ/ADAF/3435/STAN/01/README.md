@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3435 > Adafruit TPL5110 Power Timer Breakout PCB
 
 - ID: PROJ-ADAF-3435-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3435-STAN-01|
 |Hex ID (short code)|hexID|PRPR3435|
-|Name|name|Adafruit TPL5110 Power Timer Breakout PCB|
+|name|name|Adafruit TPL5110 Power Timer Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPL5110-Power-Timer-Breakout-PCB|
 |gitName|gitName|Adafruit-TPL5110-Power-Timer-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit TPL5110.brd|
 |eagleSchem|eagleSchem|/Adafruit TPL5110.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3435/STAN/01/kicadPcb3d_450.png

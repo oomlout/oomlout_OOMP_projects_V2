@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3677 > Adafruit ItsyBitsy 32u4 PCB
 
 - ID: PROJ-ADAF-3677-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3677-STAN-01|
 |Hex ID (short code)|hexID|PRPR3677|
-|Name|name|Adafruit ItsyBitsy 32u4 PCB|
+|name|name|Adafruit ItsyBitsy 32u4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ItsyBitsy-32u4-PCB|
 |gitName|gitName|Adafruit-ItsyBitsy-32u4-PCB|
 |eagleBoard|eagleBoard|/Itsy Bitsy 32u4 3V.brd|
 |eagleSchem|eagleSchem|/Itsy Bitsy 32u4 3V.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3677/STAN/01/kicadPcb3d_450.png

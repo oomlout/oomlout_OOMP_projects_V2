@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13716 > FemtoBuck
 
 - ID: PROJ-SPAR-13716-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13716-STAN-01|
 |Hex ID (short code)|hexID|PRPR13716|
-|Name|name|FemtoBuck|
+|name|name|FemtoBuck|
 |gitRepo|gitRepo|https://github.com/sparkfun/FemtoBuck|
 |gitName|gitName|FemtoBuck|
 |eagleBoard|eagleBoard|/hardware/femtobuck.brd|
 |eagleSchem|eagleSchem|/hardware/femtobuck.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13716/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9346 > MegaShield Kit
 
 - ID: PROJ-SPAR-9346-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9346-STAN-01|
 |Hex ID (short code)|hexID|PRPR9346|
-|Name|name|MegaShield Kit|
+|name|name|MegaShield Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/MegaShield_Kit|
 |gitName|gitName|MegaShield_Kit|
 |eagleBoard|eagleBoard|/Hardware/Mega_Shield-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/Mega_Shield-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9346/STAN/01/kicadPcb3d_450.png

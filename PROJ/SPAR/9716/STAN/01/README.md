@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9716 > FTDI Basic Breakout 5V
 
 - ID: PROJ-SPAR-9716-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9716-STAN-01|
 |Hex ID (short code)|hexID|PRPR9716|
-|Name|name|FTDI Basic Breakout 5V|
+|name|name|FTDI Basic Breakout 5V|
 |gitRepo|gitRepo|https://github.com/sparkfun/FTDI_Basic_Breakout-5V|
 |gitName|gitName|FTDI_Basic_Breakout-5V|
 |eagleBoard|eagleBoard|/Hardware/FTDI Basic-5V.brd|
 |eagleSchem|eagleSchem|/Hardware/FTDI Basic-5V.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9716/STAN/01/kicadPcb3d_450.png

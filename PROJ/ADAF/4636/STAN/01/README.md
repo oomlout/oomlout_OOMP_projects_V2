@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4636 > Adafruit SHTC3 PCB
 
 - ID: PROJ-ADAF-4636-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4636-STAN-01|
 |Hex ID (short code)|hexID|PRPR4636|
-|Name|name|Adafruit SHTC3 PCB|
+|name|name|Adafruit SHTC3 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SHTC3-PCB|
 |gitName|gitName|Adafruit-SHTC3-PCB|
 |eagleBoard|eagleBoard|/Adafruit_SHTC3.brd|
 |eagleSchem|eagleSchem|/Adafruit_SHTC3.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4636/STAN/01/kicadPcb3d_450.png

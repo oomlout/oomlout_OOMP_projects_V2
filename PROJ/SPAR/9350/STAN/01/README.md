@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9350-STAN-01|
 |Hex ID (short code)|hexID|PRPR9350|
-|Name|name|LilyPad Slide Switch|
+|name|name|LilyPad Slide Switch|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Slide_Switch|
 |gitName|gitName|LilyPad_Slide_Switch|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Slide_Switch.brd|

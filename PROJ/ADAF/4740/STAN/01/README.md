@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4740 > Adafruit MIDI FeatherWing PCB
 
 - ID: PROJ-ADAF-4740-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4740-STAN-01|
 |Hex ID (short code)|hexID|PRPR4740|
-|Name|name|Adafruit MIDI FeatherWing PCB|
+|name|name|Adafruit MIDI FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MIDI-FeatherWing-PCB|
 |gitName|gitName|Adafruit-MIDI-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit MIDI FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit MIDI FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4740/STAN/01/kicadPcb3d_450.png

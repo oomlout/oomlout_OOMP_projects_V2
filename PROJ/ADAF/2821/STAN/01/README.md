@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2821 > Adafruit Feather ESP8266 HUZZAH PCB
 
 - ID: PROJ-ADAF-2821-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2821-STAN-01|
 |Hex ID (short code)|hexID|PRPR2821|
-|Name|name|Adafruit Feather ESP8266 HUZZAH PCB|
+|name|name|Adafruit Feather ESP8266 HUZZAH PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-ESP8266-HUZZAH-PCB|
 |gitName|gitName|Adafruit-Feather-ESP8266-HUZZAH-PCB|
 |eagleBoard|eagleBoard|/Adafruit ESP8266 Feather rev E.brd|
 |eagleSchem|eagleSchem|/Adafruit ESP8266 Feather rev E.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2821/STAN/01/kicadPcb3d_450.png

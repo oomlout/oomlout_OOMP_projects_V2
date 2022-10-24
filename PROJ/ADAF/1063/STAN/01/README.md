@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1063 > Adafruit MAX4466 Electret Mic Amplifier PCBs
 
 - ID: PROJ-ADAF-1063-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1063-STAN-01|
 |Hex ID (short code)|hexID|PRPR1063|
-|Name|name|Adafruit MAX4466 Electret Mic Amplifier PCBs|
+|name|name|Adafruit MAX4466 Electret Mic Amplifier PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs|
 |gitName|gitName|Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs|
 |eagleBoard|eagleBoard|/Adafruit MAX4466 Mic Amp.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX4466 Mic Amp.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1063/STAN/01/kicadPcb3d_450.png

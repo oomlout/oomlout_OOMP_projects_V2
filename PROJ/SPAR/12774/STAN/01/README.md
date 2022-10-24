@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12774 > BeagleBone Black Proto Cape
 
 - ID: PROJ-SPAR-12774-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12774-STAN-01|
 |Hex ID (short code)|hexID|PRPR12774|
-|Name|name|BeagleBone Black Proto Cape|
+|name|name|BeagleBone Black Proto Cape|
 |gitRepo|gitRepo|https://github.com/sparkfun/BeagleBone_Black_Proto_Cape|
 |gitName|gitName|BeagleBone_Black_Proto_Cape|
 |eagleBoard|eagleBoard|/Hardware/BBB_Breakout_Cape.brd|
 |eagleSchem|eagleSchem|/Hardware/BBB_Breakout_Cape.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12774/STAN/01/kicadPcb3d_450.png

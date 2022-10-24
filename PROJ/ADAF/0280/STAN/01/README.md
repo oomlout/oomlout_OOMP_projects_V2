@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0280-STAN-01|
 |Hex ID (short code)|hexID|PRPR0280|
-|Name|name|Adafruit USB DC LiPoly Charger|
+|name|name|Adafruit USB DC LiPoly Charger|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-USB-DC-LiPoly-Charger|
 |gitName|gitName|Adafruit-USB-DC-LiPoly-Charger|
 |eagleBoard|eagleBoard|/Adafruit_MCP7386x.brd|

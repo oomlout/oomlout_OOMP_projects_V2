@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11858 > Copernicus II DIP Module
 
 - ID: PROJ-SPAR-11858-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11858-STAN-01|
 |Hex ID (short code)|hexID|PRPR11858|
-|Name|name|Copernicus II DIP Module|
+|name|name|Copernicus II DIP Module|
 |gitRepo|gitRepo|https://github.com/sparkfun/Copernicus_II_DIP_Module|
 |gitName|gitName|Copernicus_II_DIP_Module|
 |eagleBoard|eagleBoard|/Hardware/Copernicus-DIP-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Copernicus-DIP-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11858/STAN/01/kicadPcb3d_450.png

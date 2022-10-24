@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9419-STAN-01|
 |Hex ID (short code)|hexID|PRPR9419|
-|Name|name|MicroSD Sniffer|
+|name|name|MicroSD Sniffer|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroSD_Sniffer|
 |gitName|gitName|MicroSD_Sniffer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroSD_Sniffer.brd|

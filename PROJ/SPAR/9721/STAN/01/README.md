@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9721 > Barometric Pressure Sensor Breakout MPL115A1
 
 - ID: PROJ-SPAR-9721-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9721-STAN-01|
 |Hex ID (short code)|hexID|PRPR9721|
-|Name|name|Barometric Pressure Sensor Breakout MPL115A1|
+|name|name|Barometric Pressure Sensor Breakout MPL115A1|
 |gitRepo|gitRepo|https://github.com/sparkfun/Barometric_Pressure_Sensor_Breakout-MPL115A1|
 |gitName|gitName|Barometric_Pressure_Sensor_Breakout-MPL115A1|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Pressure_Breakout-MPL115A1.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Pressure_Breakout-MPL115A1.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9721/STAN/01/kicadPcb3d_450.png

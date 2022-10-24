@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15089 > SparkFun UV Sensor
 
 - ID: PROJ-SPAR-15089-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15089-STAN-01|
 |Hex ID (short code)|hexID|PRPR15089|
-|Name|name|SparkFun UV Sensor|
+|name|name|SparkFun UV Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_UV_Sensor|
 |gitName|gitName|SparkFun_UV_Sensor|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_UV_Sensor_VEML6075.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_UV_Sensor_VEML6075.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15089/STAN/01/kicadPcb3d_450.png

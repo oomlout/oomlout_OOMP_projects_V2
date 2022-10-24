@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19311-STAN-01|
 |Hex ID (short code)|hexID|PRPR19311|
-|Name|name|SparkFun LoRaSerial|
+|name|name|SparkFun LoRaSerial|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_LoRaSerial|
 |gitName|gitName|SparkFun_LoRaSerial|
 |eagleBoard|eagleBoard|/Hardware/433MHz/SparkFun LoRaSerial 433MHz - 1W.brd|

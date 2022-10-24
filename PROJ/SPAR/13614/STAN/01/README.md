@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13614 > Qduino Mini SFE
 
 - ID: PROJ-SPAR-13614-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13614-STAN-01|
 |Hex ID (short code)|hexID|PRPR13614|
-|Name|name|Qduino Mini SFE|
+|name|name|Qduino Mini SFE|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qduino_Mini_SFE|
 |gitName|gitName|Qduino_Mini_SFE|
 |eagleBoard|eagleBoard|/Hardware/Qduino_Mini.brd|
 |eagleSchem|eagleSchem|/Hardware/Qduino_Mini.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13614/STAN/01/kicadPcb3d_450.png

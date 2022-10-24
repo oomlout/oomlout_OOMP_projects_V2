@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12942 > Bus Pirate
 
 - ID: PROJ-SPAR-12942-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12942-STAN-01|
 |Hex ID (short code)|hexID|PRPR12942|
-|Name|name|Bus Pirate|
+|name|name|Bus Pirate|
 |gitRepo|gitRepo|https://github.com/sparkfun/Bus_Pirate|
 |gitName|gitName|Bus_Pirate|
 |eagleBoard|eagleBoard|/Hardware/BusPirate-v3.6a.brd|
 |eagleSchem|eagleSchem|/Hardware/BusPirate-v3.6a.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12942/STAN/01/kicadPcb3d_450.png

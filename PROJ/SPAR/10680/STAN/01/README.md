@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10680 > Shift Register Breakout 74HC595
 
 - ID: PROJ-SPAR-10680-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10680-STAN-01|
 |Hex ID (short code)|hexID|PRPR10680|
-|Name|name|Shift Register Breakout 74HC595|
+|name|name|Shift Register Breakout 74HC595|
 |gitRepo|gitRepo|https://github.com/sparkfun/Shift_Register_Breakout-74HC595|
 |gitName|gitName|Shift_Register_Breakout-74HC595|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Shift_Register_Breakout-74HC595.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Shift_Register_Breakout-74HC595.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10680/STAN/01/kicadPcb3d_450.png

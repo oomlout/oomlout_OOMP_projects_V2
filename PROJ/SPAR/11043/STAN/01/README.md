@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11043 > fabFM Kit
 
 - ID: PROJ-SPAR-11043-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11043-STAN-01|
 |Hex ID (short code)|hexID|PRPR11043|
-|Name|name|fabFM Kit|
+|name|name|fabFM Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/fabFM-Kit|
 |gitName|gitName|fabFM-Kit|
 |eagleBoard|eagleBoard|/hardware/fabfm.brd|
 |eagleSchem|eagleSchem|/hardware/fabfm.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11043/STAN/01/kicadPcb3d_450.png

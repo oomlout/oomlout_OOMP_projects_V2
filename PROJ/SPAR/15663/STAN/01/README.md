@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15663 > ESP32 Thing Plus
 
 - ID: PROJ-SPAR-15663-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15663-STAN-01|
 |Hex ID (short code)|hexID|PRPR15663|
-|Name|name|ESP32 Thing Plus|
+|name|name|ESP32 Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32_Thing_Plus|
 |gitName|gitName|ESP32_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/ESP32_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/ESP32_Thing_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15663/STAN/01/kicadPcb3d_450.png

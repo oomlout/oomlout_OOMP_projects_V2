@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15162 > gator bit
 
 - ID: PROJ-SPAR-15162-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15162-STAN-01|
 |Hex ID (short code)|hexID|PRPR15162|
-|Name|name|gator bit|
+|name|name|gator bit|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_bit|
 |gitName|gitName|gator_bit|
 |eagleBoard|eagleBoard|/Hardware/gator-bit.brd|
 |eagleSchem|eagleSchem|/Hardware/gator-bit.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15162/STAN/01/kicadPcb3d_450.png

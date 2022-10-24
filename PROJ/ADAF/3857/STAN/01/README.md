@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3857 > Adafruit Feather M4 Express PCB
 
 - ID: PROJ-ADAF-3857-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3857-STAN-01|
 |Hex ID (short code)|hexID|PRPR3857|
-|Name|name|Adafruit Feather M4 Express PCB|
+|name|name|Adafruit Feather M4 Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M4-Express-PCB|
 |gitName|gitName|Adafruit-Feather-M4-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather M4 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather M4 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3857/STAN/01/kicadPcb3d_450.png

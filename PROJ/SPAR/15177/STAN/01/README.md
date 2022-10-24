@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15177 > Qwiic Proximity Sensor
 
 - ID: PROJ-SPAR-15177-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15177-STAN-01|
 |Hex ID (short code)|hexID|PRPR15177|
-|Name|name|Qwiic Proximity Sensor|
+|name|name|Qwiic Proximity Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Proximity_Sensor|
 |gitName|gitName|Qwiic_Proximity_Sensor|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Proximity Sensor - VCNL4040.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Proximity Sensor - VCNL4040.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15177/STAN/01/kicadPcb3d_450.png

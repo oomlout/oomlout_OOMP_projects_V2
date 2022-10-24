@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2298 > Adafruit PiTFT Plus 2.8 PCB
 
 - ID: PROJ-ADAF-2298-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2298-STAN-01|
 |Hex ID (short code)|hexID|PRPR2298|
-|Name|name|Adafruit PiTFT Plus 2.8 PCB|
+|name|name|Adafruit PiTFT Plus 2.8 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB|
 |gitName|gitName|Adafruit-PiTFT-Plus-2.8-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiTFT+ 2.8in.brd|
 |eagleSchem|eagleSchem|/Adafruit PiTFT+ 2.8in.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2298/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1106 > TIMESQUARE DIY Watch Kit
 
 - ID: PROJ-ADAF-1106-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1106-STAN-01|
 |Hex ID (short code)|hexID|PRPR1106|
-|Name|name|TIMESQUARE DIY Watch Kit|
+|name|name|TIMESQUARE DIY Watch Kit|
 |gitRepo|gitRepo|https://github.com/adafruit/TIMESQUARE-DIY-Watch-Kit|
 |gitName|gitName|TIMESQUARE-DIY-Watch-Kit|
 |eagleBoard|eagleBoard|/Adafruit_TIMESQUARE.brd|
 |eagleSchem|eagleSchem|/Adafruit_TIMESQUARE.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1106/STAN/01/kicadPcb3d_450.png

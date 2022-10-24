@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13287 > ESP8266 WiFi Shield
 
 - ID: PROJ-SPAR-13287-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13287-STAN-01|
 |Hex ID (short code)|hexID|PRPR13287|
-|Name|name|ESP8266 WiFi Shield|
+|name|name|ESP8266 WiFi Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP8266_WiFi_Shield|
 |gitName|gitName|ESP8266_WiFi_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun-ESP8266-WiFi-Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun-ESP8266-WiFi-Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13287/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13021 > MagJack Breakout
 
 - ID: PROJ-SPAR-13021-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13021-STAN-01|
 |Hex ID (short code)|hexID|PRPR13021|
-|Name|name|MagJack Breakout|
+|name|name|MagJack Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MagJack_Breakout|
 |gitName|gitName|MagJack_Breakout|
 |eagleBoard|eagleBoard|/Hardware/MagJack_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/MagJack_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13021/STAN/01/kicadPcb3d_450.png

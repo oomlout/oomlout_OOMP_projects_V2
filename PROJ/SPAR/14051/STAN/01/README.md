@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14051 > Wireless Joystick
 
 - ID: PROJ-SPAR-14051-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14051-STAN-01|
 |Hex ID (short code)|hexID|PRPR14051|
-|Name|name|Wireless Joystick|
+|name|name|Wireless Joystick|
 |gitRepo|gitRepo|https://github.com/sparkfun/Wireless_Joystick|
 |gitName|gitName|Wireless_Joystick|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Wireless_JoyStick.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Wireless_JoyStick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14051/STAN/01/kicadPcb3d_450.png

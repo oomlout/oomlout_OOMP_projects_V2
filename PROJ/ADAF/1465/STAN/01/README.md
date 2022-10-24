@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1465 > Adafruit ISP SWD and JTAG Breakout PCBs
 
 - ID: PROJ-ADAF-1465-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1465-STAN-01|
 |Hex ID (short code)|hexID|PRPR1465|
-|Name|name|Adafruit ISP SWD and JTAG Breakout PCBs|
+|name|name|Adafruit ISP SWD and JTAG Breakout PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs|
 |gitName|gitName|Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs|
 |eagleBoard|eagleBoard|/Adafruit 6-ISP AVR.brd|
 |eagleSchem|eagleSchem|/Adafruit 6-ISP AVR.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1465/STAN/01/kicadPcb3d_450.png

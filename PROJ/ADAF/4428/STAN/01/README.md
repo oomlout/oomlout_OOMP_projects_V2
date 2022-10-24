@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4428 > Adafruit Circuit Playground Tri Color E Ink Gizmo PCB
 
 - ID: PROJ-ADAF-4428-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4428-STAN-01|
 |Hex ID (short code)|hexID|PRPR4428|
-|Name|name|Adafruit Circuit Playground Tri Color E Ink Gizmo PCB|
+|name|name|Adafruit Circuit Playground Tri Color E Ink Gizmo PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB|
 |gitName|gitName|Adafruit-Circuit-Playground-Tri-Color-E-Ink-Gizmo-PCB|
 |eagleBoard|eagleBoard|/Circuit Playground Tri-color E-Ink Gizmo.brd|
 |eagleSchem|eagleSchem|/Circuit Playground Tri-color E-Ink Gizmo.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4428/STAN/01/kicadPcb3d_450.png

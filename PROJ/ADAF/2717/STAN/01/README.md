@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2717 > Adafruit TCA9548A I2C Multiplexer PCB
 
 - ID: PROJ-ADAF-2717-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2717-STAN-01|
 |Hex ID (short code)|hexID|PRPR2717|
-|Name|name|Adafruit TCA9548A I2C Multiplexer PCB|
+|name|name|Adafruit TCA9548A I2C Multiplexer PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TCA9548A-I2C-Multiplexer-PCB|
 |gitName|gitName|Adafruit-TCA9548A-I2C-Multiplexer-PCB|
 |eagleBoard|eagleBoard|/Adafruit TCA9548A.brd|
 |eagleSchem|eagleSchem|/Adafruit TCA9548A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2717/STAN/01/kicadPcb3d_450.png

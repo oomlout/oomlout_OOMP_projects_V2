@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17156 > Qwiic Shield for Teensy Extended
 
 - ID: PROJ-SPAR-17156-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17156-STAN-01|
 |Hex ID (short code)|hexID|PRPR17156|
-|Name|name|Qwiic Shield for Teensy Extended|
+|name|name|Qwiic Shield for Teensy Extended|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_Teensy_Extended|
 |gitName|gitName|Qwiic_Shield_for_Teensy_Extended|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Shield_for_Teensy_Extended.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Shield_for_Teensy_Extended.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17156/STAN/01/kicadPcb3d_450.png

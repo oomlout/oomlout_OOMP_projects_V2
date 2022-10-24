@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12009 > Logic Level Converter
 
 - ID: PROJ-SPAR-12009-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12009-STAN-01|
 |Hex ID (short code)|hexID|PRPR12009|
-|Name|name|Logic Level Converter|
+|name|name|Logic Level Converter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Logic_Level_Converter|
 |gitName|gitName|Logic_Level_Converter|
 |eagleBoard|eagleBoard|/Hardware/Logic_Level_Converter.brd|
 |eagleSchem|eagleSchem|/Hardware/Logic_Level_Converter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12009/STAN/01/kicadPcb3d_450.png

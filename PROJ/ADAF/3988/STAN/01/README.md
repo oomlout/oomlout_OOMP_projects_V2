@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3988 > Adafruit Prop Maker FeatherWing PCB
 
 - ID: PROJ-ADAF-3988-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3988-STAN-01|
 |Hex ID (short code)|hexID|PRPR3988|
-|Name|name|Adafruit Prop Maker FeatherWing PCB|
+|name|name|Adafruit Prop Maker FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Prop-Maker-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Prop-Maker-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit Prop Maker FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit Prop Maker FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3988/STAN/01/kicadPcb3d_450.png

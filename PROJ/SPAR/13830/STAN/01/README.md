@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13830 > USB UART Serial Breakout CY7C65213
 
 - ID: PROJ-SPAR-13830-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13830-STAN-01|
 |Hex ID (short code)|hexID|PRPR13830|
-|Name|name|USB UART Serial Breakout CY7C65213|
+|name|name|USB UART Serial Breakout CY7C65213|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_UART_Serial_Breakout-CY7C65213|
 |gitName|gitName|USB_UART_Serial_Breakout-CY7C65213|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Cypress_USBUART_BOB.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Cypress_USBUART_BOB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13830/STAN/01/kicadPcb3d_450.png

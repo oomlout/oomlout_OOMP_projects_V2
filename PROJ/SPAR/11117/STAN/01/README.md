@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11117 > 32U4 Breakout Board
 
 - ID: PROJ-SPAR-11117-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11117-STAN-01|
 |Hex ID (short code)|hexID|PRPR11117|
-|Name|name|32U4 Breakout Board|
+|name|name|32U4 Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/32U4_Breakout_Board|
 |gitName|gitName|32U4_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/32U4_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/32U4_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11117/STAN/01/kicadPcb3d_450.png

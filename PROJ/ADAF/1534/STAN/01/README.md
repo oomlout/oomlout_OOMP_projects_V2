@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1534 > Adafruit CC3000 Shield PCB
 
 - ID: PROJ-ADAF-1534-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1534-STAN-01|
 |Hex ID (short code)|hexID|PRPR1534|
-|Name|name|Adafruit CC3000 Shield PCB|
+|name|name|Adafruit CC3000 Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_CC3000_Shield_PCB|
 |gitName|gitName|Adafruit_CC3000_Shield_PCB|
 |eagleBoard|eagleBoard|/Adafruit CC3000 shield REV-B.brd|
 |eagleSchem|eagleSchem|/Adafruit CC3000 shield REV-B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1534/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9729 > ProtoScrewShield
 
 - ID: PROJ-SPAR-9729-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9729-STAN-01|
 |Hex ID (short code)|hexID|PRPR9729|
-|Name|name|ProtoScrewShield|
+|name|name|ProtoScrewShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ProtoScrewShield|
 |gitName|gitName|ProtoScrewShield|
 |eagleBoard|eagleBoard|/Hardware/ProtoScrewShield.brd|
 |eagleSchem|eagleSchem|/Hardware/ProtoScrewShield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9729/STAN/01/kicadPcb3d_450.png

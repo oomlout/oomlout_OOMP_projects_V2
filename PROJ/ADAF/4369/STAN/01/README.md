@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4369 > Adafruit PCT2075 PCB
 
 - ID: PROJ-ADAF-4369-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4369-STAN-01|
 |Hex ID (short code)|hexID|PRPR4369|
-|Name|name|Adafruit PCT2075 PCB|
+|name|name|Adafruit PCT2075 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PCT2075-PCB|
 |gitName|gitName|Adafruit-PCT2075-PCB|
 |eagleBoard|eagleBoard|/Adafruit_PCT2075.brd|
 |eagleSchem|eagleSchem|/Adafruit_PCT2075.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4369/STAN/01/kicadPcb3d_450.png

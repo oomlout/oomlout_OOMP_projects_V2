@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13343 > LilyPad Reed Switch
 
 - ID: PROJ-SPAR-13343-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13343-STAN-01|
 |Hex ID (short code)|hexID|PRPR13343|
-|Name|name|LilyPad Reed Switch|
+|name|name|LilyPad Reed Switch|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Reed_Switch|
 |gitName|gitName|LilyPad_Reed_Switch|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-reed.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-reed.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13343/STAN/01/kicadPcb3d_450.png

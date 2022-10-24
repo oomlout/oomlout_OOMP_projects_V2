@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0194-STAN-01|
 |Hex ID (short code)|hexID|PRPR0194|
-|Name|name|Ice Tube Clock|
+|name|name|Ice Tube Clock|
 |gitRepo|gitRepo|https://github.com/adafruit/Ice-Tube-Clock|
 |gitName|gitName|Ice-Tube-Clock|
 |eagleBoard|eagleBoard|/pcb/icetube.brd|

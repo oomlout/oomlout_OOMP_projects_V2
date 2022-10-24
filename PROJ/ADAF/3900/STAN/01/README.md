@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3900 > Adafruit Hallowing M0 PCB
 
 - ID: PROJ-ADAF-3900-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3900-STAN-01|
 |Hex ID (short code)|hexID|PRPR3900|
-|Name|name|Adafruit Hallowing M0 PCB|
+|name|name|Adafruit Hallowing M0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Hallowing-M0-PCB|
 |gitName|gitName|Adafruit-Hallowing-M0-PCB|
 |eagleBoard|eagleBoard|/Adafruit Hallowing M0 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit Hallowing M0 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3900/STAN/01/kicadPcb3d_450.png

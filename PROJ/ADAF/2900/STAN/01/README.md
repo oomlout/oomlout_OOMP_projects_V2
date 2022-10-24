@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2900 > Adafruit OLED FeatherWing PCB
 
 - ID: PROJ-ADAF-2900-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2900-STAN-01|
 |Hex ID (short code)|hexID|PRPR2900|
-|Name|name|Adafruit OLED FeatherWing PCB|
+|name|name|Adafruit OLED FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-OLED-FeatherWing-PCB|
 |gitName|gitName|Adafruit-OLED-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit 128x64 OLED FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit 128x64 OLED FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2900/STAN/01/kicadPcb3d_450.png

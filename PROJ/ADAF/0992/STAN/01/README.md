@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0992-STAN-01|
 |Hex ID (short code)|hexID|PRPR0992|
-|Name|name|Adafruit MPL115A2 Breakout PCB|
+|name|name|Adafruit MPL115A2 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPL115A2-Breakout-PCB|
 |gitName|gitName|Adafruit-MPL115A2-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPL115A2 Breakout.brd|

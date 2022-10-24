@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12935 > FTDI SmartBasic
 
 - ID: PROJ-SPAR-12935-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12935-STAN-01|
 |Hex ID (short code)|hexID|PRPR12935|
-|Name|name|FTDI SmartBasic|
+|name|name|FTDI SmartBasic|
 |gitRepo|gitRepo|https://github.com/sparkfun/FTDI_SmartBasic|
 |gitName|gitName|FTDI_SmartBasic|
 |eagleBoard|eagleBoard|/Hardware/FTDI_SmartBasic.brd|
 |eagleSchem|eagleSchem|/Hardware/FTDI_SmartBasic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12935/STAN/01/kicadPcb3d_450.png

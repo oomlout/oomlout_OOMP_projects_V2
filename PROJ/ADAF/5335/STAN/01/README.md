@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5335 > Adafruit CP2102N Friend PCB
 
 - ID: PROJ-ADAF-5335-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5335-STAN-01|
 |Hex ID (short code)|hexID|PRPR5335|
-|Name|name|Adafruit CP2102N Friend PCB|
+|name|name|Adafruit CP2102N Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CP2102N-Friend-PCB|
 |gitName|gitName|Adafruit-CP2102N-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit CP2102N Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit CP2102N Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5335/STAN/01/kicadPcb3d_450.png

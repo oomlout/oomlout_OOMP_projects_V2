@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13735 > LilyPad Tri Color LED
 
 - ID: PROJ-SPAR-13735-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13735-STAN-01|
 |Hex ID (short code)|hexID|PRPR13735|
-|Name|name|LilyPad Tri Color LED|
+|name|name|LilyPad Tri Color LED|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Tri-Color_LED|
 |gitName|gitName|LilyPad_Tri-Color_LED|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad_Tricolor-LED.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad_Tricolor-LED.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13735/STAN/01/kicadPcb3d_450.png

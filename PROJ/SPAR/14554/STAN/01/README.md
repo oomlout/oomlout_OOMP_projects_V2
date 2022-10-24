@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14554 > Papa Soundie Audio Player
 
 - ID: PROJ-SPAR-14554-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14554-STAN-01|
 |Hex ID (short code)|hexID|PRPR14554|
-|Name|name|Papa Soundie Audio Player|
+|name|name|Papa Soundie Audio Player|
 |gitRepo|gitRepo|https://github.com/sparkfun/Papa_Soundie_Audio_Player|
 |gitName|gitName|Papa_Soundie_Audio_Player|
 |eagleBoard|eagleBoard|/Hardware/Papa_Soundie.brd|
 |eagleSchem|eagleSchem|/Hardware/Papa_Soundie.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14554/STAN/01/kicadPcb3d_450.png

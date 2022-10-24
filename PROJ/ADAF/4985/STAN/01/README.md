@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4985 > Adafruit FunHouse PCB
 
 - ID: PROJ-ADAF-4985-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4985-STAN-01|
 |Hex ID (short code)|hexID|PRPR4985|
-|Name|name|Adafruit FunHouse PCB|
+|name|name|Adafruit FunHouse PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FunHouse-PCB|
 |gitName|gitName|Adafruit-FunHouse-PCB|
 |eagleBoard|eagleBoard|/Adafruit FunHouse.brd|
 |eagleSchem|eagleSchem|/Adafruit FunHouse.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4985/STAN/01/kicadPcb3d_450.png

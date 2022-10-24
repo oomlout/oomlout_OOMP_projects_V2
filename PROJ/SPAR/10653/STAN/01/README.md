@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10653 > Voice Recorder Breakout ISD1932
 
 - ID: PROJ-SPAR-10653-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10653-STAN-01|
 |Hex ID (short code)|hexID|PRPR10653|
-|Name|name|Voice Recorder Breakout ISD1932|
+|name|name|Voice Recorder Breakout ISD1932|
 |gitRepo|gitRepo|https://github.com/sparkfun/Voice_Recorder_Breakout-ISD1932|
 |gitName|gitName|Voice_Recorder_Breakout-ISD1932|
 |eagleBoard|eagleBoard|/Hardware/ISD1932 Breakout-v21.brd|
 |eagleSchem|eagleSchem|/Hardware/ISD1932 Breakout-v21.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10653/STAN/01/kicadPcb3d_450.png

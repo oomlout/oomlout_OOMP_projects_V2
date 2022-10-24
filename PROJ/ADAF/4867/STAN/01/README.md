@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4867 > Adafruit SCD 30 PCB
 
 - ID: PROJ-ADAF-4867-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4867-STAN-01|
 |Hex ID (short code)|hexID|PRPR4867|
-|Name|name|Adafruit SCD 30 PCB|
+|name|name|Adafruit SCD 30 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SCD-30-PCB|
 |gitName|gitName|Adafruit-SCD-30-PCB|
 |eagleBoard|eagleBoard|/Adafruit SCD30.brd|
 |eagleSchem|eagleSchem|/Adafruit SCD30.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4867/STAN/01/kicadPcb3d_450.png

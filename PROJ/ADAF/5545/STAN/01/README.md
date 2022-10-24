@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5545-STAN-01|
 |Hex ID (short code)|hexID|PRPR5545|
-|Name|name|Adafruit PCF8574 PCB|
+|name|name|Adafruit PCF8574 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PCF8574-PCB|
 |gitName|gitName|Adafruit-PCF8574-PCB|
 |eagleBoard|eagleBoard|/Adafruit PCF8574 QT.brd|

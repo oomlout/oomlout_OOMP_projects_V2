@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12660 > MP3 Player Shield
 
 - ID: PROJ-SPAR-12660-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12660-STAN-01|
 |Hex ID (short code)|hexID|PRPR12660|
-|Name|name|MP3 Player Shield|
+|name|name|MP3 Player Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MP3_Player_Shield|
 |gitName|gitName|MP3_Player_Shield|
 |eagleBoard|eagleBoard|/hardware/SparkFunMP3Shield.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFunMP3Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12660/STAN/01/kicadPcb3d_450.png

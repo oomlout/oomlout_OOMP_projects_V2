@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13262 > CAN Bus Shield
 
 - ID: PROJ-SPAR-13262-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13262-STAN-01|
 |Hex ID (short code)|hexID|PRPR13262|
-|Name|name|CAN Bus Shield|
+|name|name|CAN Bus Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/CAN-Bus_Shield|
 |gitName|gitName|CAN-Bus_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_CAN-Bus_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_CAN-Bus_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13262/STAN/01/kicadPcb3d_450.png

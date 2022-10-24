@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10888 > LSM303 Breakout
 
 - ID: PROJ-SPAR-10888-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10888-STAN-01|
 |Hex ID (short code)|hexID|PRPR10888|
-|Name|name|LSM303 Breakout|
+|name|name|LSM303 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LSM303_Breakout|
 |gitName|gitName|LSM303_Breakout|
 |eagleBoard|eagleBoard|/Hardware/LSM303 breakout board-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/LSM303 breakout board-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10888/STAN/01/kicadPcb3d_450.png

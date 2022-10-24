@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10930 > ClockIt
 
 - ID: PROJ-SPAR-10930-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10930-STAN-01|
 |Hex ID (short code)|hexID|PRPR10930|
-|Name|name|ClockIt|
+|name|name|ClockIt|
 |gitRepo|gitRepo|https://github.com/sparkfun/ClockIt|
 |gitName|gitName|ClockIt|
 |eagleBoard|eagleBoard|/Hardware/Clock-v16.brd|
 |eagleSchem|eagleSchem|/Hardware/Clock-v16.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10930/STAN/01/kicadPcb3d_450.png

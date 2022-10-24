@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14686 > Qwiic IMU BNO080
 
 - ID: PROJ-SPAR-14686-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14686-STAN-01|
 |Hex ID (short code)|hexID|PRPR14686|
-|Name|name|Qwiic IMU BNO080|
+|name|name|Qwiic IMU BNO080|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_IMU_BNO080|
 |gitName|gitName|Qwiic_IMU_BNO080|
 |eagleBoard|eagleBoard|/Documents/Qwiic_IMU_Bonobo.brd|
 |eagleSchem|eagleSchem|/Documents/Qwiic_IMU_Bonobo.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14686/STAN/01/kicadPcb3d_450.png

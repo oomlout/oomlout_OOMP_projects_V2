@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15273 > gator UV
 
 - ID: PROJ-SPAR-15273-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15273-STAN-01|
 |Hex ID (short code)|hexID|PRPR15273|
-|Name|name|gator UV|
+|name|name|gator UV|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_UV|
 |gitName|gitName|gator_UV|
 |eagleBoard|eagleBoard|/Hardware/gator_UV.brd|
 |eagleSchem|eagleSchem|/Hardware/gator_UV.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15273/STAN/01/kicadPcb3d_450.png

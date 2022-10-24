@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13679 > Current Sensor Breakout ACS723
 
 - ID: PROJ-SPAR-13679-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13679-STAN-01|
 |Hex ID (short code)|hexID|PRPR13679|
-|Name|name|Current Sensor Breakout ACS723|
+|name|name|Current Sensor Breakout ACS723|
 |gitRepo|gitRepo|https://github.com/sparkfun/Current_Sensor_Breakout-ACS723|
 |gitName|gitName|Current_Sensor_Breakout-ACS723|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ACS723_Current_Sensor_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ACS723_Current_Sensor_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13679/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1900 > Adafruit BMP183 Breakout PCB
 
 - ID: PROJ-ADAF-1900-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1900-STAN-01|
 |Hex ID (short code)|hexID|PRPR1900|
-|Name|name|Adafruit BMP183 Breakout PCB|
+|name|name|Adafruit BMP183 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BMP183-Breakout-PCB|
 |gitName|gitName|Adafruit-BMP183-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit BMP183 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit BMP183 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1900/STAN/01/kicadPcb3d_450.png

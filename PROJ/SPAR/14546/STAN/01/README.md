@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14546 > LilyPad E Sewing Kit
 
 - ID: PROJ-SPAR-14546-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14546-STAN-01|
 |Hex ID (short code)|hexID|PRPR14546|
-|Name|name|LilyPad E Sewing Kit|
+|name|name|LilyPad E Sewing Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_E-Sewing_Kit|
 |gitName|gitName|LilyPad_E-Sewing_Kit|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-E-Sewing-Kit_v15.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-E-Sewing-Kit_v15.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14546/STAN/01/kicadPcb3d_450.png

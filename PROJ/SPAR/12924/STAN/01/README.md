@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12924 > MicroView USB Programmer
 
 - ID: PROJ-SPAR-12924-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12924-STAN-01|
 |Hex ID (short code)|hexID|PRPR12924|
-|Name|name|MicroView USB Programmer|
+|name|name|MicroView USB Programmer|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroView_USB_Programmer|
 |gitName|gitName|MicroView_USB_Programmer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroViewUSB.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroViewUSB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12924/STAN/01/kicadPcb3d_450.png

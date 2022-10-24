@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11736 > FT231X Breakout
 
 - ID: PROJ-SPAR-11736-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11736-STAN-01|
 |Hex ID (short code)|hexID|PRPR11736|
-|Name|name|FT231X Breakout|
+|name|name|FT231X Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/FT231X_Breakout|
 |gitName|gitName|FT231X_Breakout|
 |eagleBoard|eagleBoard|/hardware/ft231x-breakout.brd|
 |eagleSchem|eagleSchem|/hardware/ft231x-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11736/STAN/01/kicadPcb3d_450.png

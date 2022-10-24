@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3501 > Adafruit Gemma M0 PCB
 
 - ID: PROJ-ADAF-3501-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3501-STAN-01|
 |Hex ID (short code)|hexID|PRPR3501|
-|Name|name|Adafruit Gemma M0 PCB|
+|name|name|Adafruit Gemma M0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Gemma-M0-PCB|
 |gitName|gitName|Adafruit-Gemma-M0-PCB|
 |eagleBoard|eagleBoard|/Adafruit Gemma M0.brd|
 |eagleSchem|eagleSchem|/Adafruit Gemma M0.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3501/STAN/01/kicadPcb3d_450.png

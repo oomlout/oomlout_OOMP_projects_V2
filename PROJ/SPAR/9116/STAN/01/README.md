@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9116 > DS1077 Breakout
 
 - ID: PROJ-SPAR-9116-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9116-STAN-01|
 |Hex ID (short code)|hexID|PRPR9116|
-|Name|name|DS1077 Breakout|
+|name|name|DS1077 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/DS1077_Breakout|
 |gitName|gitName|DS1077_Breakout|
 |eagleBoard|eagleBoard|/Hardware/DS1077_breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/DS1077_breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9116/STAN/01/kicadPcb3d_450.png

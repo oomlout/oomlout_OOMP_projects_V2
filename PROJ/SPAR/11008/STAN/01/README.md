@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11008 > LilyPad Vibe Board
 
 - ID: PROJ-SPAR-11008-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11008-STAN-01|
 |Hex ID (short code)|hexID|PRPR11008|
-|Name|name|LilyPad Vibe Board|
+|name|name|LilyPad Vibe Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Vibe_Board|
 |gitName|gitName|LilyPad_Vibe_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad_Vibe_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad_Vibe_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11008/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11561 > RaspiRobot
 
 - ID: PROJ-SPAR-11561-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11561-STAN-01|
 |Hex ID (short code)|hexID|PRPR11561|
-|Name|name|RaspiRobot|
+|name|name|RaspiRobot|
 |gitRepo|gitRepo|https://github.com/sparkfun/RaspiRobot|
 |gitName|gitName|RaspiRobot|
 |eagleBoard|eagleBoard|/hardware/RaspiRobot_Board.brd|
 |eagleSchem|eagleSchem|/hardware/RaspiRobot_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11561/STAN/01/kicadPcb3d_450.png

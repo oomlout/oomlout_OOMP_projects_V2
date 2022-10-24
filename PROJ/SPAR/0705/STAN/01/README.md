@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0705-STAN-01|
 |Hex ID (short code)|hexID|PRPR0705|
-|Name|name|Transceiver Breakout nRF24L01 RP SMA|
+|name|name|Transceiver Breakout nRF24L01 RP SMA|
 |gitRepo|gitRepo|https://github.com/sparkfun/Transceiver_Breakout-nRF24L01_RP-SMA|
 |gitName|gitName|Transceiver_Breakout-nRF24L01_RP-SMA|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Transceiver_Breakout_RPSMA.brd|

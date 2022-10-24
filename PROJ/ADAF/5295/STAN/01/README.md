@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5295 > Adafruit NeoSlider PCB
 
 - ID: PROJ-ADAF-5295-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5295-STAN-01|
 |Hex ID (short code)|hexID|PRPR5295|
-|Name|name|Adafruit NeoSlider PCB|
+|name|name|Adafruit NeoSlider PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoSlider-PCB|
 |gitName|gitName|Adafruit-NeoSlider-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoSlider.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoSlider.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5295/STAN/01/kicadPcb3d_450.png

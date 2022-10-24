@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12013 > Touch Shield
 
 - ID: PROJ-SPAR-12013-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12013-STAN-01|
 |Hex ID (short code)|hexID|PRPR12013|
-|Name|name|Touch Shield|
+|name|name|Touch Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Touch_Shield|
 |gitName|gitName|Touch_Shield|
 |eagleBoard|eagleBoard|/Hardware/Touch_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/Touch_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12013/STAN/01/kicadPcb3d_450.png

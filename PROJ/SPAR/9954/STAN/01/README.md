@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9954 > WiFly Shield
 
 - ID: PROJ-SPAR-9954-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9954-STAN-01|
 |Hex ID (short code)|hexID|PRPR9954|
-|Name|name|WiFly Shield|
+|name|name|WiFly Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/WiFly-Shield|
 |gitName|gitName|WiFly-Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_WiFly_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_WiFly_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9954/STAN/01/kicadPcb3d_450.png

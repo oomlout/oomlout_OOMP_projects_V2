@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-7914-STAN-01|
 |Hex ID (short code)|hexID|PRPR7914|
-|Name|name|ProtoShield Kit|
+|name|name|ProtoShield Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/ProtoShield_Kit|
 |gitName|gitName|ProtoShield_Kit|
 |eagleBoard|eagleBoard|/Hardware/Bare_PCB/Hardware/SparkFun_ProtoShield_Kit.brd|

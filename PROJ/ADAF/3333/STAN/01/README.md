@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3333 > Adafruit Circuit Playground Express PCB
 
 - ID: PROJ-ADAF-3333-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3333-STAN-01|
 |Hex ID (short code)|hexID|PRPR3333|
-|Name|name|Adafruit Circuit Playground Express PCB|
+|name|name|Adafruit Circuit Playground Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Circuit-Playground-Express-PCB|
 |gitName|gitName|Adafruit-Circuit-Playground-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit Circuit Playground Express.brd|
 |eagleSchem|eagleSchem|/Adafruit Circuit Playground Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3333/STAN/01/kicadPcb3d_450.png

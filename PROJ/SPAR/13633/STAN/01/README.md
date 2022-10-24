@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13633 > SparkFun LilyPad Simblee
 
 - ID: PROJ-SPAR-13633-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13633-STAN-01|
 |Hex ID (short code)|hexID|PRPR13633|
-|Name|name|SparkFun LilyPad Simblee|
+|name|name|SparkFun LilyPad Simblee|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_LilyPad_Simblee|
 |gitName|gitName|SparkFun_LilyPad_Simblee|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-Simblee.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-Simblee.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13633/STAN/01/kicadPcb3d_450.png

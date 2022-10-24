@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4888 > Adafruit ItsyBitsy RP2040 PCB
 
 - ID: PROJ-ADAF-4888-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4888-STAN-01|
 |Hex ID (short code)|hexID|PRPR4888|
-|Name|name|Adafruit ItsyBitsy RP2040 PCB|
+|name|name|Adafruit ItsyBitsy RP2040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ItsyBitsy-RP2040-PCB|
 |gitName|gitName|Adafruit-ItsyBitsy-RP2040-PCB|
 |eagleBoard|eagleBoard|/Adafruit ItsyBitsy RP2040.brd|
 |eagleSchem|eagleSchem|/Adafruit ItsyBitsy RP2040.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4888/STAN/01/kicadPcb3d_450.png

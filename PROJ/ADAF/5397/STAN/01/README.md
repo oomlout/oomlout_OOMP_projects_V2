@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5397 > Adafruit Charger BFF PCB
 
 - ID: PROJ-ADAF-5397-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5397-STAN-01|
 |Hex ID (short code)|hexID|PRPR5397|
-|Name|name|Adafruit Charger BFF PCB|
+|name|name|Adafruit Charger BFF PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Charger-BFF-PCB|
 |gitName|gitName|Adafruit-Charger-BFF-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIPoly Charger BFF.brd|
 |eagleSchem|eagleSchem|/Adafruit LIPoly Charger BFF.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5397/STAN/01/kicadPcb3d_450.png

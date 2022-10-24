@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0723-STAN-01|
 |Hex ID (short code)|hexID|PRPR0723|
-|Name|name|Adafruit Perma Proto PCB|
+|name|name|Adafruit Perma Proto PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Perma-Proto-PCB|
 |gitName|gitName|Adafruit-Perma-Proto-PCB|
 |eagleBoard|eagleBoard|/adafruit minty permaproto.brd|

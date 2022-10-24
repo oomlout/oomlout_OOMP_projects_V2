@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5201 > Adafruit IS31FL3741 PCB
 
 - ID: PROJ-ADAF-5201-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5201-STAN-01|
 |Hex ID (short code)|hexID|PRPR5201|
-|Name|name|Adafruit IS31FL3741 PCB|
+|name|name|Adafruit IS31FL3741 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-IS31FL3741-PCB|
 |gitName|gitName|Adafruit-IS31FL3741-PCB|
 |eagleBoard|eagleBoard|/Adafruit IS31FL3741 Matrix.brd|
 |eagleSchem|eagleSchem|/Adafruit IS31FL3741 Matrix.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5201/STAN/01/kicadPcb3d_450.png

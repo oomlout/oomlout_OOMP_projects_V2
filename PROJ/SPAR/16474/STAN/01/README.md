@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16474 > SparkFun Photodetector Breakout MAX30101 Qwiic
 
 - ID: PROJ-SPAR-16474-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16474-STAN-01|
 |Hex ID (short code)|hexID|PRPR16474|
-|Name|name|SparkFun Photodetector Breakout MAX30101 Qwiic|
+|name|name|SparkFun Photodetector Breakout MAX30101 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Photodetector_Breakout_MAX30101_Qwiic|
 |gitName|gitName|SparkFun_Photodetector_Breakout_MAX30101_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MAX30101_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MAX30101_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16474/STAN/01/kicadPcb3d_450.png

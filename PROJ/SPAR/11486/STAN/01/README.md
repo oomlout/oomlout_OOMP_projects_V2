@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11486 > MPU 9150 Breakout
 
 - ID: PROJ-SPAR-11486-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11486-STAN-01|
 |Hex ID (short code)|hexID|PRPR11486|
-|Name|name|MPU 9150 Breakout|
+|name|name|MPU 9150 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPU-9150_Breakout|
 |gitName|gitName|MPU-9150_Breakout|
 |eagleBoard|eagleBoard|/hardware/mpu-9150_breakout.brd|
 |eagleSchem|eagleSchem|/hardware/mpu-9150_breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11486/STAN/01/kicadPcb3d_450.png

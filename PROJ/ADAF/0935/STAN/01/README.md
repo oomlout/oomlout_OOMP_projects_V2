@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0935-STAN-01|
 |Hex ID (short code)|hexID|PRPR0935|
-|Name|name|Adafruit MCP4725 PCB|
+|name|name|Adafruit MCP4725 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MCP4725-PCB|
 |gitName|gitName|Adafruit-MCP4725-PCB|
 |eagleBoard|eagleBoard|/Adafruit MCP4725 Original.brd|

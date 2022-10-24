@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1362 > Adafruit Standalone Capacitive Sensor PCB
 
 - ID: PROJ-ADAF-1362-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1362-STAN-01|
 |Hex ID (short code)|hexID|PRPR1362|
-|Name|name|Adafruit Standalone Capacitive Sensor PCB|
+|name|name|Adafruit Standalone Capacitive Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Standalone-Capacitive-Sensor-PCB|
 |gitName|gitName|Adafruit-Standalone-Capacitive-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit AT42QT1010 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit AT42QT1010 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1362/STAN/01/kicadPcb3d_450.png

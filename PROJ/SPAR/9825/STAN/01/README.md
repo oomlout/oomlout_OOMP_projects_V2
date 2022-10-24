@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9825 > Pocket AVR Programmer
 
 - ID: PROJ-SPAR-9825-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9825-STAN-01|
 |Hex ID (short code)|hexID|PRPR9825|
-|Name|name|Pocket AVR Programmer|
+|name|name|Pocket AVR Programmer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pocket_AVR_Programmer|
 |gitName|gitName|Pocket_AVR_Programmer|
 |eagleBoard|eagleBoard|/Hardware/AVR-Pocket-Programmer.brd|
 |eagleSchem|eagleSchem|/Hardware/AVR-Pocket-Programmer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9825/STAN/01/kicadPcb3d_450.png

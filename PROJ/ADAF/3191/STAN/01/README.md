@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3191 > Adafruit Power Relay FeatherWing PCB
 
 - ID: PROJ-ADAF-3191-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3191-STAN-01|
 |Hex ID (short code)|hexID|PRPR3191|
-|Name|name|Adafruit Power Relay FeatherWing PCB|
+|name|name|Adafruit Power Relay FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Power-Relay-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Power-Relay-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit PowerRelay Wing.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerRelay Wing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3191/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-20000-STAN-01|
 |Hex ID (short code)|hexID|PRPR20000|
-|Name|name|SparkFun RTK Facet|
+|name|name|SparkFun RTK Facet|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_RTK_Facet|
 |gitName|gitName|SparkFun_RTK_Facet|
 |eagleBoard|eagleBoard|/Hardware/Connector/SparkFun RTK Facet - External Connector.brd|

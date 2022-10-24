@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2130 > Adafruit PAM8302 Mono Amplifier PCB
 
 - ID: PROJ-ADAF-2130-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2130-STAN-01|
 |Hex ID (short code)|hexID|PRPR2130|
-|Name|name|Adafruit PAM8302 Mono Amplifier PCB|
+|name|name|Adafruit PAM8302 Mono Amplifier PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PAM8302-Mono-Amplifier-PCB|
 |gitName|gitName|Adafruit-PAM8302-Mono-Amplifier-PCB|
 |eagleBoard|eagleBoard|/Adafruit PAM8302.brd|
 |eagleSchem|eagleSchem|/Adafruit PAM8302.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2130/STAN/01/kicadPcb3d_450.png

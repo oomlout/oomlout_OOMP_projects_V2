@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16919 > Qwiic Alphanumeric Display Breakout
 
 - ID: PROJ-SPAR-16919-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16919-STAN-01|
 |Hex ID (short code)|hexID|PRPR16919|
-|Name|name|Qwiic Alphanumeric Display Breakout|
+|name|name|Qwiic Alphanumeric Display Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Alphanumeric_Display_Breakout|
 |gitName|gitName|Qwiic_Alphanumeric_Display_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Alphanumeric_Display.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Alphanumeric_Display.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16919/STAN/01/kicadPcb3d_450.png

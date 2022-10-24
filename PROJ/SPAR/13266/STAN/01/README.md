@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13266 > MAX31855K Thermocouple Breakout
 
 - ID: PROJ-SPAR-13266-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13266-STAN-01|
 |Hex ID (short code)|hexID|PRPR13266|
-|Name|name|MAX31855K Thermocouple Breakout|
+|name|name|MAX31855K Thermocouple Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MAX31855K_Thermocouple_Breakout|
 |gitName|gitName|MAX31855K_Thermocouple_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Thermocouple_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Thermocouple_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13266/STAN/01/kicadPcb3d_450.png

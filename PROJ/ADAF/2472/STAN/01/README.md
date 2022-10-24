@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2472 > Adafruit BNO055 Breakout PCB
 
 - ID: PROJ-ADAF-2472-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2472-STAN-01|
 |Hex ID (short code)|hexID|PRPR2472|
-|Name|name|Adafruit BNO055 Breakout PCB|
+|name|name|Adafruit BNO055 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BNO055-Breakout-PCB|
 |gitName|gitName|Adafruit-BNO055-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit BNO055 STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit BNO055 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2472/STAN/01/kicadPcb3d_450.png

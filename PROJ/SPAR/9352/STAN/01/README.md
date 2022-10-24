@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9352 > GraphicLCD Serial Backpack
 
 - ID: PROJ-SPAR-9352-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9352-STAN-01|
 |Hex ID (short code)|hexID|PRPR9352|
-|Name|name|GraphicLCD Serial Backpack|
+|name|name|GraphicLCD Serial Backpack|
 |gitRepo|gitRepo|https://github.com/sparkfun/GraphicLCD_Serial_Backpack|
 |gitName|gitName|GraphicLCD_Serial_Backpack|
 |eagleBoard|eagleBoard|/Hardware/Graphic LCD Backpack.brd|
 |eagleSchem|eagleSchem|/Hardware/Graphic LCD Backpack.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9352/STAN/01/kicadPcb3d_450.png

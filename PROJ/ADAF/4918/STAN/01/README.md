@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4918-STAN-01|
 |Hex ID (short code)|hexID|PRPR4918|
-|Name|name|Adafruit TCA8418 PCB|
+|name|name|Adafruit TCA8418 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TCA8418-PCB|
 |gitName|gitName|Adafruit-TCA8418-PCB|
 |eagleBoard|eagleBoard|/Adafruit TCA8418.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8530 > Speed Trap
 
 - ID: PROJ-SPAR-8530-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8530-STAN-01|
 |Hex ID (short code)|hexID|PRPR8530|
-|Name|name|Speed Trap|
+|name|name|Speed Trap|
 |gitRepo|gitRepo|https://github.com/sparkfun/Speed_Trap|
 |gitName|gitName|Speed_Trap|
 |eagleBoard|eagleBoard|/hardware/Large Digit Shield.brd|
 |eagleSchem|eagleSchem|/hardware/Large Digit Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8530/STAN/01/kicadPcb3d_450.png

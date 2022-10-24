@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13157 > Breadboard Power Supply Stick 3.3V 1.8V
 
 - ID: PROJ-SPAR-13157-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13157-STAN-01|
 |Hex ID (short code)|hexID|PRPR13157|
-|Name|name|Breadboard Power Supply Stick 3.3V 1.8V|
+|name|name|Breadboard Power Supply Stick 3.3V 1.8V|
 |gitRepo|gitRepo|https://github.com/sparkfun/Breadboard_Power_Supply_Stick_3.3V-1.8V|
 |gitName|gitName|Breadboard_Power_Supply_Stick_3.3V-1.8V|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Breadboard_Power_Supply-3.3-1.8SMD.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Breadboard_Power_Supply-3.3-1.8SMD.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13157/STAN/01/kicadPcb3d_450.png

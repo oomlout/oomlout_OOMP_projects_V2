@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16467 > SparkFun Humidity Sensor SHTC3
 
 - ID: PROJ-SPAR-16467-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16467-STAN-01|
 |Hex ID (short code)|hexID|PRPR16467|
-|Name|name|SparkFun Humidity Sensor SHTC3|
+|name|name|SparkFun Humidity Sensor SHTC3|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Humidity_Sensor_SHTC3|
 |gitName|gitName|SparkFun_Humidity_Sensor_SHTC3|
 |eagleBoard|eagleBoard|/Hardware/SHTC3 Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SHTC3 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16467/STAN/01/kicadPcb3d_450.png

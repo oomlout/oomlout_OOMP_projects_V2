@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12731 > FT232RL USB Breakout
 
 - ID: PROJ-SPAR-12731-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12731-STAN-01|
 |Hex ID (short code)|hexID|PRPR12731|
-|Name|name|FT232RL USB Breakout|
+|name|name|FT232RL USB Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/FT232RL_USB_Breakout|
 |gitName|gitName|FT232RL_USB_Breakout|
 |eagleBoard|eagleBoard|/Hardware/FT232R-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/FT232R-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12731/STAN/01/kicadPcb3d_450.png

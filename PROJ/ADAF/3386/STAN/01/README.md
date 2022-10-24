@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3386 > Adafruit PiRTC RTC for Raspberry Pi PCB
 
 - ID: PROJ-ADAF-3386-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3386-STAN-01|
 |Hex ID (short code)|hexID|PRPR3386|
-|Name|name|Adafruit PiRTC RTC for Raspberry Pi PCB|
+|name|name|Adafruit PiRTC RTC for Raspberry Pi PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB|
 |gitName|gitName|Adafruit-PiRTC-RTC-for-Raspberry-Pi-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiRTC PCF8523.brd|
 |eagleSchem|eagleSchem|/Adafruit PiRTC PCF8523.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3386/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12702 > Solderable Breadboard Mini
 
 - ID: PROJ-SPAR-12702-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12702-STAN-01|
 |Hex ID (short code)|hexID|PRPR12702|
-|Name|name|Solderable Breadboard Mini|
+|name|name|Solderable Breadboard Mini|
 |gitRepo|gitRepo|https://github.com/sparkfun/Solderable_Breadboard_Mini|
 |gitName|gitName|Solderable_Breadboard_Mini|
 |eagleBoard|eagleBoard|/hardware/solderable_breadboard_mini.brd|
 |eagleSchem|eagleSchem|/hardware/solderable_breadboard_mini.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12702/STAN/01/kicadPcb3d_450.png

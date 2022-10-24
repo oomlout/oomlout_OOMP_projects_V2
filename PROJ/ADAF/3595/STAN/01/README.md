@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3595 > Adafruit APDS9960 Breakout PCB
 
 - ID: PROJ-ADAF-3595-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3595-STAN-01|
 |Hex ID (short code)|hexID|PRPR3595|
-|Name|name|Adafruit APDS9960 Breakout PCB|
+|name|name|Adafruit APDS9960 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-APDS9960-Breakout-PCB|
 |gitName|gitName|Adafruit-APDS9960-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit APDS9960 Proximity Sensor.brd|
 |eagleSchem|eagleSchem|/Adafruit APDS9960 Proximity Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3595/STAN/01/kicadPcb3d_450.png

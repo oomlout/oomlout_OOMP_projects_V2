@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2020 > Adafruit Flora LSM9DS0 9DOF PCB
 
 - ID: PROJ-ADAF-2020-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2020-STAN-01|
 |Hex ID (short code)|hexID|PRPR2020|
-|Name|name|Adafruit Flora LSM9DS0 9DOF PCB|
+|name|name|Adafruit Flora LSM9DS0 9DOF PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-LSM9DS0-9DOF-PCB|
 |gitName|gitName|Adafruit-Flora-LSM9DS0-9DOF-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora LSM9DS0 9DoF.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora LSM9DS0 9DoF.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2020/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5396 > Adafruit VL53L4CD PCB
 
 - ID: PROJ-ADAF-5396-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5396-STAN-01|
 |Hex ID (short code)|hexID|PRPR5396|
-|Name|name|Adafruit VL53L4CD PCB|
+|name|name|Adafruit VL53L4CD PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VL53L4CD-PCB|
 |gitName|gitName|Adafruit-VL53L4CD-PCB|
 |eagleBoard|eagleBoard|/Adafruit VL53L4CD.brd|
 |eagleSchem|eagleSchem|/Adafruit VL53L4CD.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5396/STAN/01/kicadPcb3d_450.png

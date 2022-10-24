@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0497-STAN-01|
 |Hex ID (short code)|hexID|PRPR0497|
-|Name|name|SSOP DIP Adapter 8 Pin|
+|name|name|SSOP DIP Adapter 8 Pin|
 |gitRepo|gitRepo|https://github.com/sparkfun/SSOP-DIP_Adapter_8-Pin|
 |gitName|gitName|SSOP-DIP_Adapter_8-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_adapter-ssop8-v10.brd|

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0449-STAN-01|
 |Hex ID (short code)|hexID|PRPR0449|
-|Name|name|RS232 Shifter SMD|
+|name|name|RS232 Shifter SMD|
 |gitRepo|gitRepo|https://github.com/sparkfun/RS232_Shifter_SMD|
 |gitName|gitName|RS232_Shifter_SMD|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_RS232.brd|

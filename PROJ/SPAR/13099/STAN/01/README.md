@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13099 > Rotary Switch Potentiometer
 
 - ID: PROJ-SPAR-13099-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13099-STAN-01|
 |Hex ID (short code)|hexID|PRPR13099|
-|Name|name|Rotary Switch Potentiometer|
+|name|name|Rotary Switch Potentiometer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Rotary_Switch_Potentiometer|
 |gitName|gitName|Rotary_Switch_Potentiometer|
 |eagleBoard|eagleBoard|/Hardware/Rotary_Switch_Potentiometer.brd|
 |eagleSchem|eagleSchem|/Hardware/Rotary_Switch_Potentiometer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13099/STAN/01/kicadPcb3d_450.png

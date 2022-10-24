@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4393 > Adafruit Mini PiTFT 240x135 TFT PCB
 
 - ID: PROJ-ADAF-4393-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4393-STAN-01|
 |Hex ID (short code)|hexID|PRPR4393|
-|Name|name|Adafruit Mini PiTFT 240x135 TFT PCB|
+|name|name|Adafruit Mini PiTFT 240x135 TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Mini-PiTFT-240x135-TFT-PCB|
 |gitName|gitName|Adafruit-Mini-PiTFT-240x135-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit Mini PiTFT - 135x240 Color TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit Mini PiTFT - 135x240 Color TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4393/STAN/01/kicadPcb3d_450.png

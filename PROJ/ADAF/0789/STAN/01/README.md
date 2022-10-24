@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0789-STAN-01|
 |Hex ID (short code)|hexID|PRPR0789|
-|Name|name|Adafruit PN532 RFID NFC Shield|
+|name|name|Adafruit PN532 RFID NFC Shield|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PN532-RFID-NFC-Shield|
 |gitName|gitName|Adafruit-PN532-RFID-NFC-Shield|
 |eagleBoard|eagleBoard|/Adafruit_PN532_Shield_v1.0.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14348 > Qwiic BME280 CCS811 Combo
 
 - ID: PROJ-SPAR-14348-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14348-STAN-01|
 |Hex ID (short code)|hexID|PRPR14348|
-|Name|name|Qwiic BME280 CCS811 Combo|
+|name|name|Qwiic BME280 CCS811 Combo|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_BME280_CCS811_Combo|
 |gitName|gitName|Qwiic_BME280_CCS811_Combo|
 |eagleBoard|eagleBoard|/Hardware/CSS811_BME280_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/CSS811_BME280_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14348/STAN/01/kicadPcb3d_450.png

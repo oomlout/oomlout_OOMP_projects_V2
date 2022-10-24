@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4870 > Adafruit Neo Trinkey PCB
 
 - ID: PROJ-ADAF-4870-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4870-STAN-01|
 |Hex ID (short code)|hexID|PRPR4870|
-|Name|name|Adafruit Neo Trinkey PCB|
+|name|name|Adafruit Neo Trinkey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Neo-Trinkey-PCB|
 |gitName|gitName|Adafruit-Neo-Trinkey-PCB|
 |eagleBoard|eagleBoard|/Adafruit Neo Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit Neo Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4870/STAN/01/kicadPcb3d_450.png

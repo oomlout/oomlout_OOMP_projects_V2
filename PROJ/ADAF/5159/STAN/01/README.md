@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5159 > Adafruit TCA4307 PCB
 
 - ID: PROJ-ADAF-5159-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5159-STAN-01|
 |Hex ID (short code)|hexID|PRPR5159|
-|Name|name|Adafruit TCA4307 PCB|
+|name|name|Adafruit TCA4307 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TCA4307-PCB|
 |gitName|gitName|Adafruit-TCA4307-PCB|
 |eagleBoard|eagleBoard|/Adafruit TCA4307.brd|
 |eagleSchem|eagleSchem|/Adafruit TCA4307.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5159/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1893 > Adafruit MPL3115A2 PCB
 
 - ID: PROJ-ADAF-1893-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1893-STAN-01|
 |Hex ID (short code)|hexID|PRPR1893|
-|Name|name|Adafruit MPL3115A2 PCB|
+|name|name|Adafruit MPL3115A2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPL3115A2-PCB|
 |gitName|gitName|Adafruit-MPL3115A2-PCB|
 |eagleBoard|eagleBoard|/MPL3115A2_v0.2.brd|
 |eagleSchem|eagleSchem|/MPL3115A2_v0.2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1893/STAN/01/kicadPcb3d_450.png

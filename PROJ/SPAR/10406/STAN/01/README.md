@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10406 > RFID Evaluation Shield
 
 - ID: PROJ-SPAR-10406-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10406-STAN-01|
 |Hex ID (short code)|hexID|PRPR10406|
-|Name|name|RFID Evaluation Shield|
+|name|name|RFID Evaluation Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/RFID_Evaluation_Shield|
 |gitName|gitName|RFID_Evaluation_Shield|
 |eagleBoard|eagleBoard|/Hardware/RFID_Eval_13.56MHz.brd|
 |eagleSchem|eagleSchem|/Hardware/RFID_Eval_13.56MHz.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10406/STAN/01/kicadPcb3d_450.png

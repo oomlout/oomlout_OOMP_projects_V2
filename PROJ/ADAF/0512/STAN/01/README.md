@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0512-STAN-01|
 |Hex ID (short code)|hexID|PRPR0512|
-|Name|name|Adafruit 9 DOF and 10 DOF PCBs|
+|name|name|Adafruit 9 DOF and 10 DOF PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-9-DOF-and-10-DOF-PCBs|
 |gitName|gitName|Adafruit-9-DOF-and-10-DOF-PCBs|
 |eagleBoard|eagleBoard|/Adafuit_10DOF.brd|

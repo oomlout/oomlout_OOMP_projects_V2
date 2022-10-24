@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18721 > RP2040 mikroBUS Dev Board
 
 - ID: PROJ-SPAR-18721-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18721-STAN-01|
 |Hex ID (short code)|hexID|PRPR18721|
-|Name|name|RP2040 mikroBUS Dev Board|
+|name|name|RP2040 mikroBUS Dev Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/RP2040_mikroBUS_Dev_Board|
 |gitName|gitName|RP2040_mikroBUS_Dev_Board|
 |eagleBoard|eagleBoard|/Hardware/RP2040_MikroBUS.brd|
 |eagleSchem|eagleSchem|/Hardware/RP2040_MikroBUS.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18721/STAN/01/kicadPcb3d_450.png

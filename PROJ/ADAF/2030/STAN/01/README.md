@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2030 > Adafruit PowerBoost 1000 PCB
 
 - ID: PROJ-ADAF-2030-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2030-STAN-01|
 |Hex ID (short code)|hexID|PRPR2030|
-|Name|name|Adafruit PowerBoost 1000 PCB|
+|name|name|Adafruit PowerBoost 1000 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PowerBoost-1000-PCB|
 |gitName|gitName|Adafruit-PowerBoost-1000-PCB|
 |eagleBoard|eagleBoard|/Adafruit PowerBoost 1000 Basic.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerBoost 1000 Basic.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2030/STAN/01/kicadPcb3d_450.png

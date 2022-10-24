@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2566 > Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB
 
 - ID: PROJ-ADAF-2566-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2566-STAN-01|
 |Hex ID (short code)|hexID|PRPR2566|
-|Name|name|Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB|
+|name|name|Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB|
 |gitName|gitName|Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora 3JST.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora 3JST.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2566/STAN/01/kicadPcb3d_450.png

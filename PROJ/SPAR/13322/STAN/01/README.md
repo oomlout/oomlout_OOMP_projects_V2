@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13322 > Soil Moisture Sensor
 
 - ID: PROJ-SPAR-13322-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13322-STAN-01|
 |Hex ID (short code)|hexID|PRPR13322|
-|Name|name|Soil Moisture Sensor|
+|name|name|Soil Moisture Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/Soil_Moisture_Sensor|
 |gitName|gitName|Soil_Moisture_Sensor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Soil_Moisture_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Soil_Moisture_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13322/STAN/01/kicadPcb3d_450.png

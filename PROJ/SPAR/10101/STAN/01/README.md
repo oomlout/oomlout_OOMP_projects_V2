@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10101 > Window Comparator
 
 - ID: PROJ-SPAR-10101-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10101-STAN-01|
 |Hex ID (short code)|hexID|PRPR10101|
-|Name|name|Window Comparator|
+|name|name|Window Comparator|
 |gitRepo|gitRepo|https://github.com/sparkfun/Window_Comparator|
 |gitName|gitName|Window_Comparator|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Window_Comparator.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Window_Comparator.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10101/STAN/01/kicadPcb3d_450.png

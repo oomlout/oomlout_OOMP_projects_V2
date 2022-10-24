@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11447 > Wake on shake
 
 - ID: PROJ-SPAR-11447-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11447-STAN-01|
 |Hex ID (short code)|hexID|PRPR11447|
-|Name|name|Wake on shake|
+|name|name|Wake on shake|
 |gitRepo|gitRepo|https://github.com/sparkfun/Wake_on_shake|
 |gitName|gitName|Wake_on_shake|
 |eagleBoard|eagleBoard|/Hardware/ADXL362WakeOnShake.brd|
 |eagleSchem|eagleSchem|/Hardware/ADXL362WakeOnShake.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11447/STAN/01/kicadPcb3d_450.png

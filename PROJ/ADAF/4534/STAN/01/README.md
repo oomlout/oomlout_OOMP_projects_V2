@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4534 > Adafruit Bonsai Buckaroo PCB
 
 - ID: PROJ-ADAF-4534-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4534-STAN-01|
 |Hex ID (short code)|hexID|PRPR4534|
-|Name|name|Adafruit Bonsai Buckaroo PCB|
+|name|name|Adafruit Bonsai Buckaroo PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bonsai-Buckaroo-PCB|
 |gitName|gitName|Adafruit-Bonsai-Buckaroo-PCB|
 |eagleBoard|eagleBoard|/Adafruit Bonsai Buckaroo.brd|
 |eagleSchem|eagleSchem|/Adafruit Bonsai Buckaroo.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4534/STAN/01/kicadPcb3d_450.png

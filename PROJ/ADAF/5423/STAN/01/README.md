@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5423 > Adafruit TSC2007 PCB
 
 - ID: PROJ-ADAF-5423-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5423-STAN-01|
 |Hex ID (short code)|hexID|PRPR5423|
-|Name|name|Adafruit TSC2007 PCB|
+|name|name|Adafruit TSC2007 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TSC2007-PCB|
 |gitName|gitName|Adafruit-TSC2007-PCB|
 |eagleBoard|eagleBoard|/Adafruit TSC2007.brd|
 |eagleSchem|eagleSchem|/Adafruit TSC2007.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5423/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1231 > ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev C
 
 - ID: PROJ-ADAF-1231-STAN-0C
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|0C|
 |Full OOMP ID|oompID|PROJ-ADAF-1231-STAN-0C|
 |Hex ID (short code)|hexID|PRPR1231|
-|Name|name|ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev C|
+|name|name|ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev C|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_ADXL345_PCB|
 |gitName|gitName|Adafruit_ADXL345_PCB|
 |eagleBoard|eagleBoard|ADXL345 STEMMA QT.brd|
 |eagleSchem|eagleSchem|ADXL345 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1231/STAN/0C/kicadPcb3d_450.png

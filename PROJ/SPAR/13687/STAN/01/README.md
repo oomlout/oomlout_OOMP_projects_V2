@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13687 > MyoWare Cable Shield
 
 - ID: PROJ-SPAR-13687-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13687-STAN-01|
 |Hex ID (short code)|hexID|PRPR13687|
-|Name|name|MyoWare Cable Shield|
+|name|name|MyoWare Cable Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MyoWare_Cable_Shield|
 |gitName|gitName|MyoWare_Cable_Shield|
 |eagleBoard|eagleBoard|/Hardware/MyoWare_Cable_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/MyoWare_Cable_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13687/STAN/01/kicadPcb3d_450.png

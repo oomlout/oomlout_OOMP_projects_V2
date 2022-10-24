@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1788 > Adafruit Music Maker MP3 Shield PCB
 
 - ID: PROJ-ADAF-1788-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1788-STAN-01|
 |Hex ID (short code)|hexID|PRPR1788|
-|Name|name|Adafruit Music Maker MP3 Shield PCB|
+|name|name|Adafruit Music Maker MP3 Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Music-Maker-MP3-Shield-PCB|
 |gitName|gitName|Adafruit-Music-Maker-MP3-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit-Music-Maker-MP3-Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit-Music-Maker-MP3-Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1788/STAN/01/kicadPcb3d_450.png

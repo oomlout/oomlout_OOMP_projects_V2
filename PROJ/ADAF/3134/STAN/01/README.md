@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3134 > Adafruit 7x15 CharliePlex LED FeatherWing
 
 - ID: PROJ-ADAF-3134-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3134-STAN-01|
 |Hex ID (short code)|hexID|PRPR3134|
-|Name|name|Adafruit 7x15 CharliePlex LED FeatherWing|
+|name|name|Adafruit 7x15 CharliePlex LED FeatherWing|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing|
 |gitName|gitName|Adafruit-7x15-CharliePlex-LED-FeatherWing|
 |eagleBoard|eagleBoard|/Adafruit CharlieWing.brd|
 |eagleSchem|eagleSchem|/Adafruit CharlieWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3134/STAN/01/kicadPcb3d_450.png

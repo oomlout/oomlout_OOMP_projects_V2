@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3249 > Adafruit NeoPXL8 PCBs
 
 - ID: PROJ-ADAF-3249-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3249-STAN-01|
 |Hex ID (short code)|hexID|PRPR3249|
-|Name|name|Adafruit NeoPXL8 PCBs|
+|name|name|Adafruit NeoPXL8 PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPXL8-PCBs|
 |gitName|gitName|Adafruit-NeoPXL8-PCBs|
 |eagleBoard|eagleBoard|/Adafruit NeoPXL8 Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoPXL8 Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3249/STAN/01/kicadPcb3d_450.png

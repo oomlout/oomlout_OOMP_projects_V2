@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4535 > Adafruit HTS221 PCB
 
 - ID: PROJ-ADAF-4535-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4535-STAN-01|
 |Hex ID (short code)|hexID|PRPR4535|
-|Name|name|Adafruit HTS221 PCB|
+|name|name|Adafruit HTS221 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HTS221-PCB|
 |gitName|gitName|Adafruit-HTS221-PCB|
 |eagleBoard|eagleBoard|/Adafruit_HTS221.brd|
 |eagleSchem|eagleSchem|/Adafruit_HTS221.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4535/STAN/01/kicadPcb3d_450.png

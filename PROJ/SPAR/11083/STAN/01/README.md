@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11083 > FM Tuner Basic Breakout Si4703
 
 - ID: PROJ-SPAR-11083-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11083-STAN-01|
 |Hex ID (short code)|hexID|PRPR11083|
-|Name|name|FM Tuner Basic Breakout Si4703|
+|name|name|FM Tuner Basic Breakout Si4703|
 |gitRepo|gitRepo|https://github.com/sparkfun/FM_Tuner_Basic_Breakout-Si4703|
 |gitName|gitName|FM_Tuner_Basic_Breakout-Si4703|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_FM_Tuner_Basic_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_FM_Tuner_Basic_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11083/STAN/01/kicadPcb3d_450.png

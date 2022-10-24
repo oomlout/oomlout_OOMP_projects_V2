@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5027 > Adafruit MCP9808 Breakout PCB
 
 - ID: PROJ-ADAF-5027-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5027-STAN-01|
 |Hex ID (short code)|hexID|PRPR5027|
-|Name|name|Adafruit MCP9808 Breakout PCB|
+|name|name|Adafruit MCP9808 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MCP9808-Breakout-PCB|
 |gitName|gitName|Adafruit-MCP9808-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit MCP9808 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit MCP9808 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5027/STAN/01/kicadPcb3d_450.png

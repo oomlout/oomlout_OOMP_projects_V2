@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3533 > Adafruit 0.96 160x80 TFT Display Breakout PCB
 
 - ID: PROJ-ADAF-3533-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3533-STAN-01|
 |Hex ID (short code)|hexID|PRPR3533|
-|Name|name|Adafruit 0.96 160x80 TFT Display Breakout PCB|
+|name|name|Adafruit 0.96 160x80 TFT Display Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-0.96-160x80-TFT-Display-Breakout-PCB|
 |gitName|gitName|Adafruit-0.96-160x80-TFT-Display-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 0.96in 160x80 TFT Display.brd|
 |eagleSchem|eagleSchem|/Adafruit 0.96in 160x80 TFT Display.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3533/STAN/01/kicadPcb3d_450.png

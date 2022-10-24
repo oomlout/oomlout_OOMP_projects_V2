@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12887 > Electric Imp Shield
 
 - ID: PROJ-SPAR-12887-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12887-STAN-01|
 |Hex ID (short code)|hexID|PRPR12887|
-|Name|name|Electric Imp Shield|
+|name|name|Electric Imp Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Electric_Imp_Shield|
 |gitName|gitName|Electric_Imp_Shield|
 |eagleBoard|eagleBoard|/Hardware/electric-imp-shield.brd|
 |eagleSchem|eagleSchem|/Hardware/electric-imp-shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12887/STAN/01/kicadPcb3d_450.png

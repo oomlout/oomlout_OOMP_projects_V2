@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1356 > Adafruit Flora TCS34725 Color Sensor PCB
 
 - ID: PROJ-ADAF-1356-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1356-STAN-01|
 |Hex ID (short code)|hexID|PRPR1356|
-|Name|name|Adafruit Flora TCS34725 Color Sensor PCB|
+|name|name|Adafruit Flora TCS34725 Color Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-TCS34725-Color-Sensor-PCB|
 |gitName|gitName|Adafruit-Flora-TCS34725-Color-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora TCS34725.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora TCS34725.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1356/STAN/01/kicadPcb3d_450.png

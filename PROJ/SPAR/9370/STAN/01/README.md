@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9370 > DC DC Converter Breakout
 
 - ID: PROJ-SPAR-9370-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9370-STAN-01|
 |Hex ID (short code)|hexID|PRPR9370|
-|Name|name|DC DC Converter Breakout|
+|name|name|DC DC Converter Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/DC-DC_Converter_Breakout|
 |gitName|gitName|DC-DC_Converter_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_DC-DC_Converter_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_DC-DC_Converter_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9370/STAN/01/kicadPcb3d_450.png

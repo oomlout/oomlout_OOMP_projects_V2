@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5613-STAN-01|
 |Hex ID (short code)|hexID|PRPR5613|
-|Name|name|Adafruit EYESPI PCB|
+|name|name|Adafruit EYESPI PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-EYESPI-PCB|
 |gitName|gitName|Adafruit-EYESPI-PCB|
 |eagleBoard|eagleBoard|/Adafruit EYESPI Breakout Board.brd|

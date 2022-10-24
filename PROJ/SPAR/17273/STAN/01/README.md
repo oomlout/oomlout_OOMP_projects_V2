@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17273-STAN-01|
 |Hex ID (short code)|hexID|PRPR17273|
-|Name|name|QuickLogic Thing Plus|
+|name|name|QuickLogic Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/QuickLogic_Thing_Plus|
 |gitName|gitName|QuickLogic_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/Board Files/QTPLUS_V2_1.brd|

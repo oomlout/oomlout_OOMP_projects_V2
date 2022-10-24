@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16531 > SparkFun Air Quality Sensor SGP30
 
 - ID: PROJ-SPAR-16531-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16531-STAN-01|
 |Hex ID (short code)|hexID|PRPR16531|
-|Name|name|SparkFun Air Quality Sensor SGP30|
+|name|name|SparkFun Air Quality Sensor SGP30|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Air_Quality_Sensor-SGP30|
 |gitName|gitName|SparkFun_Air_Quality_Sensor-SGP30|
 |eagleBoard|eagleBoard|/Hardware/SGP30 Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SGP30 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16531/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3632 > Adafruit Joy Featherwing PCB
 
 - ID: PROJ-ADAF-3632-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3632-STAN-01|
 |Hex ID (short code)|hexID|PRPR3632|
-|Name|name|Adafruit Joy Featherwing PCB|
+|name|name|Adafruit Joy Featherwing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Joy-Featherwing-PCB|
 |gitName|gitName|Adafruit-Joy-Featherwing-PCB|
 |eagleBoard|eagleBoard|/Joypad FeatherWing rev C.brd|
 |eagleSchem|eagleSchem|/Joypad FeatherWing rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3632/STAN/01/kicadPcb3d_450.png

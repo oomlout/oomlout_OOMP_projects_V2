@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3657 > Adafruit SAMD09 Breakout PCB
 
 - ID: PROJ-ADAF-3657-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3657-STAN-01|
 |Hex ID (short code)|hexID|PRPR3657|
-|Name|name|Adafruit SAMD09 Breakout PCB|
+|name|name|Adafruit SAMD09 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SAMD09-Breakout-PCB|
 |gitName|gitName|Adafruit-SAMD09-Breakout-PCB|
 |eagleBoard|eagleBoard|/ATSAMD09D14 Breakout rev B.brd|
 |eagleSchem|eagleSchem|/ATSAMD09D14 Breakout rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3657/STAN/01/kicadPcb3d_450.png

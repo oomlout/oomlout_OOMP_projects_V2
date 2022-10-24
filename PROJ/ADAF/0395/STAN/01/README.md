@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0395-STAN-01|
 |Hex ID (short code)|hexID|PRPR0395|
-|Name|name|Adafruit TXB0108 PCB|
+|name|name|Adafruit TXB0108 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TXB0108-PCB|
 |gitName|gitName|Adafruit-TXB0108-PCB|
 |eagleBoard|eagleBoard|/Adafruit TXB0108.brd|

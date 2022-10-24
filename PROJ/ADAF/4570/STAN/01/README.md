@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4570 > Adafruit DS1841 PCB
 
 - ID: PROJ-ADAF-4570-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4570-STAN-01|
 |Hex ID (short code)|hexID|PRPR4570|
-|Name|name|Adafruit DS1841 PCB|
+|name|name|Adafruit DS1841 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DS1841-PCB|
 |gitName|gitName|Adafruit-DS1841-PCB|
 |eagleBoard|eagleBoard|/DS1841 rev A.brd|
 |eagleSchem|eagleSchem|/DS1841 rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4570/STAN/01/kicadPcb3d_450.png

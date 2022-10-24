@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16829 > MicroMod Data Logging Carrier
 
 - ID: PROJ-SPAR-16829-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16829-STAN-01|
 |Hex ID (short code)|hexID|PRPR16829|
-|Name|name|MicroMod Data Logging Carrier|
+|name|name|MicroMod Data Logging Carrier|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Data_Logging_Carrier|
 |gitName|gitName|MicroMod_Data_Logging_Carrier|
 |eagleBoard|eagleBoard|/Hardware/MicroMod-Datalogging-CarrierBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod-Datalogging-CarrierBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16829/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3654 > Adafruit WINC1500 Shield PCB
 
 - ID: PROJ-ADAF-3654-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3654-STAN-01|
 |Hex ID (short code)|hexID|PRPR3654|
-|Name|name|Adafruit WINC1500 Shield PCB|
+|name|name|Adafruit WINC1500 Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-WINC1500-Shield-PCB|
 |gitName|gitName|Adafruit-WINC1500-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit Winc1500 Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit Winc1500 Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3654/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4600 > Adafruit QT Py PCB
 
 - ID: PROJ-ADAF-4600-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4600-STAN-01|
 |Hex ID (short code)|hexID|PRPR4600|
-|Name|name|Adafruit QT Py PCB|
+|name|name|Adafruit QT Py PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-QT-Py-PCB|
 |gitName|gitName|Adafruit-QT-Py-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT Py.brd|
 |eagleSchem|eagleSchem|/Adafruit QT Py.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4600/STAN/01/kicadPcb3d_450.png

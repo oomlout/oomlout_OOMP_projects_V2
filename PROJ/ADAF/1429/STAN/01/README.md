@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1429 > Adafruit TLC5947 PCB
 
 - ID: PROJ-ADAF-1429-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1429-STAN-01|
 |Hex ID (short code)|hexID|PRPR1429|
-|Name|name|Adafruit TLC5947 PCB|
+|name|name|Adafruit TLC5947 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TLC5947-PCB|
 |gitName|gitName|Adafruit-TLC5947-PCB|
 |eagleBoard|eagleBoard|/Adafruit TLC5947.brd|
 |eagleSchem|eagleSchem|/Adafruit TLC5947.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1429/STAN/01/kicadPcb3d_450.png

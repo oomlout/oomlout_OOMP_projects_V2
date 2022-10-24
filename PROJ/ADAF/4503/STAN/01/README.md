@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4503-STAN-01|
 |Hex ID (short code)|hexID|PRPR4503|
-|Name|name|Adafruit LSM6DS3TR C PCB|
+|name|name|Adafruit LSM6DS3TR C PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DS3TR-C-PCB|
 |gitName|gitName|Adafruit-LSM6DS3TR-C-PCB|
 |eagleBoard|eagleBoard|/Adafruit_LSM6DS3.brd|

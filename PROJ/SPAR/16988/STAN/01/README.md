@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16988 > QwiicBus EndPoint
 
 - ID: PROJ-SPAR-16988-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16988-STAN-01|
 |Hex ID (short code)|hexID|PRPR16988|
-|Name|name|QwiicBus EndPoint|
+|name|name|QwiicBus EndPoint|
 |gitRepo|gitRepo|https://github.com/sparkfun/QwiicBus_EndPoint|
 |gitName|gitName|QwiicBus_EndPoint|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_QwiicBus_Endpoint.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_QwiicBus_Endpoint.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16988/STAN/01/kicadPcb3d_450.png

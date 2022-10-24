@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10587 > Music Instrument Shield
 
 - ID: PROJ-SPAR-10587-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10587-STAN-01|
 |Hex ID (short code)|hexID|PRPR10587|
-|Name|name|Music Instrument Shield|
+|name|name|Music Instrument Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Music_Instrument_Shield|
 |gitName|gitName|Music_Instrument_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Music_Instrument_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Music_Instrument_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10587/STAN/01/kicadPcb3d_450.png

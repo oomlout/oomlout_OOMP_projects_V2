@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9454 > QRE1113 Line Sensor Breakout Digital
 
 - ID: PROJ-SPAR-9454-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9454-STAN-01|
 |Hex ID (short code)|hexID|PRPR9454|
-|Name|name|QRE1113 Line Sensor Breakout Digital|
+|name|name|QRE1113 Line Sensor Breakout Digital|
 |gitRepo|gitRepo|https://github.com/sparkfun/QRE1113_Line_Sensor_Breakout-Digital|
 |gitName|gitName|QRE1113_Line_Sensor_Breakout-Digital|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_QRE1113_Line_Sensor_Breakout_Digital.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_QRE1113_Line_Sensor_Breakout_Digital.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9454/STAN/01/kicadPcb3d_450.png

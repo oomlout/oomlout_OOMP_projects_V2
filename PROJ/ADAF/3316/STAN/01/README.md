@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3316 > Adafruit VL6180X ToF Distance Sensor PCB
 
 - ID: PROJ-ADAF-3316-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3316-STAN-01|
 |Hex ID (short code)|hexID|PRPR3316|
-|Name|name|Adafruit VL6180X ToF Distance Sensor PCB|
+|name|name|Adafruit VL6180X ToF Distance Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VL6180X-ToF-Distance-Sensor-PCB|
 |gitName|gitName|Adafruit-VL6180X-ToF-Distance-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit VL6180 Time of Flight Sensor.brd|
 |eagleSchem|eagleSchem|/Adafruit VL6180 Time of Flight Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3316/STAN/01/kicadPcb3d_450.png

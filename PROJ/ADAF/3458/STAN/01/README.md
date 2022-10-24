@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3458 > Adafruit Feather 328P PCB
 
 - ID: PROJ-ADAF-3458-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3458-STAN-01|
 |Hex ID (short code)|hexID|PRPR3458|
-|Name|name|Adafruit Feather 328P PCB|
+|name|name|Adafruit Feather 328P PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-328P-PCB|
 |gitName|gitName|Adafruit-Feather-328P-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather 328P.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather 328P.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3458/STAN/01/kicadPcb3d_450.png

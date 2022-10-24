@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13037 > Edison Battery Block
 
 - ID: PROJ-SPAR-13037-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13037-STAN-01|
 |Hex ID (short code)|hexID|PRPR13037|
-|Name|name|Edison Battery Block|
+|name|name|Edison Battery Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_Battery_Block|
 |gitName|gitName|Edison_Battery_Block|
 |eagleBoard|eagleBoard|/Hardware/Battery_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/Battery_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13037/STAN/01/kicadPcb3d_450.png

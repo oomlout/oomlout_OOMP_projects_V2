@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5302 > Adafruit KB2040 PCB
 
 - ID: PROJ-ADAF-5302-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5302-STAN-01|
 |Hex ID (short code)|hexID|PRPR5302|
-|Name|name|Adafruit KB2040 PCB|
+|name|name|Adafruit KB2040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-KB2040-PCB|
 |gitName|gitName|Adafruit-KB2040-PCB|
 |eagleBoard|eagleBoard|/Adafruit KB2040.brd|
 |eagleSchem|eagleSchem|/Adafruit KB2040.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5302/STAN/01/kicadPcb3d_450.png

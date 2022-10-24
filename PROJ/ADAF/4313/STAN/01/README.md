@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4313 > Adafruit 1.3 inch 240x240 TFT PCB
 
 - ID: PROJ-ADAF-4313-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4313-STAN-01|
 |Hex ID (short code)|hexID|PRPR4313|
-|Name|name|Adafruit 1.3 inch 240x240 TFT PCB|
+|name|name|Adafruit 1.3 inch 240x240 TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.3-inch-240x240-TFT-PCB|
 |gitName|gitName|Adafruit-1.3-inch-240x240-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.3in 240x240 IPS TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.3in 240x240 IPS TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4313/STAN/01/kicadPcb3d_450.png

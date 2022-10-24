@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4481 > Adafruit ItsyBitsy nRF52840 Express PCB
 
 - ID: PROJ-ADAF-4481-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4481-STAN-01|
 |Hex ID (short code)|hexID|PRPR4481|
-|Name|name|Adafruit ItsyBitsy nRF52840 Express PCB|
+|name|name|Adafruit ItsyBitsy nRF52840 Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ItsyBitsy-nRF52840-Express-PCB|
 |gitName|gitName|Adafruit-ItsyBitsy-nRF52840-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit ItsyBitsy nRF52840 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit ItsyBitsy nRF52840 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4481/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4407 > Adafruit MLX90640 PCB
 
 - ID: PROJ-ADAF-4407-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4407-STAN-01|
 |Hex ID (short code)|hexID|PRPR4407|
-|Name|name|Adafruit MLX90640 PCB|
+|name|name|Adafruit MLX90640 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MLX90640-PCB|
 |gitName|gitName|Adafruit-MLX90640-PCB|
 |eagleBoard|eagleBoard|/Adafruit MLX90640 IR Thermal Camera.brd|
 |eagleSchem|eagleSchem|/Adafruit MLX90640 IR Thermal Camera.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4407/STAN/01/kicadPcb3d_450.png

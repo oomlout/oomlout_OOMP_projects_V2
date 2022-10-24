@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13281 > Load Sensor Combinator
 
 - ID: PROJ-SPAR-13281-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13281-STAN-01|
 |Hex ID (short code)|hexID|PRPR13281|
-|Name|name|Load Sensor Combinator|
+|name|name|Load Sensor Combinator|
 |gitRepo|gitRepo|https://github.com/sparkfun/Load_Sensor_Combinator|
 |gitName|gitName|Load_Sensor_Combinator|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Load Sensor Combinator.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Load Sensor Combinator.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13281/STAN/01/kicadPcb3d_450.png

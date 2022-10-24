@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11259 > LilyPad Power Supply
 
 - ID: PROJ-SPAR-11259-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11259-STAN-01|
 |Hex ID (short code)|hexID|PRPR11259|
-|Name|name|LilyPad Power Supply|
+|name|name|LilyPad Power Supply|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Power_Supply|
 |gitName|gitName|LilyPad_Power_Supply|
 |eagleBoard|eagleBoard|/Hardware/Lilypad_Power_Supply.brd|
 |eagleSchem|eagleSchem|/Hardware/Lilypad_Power_Supply.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11259/STAN/01/kicadPcb3d_450.png

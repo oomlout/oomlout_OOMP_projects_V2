@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5309 > Adafruit MSA311 PCB
 
 - ID: PROJ-ADAF-5309-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5309-STAN-01|
 |Hex ID (short code)|hexID|PRPR5309|
-|Name|name|Adafruit MSA311 PCB|
+|name|name|Adafruit MSA311 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_MSA311_PCB|
 |gitName|gitName|Adafruit_MSA311_PCB|
 |eagleBoard|eagleBoard|/Adafruit MSA311.brd|
 |eagleSchem|eagleSchem|/Adafruit MSA311.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5309/STAN/01/kicadPcb3d_450.png

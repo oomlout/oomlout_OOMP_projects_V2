@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4279 > Adafruit Ultimate GPS
 
 - ID: PROJ-ADAF-4279-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4279-STAN-01|
 |Hex ID (short code)|hexID|PRPR4279|
-|Name|name|Adafruit Ultimate GPS|
+|name|name|Adafruit Ultimate GPS|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Ultimate-GPS|
 |gitName|gitName|Adafruit-Ultimate-GPS|
 |eagleBoard|eagleBoard|/Adafruit Ultimate GPS Featherwing.brd|
 |eagleSchem|eagleSchem|/Adafruit Ultimate GPS Featherwing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4279/STAN/01/kicadPcb3d_450.png

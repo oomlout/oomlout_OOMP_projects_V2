@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3006 > Adafruit MAX98357 I2S Amp Breakout
 
 - ID: PROJ-ADAF-3006-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3006-STAN-01|
 |Hex ID (short code)|hexID|PRPR3006|
-|Name|name|Adafruit MAX98357 I2S Amp Breakout|
+|name|name|Adafruit MAX98357 I2S Amp Breakout|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX98357-I2S-Amp-Breakout|
 |gitName|gitName|Adafruit-MAX98357-I2S-Amp-Breakout|
 |eagleBoard|eagleBoard|/Adafruit MAX98357 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit MAX98357 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3006/STAN/01/kicadPcb3d_450.png

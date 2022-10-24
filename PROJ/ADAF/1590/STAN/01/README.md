@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1590 > Adafruit RA8875 Breakout Board PCB
 
 - ID: PROJ-ADAF-1590-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1590-STAN-01|
 |Hex ID (short code)|hexID|PRPR1590|
-|Name|name|Adafruit RA8875 Breakout Board PCB|
+|name|name|Adafruit RA8875 Breakout Board PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RA8875-Breakout-Board-PCB|
 |gitName|gitName|Adafruit-RA8875-Breakout-Board-PCB|
 |eagleBoard|eagleBoard|/Adafruit RA8875 TFT Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit RA8875 TFT Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1590/STAN/01/kicadPcb3d_450.png

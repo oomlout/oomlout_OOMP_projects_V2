@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17745 > SparkFun Thing Plus RP2040
 
 - ID: PROJ-SPAR-17745-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17745-STAN-01|
 |Hex ID (short code)|hexID|PRPR17745|
-|Name|name|SparkFun Thing Plus RP2040|
+|name|name|SparkFun Thing Plus RP2040|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Thing_Plus-RP2040|
 |gitName|gitName|SparkFun_Thing_Plus-RP2040|
 |eagleBoard|eagleBoard|/Hardware/RP2040_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/RP2040_Thing_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17745/STAN/01/kicadPcb3d_450.png

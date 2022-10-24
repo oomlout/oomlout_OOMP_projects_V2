@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18354 > SparkFun Qwiic LED Stick
 
 - ID: PROJ-SPAR-18354-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18354-STAN-01|
 |Hex ID (short code)|hexID|PRPR18354|
-|Name|name|SparkFun Qwiic LED Stick|
+|name|name|SparkFun Qwiic LED Stick|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_LED_Stick|
 |gitName|gitName|SparkFun_Qwiic_LED_Stick|
 |eagleBoard|eagleBoard|/Hardware/Qwiic LED Stick.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic LED Stick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18354/STAN/01/kicadPcb3d_450.png

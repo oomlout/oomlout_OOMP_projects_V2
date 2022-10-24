@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10588 > Audio Jack Breakout
 
 - ID: PROJ-SPAR-10588-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10588-STAN-01|
 |Hex ID (short code)|hexID|PRPR10588|
-|Name|name|Audio Jack Breakout|
+|name|name|Audio Jack Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Audio_Jack_Breakout|
 |gitName|gitName|Audio_Jack_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Audio_Jack_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Audio_Jack_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10588/STAN/01/kicadPcb3d_450.png

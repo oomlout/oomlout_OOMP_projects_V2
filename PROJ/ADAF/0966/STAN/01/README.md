@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0966-STAN-01|
 |Hex ID (short code)|hexID|PRPR0966|
-|Name|name|Adafruit Low profile microSD to SD Adapter PCB|
+|name|name|Adafruit Low profile microSD to SD Adapter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Low-profile-microSD-to-SD-Adapter-PCB|
 |gitName|gitName|Adafruit-Low-profile-microSD-to-SD-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Pi SD Card Adapter.brd|

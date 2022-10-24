@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4438 > Adafruit LSM6DSOX PCB
 
 - ID: PROJ-ADAF-4438-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4438-STAN-01|
 |Hex ID (short code)|hexID|PRPR4438|
-|Name|name|Adafruit LSM6DSOX PCB|
+|name|name|Adafruit LSM6DSOX PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DSOX-PCB|
 |gitName|gitName|Adafruit-LSM6DSOX-PCB|
 |eagleBoard|eagleBoard|/Adafruit_LSM6DSOX.brd|
 |eagleSchem|eagleSchem|/Adafruit_LSM6DSOX.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4438/STAN/01/kicadPcb3d_450.png

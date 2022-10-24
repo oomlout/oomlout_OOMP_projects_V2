@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0269-STAN-01|
 |Hex ID (short code)|hexID|PRPR0269|
-|Name|name|Adafruit MAX31855 breakout board|
+|name|name|Adafruit MAX31855 breakout board|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX31855-breakout-board|
 |gitName|gitName|Adafruit-MAX31855-breakout-board|
 |eagleBoard|eagleBoard|/Adafruit_MAX31855 v2.brd|

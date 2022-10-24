@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14606 > Flexible Grayscale OLED
 
 - ID: PROJ-SPAR-14606-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14606-STAN-01|
 |Hex ID (short code)|hexID|PRPR14606|
-|Name|name|Flexible Grayscale OLED|
+|name|name|Flexible Grayscale OLED|
 |gitRepo|gitRepo|https://github.com/sparkfun/Flexible_Grayscale_OLED|
 |gitName|gitName|Flexible_Grayscale_OLED|
 |eagleBoard|eagleBoard|/Hardware/1.81_Grayscale_OLED_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/1.81_Grayscale_OLED_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14606/STAN/01/kicadPcb3d_450.png

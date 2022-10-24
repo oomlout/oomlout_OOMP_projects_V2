@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13038 > Edison GPIO Block
 
 - ID: PROJ-SPAR-13038-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13038-STAN-01|
 |Hex ID (short code)|hexID|PRPR13038|
-|Name|name|Edison GPIO Block|
+|name|name|Edison GPIO Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_GPIO_Block|
 |gitName|gitName|Edison_GPIO_Block|
 |eagleBoard|eagleBoard|/Hardware/GPIO_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/GPIO_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13038/STAN/01/kicadPcb3d_450.png

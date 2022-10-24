@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13006 > Decade Resistance Box
 
 - ID: PROJ-SPAR-13006-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13006-STAN-01|
 |Hex ID (short code)|hexID|PRPR13006|
-|Name|name|Decade Resistance Box|
+|name|name|Decade Resistance Box|
 |gitRepo|gitRepo|https://github.com/sparkfun/Decade_Resistance_Box|
 |gitName|gitName|Decade_Resistance_Box|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_decade_resistance_box.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_decade_resistance_box.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13006/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5591-STAN-01|
 |Hex ID (short code)|hexID|PRPR5591|
-|Name|name|Adafruit LTR 329 LTR 303 PCB|
+|name|name|Adafruit LTR 329 LTR 303 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LTR-329-LTR-303-PCB|
 |gitName|gitName|Adafruit-LTR-329-LTR-303-PCB|
 |eagleBoard|eagleBoard|/Adafruit LTR-303.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3133 > Adafruit Ultimate GPS FeatherWing PCB
 
 - ID: PROJ-ADAF-3133-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3133-STAN-01|
 |Hex ID (short code)|hexID|PRPR3133|
-|Name|name|Adafruit Ultimate GPS FeatherWing PCB|
+|name|name|Adafruit Ultimate GPS FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Ultimate-GPS-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Ultimate-GPS-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit Ultimate GPS FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit Ultimate GPS FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3133/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11629 > Serial7SegmentDisplay
 
 - ID: PROJ-SPAR-11629-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11629-STAN-01|
 |Hex ID (short code)|hexID|PRPR11629|
-|Name|name|Serial7SegmentDisplay|
+|name|name|Serial7SegmentDisplay|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial7SegmentDisplay|
 |gitName|gitName|Serial7SegmentDisplay|
 |eagleBoard|eagleBoard|/hardware/Serial-7-Segment-Display.brd|
 |eagleSchem|eagleSchem|/hardware/Serial-7-Segment-Display.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11629/STAN/01/kicadPcb3d_450.png

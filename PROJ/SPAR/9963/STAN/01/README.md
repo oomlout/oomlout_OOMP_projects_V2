@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9963 > RFID USB Reader
 
 - ID: PROJ-SPAR-9963-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9963-STAN-01|
 |Hex ID (short code)|hexID|PRPR9963|
-|Name|name|RFID USB Reader|
+|name|name|RFID USB Reader|
 |gitRepo|gitRepo|https://github.com/sparkfun/RFID_USB_Reader|
 |gitName|gitName|RFID_USB_Reader|
 |eagleBoard|eagleBoard|/Hardware/RFID_USB_Reader-v18.brd|
 |eagleSchem|eagleSchem|/Hardware/RFID_USB_Reader-v18.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9963/STAN/01/kicadPcb3d_450.png

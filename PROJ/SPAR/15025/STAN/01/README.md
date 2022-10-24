@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15025 > nRF52840 Breakout MDBT50Q
 
 - ID: PROJ-SPAR-15025-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15025-STAN-01|
 |Hex ID (short code)|hexID|PRPR15025|
-|Name|name|nRF52840 Breakout MDBT50Q|
+|name|name|nRF52840 Breakout MDBT50Q|
 |gitRepo|gitRepo|https://github.com/sparkfun/nRF52840_Breakout_MDBT50Q|
 |gitName|gitName|nRF52840_Breakout_MDBT50Q|
 |eagleBoard|eagleBoard|/Hardware/nrf52840-breakout-mdbt50q.brd|
 |eagleSchem|eagleSchem|/Hardware/nrf52840-breakout-mdbt50q.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15025/STAN/01/kicadPcb3d_450.png

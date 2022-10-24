@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9569 > Humidity Sensor Breakout HIH 4030
 
 - ID: PROJ-SPAR-9569-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9569-STAN-01|
 |Hex ID (short code)|hexID|PRPR9569|
-|Name|name|Humidity Sensor Breakout HIH 4030|
+|name|name|Humidity Sensor Breakout HIH 4030|
 |gitRepo|gitRepo|https://github.com/sparkfun/Humidity_Sensor_Breakout-HIH-4030|
 |gitName|gitName|Humidity_Sensor_Breakout-HIH-4030|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Humidity_Sensor_Breakout-HIH-4030.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Humidity_Sensor_Breakout-HIH-4030.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9569/STAN/01/kicadPcb3d_450.png

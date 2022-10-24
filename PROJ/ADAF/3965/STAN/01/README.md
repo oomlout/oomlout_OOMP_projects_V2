@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3965 > Adafruit MPRLS Pressure Sensor Breakout PCB
 
 - ID: PROJ-ADAF-3965-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3965-STAN-01|
 |Hex ID (short code)|hexID|PRPR3965|
-|Name|name|Adafruit MPRLS Pressure Sensor Breakout PCB|
+|name|name|Adafruit MPRLS Pressure Sensor Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB|
 |gitName|gitName|Adafruit-MPRLS-Pressure-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPR pressure sensor.brd|
 |eagleSchem|eagleSchem|/Adafruit MPR pressure sensor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3965/STAN/01/kicadPcb3d_450.png

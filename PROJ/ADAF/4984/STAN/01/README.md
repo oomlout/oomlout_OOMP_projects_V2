@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4984 > Adafruit DVI Breakout Board PCB
 
 - ID: PROJ-ADAF-4984-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4984-STAN-01|
 |Hex ID (short code)|hexID|PRPR4984|
-|Name|name|Adafruit DVI Breakout Board PCB|
+|name|name|Adafruit DVI Breakout Board PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DVI-Breakout-Board-PCB|
 |gitName|gitName|Adafruit-DVI-Breakout-Board-PCB|
 |eagleBoard|eagleBoard|/Adafruit DVI Breakout board.brd|
 |eagleSchem|eagleSchem|/Adafruit DVI Breakout board.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4984/STAN/01/kicadPcb3d_450.png

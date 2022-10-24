@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9614 > USB microB Breakout Board
 
 - ID: PROJ-SPAR-9614-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9614-STAN-01|
 |Hex ID (short code)|hexID|PRPR9614|
-|Name|name|USB microB Breakout Board|
+|name|name|USB microB Breakout Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_microB_Breakout_Board|
 |gitName|gitName|USB_microB_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/Breakout Board for USB microB.brd|
 |eagleSchem|eagleSchem|/Hardware/Breakout Board for USB microB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9614/STAN/01/kicadPcb3d_450.png

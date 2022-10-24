@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0496-STAN-01|
 |Hex ID (short code)|hexID|PRPR0496|
-|Name|name|SOIC28 DIP Adapter|
+|name|name|SOIC28 DIP Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/SOIC28-DIP_Adapter|
 |gitName|gitName|SOIC28-DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOIC28-DIP-Adapter-v10.brd|

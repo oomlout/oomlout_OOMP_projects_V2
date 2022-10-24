@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13911 > Serial Controlled Motor Driver
 
 - ID: PROJ-SPAR-13911-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13911-STAN-01|
 |Hex ID (short code)|hexID|PRPR13911|
-|Name|name|Serial Controlled Motor Driver|
+|name|name|Serial Controlled Motor Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial_Controlled_Motor_Driver|
 |gitName|gitName|Serial_Controlled_Motor_Driver|
 |eagleBoard|eagleBoard|/Hardware/Serial Controlled Motor Driver.brd|
 |eagleSchem|eagleSchem|/Hardware/Serial Controlled Motor Driver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13911/STAN/01/kicadPcb3d_450.png

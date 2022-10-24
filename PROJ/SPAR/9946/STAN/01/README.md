@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9946 > Energy Harvester Breakout LTC3588
 
 - ID: PROJ-SPAR-9946-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9946-STAN-01|
 |Hex ID (short code)|hexID|PRPR9946|
-|Name|name|Energy Harvester Breakout LTC3588|
+|name|name|Energy Harvester Breakout LTC3588|
 |gitRepo|gitRepo|https://github.com/sparkfun/Energy_Harvester_Breakout-LTC3588|
 |gitName|gitName|Energy_Harvester_Breakout-LTC3588|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Energy_Harvester_Breakout-LTC3588.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Energy_Harvester_Breakout-LTC3588.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9946/STAN/01/kicadPcb3d_450.png

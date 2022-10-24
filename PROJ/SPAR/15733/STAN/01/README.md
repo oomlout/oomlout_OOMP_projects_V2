@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15733-STAN-01|
 |Hex ID (short code)|hexID|PRPR15733|
-|Name|name|SparkFun u Blox NEO M9N|
+|name|name|SparkFun u Blox NEO M9N|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-Blox_NEO_M9N|
 |gitName|gitName|SparkFun_u-Blox_NEO_M9N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun GPS NEO_M9N_Chip_Antenna/SparkFun GPS NEO_M9N_ANT.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4863 > Adafruit CYBERDECK PCB
 
 - ID: PROJ-ADAF-4863-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4863-STAN-01|
 |Hex ID (short code)|hexID|PRPR4863|
-|Name|name|Adafruit CYBERDECK PCB|
+|name|name|Adafruit CYBERDECK PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CYBERDECK-PCB|
 |gitName|gitName|Adafruit-CYBERDECK-PCB|
 |eagleBoard|eagleBoard|/Adafruit CyberDeck Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit CyberDeck Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4863/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1958 > Adafruit Si4713 PCB
 
 - ID: PROJ-ADAF-1958-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1958-STAN-01|
 |Hex ID (short code)|hexID|PRPR1958|
-|Name|name|Adafruit Si4713 PCB|
+|name|name|Adafruit Si4713 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Si4713-PCB|
 |gitName|gitName|Adafruit-Si4713-PCB|
 |eagleBoard|eagleBoard|/Adafruit Si471x PCB.brd|
 |eagleSchem|eagleSchem|/Adafruit Si471x PCB.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1958/STAN/01/kicadPcb3d_450.png

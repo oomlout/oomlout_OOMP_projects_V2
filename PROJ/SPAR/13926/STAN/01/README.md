@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13926 > MMA8452 Accelerometer
 
 - ID: PROJ-SPAR-13926-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13926-STAN-01|
 |Hex ID (short code)|hexID|PRPR13926|
-|Name|name|MMA8452 Accelerometer|
+|name|name|MMA8452 Accelerometer|
 |gitRepo|gitRepo|https://github.com/sparkfun/MMA8452_Accelerometer|
 |gitName|gitName|MMA8452_Accelerometer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MMA8452Q-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MMA8452Q-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13926/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13058 > MiP ProMini Pack
 
 - ID: PROJ-SPAR-13058-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13058-STAN-01|
 |Hex ID (short code)|hexID|PRPR13058|
-|Name|name|MiP ProMini Pack|
+|name|name|MiP ProMini Pack|
 |gitRepo|gitRepo|https://github.com/sparkfun/MiP_ProMini-Pack|
 |gitName|gitName|MiP_ProMini-Pack|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_MiP_ProMini-Pack.brd|
 |eagleSchem|eagleSchem|/Hardware/Sparkfun_MiP_ProMini-Pack.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13058/STAN/01/kicadPcb3d_450.png

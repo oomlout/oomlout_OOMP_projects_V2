@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0572-STAN-01|
 |Hex ID (short code)|hexID|PRPR0572|
-|Name|name|Adafruit BeagleBone ProtoBoard PCB|
+|name|name|Adafruit BeagleBone ProtoBoard PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BeagleBone-ProtoBoard-PCB|
 |gitName|gitName|Adafruit-BeagleBone-ProtoBoard-PCB|
 |eagleBoard|eagleBoard|/Adafruit-BeagleBone-ProtoBoard-v0.1.brd|

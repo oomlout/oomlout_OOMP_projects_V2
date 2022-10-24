@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3467 > Adafruit CharliePlex Bonnet PCBs
 
 - ID: PROJ-ADAF-3467-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3467-STAN-01|
 |Hex ID (short code)|hexID|PRPR3467|
-|Name|name|Adafruit CharliePlex Bonnet PCBs|
+|name|name|Adafruit CharliePlex Bonnet PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CharliePlex-Bonnet-PCBs|
 |gitName|gitName|Adafruit-CharliePlex-Bonnet-PCBs|
 |eagleBoard|eagleBoard|/Adafruit CharliePlex Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit CharliePlex Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3467/STAN/01/kicadPcb3d_450.png

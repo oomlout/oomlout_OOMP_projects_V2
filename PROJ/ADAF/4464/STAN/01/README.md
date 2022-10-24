@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4464 > Adafruit ICM20649 PCB
 
 - ID: PROJ-ADAF-4464-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4464-STAN-01|
 |Hex ID (short code)|hexID|PRPR4464|
-|Name|name|Adafruit ICM20649 PCB|
+|name|name|Adafruit ICM20649 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ICM20649-PCB|
 |gitName|gitName|Adafruit-ICM20649-PCB|
 |eagleBoard|eagleBoard|/Adaruit ICM20649.brd|
 |eagleSchem|eagleSchem|/Adaruit ICM20649.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4464/STAN/01/kicadPcb3d_450.png

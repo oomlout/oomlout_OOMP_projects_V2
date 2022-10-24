@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14747-STAN-01|
 |Hex ID (short code)|hexID|PRPR14747|
-|Name|name|SparkFun Pi AVR Programmer HAT|
+|name|name|SparkFun Pi AVR Programmer HAT|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Pi_AVR_Programmer_HAT|
 |gitName|gitName|SparkFun_Pi_AVR_Programmer_HAT|
 |eagleBoard|eagleBoard|/HARDWARE/ADAPTER/SparkFun_Pi_AVR_Programmer_ADAPTER.brd|

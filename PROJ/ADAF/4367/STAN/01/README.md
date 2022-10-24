@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4367 > Adafruit TFT Gizmo PCB
 
 - ID: PROJ-ADAF-4367-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4367-STAN-01|
 |Hex ID (short code)|hexID|PRPR4367|
-|Name|name|Adafruit TFT Gizmo PCB|
+|name|name|Adafruit TFT Gizmo PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TFT-Gizmo-PCB|
 |gitName|gitName|Adafruit-TFT-Gizmo-PCB|
 |eagleBoard|eagleBoard|/Adafruit Circuit Playground TFT Gizmo.brd|
 |eagleSchem|eagleSchem|/Adafruit Circuit Playground TFT Gizmo.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4367/STAN/01/kicadPcb3d_450.png

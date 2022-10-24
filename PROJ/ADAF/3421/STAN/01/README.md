@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3421 > Adafruit I2S Microphone Breakout PCB
 
 - ID: PROJ-ADAF-3421-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3421-STAN-01|
 |Hex ID (short code)|hexID|PRPR3421|
-|Name|name|Adafruit I2S Microphone Breakout PCB|
+|name|name|Adafruit I2S Microphone Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-I2S-Microphone-Breakout-PCB|
 |gitName|gitName|Adafruit-I2S-Microphone-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit I2S Mic SPK0415HM4H.brd|
 |eagleSchem|eagleSchem|/Adafruit I2S Mic SPK0415HM4H.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3421/STAN/01/kicadPcb3d_450.png

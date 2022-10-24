@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0390-STAN-01|
 |Hex ID (short code)|hexID|PRPR0390|
-|Name|name|USB DC Solar Lithium Ion Polymer charger|
+|name|name|USB DC Solar Lithium Ion Polymer charger|
 |gitRepo|gitRepo|https://github.com/adafruit/USB-DC-Solar-Lithium-Ion-Polymer-charger|
 |gitName|gitName|USB-DC-Solar-Lithium-Ion-Polymer-charger|
 |eagleBoard|eagleBoard|/Adafruit MCP73871 Solar Charger v4.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4314 > Adafruit ATECC608 PCB
 
 - ID: PROJ-ADAF-4314-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4314-STAN-01|
 |Hex ID (short code)|hexID|PRPR4314|
-|Name|name|Adafruit ATECC608 PCB|
+|name|name|Adafruit ATECC608 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ATECC608-PCB|
 |gitName|gitName|Adafruit-ATECC608-PCB|
 |eagleBoard|eagleBoard|/Adafruit ATECC608.brd|
 |eagleSchem|eagleSchem|/Adafruit ATECC608.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4314/STAN/01/kicadPcb3d_450.png

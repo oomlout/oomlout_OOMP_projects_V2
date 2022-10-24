@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11345 > Geiger Counter
 
 - ID: PROJ-SPAR-11345-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11345-STAN-01|
 |Hex ID (short code)|hexID|PRPR11345|
-|Name|name|Geiger Counter|
+|name|name|Geiger Counter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Geiger_Counter|
 |gitName|gitName|Geiger_Counter|
 |eagleBoard|eagleBoard|/Hardware/Geiger_Counter.brd|
 |eagleSchem|eagleSchem|/Hardware/Geiger_Counter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11345/STAN/01/kicadPcb3d_450.png

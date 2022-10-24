@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16476 > MicroPressure Sensor
 
 - ID: PROJ-SPAR-16476-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16476-STAN-01|
 |Hex ID (short code)|hexID|PRPR16476|
-|Name|name|MicroPressure Sensor|
+|name|name|MicroPressure Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroPressure_Sensor|
 |gitName|gitName|MicroPressure_Sensor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroPressure_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroPressure_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16476/STAN/01/kicadPcb3d_450.png

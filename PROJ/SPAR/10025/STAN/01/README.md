@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10025 > EiBotBoard
 
 - ID: PROJ-SPAR-10025-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10025-STAN-01|
 |Hex ID (short code)|hexID|PRPR10025|
-|Name|name|EiBotBoard|
+|name|name|EiBotBoard|
 |gitRepo|gitRepo|https://github.com/sparkfun/EiBotBoard|
 |gitName|gitName|EiBotBoard|
 |eagleBoard|eagleBoard|/Hardware/EiBotBoard-v23.brd|
 |eagleSchem|eagleSchem|/Hardware/EiBotBoard-v23.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10025/STAN/01/kicadPcb3d_450.png

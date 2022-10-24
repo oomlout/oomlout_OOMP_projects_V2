@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1963 > Adafruit FONA 800 GSM Breakout PCB
 
 - ID: PROJ-ADAF-1963-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1963-STAN-01|
 |Hex ID (short code)|hexID|PRPR1963|
-|Name|name|Adafruit FONA 800 GSM Breakout PCB|
+|name|name|Adafruit FONA 800 GSM Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FONA-800-GSM-Breakout-PCB|
 |gitName|gitName|Adafruit-FONA-800-GSM-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit-FONA-800-GSM-Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit-FONA-800-GSM-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1963/STAN/01/kicadPcb3d_450.png

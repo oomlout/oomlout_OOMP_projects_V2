@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12000 > WAV Trigger
 
 - ID: PROJ-SPAR-12000-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12000-STAN-01|
 |Hex ID (short code)|hexID|PRPR12000|
-|Name|name|WAV Trigger|
+|name|name|WAV Trigger|
 |gitRepo|gitRepo|https://github.com/sparkfun/WAV_Trigger|
 |gitName|gitName|WAV_Trigger|
 |eagleBoard|eagleBoard|/hardware/wavtrigger.brd|
 |eagleSchem|eagleSchem|/hardware/wavtrigger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12000/STAN/01/kicadPcb3d_450.png

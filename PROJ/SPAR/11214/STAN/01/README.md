@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11214 > MOSFET Power Controller
 
 - ID: PROJ-SPAR-11214-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11214-STAN-01|
 |Hex ID (short code)|hexID|PRPR11214|
-|Name|name|MOSFET Power Controller|
+|name|name|MOSFET Power Controller|
 |gitRepo|gitRepo|https://github.com/sparkfun/MOSFET_Power_Controller|
 |gitName|gitName|MOSFET_Power_Controller|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MOSFET_Power_Controller.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MOSFET_Power_Controller.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11214/STAN/01/kicadPcb3d_450.png

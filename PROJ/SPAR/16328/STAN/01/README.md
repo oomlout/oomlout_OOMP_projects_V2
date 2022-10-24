@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16328 > SparkFun Auto pHAT
 
 - ID: PROJ-SPAR-16328-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16328-STAN-01|
 |Hex ID (short code)|hexID|PRPR16328|
-|Name|name|SparkFun Auto pHAT|
+|name|name|SparkFun Auto pHAT|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Auto_pHAT|
 |gitName|gitName|SparkFun_Auto_pHAT|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Auto_pHAT.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Auto_pHAT.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16328/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0152-STAN-01|
 |Hex ID (short code)|hexID|PRPR0152|
-|Name|name|nRF2401A Transceiver Chip Antenna|
+|name|name|nRF2401A Transceiver Chip Antenna|
 |gitRepo|gitRepo|https://github.com/sparkfun/nRF2401A_Transceiver-Chip_Antenna|
 |gitName|gitName|nRF2401A_Transceiver-Chip_Antenna|
 |eagleBoard|eagleBoard|/Hardware/nRF2401A-Chip-v11.brd|

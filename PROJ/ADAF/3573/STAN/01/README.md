@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3573 > Adafruit TPL5111 Reset Enable Timer PCB
 
 - ID: PROJ-ADAF-3573-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3573-STAN-01|
 |Hex ID (short code)|hexID|PRPR3573|
-|Name|name|Adafruit TPL5111 Reset Enable Timer PCB|
+|name|name|Adafruit TPL5111 Reset Enable Timer PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TPL5111-Reset-Enable-Timer-PCB|
 |gitName|gitName|Adafruit-TPL5111-Reset-Enable-Timer-PCB|
 |eagleBoard|eagleBoard|/Adafruit TPL5111 Reset Enable Timer.brd|
 |eagleSchem|eagleSchem|/Adafruit TPL5111 Reset Enable Timer.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3573/STAN/01/kicadPcb3d_450.png

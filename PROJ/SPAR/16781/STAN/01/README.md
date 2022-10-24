@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16781 > MicroMod ESP32 Processor
 
 - ID: PROJ-SPAR-16781-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16781-STAN-01|
 |Hex ID (short code)|hexID|PRPR16781|
-|Name|name|MicroMod ESP32 Processor|
+|name|name|MicroMod ESP32 Processor|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_ESP32_Processor|
 |gitName|gitName|MicroMod_ESP32_Processor|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroMod_ESP32.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MicroMod_ESP32.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16781/STAN/01/kicadPcb3d_450.png

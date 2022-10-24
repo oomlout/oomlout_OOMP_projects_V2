@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11168 > AVR ISP Shield
 
 - ID: PROJ-SPAR-11168-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11168-STAN-01|
 |Hex ID (short code)|hexID|PRPR11168|
-|Name|name|AVR ISP Shield|
+|name|name|AVR ISP Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/AVR_ISP_Shield|
 |gitName|gitName|AVR_ISP_Shield|
 |eagleBoard|eagleBoard|/Hardware/AVR_ISP-Shield-v11.brd|
 |eagleSchem|eagleSchem|/Hardware/AVR_ISP-Shield-v11.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11168/STAN/01/kicadPcb3d_450.png

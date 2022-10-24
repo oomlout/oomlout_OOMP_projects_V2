@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12773 > CryptoCape
 
 - ID: PROJ-SPAR-12773-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12773-STAN-01|
 |Hex ID (short code)|hexID|PRPR12773|
-|Name|name|CryptoCape|
+|name|name|CryptoCape|
 |gitRepo|gitRepo|https://github.com/sparkfun/CryptoCape|
 |gitName|gitName|CryptoCape|
 |eagleBoard|eagleBoard|/Hardware/cryptocape.brd|
 |eagleSchem|eagleSchem|/Hardware/cryptocape.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12773/STAN/01/kicadPcb3d_450.png

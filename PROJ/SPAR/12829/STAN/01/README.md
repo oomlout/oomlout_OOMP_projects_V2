@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12829 > ISL29125 Breakout
 
 - ID: PROJ-SPAR-12829-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12829-STAN-01|
 |Hex ID (short code)|hexID|PRPR12829|
-|Name|name|ISL29125 Breakout|
+|name|name|ISL29125 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ISL29125_Breakout|
 |gitName|gitName|ISL29125_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ISL29125_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ISL29125_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12829/STAN/01/kicadPcb3d_450.png

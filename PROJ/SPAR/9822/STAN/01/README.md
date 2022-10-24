@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9822 > USB RS 485 Converter
 
 - ID: PROJ-SPAR-9822-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9822-STAN-01|
 |Hex ID (short code)|hexID|PRPR9822|
-|Name|name|USB RS 485 Converter|
+|name|name|USB RS 485 Converter|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_RS-485_Converter|
 |gitName|gitName|USB_RS-485_Converter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_USB_RS485_Converter.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_USB_RS485_Converter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9822/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13746 > Beefy 3
 
 - ID: PROJ-SPAR-13746-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13746-STAN-01|
 |Hex ID (short code)|hexID|PRPR13746|
-|Name|name|Beefy 3|
+|name|name|Beefy 3|
 |gitRepo|gitRepo|https://github.com/sparkfun/Beefy_3|
 |gitName|gitName|Beefy_3|
 |eagleBoard|eagleBoard|/Hardware/Beefy_3.brd|
 |eagleSchem|eagleSchem|/Hardware/Beefy_3.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13746/STAN/01/kicadPcb3d_450.png

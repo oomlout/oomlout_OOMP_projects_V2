@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3463 > Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB
 
 - ID: PROJ-ADAF-3463-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3463-STAN-01|
 |Hex ID (short code)|hexID|PRPR3463|
-|Name|name|Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB|
+|name|name|Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB|
 |gitName|gitName|Adafruit-FXOS8700-FXAS21002-9-DoF-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit FXOS8700 FXAS21002 9 DoF Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit FXOS8700 FXAS21002 9 DoF Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3463/STAN/01/kicadPcb3d_450.png

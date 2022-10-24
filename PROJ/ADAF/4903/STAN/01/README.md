@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4903 > Adafruit ISO1540 PCB
 
 - ID: PROJ-ADAF-4903-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4903-STAN-01|
 |Hex ID (short code)|hexID|PRPR4903|
-|Name|name|Adafruit ISO1540 PCB|
+|name|name|Adafruit ISO1540 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ISO1540-PCB|
 |gitName|gitName|Adafruit-ISO1540-PCB|
 |eagleBoard|eagleBoard|/Adafruit ISO1540.brd|
 |eagleSchem|eagleSchem|/Adafruit ISO1540.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4903/STAN/01/kicadPcb3d_450.png

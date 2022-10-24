@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5157 > Adafruit NeoKey Snap Apart PCB
 
 - ID: PROJ-ADAF-5157-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5157-STAN-01|
 |Hex ID (short code)|hexID|PRPR5157|
-|Name|name|Adafruit NeoKey Snap Apart PCB|
+|name|name|Adafruit NeoKey Snap Apart PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoKey-Snap-Apart-PCB|
 |gitName|gitName|Adafruit-NeoKey-Snap-Apart-PCB|
 |eagleBoard|eagleBoard|/NeoKey 5x6 Ortho Snap-Apart.brd|
 |eagleSchem|eagleSchem|/NeoKey 5x6 Ortho Snap-Apart.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5157/STAN/01/kicadPcb3d_450.png

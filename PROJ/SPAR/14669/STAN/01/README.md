@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14669 > BlackBoard
 
 - ID: PROJ-SPAR-14669-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14669-STAN-01|
 |Hex ID (short code)|hexID|PRPR14669|
-|Name|name|BlackBoard|
+|name|name|BlackBoard|
 |gitRepo|gitRepo|https://github.com/sparkfun/BlackBoard|
 |gitName|gitName|BlackBoard|
 |eagleBoard|eagleBoard|/Hardware/BlackBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/BlackBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14669/STAN/01/kicadPcb3d_450.png

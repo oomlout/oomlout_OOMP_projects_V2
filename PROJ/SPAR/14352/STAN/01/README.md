@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14352 > Qwiic Shield for Arduino
 
 - ID: PROJ-SPAR-14352-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14352-STAN-01|
 |Hex ID (short code)|hexID|PRPR14352|
-|Name|name|Qwiic Shield for Arduino|
+|name|name|Qwiic Shield for Arduino|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_Arduino|
 |gitName|gitName|Qwiic_Shield_for_Arduino|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Shield for Arduino.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Shield for Arduino.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14352/STAN/01/kicadPcb3d_450.png

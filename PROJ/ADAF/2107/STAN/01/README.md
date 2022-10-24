@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2107 > Adafruit USB Isolator PCB
 
 - ID: PROJ-ADAF-2107-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2107-STAN-01|
 |Hex ID (short code)|hexID|PRPR2107|
-|Name|name|Adafruit USB Isolator PCB|
+|name|name|Adafruit USB Isolator PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-USB-Isolator-PCB|
 |gitName|gitName|Adafruit-USB-Isolator-PCB|
 |eagleBoard|eagleBoard|/Adafruit USB Isolator.brd|
 |eagleSchem|eagleSchem|/Adafruit USB Isolator.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2107/STAN/01/kicadPcb3d_450.png

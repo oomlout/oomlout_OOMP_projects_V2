@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16401 > MicroMod Artemis Processor
 
 - ID: PROJ-SPAR-16401-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16401-STAN-01|
 |Hex ID (short code)|hexID|PRPR16401|
-|Name|name|MicroMod Artemis Processor|
+|name|name|MicroMod Artemis Processor|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Artemis_Processor|
 |gitName|gitName|MicroMod_Artemis_Processor|
 |eagleBoard|eagleBoard|/Hardware/MicroMod-Artemis-ProcessorBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod-Artemis-ProcessorBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16401/STAN/01/kicadPcb3d_450.png

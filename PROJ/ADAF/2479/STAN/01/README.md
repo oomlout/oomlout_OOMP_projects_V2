@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2479 > Adafruit Bluefruit LE UART Friend PCB
 
 - ID: PROJ-ADAF-2479-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2479-STAN-01|
 |Hex ID (short code)|hexID|PRPR2479|
-|Name|name|Adafruit Bluefruit LE UART Friend PCB|
+|name|name|Adafruit Bluefruit LE UART Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-LE-UART-Friend-PCB|
 |gitName|gitName|Adafruit-Bluefruit-LE-UART-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit Bluefruit LE UART Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit Bluefruit LE UART Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2479/STAN/01/kicadPcb3d_450.png

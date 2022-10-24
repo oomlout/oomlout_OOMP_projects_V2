@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16481 > Qwiic GPS RTK2
 
 - ID: PROJ-SPAR-16481-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16481-STAN-01|
 |Hex ID (short code)|hexID|PRPR16481|
-|Name|name|Qwiic GPS RTK2|
+|name|name|Qwiic GPS RTK2|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_GPS-RTK2|
 |gitName|gitName|Qwiic_GPS-RTK2|
 |eagleBoard|eagleBoard|/Hardware/Qwiic GPS-RTK2 - ublox ZED-F9P.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic GPS-RTK2 - ublox ZED-F9P.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16481/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13903 > LilyPad LED Rainbow
 
 - ID: PROJ-SPAR-13903-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13903-STAN-01|
 |Hex ID (short code)|hexID|PRPR13903|
-|Name|name|LilyPad LED Rainbow|
+|name|name|LilyPad LED Rainbow|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_LED_Rainbow|
 |gitName|gitName|LilyPad_LED_Rainbow|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Rainbow_LED_v02.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Rainbow_LED_v02.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13903/STAN/01/kicadPcb3d_450.png

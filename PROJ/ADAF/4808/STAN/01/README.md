@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4808 > Adafruit EMC2101 PCB
 
 - ID: PROJ-ADAF-4808-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4808-STAN-01|
 |Hex ID (short code)|hexID|PRPR4808|
-|Name|name|Adafruit EMC2101 PCB|
+|name|name|Adafruit EMC2101 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-EMC2101-PCB|
 |gitName|gitName|Adafruit-EMC2101-PCB|
 |eagleBoard|eagleBoard|/Adafruit_EMC2101.brd|
 |eagleSchem|eagleSchem|/Adafruit_EMC2101.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4808/STAN/01/kicadPcb3d_450.png

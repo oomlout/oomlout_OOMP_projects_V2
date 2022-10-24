@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13118 > Servo Trigger
 
 - ID: PROJ-SPAR-13118-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13118-STAN-01|
 |Hex ID (short code)|hexID|PRPR13118|
-|Name|name|Servo Trigger|
+|name|name|Servo Trigger|
 |gitRepo|gitRepo|https://github.com/sparkfun/Servo_Trigger|
 |gitName|gitName|Servo_Trigger|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Servo_Trigger.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Servo_Trigger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13118/STAN/01/kicadPcb3d_450.png

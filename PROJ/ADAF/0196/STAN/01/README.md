@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0196-STAN-01|
 |Hex ID (short code)|hexID|PRPR0196|
-|Name|name|Adafruit Proto Screwshield PCB|
+|name|name|Adafruit Proto Screwshield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Proto-Screwshield-PCB|
 |gitName|gitName|Adafruit-Proto-Screwshield-PCB|
 |eagleBoard|eagleBoard|/wings20.brd|

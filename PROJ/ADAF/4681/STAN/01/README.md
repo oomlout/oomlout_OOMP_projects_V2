@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4681 > Adafruit BH1750 PCB
 
 - ID: PROJ-ADAF-4681-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4681-STAN-01|
 |Hex ID (short code)|hexID|PRPR4681|
-|Name|name|Adafruit BH1750 PCB|
+|name|name|Adafruit BH1750 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-BH1750-PCB|
 |gitName|gitName|Adafruit-BH1750-PCB|
 |eagleBoard|eagleBoard|/Adafruit BH1750.brd|
 |eagleSchem|eagleSchem|/Adafruit BH1750.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4681/STAN/01/kicadPcb3d_450.png

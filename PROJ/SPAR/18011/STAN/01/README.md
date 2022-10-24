@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18011 > SparkFun Analog MEMS Microphone Breakout ICS 40180
 
 - ID: PROJ-SPAR-18011-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18011-STAN-01|
 |Hex ID (short code)|hexID|PRPR18011|
-|Name|name|SparkFun Analog MEMS Microphone Breakout ICS 40180|
+|name|name|SparkFun Analog MEMS Microphone Breakout ICS 40180|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180|
 |gitName|gitName|SparkFun_Analog_MEMS_Microphone_Breakout_ICS-40180|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Analog_MEMS_Microphone_Breakout_ICS40180.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Analog_MEMS_Microphone_Breakout_ICS40180.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18011/STAN/01/kicadPcb3d_450.png

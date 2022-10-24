@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0193-STAN-01|
 |Hex ID (short code)|hexID|PRPR0193|
-|Name|name|Adapter Board ICD ICD2|
+|name|name|Adapter Board ICD ICD2|
 |gitRepo|gitRepo|https://github.com/sparkfun/Adapter_Board-ICD_ICD2|
 |gitName|gitName|Adapter_Board-ICD_ICD2|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ICD-ICD2.brd|

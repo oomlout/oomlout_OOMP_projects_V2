@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0287-STAN-01|
 |Hex ID (short code)|hexID|PRPR0287|
-|Name|name|Adafruit Brain Machine Kit|
+|name|name|Adafruit Brain Machine Kit|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Brain-Machine-Kit|
 |gitName|gitName|Adafruit_Brain-Machine-Kit|
 |eagleBoard|eagleBoard|/pcb/brain.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2448 > Adafruit TB6612 Motor Driver Breakout PCB
 
 - ID: PROJ-ADAF-2448-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2448-STAN-01|
 |Hex ID (short code)|hexID|PRPR2448|
-|Name|name|Adafruit TB6612 Motor Driver Breakout PCB|
+|name|name|Adafruit TB6612 Motor Driver Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TB6612-Motor-Driver-Breakout-PCB|
 |gitName|gitName|Adafruit-TB6612-Motor-Driver-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit TB6612.brd|
 |eagleSchem|eagleSchem|/Adafruit TB6612.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2448/STAN/01/kicadPcb3d_450.png

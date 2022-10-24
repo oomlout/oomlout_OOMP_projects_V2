@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13033 > Edison 9DOF Block
 
 - ID: PROJ-SPAR-13033-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13033-STAN-01|
 |Hex ID (short code)|hexID|PRPR13033|
-|Name|name|Edison 9DOF Block|
+|name|name|Edison 9DOF Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_9DOF_Block|
 |gitName|gitName|Edison_9DOF_Block|
 |eagleBoard|eagleBoard|/Hardware/9dof_block.brd|
 |eagleSchem|eagleSchem|/Hardware/9dof_block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13033/STAN/01/kicadPcb3d_450.png

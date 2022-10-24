@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1981 > Adafruit Flora Si1145 Light Sensor PCB
 
 - ID: PROJ-ADAF-1981-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1981-STAN-01|
 |Hex ID (short code)|hexID|PRPR1981|
-|Name|name|Adafruit Flora Si1145 Light Sensor PCB|
+|name|name|Adafruit Flora Si1145 Light Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-Si1145-Light-Sensor-PCB|
 |gitName|gitName|Adafruit-Flora-Si1145-Light-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora Si1145.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora Si1145.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1981/STAN/01/kicadPcb3d_450.png

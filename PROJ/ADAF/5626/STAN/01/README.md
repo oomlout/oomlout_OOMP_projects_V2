@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5626-STAN-01|
 |Hex ID (short code)|hexID|PRPR5626|
-|Name|name|Adafruit PCA9548 PCB|
+|name|name|Adafruit PCA9548 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PCA9548-PCB|
 |gitName|gitName|Adafruit-PCA9548-PCB|
 |eagleBoard|eagleBoard|/PCA9548A QT Board.brd|

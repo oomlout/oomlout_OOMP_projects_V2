@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15805 > SparkFun High Precision Temperature Sensor TMP117 Qwiic
 
 - ID: PROJ-SPAR-15805-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15805-STAN-01|
 |Hex ID (short code)|hexID|PRPR15805|
-|Name|name|SparkFun High Precision Temperature Sensor TMP117 Qwiic|
+|name|name|SparkFun High Precision Temperature Sensor TMP117 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic|
 |gitName|gitName|SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_TMP117_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/Sparkfun_TMP117_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15805/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2748 > Adafruit ALS PT19 Sensor Breakout PCB
 
 - ID: PROJ-ADAF-2748-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2748-STAN-01|
 |Hex ID (short code)|hexID|PRPR2748|
-|Name|name|Adafruit ALS PT19 Sensor Breakout PCB|
+|name|name|Adafruit ALS PT19 Sensor Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ALS-PT19-Sensor-Breakout-PCB|
 |gitName|gitName|Adafruit-ALS-PT19-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit ALS-PT19-315C Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit ALS-PT19-315C Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2748/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2923 > Adafruit Relay FeatherWing PCBs
 
 - ID: PROJ-ADAF-2923-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2923-STAN-01|
 |Hex ID (short code)|hexID|PRPR2923|
-|Name|name|Adafruit Relay FeatherWing PCBs|
+|name|name|Adafruit Relay FeatherWing PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Relay-FeatherWing-PCBs|
 |gitName|gitName|Adafruit-Relay-FeatherWing-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Latching Relay FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit Latching Relay FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2923/STAN/01/kicadPcb3d_450.png

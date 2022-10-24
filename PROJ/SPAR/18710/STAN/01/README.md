@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18710 > MicroMod mikroBUS Carrier Board
 
 - ID: PROJ-SPAR-18710-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18710-STAN-01|
 |Hex ID (short code)|hexID|PRPR18710|
-|Name|name|MicroMod mikroBUS Carrier Board|
+|name|name|MicroMod mikroBUS Carrier Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_mikroBUS_Carrier_Board|
 |gitName|gitName|MicroMod_mikroBUS_Carrier_Board|
 |eagleBoard|eagleBoard|/Hardware/MM_MikroBUS_Carrier.brd|
 |eagleSchem|eagleSchem|/Hardware/MM_MikroBUS_Carrier.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18710/STAN/01/kicadPcb3d_450.png

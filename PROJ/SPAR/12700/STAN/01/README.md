@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12700 > USB Type A Female Breakout
 
 - ID: PROJ-SPAR-12700-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12700-STAN-01|
 |Hex ID (short code)|hexID|PRPR12700|
-|Name|name|USB Type A Female Breakout|
+|name|name|USB Type A Female Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_Type_A_Female_Breakout|
 |gitName|gitName|USB_Type_A_Female_Breakout|
 |eagleBoard|eagleBoard|/Hardware/USB_Type_A_Female_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/USB_Type_A_Female_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12700/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14713 > SAMD51 Thing Plus
 
 - ID: PROJ-SPAR-14713-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14713-STAN-01|
 |Hex ID (short code)|hexID|PRPR14713|
-|Name|name|SAMD51 Thing Plus|
+|name|name|SAMD51 Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/SAMD51_Thing_Plus|
 |gitName|gitName|SAMD51_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/SAMD51_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/SAMD51_Thing_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14713/STAN/01/kicadPcb3d_450.png

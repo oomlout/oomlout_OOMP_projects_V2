@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12886 > Electric Imp Breakout
 
 - ID: PROJ-SPAR-12886-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12886-STAN-01|
 |Hex ID (short code)|hexID|PRPR12886|
-|Name|name|Electric Imp Breakout|
+|name|name|Electric Imp Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Electric_Imp_Breakout|
 |gitName|gitName|Electric_Imp_Breakout|
 |eagleBoard|eagleBoard|/hardware/electric-imp-breakout.brd|
 |eagleSchem|eagleSchem|/hardware/electric-imp-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12886/STAN/01/kicadPcb3d_450.png

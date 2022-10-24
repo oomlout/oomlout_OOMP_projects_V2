@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10878 > EL Escudo Dos
 
 - ID: PROJ-SPAR-10878-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10878-STAN-01|
 |Hex ID (short code)|hexID|PRPR10878|
-|Name|name|EL Escudo Dos|
+|name|name|EL Escudo Dos|
 |gitRepo|gitRepo|https://github.com/sparkfun/EL_Escudo_Dos|
 |gitName|gitName|EL_Escudo_Dos|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_EL_Escudo_Dos.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_EL_Escudo_Dos.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10878/STAN/01/kicadPcb3d_450.png

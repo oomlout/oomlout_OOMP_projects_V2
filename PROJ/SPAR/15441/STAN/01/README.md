@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15441 > SparkFun AS3935 Lightning Detector
 
 - ID: PROJ-SPAR-15441-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15441-STAN-01|
 |Hex ID (short code)|hexID|PRPR15441|
-|Name|name|SparkFun AS3935 Lightning Detector|
+|name|name|SparkFun AS3935 Lightning Detector|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_AS3935_Lightning_Detector|
 |gitName|gitName|SparkFun_AS3935_Lightning_Detector|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_AS3935_Lightning_Detector.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_AS3935_Lightning_Detector.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15441/STAN/01/kicadPcb3d_450.png

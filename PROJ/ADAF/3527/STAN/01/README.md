@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3527 > Adafruit PiOLED 128x32 PCB
 
 - ID: PROJ-ADAF-3527-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3527-STAN-01|
 |Hex ID (short code)|hexID|PRPR3527|
-|Name|name|Adafruit PiOLED 128x32 PCB|
+|name|name|Adafruit PiOLED 128x32 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB|
 |gitName|gitName|Adafruit-PiOLED-128x32-PCB|
 |eagleBoard|eagleBoard|/Adafruit 128x32 Pi OLED.brd|
 |eagleSchem|eagleSchem|/Adafruit 128x32 Pi OLED.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3527/STAN/01/kicadPcb3d_450.png

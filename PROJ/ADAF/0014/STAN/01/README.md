@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0014-STAN-01|
 |Hex ID (short code)|hexID|PRPR0014|
-|Name|name|Adafruit MintyBoost PCB|
+|name|name|Adafruit MintyBoost PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_MintyBoost_PCB|
 |gitName|gitName|Adafruit_MintyBoost_PCB|
 |eagleBoard|eagleBoard|/mintyboostv2.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14877 > Flashlight
 
 - ID: PROJ-SPAR-14877-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14877-STAN-01|
 |Hex ID (short code)|hexID|PRPR14877|
-|Name|name|Flashlight|
+|name|name|Flashlight|
 |gitRepo|gitRepo|https://github.com/sparkfun/Flashlight|
 |gitName|gitName|Flashlight|
 |eagleBoard|eagleBoard|/Hardware/Flashlight.brd|
 |eagleSchem|eagleSchem|/Hardware/Flashlight.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14877/STAN/01/kicadPcb3d_450.png

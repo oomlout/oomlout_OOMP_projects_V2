@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10116 > Arduino Fio
 
 - ID: PROJ-SPAR-10116-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10116-STAN-01|
 |Hex ID (short code)|hexID|PRPR10116|
-|Name|name|Arduino Fio|
+|name|name|Arduino Fio|
 |gitRepo|gitRepo|https://github.com/sparkfun/Arduino_Fio|
 |gitName|gitName|Arduino_Fio|
 |eagleBoard|eagleBoard|/Hardware/ArduinoFio.brd|
 |eagleSchem|eagleSchem|/Hardware/ArduinoFio.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10116/STAN/01/kicadPcb3d_450.png

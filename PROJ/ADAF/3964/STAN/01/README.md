@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3964 > Adafruit VEML6075 UV Sensor PCB
 
 - ID: PROJ-ADAF-3964-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3964-STAN-01|
 |Hex ID (short code)|hexID|PRPR3964|
-|Name|name|Adafruit VEML6075 UV Sensor PCB|
+|name|name|Adafruit VEML6075 UV Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-VEML6075-UV-Sensor-PCB|
 |gitName|gitName|Adafruit-VEML6075-UV-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit VEML6075.brd|
 |eagleSchem|eagleSchem|/Adafruit VEML6075.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3964/STAN/01/kicadPcb3d_450.png

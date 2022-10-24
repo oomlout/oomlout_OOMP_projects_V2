@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15440 > Qwiic Atmospheric Sensor Breakout BME280
 
 - ID: PROJ-SPAR-15440-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15440-STAN-01|
 |Hex ID (short code)|hexID|PRPR15440|
-|Name|name|Qwiic Atmospheric Sensor Breakout BME280|
+|name|name|Qwiic Atmospheric Sensor Breakout BME280|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Atmospheric_Sensor_Breakout_BME280|
 |gitName|gitName|Qwiic_Atmospheric_Sensor_Breakout_BME280|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Atmospheric_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Atmospheric_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15440/STAN/01/kicadPcb3d_450.png

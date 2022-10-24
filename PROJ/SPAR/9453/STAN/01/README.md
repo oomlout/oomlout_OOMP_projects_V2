@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9453 > QRE1113 Line Sensor Analog
 
 - ID: PROJ-SPAR-9453-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9453-STAN-01|
 |Hex ID (short code)|hexID|PRPR9453|
-|Name|name|QRE1113 Line Sensor Analog|
+|name|name|QRE1113 Line Sensor Analog|
 |gitRepo|gitRepo|https://github.com/sparkfun/QRE1113_Line_Sensor-Analog|
 |gitName|gitName|QRE1113_Line_Sensor-Analog|
 |eagleBoard|eagleBoard|/Hardware/QRE1113 Line Sensor Breakout - Analog.brd|
 |eagleSchem|eagleSchem|/Hardware/QRE1113 Line Sensor Breakout - Analog.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9453/STAN/01/kicadPcb3d_450.png

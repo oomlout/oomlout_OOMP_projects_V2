@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0089-STAN-01|
 |Hex ID (short code)|hexID|PRPR0089|
-|Name|name|Adafruit Conway Game of Life Kit|
+|name|name|Adafruit Conway Game of Life Kit|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Conway-Game-of-Life-Kit|
 |gitName|gitName|Adafruit_Conway-Game-of-Life-Kit|
 |eagleBoard|eagleBoard|/pcb/GoL 1.3.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2133 > Adafruit Audio FX Sound Board PCBs
 
 - ID: PROJ-ADAF-2133-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2133-STAN-01|
 |Hex ID (short code)|hexID|PRPR2133|
-|Name|name|Adafruit Audio FX Sound Board PCBs|
+|name|name|Adafruit Audio FX Sound Board PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Audio-FX-Sound-Board-PCBs|
 |gitName|gitName|Adafruit-Audio-FX-Sound-Board-PCBs|
 |eagleBoard|eagleBoard|/Adafruit EZ-SFX Mini.brd|
 |eagleSchem|eagleSchem|/Adafruit EZ-SFX Mini.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2133/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1246 > Adafruit Flora TSL2561 Lux Sensor PCB
 
 - ID: PROJ-ADAF-1246-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1246-STAN-01|
 |Hex ID (short code)|hexID|PRPR1246|
-|Name|name|Adafruit Flora TSL2561 Lux Sensor PCB|
+|name|name|Adafruit Flora TSL2561 Lux Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-TSL2561-Lux-Sensor-PCB|
 |gitName|gitName|Adafruit-Flora-TSL2561-Lux-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora TSL2561 Lux.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora TSL2561 Lux.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1246/STAN/01/kicadPcb3d_450.png

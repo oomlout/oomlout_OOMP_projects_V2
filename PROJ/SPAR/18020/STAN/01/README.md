@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18020 > SparkFun Qwiic 6DoF LSM6DSO
 
 - ID: PROJ-SPAR-18020-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18020-STAN-01|
 |Hex ID (short code)|hexID|PRPR18020|
-|Name|name|SparkFun Qwiic 6DoF LSM6DSO|
+|name|name|SparkFun Qwiic 6DoF LSM6DSO|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_6DoF_LSM6DSO|
 |gitName|gitName|SparkFun_Qwiic_6DoF_LSM6DSO|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_6DoF_LSM6DSO.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_6DoF_LSM6DSO.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18020/STAN/01/kicadPcb3d_450.png

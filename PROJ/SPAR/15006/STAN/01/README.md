@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15006 > ESP32 LoRa 1Ch Gateway
 
 - ID: PROJ-SPAR-15006-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15006-STAN-01|
 |Hex ID (short code)|hexID|PRPR15006|
-|Name|name|ESP32 LoRa 1Ch Gateway|
+|name|name|ESP32 LoRa 1Ch Gateway|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32_LoRa_1Ch_Gateway|
 |gitName|gitName|ESP32_LoRa_1Ch_Gateway|
 |eagleBoard|eagleBoard|/Hardware/ESP32_LoRa_1_Channel_Gateway.brd|
 |eagleSchem|eagleSchem|/Hardware/ESP32_LoRa_1_Channel_Gateway.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15006/STAN/01/kicadPcb3d_450.png

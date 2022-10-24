@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15794 > Qwiic Pi SHIM
 
 - ID: PROJ-SPAR-15794-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15794-STAN-01|
 |Hex ID (short code)|hexID|PRPR15794|
-|Name|name|Qwiic Pi SHIM|
+|name|name|Qwiic Pi SHIM|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Pi_SHIM|
 |gitName|gitName|Qwiic_Pi_SHIM|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Pi SHIM.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Pi SHIM.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15794/STAN/01/kicadPcb3d_450.png

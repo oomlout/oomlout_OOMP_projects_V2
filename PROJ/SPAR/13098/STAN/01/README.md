@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13098 > Rotary Switch Breakout
 
 - ID: PROJ-SPAR-13098-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13098-STAN-01|
 |Hex ID (short code)|hexID|PRPR13098|
-|Name|name|Rotary Switch Breakout|
+|name|name|Rotary Switch Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Rotary_Switch_Breakout|
 |gitName|gitName|Rotary_Switch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Rotary_Switch_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Rotary_Switch_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13098/STAN/01/kicadPcb3d_450.png

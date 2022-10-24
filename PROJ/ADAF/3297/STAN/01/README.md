@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3297 > Adafruit DRV8833 Motor Driver Breakout PCB
 
 - ID: PROJ-ADAF-3297-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3297-STAN-01|
 |Hex ID (short code)|hexID|PRPR3297|
-|Name|name|Adafruit DRV8833 Motor Driver Breakout PCB|
+|name|name|Adafruit DRV8833 Motor Driver Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DRV8833-Motor-Driver-Breakout-PCB|
 |gitName|gitName|Adafruit-DRV8833-Motor-Driver-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit DRV8833.brd|
 |eagleSchem|eagleSchem|/Adafruit DRV8833.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3297/STAN/01/kicadPcb3d_450.png

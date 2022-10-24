@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1932 > Adafruit RGB Matrix HAT PCB
 
 - ID: PROJ-ADAF-1932-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1932-STAN-01|
 |Hex ID (short code)|hexID|PRPR1932|
-|Name|name|Adafruit RGB Matrix HAT PCB|
+|name|name|Adafruit RGB Matrix HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RGB-Matrix-HAT-PCB|
 |gitName|gitName|Adafruit-RGB-Matrix-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit RGB Matrix HAT.brd|
 |eagleSchem|eagleSchem|/Adafruit RGB Matrix HAT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1932/STAN/01/kicadPcb3d_450.png

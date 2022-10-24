@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12707 > Sparkpunk Sequencer
 
 - ID: PROJ-SPAR-12707-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12707-STAN-01|
 |Hex ID (short code)|hexID|PRPR12707|
-|Name|name|Sparkpunk Sequencer|
+|name|name|Sparkpunk Sequencer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Sparkpunk_Sequencer|
 |gitName|gitName|Sparkpunk_Sequencer|
 |eagleBoard|eagleBoard|/hardware/sparkpunk_sequencer.brd|
 |eagleSchem|eagleSchem|/hardware/sparkpunk_sequencer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12707/STAN/01/kicadPcb3d_450.png

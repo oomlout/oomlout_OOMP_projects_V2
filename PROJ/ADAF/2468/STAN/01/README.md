@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2468 > Adafruit FONA 800 Shield PCB
 
 - ID: PROJ-ADAF-2468-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2468-STAN-01|
 |Hex ID (short code)|hexID|PRPR2468|
-|Name|name|Adafruit FONA 800 Shield PCB|
+|name|name|Adafruit FONA 800 Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FONA-800-Shield-PCB|
 |gitName|gitName|Adafruit-FONA-800-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit FONA 800 Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit FONA 800 Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2468/STAN/01/kicadPcb3d_450.png

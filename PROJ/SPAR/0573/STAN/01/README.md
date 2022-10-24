@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0573-STAN-01|
 |Hex ID (short code)|hexID|PRPR0573|
-|Name|name|SIM Card Breakout|
+|name|name|SIM Card Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SIM_Card_Breakout|
 |gitName|gitName|SIM_Card_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Sim_Breakout.brd|

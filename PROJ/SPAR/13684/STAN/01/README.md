@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13684 > MyoWare Power Shield
 
 - ID: PROJ-SPAR-13684-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13684-STAN-01|
 |Hex ID (short code)|hexID|PRPR13684|
-|Name|name|MyoWare Power Shield|
+|name|name|MyoWare Power Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MyoWare_Power_Shield|
 |gitName|gitName|MyoWare_Power_Shield|
 |eagleBoard|eagleBoard|/Hardware/MyoWare_Power_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/MyoWare_Power_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13684/STAN/01/kicadPcb3d_450.png

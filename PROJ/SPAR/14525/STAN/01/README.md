@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14525-STAN-01|
 |Hex ID (short code)|hexID|PRPR14525|
-|Name|name|RedBoard Edge|
+|name|name|RedBoard Edge|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Edge|
 |gitName|gitName|RedBoard_Edge|
 |eagleBoard|eagleBoard|/Hardware/modified_eagle_files/RedBoard.brd|

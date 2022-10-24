@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12885 > SunnyBuddy
 
 - ID: PROJ-SPAR-12885-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12885-STAN-01|
 |Hex ID (short code)|hexID|PRPR12885|
-|Name|name|SunnyBuddy|
+|name|name|SunnyBuddy|
 |gitRepo|gitRepo|https://github.com/sparkfun/SunnyBuddy|
 |gitName|gitName|SunnyBuddy|
 |eagleBoard|eagleBoard|/Hardware/SunnyBuddy.brd|
 |eagleSchem|eagleSchem|/Hardware/SunnyBuddy.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12885/STAN/01/kicadPcb3d_450.png

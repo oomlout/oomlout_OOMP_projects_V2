@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4757 > Adafruit Voice Bonnet PCB
 
 - ID: PROJ-ADAF-4757-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4757-STAN-01|
 |Hex ID (short code)|hexID|PRPR4757|
-|Name|name|Adafruit Voice Bonnet PCB|
+|name|name|Adafruit Voice Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Voice-Bonnet-PCB|
 |gitName|gitName|Adafruit-Voice-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Voice Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Voice Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4757/STAN/01/kicadPcb3d_450.png

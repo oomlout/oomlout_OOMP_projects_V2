@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16329 > SparkFun u blox NEO M8U
 
 - ID: PROJ-SPAR-16329-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16329-STAN-01|
 |Hex ID (short code)|hexID|PRPR16329|
-|Name|name|SparkFun u blox NEO M8U|
+|name|name|SparkFun u blox NEO M8U|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-blox_NEO-M8U|
 |gitName|gitName|SparkFun_u-blox_NEO-M8U|
 |eagleBoard|eagleBoard|/Hardware/SparkFun NEO-M8U.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun NEO-M8U.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16329/STAN/01/kicadPcb3d_450.png

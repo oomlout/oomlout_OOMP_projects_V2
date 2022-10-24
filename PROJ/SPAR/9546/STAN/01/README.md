@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9546 > XMega100 Breakout
 
 - ID: PROJ-SPAR-9546-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9546-STAN-01|
 |Hex ID (short code)|hexID|PRPR9546|
-|Name|name|XMega100 Breakout|
+|name|name|XMega100 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/XMega100_Breakout|
 |gitName|gitName|XMega100_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_XMega100_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_XMega100_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9546/STAN/01/kicadPcb3d_450.png

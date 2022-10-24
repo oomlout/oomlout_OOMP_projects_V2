@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1551 > Adafruit DS2413 PCB
 
 - ID: PROJ-ADAF-1551-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1551-STAN-01|
 |Hex ID (short code)|hexID|PRPR1551|
-|Name|name|Adafruit DS2413 PCB|
+|name|name|Adafruit DS2413 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DS2413-PCB|
 |gitName|gitName|Adafruit-DS2413-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS2413.brd|
 |eagleSchem|eagleSchem|/Adafruit DS2413.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1551/STAN/01/kicadPcb3d_450.png

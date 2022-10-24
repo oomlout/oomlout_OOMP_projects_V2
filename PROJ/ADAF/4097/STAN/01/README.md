@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4097 > Adafruit ADXL343 PCB
 
 - ID: PROJ-ADAF-4097-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4097-STAN-01|
 |Hex ID (short code)|hexID|PRPR4097|
-|Name|name|Adafruit ADXL343 PCB|
+|name|name|Adafruit ADXL343 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_ADXL343_PCB|
 |gitName|gitName|Adafruit_ADXL343_PCB|
 |eagleBoard|eagleBoard|/Adafruit ADXL343 STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit ADXL343 STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4097/STAN/01/kicadPcb3d_450.png

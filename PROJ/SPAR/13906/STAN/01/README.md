@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13906 > 74HC4051 8 Channel Mux Breakout
 
 - ID: PROJ-SPAR-13906-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13906-STAN-01|
 |Hex ID (short code)|hexID|PRPR13906|
-|Name|name|74HC4051 8 Channel Mux Breakout|
+|name|name|74HC4051 8 Channel Mux Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/74HC4051_8-Channel_Mux_Breakout|
 |gitName|gitName|74HC4051_8-Channel_Mux_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun-74HC4051-8-Channel-Mux-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun-74HC4051-8-Channel-Mux-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13906/STAN/01/kicadPcb3d_450.png

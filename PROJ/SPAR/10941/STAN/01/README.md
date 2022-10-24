@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10941 > LilyPad Arduino SimpleSnap
 
 - ID: PROJ-SPAR-10941-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10941-STAN-01|
 |Hex ID (short code)|hexID|PRPR10941|
-|Name|name|LilyPad Arduino SimpleSnap|
+|name|name|LilyPad Arduino SimpleSnap|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Arduino_SimpleSnap|
 |gitName|gitName|LilyPad_Arduino_SimpleSnap|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Arduino_SimpleSnap.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Arduino_SimpleSnap.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10941/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3671 > Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi
 
 - ID: PROJ-ADAF-3671-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3671-STAN-01|
 |Hex ID (short code)|hexID|PRPR3671|
-|Name|name|Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi|
+|name|name|Adafruit CSI or DSI Cable Extender Thingy for Raspberry Pi|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi|
 |gitName|gitName|Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi|
 |eagleBoard|eagleBoard|/DSI CSI Extender.brd|
 |eagleSchem|eagleSchem|/DSI CSI Extender.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3671/STAN/01/kicadPcb3d_450.png

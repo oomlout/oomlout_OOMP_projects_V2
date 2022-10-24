@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0938-STAN-01|
 |Hex ID (short code)|hexID|PRPR0938|
-|Name|name|Adafruit 1.3inch 128x64 Mono OLED PCB|
+|name|name|Adafruit 1.3inch 128x64 Mono OLED PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.3inch-128x64-Mono-OLED-PCB|
 |gitName|gitName|Adafruit-1.3inch-128x64-Mono-OLED-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.3in 128x64 OLED STEMMA QT.brd|

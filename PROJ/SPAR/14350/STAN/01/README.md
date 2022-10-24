@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14350 > APDS 9301 Breakout
 
 - ID: PROJ-SPAR-14350-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14350-STAN-01|
 |Hex ID (short code)|hexID|PRPR14350|
-|Name|name|APDS 9301 Breakout|
+|name|name|APDS 9301 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/APDS-9301_Breakout|
 |gitName|gitName|APDS-9301_Breakout|
 |eagleBoard|eagleBoard|/Hardware/APDS-9301_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/APDS-9301_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14350/STAN/01/kicadPcb3d_450.png

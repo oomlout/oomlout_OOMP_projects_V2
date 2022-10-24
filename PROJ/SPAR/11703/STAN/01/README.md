@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11703 > UDB5
 
 - ID: PROJ-SPAR-11703-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11703-STAN-01|
 |Hex ID (short code)|hexID|PRPR11703|
-|Name|name|UDB5|
+|name|name|UDB5|
 |gitRepo|gitRepo|https://github.com/sparkfun/UDB5|
 |gitName|gitName|UDB5|
 |eagleBoard|eagleBoard|/hardware/UDB5.brd|
 |eagleSchem|eagleSchem|/hardware/UDB5.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11703/STAN/01/kicadPcb3d_450.png

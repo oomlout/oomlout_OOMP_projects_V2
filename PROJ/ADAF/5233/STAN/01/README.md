@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5233 > Adafruit ATtiny8x7 Breakout PCB
 
 - ID: PROJ-ADAF-5233-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5233-STAN-01|
 |Hex ID (short code)|hexID|PRPR5233|
-|Name|name|Adafruit ATtiny8x7 Breakout PCB|
+|name|name|Adafruit ATtiny8x7 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ATtiny8x7-Breakout-PCB|
 |gitName|gitName|Adafruit-ATtiny8x7-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit ATtiny8x7 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit ATtiny8x7 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5233/STAN/01/kicadPcb3d_450.png

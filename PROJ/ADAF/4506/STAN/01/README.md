@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4506 > Adafruit 1.3in Color TFT Bonnet PCB
 
 - ID: PROJ-ADAF-4506-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4506-STAN-01|
 |Hex ID (short code)|hexID|PRPR4506|
-|Name|name|Adafruit 1.3in Color TFT Bonnet PCB|
+|name|name|Adafruit 1.3in Color TFT Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.3in-Color-TFT-Bonnet-PCB|
 |gitName|gitName|Adafruit-1.3in-Color-TFT-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.3in Color TFT Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.3in Color TFT Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4506/STAN/01/kicadPcb3d_450.png

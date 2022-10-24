@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0494-STAN-01|
 |Hex ID (short code)|hexID|PRPR0494|
-|Name|name|SOIC8 DIP Adapter|
+|name|name|SOIC8 DIP Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/SOIC8-DIP_Adapter|
 |gitName|gitName|SOIC8-DIP_Adapter|
 |eagleBoard|eagleBoard|/Documentation/SparkFun_SOIC8-DIP-Adapter-Dimensions.brd|

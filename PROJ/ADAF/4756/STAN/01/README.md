@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4756 > Adafruit LTC4311 PCB
 
 - ID: PROJ-ADAF-4756-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4756-STAN-01|
 |Hex ID (short code)|hexID|PRPR4756|
-|Name|name|Adafruit LTC4311 PCB|
+|name|name|Adafruit LTC4311 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LTC4311-PCB|
 |gitName|gitName|Adafruit-LTC4311-PCB|
 |eagleBoard|eagleBoard|/Adafruit LTC4311 I2C Extender.brd|
 |eagleSchem|eagleSchem|/Adafruit LTC4311 I2C Extender.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4756/STAN/01/kicadPcb3d_450.png

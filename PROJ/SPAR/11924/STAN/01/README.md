@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11924 > Purpletooth Jamboree
 
 - ID: PROJ-SPAR-11924-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11924-STAN-01|
 |Hex ID (short code)|hexID|PRPR11924|
-|Name|name|Purpletooth Jamboree|
+|name|name|Purpletooth Jamboree|
 |gitRepo|gitRepo|https://github.com/sparkfun/Purpletooth_Jamboree|
 |gitName|gitName|Purpletooth_Jamboree|
 |eagleBoard|eagleBoard|/Hardware/Purpletooth_Jamboree.brd|
 |eagleSchem|eagleSchem|/Hardware/Purpletooth_Jamboree.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11924/STAN/01/kicadPcb3d_450.png

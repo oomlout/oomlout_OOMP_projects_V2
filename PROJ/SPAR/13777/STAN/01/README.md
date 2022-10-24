@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13777 > Battery Babysitter
 
 - ID: PROJ-SPAR-13777-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13777-STAN-01|
 |Hex ID (short code)|hexID|PRPR13777|
-|Name|name|Battery Babysitter|
+|name|name|Battery Babysitter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Battery_Babysitter|
 |gitName|gitName|Battery_Babysitter|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-battery-babysitter.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-battery-babysitter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13777/STAN/01/kicadPcb3d_450.png

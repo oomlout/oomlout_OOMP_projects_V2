@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11257 > Mr.Roboto
 
 - ID: PROJ-SPAR-11257-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11257-STAN-01|
 |Hex ID (short code)|hexID|PRPR11257|
-|Name|name|Mr.Roboto|
+|name|name|Mr.Roboto|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mr.Roboto|
 |gitName|gitName|Mr.Roboto|
 |eagleBoard|eagleBoard|/Hardware/MrRoboto.brd|
 |eagleSchem|eagleSchem|/Hardware/MrRoboto.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11257/STAN/01/kicadPcb3d_450.png

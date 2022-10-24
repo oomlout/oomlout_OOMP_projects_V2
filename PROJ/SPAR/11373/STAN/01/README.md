@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11373 > XBee Explorer Regulated
 
 - ID: PROJ-SPAR-11373-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11373-STAN-01|
 |Hex ID (short code)|hexID|PRPR11373|
-|Name|name|XBee Explorer Regulated|
+|name|name|XBee Explorer Regulated|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Explorer_Regulated|
 |gitName|gitName|XBee_Explorer_Regulated|
 |eagleBoard|eagleBoard|/Hardware/XBee-Regulated.brd|
 |eagleSchem|eagleSchem|/Hardware/XBee-Regulated.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11373/STAN/01/kicadPcb3d_450.png

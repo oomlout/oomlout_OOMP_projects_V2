@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4343-STAN-01|
 |Hex ID (short code)|hexID|PRPR4343|
-|Name|name|Adafruit MONSTER M4SK PCB|
+|name|name|Adafruit MONSTER M4SK PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MONSTER-M4SK-PCB|
 |gitName|gitName|Adafruit-MONSTER-M4SK-PCB|
 |eagleBoard|eagleBoard|/Adafruit MONSTER M4SK.brd|

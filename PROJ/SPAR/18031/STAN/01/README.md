@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18031 > SparkFun LTE GNSS Breakout SARA R510M8S
 
 - ID: PROJ-SPAR-18031-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18031-STAN-01|
 |Hex ID (short code)|hexID|PRPR18031|
-|Name|name|SparkFun LTE GNSS Breakout SARA R510M8S|
+|name|name|SparkFun LTE GNSS Breakout SARA R510M8S|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S|
 |gitName|gitName|SparkFun_LTE_GNSS_Breakout_SARA-R510M8S|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LTE_GNSS_Breakout_SARA-R510M8S.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18031/STAN/01/kicadPcb3d_450.png

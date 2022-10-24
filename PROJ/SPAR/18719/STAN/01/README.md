@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18719 > SparkFun GNSS Dead Reckoning ZED F9K
 
 - ID: PROJ-SPAR-18719-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18719-STAN-01|
 |Hex ID (short code)|hexID|PRPR18719|
-|Name|name|SparkFun GNSS Dead Reckoning ZED F9K|
+|name|name|SparkFun GNSS Dead Reckoning ZED F9K|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_GNSS_Dead_Reckoning_ZED-F9K|
 |gitName|gitName|SparkFun_GNSS_Dead_Reckoning_ZED-F9K|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_GPS_ZED-F9K.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_GPS_ZED-F9K.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18719/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2928 > Adafruit PWM Servo FeatherWing PCB
 
 - ID: PROJ-ADAF-2928-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2928-STAN-01|
 |Hex ID (short code)|hexID|PRPR2928|
-|Name|name|Adafruit PWM Servo FeatherWing PCB|
+|name|name|Adafruit PWM Servo FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PWM-Servo-FeatherWing-PCB|
 |gitName|gitName|Adafruit-PWM-Servo-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/PWMServo Featherwing rev B.brd|
 |eagleSchem|eagleSchem|/PWMServo Featherwing rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2928/STAN/01/kicadPcb3d_450.png

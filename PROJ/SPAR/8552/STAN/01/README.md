@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8552 > Serial DB9 Breakout
 
 - ID: PROJ-SPAR-8552-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8552-STAN-01|
 |Hex ID (short code)|hexID|PRPR8552|
-|Name|name|Serial DB9 Breakout|
+|name|name|Serial DB9 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Serial_DB9_Breakout|
 |gitName|gitName|Serial_DB9_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Serial_DB9-Breakout-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Serial_DB9-Breakout-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8552/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3405 > Adafruit HUZZAH32 ESP32 Feather PCB
 
 - ID: PROJ-ADAF-3405-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3405-STAN-01|
 |Hex ID (short code)|hexID|PRPR3405|
-|Name|name|Adafruit HUZZAH32 ESP32 Feather PCB|
+|name|name|Adafruit HUZZAH32 ESP32 Feather PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB|
 |gitName|gitName|Adafruit-HUZZAH32-ESP32-Feather-PCB|
 |eagleBoard|eagleBoard|/Adafruit HUZZAH32 ESP32 Feather.brd|
 |eagleSchem|eagleSchem|/Adafruit HUZZAH32 ESP32 Feather.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3405/STAN/01/kicadPcb3d_450.png

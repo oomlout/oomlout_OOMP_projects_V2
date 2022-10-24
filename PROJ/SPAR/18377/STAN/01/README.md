@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18377-STAN-01|
 |Hex ID (short code)|hexID|PRPR18377|
-|Name|name|SparkFun Air Velocity Sensor FS3000 Qwiic|
+|name|name|SparkFun Air Velocity Sensor FS3000 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Air_Velocity_Sensor_FS3000_Qwiic|
 |gitName|gitName|SparkFun_Air_Velocity_Sensor_FS3000_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_FS3000.brd|

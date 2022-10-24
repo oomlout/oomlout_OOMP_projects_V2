@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1770 > 2.8 TFT Breakout PCB
 
 - ID: PROJ-ADAF-1770-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1770-STAN-01|
 |Hex ID (short code)|hexID|PRPR1770|
-|Name|name|2.8 TFT Breakout PCB|
+|name|name|2.8 TFT Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/2.8-TFT-Breakout-PCB|
 |gitName|gitName|2.8-TFT-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.8 TFT Breakout v2.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.8 TFT Breakout v2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1770/STAN/01/kicadPcb3d_450.png

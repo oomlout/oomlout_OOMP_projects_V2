@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3886 > Adafruit MPU6050 PCB
 
 - ID: PROJ-ADAF-3886-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3886-STAN-01|
 |Hex ID (short code)|hexID|PRPR3886|
-|Name|name|Adafruit MPU6050 PCB|
+|name|name|Adafruit MPU6050 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPU6050-PCB|
 |gitName|gitName|Adafruit-MPU6050-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPU6050.brd|
 |eagleSchem|eagleSchem|/Adafruit MPU6050.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3886/STAN/01/kicadPcb3d_450.png

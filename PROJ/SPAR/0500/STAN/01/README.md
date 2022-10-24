@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0500-STAN-01|
 |Hex ID (short code)|hexID|PRPR0500|
-|Name|name|SSOP DIP Adapter 28 Pin|
+|name|name|SSOP DIP Adapter 28 Pin|
 |gitRepo|gitRepo|https://github.com/sparkfun/SSOP-DIP_Adapter_28-Pin|
 |gitName|gitName|SSOP-DIP_Adapter_28-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SSOP28-DIP-Adapter-v12.brd|

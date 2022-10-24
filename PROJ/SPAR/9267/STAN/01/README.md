@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9267 > LilyPad Accelerometer ADXL335
 
 - ID: PROJ-SPAR-9267-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9267-STAN-01|
 |Hex ID (short code)|hexID|PRPR9267|
-|Name|name|LilyPad Accelerometer ADXL335|
+|name|name|LilyPad Accelerometer ADXL335|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Accelerometer-ADXL335|
 |gitName|gitName|LilyPad_Accelerometer-ADXL335|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-Accelerometer-v20.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-Accelerometer-v20.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9267/STAN/01/kicadPcb3d_450.png

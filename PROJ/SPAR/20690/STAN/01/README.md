@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-20690-STAN-01|
 |Hex ID (short code)|hexID|PRPR20690|
-|Name|name|SparkFun Qwiic Speaker Amp|
+|name|name|SparkFun Qwiic Speaker Amp|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_Speaker_Amp|
 |gitName|gitName|SparkFun_Qwiic_Speaker_Amp|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Speaker_Amp.brd|

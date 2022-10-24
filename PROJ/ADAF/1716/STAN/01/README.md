@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1716 > Adafruit Qualia Driver PCB
 
 - ID: PROJ-ADAF-1716-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1716-STAN-01|
 |Hex ID (short code)|hexID|PRPR1716|
-|Name|name|Adafruit Qualia Driver PCB|
+|name|name|Adafruit Qualia Driver PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Qualia-Driver-PCB|
 |gitName|gitName|Adafruit-Qualia-Driver-PCB|
 |eagleBoard|eagleBoard|/Adafruit Qualia Driver.brd|
 |eagleSchem|eagleSchem|/Adafruit Qualia Driver.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1716/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16294-STAN-01|
 |Hex ID (short code)|hexID|PRPR16294|
-|Name|name|Qwiic Thermocouple Amplifer|
+|name|name|Qwiic Thermocouple Amplifer|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Thermocouple_Amplifer|
 |gitName|gitName|Qwiic_Thermocouple_Amplifer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Thermocouple_Amplifier_PCC/SparkFun_Qwiic_Thermocouple_Amplifier_PCC.brd|

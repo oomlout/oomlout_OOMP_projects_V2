@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17241 > SparkFun Qwiic ADXL313
 
 - ID: PROJ-SPAR-17241-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17241-STAN-01|
 |Hex ID (short code)|hexID|PRPR17241|
-|Name|name|SparkFun Qwiic ADXL313|
+|name|name|SparkFun Qwiic ADXL313|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_ADXL313|
 |gitName|gitName|SparkFun_Qwiic_ADXL313|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_ADXL313.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_ADXL313.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17241/STAN/01/kicadPcb3d_450.png

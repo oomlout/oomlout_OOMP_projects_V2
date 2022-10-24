@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0878-STAN-01|
 |Hex ID (short code)|hexID|PRPR0878|
-|Name|name|Adafruit LED Backpacks|
+|name|name|Adafruit LED Backpacks|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LED-Backpacks|
 |gitName|gitName|Adafruit-LED-Backpacks|
 |eagleBoard|eagleBoard|/Adafruit 0.54 Alphanumeric STEMMA QT.brd|

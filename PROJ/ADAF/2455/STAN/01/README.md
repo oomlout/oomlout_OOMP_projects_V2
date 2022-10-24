@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2455 > Adafruit PiTFT 2.4 Inch HAT PCB
 
 - ID: PROJ-ADAF-2455-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2455-STAN-01|
 |Hex ID (short code)|hexID|PRPR2455|
-|Name|name|Adafruit PiTFT 2.4 Inch HAT PCB|
+|name|name|Adafruit PiTFT 2.4 Inch HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiTFT-2.4-Inch-HAT-PCB|
 |gitName|gitName|Adafruit-PiTFT-2.4-Inch-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiTFT 2.4in HAT.brd|
 |eagleSchem|eagleSchem|/Adafruit PiTFT 2.4in HAT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2455/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10311 > PicoBoard
 
 - ID: PROJ-SPAR-10311-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10311-STAN-01|
 |Hex ID (short code)|hexID|PRPR10311|
-|Name|name|PicoBoard|
+|name|name|PicoBoard|
 |gitRepo|gitRepo|https://github.com/sparkfun/PicoBoard|
 |gitName|gitName|PicoBoard|
 |eagleBoard|eagleBoard|/hardware/PicoBoard.brd|
 |eagleSchem|eagleSchem|/hardware/PicoBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10311/STAN/01/kicadPcb3d_450.png

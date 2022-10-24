@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10154 > RF Transceiver Breakout RFM22B
 
 - ID: PROJ-SPAR-10154-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10154-STAN-01|
 |Hex ID (short code)|hexID|PRPR10154|
-|Name|name|RF Transceiver Breakout RFM22B|
+|name|name|RF Transceiver Breakout RFM22B|
 |gitRepo|gitRepo|https://github.com/sparkfun/RF_Transceiver_Breakout-RFM22B|
 |gitName|gitName|RF_Transceiver_Breakout-RFM22B|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RF_Transceiver-RFM22B.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_RF_Transceiver-RFM22B.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10154/STAN/01/kicadPcb3d_450.png

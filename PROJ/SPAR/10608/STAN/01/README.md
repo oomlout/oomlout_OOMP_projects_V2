@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10608 > MP3 Breakout VS1033D
 
 - ID: PROJ-SPAR-10608-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10608-STAN-01|
 |Hex ID (short code)|hexID|PRPR10608|
-|Name|name|MP3 Breakout VS1033D|
+|name|name|MP3 Breakout VS1033D|
 |gitRepo|gitRepo|https://github.com/sparkfun/MP3_Breakout-VS1033D|
 |gitName|gitName|MP3_Breakout-VS1033D|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MP3_Breakout-VS1033D.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MP3_Breakout-VS1033D.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10608/STAN/01/kicadPcb3d_450.png

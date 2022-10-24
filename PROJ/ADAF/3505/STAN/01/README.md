@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3505 > Adafruit Metro M0 Express PCB
 
 - ID: PROJ-ADAF-3505-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3505-STAN-01|
 |Hex ID (short code)|hexID|PRPR3505|
-|Name|name|Adafruit Metro M0 Express PCB|
+|name|name|Adafruit Metro M0 Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Metro-M0-Express-PCB|
 |gitName|gitName|Adafruit-Metro-M0-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit Metro M0 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit Metro M0 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3505/STAN/01/kicadPcb3d_450.png

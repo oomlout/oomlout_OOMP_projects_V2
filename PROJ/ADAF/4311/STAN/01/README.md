@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4311 > Adafruit 2.0 inch 240x320 TFT PCB
 
 - ID: PROJ-ADAF-4311-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4311-STAN-01|
 |Hex ID (short code)|hexID|PRPR4311|
-|Name|name|Adafruit 2.0 inch 240x320 TFT PCB|
+|name|name|Adafruit 2.0 inch 240x320 TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.0-inch-240x320-TFT-PCB|
 |gitName|gitName|Adafruit-2.0-inch-240x320-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.0 inch 240x320 IPS TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.0 inch 240x320 IPS TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4311/STAN/01/kicadPcb3d_450.png

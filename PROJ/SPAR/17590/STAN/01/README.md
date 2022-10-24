@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17590 > Qwiic Haptic Driver DA7280
 
 - ID: PROJ-SPAR-17590-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17590-STAN-01|
 |Hex ID (short code)|hexID|PRPR17590|
-|Name|name|Qwiic Haptic Driver DA7280|
+|name|name|Qwiic Haptic Driver DA7280|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Haptic_Driver_DA7280|
 |gitName|gitName|Qwiic_Haptic_Driver_DA7280|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Haptic_Driver_DA7280.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Haptic_Driver_DA7280.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17590/STAN/01/kicadPcb3d_450.png

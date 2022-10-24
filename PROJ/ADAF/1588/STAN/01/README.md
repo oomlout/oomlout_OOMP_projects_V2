@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1588 > Adafruit Bluefruit Classic PCBs
 
 - ID: PROJ-ADAF-1588-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1588-STAN-01|
 |Hex ID (short code)|hexID|PRPR1588|
-|Name|name|Adafruit Bluefruit Classic PCBs|
+|name|name|Adafruit Bluefruit Classic PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-Classic-PCBs|
 |gitName|gitName|Adafruit-Bluefruit-Classic-PCBs|
 |eagleBoard|eagleBoard|/Adafruit EZ-Link Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit EZ-Link Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1588/STAN/01/kicadPcb3d_450.png

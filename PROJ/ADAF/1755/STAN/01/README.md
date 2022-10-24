@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1755 > Adafruit LED Sequin PCB
 
 - ID: PROJ-ADAF-1755-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1755-STAN-01|
 |Hex ID (short code)|hexID|PRPR1755|
-|Name|name|Adafruit LED Sequin PCB|
+|name|name|Adafruit LED Sequin PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LED-Sequin-PCB|
 |gitName|gitName|Adafruit-LED-Sequin-PCB|
 |eagleBoard|eagleBoard|/Adafruit LED Sequin.brd|
 |eagleSchem|eagleSchem|/Adafruit LED Sequin.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1755/STAN/01/kicadPcb3d_450.png

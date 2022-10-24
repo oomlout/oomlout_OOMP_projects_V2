@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3449 > Adafruit DotStar FeatherWing PCB
 
 - ID: PROJ-ADAF-3449-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3449-STAN-01|
 |Hex ID (short code)|hexID|PRPR3449|
-|Name|name|Adafruit DotStar FeatherWing PCB|
+|name|name|Adafruit DotStar FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DotStar-FeatherWing-PCB|
 |gitName|gitName|Adafruit-DotStar-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit DotStar Wing.brd|
 |eagleSchem|eagleSchem|/Adafruit DotStar Wing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3449/STAN/01/kicadPcb3d_450.png

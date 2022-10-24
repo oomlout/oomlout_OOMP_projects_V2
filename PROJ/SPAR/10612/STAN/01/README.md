@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10612 > Tri Axis Gyro Breakout L3G4200D
 
 - ID: PROJ-SPAR-10612-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10612-STAN-01|
 |Hex ID (short code)|hexID|PRPR10612|
-|Name|name|Tri Axis Gyro Breakout L3G4200D|
+|name|name|Tri Axis Gyro Breakout L3G4200D|
 |gitRepo|gitRepo|https://github.com/sparkfun/Tri-Axis_Gyro_Breakout-L3G4200D|
 |gitName|gitName|Tri-Axis_Gyro_Breakout-L3G4200D|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Gyro_Breakout-L3G4200D.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Gyro_Breakout-L3G4200D.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10612/STAN/01/kicadPcb3d_450.png

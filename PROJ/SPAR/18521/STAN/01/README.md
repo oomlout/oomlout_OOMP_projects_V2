@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18521 > SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic
 
 - ID: PROJ-SPAR-18521-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18521-STAN-01|
 |Hex ID (short code)|hexID|PRPR18521|
-|Name|name|SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic|
+|name|name|SparkFun Digital Temperature Sensor Breakout AS6212 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic|
 |gitName|gitName|SparkFun_Digital_Temperature_Sensor_Breakout_AS6212_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_AS6212_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/Sparkfun_AS6212_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18521/STAN/01/kicadPcb3d_450.png

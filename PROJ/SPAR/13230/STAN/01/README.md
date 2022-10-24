@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13230 > HX711 Load Cell Amplifier
 
 - ID: PROJ-SPAR-13230-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13230-STAN-01|
 |Hex ID (short code)|hexID|PRPR13230|
-|Name|name|HX711 Load Cell Amplifier|
+|name|name|HX711 Load Cell Amplifier|
 |gitRepo|gitRepo|https://github.com/sparkfun/HX711-Load-Cell-Amplifier|
 |gitName|gitName|HX711-Load-Cell-Amplifier|
 |eagleBoard|eagleBoard|/hardware/SparkFun_HX711_Load_Cell.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_HX711_Load_Cell.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13230/STAN/01/kicadPcb3d_450.png

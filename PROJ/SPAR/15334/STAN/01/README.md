@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15334 > SparkFun Qwiic 12 Bit ADC   4 Channel ADS1015
 
 - ID: PROJ-SPAR-15334-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15334-STAN-01|
 |Hex ID (short code)|hexID|PRPR15334|
-|Name|name|SparkFun Qwiic 12 Bit ADC   4 Channel ADS1015|
+|name|name|SparkFun Qwiic 12 Bit ADC   4 Channel ADS1015|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015|
 |gitName|gitName|SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_12_Bit_ADC_-_4_Channel_ADS1015.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15334/STAN/01/kicadPcb3d_450.png

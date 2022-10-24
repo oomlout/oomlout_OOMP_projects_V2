@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9964 > Electret Microphone Breakout
 
 - ID: PROJ-SPAR-9964-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9964-STAN-01|
 |Hex ID (short code)|hexID|PRPR9964|
-|Name|name|Electret Microphone Breakout|
+|name|name|Electret Microphone Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Electret_Microphone_Breakout|
 |gitName|gitName|Electret_Microphone_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Amplified-Mic-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Amplified-Mic-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9964/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10412 > Fabrickit LED Brick
 
 - ID: PROJ-SPAR-10412-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10412-STAN-01|
 |Hex ID (short code)|hexID|PRPR10412|
-|Name|name|Fabrickit LED Brick|
+|name|name|Fabrickit LED Brick|
 |gitRepo|gitRepo|https://github.com/sparkfun/Fabrickit_LED_Brick|
 |gitName|gitName|Fabrickit_LED_Brick|
 |eagleBoard|eagleBoard|/Hardware/Fabrickit-Bare-Brick.brd|
 |eagleSchem|eagleSchem|/Hardware/Fabrickit-Bare-Brick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10412/STAN/01/kicadPcb3d_450.png

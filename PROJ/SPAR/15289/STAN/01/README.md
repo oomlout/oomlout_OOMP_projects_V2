@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15289 > gator microphone
 
 - ID: PROJ-SPAR-15289-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15289-STAN-01|
 |Hex ID (short code)|hexID|PRPR15289|
-|Name|name|gator microphone|
+|name|name|gator microphone|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_microphone|
 |gitName|gitName|gator_microphone|
 |eagleBoard|eagleBoard|/hardware/gatormicrophone.brd|
 |eagleSchem|eagleSchem|/hardware/gatormicrophone.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15289/STAN/01/kicadPcb3d_450.png

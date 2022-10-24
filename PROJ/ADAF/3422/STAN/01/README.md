@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3422 > Adafruit Arcade Bonnet PCB
 
 - ID: PROJ-ADAF-3422-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3422-STAN-01|
 |Hex ID (short code)|hexID|PRPR3422|
-|Name|name|Adafruit Arcade Bonnet PCB|
+|name|name|Adafruit Arcade Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Arcade-Bonnet-PCB|
 |gitName|gitName|Adafruit-Arcade-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Arcade Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Arcade Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3422/STAN/01/kicadPcb3d_450.png

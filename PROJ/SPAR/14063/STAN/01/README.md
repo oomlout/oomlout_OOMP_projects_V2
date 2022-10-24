@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14063 > LilyPad LilyMini ProtoSnap
 
 - ID: PROJ-SPAR-14063-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14063-STAN-01|
 |Hex ID (short code)|hexID|PRPR14063|
-|Name|name|LilyPad LilyMini ProtoSnap|
+|name|name|LilyPad LilyMini ProtoSnap|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_LilyMini_ProtoSnap|
 |gitName|gitName|LilyPad_LilyMini_ProtoSnap|
 |eagleBoard|eagleBoard|/Hardware/LilyMini_Protosnap.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyMini_Protosnap.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14063/STAN/01/kicadPcb3d_450.png

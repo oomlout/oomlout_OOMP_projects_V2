@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14812 > RedBoard Turbo
 
 - ID: PROJ-SPAR-14812-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14812-STAN-01|
 |Hex ID (short code)|hexID|PRPR14812|
-|Name|name|RedBoard Turbo|
+|name|name|RedBoard Turbo|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Turbo|
 |gitName|gitName|RedBoard_Turbo|
 |eagleBoard|eagleBoard|/Hardware/RedBoard_Turbo.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBoard_Turbo.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14812/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12786 > ADXL337 Breakout
 
 - ID: PROJ-SPAR-12786-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12786-STAN-01|
 |Hex ID (short code)|hexID|PRPR12786|
-|Name|name|ADXL337 Breakout|
+|name|name|ADXL337 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ADXL337_Breakout|
 |gitName|gitName|ADXL337_Breakout|
 |eagleBoard|eagleBoard|/hardware/ADXL337 Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/ADXL337 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12786/STAN/01/kicadPcb3d_450.png

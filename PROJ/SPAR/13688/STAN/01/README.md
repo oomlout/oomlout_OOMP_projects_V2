@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13688 > MyoWare LED Shield
 
 - ID: PROJ-SPAR-13688-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13688-STAN-01|
 |Hex ID (short code)|hexID|PRPR13688|
-|Name|name|MyoWare LED Shield|
+|name|name|MyoWare LED Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MyoWare_LED_Shield|
 |gitName|gitName|MyoWare_LED_Shield|
 |eagleBoard|eagleBoard|/Hardware/MyoWare_LED_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/MyoWare_LED_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13688/STAN/01/kicadPcb3d_450.png

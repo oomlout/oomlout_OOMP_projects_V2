@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11446 > ADXL362 Breakout
 
 - ID: PROJ-SPAR-11446-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11446-STAN-01|
 |Hex ID (short code)|hexID|PRPR11446|
-|Name|name|ADXL362 Breakout|
+|name|name|ADXL362 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ADXL362_Breakout|
 |gitName|gitName|ADXL362_Breakout|
 |eagleBoard|eagleBoard|/Hardware/ADXL362_BOB.brd|
 |eagleSchem|eagleSchem|/Hardware/ADXL362_BOB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11446/STAN/01/kicadPcb3d_450.png

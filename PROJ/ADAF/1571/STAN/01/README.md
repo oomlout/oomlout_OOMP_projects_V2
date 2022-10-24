@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1571 > Adafruit STMPE610 Breakout PCB
 
 - ID: PROJ-ADAF-1571-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1571-STAN-01|
 |Hex ID (short code)|hexID|PRPR1571|
-|Name|name|Adafruit STMPE610 Breakout PCB|
+|name|name|Adafruit STMPE610 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-STMPE610-Breakout-PCB|
 |gitName|gitName|Adafruit-STMPE610-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit STMPE610.brd|
 |eagleSchem|eagleSchem|/Adafruit STMPE610.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1571/STAN/01/kicadPcb3d_450.png

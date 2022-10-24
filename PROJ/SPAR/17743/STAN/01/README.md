@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17743 > ESP32 S2 Thing Plus
 
 - ID: PROJ-SPAR-17743-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17743-STAN-01|
 |Hex ID (short code)|hexID|PRPR17743|
-|Name|name|ESP32 S2 Thing Plus|
+|name|name|ESP32 S2 Thing Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32-S2_Thing_Plus|
 |gitName|gitName|ESP32-S2_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/ESP32-S2_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/ESP32-S2_Thing_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17743/STAN/01/kicadPcb3d_450.png

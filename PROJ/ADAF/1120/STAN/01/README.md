@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1120 > Adafruit LSM303 PCB
 
 - ID: PROJ-ADAF-1120-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1120-STAN-01|
 |Hex ID (short code)|hexID|PRPR1120|
-|Name|name|Adafruit LSM303 PCB|
+|name|name|Adafruit LSM303 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM303-PCB|
 |gitName|gitName|Adafruit-LSM303-PCB|
 |eagleBoard|eagleBoard|/Adafruit_LSM303DLHC.brd|
 |eagleSchem|eagleSchem|/Adafruit_LSM303DLHC.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1120/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13279 > Large Digit Driver
 
 - ID: PROJ-SPAR-13279-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13279-STAN-01|
 |Hex ID (short code)|hexID|PRPR13279|
-|Name|name|Large Digit Driver|
+|name|name|Large Digit Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Large_Digit_Driver|
 |gitName|gitName|Large_Digit_Driver|
 |eagleBoard|eagleBoard|/Hardware/SparkFunLargeDigitDriver.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunLargeDigitDriver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13279/STAN/01/kicadPcb3d_450.png

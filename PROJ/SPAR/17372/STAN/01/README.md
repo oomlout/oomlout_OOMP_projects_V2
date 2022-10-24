@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17372 > SparkFun PIR Breakout
 
 - ID: PROJ-SPAR-17372-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17372-STAN-01|
 |Hex ID (short code)|hexID|PRPR17372|
-|Name|name|SparkFun PIR Breakout|
+|name|name|SparkFun PIR Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_PIR_Breakout|
 |gitName|gitName|SparkFun_PIR_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_PIR_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_PIR_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17372/STAN/01/kicadPcb3d_450.png

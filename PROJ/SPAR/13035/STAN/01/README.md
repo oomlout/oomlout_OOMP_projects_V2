@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13035 > Edison OLED Block
 
 - ID: PROJ-SPAR-13035-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13035-STAN-01|
 |Hex ID (short code)|hexID|PRPR13035|
-|Name|name|Edison OLED Block|
+|name|name|Edison OLED Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_OLED_Block|
 |gitName|gitName|Edison_OLED_Block|
 |eagleBoard|eagleBoard|/Hardware/oled_block.brd|
 |eagleSchem|eagleSchem|/Hardware/oled_block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13035/STAN/01/kicadPcb3d_450.png

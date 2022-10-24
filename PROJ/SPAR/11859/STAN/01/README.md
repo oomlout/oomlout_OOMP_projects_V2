@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11859 > TMP006 Temp Sensor Breakout
 
 - ID: PROJ-SPAR-11859-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11859-STAN-01|
 |Hex ID (short code)|hexID|PRPR11859|
-|Name|name|TMP006 Temp Sensor Breakout|
+|name|name|TMP006 Temp Sensor Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/TMP006-Temp_Sensor_Breakout|
 |gitName|gitName|TMP006-Temp_Sensor_Breakout|
 |eagleBoard|eagleBoard|/hardware/TMP006 Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/TMP006 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11859/STAN/01/kicadPcb3d_450.png

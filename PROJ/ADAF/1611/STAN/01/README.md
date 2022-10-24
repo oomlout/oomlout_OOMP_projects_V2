@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1611 > Adafruit Trellis
 
 - ID: PROJ-ADAF-1611-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1611-STAN-01|
 |Hex ID (short code)|hexID|PRPR1611|
-|Name|name|Adafruit Trellis|
+|name|name|Adafruit Trellis|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_Trellis|
 |gitName|gitName|Adafruit_Trellis|
 |eagleBoard|eagleBoard|/Adafruit Trellis 4x4 3mm HT16K33.brd|
 |eagleSchem|eagleSchem|/Adafruit Trellis 4x4 3mm HT16K33.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1611/STAN/01/kicadPcb3d_450.png

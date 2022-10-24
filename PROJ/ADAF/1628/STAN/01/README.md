@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1628 > Adafruit Bluefruit EZ Link Shield PCB
 
 - ID: PROJ-ADAF-1628-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1628-STAN-01|
 |Hex ID (short code)|hexID|PRPR1628|
-|Name|name|Adafruit Bluefruit EZ Link Shield PCB|
+|name|name|Adafruit Bluefruit EZ Link Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-EZ-Link-Shield-PCB|
 |gitName|gitName|Adafruit-Bluefruit-EZ-Link-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit EZ-Link Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit EZ-Link Shield.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1628/STAN/01/kicadPcb3d_450.png

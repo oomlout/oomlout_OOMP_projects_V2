@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11520 > Fio v3
 
 - ID: PROJ-SPAR-11520-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11520-STAN-01|
 |Hex ID (short code)|hexID|PRPR11520|
-|Name|name|Fio v3|
+|name|name|Fio v3|
 |gitRepo|gitRepo|https://github.com/sparkfun/Fio_v3|
 |gitName|gitName|Fio_v3|
 |eagleBoard|eagleBoard|/Hardware/Arduino-Fio.brd|
 |eagleSchem|eagleSchem|/Hardware/Arduino-Fio.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11520/STAN/01/kicadPcb3d_450.png

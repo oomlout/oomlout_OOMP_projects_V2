@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18037-STAN-01|
 |Hex ID (short code)|hexID|PRPR18037|
-|Name|name|SparkFun u blox MAX M10S|
+|name|name|SparkFun u blox MAX M10S|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_u-blox_MAX-M10S|
 |gitName|gitName|SparkFun_u-blox_MAX-M10S|
 |eagleBoard|eagleBoard|/Hardware/SparkFun u-blox GNSS MAX-M10S.brd|

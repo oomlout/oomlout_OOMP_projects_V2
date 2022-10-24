@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18077 > SparkFun Cryptographic Co Processor Breakout ATECC608A Qwiic
 
 - ID: PROJ-SPAR-18077-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18077-STAN-01|
 |Hex ID (short code)|hexID|PRPR18077|
-|Name|name|SparkFun Cryptographic Co Processor Breakout ATECC608A Qwiic|
+|name|name|SparkFun Cryptographic Co Processor Breakout ATECC608A Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic|
 |gitName|gitName|SparkFun_Cryptographic_Co-Processor_Breakout_ATECC608A_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Cryptographic_Co-processor_ATECC608A.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Cryptographic_Co-processor_ATECC608A.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18077/STAN/01/kicadPcb3d_450.png

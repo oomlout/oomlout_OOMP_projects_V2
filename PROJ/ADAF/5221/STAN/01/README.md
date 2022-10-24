@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5221 > Adafruit ANO Rotary Navigation Encoder Breakout PCB
 
 - ID: PROJ-ADAF-5221-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5221-STAN-01|
 |Hex ID (short code)|hexID|PRPR5221|
-|Name|name|Adafruit ANO Rotary Navigation Encoder Breakout PCB|
+|name|name|Adafruit ANO Rotary Navigation Encoder Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB|
 |gitName|gitName|Adafruit-ANO-Rotary-Navigation-Encoder-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit ANO Rotary Encoder Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit ANO Rotary Encoder Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5221/STAN/01/kicadPcb3d_450.png

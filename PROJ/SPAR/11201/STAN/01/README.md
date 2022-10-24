@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11201 > ProtoSnap LilyPad Dev Simple
 
 - ID: PROJ-SPAR-11201-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11201-STAN-01|
 |Hex ID (short code)|hexID|PRPR11201|
-|Name|name|ProtoSnap LilyPad Dev Simple|
+|name|name|ProtoSnap LilyPad Dev Simple|
 |gitRepo|gitRepo|https://github.com/sparkfun/ProtoSnap-LilyPad_Dev_Simple|
 |gitName|gitName|ProtoSnap-LilyPad_Dev_Simple|
 |eagleBoard|eagleBoard|/Hardware/LilyPad-Dev-Simple-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad-Dev-Simple-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11201/STAN/01/kicadPcb3d_450.png

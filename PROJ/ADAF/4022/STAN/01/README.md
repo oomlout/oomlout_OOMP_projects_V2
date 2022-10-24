@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4022 > Adafruit MLX90393 PCB
 
 - ID: PROJ-ADAF-4022-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4022-STAN-01|
 |Hex ID (short code)|hexID|PRPR4022|
-|Name|name|Adafruit MLX90393 PCB|
+|name|name|Adafruit MLX90393 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MLX90393-PCB|
 |gitName|gitName|Adafruit-MLX90393-PCB|
 |eagleBoard|eagleBoard|/Adafruit MLX90393 QT.brd|
 |eagleSchem|eagleSchem|/Adafruit MLX90393 QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4022/STAN/01/kicadPcb3d_450.png

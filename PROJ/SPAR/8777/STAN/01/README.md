@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8777 > LilyPad Temperature Sensor
 
 - ID: PROJ-SPAR-8777-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8777-STAN-01|
 |Hex ID (short code)|hexID|PRPR8777|
-|Name|name|LilyPad Temperature Sensor|
+|name|name|LilyPad Temperature Sensor|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Temperature_Sensor|
 |gitName|gitName|LilyPad_Temperature_Sensor|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Temperature_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Temperature_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8777/STAN/01/kicadPcb3d_450.png

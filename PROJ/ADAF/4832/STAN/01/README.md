@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4832 > Adafruit HTU31 PCB
 
 - ID: PROJ-ADAF-4832-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4832-STAN-01|
 |Hex ID (short code)|hexID|PRPR4832|
-|Name|name|Adafruit HTU31 PCB|
+|name|name|Adafruit HTU31 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HTU31-PCB|
 |gitName|gitName|Adafruit-HTU31-PCB|
 |eagleBoard|eagleBoard|/Adafruit HTU31D.brd|
 |eagleSchem|eagleSchem|/Adafruit HTU31D.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4832/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12858 > Vernier Interface Shield
 
 - ID: PROJ-SPAR-12858-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12858-STAN-01|
 |Hex ID (short code)|hexID|PRPR12858|
-|Name|name|Vernier Interface Shield|
+|name|name|Vernier Interface Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/Vernier_Interface_Shield|
 |gitName|gitName|Vernier_Interface_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Vernier_Interface_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Vernier_Interface_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12858/STAN/01/kicadPcb3d_450.png

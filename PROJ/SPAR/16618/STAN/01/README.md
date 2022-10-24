@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16618-STAN-01|
 |Hex ID (short code)|hexID|PRPR16618|
-|Name|name|SparkFun Qwiic Humidity AHT20|
+|name|name|SparkFun Qwiic Humidity AHT20|
 |gitRepo|gitRepo|https://github.com/sparkfunX/Qwiic_Humidity_AHT20|
 |gitName|gitName|Qwiic_Humidity_AHT20|
 |eagleBoard|eagleBoard|Hardware/Qwiic EEPROM.brd|

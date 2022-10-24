@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12705 > ML8511 Breakout
 
 - ID: PROJ-SPAR-12705-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12705-STAN-01|
 |Hex ID (short code)|hexID|PRPR12705|
-|Name|name|ML8511 Breakout|
+|name|name|ML8511 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ML8511_Breakout|
 |gitName|gitName|ML8511_Breakout|
 |eagleBoard|eagleBoard|/hardware/ML8511_Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/ML8511_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12705/STAN/01/kicadPcb3d_450.png

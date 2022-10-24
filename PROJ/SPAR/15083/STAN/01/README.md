@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15083 > Qwiic Twist
 
 - ID: PROJ-SPAR-15083-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15083-STAN-01|
 |Hex ID (short code)|hexID|PRPR15083|
-|Name|name|Qwiic Twist|
+|name|name|Qwiic Twist|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Twist|
 |gitName|gitName|Qwiic_Twist|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Twist.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Twist.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15083/STAN/01/kicadPcb3d_450.png

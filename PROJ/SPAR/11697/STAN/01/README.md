@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11697 > XBee Explorer Dongle
 
 - ID: PROJ-SPAR-11697-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11697-STAN-01|
 |Hex ID (short code)|hexID|PRPR11697|
-|Name|name|XBee Explorer Dongle|
+|name|name|XBee Explorer Dongle|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Explorer_Dongle|
 |gitName|gitName|XBee_Explorer_Dongle|
 |eagleBoard|eagleBoard|/Hardware/XBee-Explorer-Dongle.brd|
 |eagleSchem|eagleSchem|/Hardware/XBee-Explorer-Dongle.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11697/STAN/01/kicadPcb3d_450.png

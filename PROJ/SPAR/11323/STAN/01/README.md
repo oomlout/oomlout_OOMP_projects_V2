@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11323 > EL Sequencer
 
 - ID: PROJ-SPAR-11323-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11323-STAN-01|
 |Hex ID (short code)|hexID|PRPR11323|
-|Name|name|EL Sequencer|
+|name|name|EL Sequencer|
 |gitRepo|gitRepo|https://github.com/sparkfun/EL_Sequencer|
 |gitName|gitName|EL_Sequencer|
 |eagleBoard|eagleBoard|/Hardware/EL_Sequencer.brd|
 |eagleSchem|eagleSchem|/Hardware/EL_Sequencer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11323/STAN/01/kicadPcb3d_450.png

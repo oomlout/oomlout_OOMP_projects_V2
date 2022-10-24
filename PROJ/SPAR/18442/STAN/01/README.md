@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18442 > SparkFun RTK Express
 
 - ID: PROJ-SPAR-18442-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18442-STAN-01|
 |Hex ID (short code)|hexID|PRPR18442|
-|Name|name|SparkFun RTK Express|
+|name|name|SparkFun RTK Express|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_RTK_Express|
 |gitName|gitName|SparkFun_RTK_Express|
 |eagleBoard|eagleBoard|/Hardware/SparkFun RTK Express.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun RTK Express.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18442/STAN/01/kicadPcb3d_450.png

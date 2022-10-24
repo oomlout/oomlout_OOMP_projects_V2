@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9118 > Opto Isolator Breakout
 
 - ID: PROJ-SPAR-9118-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9118-STAN-01|
 |Hex ID (short code)|hexID|PRPR9118|
-|Name|name|Opto Isolator Breakout|
+|name|name|Opto Isolator Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Opto_Isolator_Breakout|
 |gitName|gitName|Opto_Isolator_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Opto_Isolator_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Opto_Isolator_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9118/STAN/01/kicadPcb3d_450.png

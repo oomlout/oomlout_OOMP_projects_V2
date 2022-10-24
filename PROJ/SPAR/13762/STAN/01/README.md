@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13762 > MPU 9250 Breakout
 
 - ID: PROJ-SPAR-13762-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13762-STAN-01|
 |Hex ID (short code)|hexID|PRPR13762|
-|Name|name|MPU 9250 Breakout|
+|name|name|MPU 9250 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPU-9250_Breakout|
 |gitName|gitName|MPU-9250_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MPU-9250_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MPU-9250_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13762/STAN/01/kicadPcb3d_450.png

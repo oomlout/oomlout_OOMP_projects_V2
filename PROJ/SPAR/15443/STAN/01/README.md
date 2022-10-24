@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15443 > RedBoard Artemis Nano
 
 - ID: PROJ-SPAR-15443-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15443-STAN-01|
 |Hex ID (short code)|hexID|PRPR15443|
-|Name|name|RedBoard Artemis Nano|
+|name|name|RedBoard Artemis Nano|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Artemis_Nano|
 |gitName|gitName|RedBoard_Artemis_Nano|
 |eagleBoard|eagleBoard|/Hardware/RedBoard-Artemis-Nano.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBoard-Artemis-Nano.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15443/STAN/01/kicadPcb3d_450.png

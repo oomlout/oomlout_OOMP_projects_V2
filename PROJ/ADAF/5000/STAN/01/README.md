@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5000 > Adafruit Feather ESP32 S2 PCB
 
 - ID: PROJ-ADAF-5000-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5000-STAN-01|
 |Hex ID (short code)|hexID|PRPR5000|
-|Name|name|Adafruit Feather ESP32 S2 PCB|
+|name|name|Adafruit Feather ESP32 S2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-ESP32-S2-PCB|
 |gitName|gitName|Adafruit-Feather-ESP32-S2-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather ESP32-S2 Rev C.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather ESP32-S2 Rev C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5000/STAN/01/kicadPcb3d_450.png

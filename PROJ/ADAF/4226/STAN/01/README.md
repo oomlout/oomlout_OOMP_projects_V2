@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4226 > Adafruit INA260 PCB
 
 - ID: PROJ-ADAF-4226-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4226-STAN-01|
 |Hex ID (short code)|hexID|PRPR4226|
-|Name|name|Adafruit INA260 PCB|
+|name|name|Adafruit INA260 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-INA260-PCB|
 |gitName|gitName|Adafruit-INA260-PCB|
 |eagleBoard|eagleBoard|/Adafruit INA260.brd|
 |eagleSchem|eagleSchem|/Adafruit INA260.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4226/STAN/01/kicadPcb3d_450.png

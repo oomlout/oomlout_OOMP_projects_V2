@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9101 > LilyPad Protoboard Large
 
 - ID: PROJ-SPAR-9101-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9101-STAN-01|
 |Hex ID (short code)|hexID|PRPR9101|
-|Name|name|LilyPad Protoboard Large|
+|name|name|LilyPad Protoboard Large|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Protoboard_Large|
 |gitName|gitName|LilyPad_Protoboard_Large|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Protoboard_Large.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Protoboard_Large.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9101/STAN/01/kicadPcb3d_450.png

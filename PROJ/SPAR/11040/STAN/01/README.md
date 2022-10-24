@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11040 > LED RingCoder Breakout
 
 - ID: PROJ-SPAR-11040-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11040-STAN-01|
 |Hex ID (short code)|hexID|PRPR11040|
-|Name|name|LED RingCoder Breakout|
+|name|name|LED RingCoder Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LED_RingCoder_Breakout|
 |gitName|gitName|LED_RingCoder_Breakout|
 |eagleBoard|eagleBoard|/Hardware/LED-RingCoder.brd|
 |eagleSchem|eagleSchem|/Hardware/LED-RingCoder.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11040/STAN/01/kicadPcb3d_450.png

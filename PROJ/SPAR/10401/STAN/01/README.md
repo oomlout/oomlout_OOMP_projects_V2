@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10401 > Lipo Charger Basic miniUSB
 
 - ID: PROJ-SPAR-10401-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10401-STAN-01|
 |Hex ID (short code)|hexID|PRPR10401|
-|Name|name|Lipo Charger Basic miniUSB|
+|name|name|Lipo Charger Basic miniUSB|
 |gitRepo|gitRepo|https://github.com/sparkfun/Lipo_Charger_Basic-miniUSB|
 |gitName|gitName|Lipo_Charger_Basic-miniUSB|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LiPo-Charger-Basic-MiniUSB.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LiPo-Charger-Basic-MiniUSB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10401/STAN/01/kicadPcb3d_450.png

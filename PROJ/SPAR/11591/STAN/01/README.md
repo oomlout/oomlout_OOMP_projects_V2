@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11591 > ISP Pogo Board
 
 - ID: PROJ-SPAR-11591-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11591-STAN-01|
 |Hex ID (short code)|hexID|PRPR11591|
-|Name|name|ISP Pogo Board|
+|name|name|ISP Pogo Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/ISP_Pogo_Board|
 |gitName|gitName|ISP_Pogo_Board|
 |eagleBoard|eagleBoard|/Hardware/ISP_Pogo_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/ISP_Pogo_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11591/STAN/01/kicadPcb3d_450.png

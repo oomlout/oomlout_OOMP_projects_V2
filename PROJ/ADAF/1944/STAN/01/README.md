@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1944 > Adafruit PowerBoost 500 Charger PCB
 
 - ID: PROJ-ADAF-1944-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1944-STAN-01|
 |Hex ID (short code)|hexID|PRPR1944|
-|Name|name|Adafruit PowerBoost 500 Charger PCB|
+|name|name|Adafruit PowerBoost 500 Charger PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PowerBoost-500-Charger-PCB|
 |gitName|gitName|Adafruit-PowerBoost-500-Charger-PCB|
 |eagleBoard|eagleBoard|/Adafruit PowerBoost 500C.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerBoost 500C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1944/STAN/01/kicadPcb3d_450.png

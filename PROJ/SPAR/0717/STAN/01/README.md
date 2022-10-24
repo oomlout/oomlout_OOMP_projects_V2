@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0717-STAN-01|
 |Hex ID (short code)|hexID|PRPR0717|
-|Name|name|SOT23 DIP Adapter|
+|name|name|SOT23 DIP Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/SOT23_DIP_Adapter|
 |gitName|gitName|SOT23_DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOT23-DIP-Adapter-v10.brd|

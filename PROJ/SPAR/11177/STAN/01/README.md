@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11177 > Sparkpunk
 
 - ID: PROJ-SPAR-11177-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11177-STAN-01|
 |Hex ID (short code)|hexID|PRPR11177|
-|Name|name|Sparkpunk|
+|name|name|Sparkpunk|
 |gitRepo|gitRepo|https://github.com/sparkfun/Sparkpunk|
 |gitName|gitName|Sparkpunk|
 |eagleBoard|eagleBoard|/hardware/sparkpunk.brd|
 |eagleSchem|eagleSchem|/hardware/sparkpunk.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11177/STAN/01/kicadPcb3d_450.png

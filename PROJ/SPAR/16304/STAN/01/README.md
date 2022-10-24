@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16304 > Temperature Sensor TMP102 Qwiic
 
 - ID: PROJ-SPAR-16304-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16304-STAN-01|
 |Hex ID (short code)|hexID|PRPR16304|
-|Name|name|Temperature Sensor TMP102 Qwiic|
+|name|name|Temperature Sensor TMP102 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/Temperature_Sensor_TMP102_Qwiic|
 |gitName|gitName|Temperature_Sensor_TMP102_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_TMP102_Qwiic.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_TMP102_Qwiic.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16304/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11013 > LilyPad MP3 Player
 
 - ID: PROJ-SPAR-11013-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11013-STAN-01|
 |Hex ID (short code)|hexID|PRPR11013|
-|Name|name|LilyPad MP3 Player|
+|name|name|LilyPad MP3 Player|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_MP3_Player|
 |gitName|gitName|LilyPad_MP3_Player|
 |eagleBoard|eagleBoard|/hardware/LilyPad-MP3-v15a.brd|
 |eagleSchem|eagleSchem|/hardware/LilyPad-MP3-v15a.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11013/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15573 > SparkFun Cryptographic Co Processor Breakout ATECC508A Qwiic
 
 - ID: PROJ-SPAR-15573-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15573-STAN-01|
 |Hex ID (short code)|hexID|PRPR15573|
-|Name|name|SparkFun Cryptographic Co Processor Breakout ATECC508A Qwiic|
+|name|name|SparkFun Cryptographic Co Processor Breakout ATECC508A Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic|
 |gitName|gitName|SparkFun_Cryptographic_Co-Processor_Breakout_ATECC508A_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Cryptographic_Co-processor_ATECC508A.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Cryptographic_Co-processor_ATECC508A.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15573/STAN/01/kicadPcb3d_450.png

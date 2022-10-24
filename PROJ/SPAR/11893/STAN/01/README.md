@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11893 > LilyPad Simple Power
 
 - ID: PROJ-SPAR-11893-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11893-STAN-01|
 |Hex ID (short code)|hexID|PRPR11893|
-|Name|name|LilyPad Simple Power|
+|name|name|LilyPad Simple Power|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Simple_Power|
 |gitName|gitName|LilyPad_Simple_Power|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Simple_Power.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Simple_Power.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11893/STAN/01/kicadPcb3d_450.png

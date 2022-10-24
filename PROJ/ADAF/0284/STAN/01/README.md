@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0284-STAN-01|
 |Hex ID (short code)|hexID|PRPR0284|
-|Name|name|Adafruit FTDI Friend PCB|
+|name|name|Adafruit FTDI Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit_FTDI-Friend-PCB|
 |gitName|gitName|Adafruit_FTDI-Friend-PCB|
 |eagleBoard|eagleBoard|/ftdifriend.brd|

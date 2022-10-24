@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15242 > Qwiic Scale
 
 - ID: PROJ-SPAR-15242-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15242-STAN-01|
 |Hex ID (short code)|hexID|PRPR15242|
-|Name|name|Qwiic Scale|
+|name|name|Qwiic Scale|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Scale|
 |gitName|gitName|Qwiic_Scale|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Scale.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Scale.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15242/STAN/01/kicadPcb3d_450.png

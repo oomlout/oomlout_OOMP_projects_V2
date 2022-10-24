@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15436 > SparkFun Ambient Sensor VEML6030
 
 - ID: PROJ-SPAR-15436-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15436-STAN-01|
 |Hex ID (short code)|hexID|PRPR15436|
-|Name|name|SparkFun Ambient Sensor VEML6030|
+|name|name|SparkFun Ambient Sensor VEML6030|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Ambient_Sensor_VEML6030|
 |gitName|gitName|SparkFun_Ambient_Sensor_VEML6030|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Ambient_Light_Sensor_VEML6030.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Ambient_Light_Sensor_VEML6030.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15436/STAN/01/kicadPcb3d_450.png

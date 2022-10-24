@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4687 > Adafruit 2 13in eInk Bonnet PCB
 
 - ID: PROJ-ADAF-4687-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4687-STAN-01|
 |Hex ID (short code)|hexID|PRPR4687|
-|Name|name|Adafruit 2 13in eInk Bonnet PCB|
+|name|name|Adafruit 2 13in eInk Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2-13in-eInk-Bonnet-PCB|
 |gitName|gitName|Adafruit-2-13in-eInk-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.13in eInk Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.13in eInk Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4687/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0802-STAN-01|
 |Hex ID (short code)|hexID|PRPR0802|
-|Name|name|Adafruit 1.8 TFT Shield PCB|
+|name|name|Adafruit 1.8 TFT Shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.8-TFT-Shield-PCB|
 |gitName|gitName|Adafruit-1.8-TFT-Shield-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.8 TFTshield rev B.brd|

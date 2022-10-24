@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1918 > Adafruit GUVA Analog UV Sensor Breakout PCB
 
 - ID: PROJ-ADAF-1918-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1918-STAN-01|
 |Hex ID (short code)|hexID|PRPR1918|
-|Name|name|Adafruit GUVA Analog UV Sensor Breakout PCB|
+|name|name|Adafruit GUVA Analog UV Sensor Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB|
 |gitName|gitName|Adafruit-GUVA-Analog-UV-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit GUVA UV Sensor Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit GUVA UV Sensor Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1918/STAN/01/kicadPcb3d_450.png

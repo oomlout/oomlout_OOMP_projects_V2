@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2542 > Adafruit FONA 808 Breakout PCB
 
 - ID: PROJ-ADAF-2542-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2542-STAN-01|
 |Hex ID (short code)|hexID|PRPR2542|
-|Name|name|Adafruit FONA 808 Breakout PCB|
+|name|name|Adafruit FONA 808 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-FONA-808-Breakout-PCB|
 |gitName|gitName|Adafruit-FONA-808-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit SIM808 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit SIM808 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2542/STAN/01/kicadPcb3d_450.png

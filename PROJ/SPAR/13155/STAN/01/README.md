@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13155 > SparkFun Stepoko
 
 - ID: PROJ-SPAR-13155-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13155-STAN-01|
 |Hex ID (short code)|hexID|PRPR13155|
-|Name|name|SparkFun Stepoko|
+|name|name|SparkFun Stepoko|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Stepoko|
 |gitName|gitName|SparkFun_Stepoko|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Stepoko.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Stepoko.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13155/STAN/01/kicadPcb3d_450.png

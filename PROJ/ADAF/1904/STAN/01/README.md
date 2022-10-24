@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1904 > Adafruit MicroLipo PCB
 
 - ID: PROJ-ADAF-1904-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1904-STAN-01|
 |Hex ID (short code)|hexID|PRPR1904|
-|Name|name|Adafruit MicroLipo PCB|
+|name|name|Adafruit MicroLipo PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MicroLipo-PCB|
 |gitName|gitName|Adafruit-MicroLipo-PCB|
 |eagleBoard|eagleBoard|/Adafruit MicroLipo.brd|
 |eagleSchem|eagleSchem|/Adafruit MicroLipo.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1904/STAN/01/kicadPcb3d_450.png

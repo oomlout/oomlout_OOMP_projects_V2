@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13664 > SAMD21 Mini Breakout
 
 - ID: PROJ-SPAR-13664-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13664-STAN-01|
 |Hex ID (short code)|hexID|PRPR13664|
-|Name|name|SAMD21 Mini Breakout|
+|name|name|SAMD21 Mini Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SAMD21_Mini_Breakout|
 |gitName|gitName|SAMD21_Mini_Breakout|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-samd21-mini-breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-samd21-mini-breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13664/STAN/01/kicadPcb3d_450.png

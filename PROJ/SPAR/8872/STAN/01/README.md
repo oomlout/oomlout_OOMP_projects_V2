@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8872 > Mic Preamp
 
 - ID: PROJ-SPAR-8872-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8872-STAN-01|
 |Hex ID (short code)|hexID|PRPR8872|
-|Name|name|Mic Preamp|
+|name|name|Mic Preamp|
 |gitRepo|gitRepo|https://github.com/sparkfun/Mic_Preamp|
 |gitName|gitName|Mic_Preamp|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Mic-Preamp-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Mic-Preamp-v12.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8872/STAN/01/kicadPcb3d_450.png

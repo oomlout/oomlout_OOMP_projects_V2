@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10889 > ProtoSnap Pro Mini
 
 - ID: PROJ-SPAR-10889-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10889-STAN-01|
 |Hex ID (short code)|hexID|PRPR10889|
-|Name|name|ProtoSnap Pro Mini|
+|name|name|ProtoSnap Pro Mini|
 |gitRepo|gitRepo|https://github.com/sparkfun/ProtoSnap-Pro_Mini|
 |gitName|gitName|ProtoSnap-Pro_Mini|
 |eagleBoard|eagleBoard|/Hardware/ProtoSnap-v14a.brd|
 |eagleSchem|eagleSchem|/Hardware/ProtoSnap-v14a.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10889/STAN/01/kicadPcb3d_450.png

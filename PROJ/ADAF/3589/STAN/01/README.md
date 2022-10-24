@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3589 > Adafruit PiUART PCB
 
 - ID: PROJ-ADAF-3589-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3589-STAN-01|
 |Hex ID (short code)|hexID|PRPR3589|
-|Name|name|Adafruit PiUART PCB|
+|name|name|Adafruit PiUART PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiUART-PCB|
 |gitName|gitName|Adafruit-PiUART-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiUART USB C.brd|
 |eagleSchem|eagleSchem|/Adafruit PiUART USB C.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3589/STAN/01/kicadPcb3d_450.png

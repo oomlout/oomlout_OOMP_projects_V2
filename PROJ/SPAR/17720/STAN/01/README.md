@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17720 > MicroMod Processor RP2040
 
 - ID: PROJ-SPAR-17720-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17720-STAN-01|
 |Hex ID (short code)|hexID|PRPR17720|
-|Name|name|MicroMod Processor RP2040|
+|name|name|MicroMod Processor RP2040|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Processor-RP2040|
 |gitName|gitName|MicroMod_Processor-RP2040|
 |eagleBoard|eagleBoard|/Hardware/MicroMod-RP2040-ProcessorBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod-RP2040-ProcessorBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17720/STAN/01/kicadPcb3d_450.png

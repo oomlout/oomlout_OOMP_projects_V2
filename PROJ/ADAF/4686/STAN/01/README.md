@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4686 > Adafruit TMP235 PCB
 
 - ID: PROJ-ADAF-4686-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4686-STAN-01|
 |Hex ID (short code)|hexID|PRPR4686|
-|Name|name|Adafruit TMP235 PCB|
+|name|name|Adafruit TMP235 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TMP235-PCB|
 |gitName|gitName|Adafruit-TMP235-PCB|
 |eagleBoard|eagleBoard|/TMP235 Rev A.brd|
 |eagleSchem|eagleSchem|/TMP235 Rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4686/STAN/01/kicadPcb3d_450.png

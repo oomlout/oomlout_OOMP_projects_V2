@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3356 > Adafruit Animated Eyes Bonnet PCB
 
 - ID: PROJ-ADAF-3356-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3356-STAN-01|
 |Hex ID (short code)|hexID|PRPR3356|
-|Name|name|Adafruit Animated Eyes Bonnet PCB|
+|name|name|Adafruit Animated Eyes Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Animated-Eyes-Bonnet-PCB|
 |gitName|gitName|Adafruit-Animated-Eyes-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Eyes Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Eyes Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3356/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4485 > Adafruit LSM6DS33 LIS3MDL PCB
 
 - ID: PROJ-ADAF-4485-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4485-STAN-01|
 |Hex ID (short code)|hexID|PRPR4485|
-|Name|name|Adafruit LSM6DS33 LIS3MDL PCB|
+|name|name|Adafruit LSM6DS33 LIS3MDL PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM6DS33-LIS3MDL-PCB|
 |gitName|gitName|Adafruit-LSM6DS33-LIS3MDL-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIS3MDL + LSM6DS33.brd|
 |eagleSchem|eagleSchem|/Adafruit LIS3MDL + LSM6DS33.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4485/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2465 > Adafruit PowerBoost 1000C
 
 - ID: PROJ-ADAF-2465-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2465-STAN-01|
 |Hex ID (short code)|hexID|PRPR2465|
-|Name|name|Adafruit PowerBoost 1000C|
+|name|name|Adafruit PowerBoost 1000C|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PowerBoost-1000C|
 |gitName|gitName|Adafruit-PowerBoost-1000C|
 |eagleBoard|eagleBoard|/Adafruit PowerBoost 1000C Rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit PowerBoost 1000C Rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2465/STAN/01/kicadPcb3d_450.png

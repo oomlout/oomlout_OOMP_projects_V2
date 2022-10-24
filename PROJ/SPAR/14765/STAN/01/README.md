@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14765 > Single Supply Logic Level Converter
 
 - ID: PROJ-SPAR-14765-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14765-STAN-01|
 |Hex ID (short code)|hexID|PRPR14765|
-|Name|name|Single Supply Logic Level Converter|
+|name|name|Single Supply Logic Level Converter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Single_Supply_Logic_Level_Converter|
 |gitName|gitName|Single_Supply_Logic_Level_Converter|
 |eagleBoard|eagleBoard|/Hardware/Single_Supply_Logic_Level_Converter.brd|
 |eagleSchem|eagleSchem|/Hardware/Single_Supply_Logic_Level_Converter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14765/STAN/01/kicadPcb3d_450.png

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0716-STAN-01|
 |Hex ID (short code)|hexID|PRPR0716|
-|Name|name|RJ45 Breakout|
+|name|name|RJ45 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/RJ45_Breakout|
 |gitName|gitName|RJ45_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RJ45 Breakout v11.brd|

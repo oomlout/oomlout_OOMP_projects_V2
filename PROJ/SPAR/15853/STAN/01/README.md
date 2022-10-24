@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15853 > Qwiic FM Transceiver Si4721
 
 - ID: PROJ-SPAR-15853-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15853-STAN-01|
 |Hex ID (short code)|hexID|PRPR15853|
-|Name|name|Qwiic FM Transceiver Si4721|
+|name|name|Qwiic FM Transceiver Si4721|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_FM_Transceiver_Si4721|
 |gitName|gitName|Qwiic_FM_Transceiver_Si4721|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_FM_Transceiver_Si4721.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_FM_Transceiver_Si4721.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15853/STAN/01/kicadPcb3d_450.png

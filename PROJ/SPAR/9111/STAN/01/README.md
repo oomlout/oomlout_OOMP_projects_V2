@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9111 > XBee Explorer Serial
 
 - ID: PROJ-SPAR-9111-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9111-STAN-01|
 |Hex ID (short code)|hexID|PRPR9111|
-|Name|name|XBee Explorer Serial|
+|name|name|XBee Explorer Serial|
 |gitRepo|gitRepo|https://github.com/sparkfun/XBee_Explorer_Serial|
 |gitName|gitName|XBee_Explorer_Serial|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_XBee_Serial_Explorer.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_XBee_Serial_Explorer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9111/STAN/01/kicadPcb3d_450.png

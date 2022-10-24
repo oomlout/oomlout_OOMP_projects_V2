@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14003 > THAT 1646 Breakout
 
 - ID: PROJ-SPAR-14003-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14003-STAN-01|
 |Hex ID (short code)|hexID|PRPR14003|
-|Name|name|THAT 1646 Breakout|
+|name|name|THAT 1646 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/THAT_1646_Breakout|
 |gitName|gitName|THAT_1646_Breakout|
 |eagleBoard|eagleBoard|/Hardware/THAT_1646_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/THAT_1646_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14003/STAN/01/kicadPcb3d_450.png

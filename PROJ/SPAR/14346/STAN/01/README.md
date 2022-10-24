@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14346 > LilyPad ProtoSnap Plus
 
 - ID: PROJ-SPAR-14346-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14346-STAN-01|
 |Hex ID (short code)|hexID|PRPR14346|
-|Name|name|LilyPad ProtoSnap Plus|
+|name|name|LilyPad ProtoSnap Plus|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_ProtoSnap_Plus|
 |gitName|gitName|LilyPad_ProtoSnap_Plus|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_ProtoSnap_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_ProtoSnap_Plus.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14346/STAN/01/kicadPcb3d_450.png

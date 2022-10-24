@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12779 > Easy Driver
 
 - ID: PROJ-SPAR-12779-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12779-STAN-01|
 |Hex ID (short code)|hexID|PRPR12779|
-|Name|name|Easy Driver|
+|name|name|Easy Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Easy_Driver|
 |gitName|gitName|Easy_Driver|
 |eagleBoard|eagleBoard|/Hardware/EasyDriver_v45.brd|
 |eagleSchem|eagleSchem|/Hardware/EasyDriver_v45.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12779/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2809 > Adafruit LIS3DH Breakout PCB
 
 - ID: PROJ-ADAF-2809-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2809-STAN-01|
 |Hex ID (short code)|hexID|PRPR2809|
-|Name|name|Adafruit LIS3DH Breakout PCB|
+|name|name|Adafruit LIS3DH Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LIS3DH-Breakout-PCB|
 |gitName|gitName|Adafruit-LIS3DH-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit LIS3DH Original.brd|
 |eagleSchem|eagleSchem|/Adafruit LIS3DH Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2809/STAN/01/kicadPcb3d_450.png

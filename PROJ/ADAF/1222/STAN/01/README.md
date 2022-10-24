@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1222 > Adafruit Gemma PCB
 
 - ID: PROJ-ADAF-1222-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1222-STAN-01|
 |Hex ID (short code)|hexID|PRPR1222|
-|Name|name|Adafruit Gemma PCB|
+|name|name|Adafruit Gemma PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Gemma-PCB|
 |gitName|gitName|Adafruit-Gemma-PCB|
 |eagleBoard|eagleBoard|/Adafruit Gemma rev B.brd|
 |eagleSchem|eagleSchem|/Adafruit Gemma rev B.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1222/STAN/01/kicadPcb3d_450.png

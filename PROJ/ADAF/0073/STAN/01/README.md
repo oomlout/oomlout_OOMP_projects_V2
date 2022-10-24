@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0073-STAN-01|
 |Hex ID (short code)|hexID|PRPR0073|
-|Name|name|TV B Gone kit|
+|name|name|TV B Gone kit|
 |gitRepo|gitRepo|https://github.com/adafruit/TV-B-Gone-kit|
 |gitName|gitName|TV-B-Gone-kit|
 |eagleBoard|eagleBoard|/pcb/tvbgone3.brd|

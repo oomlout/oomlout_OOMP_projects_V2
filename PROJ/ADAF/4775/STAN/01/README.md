@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4775 > Adafruit Metro ESP32 S2 PCB
 
 - ID: PROJ-ADAF-4775-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4775-STAN-01|
 |Hex ID (short code)|hexID|PRPR4775|
-|Name|name|Adafruit Metro ESP32 S2 PCB|
+|name|name|Adafruit Metro ESP32 S2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Metro-ESP32-S2-PCB|
 |gitName|gitName|Adafruit-Metro-ESP32-S2-PCB|
 |eagleBoard|eagleBoard|/Adafruit Metro ESP32-S2.brd|
 |eagleSchem|eagleSchem|/Adafruit Metro ESP32-S2.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4775/STAN/01/kicadPcb3d_450.png

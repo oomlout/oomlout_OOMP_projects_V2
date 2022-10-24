@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0714-STAN-01|
 |Hex ID (short code)|hexID|PRPR0714|
-|Name|name|Adafruit RGB LCD shield PCB|
+|name|name|Adafruit RGB LCD shield PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RGB-LCD-shield-PCB|
 |gitName|gitName|Adafruit-RGB-LCD-shield-PCB|
 |eagleBoard|eagleBoard|/adafruit_rgblcdshield.brd|

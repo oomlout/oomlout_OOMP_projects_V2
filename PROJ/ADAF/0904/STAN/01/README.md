@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0904-STAN-01|
 |Hex ID (short code)|hexID|PRPR0904|
-|Name|name|Adafruit INA219 Current Sensor PCB|
+|name|name|Adafruit INA219 Current Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-INA219-Current-Sensor-PCB|
 |gitName|gitName|Adafruit-INA219-Current-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit INA219 STEMMA QT.brd|

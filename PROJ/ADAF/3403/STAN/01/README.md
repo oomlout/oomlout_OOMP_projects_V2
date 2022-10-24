@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3403 > Adafruit Feather M0 Express PCB
 
 - ID: PROJ-ADAF-3403-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3403-STAN-01|
 |Hex ID (short code)|hexID|PRPR3403|
-|Name|name|Adafruit Feather M0 Express PCB|
+|name|name|Adafruit Feather M0 Express PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-M0-Express-PCB|
 |gitName|gitName|Adafruit-Feather-M0-Express-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather M0 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather M0 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3403/STAN/01/kicadPcb3d_450.png

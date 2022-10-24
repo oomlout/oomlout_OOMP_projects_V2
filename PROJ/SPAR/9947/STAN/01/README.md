@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9947 > USB Host Shield
 
 - ID: PROJ-SPAR-9947-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9947-STAN-01|
 |Hex ID (short code)|hexID|PRPR9947|
-|Name|name|USB Host Shield|
+|name|name|USB Host Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_Host_Shield|
 |gitName|gitName|USB_Host_Shield|
 |eagleBoard|eagleBoard|/Hardware/USBHostShield-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/USBHostShield-v13.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9947/STAN/01/kicadPcb3d_450.png

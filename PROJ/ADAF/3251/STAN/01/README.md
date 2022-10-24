@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3251 > Adafruit Si7021 PCB
 
 - ID: PROJ-ADAF-3251-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3251-STAN-01|
 |Hex ID (short code)|hexID|PRPR3251|
-|Name|name|Adafruit Si7021 PCB|
+|name|name|Adafruit Si7021 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Si7021-PCB|
 |gitName|gitName|Adafruit-Si7021-PCB|
 |eagleBoard|eagleBoard|/Adafruit Si7021 Original.brd|
 |eagleSchem|eagleSchem|/Adafruit Si7021 Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3251/STAN/01/kicadPcb3d_450.png

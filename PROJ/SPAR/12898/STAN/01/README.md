@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12898 > MIDI Shield
 
 - ID: PROJ-SPAR-12898-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12898-STAN-01|
 |Hex ID (short code)|hexID|PRPR12898|
-|Name|name|MIDI Shield|
+|name|name|MIDI Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/MIDI_Shield|
 |gitName|gitName|MIDI_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MIDI_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MIDI_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12898/STAN/01/kicadPcb3d_450.png

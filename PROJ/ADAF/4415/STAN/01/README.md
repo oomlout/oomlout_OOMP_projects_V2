@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4415 > Adafruit PA1010D Mini GPS PCB
 
 - ID: PROJ-ADAF-4415-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4415-STAN-01|
 |Hex ID (short code)|hexID|PRPR4415|
-|Name|name|Adafruit PA1010D Mini GPS PCB|
+|name|name|Adafruit PA1010D Mini GPS PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PA1010D-Mini-GPS-PCB|
 |gitName|gitName|Adafruit-PA1010D-Mini-GPS-PCB|
 |eagleBoard|eagleBoard|/Adafruit PA1010D Mini GPS.brd|
 |eagleSchem|eagleSchem|/Adafruit PA1010D Mini GPS.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4415/STAN/01/kicadPcb3d_450.png

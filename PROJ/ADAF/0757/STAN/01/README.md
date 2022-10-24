@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0757-STAN-01|
 |Hex ID (short code)|hexID|PRPR0757|
-|Name|name|4 Channel Level Shifter PCB|
+|name|name|4 Channel Level Shifter PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/4-Channel-Level-Shifter-PCB|
 |gitName|gitName|4-Channel-Level-Shifter-PCB|
 |eagleBoard|eagleBoard|/Adafruit FET 4-Channel Shifter.brd|

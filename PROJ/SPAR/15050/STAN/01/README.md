@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15050 > Qwiic Spectral Sensor AS7265x
 
 - ID: PROJ-SPAR-15050-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15050-STAN-01|
 |Hex ID (short code)|hexID|PRPR15050|
-|Name|name|Qwiic Spectral Sensor AS7265x|
+|name|name|Qwiic Spectral Sensor AS7265x|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Spectral_Sensor_AS7265x|
 |gitName|gitName|Qwiic_Spectral_Sensor_AS7265x|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Spectral_Sensor-AS7265x.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Spectral_Sensor-AS7265x.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15050/STAN/01/kicadPcb3d_450.png

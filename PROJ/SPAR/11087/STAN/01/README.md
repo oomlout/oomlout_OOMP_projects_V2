@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11087 > Uh Oh Battery Indicator
 
 - ID: PROJ-SPAR-11087-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11087-STAN-01|
 |Hex ID (short code)|hexID|PRPR11087|
-|Name|name|Uh Oh Battery Indicator|
+|name|name|Uh Oh Battery Indicator|
 |gitRepo|gitRepo|https://github.com/sparkfun/Uh-Oh_Battery_Indicator|
 |gitName|gitName|Uh-Oh_Battery_Indicator|
 |eagleBoard|eagleBoard|/hardware/Uh-Oh Battery Indicator.brd|
 |eagleSchem|eagleSchem|/hardware/Uh-Oh Battery Indicator.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11087/STAN/01/kicadPcb3d_450.png

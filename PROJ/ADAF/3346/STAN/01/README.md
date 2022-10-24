@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3346 > Adafruit Stereo Speaker Bonnet PCB
 
 - ID: PROJ-ADAF-3346-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3346-STAN-01|
 |Hex ID (short code)|hexID|PRPR3346|
-|Name|name|Adafruit Stereo Speaker Bonnet PCB|
+|name|name|Adafruit Stereo Speaker Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Stereo-Speaker-Bonnet-PCB|
 |gitName|gitName|Adafruit-Stereo-Speaker-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Speaker Bonnet Original.brd|
 |eagleSchem|eagleSchem|/Adafruit Speaker Bonnet Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3346/STAN/01/kicadPcb3d_450.png

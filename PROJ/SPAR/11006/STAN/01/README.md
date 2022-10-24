@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11006-STAN-01|
 |Hex ID (short code)|hexID|PRPR11006|
-|Name|name|LogicBlocks|
+|name|name|LogicBlocks|
 |gitRepo|gitRepo|https://github.com/sparkfun/LogicBlocks|
 |gitName|gitName|LogicBlocks|
 |eagleBoard|eagleBoard|/hardware/AND/logicBlocks-AND.brd|

@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19177-STAN-01|
 |Hex ID (short code)|hexID|PRPR19177|
-|Name|name|SparkFun IoT RedBoard ESP32|
+|name|name|SparkFun IoT RedBoard ESP32|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_IoT_RedBoard-ESP32|
 |gitName|gitName|SparkFun_IoT_RedBoard-ESP32|
 |eagleBoard|eagleBoard|/hardware/SparkFun_IoT_RedBoard-ESP32.brd|

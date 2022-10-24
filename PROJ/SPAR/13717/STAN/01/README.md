@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13717 > Pi Wedge 40 Pin PreAssembled
 
 - ID: PROJ-SPAR-13717-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13717-STAN-01|
 |Hex ID (short code)|hexID|PRPR13717|
-|Name|name|Pi Wedge 40 Pin PreAssembled|
+|name|name|Pi Wedge 40 Pin PreAssembled|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pi_Wedge_40-Pin_PreAssembled|
 |gitName|gitName|Pi_Wedge_40-Pin_PreAssembled|
 |eagleBoard|eagleBoard|/hardware/SparkFun_Pi_Wedge_40-Pin_PreAssembled.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_Pi_Wedge_40-Pin_PreAssembled.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13717/STAN/01/kicadPcb3d_450.png

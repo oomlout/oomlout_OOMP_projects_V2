@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13752 > L6470 AutoDriver
 
 - ID: PROJ-SPAR-13752-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13752-STAN-01|
 |Hex ID (short code)|hexID|PRPR13752|
-|Name|name|L6470 AutoDriver|
+|name|name|L6470 AutoDriver|
 |gitRepo|gitRepo|https://github.com/sparkfun/L6470-AutoDriver|
 |gitName|gitName|L6470-AutoDriver|
 |eagleBoard|eagleBoard|/Hardware/L6470 AutoDriver.brd|
 |eagleSchem|eagleSchem|/Hardware/L6470 AutoDriver.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13752/STAN/01/kicadPcb3d_450.png

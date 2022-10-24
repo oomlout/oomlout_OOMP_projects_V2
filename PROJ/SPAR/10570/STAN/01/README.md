@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10570 > DangerShield
 
 - ID: PROJ-SPAR-10570-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10570-STAN-01|
 |Hex ID (short code)|hexID|PRPR10570|
-|Name|name|DangerShield|
+|name|name|DangerShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/DangerShield|
 |gitName|gitName|DangerShield|
 |eagleBoard|eagleBoard|/Hardware/Danger_Shield-v17.brd|
 |eagleSchem|eagleSchem|/Hardware/Danger_Shield-v17.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10570/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11084 > MPL3115A2 Breakout
 
 - ID: PROJ-SPAR-11084-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11084-STAN-01|
 |Hex ID (short code)|hexID|PRPR11084|
-|Name|name|MPL3115A2 Breakout|
+|name|name|MPL3115A2 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MPL3115A2_Breakout|
 |gitName|gitName|MPL3115A2_Breakout|
 |eagleBoard|eagleBoard|/hardware/MPL3115A2_breakout.brd|
 |eagleSchem|eagleSchem|/hardware/MPL3115A2_breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11084/STAN/01/kicadPcb3d_450.png

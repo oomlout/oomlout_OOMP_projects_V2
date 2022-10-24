@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4500 > Adafruit CLUE PCB
 
 - ID: PROJ-ADAF-4500-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4500-STAN-01|
 |Hex ID (short code)|hexID|PRPR4500|
-|Name|name|Adafruit CLUE PCB|
+|name|name|Adafruit CLUE PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CLUE-PCB|
 |gitName|gitName|Adafruit-CLUE-PCB|
 |eagleBoard|eagleBoard|/Adafruit CLUE nRF52840 Express.brd|
 |eagleSchem|eagleSchem|/Adafruit CLUE nRF52840 Express.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4500/STAN/01/kicadPcb3d_450.png

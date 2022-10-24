@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15272 > gator soil
 
 - ID: PROJ-SPAR-15272-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15272-STAN-01|
 |Hex ID (short code)|hexID|PRPR15272|
-|Name|name|gator soil|
+|name|name|gator soil|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_soil|
 |gitName|gitName|gator_soil|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Soil_Moisture_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Soil_Moisture_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15272/STAN/01/kicadPcb3d_450.png

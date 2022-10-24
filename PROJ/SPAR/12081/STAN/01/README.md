@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12081 > USB Weather Board
 
 - ID: PROJ-SPAR-12081-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12081-STAN-01|
 |Hex ID (short code)|hexID|PRPR12081|
-|Name|name|USB Weather Board|
+|name|name|USB Weather Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/USB_Weather_Board|
 |gitName|gitName|USB_Weather_Board|
 |eagleBoard|eagleBoard|/hardware/USB-Weather-v31.brd|
 |eagleSchem|eagleSchem|/hardware/USB-Weather-v31.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12081/STAN/01/kicadPcb3d_450.png

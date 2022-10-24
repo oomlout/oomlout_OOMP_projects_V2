@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5394 > Adafruit 1.9in 320x170 Color IPS TFT PCB
 
 - ID: PROJ-ADAF-5394-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5394-STAN-01|
 |Hex ID (short code)|hexID|PRPR5394|
-|Name|name|Adafruit 1.9in 320x170 Color IPS TFT PCB|
+|name|name|Adafruit 1.9in 320x170 Color IPS TFT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-1.9in-320x170-Color-IPS-TFT-PCB|
 |gitName|gitName|Adafruit-1.9in-320x170-Color-IPS-TFT-PCB|
 |eagleBoard|eagleBoard|/Adafruit 1.9in 320x170 Color IPS TFT.brd|
 |eagleSchem|eagleSchem|/Adafruit 1.9in 320x170 Color IPS TFT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5394/STAN/01/kicadPcb3d_450.png

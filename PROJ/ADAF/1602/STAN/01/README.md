@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1602 > Adafruit CAP1188 PCB
 
 - ID: PROJ-ADAF-1602-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1602-STAN-01|
 |Hex ID (short code)|hexID|PRPR1602|
-|Name|name|Adafruit CAP1188 PCB|
+|name|name|Adafruit CAP1188 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-CAP1188-PCB|
 |gitName|gitName|Adafruit-CAP1188-PCB|
 |eagleBoard|eagleBoard|/Adafruit CAP1188.brd|
 |eagleSchem|eagleSchem|/Adafruit CAP1188.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1602/STAN/01/kicadPcb3d_450.png

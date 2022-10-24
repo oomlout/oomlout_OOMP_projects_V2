@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12039 > SparkFun T5403 Barometric Breakout
 
 - ID: PROJ-SPAR-12039-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12039-STAN-01|
 |Hex ID (short code)|hexID|PRPR12039|
-|Name|name|SparkFun T5403 Barometric Breakout|
+|name|name|SparkFun T5403 Barometric Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_T5403_Barometric_Breakout|
 |gitName|gitName|SparkFun_T5403_Barometric_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_T5403_Barometer_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_T5403_Barometer_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12039/STAN/01/kicadPcb3d_450.png

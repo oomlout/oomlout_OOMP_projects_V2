@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19662 > SparkFun Qwiic Pressure Sensor BMP384
 
 - ID: PROJ-SPAR-19662-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19662-STAN-01|
 |Hex ID (short code)|hexID|PRPR19662|
-|Name|name|SparkFun Qwiic Pressure Sensor BMP384|
+|name|name|SparkFun Qwiic Pressure Sensor BMP384|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_Pressure_Sensor_BMP384|
 |gitName|gitName|SparkFun_Qwiic_Pressure_Sensor_BMP384|
 |eagleBoard|eagleBoard|/Hardware/Qwiic 1x1/BMP384 Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic 1x1/BMP384 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19662/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14967 > LuMini 1 Inch
 
 - ID: PROJ-SPAR-14967-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14967-STAN-01|
 |Hex ID (short code)|hexID|PRPR14967|
-|Name|name|LuMini 1 Inch|
+|name|name|LuMini 1 Inch|
 |gitRepo|gitRepo|https://github.com/sparkfun/LuMini_1_Inch|
 |gitName|gitName|LuMini_1_Inch|
 |eagleBoard|eagleBoard|/Hardware/14075-LuMini_1Inch-panel.brd|
 |eagleSchem|eagleSchem|/Hardware/14075-LuMini_1Inch-panel.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14967/STAN/01/kicadPcb3d_450.png

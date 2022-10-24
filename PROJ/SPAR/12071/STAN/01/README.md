@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12071 > CC3000 WiFi Shield
 
 - ID: PROJ-SPAR-12071-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12071-STAN-01|
 |Hex ID (short code)|hexID|PRPR12071|
-|Name|name|CC3000 WiFi Shield|
+|name|name|CC3000 WiFi Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/CC3000_WiFi_Shield|
 |gitName|gitName|CC3000_WiFi_Shield|
 |eagleBoard|eagleBoard|/Hardware/CC3000_WiFi_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/CC3000_WiFi_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12071/STAN/01/kicadPcb3d_450.png

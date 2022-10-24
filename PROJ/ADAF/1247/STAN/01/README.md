@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1247 > Adafruit Flora LSM303 PCB
 
 - ID: PROJ-ADAF-1247-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1247-STAN-01|
 |Hex ID (short code)|hexID|PRPR1247|
-|Name|name|Adafruit Flora LSM303 PCB|
+|name|name|Adafruit Flora LSM303 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Flora-LSM303-PCB|
 |gitName|gitName|Adafruit-Flora-LSM303-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora LSM303.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora LSM303.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1247/STAN/01/kicadPcb3d_450.png

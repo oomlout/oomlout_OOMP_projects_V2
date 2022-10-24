@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4683 > Adafruit MPM3610 PCB
 
 - ID: PROJ-ADAF-4683-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4683-STAN-01|
 |Hex ID (short code)|hexID|PRPR4683|
-|Name|name|Adafruit MPM3610 PCB|
+|name|name|Adafruit MPM3610 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MPM3610-PCB|
 |gitName|gitName|Adafruit-MPM3610-PCB|
 |eagleBoard|eagleBoard|/Adafruit MPM3610.brd|
 |eagleSchem|eagleSchem|/Adafruit MPM3610.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4683/STAN/01/kicadPcb3d_450.png

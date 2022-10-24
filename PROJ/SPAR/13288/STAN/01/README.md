@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13288 > Teensy Arduino Shield Adapter
 
 - ID: PROJ-SPAR-13288-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13288-STAN-01|
 |Hex ID (short code)|hexID|PRPR13288|
-|Name|name|Teensy Arduino Shield Adapter|
+|name|name|Teensy Arduino Shield Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Teensy_Arduino_Shield_Adapter|
 |gitName|gitName|Teensy_Arduino_Shield_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Teensy_Adapter.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Teensy_Adapter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13288/STAN/01/kicadPcb3d_450.png

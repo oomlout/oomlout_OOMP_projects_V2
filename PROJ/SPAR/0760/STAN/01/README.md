@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-0760-STAN-01|
 |Hex ID (short code)|hexID|PRPR0760|
-|Name|name|LED Matrix Serial Interface RGB|
+|name|name|LED Matrix Serial Interface RGB|
 |gitRepo|gitRepo|https://github.com/sparkfun/LED_Matrix_Serial_Interface_RGB|
 |gitName|gitName|LED_Matrix_Serial_Interface_RGB|
 |eagleBoard|eagleBoard|/Hardware/RGB Matrix.brd|

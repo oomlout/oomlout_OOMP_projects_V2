@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9363-STAN-01|
 |Hex ID (short code)|hexID|PRPR9363|
-|Name|name|ColorLCDShield|
+|name|name|ColorLCDShield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ColorLCDShield|
 |gitName|gitName|ColorLCDShield|
 |eagleBoard|eagleBoard|/hardware/Color-LCD-Shield.brd|

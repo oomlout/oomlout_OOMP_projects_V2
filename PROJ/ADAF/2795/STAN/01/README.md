@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2795 > Adafruit Feather 32u4 Adalogger PCB
 
 - ID: PROJ-ADAF-2795-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2795-STAN-01|
 |Hex ID (short code)|hexID|PRPR2795|
-|Name|name|Adafruit Feather 32u4 Adalogger PCB|
+|name|name|Adafruit Feather 32u4 Adalogger PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-32u4-Adalogger-PCB|
 |gitName|gitName|Adafruit-Feather-32u4-Adalogger-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather 32u4 Adalogger.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather 32u4 Adalogger.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2795/STAN/01/kicadPcb3d_450.png

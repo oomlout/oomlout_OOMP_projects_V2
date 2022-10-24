@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5022 > Adafruit Proximity Trinkey PCB
 
 - ID: PROJ-ADAF-5022-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5022-STAN-01|
 |Hex ID (short code)|hexID|PRPR5022|
-|Name|name|Adafruit Proximity Trinkey PCB|
+|name|name|Adafruit Proximity Trinkey PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Proximity-Trinkey-PCB|
 |gitName|gitName|Adafruit-Proximity-Trinkey-PCB|
 |eagleBoard|eagleBoard|/Adafruit Proximity Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit Proximity Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5022/STAN/01/kicadPcb3d_450.png

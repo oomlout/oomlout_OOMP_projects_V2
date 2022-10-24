@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2633 > Adafruit Bluefruit LE SPI Friend PCB
 
 - ID: PROJ-ADAF-2633-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2633-STAN-01|
 |Hex ID (short code)|hexID|PRPR2633|
-|Name|name|Adafruit Bluefruit LE SPI Friend PCB|
+|name|name|Adafruit Bluefruit LE SPI Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Bluefruit-LE-SPI-Friend-PCB|
 |gitName|gitName|Adafruit-Bluefruit-LE-SPI-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit Bluefruit LE SPI Friend.brd|
 |eagleSchem|eagleSchem|/Adafruit Bluefruit LE SPI Friend.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2633/STAN/01/kicadPcb3d_450.png

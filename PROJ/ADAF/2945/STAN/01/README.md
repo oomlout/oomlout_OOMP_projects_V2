@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2945 > Adafruit NeoPixel FeatherWing PCB
 
 - ID: PROJ-ADAF-2945-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2945-STAN-01|
 |Hex ID (short code)|hexID|PRPR2945|
-|Name|name|Adafruit NeoPixel FeatherWing PCB|
+|name|name|Adafruit NeoPixel FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-FeatherWing-PCB|
 |gitName|gitName|Adafruit-NeoPixel-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoPixel FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoPixel FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2945/STAN/01/kicadPcb3d_450.png

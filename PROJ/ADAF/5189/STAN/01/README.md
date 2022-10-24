@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5189 > Adafruit PCF8523 RTC Breakout PCB
 
 - ID: PROJ-ADAF-5189-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5189-STAN-01|
 |Hex ID (short code)|hexID|PRPR5189|
-|Name|name|Adafruit PCF8523 RTC Breakout PCB|
+|name|name|Adafruit PCF8523 RTC Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PCF8523-RTC-Breakout-PCB|
 |gitName|gitName|Adafruit-PCF8523-RTC-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafrruit PCF8523 QT.brd|
 |eagleSchem|eagleSchem|/Adafrruit PCF8523 QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5189/STAN/01/kicadPcb3d_450.png

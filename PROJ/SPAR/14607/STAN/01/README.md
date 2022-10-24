@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14607 > Qwiic GRIDEye
 
 - ID: PROJ-SPAR-14607-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14607-STAN-01|
 |Hex ID (short code)|hexID|PRPR14607|
-|Name|name|Qwiic GRIDEye|
+|name|name|Qwiic GRIDEye|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_GRIDEye|
 |gitName|gitName|Qwiic_GRIDEye|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Grideye.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Grideye.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14607/STAN/01/kicadPcb3d_450.png

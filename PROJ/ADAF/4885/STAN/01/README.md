@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4885 > Adafruit SHT40 PCB
 
 - ID: PROJ-ADAF-4885-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4885-STAN-01|
 |Hex ID (short code)|hexID|PRPR4885|
-|Name|name|Adafruit SHT40 PCB|
+|name|name|Adafruit SHT40 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SHT40-PCB|
 |gitName|gitName|Adafruit-SHT40-PCB|
 |eagleBoard|eagleBoard|/Adafruit SHT40.brd|
 |eagleSchem|eagleSchem|/Adafruit SHT40.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4885/STAN/01/kicadPcb3d_450.png

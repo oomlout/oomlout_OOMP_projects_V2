@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3357 > Adafruit Music Maker FeatherWing PCB
 
 - ID: PROJ-ADAF-3357-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3357-STAN-01|
 |Hex ID (short code)|hexID|PRPR3357|
-|Name|name|Adafruit Music Maker FeatherWing PCB|
+|name|name|Adafruit Music Maker FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Music-Maker-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Music-Maker-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit VS1053 Amp FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit VS1053 Amp FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3357/STAN/01/kicadPcb3d_450.png

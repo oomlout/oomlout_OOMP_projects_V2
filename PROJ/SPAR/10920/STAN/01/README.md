@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10920 > Venus GPS Logger SMA
 
 - ID: PROJ-SPAR-10920-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10920-STAN-01|
 |Hex ID (short code)|hexID|PRPR10920|
-|Name|name|Venus GPS Logger SMA|
+|name|name|Venus GPS Logger SMA|
 |gitRepo|gitRepo|https://github.com/sparkfun/Venus_GPS_Logger_SMA|
 |gitName|gitName|Venus_GPS_Logger_SMA|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Venus_GPS_Logger.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Venus_GPS_Logger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10920/STAN/01/kicadPcb3d_450.png

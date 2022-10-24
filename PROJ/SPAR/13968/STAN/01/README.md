@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13968 > OpenPIR
 
 - ID: PROJ-SPAR-13968-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13968-STAN-01|
 |Hex ID (short code)|hexID|PRPR13968|
-|Name|name|OpenPIR|
+|name|name|OpenPIR|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpenPIR|
 |gitName|gitName|OpenPIR|
 |eagleBoard|eagleBoard|/Hardware/SparkFun-OpenPIR-NCS36000.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun-OpenPIR-NCS36000.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13968/STAN/01/kicadPcb3d_450.png

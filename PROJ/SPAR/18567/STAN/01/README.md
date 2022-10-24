@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR18567 > WiFi Shield DA16200
 
 - ID: PROJ-SPAR-18567-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18567-STAN-01|
 |Hex ID (short code)|hexID|PRPR18567|
-|Name|name|WiFi Shield DA16200|
+|name|name|WiFi Shield DA16200|
 |gitRepo|gitRepo|https://github.com/sparkfun/WiFi_Shield-DA16200|
 |gitName|gitName|WiFi_Shield-DA16200|
 |eagleBoard|eagleBoard|/Hardware/SparkFun WiFi Shield - DA16200.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun WiFi Shield - DA16200.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/18567/STAN/01/kicadPcb3d_450.png

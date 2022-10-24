@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0987-STAN-01|
 |Hex ID (short code)|hexID|PRPR0987|
-|Name|name|Adafruit MAX98306 Class D Amp PCB|
+|name|name|Adafruit MAX98306 Class D Amp PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MAX98306-Class-D-Amp-PCB|
 |gitName|gitName|Adafruit-MAX98306-Class-D-Amp-PCB|
 |eagleBoard|eagleBoard|/Adafruit MAX98306.brd|

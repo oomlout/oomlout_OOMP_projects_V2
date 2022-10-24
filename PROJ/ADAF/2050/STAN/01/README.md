@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2050 > 3.5inch TFT Breakout PCB
 
 - ID: PROJ-ADAF-2050-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2050-STAN-01|
 |Hex ID (short code)|hexID|PRPR2050|
-|Name|name|3.5inch TFT Breakout PCB|
+|name|name|3.5inch TFT Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/3.5inch-TFT-Breakout-PCB|
 |gitName|gitName|3.5inch-TFT-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit 3.5in 480x320.brd|
 |eagleSchem|eagleSchem|/Adafruit 3.5in 480x320.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2050/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2226 > Adafruit NeoPixel Jewel 7
 
 - ID: PROJ-ADAF-2226-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2226-STAN-01|
 |Hex ID (short code)|hexID|PRPR2226|
-|Name|name|Adafruit NeoPixel Jewel 7|
+|name|name|Adafruit NeoPixel Jewel 7|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoPixel-Jewel-7|
 |gitName|gitName|Adafruit-NeoPixel-Jewel-7|
 |eagleBoard|eagleBoard|/Adafruit NeoJewel 7.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoJewel 7.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2226/STAN/01/kicadPcb3d_450.png

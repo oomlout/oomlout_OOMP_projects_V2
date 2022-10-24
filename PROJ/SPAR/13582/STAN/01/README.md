@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13582 > Line Follower Array
 
 - ID: PROJ-SPAR-13582-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13582-STAN-01|
 |Hex ID (short code)|hexID|PRPR13582|
-|Name|name|Line Follower Array|
+|name|name|Line Follower Array|
 |gitRepo|gitRepo|https://github.com/sparkfun/Line_Follower_Array|
 |gitName|gitName|Line_Follower_Array|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Line Follower Array.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Line Follower Array.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13582/STAN/01/kicadPcb3d_450.png

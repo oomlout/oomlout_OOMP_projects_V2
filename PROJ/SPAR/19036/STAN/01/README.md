@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19036-STAN-01|
 |Hex ID (short code)|hexID|PRPR19036|
-|Name|name|SparkFun Qwiic dToF Imager TMF882X|
+|name|name|SparkFun Qwiic dToF Imager TMF882X|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_dToF_Imager-TMF882X|
 |gitName|gitName|SparkFun_Qwiic_dToF_Imager-TMF882X|
 |eagleBoard|eagleBoard|/Hardware/TMF8820/SparkFun_dToF-TMF8820.brd|

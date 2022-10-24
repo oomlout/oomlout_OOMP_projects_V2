@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16653 > Top pHat
 
 - ID: PROJ-SPAR-16653-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16653-STAN-01|
 |Hex ID (short code)|hexID|PRPR16653|
-|Name|name|Top pHat|
+|name|name|Top pHat|
 |gitRepo|gitRepo|https://github.com/sparkfun/Top_pHat|
 |gitName|gitName|Top_pHat|
 |eagleBoard|eagleBoard|/Hardware/Top pHAT.brd|
 |eagleSchem|eagleSchem|/Hardware/Top pHAT.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16653/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11343 > IOIO OTG
 
 - ID: PROJ-SPAR-11343-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11343-STAN-01|
 |Hex ID (short code)|hexID|PRPR11343|
-|Name|name|IOIO OTG|
+|name|name|IOIO OTG|
 |gitRepo|gitRepo|https://github.com/sparkfun/IOIO-OTG|
 |gitName|gitName|IOIO-OTG|
 |eagleBoard|eagleBoard|/Hardware/IOIO-OTG.brd|
 |eagleSchem|eagleSchem|/Hardware/IOIO-OTG.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11343/STAN/01/kicadPcb3d_450.png

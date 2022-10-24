@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3954 > Adafruit NeoTrellis 4x4 PCB
 
 - ID: PROJ-ADAF-3954-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3954-STAN-01|
 |Hex ID (short code)|hexID|PRPR3954|
-|Name|name|Adafruit NeoTrellis 4x4 PCB|
+|name|name|Adafruit NeoTrellis 4x4 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NeoTrellis-4x4-PCB|
 |gitName|gitName|Adafruit-NeoTrellis-4x4-PCB|
 |eagleBoard|eagleBoard|/Adafruit NeoTrellis 4x4.brd|
 |eagleSchem|eagleSchem|/Adafruit NeoTrellis 4x4.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3954/STAN/01/kicadPcb3d_450.png

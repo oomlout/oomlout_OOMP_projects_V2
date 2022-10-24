@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14544 > Current Sensor Breakout ACS723 Low Current
 
 - ID: PROJ-SPAR-14544-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14544-STAN-01|
 |Hex ID (short code)|hexID|PRPR14544|
-|Name|name|Current Sensor Breakout ACS723 Low Current|
+|name|name|Current Sensor Breakout ACS723 Low Current|
 |gitRepo|gitRepo|https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current|
 |gitName|gitName|Current_Sensor_Breakout-ACS723-Low_Current|
 |eagleBoard|eagleBoard|/Hardware/ACS723_Low_Current_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/ACS723_Low_Current_Sensor.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14544/STAN/01/kicadPcb3d_450.png

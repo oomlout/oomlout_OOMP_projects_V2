@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17512 > SparkFun Qwiic pHAT Extension
 
 - ID: PROJ-SPAR-17512-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17512-STAN-01|
 |Hex ID (short code)|hexID|PRPR17512|
-|Name|name|SparkFun Qwiic pHAT Extension|
+|name|name|SparkFun Qwiic pHAT Extension|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_pHAT_Extension|
 |gitName|gitName|SparkFun_Qwiic_pHAT_Extension|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_pHAT_Extension.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_pHAT_Extension.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17512/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4366 > Adafruit TLV493D PCB
 
 - ID: PROJ-ADAF-4366-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4366-STAN-01|
 |Hex ID (short code)|hexID|PRPR4366|
-|Name|name|Adafruit TLV493D PCB|
+|name|name|Adafruit TLV493D PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-TLV493D-PCB|
 |gitName|gitName|Adafruit-TLV493D-PCB|
 |eagleBoard|eagleBoard|/Adafruit_TLV493D.brd|
 |eagleSchem|eagleSchem|/Adafruit_TLV493D.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4366/STAN/01/kicadPcb3d_450.png

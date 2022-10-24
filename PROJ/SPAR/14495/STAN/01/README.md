@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14495 > Qwiic Adapter
 
 - ID: PROJ-SPAR-14495-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14495-STAN-01|
 |Hex ID (short code)|hexID|PRPR14495|
-|Name|name|Qwiic Adapter|
+|name|name|Qwiic Adapter|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Adapter|
 |gitName|gitName|Qwiic_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun Qwiic Adapter.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun Qwiic Adapter.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14495/STAN/01/kicadPcb3d_450.png

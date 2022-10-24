@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14449 > Variable Load
 
 - ID: PROJ-SPAR-14449-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14449-STAN-01|
 |Hex ID (short code)|hexID|PRPR14449|
-|Name|name|Variable Load|
+|name|name|Variable Load|
 |gitRepo|gitRepo|https://github.com/sparkfun/Variable_Load|
 |gitName|gitName|Variable_Load|
 |eagleBoard|eagleBoard|/Hardware/Variable_Load.brd|
 |eagleSchem|eagleSchem|/Hardware/Variable_Load.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14449/STAN/01/kicadPcb3d_450.png

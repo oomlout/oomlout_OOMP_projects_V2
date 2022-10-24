@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10940 > LilyPad SimpleSnap Protoboard
 
 - ID: PROJ-SPAR-10940-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10940-STAN-01|
 |Hex ID (short code)|hexID|PRPR10940|
-|Name|name|LilyPad SimpleSnap Protoboard|
+|name|name|LilyPad SimpleSnap Protoboard|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_SimpleSnap_Protoboard|
 |gitName|gitName|LilyPad_SimpleSnap_Protoboard|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_SimpleSnap_ProtoBoard.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_SimpleSnap_ProtoBoard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10940/STAN/01/kicadPcb3d_450.png

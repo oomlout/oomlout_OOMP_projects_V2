@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8480 > Gainer PSoC Development Board
 
 - ID: PROJ-SPAR-8480-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8480-STAN-01|
 |Hex ID (short code)|hexID|PRPR8480|
-|Name|name|Gainer PSoC Development Board|
+|name|name|Gainer PSoC Development Board|
 |gitRepo|gitRepo|https://github.com/sparkfun/Gainer_PSoC_Development_Board|
 |gitName|gitName|Gainer_PSoC_Development_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Gainer_PSoC_Dev_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Gainer_PSoC_Dev_Board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8480/STAN/01/kicadPcb3d_450.png

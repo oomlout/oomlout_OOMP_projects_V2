@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12699 > Solderable Breadboard Large
 
 - ID: PROJ-SPAR-12699-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12699-STAN-01|
 |Hex ID (short code)|hexID|PRPR12699|
-|Name|name|Solderable Breadboard Large|
+|name|name|Solderable Breadboard Large|
 |gitRepo|gitRepo|https://github.com/sparkfun/Solderable_Breadboard_Large|
 |gitName|gitName|Solderable_Breadboard_Large|
 |eagleBoard|eagleBoard|/hardware/Solderable_Breadboard_Large.brd|
 |eagleSchem|eagleSchem|/hardware/Solderable_Breadboard_Large.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12699/STAN/01/kicadPcb3d_450.png

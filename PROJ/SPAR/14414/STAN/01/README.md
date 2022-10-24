@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14414 > SparkFun GPS Breakout XA1110 Qwiic
 
 - ID: PROJ-SPAR-14414-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14414-STAN-01|
 |Hex ID (short code)|hexID|PRPR14414|
-|Name|name|SparkFun GPS Breakout XA1110 Qwiic|
+|name|name|SparkFun GPS Breakout XA1110 Qwiic|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_GPS_Breakout_XA1110_Qwiic|
 |gitName|gitName|SparkFun_GPS_Breakout_XA1110_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/Qwiic GPS - Titan X1.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic GPS - Titan X1.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14414/STAN/01/kicadPcb3d_450.png

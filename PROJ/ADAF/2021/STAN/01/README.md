@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2021 > Adafruit LSM9DS0 PCB
 
 - ID: PROJ-ADAF-2021-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2021-STAN-01|
 |Hex ID (short code)|hexID|PRPR2021|
-|Name|name|Adafruit LSM9DS0 PCB|
+|name|name|Adafruit LSM9DS0 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LSM9DS0-PCB|
 |gitName|gitName|Adafruit-LSM9DS0-PCB|
 |eagleBoard|eagleBoard|/Adafruit LSM9DS0 PCB.brd|
 |eagleSchem|eagleSchem|/Adafruit LSM9DS0 PCB.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2021/STAN/01/kicadPcb3d_450.png

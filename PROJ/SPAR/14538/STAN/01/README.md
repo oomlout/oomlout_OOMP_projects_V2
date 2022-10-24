@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14538 > Haptic Motor Driver
 
 - ID: PROJ-SPAR-14538-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14538-STAN-01|
 |Hex ID (short code)|hexID|PRPR14538|
-|Name|name|Haptic Motor Driver|
+|name|name|Haptic Motor Driver|
 |gitRepo|gitRepo|https://github.com/sparkfun/Haptic_Motor_Driver|
 |gitName|gitName|Haptic_Motor_Driver|
 |eagleBoard|eagleBoard|/Hardware/Haptic_Motor_Driver_DRV2605L_v20.brd|
 |eagleSchem|eagleSchem|/Hardware/Haptic_Motor_Driver_DRV2605L_v20.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14538/STAN/01/kicadPcb3d_450.png

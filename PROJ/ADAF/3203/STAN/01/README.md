@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3203 > Adafruit Perma Proto Bonnet PCB
 
 - ID: PROJ-ADAF-3203-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3203-STAN-01|
 |Hex ID (short code)|hexID|PRPR3203|
-|Name|name|Adafruit Perma Proto Bonnet PCB|
+|name|name|Adafruit Perma Proto Bonnet PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Perma-Proto-Bonnet-PCB|
 |gitName|gitName|Adafruit-Perma-Proto-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Bonnet.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3203/STAN/01/kicadPcb3d_450.png

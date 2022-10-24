@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4471 > Adafruit MCP2221 PCB
 
 - ID: PROJ-ADAF-4471-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4471-STAN-01|
 |Hex ID (short code)|hexID|PRPR4471|
-|Name|name|Adafruit MCP2221 PCB|
+|name|name|Adafruit MCP2221 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MCP2221-PCB|
 |gitName|gitName|Adafruit-MCP2221-PCB|
 |eagleBoard|eagleBoard|/Adafruit MCP2221.brd|
 |eagleSchem|eagleSchem|/Adafruit MCP2221.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4471/STAN/01/kicadPcb3d_450.png

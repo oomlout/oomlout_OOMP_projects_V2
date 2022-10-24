@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4363 > Adafruit Airlift Bitsy Add On PCB
 
 - ID: PROJ-ADAF-4363-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4363-STAN-01|
 |Hex ID (short code)|hexID|PRPR4363|
-|Name|name|Adafruit Airlift Bitsy Add On PCB|
+|name|name|Adafruit Airlift Bitsy Add On PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Airlift-Bitsy-Add-On-PCB|
 |gitName|gitName|Adafruit-Airlift-Bitsy-Add-On-PCB|
 |eagleBoard|eagleBoard|/Adafruit Airlift Bitsy Add-On.brd|
 |eagleSchem|eagleSchem|/Adafruit Airlift Bitsy Add-On.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4363/STAN/01/kicadPcb3d_450.png

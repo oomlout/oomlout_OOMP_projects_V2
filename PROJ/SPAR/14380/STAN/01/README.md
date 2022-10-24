@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14380 > Adjustable Lipo Charger
 
 - ID: PROJ-SPAR-14380-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14380-STAN-01|
 |Hex ID (short code)|hexID|PRPR14380|
-|Name|name|Adjustable Lipo Charger|
+|name|name|Adjustable Lipo Charger|
 |gitRepo|gitRepo|https://github.com/sparkfun/Adjustable_Lipo_Charger|
 |gitName|gitName|Adjustable_Lipo_Charger|
 |eagleBoard|eagleBoard|/Hardware/Sparkfun_Adjustable_LiPo_Charger.brd|
 |eagleSchem|eagleSchem|/Hardware/Sparkfun_Adjustable_LiPo_Charger.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14380/STAN/01/kicadPcb3d_450.png

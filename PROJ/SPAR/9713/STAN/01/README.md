@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9713 > UBW32
 
 - ID: PROJ-SPAR-9713-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9713-STAN-01|
 |Hex ID (short code)|hexID|PRPR9713|
-|Name|name|UBW32|
+|name|name|UBW32|
 |gitRepo|gitRepo|https://github.com/sparkfun/UBW32|
 |gitName|gitName|UBW32|
 |eagleBoard|eagleBoard|/Hardware/UBW32_MX460_v262.brd|
 |eagleSchem|eagleSchem|/Hardware/UBW32_MX460_v262.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9713/STAN/01/kicadPcb3d_450.png

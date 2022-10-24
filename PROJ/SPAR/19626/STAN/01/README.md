@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19626 > 8 channel level shifter TXS0108E
 
 - ID: PROJ-SPAR-19626-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19626-STAN-01|
 |Hex ID (short code)|hexID|PRPR19626|
-|Name|name|8 channel level shifter TXS0108E|
+|name|name|8 channel level shifter TXS0108E|
 |gitRepo|gitRepo|https://github.com/sparkfun/8_channel_level_shifter_TXS0108E|
 |gitName|gitName|8_channel_level_shifter_TXS0108E|
 |eagleBoard|eagleBoard|/Hardware/TXS0108 Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/TXS0108 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19626/STAN/01/kicadPcb3d_450.png

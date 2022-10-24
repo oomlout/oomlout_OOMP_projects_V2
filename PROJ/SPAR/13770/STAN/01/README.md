@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13770 > Edison ADC Block
 
 - ID: PROJ-SPAR-13770-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13770-STAN-01|
 |Hex ID (short code)|hexID|PRPR13770|
-|Name|name|Edison ADC Block|
+|name|name|Edison ADC Block|
 |gitRepo|gitRepo|https://github.com/sparkfun/Edison_ADC_Block|
 |gitName|gitName|Edison_ADC_Block|
 |eagleBoard|eagleBoard|/Hardware/ADC_Block.brd|
 |eagleSchem|eagleSchem|/Hardware/ADC_Block.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13770/STAN/01/kicadPcb3d_450.png

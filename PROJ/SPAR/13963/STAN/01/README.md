@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13963 > LIS3DH Breakout
 
 - ID: PROJ-SPAR-13963-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13963-STAN-01|
 |Hex ID (short code)|hexID|PRPR13963|
-|Name|name|LIS3DH Breakout|
+|name|name|LIS3DH Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LIS3DH_Breakout|
 |gitName|gitName|LIS3DH_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LIS3DH-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LIS3DH-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13963/STAN/01/kicadPcb3d_450.png

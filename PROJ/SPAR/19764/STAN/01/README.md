@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19764 > SparkFun Qwiic 6DoF ISM330DHCX
 
 - ID: PROJ-SPAR-19764-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19764-STAN-01|
 |Hex ID (short code)|hexID|PRPR19764|
-|Name|name|SparkFun Qwiic 6DoF ISM330DHCX|
+|name|name|SparkFun Qwiic 6DoF ISM330DHCX|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_6DoF_ISM330DHCX|
 |gitName|gitName|SparkFun_Qwiic_6DoF_ISM330DHCX|
 |eagleBoard|eagleBoard|/Hardware/Qwiic/SparkFun_6DoF_ISM330DHCX.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic/SparkFun_6DoF_ISM330DHCX.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19764/STAN/01/kicadPcb3d_450.png

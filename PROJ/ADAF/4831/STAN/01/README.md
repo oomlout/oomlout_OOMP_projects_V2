@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4831 > Adafruit LTR390 PCB
 
 - ID: PROJ-ADAF-4831-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4831-STAN-01|
 |Hex ID (short code)|hexID|PRPR4831|
-|Name|name|Adafruit LTR390 PCB|
+|name|name|Adafruit LTR390 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-LTR390-PCB|
 |gitName|gitName|Adafruit-LTR390-PCB|
 |eagleBoard|eagleBoard|/Adafruit_LTR390.brd|
 |eagleSchem|eagleSchem|/Adafruit_LTR390.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4831/STAN/01/kicadPcb3d_450.png

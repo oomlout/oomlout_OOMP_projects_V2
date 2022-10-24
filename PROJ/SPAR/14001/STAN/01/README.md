@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14001 > 9DOF Razor IMU
 
 - ID: PROJ-SPAR-14001-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14001-STAN-01|
 |Hex ID (short code)|hexID|PRPR14001|
-|Name|name|9DOF Razor IMU|
+|name|name|9DOF Razor IMU|
 |gitRepo|gitRepo|https://github.com/sparkfun/9DOF_Razor_IMU|
 |gitName|gitName|9DOF_Razor_IMU|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-9dof-razor-imu.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-9dof-razor-imu.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14001/STAN/01/kicadPcb3d_450.png

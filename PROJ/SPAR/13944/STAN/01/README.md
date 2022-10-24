@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13944 > 9DOF Sensor Stick
 
 - ID: PROJ-SPAR-13944-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13944-STAN-01|
 |Hex ID (short code)|hexID|PRPR13944|
-|Name|name|9DOF Sensor Stick|
+|name|name|9DOF Sensor Stick|
 |gitRepo|gitRepo|https://github.com/sparkfun/9DOF_Sensor_Stick|
 |gitName|gitName|9DOF_Sensor_Stick|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_9DoF_Sensor_Stick.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_9DoF_Sensor_Stick.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13944/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8463 > LilyPad Buzzer
 
 - ID: PROJ-SPAR-8463-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8463-STAN-01|
 |Hex ID (short code)|hexID|PRPR8463|
-|Name|name|LilyPad Buzzer|
+|name|name|LilyPad Buzzer|
 |gitRepo|gitRepo|https://github.com/sparkfun/LilyPad_Buzzer|
 |gitName|gitName|LilyPad_Buzzer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad_Buzzer.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad_Buzzer.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8463/STAN/01/kicadPcb3d_450.png

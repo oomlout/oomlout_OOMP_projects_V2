@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15316 > Pi Servo Hat
 
 - ID: PROJ-SPAR-15316-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15316-STAN-01|
 |Hex ID (short code)|hexID|PRPR15316|
-|Name|name|Pi Servo Hat|
+|name|name|Pi Servo Hat|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pi_Servo_Hat|
 |gitName|gitName|Pi_Servo_Hat|
 |eagleBoard|eagleBoard|/Hardware/Pi_Servo_pHAT.brd|
 |eagleSchem|eagleSchem|/Hardware/Pi_Servo_pHAT.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15316/STAN/01/kicadPcb3d_450.png

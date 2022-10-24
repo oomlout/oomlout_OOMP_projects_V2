@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5625-STAN-01|
 |Hex ID (short code)|hexID|PRPR5625|
-|Name|name|Adafruit Qwiic Stemma QT 5 Port Hub PCB|
+|name|name|Adafruit Qwiic Stemma QT 5 Port Hub PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB|
 |gitName|gitName|Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB|
 |eagleBoard|eagleBoard|/Adafruit Stemma QT 5 Port Hub.brd|

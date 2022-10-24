@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13712 > OpenLog
 
 - ID: PROJ-SPAR-13712-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13712-STAN-01|
 |Hex ID (short code)|hexID|PRPR13712|
-|Name|name|OpenLog|
+|name|name|OpenLog|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpenLog|
 |gitName|gitName|OpenLog|
 |eagleBoard|eagleBoard|/hardware/OpenLog.brd|
 |eagleSchem|eagleSchem|/hardware/OpenLog.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13712/STAN/01/kicadPcb3d_450.png

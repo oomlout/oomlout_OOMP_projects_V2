@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1754 > Adafruit Pi Cobber PCBs
 
 - ID: PROJ-ADAF-1754-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1754-STAN-01|
 |Hex ID (short code)|hexID|PRPR1754|
-|Name|name|Adafruit Pi Cobber PCBs|
+|name|name|Adafruit Pi Cobber PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Pi-Cobber-PCBs|
 |gitName|gitName|Adafruit-Pi-Cobber-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Cobbler Plus.brd|
 |eagleSchem|eagleSchem|/Adafruit Cobbler Plus.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1754/STAN/01/kicadPcb3d_450.png

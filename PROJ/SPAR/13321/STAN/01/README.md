@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13321 > Photon RedBoard
 
 - ID: PROJ-SPAR-13321-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13321-STAN-01|
 |Hex ID (short code)|hexID|PRPR13321|
-|Name|name|Photon RedBoard|
+|name|name|Photon RedBoard|
 |gitRepo|gitRepo|https://github.com/sparkfun/Photon_RedBoard|
 |gitName|gitName|Photon_RedBoard|
 |eagleBoard|eagleBoard|/Hardware/sparkfun-photon-redboard.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun-photon-redboard.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13321/STAN/01/kicadPcb3d_450.png

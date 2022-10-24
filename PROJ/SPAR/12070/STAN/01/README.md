@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12070 > Solder able Breadboard
 
 - ID: PROJ-SPAR-12070-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12070-STAN-01|
 |Hex ID (short code)|hexID|PRPR12070|
-|Name|name|Solder able Breadboard|
+|name|name|Solder able Breadboard|
 |gitRepo|gitRepo|https://github.com/sparkfun/Solder-able_Breadboard|
 |gitName|gitName|Solder-able_Breadboard|
 |eagleBoard|eagleBoard|/hardware/SIK-DIP-board.brd|
 |eagleSchem|eagleSchem|/hardware/SIK-DIP-board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12070/STAN/01/kicadPcb3d_450.png

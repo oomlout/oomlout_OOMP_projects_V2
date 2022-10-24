@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1377 > Adafruit SMT Breakout PCBs
 
 - ID: PROJ-ADAF-1377-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1377-STAN-01|
 |Hex ID (short code)|hexID|PRPR1377|
-|Name|name|Adafruit SMT Breakout PCBs|
+|name|name|Adafruit SMT Breakout PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs|
 |gitName|gitName|Adafruit-SMT-Breakout-PCBs|
 |eagleBoard|eagleBoard|/0.5mm 4-pin.brd|
 |eagleSchem|eagleSchem|/0.5mm 4-pin.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1377/STAN/01/kicadPcb3d_450.png

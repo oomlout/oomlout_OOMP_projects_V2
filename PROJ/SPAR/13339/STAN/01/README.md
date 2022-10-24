@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13339 > LSM6DS3 Breakout
 
 - ID: PROJ-SPAR-13339-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13339-STAN-01|
 |Hex ID (short code)|hexID|PRPR13339|
-|Name|name|LSM6DS3 Breakout|
+|name|name|LSM6DS3 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/LSM6DS3_Breakout|
 |gitName|gitName|LSM6DS3_Breakout|
 |eagleBoard|eagleBoard|/Hardware/LSM6DS3_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/LSM6DS3_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13339/STAN/01/kicadPcb3d_450.png

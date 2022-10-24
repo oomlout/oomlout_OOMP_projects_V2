@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR16791 > MicroMod Processor Board SAMD51
 
 - ID: PROJ-SPAR-16791-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16791-STAN-01|
 |Hex ID (short code)|hexID|PRPR16791|
-|Name|name|MicroMod Processor Board SAMD51|
+|name|name|MicroMod Processor Board SAMD51|
 |gitRepo|gitRepo|https://github.com/sparkfun/MicroMod_Processor_Board-SAMD51|
 |gitName|gitName|MicroMod_Processor_Board-SAMD51|
 |eagleBoard|eagleBoard|/Hardware/MicroMod_SAMD51.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroMod_SAMD51.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/16791/STAN/01/kicadPcb3d_450.png

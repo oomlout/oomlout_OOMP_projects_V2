@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15035 > ATX Power Connector Breakout
 
 - ID: PROJ-SPAR-15035-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15035-STAN-01|
 |Hex ID (short code)|hexID|PRPR15035|
-|Name|name|ATX Power Connector Breakout|
+|name|name|ATX Power Connector Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/ATX_Power_Connector_Breakout|
 |gitName|gitName|ATX_Power_Connector_Breakout|
 |eagleBoard|eagleBoard|/Hardware/ATX_Power_Connector_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/ATX_Power_Connector_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15035/STAN/01/kicadPcb3d_450.png

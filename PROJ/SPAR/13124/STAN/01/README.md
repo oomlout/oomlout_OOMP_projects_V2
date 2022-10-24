@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13124 > Proto Pedal
 
 - ID: PROJ-SPAR-13124-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13124-STAN-01|
 |Hex ID (short code)|hexID|PRPR13124|
-|Name|name|Proto Pedal|
+|name|name|Proto Pedal|
 |gitRepo|gitRepo|https://github.com/sparkfun/Proto_Pedal|
 |gitName|gitName|Proto_Pedal|
 |eagleBoard|eagleBoard|/Hardware/Proto_Pedal.brd|
 |eagleSchem|eagleSchem|/Hardware/Proto_Pedal.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13124/STAN/01/kicadPcb3d_450.png

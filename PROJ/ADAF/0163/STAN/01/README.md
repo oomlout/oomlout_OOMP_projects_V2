@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0163-STAN-01|
 |Hex ID (short code)|hexID|PRPR0163|
-|Name|name|Adafruit Analog Accelerometers PCBs|
+|name|name|Adafruit Analog Accelerometers PCBs|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Analog-Accelerometers-PCBs|
 |gitName|gitName|Adafruit-Analog-Accelerometers-PCBs|
 |eagleBoard|eagleBoard|/Adafruit ADXL326.brd|

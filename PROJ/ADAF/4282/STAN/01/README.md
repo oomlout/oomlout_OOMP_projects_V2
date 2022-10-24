@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4282 > Adafruit PiRTC DS3231 PCB
 
 - ID: PROJ-ADAF-4282-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4282-STAN-01|
 |Hex ID (short code)|hexID|PRPR4282|
-|Name|name|Adafruit PiRTC DS3231 PCB|
+|name|name|Adafruit PiRTC DS3231 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiRTC-DS3231-PCB|
 |gitName|gitName|Adafruit-PiRTC-DS3231-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS3231 PiRTC.brd|
 |eagleSchem|eagleSchem|/Adafruit DS3231 PiRTC.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4282/STAN/01/kicadPcb3d_450.png

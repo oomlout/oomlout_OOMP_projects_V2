@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5483-STAN-01|
 |Hex ID (short code)|hexID|PRPR5483|
-|Name|name|Adafruit ESP32 S3 TFT Feather PCB|
+|name|name|Adafruit ESP32 S3 TFT Feather PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ESP32-S3-TFT-Feather-PCB|
 |gitName|gitName|Adafruit-ESP32-S3-TFT-Feather-PCB|
 |eagleBoard|eagleBoard|/Adafruit ESP32-S3 TFT Feather.brd|

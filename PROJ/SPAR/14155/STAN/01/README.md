@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14155 > ESP32 Power Control Shield
 
 - ID: PROJ-SPAR-14155-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14155-STAN-01|
 |Hex ID (short code)|hexID|PRPR14155|
-|Name|name|ESP32 Power Control Shield|
+|name|name|ESP32 Power Control Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32_Power_Control_Shield|
 |gitName|gitName|ESP32_Power_Control_Shield|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ESP32_Power_Control_Shield.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ESP32_Power_Control_Shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14155/STAN/01/kicadPcb3d_450.png

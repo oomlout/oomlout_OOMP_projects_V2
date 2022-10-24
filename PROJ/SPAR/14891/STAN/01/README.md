@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14891 > gator starter
 
 - ID: PROJ-SPAR-14891-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14891-STAN-01|
 |Hex ID (short code)|hexID|PRPR14891|
-|Name|name|gator starter|
+|name|name|gator starter|
 |gitRepo|gitRepo|https://github.com/sparkfun/gator_starter|
 |gitName|gitName|gator_starter|
 |eagleBoard|eagleBoard|/Hardware/gatorBytes_Sensor_board.brd|
 |eagleSchem|eagleSchem|/Hardware/gatorBytes_Sensor_board.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14891/STAN/01/kicadPcb3d_450.png

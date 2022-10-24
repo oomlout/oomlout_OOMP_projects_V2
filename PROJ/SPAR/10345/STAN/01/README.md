@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10345 > Triple Axis Accelerometer Breakout LIS331
 
 - ID: PROJ-SPAR-10345-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10345-STAN-01|
 |Hex ID (short code)|hexID|PRPR10345|
-|Name|name|Triple Axis Accelerometer Breakout LIS331|
+|name|name|Triple Axis Accelerometer Breakout LIS331|
 |gitRepo|gitRepo|https://github.com/sparkfun/Triple_Axis_Accelerometer_Breakout-LIS331|
 |gitName|gitName|Triple_Axis_Accelerometer_Breakout-LIS331|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Tri_Axis_Accel_Breakout-LIS331.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Tri_Axis_Accel_Breakout-LIS331.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10345/STAN/01/kicadPcb3d_450.png

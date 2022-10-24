@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5056 > Adafruit Trinkey QT2040 PCB
 
 - ID: PROJ-ADAF-5056-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5056-STAN-01|
 |Hex ID (short code)|hexID|PRPR5056|
-|Name|name|Adafruit Trinkey QT2040 PCB|
+|name|name|Adafruit Trinkey QT2040 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Trinkey-QT2040-PCB|
 |gitName|gitName|Adafruit-Trinkey-QT2040-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT2040 Trinkey.brd|
 |eagleSchem|eagleSchem|/Adafruit QT2040 Trinkey.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5056/STAN/01/kicadPcb3d_450.png

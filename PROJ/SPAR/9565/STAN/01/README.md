@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9565 > Through Hole Christmas Kit
 
 - ID: PROJ-SPAR-9565-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9565-STAN-01|
 |Hex ID (short code)|hexID|PRPR9565|
-|Name|name|Through Hole Christmas Kit|
+|name|name|Through Hole Christmas Kit|
 |gitRepo|gitRepo|https://github.com/sparkfun/Through-Hole_Christmas_Kit|
 |gitName|gitName|Through-Hole_Christmas_Kit|
 |eagleBoard|eagleBoard|/Hardware/Christmas_Kit.brd|
 |eagleSchem|eagleSchem|/Hardware/Christmas_Kit.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9565/STAN/01/kicadPcb3d_450.png

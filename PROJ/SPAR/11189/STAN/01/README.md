@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11189 > MAX3232 Breakout
 
 - ID: PROJ-SPAR-11189-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11189-STAN-01|
 |Hex ID (short code)|hexID|PRPR11189|
-|Name|name|MAX3232 Breakout|
+|name|name|MAX3232 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/MAX3232_Breakout|
 |gitName|gitName|MAX3232_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MAX3232_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_MAX3232_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11189/STAN/01/kicadPcb3d_450.png

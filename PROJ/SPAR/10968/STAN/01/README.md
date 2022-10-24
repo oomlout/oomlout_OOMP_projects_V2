@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10968 > NCP1402 5V Breakout
 
 - ID: PROJ-SPAR-10968-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10968-STAN-01|
 |Hex ID (short code)|hexID|PRPR10968|
-|Name|name|NCP1402 5V Breakout|
+|name|name|NCP1402 5V Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/NCP1402-5V_Breakout|
 |gitName|gitName|NCP1402-5V_Breakout|
 |eagleBoard|eagleBoard|/Hardware/NCP1402-5V_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/NCP1402-5V_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10968/STAN/01/kicadPcb3d_450.png

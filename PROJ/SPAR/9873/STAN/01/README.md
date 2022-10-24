@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9873 > FTDI Basic Breakout 3.3V
 
 - ID: PROJ-SPAR-9873-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9873-STAN-01|
 |Hex ID (short code)|hexID|PRPR9873|
-|Name|name|FTDI Basic Breakout 3.3V|
+|name|name|FTDI Basic Breakout 3.3V|
 |gitRepo|gitRepo|https://github.com/sparkfun/FTDI_Basic_Breakout-3.3V|
 |gitName|gitName|FTDI_Basic_Breakout-3.3V|
 |eagleBoard|eagleBoard|/Hardware/FTDI Basic-3.3V.brd|
 |eagleSchem|eagleSchem|/Hardware/FTDI Basic-3.3V.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9873/STAN/01/kicadPcb3d_450.png

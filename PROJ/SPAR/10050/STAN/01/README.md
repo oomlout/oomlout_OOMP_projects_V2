@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10050 > WiFly GSX Breakout
 
 - ID: PROJ-SPAR-10050-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10050-STAN-01|
 |Hex ID (short code)|hexID|PRPR10050|
-|Name|name|WiFly GSX Breakout|
+|name|name|WiFly GSX Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/WiFly_GSX_Breakout|
 |gitName|gitName|WiFly_GSX_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_WiFly_GSX_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_WiFly_GSX_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10050/STAN/01/kicadPcb3d_450.png

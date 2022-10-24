@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8236 > Navigation Switch Breakout
 
 - ID: PROJ-SPAR-8236-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8236-STAN-01|
 |Hex ID (short code)|hexID|PRPR8236|
-|Name|name|Navigation Switch Breakout|
+|name|name|Navigation Switch Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Navigation_Switch_Breakout|
 |gitName|gitName|Navigation_Switch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/NavSwitch-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/NavSwitch-Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8236/STAN/01/kicadPcb3d_450.png

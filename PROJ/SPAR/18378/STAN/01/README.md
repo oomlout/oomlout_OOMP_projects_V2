@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18378-STAN-01|
 |Hex ID (short code)|hexID|PRPR18378|
-|Name|name|SparkFun GNSS Function Board NEO M9N|
+|name|name|SparkFun GNSS Function Board NEO M9N|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_GNSS_Function_Board_NEO-M9N|
 |gitName|gitName|SparkFun_GNSS_Function_Board_NEO-M9N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_GNSS_NEO-M9N.brd|

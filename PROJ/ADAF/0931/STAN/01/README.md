@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-0931-STAN-01|
 |Hex ID (short code)|hexID|PRPR0931|
-|Name|name|Adafruit 128x32 I2C OLED Breakout PCB|
+|name|name|Adafruit 128x32 I2C OLED Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-128x32-I2C-OLED-Breakout-PCB|
 |gitName|gitName|Adafruit-128x32-I2C-OLED-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit OLED 128x32 Mono I2C STEMMA QT rev B.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR5190 > Adafruit SCD 4x PCB
 
 - ID: PROJ-ADAF-5190-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5190-STAN-01|
 |Hex ID (short code)|hexID|PRPR5190|
-|Name|name|Adafruit SCD 4x PCB|
+|name|name|Adafruit SCD 4x PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-SCD-4x-PCB|
 |gitName|gitName|Adafruit-SCD-4x-PCB|
 |eagleBoard|eagleBoard|/Adafruit SCD-41.brd|
 |eagleSchem|eagleSchem|/Adafruit SCD-41.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/5190/STAN/01/kicadPcb3d_450.png

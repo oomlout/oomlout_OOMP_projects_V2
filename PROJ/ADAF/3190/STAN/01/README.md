@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3190 > Adafruit DRV8871 Breakout PCB
 
 - ID: PROJ-ADAF-3190-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3190-STAN-01|
 |Hex ID (short code)|hexID|PRPR3190|
-|Name|name|Adafruit DRV8871 Breakout PCB|
+|name|name|Adafruit DRV8871 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DRV8871-Breakout-PCB|
 |gitName|gitName|Adafruit-DRV8871-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit DRV8871.brd|
 |eagleSchem|eagleSchem|/Adafruit DRV8871.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3190/STAN/01/kicadPcb3d_450.png

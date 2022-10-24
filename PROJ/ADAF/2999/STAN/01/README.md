@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2999 > Adafruit ATWINC1500 WiFi Breakout PCB
 
 - ID: PROJ-ADAF-2999-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2999-STAN-01|
 |Hex ID (short code)|hexID|PRPR2999|
-|Name|name|Adafruit ATWINC1500 WiFi Breakout PCB|
+|name|name|Adafruit ATWINC1500 WiFi Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-ATWINC1500-WiFi-Breakout-PCB|
 |gitName|gitName|Adafruit-ATWINC1500-WiFi-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit WINC1500 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit WINC1500 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2999/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12617 > Magician Encoder
 
 - ID: PROJ-SPAR-12617-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12617-STAN-01|
 |Hex ID (short code)|hexID|PRPR12617|
-|Name|name|Magician Encoder|
+|name|name|Magician Encoder|
 |gitRepo|gitRepo|https://github.com/sparkfun/Magician_Encoder|
 |gitName|gitName|Magician_Encoder|
 |eagleBoard|eagleBoard|/Hardware/Magician_encoder.brd|
 |eagleSchem|eagleSchem|/Hardware/Magician_encoder.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12617/STAN/01/kicadPcb3d_450.png

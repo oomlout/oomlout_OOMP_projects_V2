@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3027 > Adafruit Feather 32u4 FONA PCB
 
 - ID: PROJ-ADAF-3027-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3027-STAN-01|
 |Hex ID (short code)|hexID|PRPR3027|
-|Name|name|Adafruit Feather 32u4 FONA PCB|
+|name|name|Adafruit Feather 32u4 FONA PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Feather-32u4-FONA-PCB|
 |gitName|gitName|Adafruit-Feather-32u4-FONA-PCB|
 |eagleBoard|eagleBoard|/Adafruit Feather 32u4 FONA.brd|
 |eagleSchem|eagleSchem|/Adafruit Feather 32u4 FONA.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3027/STAN/01/kicadPcb3d_450.png

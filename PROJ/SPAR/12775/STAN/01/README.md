@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12775 > RFM69HCW Breakout
 
 - ID: PROJ-SPAR-12775-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12775-STAN-01|
 |Hex ID (short code)|hexID|PRPR12775|
-|Name|name|RFM69HCW Breakout|
+|name|name|RFM69HCW Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/RFM69HCW_Breakout|
 |gitName|gitName|RFM69HCW_Breakout|
 |eagleBoard|eagleBoard|/hardware/RFM69HCW_BOB.brd|
 |eagleSchem|eagleSchem|/hardware/RFM69HCW_BOB.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12775/STAN/01/kicadPcb3d_450.png

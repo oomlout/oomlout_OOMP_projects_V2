@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5568-STAN-01|
 |Hex ID (short code)|hexID|PRPR5568|
-|Name|name|Adafruit WCH CH9102F Friend PCB|
+|name|name|Adafruit WCH CH9102F Friend PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-WCH-CH9102F-Friend-PCB|
 |gitName|gitName|Adafruit-WCH-CH9102F-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit CH9102F.brd|

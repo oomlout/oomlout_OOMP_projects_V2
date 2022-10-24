@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13067 > MiP Proto Pack
 
 - ID: PROJ-SPAR-13067-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13067-STAN-01|
 |Hex ID (short code)|hexID|PRPR13067|
-|Name|name|MiP Proto Pack|
+|name|name|MiP Proto Pack|
 |gitRepo|gitRepo|https://github.com/sparkfun/MiP_Proto-Pack|
 |gitName|gitName|MiP_Proto-Pack|
 |eagleBoard|eagleBoard|/Hardware/MiP_Proto-Pack.brd|
 |eagleSchem|eagleSchem|/Hardware/MiP_Proto-Pack.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13067/STAN/01/kicadPcb3d_450.png

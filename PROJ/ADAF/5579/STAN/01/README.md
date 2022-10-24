@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-5579-STAN-01|
 |Hex ID (short code)|hexID|PRPR5579|
-|Name|name|Adafruit MMC5603 PCB|
+|name|name|Adafruit MMC5603 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MMC5603-PCB|
 |gitName|gitName|Adafruit-MMC5603-PCB|
 |eagleBoard|eagleBoard|/MMC56x3 rev A.brd|

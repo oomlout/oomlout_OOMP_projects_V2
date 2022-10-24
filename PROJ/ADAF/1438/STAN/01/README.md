@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1438 > Adafruit Motor Shield V2 PCB
 
 - ID: PROJ-ADAF-1438-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1438-STAN-01|
 |Hex ID (short code)|hexID|PRPR1438|
-|Name|name|Adafruit Motor Shield V2 PCB|
+|name|name|Adafruit Motor Shield V2 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Motor-Shield-V2-PCB|
 |gitName|gitName|Adafruit-Motor-Shield-V2-PCB|
 |eagleBoard|eagleBoard|/Adafruit Motor Shield v2.3.brd|
 |eagleSchem|eagleSchem|/Adafruit Motor Shield v2.3.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1438/STAN/01/kicadPcb3d_450.png

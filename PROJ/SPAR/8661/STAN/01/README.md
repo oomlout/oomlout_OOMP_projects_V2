@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR8661 > Polar Heart Rate Monitor Interface
 
 - ID: PROJ-SPAR-8661-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-8661-STAN-01|
 |Hex ID (short code)|hexID|PRPR8661|
-|Name|name|Polar Heart Rate Monitor Interface|
+|name|name|Polar Heart Rate Monitor Interface|
 |gitRepo|gitRepo|https://github.com/sparkfun/Polar_Heart_Rate_Monitor_Interface|
 |gitName|gitName|Polar_Heart_Rate_Monitor_Interface|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Polar-HeartRate.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Polar-HeartRate.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/8661/STAN/01/kicadPcb3d_450.png

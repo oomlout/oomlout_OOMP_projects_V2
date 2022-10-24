@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2946 > Adafruit IS31FL3731 CharliePlex LED Breakout PCB
 
 - ID: PROJ-ADAF-2946-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2946-STAN-01|
 |Hex ID (short code)|hexID|PRPR2946|
-|Name|name|Adafruit IS31FL3731 CharliePlex LED Breakout PCB|
+|name|name|Adafruit IS31FL3731 CharliePlex LED Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB|
 |gitName|gitName|Adafruit-IS31FL3731-CharliePlex-LED-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit IS31FL3731 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit IS31FL3731 Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2946/STAN/01/kicadPcb3d_450.png

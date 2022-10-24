@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14153 > ESP32 Environment Sensor Shield
 
 - ID: PROJ-SPAR-14153-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14153-STAN-01|
 |Hex ID (short code)|hexID|PRPR14153|
-|Name|name|ESP32 Environment Sensor Shield|
+|name|name|ESP32 Environment Sensor Shield|
 |gitRepo|gitRepo|https://github.com/sparkfun/ESP32_Environment_Sensor_Shield|
 |gitName|gitName|ESP32_Environment_Sensor_Shield|
 |eagleBoard|eagleBoard|/Hardware/sparkfun_esp32_environment_sensor_shield.brd|
 |eagleSchem|eagleSchem|/Hardware/sparkfun_esp32_environment_sensor_shield.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14153/STAN/01/kicadPcb3d_450.png

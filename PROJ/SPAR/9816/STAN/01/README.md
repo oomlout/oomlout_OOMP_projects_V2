@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR9816 > OpAmp Breakout LMV358
 
 - ID: PROJ-SPAR-9816-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-9816-STAN-01|
 |Hex ID (short code)|hexID|PRPR9816|
-|Name|name|OpAmp Breakout LMV358|
+|name|name|OpAmp Breakout LMV358|
 |gitRepo|gitRepo|https://github.com/sparkfun/OpAmp_Breakout-LMV358|
 |gitName|gitName|OpAmp_Breakout-LMV358|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_OpAmp_Breakout-LMV358.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_OpAmp_Breakout-LMV358.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/9816/STAN/01/kicadPcb3d_450.png

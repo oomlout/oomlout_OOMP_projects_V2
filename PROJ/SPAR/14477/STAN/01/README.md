@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14477 > Qwiic Shield for Photon
 
 - ID: PROJ-SPAR-14477-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14477-STAN-01|
 |Hex ID (short code)|hexID|PRPR14477|
-|Name|name|Qwiic Shield for Photon|
+|name|name|Qwiic Shield for Photon|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_Photon|
 |gitName|gitName|Qwiic_Shield_for_Photon|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_Shield_for_Photon.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_Shield_for_Photon.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14477/STAN/01/kicadPcb3d_450.png

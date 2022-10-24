@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2635 > Adafruit HDC1008 Breakout PCB
 
 - ID: PROJ-ADAF-2635-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2635-STAN-01|
 |Hex ID (short code)|hexID|PRPR2635|
-|Name|name|Adafruit HDC1008 Breakout PCB|
+|name|name|Adafruit HDC1008 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HDC1008-Breakout-PCB|
 |gitName|gitName|Adafruit-HDC1008-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit HDC1008.brd|
 |eagleSchem|eagleSchem|/Adafruit HDC1008.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2635/STAN/01/kicadPcb3d_450.png

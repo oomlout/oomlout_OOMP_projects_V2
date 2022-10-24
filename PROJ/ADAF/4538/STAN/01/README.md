@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4538 > Adafruit NAU7802 PCB
 
 - ID: PROJ-ADAF-4538-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4538-STAN-01|
 |Hex ID (short code)|hexID|PRPR4538|
-|Name|name|Adafruit NAU7802 PCB|
+|name|name|Adafruit NAU7802 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-NAU7802-PCB|
 |gitName|gitName|Adafruit-NAU7802-PCB|
 |eagleBoard|eagleBoard|/Adafruit NAU7802 board file.brd|
 |eagleSchem|eagleSchem|/Adafruit NAU7802 board file.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4538/STAN/01/kicadPcb3d_450.png

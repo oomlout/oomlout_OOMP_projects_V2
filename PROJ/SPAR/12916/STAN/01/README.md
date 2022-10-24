@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12916 > HMC6343 Breakout
 
 - ID: PROJ-SPAR-12916-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12916-STAN-01|
 |Hex ID (short code)|hexID|PRPR12916|
-|Name|name|HMC6343 Breakout|
+|name|name|HMC6343 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/HMC6343_Breakout|
 |gitName|gitName|HMC6343_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_HMC6343_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_HMC6343_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12916/STAN/01/kicadPcb3d_450.png

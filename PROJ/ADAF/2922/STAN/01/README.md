@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2922 > Adafruit Adalogger FeatherWing PCB
 
 - ID: PROJ-ADAF-2922-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2922-STAN-01|
 |Hex ID (short code)|hexID|PRPR2922|
-|Name|name|Adafruit Adalogger FeatherWing PCB|
+|name|name|Adafruit Adalogger FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Adalogger-FeatherWing-PCB|
 |gitName|gitName|Adafruit-Adalogger-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/adalogger featherwing.brd|
 |eagleSchem|eagleSchem|/adalogger featherwing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2922/STAN/01/kicadPcb3d_450.png

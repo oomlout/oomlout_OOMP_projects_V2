@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR13763 > Si7021 Breakout
 
 - ID: PROJ-SPAR-13763-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-13763-STAN-01|
 |Hex ID (short code)|hexID|PRPR13763|
-|Name|name|Si7021 Breakout|
+|name|name|Si7021 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Si7021_Breakout|
 |gitName|gitName|Si7021_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Si7021_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Si7021_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/13763/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1746 > Adafruit HMC5883 Mag Compass Sensor PCB
 
 - ID: PROJ-ADAF-1746-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1746-STAN-01|
 |Hex ID (short code)|hexID|PRPR1746|
-|Name|name|Adafruit HMC5883 Mag Compass Sensor PCB|
+|name|name|Adafruit HMC5883 Mag Compass Sensor PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HMC5883-Mag-Compass-Sensor-PCB|
 |gitName|gitName|Adafruit-HMC5883-Mag-Compass-Sensor-PCB|
 |eagleBoard|eagleBoard|/Adafruit HMC5883L Compass.brd|
 |eagleSchem|eagleSchem|/Adafruit HMC5883L Compass.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1746/STAN/01/kicadPcb3d_450.png

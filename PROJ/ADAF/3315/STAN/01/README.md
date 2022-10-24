@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3315 > Adafruit 2.4 TFT FeatherWing PCB
 
 - ID: PROJ-ADAF-3315-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3315-STAN-01|
 |Hex ID (short code)|hexID|PRPR3315|
-|Name|name|Adafruit 2.4 TFT FeatherWing PCB|
+|name|name|Adafruit 2.4 TFT FeatherWing PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-2.4-TFT-FeatherWing-PCB|
 |gitName|gitName|Adafruit-2.4-TFT-FeatherWing-PCB|
 |eagleBoard|eagleBoard|/Adafruit 2.4in TFT FeatherWing.brd|
 |eagleSchem|eagleSchem|/Adafruit 2.4in TFT FeatherWing.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3315/STAN/01/kicadPcb3d_450.png

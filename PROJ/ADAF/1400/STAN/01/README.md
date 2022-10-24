@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1400 > Adafruit Push Button Power Switch PCB
 
 - ID: PROJ-ADAF-1400-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1400-STAN-01|
 |Hex ID (short code)|hexID|PRPR1400|
-|Name|name|Adafruit Push Button Power Switch PCB|
+|name|name|Adafruit Push Button Power Switch PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-Push-Button-Power-Switch-PCB|
 |gitName|gitName|Adafruit-Push-Button-Power-Switch-PCB|
 |eagleBoard|eagleBoard|/Adafruit Power Switch.brd|
 |eagleSchem|eagleSchem|/Adafruit Power Switch.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1400/STAN/01/kicadPcb3d_450.png

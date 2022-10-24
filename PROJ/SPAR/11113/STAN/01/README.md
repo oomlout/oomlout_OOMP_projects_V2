@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11113 > Pro Mini Candy
 
 - ID: PROJ-SPAR-11113-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11113-STAN-01|
 |Hex ID (short code)|hexID|PRPR11113|
-|Name|name|Pro Mini Candy|
+|name|name|Pro Mini Candy|
 |gitRepo|gitRepo|https://github.com/sparkfun/Pro_Mini_Candy|
 |gitName|gitName|Pro_Mini_Candy|
 |eagleBoard|eagleBoard|/Hardware/Pro-Mini-Candy.brd|
 |eagleSchem|eagleSchem|/Hardware/Pro-Mini-Candy.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11113/STAN/01/kicadPcb3d_450.png

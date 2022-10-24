@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19663-STAN-01|
 |Hex ID (short code)|hexID|PRPR19663|
-|Name|name|SparkFun MicroMod GNSS Function Board ZED F9P|
+|name|name|SparkFun MicroMod GNSS Function Board ZED F9P|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_MicroMod_GNSS_Function_Board_ZED-F9P|
 |gitName|gitName|SparkFun_MicroMod_GNSS_Function_Board_ZED-F9P|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_MicroMod_GNSS_Function_Board_ZED-F9P.brd|

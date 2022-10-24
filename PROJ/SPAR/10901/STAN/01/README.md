@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR10901 > Infrared Proximity Breakout VCNL4000
 
 - ID: PROJ-SPAR-10901-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-10901-STAN-01|
 |Hex ID (short code)|hexID|PRPR10901|
-|Name|name|Infrared Proximity Breakout VCNL4000|
+|name|name|Infrared Proximity Breakout VCNL4000|
 |gitRepo|gitRepo|https://github.com/sparkfun/Infrared_Proximity_Breakout-VCNL4000|
 |gitName|gitName|Infrared_Proximity_Breakout-VCNL4000|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Infrared_Proximity_Breakout-VCNL4000.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Infrared_Proximity_Breakout-VCNL4000.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/10901/STAN/01/kicadPcb3d_450.png

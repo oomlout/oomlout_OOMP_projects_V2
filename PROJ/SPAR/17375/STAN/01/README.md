@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR17375 > Qwiic PIR
 
 - ID: PROJ-SPAR-17375-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17375-STAN-01|
 |Hex ID (short code)|hexID|PRPR17375|
-|Name|name|Qwiic PIR|
+|name|name|Qwiic PIR|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_PIR|
 |gitName|gitName|Qwiic_PIR|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_PIR.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_PIR.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/17375/STAN/01/kicadPcb3d_450.png

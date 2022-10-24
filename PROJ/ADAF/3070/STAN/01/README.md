@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR3070 > Adafruit RFM LoRa Radio Breakout PCB
 
 - ID: PROJ-ADAF-3070-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-3070-STAN-01|
 |Hex ID (short code)|hexID|PRPR3070|
-|Name|name|Adafruit RFM LoRa Radio Breakout PCB|
+|name|name|Adafruit RFM LoRa Radio Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-RFM-LoRa-Radio-Breakout-PCB|
 |gitName|gitName|Adafruit-RFM-LoRa-Radio-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit RFM+LoRa Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit RFM+LoRa Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/3070/STAN/01/kicadPcb3d_450.png

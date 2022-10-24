@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2441 > Adafruit PiTFT 3.5 Plus PCB
 
 - ID: PROJ-ADAF-2441-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2441-STAN-01|
 |Hex ID (short code)|hexID|PRPR2441|
-|Name|name|Adafruit PiTFT 3.5 Plus PCB|
+|name|name|Adafruit PiTFT 3.5 Plus PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-PiTFT-3.5-Plus-PCB|
 |gitName|gitName|Adafruit-PiTFT-3.5-Plus-PCB|
 |eagleBoard|eagleBoard|/Adafruit PiTFT Plus 3.5in.brd|
 |eagleSchem|eagleSchem|/Adafruit PiTFT Plus 3.5in.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2441/STAN/01/kicadPcb3d_450.png

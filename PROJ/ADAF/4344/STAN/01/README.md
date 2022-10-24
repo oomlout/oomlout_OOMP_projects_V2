@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR4344 > Adafruit MSA301 PCB
 
 - ID: PROJ-ADAF-4344-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-4344-STAN-01|
 |Hex ID (short code)|hexID|PRPR4344|
-|Name|name|Adafruit MSA301 PCB|
+|name|name|Adafruit MSA301 PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-MSA301-PCB|
 |gitName|gitName|Adafruit-MSA301-PCB|
 |eagleBoard|eagleBoard|/Adafruit MSA301.brd|
 |eagleSchem|eagleSchem|/Adafruit MSA301.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/4344/STAN/01/kicadPcb3d_450.png

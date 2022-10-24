@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11341 > Gyro Breakout LPY503AL
 
 - ID: PROJ-SPAR-11341-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11341-STAN-01|
 |Hex ID (short code)|hexID|PRPR11341|
-|Name|name|Gyro Breakout LPY503AL|
+|name|name|Gyro Breakout LPY503AL|
 |gitRepo|gitRepo|https://github.com/sparkfun/Gyro_Breakout-LPY503AL|
 |gitName|gitName|Gyro_Breakout-LPY503AL|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Gyro_Breakout-LPY503AL.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Gyro_Breakout-LPY503AL.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11341/STAN/01/kicadPcb3d_450.png

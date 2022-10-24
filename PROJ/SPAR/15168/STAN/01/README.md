@@ -25,7 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15168-STAN-01|
 |Hex ID (short code)|hexID|PRPR15168|
-|Name|name|Qwiic Joystick|
+|name|name|Qwiic Joystick|
 |gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Joystick|
 |gitName|gitName|Qwiic_Joystick|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Joystick_Eagle/Qwiic Joystick.brd|

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11088 > Run SPOT Run
 
 - ID: PROJ-SPAR-11088-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11088-STAN-01|
 |Hex ID (short code)|hexID|PRPR11088|
-|Name|name|Run SPOT Run|
+|name|name|Run SPOT Run|
 |gitRepo|gitRepo|https://github.com/sparkfun/Run-SPOT-Run|
 |gitName|gitName|Run-SPOT-Run|
 |eagleBoard|eagleBoard|/Hardware/SatUplink.brd|
 |eagleSchem|eagleSchem|/Hardware/SatUplink.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11088/STAN/01/kicadPcb3d_450.png

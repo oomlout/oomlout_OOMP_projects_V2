@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR11129 > Si4707 Breakout
 
 - ID: PROJ-SPAR-11129-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-11129-STAN-01|
 |Hex ID (short code)|hexID|PRPR11129|
-|Name|name|Si4707 Breakout|
+|name|name|Si4707 Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Si4707_Breakout|
 |gitName|gitName|Si4707_Breakout|
 |eagleBoard|eagleBoard|/hardware/SparkFun_Si4707_Breakout.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_Si4707_Breakout.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/11129/STAN/01/kicadPcb3d_450.png

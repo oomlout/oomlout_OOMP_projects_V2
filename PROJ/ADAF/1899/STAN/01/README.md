@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1899 > Adafruit HTU21D Breakout PCB
 
 - ID: PROJ-ADAF-1899-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1899-STAN-01|
 |Hex ID (short code)|hexID|PRPR1899|
-|Name|name|Adafruit HTU21D Breakout PCB|
+|name|name|Adafruit HTU21D Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-HTU21D-Breakout-PCB|
 |gitName|gitName|Adafruit-HTU21D-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit HTU21D-F STEMMA QT.brd|
 |eagleSchem|eagleSchem|/Adafruit HTU21D-F STEMMA QT.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1899/STAN/01/kicadPcb3d_450.png

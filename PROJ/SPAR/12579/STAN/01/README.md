@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR12579 > Bluetooth Module Breakout
 
 - ID: PROJ-SPAR-12579-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-12579-STAN-01|
 |Hex ID (short code)|hexID|PRPR12579|
-|Name|name|Bluetooth Module Breakout|
+|name|name|Bluetooth Module Breakout|
 |gitRepo|gitRepo|https://github.com/sparkfun/Bluetooth_Module_Breakout|
 |gitName|gitName|Bluetooth_Module_Breakout|
 |eagleBoard|eagleBoard|/Hardware/RN41.brd|
 |eagleSchem|eagleSchem|/Hardware/RN41.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/12579/STAN/01/kicadPcb3d_450.png

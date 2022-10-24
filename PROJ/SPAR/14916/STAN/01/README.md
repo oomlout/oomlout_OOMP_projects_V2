@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR14916 > SAMD21 Pro RF
 
 - ID: PROJ-SPAR-14916-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14916-STAN-01|
 |Hex ID (short code)|hexID|PRPR14916|
-|Name|name|SAMD21 Pro RF|
+|name|name|SAMD21 Pro RF|
 |gitRepo|gitRepo|https://github.com/sparkfun/SAMD21_Pro_RF|
 |gitName|gitName|SAMD21_Pro_RF|
 |eagleBoard|eagleBoard|/Hardware/SAMD21_Pro_RF.brd|
 |eagleSchem|eagleSchem|/Hardware/SAMD21_Pro_RF.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/14916/STAN/01/kicadPcb3d_450.png

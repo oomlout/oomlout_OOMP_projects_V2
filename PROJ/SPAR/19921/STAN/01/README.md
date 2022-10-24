@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR19921 > SparkFun Qwiic Magnetometer MMC5983MA
 
 - ID: PROJ-SPAR-19921-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-19921-STAN-01|
 |Hex ID (short code)|hexID|PRPR19921|
-|Name|name|SparkFun Qwiic Magnetometer MMC5983MA|
+|name|name|SparkFun Qwiic Magnetometer MMC5983MA|
 |gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_Qwiic_Magnetometer-MMC5983MA|
 |gitName|gitName|SparkFun_Qwiic_Magnetometer-MMC5983MA|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Magnetometer_MMC5983MA_Qwiic_Micro.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Magnetometer_MMC5983MA_Qwiic_Micro.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/19921/STAN/01/kicadPcb3d_450.png

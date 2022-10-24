@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR2348 > Adafruit DC Stepper Motor HAT PCB
 
 - ID: PROJ-ADAF-2348-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-2348-STAN-01|
 |Hex ID (short code)|hexID|PRPR2348|
-|Name|name|Adafruit DC Stepper Motor HAT PCB|
+|name|name|Adafruit DC Stepper Motor HAT PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-DC-Stepper-Motor-HAT-PCB|
 |gitName|gitName|Adafruit-DC-Stepper-Motor-HAT-PCB|
 |eagleBoard|eagleBoard|/Adafruit Motor Bonnet Rev A.brd|
 |eagleSchem|eagleSchem|/Adafruit Motor Bonnet Rev A.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/2348/STAN/01/kicadPcb3d_450.png

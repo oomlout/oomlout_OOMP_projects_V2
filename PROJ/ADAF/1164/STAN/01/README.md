@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR1164 > Adafruit INA169 Breakout PCB
 
 - ID: PROJ-ADAF-1164-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-ADAF-1164-STAN-01|
 |Hex ID (short code)|hexID|PRPR1164|
-|Name|name|Adafruit INA169 Breakout PCB|
+|name|name|Adafruit INA169 Breakout PCB|
 |gitRepo|gitRepo|https://github.com/adafruit/Adafruit-INA169-Breakout-PCB|
 |gitName|gitName|Adafruit-INA169-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit INA169 CurPowerMonitor.brd|
 |eagleSchem|eagleSchem|/Adafruit INA169 CurPowerMonitor.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/1164/STAN/01/kicadPcb3d_450.png

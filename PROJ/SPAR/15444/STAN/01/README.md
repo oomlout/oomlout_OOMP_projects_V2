@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR15444 > RedBoard Artemis
 
 - ID: PROJ-SPAR-15444-STAN-01
@@ -28,9 +28,13 @@ NO IMAGE
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15444-STAN-01|
 |Hex ID (short code)|hexID|PRPR15444|
-|Name|name|RedBoard Artemis|
+|name|name|RedBoard Artemis|
 |gitRepo|gitRepo|https://github.com/sparkfun/RedBoard_Artemis|
 |gitName|gitName|RedBoard_Artemis|
 |eagleBoard|eagleBoard|/Hardware/RedBoard-Artemis.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBoard-Artemis.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/15444/STAN/01/kicadPcb3d_450.png
