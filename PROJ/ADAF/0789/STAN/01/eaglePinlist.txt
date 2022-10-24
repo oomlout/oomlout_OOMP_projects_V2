@@ -1,0 +1,330 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 09:11
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        TX1_ANTENNA
+         2        N$3
+
+C2       1        N$12
+         2        TX2_ANTENNA
+
+C3       1        N$3
+         2        GND
+
+C4       1        GND
+         2        N$12
+
+C5       1        TX1_ANTENNA
+         2        N$3
+
+C6       1        N$12
+         2        TX2_ANTENNA
+
+C7       1        TX1_ANTENNA
+         2        GND
+
+C8       1        GND
+         2        TX2_ANTENNA
+
+C9       1        TX1_ANTENNA
+         2        GND
+
+C10      1        GND
+         2        TX2_ANTENNA
+
+C11      1        N$13
+         2        GND
+
+C12      1        N$7
+         2        GND
+
+C13      1        N$8
+         2        GND
+
+C14      1        N$10
+         2        GND
+
+C15      1        N$9
+         2        N$11
+
+C16      1        VDD
+         2        GND
+
+C17      1        N$54
+         2        GND
+
+C18      1        VCC
+         2        GND
+
+C19      1        N$14
+         2        GND
+
+C20      1        VDD
+         2        GND
+
+C21      1        VDD
+         2        GND
+
+C22      1        GND
+         2        N$55
+
+C24      1        VCC
+         2        GND
+
+C25      1        N$13
+         2        GND
+
+C26      1        5.0V
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+JP1      1        N$15
+         2        GND
+         3        GND
+         4        5.0V
+         5        N$16
+         6        N$17
+         7        N$18
+         8        N$19
+
+JP2      1        NSS/SCL_5.0V
+         2        MOSI/SDA_5.0V
+         3        N$20
+         4        N$21
+         5        N$22
+         6        N$23
+
+JP3      1        NSS/SCL_5.0V
+         2        MOSI/SDA_5.0V
+         3        N$24
+         4        GND
+         5        N$25
+         6        N$26
+         7        N$27
+         8        N$28
+         9        N$29
+         10       N$30
+
+JP4      1        N$31
+         2        N$32
+         3        N$33
+         4        N$34
+         5        N$35
+         6        IRQ
+         7        N$37
+         8        N$38
+
+JP6      1        MOSI/SDA_5.0V
+         2        NSS/SCL_5.0V
+         3        MISO
+         4        SCK_5.0V
+         5        RSTPD_N_5.0V
+         6        IRQ
+
+L1       1        N$14
+         2        VCC
+
+L2       1        N$13
+         2        VCC
+
+L3       1        N$3
+         2        N$1
+
+L4       1        N$12
+         2        N$2
+
+LED1     A        VDD
+         C        N$6
+
+LED2     A        VDD
+         C        N$36
+
+Q1       1        VDD
+         2        MOSI/SDA/TX
+         3        MOSI/SDA_5.0V
+
+Q2       1        VDD
+         2        NSS/SCL/RX
+         3        NSS/SCL_5.0V
+
+Q3       1        VDD
+         2        SCK
+         3        SCK_5.0V
+
+Q4       1        VDD
+         2        RSTPD_N
+         3        RSTPD_N_5.0V
+
+Q6       1        IRQ
+         2        GND
+         3        N$53
+
+R1       1        N$11
+         2        N$10
+
+R2       1        N$9
+         2        N$12
+
+R3       1        N$4
+         2        TX1_ANTENNA
+
+R4       1        TX2_ANTENNA
+         2        N$5
+
+R5       1        N$5
+         2        GND
+
+R6       1        GND
+         2        N$4
+
+R7       1        SEL0
+         2        VDD
+
+R8       1        N$6
+         2        GND
+
+R9       1        GND
+         2        SEL1
+
+R10      1        N$36
+         2        N$53
+
+R11      1        MOSI/SDA/TX
+         2        VDD
+
+R12      1        NSS/SCL/RX
+         2        VDD
+
+R13      1        MOSI/SDA_5.0V
+         2        5.0V
+
+R14      1        NSS/SCL_5.0V
+         2        5.0V
+
+R15      1        SCK
+         2        VDD
+
+R16      1        RSTPD_N
+         2        VDD
+
+R17      1        SCK_5.0V
+         2        5.0V
+
+R18      1        RSTPD_N_5.0V
+         2        5.0V
+
+SJ1      1        GND
+         2        SEL0
+
+SJ2      1        SEL1
+         2        VDD
+
+TP1      P$1      N$3
+
+TP2      P$1      GND
+
+TP3      P$1      N$12
+
+TP4      P$1      N$5
+
+TP5      P$1      N$4
+
+TP6      P$1      GND
+
+TP7      P$1      N$12
+
+U$3     
+U$50    
+U1       1        GND
+         2                 *** unconnected ***
+         3        GND
+         4        N$1
+         5        N$14
+         6        N$2
+         7        GND
+         8        N$13
+         9        N$10
+         10       N$11
+         11       GND
+         12       AUX1
+         13       AUX2
+         14       N$7
+         15       N$8
+         16       SEL0
+         17       SEL1
+         18       GND
+         19       P35
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22                *** unconnected ***
+         23       VDD
+         24       P30/UART_RX
+         25       IRQ
+         26       RSTOUT_N
+         27       NSS/SCL/RX
+         28       MOSI/SDA/TX
+         29       MISO
+         30       SCK
+         31       P31
+         32       P32
+         33       P33
+         34       P34/SIC_CLK
+         35       SIGOUT
+         36       SIGIN
+         37       N$55
+         38       RSTPD_N
+         39       VCC
+         40       VDD
+         TP       GND
+
+U2       1        5.0V
+         2        GND
+         3        5.0V
+         4        N$54
+         5        VDD
+
+U3       3V       N$16
+         5V       5.0V
+         A0       N$23
+         A1       N$22
+         A2       N$21
+         A3       N$20
+         A4       MOSI/SDA_5.0V
+         A5       NSS/SCL_5.0V
+         D0       N$38
+         D1       N$37
+         D2       IRQ
+         D3       N$35
+         D4       N$34
+         D5       N$33
+         D6       N$32
+         D7       N$31
+         D8       N$30
+         D9       N$29
+         D10      N$28
+         D11      N$27
+         D12      N$26
+         D13      N$25
+         GND      GND
+         SCL      NSS/SCL_5.0V
+         SDA      MOSI/SDA_5.0V
+         VIN      N$15
+         AREF     N$24
+         GND1     GND
+         GND2     GND
+         IOREF    N$18
+         RESET    N$17
+         RESERVED N$19
+
+Y1       1        N$7
+         2        N$8
+         GND1              *** unconnected ***
+         GND2              *** unconnected ***
+

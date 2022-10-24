@@ -1,0 +1,88 @@
+Pinlist
+
+Exported from boardEagle.brd at 08/08/2022 09:48
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        VDD
+         2        GND
+
+C2       1        IN_LEFT+
+         2        N$2
+
+C3       1        IN_LEFT-
+         2        N$4
+
+C4       1        IN_RIGHT+
+         2        N$5
+
+C5       1        IN_RIGHT-
+         2        N$6
+
+C6       1        VDD
+         2        GND
+
+FID1     1                 *** unconnected ***
+
+FID2     1                 *** unconnected ***
+
+J1       1        LOUT-
+         2        N$12
+
+J2       1        ROUT+
+         2        N$15
+
+JP1      1        N$1
+         2        GAIN1
+         3        VDD
+         4        GAIN1
+         5        N$3
+         6        GAIN1
+         7        GND
+         8        GAIN1
+
+JP3      1        GAIN1
+         2        GAIN2
+         3        IN_RIGHT+
+         4        IN_RIGHT-
+         5        IN_LEFT-
+         6        IN_LEFT+
+         7        SHUTDOWN
+         8        GND
+         9        VDD
+
+R1       1        GAIN2
+         2        GAIN1
+
+R3       1        N$1
+         2        VDD
+
+R4       1        GND
+         2        N$3
+
+R5       1        SHUTDOWN
+         2        VDD
+
+U$6      P$1               *** unconnected ***
+
+U$7      P$1               *** unconnected ***
+
+U$10    
+U1       P$1      GND
+         P$2      SHUTDOWN
+         P$3      N$2
+         P$4      N$4
+         P$5      GAIN1
+         P$6      N$6
+         P$7      N$5
+         P$8      GND
+         P$9      N$15
+         P$10     ROUT+
+         P$11     VDD
+         P$12     VDD
+         P$13     N$12
+         P$14     LOUT-
+         P$THERMAL  GND
+
