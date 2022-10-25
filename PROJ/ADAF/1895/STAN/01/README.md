@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-1895-STAN-01](http://oom.lt/PROJ-ADAF-1895-STAN-01)
 - Short Link: [http://oom.lt/PRPR1895](http://oom.lt/PRPR1895)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/ADAF/1895/STAN/01/eagleSchemImage.png||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

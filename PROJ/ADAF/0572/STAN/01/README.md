@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR0572 > Adafruit BeagleBone ProtoBoard PCB
 
 - ID: PROJ-ADAF-0572-STAN-01
@@ -12,7 +12,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-0572-STAN-01](http://oom.lt/PROJ-ADAF-0572-STAN-01)
 - Short Link: [http://oom.lt/PRPR0572](http://oom.lt/PRPR0572)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0572/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0572/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0572/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0572/STAN/01/kicadPcb3dBack.png|
+| :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0572/STAN/01/kicadPcb3d.png||||
+
 ## Tags
   
 
@@ -31,3 +35,7 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Adafruit-BeagleBone-ProtoBoard-v0.1.brd|
 |eagleSchem|eagleSchem|/Adafruit-BeagleBone-ProtoBoard-v0.1.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/0572/STAN/01/kicadPcb3d_450.png

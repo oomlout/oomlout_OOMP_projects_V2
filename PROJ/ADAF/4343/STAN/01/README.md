@@ -12,7 +12,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-4343-STAN-01](http://oom.lt/PROJ-ADAF-4343-STAN-01)
 - Short Link: [http://oom.lt/PRPR4343](http://oom.lt/PRPR4343)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/bomBack.png|oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/bomFront.png|
+| :---: | :---: | :---: | :---: |
+|||||
+
 ## Tags
   
 

@@ -13,8 +13,10 @@
 - Short Link: [http://oom.lt/PRPR1601](http://oom.lt/PRPR1601)
   
 
-|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3dBack.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3d.png||
+|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3dBack.png|
 | :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/kicadPcb3d.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/bomBack.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/bomFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/pcbdraw.svg|
+|oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/pcbdrawBack.svg||||
 
 ## Tags
   

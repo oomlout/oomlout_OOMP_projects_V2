@@ -13,8 +13,9 @@
 - Short Link: [http://oom.lt/PRPR10412](http://oom.lt/PRPR10412)
   
 
-|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3dBack.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3d.png||
+|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3dBack.png|
 | :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/kicadPcb3d.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/bomBack.png|oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/bomFront.png||
 
 ## Tags
   

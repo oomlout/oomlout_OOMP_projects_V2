@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR0258 > Serial Enabled LCD Backpack
 
 - ID: PROJ-SPAR-0258-STAN-01
@@ -12,7 +12,12 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-0258-STAN-01](http://oom.lt/PROJ-SPAR-0258-STAN-01)
 - Short Link: [http://oom.lt/PRPR0258](http://oom.lt/PRPR0258)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/kicadPcb3dBack.png|
+| :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/kicadPcb3d.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/bomBack.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/bomFront.png|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/pcbdraw.svg|
+|oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/pcbdrawBack.svg||||
+
 ## Tags
   
 
@@ -31,3 +36,7 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Hardware/Serial LCD Backpack v28.brd|
 |eagleSchem|eagleSchem|/Hardware/Serial LCD Backpack v28.sch|
 ||||
+
+
+
+[im]: PROJ/SPAR/0258/STAN/01/kicadPcb3d_450.png

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR0935 > Adafruit MCP4725 PCB
 
 - ID: PROJ-ADAF-0935-STAN-01
@@ -12,7 +12,12 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-0935-STAN-01](http://oom.lt/PROJ-ADAF-0935-STAN-01)
 - Short Link: [http://oom.lt/PRPR0935](http://oom.lt/PRPR0935)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/kicadPcb3dBack.png|
+| :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/kicadPcb3d.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/bomBack.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/bomFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/pcbdraw.svg|
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/pcbdrawBack.svg||||
+
 ## Tags
   
 
@@ -31,3 +36,7 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Adafruit MCP4725 Original.brd|
 |eagleSchem|eagleSchem|/Adafruit MCP4725 Original.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/0935/STAN/01/kicadPcb3d_450.png

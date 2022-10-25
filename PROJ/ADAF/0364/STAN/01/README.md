@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # PRPR0364 > Adafruit PN532 RFID NFC Breakout
 
 - ID: PROJ-ADAF-0364-STAN-01
@@ -12,7 +12,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-0364-STAN-01](http://oom.lt/PROJ-ADAF-0364-STAN-01)
 - Short Link: [http://oom.lt/PRPR0364](http://oom.lt/PRPR0364)
   
-NO IMAGES  
+
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0364/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0364/STAN/01/eagleSchemImage.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0364/STAN/01/kicadPcb3dFront.png|oomlout_OOMP_projects_V2/PROJ/ADAF/0364/STAN/01/kicadPcb3dBack.png|
+| :---: | :---: | :---: | :---: |
+|oomlout_OOMP_projects_V2/PROJ/ADAF/0364/STAN/01/kicadPcb3d.png||||
+
 ## Tags
   
 
@@ -31,3 +35,7 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Adafruit PN532_Breakout_v1.6.brd|
 |eagleSchem|eagleSchem|/Adafruit PN532_Breakout_v1.6.sch|
 ||||
+
+
+
+[im]: PROJ/ADAF/0364/STAN/01/kicadPcb3d_450.png
