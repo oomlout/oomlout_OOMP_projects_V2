@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Multi_Distance_VL53L3CX|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Multi_Distance_VL53L3CX/Hardware/Qwiic Multi Distance Sensor - VL53L3CX.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Multi_Distance_VL53L3CX/Hardware/Qwiic Multi Distance Sensor - VL53L3CX.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

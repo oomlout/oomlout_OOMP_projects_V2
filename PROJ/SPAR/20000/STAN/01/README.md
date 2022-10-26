@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_RTK_Facet|
 |eagleBoard|eagleBoard|/Hardware/Connector/SparkFun RTK Facet - External Connector.brd|
 |eagleSchem|eagleSchem|/Hardware/Connector/SparkFun RTK Facet - External Connector.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

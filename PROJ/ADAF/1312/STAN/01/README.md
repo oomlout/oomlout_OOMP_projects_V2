@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit_Breadboard_NeoPixel_PCB|
 |eagleBoard|eagleBoard|/Adafruit_Breadboard_NeoPixel.brd|
 |eagleSchem|eagleSchem|/Adafruit_Breadboard_NeoPixel.sch|
+|OOMP Parts List|oompParts|{'C1': 'CAPC-0603-X-UF1-V25', 'JP1': 'HEAD-I01-X-PI03-01', 'JP2': 'HEAD-I01-X-PI03-01', 'LED1': 'LEDS-5050-RGB-K2811-01', 'R1': 'RESE-0603-X-O102-01', 'R2': 'RESE-0603-X-O220-01', 'R3': 'RESE-0603-X-O220-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'C1', 'Value': '1uF', 'Device': 'C-USC0603K', 'Package': 'C0603K', 'Description': 'CAPACITOR, American symbol', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'PINHD-1X3CB', 'Package': '1X03-CLEANBIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'PINHD-1X3CB', 'Package': '1X03-CLEANBIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'LED1', 'Value': 'WS28115050', 'Device': 'WS28115050', 'Package': 'WS28115050', 'Description': '', 'BOM': ''}, {'Part': 'R1', 'Value': '1.0K', 'Device': 'R-US_R0603', 'Package': 'R0603', 'Description': 'RESISTOR, American symbol', 'BOM': ''}, {'Part': 'R2', 'Value': '22', 'Device': 'R-US_R0603', 'Package': 'R0603', 'Description': 'RESISTOR, American symbol', 'BOM': ''}, {'Part': 'R3', 'Value': '22', 'Device': 'R-US_R0603', 'Package': 'R0603', 'Description': 'RESISTOR, American symbol', 'BOM': ''}]}|
 ||||
 

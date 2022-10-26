@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Breadboard_Power_Supply_5V_3.3V|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Breadboard_Power_Supply_5_3.3V.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Breadboard_Power_Supply_5_3.3V.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

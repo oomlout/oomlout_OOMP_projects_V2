@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/PoE_Power_Supply|
 |eagleBoard|eagleBoard|sourceFiles/git/PoE_Power_Supply/Hardware/POE_Power_Supply.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/PoE_Power_Supply/Hardware/POE_Power_Supply.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

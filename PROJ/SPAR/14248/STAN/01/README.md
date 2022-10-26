@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Accelerometer-MMA8452Q|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Accelerometer-MMA8452Q/Hardware/Qwiic_Accelerometer-MMA8452Q.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Accelerometer-MMA8452Q/Hardware/Qwiic_Accelerometer-MMA8452Q.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -35,6 +35,7 @@
 |gitName|gitName|USB_microB_Plug_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_USB_MicroB_Plug_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_USB_MicroB_Plug_Breakout.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI05-01', 'JP2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'M05PTH', 'Package': '1X05', 'Description': 'Header 5', 'BOM': ''}, {'Part': 'JP2', 'Value': 'USB Micro B Plug', 'Device': 'USB_MICROB_PLUG-SMT', 'Package': 'MICRO-B-SMT', 'Description': 'USB Micro-B connectors', 'BOM': 'CONN-09900'}, {'Part': 'LOGO1', 'Value': 'OSHW-LOGOS', 'Device': 'OSHW-LOGOS', 'Package': 'OSHW-LOGO-S', 'Description': 'Open Source Hardware Logo', 'BOM': ''}, {'Part': 'LOGO2', 'Value': 'SFE_LOGO_FLAME.1_INCH', 'Device': 'SFE_LOGO_FLAME.1_INCH', 'Package': 'SFE_LOGO_FLAME_.1', 'Description': 'SFE Logo, flame only', 'BOM': ''}]}|
 ||||
 

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_I2C_Capacitor|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_I2C_Capacitor/Hardware/Qwiic_I2C_Capacitor.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_I2C_Capacitor/Hardware/Qwiic_I2C_Capacitor.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

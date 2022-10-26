@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Step|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Step/Hardware/Qwiic-Step.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Step/Hardware/Qwiic-Step.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-AP3602A-PCB|
 |eagleBoard|eagleBoard|/Adafruit AP6302.brd|
 |eagleSchem|eagleSchem|/Adafruit AP6302.sch|
+|OOMP Parts List|oompParts|{'C1': 'CAPC-0805-X-UF10-V10', 'C2': 'CAPC-0805-X-UF10-V10', 'C3': 'CAPC-0805-X-UF1-V25', 'IC1': 'UNMATCHED-SO23-X-UNMATCHED-01', 'JP1': 'HEAD-I01-X-PI04-01', 'R1': 'RESE-0805-X-O1003-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'C1', 'Value': '10uF', 'Device': 'CAP_CERAMIC0805-NOOUTLINE', 'Package': '0805-NO', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'C2', 'Value': '10uF', 'Device': 'CAP_CERAMIC0805-NOOUTLINE', 'Package': '0805-NO', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'C3', 'Value': '1uF', 'Device': 'CAP_CERAMIC0805-NOOUTLINE', 'Package': '0805-NO', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'FID1', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'IC1', 'Value': 'AP3602', 'Device': 'AP3602', 'Package': 'SOT23-6', 'Description': '', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X4ROUND', 'Package': '1X04_ROUND', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'R1', 'Value': '100K', 'Device': 'RESISTOR0805_NOOUTLINE', 'Package': '0805-NO', 'Description': 'Resistors', 'BOM': ''}, {'Part': 'U$9', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}]}|
 ||||
 

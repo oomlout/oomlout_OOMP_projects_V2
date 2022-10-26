@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-GA1A1S202WP-Breakout-PCB|
 |eagleBoard|eagleBoard|/GA1A1S202WP-REV-B.brd|
 |eagleSchem|eagleSchem|/GA1A1S202WP-REV-B.sch|
+|OOMP Parts List|oompParts|{'C1': 'CAPC-0805-X-NF100-V50', 'JP1': 'HEAD-I01-X-PI03-01', 'R1': 'RESE-0805-X-O683-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'C1', 'Value': '0.1uF', 'Device': 'CAP_CERAMIC_0805MP', 'Package': '_0805MP', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'FID1', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'FID2', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X3ROUND', 'Package': '1X03_ROUND', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'R1', 'Value': '68K', 'Device': 'RESISTOR_0805MP', 'Package': '_0805MP', 'Description': 'Resistors', 'BOM': ''}, {'Part': 'U$3', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': ''}, {'Part': 'U1', 'Value': 'GA1A1S202WP', 'Device': 'GA1A1S202WP', 'Package': 'GA1A1S202WP', 'Description': 'GA1A1S202WP - Analog Light Sensor', 'BOM': ''}]}|
 ||||
 

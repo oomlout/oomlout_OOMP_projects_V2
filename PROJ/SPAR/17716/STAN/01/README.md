@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Time-of-Flight-TMF8801|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Time-of-Flight-TMF8801/Hardware/Qwiic_TMF8801.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Time-of-Flight-TMF8801/Hardware/Qwiic_TMF8801.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

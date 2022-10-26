@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Artemis_Global_Tracker|
 |eagleBoard|eagleBoard|sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

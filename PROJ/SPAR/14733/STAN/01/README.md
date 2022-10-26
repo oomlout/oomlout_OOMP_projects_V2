@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_RGB_BH1749|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_RGB_BH1749/Hardware/Qwiic RGB Sensor - BH1749.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_RGB_BH1749/Hardware/Qwiic RGB Sensor - BH1749.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

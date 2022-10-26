@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Boost|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

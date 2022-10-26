@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

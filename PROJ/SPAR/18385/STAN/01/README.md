@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_CO2_Sensor-STC31|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_CO2_Sensor-STC31/Hardware/STC31 Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_CO2_Sensor-STC31/Hardware/STC31 Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

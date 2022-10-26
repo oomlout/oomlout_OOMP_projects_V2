@@ -35,6 +35,7 @@
 |gitName|gitName|SSOP-DIP_Adapter_20-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Adapter-SSOP20-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Adapter-SSOP20-v10.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI10-01', 'JP2': 'HEAD-I01-X-PI10-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M10', 'Device': 'M10', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'JP2', 'Value': 'M10', 'Device': 'M10', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'U$1', 'Value': 'SSOP20', 'Device': 'SSOP20', 'Package': 'SSOP20-LONG', 'Description': '', 'BOM': ''}]}|
 ||||
 

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_GPS-TitanX1|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_GPS-TitanX1/Hardware/Qwiic GPS - Titan X1.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_GPS-TitanX1/Hardware/Qwiic GPS - Titan X1.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -35,6 +35,7 @@
 |gitName|gitName|SSOP-DIP_Adapter_28-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SSOP28-DIP-Adapter-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SSOP28-DIP-Adapter-v12.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI14-01', 'JP2': 'HEAD-I01-X-PI14-01', 'U$2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M14', 'Device': 'M14', 'Package': '1X14', 'Description': 'Header 14', 'BOM': ''}, {'Part': 'JP2', 'Value': 'M14', 'Device': 'M14', 'Package': '1X14', 'Description': 'Header 14', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$2', 'Value': 'SSOP28', 'Device': 'SSOP28', 'Package': 'SSOP28DB', 'Description': '', 'BOM': ''}, {'Part': 'U$5', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 

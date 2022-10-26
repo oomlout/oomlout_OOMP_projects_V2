@@ -35,6 +35,7 @@
 |gitName|gitName|Ambient_Light_Sensor_Breakout-TEMT6000|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_TEMT6000_Breakout-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_TEMT6000_Breakout-v12.sch|
+|OOMP Parts List|oompParts|{'JP4': 'HEAD-I01-X-PI03-01', 'R1': 'RESE-0402-X-O103-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP4', 'Value': '', 'Device': 'M03PTH', 'Package': '1X03', 'Description': 'Header 3', 'BOM': ''}, {'Part': 'R1', 'Value': '10K', 'Device': 'RESISTOR0402-RES', 'Package': '0402-RES', 'Description': 'Resistor', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'TEMT6000', 'Device': 'TEMT6000', 'Package': 'TEMT6000-SEN', 'Description': 'Ambient Light Sensor', 'BOM': ''}]}|
 ||||
 

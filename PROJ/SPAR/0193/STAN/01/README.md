@@ -35,6 +35,7 @@
 |gitName|gitName|Adapter_Board-ICD_ICD2|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_ICD-ICD2.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_ICD-ICD2.sch|
+|OOMP Parts List|oompParts|{'FRAME1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'HEADERS': 'HEAD-I01-X-UNMATCHED-01', 'RJ11': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': '', 'Device': 'FRAME-LETTERNO_PACKAGE', 'Package': 'DUMMY', 'Description': 'Schematic Frame', 'BOM': 'Nathan Seidle'}, {'Part': 'HEADERS', 'Value': '', 'Device': 'M06POLAR', 'Package': 'MOLEX-1X6', 'Description': 'Header 6', 'BOM': ''}, {'Part': 'JP1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'RJ11', 'Value': 'RJ11-6PTH', 'Device': 'RJ11-6PTH', 'Package': 'RJ11-6', 'Description': 'RJ11 Jack', 'BOM': ''}]}|
 ||||
 

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-TCA8418-PCB|
 |eagleBoard|eagleBoard|/Adafruit TCA8418.brd|
 |eagleSchem|eagleSchem|/Adafruit TCA8418.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

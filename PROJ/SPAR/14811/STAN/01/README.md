@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/A111_Pulsed_Radar_Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/A111_Pulsed_Radar_Breakout/Hardware/A111_Pulsed_Radar_Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/A111_Pulsed_Radar_Breakout/Hardware/A111_Pulsed_Radar_Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

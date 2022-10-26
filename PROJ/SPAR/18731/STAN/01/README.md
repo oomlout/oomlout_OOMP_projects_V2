@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_FPC_16-way_36mm|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_FPC_16-way_36mm/Hardware/16_POS_0_5MM_PITCH_36MM_LENGTH.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_FPC_16-way_36mm/Hardware/16_POS_0_5MM_PITCH_36MM_LENGTH.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

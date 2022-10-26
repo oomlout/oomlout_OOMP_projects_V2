@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Qwiic_Thermocouple_Amplifer|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Thermocouple_Amplifier_PCC/SparkFun_Qwiic_Thermocouple_Amplifier_PCC.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_Thermocouple_Amplifier_PCC/SparkFun_Qwiic_Thermocouple_Amplifier_PCC.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

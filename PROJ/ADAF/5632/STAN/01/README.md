@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-QSPI-DIP-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit QSPI DIP Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit QSPI DIP Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

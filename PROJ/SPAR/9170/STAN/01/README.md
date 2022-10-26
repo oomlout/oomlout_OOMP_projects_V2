@@ -35,6 +35,7 @@
 |gitName|gitName|Touch_Screen_Connector_Breakout-Nintendo_DS|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Touch_Screen_Connector_Breakout_DS.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Touch_Screen_Connector_Breakout_DS.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI04-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FID1', 'Value': 'FIDUCIAL1X2', 'Device': 'FIDUCIAL1X2', 'Package': 'FIDUCIAL-1X2', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'FID2', 'Value': 'FIDUCIAL1X2', 'Device': 'FIDUCIAL1X2', 'Package': 'FIDUCIAL-1X2', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'M04PTH', 'Package': '1X04', 'Description': 'Header 4', 'BOM': ''}, {'Part': 'U$1', 'Value': 'DS_TOUCH_CONNECTOR', 'Device': 'DS_TOUCH_CONNECTOR', 'Package': 'DS_TOUCH_CONNECTOR', 'Description': '4-pin DS touch screen connector', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 

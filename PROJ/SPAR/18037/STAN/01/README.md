@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_u-blox_MAX-M10S|
 |eagleBoard|eagleBoard|/Hardware/SparkFun u-blox GNSS MAX-M10S.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun u-blox GNSS MAX-M10S.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

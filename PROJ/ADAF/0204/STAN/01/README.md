@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|monochron|
 |eagleBoard|eagleBoard|/pcb/ratt.brd|
 |eagleSchem|eagleSchem|/pcb/ratt.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

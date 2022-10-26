@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|LogicBlocks|
 |eagleBoard|eagleBoard|/hardware/AND/logicBlocks-AND.brd|
 |eagleSchem|eagleSchem|/hardware/AND/logicBlocks-AND.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

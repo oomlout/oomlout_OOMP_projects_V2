@@ -35,6 +35,7 @@
 |gitName|gitName|Blackberry_Trackballer_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.sch|
+|OOMP Parts List|oompParts|['U$1', 'UNMATCHED-UNMATCHED-X-UNMATCHED-01']|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame', 'BOM': ''}, {'Part': 'U$1', 'Value': 'BLACKBERRY_TRACKBALLER', 'Device': 'BLACKBERRY_TRACKBALLER', 'Package': 'BLACKBERRY_TRACKBALLER', 'Description': '', 'BOM': 'PCB-12486'}]}|
 ||||
 

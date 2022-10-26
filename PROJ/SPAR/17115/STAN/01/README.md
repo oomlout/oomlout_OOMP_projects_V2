@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SerialFlash-Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

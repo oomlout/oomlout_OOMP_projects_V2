@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-1.5inch-Color-OLED-PCB|
 |eagleBoard|eagleBoard|/Adafruit_1.5_128x128_RGB_OLED.brd|
 |eagleSchem|eagleSchem|/Adafruit_1.5_128x128_RGB_OLED.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

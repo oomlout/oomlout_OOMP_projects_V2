@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_AS3935_Lightning_Detector|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_AS3935_Lightning_Detector/Hardware/Qwiic_AS3935_Lightning_Detector.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_AS3935_Lightning_Detector/Hardware/Qwiic_AS3935_Lightning_Detector.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

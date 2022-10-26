@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Iridium_9603N|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Iridium_9603N/Hardware/Qwiic_Iridium_9603N.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Iridium_9603N/Hardware/Qwiic_Iridium_9603N.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

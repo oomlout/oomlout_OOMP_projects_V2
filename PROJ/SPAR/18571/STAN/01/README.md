@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Inline-DC-Panel-Meter|
 |eagleBoard|eagleBoard|sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

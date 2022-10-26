@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|ProtoShield_Kit|
 |eagleBoard|eagleBoard|/Hardware/Bare_PCB/Hardware/SparkFun_ProtoShield_Kit.brd|
 |eagleSchem|eagleSchem|/Hardware/Bare_PCB/Hardware/SparkFun_ProtoShield_Kit.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

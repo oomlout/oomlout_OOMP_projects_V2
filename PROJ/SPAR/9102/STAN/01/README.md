@@ -35,6 +35,7 @@
 |gitName|gitName|LilyPad_Protoboard_Small|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Protoboard_Small.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Protoboard_Small.sch|
+|OOMP Parts List|oompParts|{}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'U$2', 'Value': 'LOGO-LPL', 'Device': 'LOGO-LPL', 'Package': 'LOGO-L', 'Description': '', 'BOM': ''}, {'Part': 'U$3', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'U$4', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'U$5', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'U$8', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'U$9', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'U$10', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}]}|
 ||||
 

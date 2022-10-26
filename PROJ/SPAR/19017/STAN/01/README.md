@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_1.8V_Adapter|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_1.8V_Adapter/Hardware/Qwiic_1.8V_Adapter.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_1.8V_Adapter/Hardware/Qwiic_1.8V_Adapter.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-SMT-Breakout-PCBs|
 |eagleBoard|eagleBoard|/0.5mm 4-pin.brd|
 |eagleSchem|eagleSchem|/0.5mm 4-pin.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-UNMATCHED-01', 'JP2': 'HEAD-I01-X-UNMATCHED-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'U$2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'PINHD-1X4THIN', 'Package': 'HEADER1X4', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'PINHD-1X4THIN', 'Package': 'HEADER1X4', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'U$1', 'Value': 'SO-8', 'Device': 'SO-8', 'Package': 'SO-08NMW', 'Description': '', 'BOM': ''}, {'Part': 'U$2', 'Value': 'TSSOP-8', 'Device': 'TSSOP-8', 'Package': 'TSSOP-8NM', 'Description': '', 'BOM': ''}]}|
 ||||
 

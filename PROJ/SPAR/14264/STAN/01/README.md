@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

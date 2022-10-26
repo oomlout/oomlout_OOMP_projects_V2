@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['PROJ-ADAF-3695-STAN-01']['oompParts'] = [{'JP1': 'HEAD-I01-X-PI11-01', 'JP2': 'HEAD-I01-X-PI11-01', 'JP4': 'HEAD-I01-X-PI02-01', 'MB1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}]

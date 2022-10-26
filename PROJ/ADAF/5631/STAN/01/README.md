@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-PB86-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit PB86 Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit PB86 Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

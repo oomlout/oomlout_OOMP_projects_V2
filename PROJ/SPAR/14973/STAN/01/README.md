@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/BufferSaver|
 |eagleBoard|eagleBoard|sourceFiles/git/BufferSaver/Hardware/BufferSaver.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/BufferSaver/Hardware/BufferSaver.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

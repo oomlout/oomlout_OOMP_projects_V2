@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-EYESPI-PCB|
 |eagleBoard|eagleBoard|/Adafruit EYESPI Breakout Board.brd|
 |eagleSchem|eagleSchem|/Adafruit EYESPI Breakout Board.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_ARTIC_R2|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_ARTIC_R2/Hardware/SparkX_smol_ARTIC_R2.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_ARTIC_R2/Hardware/SparkX_smol_ARTIC_R2.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

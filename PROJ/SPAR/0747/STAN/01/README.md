@@ -35,6 +35,7 @@
 |gitName|gitName|LMD1820x_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LMD1820x-Breakout-V12.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LMD1820x-Breakout-V12.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI11-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M11PTH', 'Device': 'M11PTH', 'Package': '1X11', 'Description': 'Header 11', 'BOM': ''}, {'Part': 'JP2', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'JP3', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'JP5', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LMD1820X', 'Device': 'LMD1820X', 'Package': 'TO-220-11LEAD', 'Description': 'LMD1820X H-Bridge - BOB-00747', 'BOM': ''}]}|
 ||||
 

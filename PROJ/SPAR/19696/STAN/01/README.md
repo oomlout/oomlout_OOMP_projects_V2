@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Thing_Plus_DA16200|
 |eagleBoard|eagleBoard|/Hardware/DA16200_Thing_Plus.brd|
 |eagleSchem|eagleSchem|/Hardware/DA16200_Thing_Plus.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

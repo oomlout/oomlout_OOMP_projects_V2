@@ -34,6 +34,7 @@
 |gitName|gitName|Thumb_Joystick_Breakout|
 |eagleBoard|eagleBoard|/Hardware/Joystick-Breakout-v12.brd|
 |eagleSchem|eagleSchem|/Hardware/Joystick-Breakout-v12.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI05-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M05PTH', 'Package': '1X05', 'Description': 'Header 5', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$3', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'U$4', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'U$5', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'U$6', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'U1', 'Value': 'JOYSTICKPTH', 'Device': 'JOYSTICKPTH', 'Package': 'JOYSTICK', 'Description': 'Thumb Joystick', 'BOM': ''}]}|
 ||||
 

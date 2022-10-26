@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Zio-Qwiic-Soil-Moisture-Sensor|
 |eagleBoard|eagleBoard|/EAGLE/SparkFun Qwiic Soil Moisture Sensor.brd|
 |eagleSchem|eagleSchem|/EAGLE/SparkFun Qwiic Soil Moisture Sensor.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

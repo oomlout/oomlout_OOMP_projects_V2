@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Switch|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Switch/Hardware/Qwiic_Switch.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Switch/Hardware/Qwiic_Switch.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

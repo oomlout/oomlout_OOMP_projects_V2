@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

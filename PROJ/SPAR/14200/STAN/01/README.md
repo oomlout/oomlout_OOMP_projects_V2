@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Robotic_Finger_Sensor|
 |eagleBoard|eagleBoard|sourceFiles/git/Robotic_Finger_Sensor/Hardware/Layout/Robotic_Finger_Sensor.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Robotic_Finger_Sensor/Hardware/Layout/Robotic_Finger_Sensor.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

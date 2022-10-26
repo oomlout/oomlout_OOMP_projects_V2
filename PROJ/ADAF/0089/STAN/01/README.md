@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit_Conway-Game-of-Life-Kit|
 |eagleBoard|eagleBoard|/pcb/GoL 1.3.brd|
 |eagleSchem|eagleSchem|/pcb/GoL 1.3.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

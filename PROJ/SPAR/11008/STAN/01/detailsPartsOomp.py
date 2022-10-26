@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['PROJ-SPAR-11008-STAN-01']['oompParts'] = [{'D1': 'DIOD-S323-X-UNMATCHED-01', 'M1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'R1': 'RESE-0603-X-O330-01'}]

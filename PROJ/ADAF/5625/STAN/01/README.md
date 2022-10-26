@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-Qwiic-Stemma-QT-5-Port-Hub-PCB|
 |eagleBoard|eagleBoard|/Adafruit Stemma QT 5 Port Hub.brd|
 |eagleSchem|eagleSchem|/Adafruit Stemma QT 5 Port Hub.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

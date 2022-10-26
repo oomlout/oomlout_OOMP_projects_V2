@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_Air_Quality_Sensor-SGP40/Hardware/SGP40 Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_Air_Quality_Sensor-SGP40/Hardware/SGP40 Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

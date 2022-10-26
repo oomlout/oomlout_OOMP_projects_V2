@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/LoRa_1W_Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

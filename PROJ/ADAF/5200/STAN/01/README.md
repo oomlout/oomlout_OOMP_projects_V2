@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-Proto-PiCowbell-PCB|
 |eagleBoard|eagleBoard|/Adafruit Proto PiCowbell.brd|
 |eagleSchem|eagleSchem|/Adafruit Proto PiCowbell.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

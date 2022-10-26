@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/RGB_Panel_Arduino_Shield|
 |eagleBoard|eagleBoard|sourceFiles/git/RGB_Panel_Arduino_Shield/Hardware/RGB Panel Shield for Arduino.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/RGB_Panel_Arduino_Shield/Hardware/RGB Panel Shield for Arduino.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

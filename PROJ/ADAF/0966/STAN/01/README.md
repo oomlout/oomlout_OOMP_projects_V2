@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-Low-profile-microSD-to-SD-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Pi SD Card Adapter.brd|
 |eagleSchem|eagleSchem|/Adafruit Pi SD Card Adapter.sch|
+|OOMP Parts List|oompParts|{'CN1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'U$2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'CN1', 'Value': '', 'Device': 'MICROSD', 'Package': 'MICROSD', 'Description': 'MicroSD/Transflash Card Holder with SPI pinout', 'BOM': ''}, {'Part': 'FID1', 'Value': 'FIDUCIAL1X2.5', 'Device': 'FIDUCIAL1X2.5', 'Package': 'FIDUCIAL-1X2.5', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'FID2', 'Value': 'FIDUCIAL1X2.5', 'Device': 'FIDUCIAL1X2.5', 'Package': 'FIDUCIAL-1X2.5', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'U$2', 'Value': 'SDCARD_PCBCARRIERTDOCU', 'Device': 'SDCARD_PCBCARRIERTDOCU', 'Package': 'SDCARD_PCBCARRIER_DOCU', 'Description': 'Physical PCB representing an SD Card', 'BOM': ''}]}|
 ||||
 

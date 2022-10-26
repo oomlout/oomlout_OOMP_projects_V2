@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/USB_Current_Sensor|
 |eagleBoard|eagleBoard|sourceFiles/git/USB_Current_Sensor/Hardware/USB_Current_Sensor.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/USB_Current_Sensor/Hardware/USB_Current_Sensor.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

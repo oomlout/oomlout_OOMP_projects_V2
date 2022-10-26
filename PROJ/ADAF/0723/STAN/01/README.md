@@ -34,6 +34,7 @@
 |gitName|gitName|Adafruit-Perma-Proto-PCB|
 |eagleBoard|eagleBoard|/adafruit minty permaproto.brd|
 |eagleSchem|eagleSchem|/adafruit minty permaproto.sch|
+|OOMP Parts List|oompParts|{'H1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'H2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'H3': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'H4': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'H1', 'Value': 'MOUNT-HOLE3.0', 'Device': 'MOUNT-HOLE3.0', 'Package': '3,0', 'Description': 'MOUNTING HOLE with drill center marker', 'BOM': ''}, {'Part': 'H2', 'Value': 'MOUNT-HOLE3.0', 'Device': 'MOUNT-HOLE3.0', 'Package': '3,0', 'Description': 'MOUNTING HOLE with drill center marker', 'BOM': ''}, {'Part': 'H3', 'Value': 'MOUNT-HOLE3.0', 'Device': 'MOUNT-HOLE3.0', 'Package': '3,0', 'Description': 'MOUNTING HOLE with drill center marker', 'BOM': ''}, {'Part': 'H4', 'Value': 'MOUNT-HOLE3.0', 'Device': 'MOUNT-HOLE3.0', 'Package': '3,0', 'Description': 'MOUNTING HOLE with drill center marker', 'BOM': ''}]}|
 ||||
 

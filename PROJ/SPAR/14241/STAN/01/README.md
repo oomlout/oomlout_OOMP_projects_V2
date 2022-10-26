@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Air_Quality_Combo_Board-CCS811-BME280|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Air_Quality_Combo_Board-CCS811-BME280/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Air_Quality_Combo_Board-CCS811-BME280/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

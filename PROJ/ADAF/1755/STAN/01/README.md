@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-LED-Sequin-PCB|
 |eagleBoard|eagleBoard|/Adafruit LED Sequin.brd|
 |eagleSchem|eagleSchem|/Adafruit LED Sequin.sch|
+|OOMP Parts List|oompParts|{'LED1': 'LEDS-1206-G-STAN-01', 'R1': 'RESE-0603-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'LED1', 'Value': '', 'Device': 'LEDSMT1206', 'Package': '1206', 'Description': 'LED', 'BOM': ''}, {'Part': 'R1', 'Value': '', 'Device': 'R-US_R0603', 'Package': 'R0603', 'Description': 'RESISTOR, American symbol', 'BOM': ''}]}|
 ||||
 

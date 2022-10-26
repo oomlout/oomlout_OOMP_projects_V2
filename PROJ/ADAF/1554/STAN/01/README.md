@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-PCB-Ruler|
 |eagleBoard|eagleBoard|/Adafruit PCB Reference Ruler.brd|
 |eagleSchem|eagleSchem|/Adafruit PCB Reference Ruler.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

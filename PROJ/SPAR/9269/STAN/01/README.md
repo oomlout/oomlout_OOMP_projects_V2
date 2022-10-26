@@ -35,6 +35,7 @@
 |gitName|gitName|ADXL335_Breakout|
 |eagleBoard|eagleBoard|/Hardware/ADXL335_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/ADXL335_Breakout.sch|
+|OOMP Parts List|oompParts|{'C1': 'CAPC-0603-X-NF100-V50', 'C2': 'CAPC-0603-X-NF100-V50', 'C3': 'CAPC-0603-X-NF100-V50', 'C4': 'CAPC-0603-X-NF100-V50', 'SL1': 'HEAD-I01-X-PI06-01', 'U$4': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'C1', 'Value': '0.1uF', 'Device': 'CAP0603-CAP', 'Package': '0603-CAP', 'Description': 'Capacitor', 'BOM': ''}, {'Part': 'C2', 'Value': '0.1uF', 'Device': 'CAP0603-CAP', 'Package': '0603-CAP', 'Description': 'Capacitor', 'BOM': ''}, {'Part': 'C3', 'Value': '0.1uF', 'Device': 'CAP0603-CAP', 'Package': '0603-CAP', 'Description': 'Capacitor', 'BOM': ''}, {'Part': 'C4', 'Value': '0.1uF', 'Device': 'CAP0603-CAP', 'Package': '0603-CAP', 'Description': 'Capacitor', 'BOM': ''}, {'Part': 'SL1', 'Value': '', 'Device': 'M06SIP', 'Package': '1X06', 'Description': 'Header 6', 'BOM': ''}, {'Part': 'U$1', 'Value': 'FIDUCIAL1X2', 'Device': 'FIDUCIAL1X2', 'Package': 'FIDUCIAL-1X2', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'U$3', 'Value': 'FIDUCIAL1X2', 'Device': 'FIDUCIAL1X2', 'Package': 'FIDUCIAL-1X2', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'U$4', 'Value': 'ADXL335-PATRICK', 'Device': 'ADXL335-PATRICK', 'Package': 'ADXL335-P', 'Description': '', 'BOM': ''}]}|
 ||||
 

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Buck_Regulator_AP63203|
 |eagleBoard|eagleBoard|/SparkFun BabyBuck Regulator - AP63203/Hardware/SparkFun BabyBuck Regulator - AP63203.brd|
 |eagleSchem|eagleSchem|/SparkFun BabyBuck Regulator - AP63203/Hardware/SparkFun BabyBuck Regulator - AP63203.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/RFM97CW_Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/RFM97CW_Breakout/Hardware/SparkFun_RFM97CW_Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/RFM97CW_Breakout/Hardware/SparkFun_RFM97CW_Breakout.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

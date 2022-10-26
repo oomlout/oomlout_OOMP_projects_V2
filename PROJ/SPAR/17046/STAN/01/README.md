@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

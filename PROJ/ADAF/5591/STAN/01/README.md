@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-LTR-329-LTR-303-PCB|
 |eagleBoard|eagleBoard|/Adafruit LTR-303.brd|
 |eagleSchem|eagleSchem|/Adafruit LTR-303.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

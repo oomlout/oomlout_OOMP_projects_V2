@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_PC_Fan_Controller|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_PC_Fan_Controller/Hardware/Qwiic_4_Pin_Fan_Controller.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_PC_Fan_Controller/Hardware/Qwiic_4_Pin_Fan_Controller.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

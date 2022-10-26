@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

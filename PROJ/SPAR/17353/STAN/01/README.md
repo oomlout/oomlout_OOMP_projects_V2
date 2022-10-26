@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_BMI270|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_BMI270/Hardware/Qwiic_BMI270.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_BMI270/Hardware/Qwiic_BMI270.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

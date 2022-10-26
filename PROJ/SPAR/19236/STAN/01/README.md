@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138|
 |eagleBoard|eagleBoard|sourceFiles/git/Satellite_Transceiver_Breakout__Swarm_M138/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Satellite_Transceiver_Breakout__Swarm_M138/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

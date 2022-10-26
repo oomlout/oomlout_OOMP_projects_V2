@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Sparkfun_Big_Red_Box_Proto_Board|
 |eagleBoard|eagleBoard|/Hardware/Big_Red_Box_Proto_Board.brd|
 |eagleSchem|eagleSchem|/Hardware/Big_Red_Box_Proto_Board.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

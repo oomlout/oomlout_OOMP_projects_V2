@@ -35,6 +35,7 @@
 |gitName|gitName|SSOP-DIP_Adapter_8-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_adapter-ssop8-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_adapter-ssop8-v10.sch|
+|OOMP Parts List|oompParts|{'JP2': 'HEAD-I01-X-PI04-01', 'JP3': 'HEAD-I01-X-PI04-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'M04PTH', 'Package': '1X04', 'Description': 'Header 4', 'BOM': ''}, {'Part': 'JP3', 'Value': '', 'Device': 'M04PTH', 'Package': '1X04', 'Description': 'Header 4', 'BOM': ''}, {'Part': 'U$1', 'Value': 'SSOP8', 'Device': 'SSOP8', 'Package': 'SSOP8', 'Description': '', 'BOM': ''}]}|
 ||||
 

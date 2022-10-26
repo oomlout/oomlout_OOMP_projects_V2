@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-LSM6DS3TR-C-LIS3MDL-PCB|
 |eagleBoard|eagleBoard|/LIS3MDL + LSM6DS3 rev A.brd|
 |eagleSchem|eagleSchem|/LIS3MDL + LSM6DS3 rev A.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

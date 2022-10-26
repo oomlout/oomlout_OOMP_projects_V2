@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Shield_for_ESP32|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

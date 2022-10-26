@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Power_Board_AAA|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Power_Board_AAA/Hardware/SparkX_smol_Power_AAA.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Power_Board_AAA/Hardware/SparkX_smol_Power_AAA.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

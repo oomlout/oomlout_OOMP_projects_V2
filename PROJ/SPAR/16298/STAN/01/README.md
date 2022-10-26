@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_PHT_MS8607|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_PHT_MS8607/Hardware/Qwiic PHT Sensor - MS8607.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_PHT_MS8607/Hardware/Qwiic PHT Sensor - MS8607.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

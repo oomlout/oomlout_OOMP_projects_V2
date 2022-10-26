@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-MMC5603-PCB|
 |eagleBoard|eagleBoard|/MMC56x3 rev A.brd|
 |eagleSchem|eagleSchem|/MMC56x3 rev A.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

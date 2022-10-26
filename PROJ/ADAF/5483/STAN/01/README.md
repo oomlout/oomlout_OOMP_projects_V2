@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-ESP32-S3-TFT-Feather-PCB|
 |eagleBoard|eagleBoard|/Adafruit ESP32-S3 TFT Feather.brd|
 |eagleSchem|eagleSchem|/Adafruit ESP32-S3 TFT Feather.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

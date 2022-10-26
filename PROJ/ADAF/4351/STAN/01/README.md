@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-Infineon-Trust-M-PCB|
 |eagleBoard|eagleBoard|/Adafruit Infineon Trust M.brd|
 |eagleSchem|eagleSchem|/Adafruit Infineon Trust M.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

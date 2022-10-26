@@ -30,4 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_IoT_RedBoard-ESP32|
 |eagleBoard|eagleBoard|/hardware/SparkFun_IoT_RedBoard-ESP32.brd|
 |eagleSchem|eagleSchem|/hardware/SparkFun_IoT_RedBoard-ESP32.sch|
+|OOMP Parts List|oompParts|{}|
 ||||

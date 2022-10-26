@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-TXB0104-Level-Shifter-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit TXB0104.brd|
 |eagleSchem|eagleSchem|/Adafruit TXB0104.sch|
+|OOMP Parts List|oompParts|{'C1': 'CAPC-0805-X-NF100-V50', 'C2': 'CAPC-0805-X-NF100-V50', 'JP3': 'HEAD-I01-X-PI06-01', 'JP4': 'HEAD-I01-X-PI06-01', 'R1': 'RESE-0805-X-O103-01', 'U2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'C1', 'Value': '0.1uF', 'Device': 'CAP_CERAMIC0805-NOOUTLINE', 'Package': '0805-NO', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'C2', 'Value': '0.1uF', 'Device': 'CAP_CERAMIC0805-NOOUTLINE', 'Package': '0805-NO', 'Description': 'Ceramic Capacitors', 'BOM': ''}, {'Part': 'JP3', 'Value': '', 'Device': 'PINHD-1X6CB', 'Package': '1X06-CLEANBIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP4', 'Value': '', 'Device': 'PINHD-1X6CB', 'Package': '1X06-CLEANBIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'R1', 'Value': '10K', 'Device': 'RESISTOR0805_NOOUTLINE', 'Package': '0805-NO', 'Description': 'Resistors', 'BOM': ''}, {'Part': 'U$5', 'Value': 'FIDUCIAL_1MM', 'Device': 'FIDUCIAL_1MM', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'U2', 'Value': '', 'Device': 'TXB0104PWR', 'Package': 'TSSOP14', 'Description': '4-Bit Bi-Directional Level Shifter', 'BOM': ''}]}|
 ||||
 

@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-DragonTail-for-micro-bit-PCB|
 |eagleBoard|eagleBoard|/Adafruit DragonTail.brd|
 |eagleSchem|eagleSchem|/Adafruit DragonTail.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI11-01', 'JP2': 'HEAD-I01-X-PI11-01', 'JP4': 'HEAD-I01-X-PI02-01', 'MB1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X1176MIL', 'Package': '1X11_ROUND_76', 'Description': '', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'HEADER-1X1176MIL', 'Package': '1X11_ROUND_76', 'Description': '', 'BOM': ''}, {'Part': 'JP4', 'Value': '', 'Device': 'HEADER-1X2', 'Package': '1X02_OVAL', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'MB1', 'Value': 'MICRO:BIT_RA', 'Device': 'MICRO:BIT_RA', 'Package': '2X20_CARDEDGE_RA', 'Description': '', 'BOM': ''}, {'Part': 'U$9', 'Value': 'MOUNTINGHOLE2.0', 'Device': 'MOUNTINGHOLE2.0', 'Package': 'MOUNTINGHOLE_2.0_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}, {'Part': 'U$10', 'Value': 'MOUNTINGHOLE2.0', 'Device': 'MOUNTINGHOLE2.0', 'Package': 'MOUNTINGHOLE_2.0_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}]}|
 ||||
 

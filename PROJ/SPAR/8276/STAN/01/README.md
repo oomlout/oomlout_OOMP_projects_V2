@@ -35,6 +35,7 @@
 |gitName|gitName|XBee_Module_Breakout_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_XBee-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_XBee-Breakout.sch|
+|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI10-01', 'JP2': 'HEAD-I01-X-PI10-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
 |Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M100.1', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'M100.1', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'XBEE', 'Device': 'XBEE-1B1', 'Package': 'XBEE-1', 'Description': '', 'BOM': ''}]}|
 ||||
 
