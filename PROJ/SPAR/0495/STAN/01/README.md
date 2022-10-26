@@ -35,6 +35,7 @@
 |gitName|gitName|SOIC20-DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOIC20_Adapter_v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SOIC20_Adapter_v10.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M100.1', 'Device': 'M100.1', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'JP2', 'Value': 'M100.1', 'Device': 'M100.1', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'U$1', 'Value': 'SOIC_20', 'Device': 'SOIC_20', 'Package': 'SO20W', 'Description': '', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 
 

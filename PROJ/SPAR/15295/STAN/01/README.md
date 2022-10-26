@@ -34,4 +34,5 @@ NO IMAGE
 |gitName|gitName|SparkFun_PCB_Ruler|
 |eagleBoard|eagleBoard|/Hardware/SparkFunRuler.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunRuler.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame - Letter', 'BOM': ''}, {'Part': 'LOGO1', 'Value': 'OSHW-LOGOM', 'Device': 'OSHW-LOGOM', 'Package': 'OSHW-LOGO-M', 'Description': 'Open-Source Hardware (OSHW) Logo', 'BOM': ''}]}|
 ||||

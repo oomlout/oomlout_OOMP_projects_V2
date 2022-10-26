@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-CSI-or-DSI-Cable-Extender-Thingy-for-Raspberry-Pi|
 |eagleBoard|eagleBoard|/DSI CSI Extender.brd|
 |eagleSchem|eagleSchem|/DSI CSI Extender.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FID1', 'Value': 'FIDUCIAL_1MM', 'Device': 'FIDUCIAL_1MM', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'FID2', 'Value': 'FIDUCIAL_1MM', 'Device': 'FIDUCIAL_1MM', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X15_FPC1MM_PI', 'Package': 'FPC_15PIN_1.0MM', 'Description': '1x15 Header', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'HEADER-1X15_FPC1MM_PI', 'Package': 'FPC_15PIN_1.0MM', 'Description': '1x15 Header', 'BOM': ''}, {'Part': 'U$2', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}, {'Part': 'U$3', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}]}|
 ||||
 
 

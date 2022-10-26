@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-Pi-Cobber-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Cobbler Plus.brd|
 |eagleSchem|eagleSchem|/Adafruit Cobbler Plus.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'PI', 'Device': 'RASBERRYPI_IDC', 'Package': 'RASBERRYPI_IDC', 'Description': 'Rasberry PI IDC Header', 'BOM': ''}, {'Part': 'JP2', 'Value': 'Right', 'Device': 'HEADER-1X13', 'Package': '1X13_ROUND_70', 'Description': '', 'BOM': ''}, {'Part': 'JP3', 'Value': 'Left', 'Device': 'HEADER-1X13', 'Package': '1X13_ROUND_70', 'Description': '', 'BOM': ''}, {'Part': 'U$2', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': ''}, {'Part': 'U$3', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': ''}, {'Part': 'U$4', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': ''}, {'Part': 'U$5', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': ''}]}|
 ||||
 
 

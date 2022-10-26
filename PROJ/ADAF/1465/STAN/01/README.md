@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-ISP-SWD-and-JTAG-Breakout-PCBs|
 |eagleBoard|eagleBoard|/Adafruit 6-ISP AVR.brd|
 |eagleSchem|eagleSchem|/Adafruit 6-ISP AVR.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FID1', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'FID2', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X576MIL_FULL', 'Package': '1X05_ROUND_FULL_76', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'HEADER-1X576MIL_FULL', 'Package': '1X05_ROUND_FULL_76', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'X1', 'Value': '20317', 'Device': 'JTAG-CORTEXBOXPOSTS', 'Package': '2X05_1.27MM_BOX_POSTS', 'Description': 'Serial Wire (SW-DP) Connector', 'BOM': ''}]}|
 ||||
 
 

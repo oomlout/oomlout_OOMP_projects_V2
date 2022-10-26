@@ -35,6 +35,7 @@
 |gitName|gitName|DS1307-breakout-board|
 |eagleBoard|eagleBoard|/DS1307 Rev B.brd|
 |eagleSchem|eagleSchem|/DS1307 Rev B.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'BAT', 'Value': 'CR1220', 'Device': 'CR1220THM', 'Package': 'CR1220-THM', 'Description': 'CR1216/CR1220/CR1225 12mm 3V lithium coin cell', 'BOM': ''}, {'Part': 'C1', 'Value': '0.1uF', 'Device': 'C-US025-025X050', 'Package': 'C025-025X050', 'Description': 'CAPACITOR, American symbol', 'BOM': ''}, {'Part': 'IC3', 'Value': 'DS1307', 'Device': 'DS1307', 'Package': 'DIL08', 'Description': 'DS1307', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'PINHD-1X5', 'Package': '1X05', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'Q1', 'Value': '32.768', 'Device': 'CRYTALTC38H', 'Package': 'TC38H', 'Description': 'CRYSTAL', 'BOM': ''}, {'Part': 'R1', 'Value': '2.2k', 'Device': 'R-US_0207/10', 'Package': '0207/10', 'Description': 'RESISTOR, American symbol', 'BOM': ''}, {'Part': 'R2', 'Value': '2.2K', 'Device': 'R-US_0207/10', 'Package': '0207/10', 'Description': 'RESISTOR, American symbol', 'BOM': ''}]}|
 ||||
 
 

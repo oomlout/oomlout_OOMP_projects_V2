@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-FPC-SMT-Adapter-PCBs|
 |eagleBoard|eagleBoard|/1.0mm + 0.5mm FPC stick.brd|
 |eagleSchem|eagleSchem|/1.0mm + 0.5mm FPC stick.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'CON1', 'Value': 'PINHD-1X40-0.5MM', 'Device': 'PINHD-1X40-0.5MM', 'Package': '1X40-0.5MM', 'Description': 'Pinouts for OLED/LCD displays with flex ribbons', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'PINHD-2X20-BIG', 'Package': '2X20-BIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'PINHD-1X20-BIG', 'Package': '1X20-BIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP3', 'Value': '', 'Device': 'PINHD-1X20-BIG', 'Package': '1X20-BIG', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'U$1', 'Value': 'PINHD-1X40-0.6MM', 'Device': 'PINHD-1X40-0.6MM', 'Package': '1X40-0.6MM', 'Description': 'Pinouts for OLED/LCD displays with flex ribbons', 'BOM': ''}, {'Part': 'U$2', 'Value': 'PINHD-1X40-0.7MM', 'Device': 'PINHD-1X40-0.7MM', 'Package': '1X40-0.7MM', 'Description': 'Pinouts for OLED/LCD displays with flex ribbons', 'BOM': ''}, {'Part': 'U$3', 'Value': 'PINHD-1X40-0.8MM', 'Device': 'PINHD-1X40-0.8MM', 'Package': '1X40-0.8MM', 'Description': 'Pinouts for OLED/LCD displays with flex ribbons', 'BOM': ''}, {'Part': 'U$4', 'Value': 'PINHD-1X40-1MM', 'Device': 'PINHD-1X40-1MM', 'Package': '1X40-1MM', 'Description': 'Pinouts for OLED/LCD displays with flex ribbons', 'BOM': ''}]}|
 ||||
 
 

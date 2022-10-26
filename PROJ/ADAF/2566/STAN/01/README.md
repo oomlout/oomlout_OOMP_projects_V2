@@ -34,6 +34,7 @@
 |gitName|gitName|Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora 3JST.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora 3JST.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'CN2', 'Value': '', 'Device': 'JST_3PIN', 'Package': 'JSTPH3', 'Description': '', 'BOM': ''}, {'Part': 'U$2', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'For use by pick and place machines to calibrate the vision/machine, 1mm', 'BOM': ''}]}|
 ||||
 
 

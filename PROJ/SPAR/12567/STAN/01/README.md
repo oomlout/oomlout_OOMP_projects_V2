@@ -35,6 +35,7 @@
 |gitName|gitName|RedBot_Buzzer|
 |eagleBoard|eagleBoard|/Hardware/RedBot_Buzzer.brd|
 |eagleSchem|eagleSchem|/Hardware/RedBot_Buzzer.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'B1', 'Value': 'Buzzer', 'Device': 'BUZZERSMD2', 'Package': 'BUZZER-CCV', 'Description': 'Buzzer 12mm', 'BOM': ''}, {'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame', 'BOM': ''}, {'Part': 'JP1', 'Value': '1x3 RA Female .1', 'Device': 'M03SMD_RA_FEMALE', 'Package': '1X03_SMD_RA_FEMALE', 'Description': 'Header 3', 'BOM': 'CONN-10926'}, {'Part': 'LOGO1', 'Value': 'OSHW-LOGOS', 'Device': 'OSHW-LOGOS', 'Package': 'OSHW-LOGO-S', 'Description': 'Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW', 'BOM': ''}, {'Part': 'LOGO2', 'Value': 'SFE_LOGO_NAME_FLAME.1_INCH', 'Device': 'SFE_LOGO_NAME_FLAME.1_INCH', 'Package': 'SFE_LOGO_NAME_FLAME_.1', 'Description': 'SFE Logo, name and flame', 'BOM': ''}]}|
 ||||
 
 

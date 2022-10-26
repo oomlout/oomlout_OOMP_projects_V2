@@ -35,6 +35,7 @@
 |gitName|gitName|Photo_Interrupter_Breakout|
 |eagleBoard|eagleBoard|/Hardware/PhotoInterrupter-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/PhotoInterrupter-Breakout.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M03PTH', 'Package': '1X03', 'Description': 'Header 3', 'BOM': ''}, {'Part': 'R1', 'Value': '220', 'Device': 'RESISTORPTH1', 'Package': 'AXIAL-0.3', 'Description': 'Resistor', 'BOM': ''}, {'Part': 'U1', 'Value': 'GP1A57HR', 'Device': 'GP1A57HR', 'Package': 'GP1A57HR', 'Description': '', 'BOM': ''}, {'Part': 'U2', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 
 

@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-ALS-PT19-Sensor-Breakout-PCB|
 |eagleBoard|eagleBoard|/Adafruit ALS-PT19-315C Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit ALS-PT19-315C Breakout.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FID1', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'JP2', 'Value': '', 'Device': 'HEADER-1X3ROUND', 'Package': '1X03_ROUND', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'R1', 'Value': '10K', 'Device': 'RESISTOR_0603_NOOUT', 'Package': '0603-NO', 'Description': 'Resistors', 'BOM': ''}, {'Part': 'U$2', 'Value': 'MOUNTINGHOLE2.0', 'Device': 'MOUNTINGHOLE2.0', 'Package': 'MOUNTINGHOLE_2.0_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}, {'Part': 'U1', 'Value': 'ALS-PT19-315C', 'Device': 'LIGHT_ALS-PT19-315C', 'Package': 'ALS-PT19-315C', 'Description': 'ALS-PT19-315C - Analog Light Sensor', 'BOM': ''}]}|
 ||||
 
 

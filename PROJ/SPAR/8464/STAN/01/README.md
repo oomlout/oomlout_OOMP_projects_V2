@@ -35,6 +35,7 @@
 |gitName|gitName|LilyPad_Light_Sensor|
 |eagleBoard|eagleBoard|/Hardware/LilyPad_Light_Sensor.brd|
 |eagleSchem|eagleSchem|/Hardware/LilyPad_Light_Sensor.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'LIGHT+', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LIGHT-', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LIGHT1', 'Value': 'SEWTAP-NOHOLE2', 'Device': 'SEWTAP-NOHOLE2', 'Package': 'PETAL-NOHOLE-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LIGHT2', 'Value': 'SEWTAP-NOHOLE2', 'Device': 'SEWTAP-NOHOLE2', 'Package': 'PETAL-NOHOLE-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LIGHT3', 'Value': 'SEWTAP-NOHOLE2', 'Device': 'SEWTAP-NOHOLE2', 'Package': 'PETAL-NOHOLE-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LIGHTS', 'Value': 'SEWTAP6', 'Device': 'SEWTAP6', 'Package': 'PETAL-SMALL-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'R1', 'Value': '10K', 'Device': 'RESISTOR0402', 'Package': 'C0402', 'Description': 'Resistor', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-LPLP', 'Device': 'LOGO-LPLP', 'Package': 'LOGO-LILYPAD', 'Description': '', 'BOM': ''}, {'Part': 'U1', 'Value': 'TEMT6000', 'Device': 'TEMT6000', 'Package': 'TEMT6000-SEN', 'Description': 'Ambient Light Sensor', 'BOM': ''}]}|
 ||||
 
 

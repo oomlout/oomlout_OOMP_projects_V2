@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "PROJ"
     oSize = "SPAR"
     oColor = "15932"
@@ -17,18 +17,15 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('Qwiic Button')
-    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Button')
-    newPart['gitName'].append('Qwiic_Button')
-    newPart['eagleBoard'].append('/Hardware/Qwiic_Button.brd')
-    newPart['eagleSchem'].append('/Hardware/Qwiic_Button.sch')
+    newPart['name'].append('https://github.com/sparkfunX/Qwiic Button')
+    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Button')
+    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Button')
+    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Button/Hardware/Qwiic_Button.brd')
+    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Button/Hardware/Qwiic_Button.sch')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

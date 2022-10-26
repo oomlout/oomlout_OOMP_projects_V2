@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "PROJ"
     oSize = "SPAR"
     oColor = "14532"
@@ -17,18 +17,15 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('Qwiic Micro OLED')
-    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Micro_OLED')
-    newPart['gitName'].append('Qwiic_Micro_OLED')
-    newPart['eagleBoard'].append('/Hardware/Qwiic_OLED_Breakout.brd')
-    newPart['eagleSchem'].append('/Hardware/Qwiic_OLED_Breakout.sch')
+    newPart['name'].append('https://github.com/sparkfunX/Qwiic Micro OLED')
+    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Micro_OLED')
+    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Micro_OLED')
+    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Micro_OLED/Hardware/Qwiic_OLED_Breakout.brd')
+    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Micro_OLED/Hardware/Qwiic_OLED_Breakout.sch')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

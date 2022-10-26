@@ -35,6 +35,7 @@
 |gitName|gitName|Joystick_Shield_Kit|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Joystick_Shield_Kit.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Joystick_Shield_Kit.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'S1', 'Value': '', 'Device': 'SWITCH-MOMENTARY-212MM', 'Package': 'TACTILE-PTH-12MM', 'Description': '', 'BOM': ''}, {'Part': 'S2', 'Value': '', 'Device': 'SWITCH-MOMENTARY-212MM', 'Package': 'TACTILE-PTH-12MM', 'Description': '', 'BOM': ''}, {'Part': 'S3', 'Value': '', 'Device': 'SWITCH-MOMENTARY-212MM', 'Package': 'TACTILE-PTH-12MM', 'Description': '', 'BOM': ''}, {'Part': 'S4', 'Value': '', 'Device': 'SWITCH-MOMENTARY-212MM', 'Package': 'TACTILE-PTH-12MM', 'Description': '', 'BOM': ''}, {'Part': 'S6', 'Value': 'Reset', 'Device': 'SWITCH-MOMENTARY-2PTH', 'Package': 'TACTILE-PTH', 'Description': '', 'BOM': ''}, {'Part': 'U$3', 'Value': 'CREATIVE_COMMONS', 'Device': 'CREATIVE_COMMONS', 'Package': 'CREATIVE_COMMONS', 'Description': '', 'BOM': ''}, {'Part': 'U1', 'Value': 'ARDUINO_SHIELD', 'Device': 'ARDUINO_SHIELDLABEL', 'Package': 'DUEMILANOVE_SHIELD', 'Description': '', 'BOM': ''}, {'Part': 'U2', 'Value': 'JOYSTICK', 'Device': 'JOYSTICKPTH', 'Package': 'JOYSTICK', 'Description': 'Thumb Joystick', 'BOM': ''}]}|
 ||||
 
 

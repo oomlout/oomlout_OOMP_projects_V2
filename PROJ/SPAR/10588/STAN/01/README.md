@@ -35,6 +35,7 @@
 |gitName|gitName|Audio_Jack_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Audio_Jack_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Audio_Jack_Breakout.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M05PTH', 'Package': '1X05', 'Description': 'Header 5', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'AUDIO-JACK', 'Device': 'AUDIO-JACK2PTH', 'Package': 'AUDIO-JACK', 'Description': '', 'BOM': ''}]}|
 ||||
 
 

@@ -34,6 +34,7 @@
 |gitName|gitName|RJ45_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RJ45 Breakout v11.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_RJ45 Breakout v11.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M08', 'Package': '1X08', 'Description': 'Header 8', 'BOM': ''}, {'Part': 'U1', 'Value': 'RJ45', 'Device': 'RJ45-8PTH', 'Package': 'RJ45-8', 'Description': 'RJ45 Jack', 'BOM': ''}]}|
 ||||
 
 

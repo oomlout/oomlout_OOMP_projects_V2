@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-Perma-Proto-Pi-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Pi - Full Size.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Pi - Full Size.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'RASBERRYPI_IDC', 'Package': 'RASBERRYPI_IDC', 'Description': 'Rasberry PI IDC Header', 'BOM': ''}]}|
 ||||
 
 

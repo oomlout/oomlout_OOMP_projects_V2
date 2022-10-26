@@ -35,6 +35,7 @@
 |gitName|gitName|LilyPad_Button_Board|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_LilyPad-Button.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_LilyPad-Button.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'BUTTON-', 'Value': 'SEWTAP8', 'Device': 'SEWTAP8', 'Package': 'PETAL-MEDIUM-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'BUTTONS', 'Value': 'SEWTAP8', 'Device': 'SEWTAP8', 'Package': 'PETAL-MEDIUM-2SIDE', 'Description': '', 'BOM': ''}, {'Part': 'LOGO1', 'Value': 'LOGO-LPL', 'Device': 'LOGO-LPL', 'Package': 'LOGO-L', 'Description': '', 'BOM': ''}, {'Part': 'S1', 'Value': '', 'Device': 'TAC_SWITCHSMD', 'Package': 'TACTILE_SWITCH_SMD', 'Description': 'Momentary Switch', 'BOM': ''}, {'Part': 'U$1', 'Value': 'CREATIVE_COMMONS', 'Device': 'CREATIVE_COMMONS', 'Package': 'CREATIVE_COMMONS', 'Description': '', 'BOM': ''}]}|
 ||||
 
 

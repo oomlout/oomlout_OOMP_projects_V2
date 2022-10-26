@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-FeatherWing-Proto-Doubler-Tripler-and-Quad|
 |eagleBoard|eagleBoard|/DoubleWing.brd|
 |eagleSchem|eagleSchem|/DoubleWing.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'HEADER-1X1276MIL', 'Package': '1X12_ROUND_76MIL', 'Description': '', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'HEADER-1X16_76MIL', 'Package': '1X16_ROUND_76MIL', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP3', 'Value': '', 'Device': 'HEADER-1X16_76MIL', 'Package': '1X16_ROUND_76MIL', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'JP4', 'Value': '', 'Device': 'HEADER-1X1276MIL', 'Package': '1X12_ROUND_76MIL', 'Description': '', 'BOM': ''}, {'Part': 'JP5', 'Value': '', 'Device': 'HEADER-1X1276MIL', 'Package': '1X12_ROUND_76MIL', 'Description': '', 'BOM': ''}, {'Part': 'JP6', 'Value': '', 'Device': 'HEADER-1X16_76MIL', 'Package': '1X16_ROUND_76MIL', 'Description': 'PIN HEADER', 'BOM': ''}, {'Part': 'MS1', 'Value': 'FEATHERWING_NODIM', 'Device': 'FEATHERWING_NODIM', 'Package': 'FEATHERWING_DIM', 'Description': '', 'BOM': ''}, {'Part': 'MS2', 'Value': 'FEATHERWING_NODIM', 'Device': 'FEATHERWING_NODIM', 'Package': 'FEATHERWING_DIM', 'Description': '', 'BOM': ''}, {'Part': 'MS3', 'Value': 'FEATHERWING_NODIM', 'Device': 'FEATHERWING_NODIM', 'Package': 'FEATHERWING_DIM', 'Description': '', 'BOM': ''}]}|
 ||||
 
 

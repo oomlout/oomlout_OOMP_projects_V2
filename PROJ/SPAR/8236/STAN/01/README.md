@@ -35,6 +35,7 @@
 |gitName|gitName|Navigation_Switch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/NavSwitch-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/NavSwitch-Breakout.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M04PTH', 'Package': '1X04', 'Description': 'Header 4', 'BOM': ''}, {'Part': 'JP2', 'Value': 'NAV_SWITCH', 'Device': 'NAV_SWITCHSMD', 'Package': 'NAV_SWITCH', 'Description': 'Navigation Switch', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 
 

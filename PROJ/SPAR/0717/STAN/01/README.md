@@ -35,6 +35,7 @@
 |gitName|gitName|SOT23_DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOT23-DIP-Adapter-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SOT23-DIP-Adapter-v10.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M03PTH', 'Package': '1X03', 'Description': 'Header 3', 'BOM': ''}, {'Part': 'JP2', 'Value': '', 'Device': 'M03PTH', 'Package': '1X03', 'Description': 'Header 3', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'SOT23', 'Device': 'XN04312SOT', 'Package': 'SOT23-6', 'Description': 'NPN/PNP Transistor Array', 'BOM': ''}]}|
 ||||
 
 

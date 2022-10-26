@@ -35,6 +35,7 @@
 |gitName|gitName|Full_Bridge_Motor_Driver_Breakout-L298N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Full_Bridge_Motor_Driver_Breakout-L298N.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Full_Bridge_Motor_Driver_Breakout-L298N.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M15', 'Device': 'M15', 'Package': '1X15', 'Description': 'Header 15', 'BOM': ''}, {'Part': 'JP2', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'JP3', 'Value': 'STAND-OFF', 'Device': 'STAND-OFF', 'Package': 'STAND-OFF', 'Description': 'Stand Off', 'BOM': ''}, {'Part': 'JP4', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'L298N', 'Value': 'L298HEATSINK', 'Device': 'L298HEATSINK', 'Package': 'MULTIWATT15_6400BGHEATSINK', 'Description': 'L298 Dual Full Bridge Driver', 'BOM': ''}]}|
 ||||
 
 

@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "PROJ"
     oSize = "SPAR"
     oColor = "13975"
@@ -17,18 +17,15 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('RedBoard')
-    newPart['gitRepo'].append('https://github.com/sparkfun/RedBoard')
-    newPart['gitName'].append('RedBoard')
-    newPart['eagleBoard'].append('/Hardware/RedBoard.brd')
-    newPart['eagleSchem'].append('/Hardware/RedBoard.sch')
+    newPart['name'].append('https://github.com/sparkfunX/Safe Cracker')
+    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Safe_Cracker')
+    newPart['gitName'].append('https://github.com/sparkfunX/Safe_Cracker')
+    newPart['eagleBoard'].append('sourceFiles/git/Safe_Cracker/Hardware/Safe Cracker Shield.brd')
+    newPart['eagleSchem'].append('sourceFiles/git/Safe_Cracker/Hardware/Safe Cracker Shield.sch')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

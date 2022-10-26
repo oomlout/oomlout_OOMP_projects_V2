@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "PROJ"
     oSize = "SPAR"
     oColor = "0000"
@@ -17,18 +17,15 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('TransmogriShield')
-    newPart['gitRepo'].append('https://github.com/sparkfun/TransmogriShield')
-    newPart['gitName'].append('TransmogriShield')
-    newPart['eagleBoard'].append('/Hardware/SparkFun_TransmogriShield.brd')
-    newPart['eagleSchem'].append('/Hardware/SparkFun_TransmogriShield.sch')
+    newPart['name'].append('https://github.com/sparkfunX/UHF RFID Ring Antenna')
+    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/UHF_RFID_Ring_Antenna')
+    newPart['gitName'].append('https://github.com/sparkfunX/UHF_RFID_Ring_Antenna')
+    newPart['eagleBoard'].append('sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.brd')
+    newPart['eagleSchem'].append('sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.sch')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

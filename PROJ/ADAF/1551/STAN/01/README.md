@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-DS2413-PCB|
 |eagleBoard|eagleBoard|/Adafruit DS2413.brd|
 |eagleSchem|eagleSchem|/Adafruit DS2413.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'CN1', 'Value': '1X4-CLEANBIG', 'Device': '1X4-CLEANBIG', 'Package': '1X04-CLEANBIG', 'Description': '4-pin connector', 'BOM': ''}, {'Part': 'FID1', 'Value': 'FIDUCIAL', 'Device': 'FIDUCIAL', 'Package': 'FIDUCIAL_1MM', 'Description': 'Fiducial Alignment Points', 'BOM': 'EXCLUDE'}, {'Part': 'U$4', 'Value': 'MOUNTINGHOLE2.5', 'Device': 'MOUNTINGHOLE2.5', 'Package': 'MOUNTINGHOLE_2.5_PLATED', 'Description': 'Mounting Hole', 'BOM': 'EXCLUDE'}, {'Part': 'U1', 'Value': 'DS2413', 'Device': 'DS2413TSOC', 'Package': 'DS2413_TSOC6L', 'Description': 'DS2413 1-Wire Dual Channel', 'BOM': ''}]}|
 ||||
 
 

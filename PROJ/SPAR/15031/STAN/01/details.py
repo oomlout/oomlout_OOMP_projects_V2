@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "PROJ"
     oSize = "SPAR"
     oColor = "15031"
@@ -17,18 +17,15 @@ def load(newPart):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('ESP8266 WiFi IR Blaster')
-    newPart['gitRepo'].append('https://github.com/sparkfun/ESP8266_WiFi_IR_Blaster')
-    newPart['gitName'].append('ESP8266_WiFi_IR_Blaster')
-    newPart['eagleBoard'].append('/Hardware/esp8266_ir_blaster.brd')
-    newPart['eagleSchem'].append('/Hardware/esp8266_ir_blaster.sch')
+    newPart['name'].append('https://github.com/sparkfunX/ESP8266 WiFi IR Blaster')
+    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/ESP8266_WiFi_IR_Blaster')
+    newPart['gitName'].append('https://github.com/sparkfunX/ESP8266_WiFi_IR_Blaster')
+    newPart['eagleBoard'].append('sourceFiles/git/ESP8266_WiFi_IR_Blaster/Hardware/esp8266_ir_blaster.brd')
+    newPart['eagleSchem'].append('sourceFiles/git/ESP8266_WiFi_IR_Blaster/Hardware/esp8266_ir_blaster.sch')
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['PROJ-SPAR-8552-STAN-01']['rawParts'] = [{'kicadBom': [], 'eagleBom': [{'Part': 'DB9', 'Value': '', 'Device': 'DB9', 'Package': 'DB9', 'Description': 'DB9 Connector', 'BOM': ''}, {'Part': 'JP1', 'Value': 'M09', 'Device': 'M09', 'Package': '1X09', 'Description': 'Header 9', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}]

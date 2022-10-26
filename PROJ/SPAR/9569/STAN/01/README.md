@@ -35,6 +35,7 @@
 |gitName|gitName|Humidity_Sensor_Breakout-HIH-4030|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Humidity_Sensor_Breakout-HIH-4030.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Humidity_Sensor_Breakout-HIH-4030.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FID1', 'Value': 'FIDUCIALUFIDUCIAL', 'Device': 'FIDUCIALUFIDUCIAL', 'Package': 'MICRO-FIDUCIAL', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'FID2', 'Value': 'FIDUCIALUFIDUCIAL', 'Device': 'FIDUCIALUFIDUCIAL', 'Package': 'MICRO-FIDUCIAL', 'Description': 'Fiducial Alignment Points', 'BOM': ''}, {'Part': 'JP1', 'Value': '', 'Device': 'M03PTH', 'Package': '1X03', 'Description': 'Header 3', 'BOM': ''}, {'Part': 'JP2', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'HIH-4030SMD', 'Device': 'HIH-4030SMD', 'Package': 'HIH-4030', 'Description': 'Humidity Sensor', 'BOM': ''}]}|
 ||||
 
 

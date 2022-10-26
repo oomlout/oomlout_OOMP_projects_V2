@@ -35,6 +35,7 @@
 |gitName|gitName|Serial_DB9_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Serial_DB9-Breakout-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Serial_DB9-Breakout-v13.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'DB9', 'Value': '', 'Device': 'DB9', 'Package': 'DB9', 'Description': 'DB9 Connector', 'BOM': ''}, {'Part': 'JP1', 'Value': 'M09', 'Device': 'M09', 'Package': '1X09', 'Description': 'Header 9', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
 ||||
 
 

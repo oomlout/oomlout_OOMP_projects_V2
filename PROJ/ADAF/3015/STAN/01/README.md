@@ -35,6 +35,7 @@
 |gitName|gitName|Adafruit-PiGRRL-PCB|
 |eagleBoard|eagleBoard|/PiGRRL-ButtonPCB.brd|
 |eagleSchem|eagleSchem|/PiGRRL-ButtonPCB.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'B1', 'Value': '', 'Device': '10-XX', 'Package': 'B3F-10XX', 'Description': 'OMRON SWITCH', 'BOM': ''}, {'Part': 'B2', 'Value': '', 'Device': '10-XX', 'Package': 'B3F-10XX', 'Description': 'OMRON SWITCH', 'BOM': ''}, {'Part': 'B3', 'Value': '', 'Device': '10-XX', 'Package': 'B3F-10XX', 'Description': 'OMRON SWITCH', 'BOM': ''}, {'Part': 'B4', 'Value': '', 'Device': '10-XX', 'Package': 'B3F-10XX', 'Description': 'OMRON SWITCH', 'BOM': ''}, {'Part': 'HEADER', 'Value': '', 'Device': 'PINHD-1X6', 'Package': '1X06', 'Description': 'PIN HEADER', 'BOM': ''}]}|
 ||||
 
 

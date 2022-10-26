@@ -35,6 +35,7 @@
 |gitName|gitName|SOIC28-DIP_Adapter|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_SOIC28-DIP-Adapter-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_SOIC28-DIP-Adapter-v10.sch|
+|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M14', 'Device': 'M14', 'Package': '1X14', 'Description': 'Header 14', 'BOM': ''}, {'Part': 'JP2', 'Value': 'M14', 'Device': 'M14', 'Package': '1X14', 'Description': 'Header 14', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U$3', 'Value': 'PIC18F2455SMD', 'Device': 'PIC18F2455SMD', 'Package': 'SO-28W', 'Description': '', 'BOM': ''}]}|
 ||||
 
 
