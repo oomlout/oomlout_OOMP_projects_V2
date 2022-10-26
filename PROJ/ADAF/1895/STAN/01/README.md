@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/PRPR1895](http://oom.lt/PRPR1895)
   
 
-|oomlout_OOMP_projects_V2/PROJ/ADAF/1895/STAN/01/eagleSchemImage.png||||
+|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1895/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1895/STAN/01/eagleSchemImage.png)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

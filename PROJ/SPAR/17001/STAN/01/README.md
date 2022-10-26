@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/PRPR17001](http://oom.lt/PRPR17001)
   
 
-|oomlout_OOMP_projects_V2/PROJ/SPAR/17001/STAN/01/eagleImage.png|oomlout_OOMP_projects_V2/PROJ/SPAR/17001/STAN/01/eagleSchemImage.png|||
+|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17001/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17001/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17001/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17001/STAN/01/eagleSchemImage.png)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
