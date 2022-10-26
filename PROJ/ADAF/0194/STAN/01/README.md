@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Ice-Tube-Clock|
 |eagleBoard|eagleBoard|/pcb/icetube.brd|
 |eagleSchem|eagleSchem|/pcb/icetube.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

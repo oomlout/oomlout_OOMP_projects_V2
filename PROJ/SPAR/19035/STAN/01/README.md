@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_RFID_Tag|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_RFID_Tag/Hardware/Qwiic_RFID_Tag.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_RFID_Tag/Hardware/Qwiic_RFID_Tag.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Humidity_SHTC3|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Humidity_SHTC3/Hardware/SHTC3 Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Humidity_SHTC3/Hardware/SHTC3 Breakout.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

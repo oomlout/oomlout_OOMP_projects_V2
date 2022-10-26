@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic-SGP30-Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic-SGP30-Breakout/Hardware/SGP30 Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic-SGP30-Breakout/Hardware/SGP30 Breakout.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

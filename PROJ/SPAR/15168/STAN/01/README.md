@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Qwiic_Joystick|
 |eagleBoard|eagleBoard|/Hardware/Qwiic Joystick_Eagle/Qwiic Joystick.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic Joystick_Eagle/Qwiic Joystick.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

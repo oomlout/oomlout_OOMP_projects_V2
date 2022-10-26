@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_ATECC608A|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_ATECC608A/Hardware/Qwiic_ATECC608A.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_ATECC608A/Hardware/Qwiic_ATECC608A.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

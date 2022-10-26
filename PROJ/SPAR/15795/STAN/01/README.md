@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Pro_Micro|
 |eagleBoard|eagleBoard|/Hardware/v13/SparkFun_Pro_Micro.brd|
 |eagleSchem|eagleSchem|/Hardware/v13/SparkFun_Pro_Micro.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

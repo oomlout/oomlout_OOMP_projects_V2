@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Data-Logger-shield|
 |eagleBoard|eagleBoard|/Adafruit Datalogger Shield.brd|
 |eagleSchem|eagleSchem|/Adafruit Datalogger Shield.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

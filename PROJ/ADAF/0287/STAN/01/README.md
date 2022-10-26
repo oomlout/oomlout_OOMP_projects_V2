@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit_Brain-Machine-Kit|
 |eagleBoard|eagleBoard|/pcb/brain.brd|
 |eagleSchem|eagleSchem|/pcb/brain.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

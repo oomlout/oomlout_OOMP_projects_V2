@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

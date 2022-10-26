@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SAMD21_ProRF_1W|
 |eagleBoard|eagleBoard|sourceFiles/git/SAMD21_ProRF_1W/Hardware/SAMD21_Pro_RF_1W.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SAMD21_ProRF_1W/Hardware/SAMD21_Pro_RF_1W.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/RGB_Panel_Mega_Shield|
 |eagleBoard|eagleBoard|sourceFiles/git/RGB_Panel_Mega_Shield/Hardware/RGB 32x64 Shield for Arduino Mega.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/RGB_Panel_Mega_Shield/Hardware/RGB 32x64 Shield for Arduino Mega.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

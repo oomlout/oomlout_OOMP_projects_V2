@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Keyboard_Explorer|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Keyboard_Explorer/Hardware/Mounting_Plate.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Keyboard_Explorer/Hardware/Mounting_Plate.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

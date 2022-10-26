@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_UV_VEML6075|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_UV_VEML6075/Hardware/Qwiic_UV_Sensor_VEML6075.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_UV_VEML6075/Hardware/Qwiic_UV_Sensor_VEML6075.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

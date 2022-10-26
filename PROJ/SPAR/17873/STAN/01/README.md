@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Power_Meter-ACS37800|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Power_Meter-ACS37800/Hardware/Qwiic_Power_Meter-ACS37800.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Power_Meter-ACS37800/Hardware/Qwiic_Power_Meter-ACS37800.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

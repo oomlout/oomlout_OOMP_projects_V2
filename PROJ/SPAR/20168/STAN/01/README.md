@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Thing_Plus_ESP32_WROOM_C|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Thing_Plus_ESP32_WROOM_C.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Thing_Plus_ESP32_WROOM_C.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

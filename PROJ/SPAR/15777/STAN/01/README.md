@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Lidar_Lite|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

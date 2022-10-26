@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield|
 |eagleBoard|eagleBoard|sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

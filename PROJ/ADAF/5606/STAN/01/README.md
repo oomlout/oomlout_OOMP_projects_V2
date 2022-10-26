@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-ENS160-PCB|
 |eagleBoard|eagleBoard|/Adafruit ENS160.brd|
 |eagleSchem|eagleSchem|/Adafruit ENS160.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

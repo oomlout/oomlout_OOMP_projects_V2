@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Air_Velocity_Sensor_FS3000_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_FS3000.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_FS3000.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

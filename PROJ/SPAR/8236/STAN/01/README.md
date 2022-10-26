@@ -35,8 +35,8 @@
 |gitName|gitName|Navigation_Switch_Breakout|
 |eagleBoard|eagleBoard|/Hardware/NavSwitch-Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/NavSwitch-Breakout.sch|
-|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI04-01', 'JP2': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M04PTH', 'Package': '1X04', 'Description': 'Header 4', 'BOM': ''}, {'Part': 'JP2', 'Value': 'NAV_SWITCH', 'Device': 'NAV_SWITCHSMD', 'Package': 'NAV_SWITCH', 'Description': 'Navigation Switch', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI04-01'</td><td> 'JP2'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'M04PTH'</td><td> 'Package'</td></tr><tr><td> '1X04'</td><td> 'Description'</td></tr><tr><td> 'Header 4'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP2'</td><td> 'Value'</td></tr><tr><td> 'NAV_SWITCH'</td><td> 'Device'</td></tr><tr><td> 'NAV_SWITCHSMD'</td><td> 'Package'</td></tr><tr><td> 'NAV_SWITCH'</td><td> 'Description'</td></tr><tr><td> 'Navigation Switch'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'LOGO-SFESK'</td><td> 'Device'</td></tr><tr><td> 'LOGO-SFESK'</td><td> 'Package'</td></tr><tr><td> 'SFE-LOGO-FLAME'</td><td> 'Description'</td></tr><tr><td> 'Spark Fun Electronics PCB Logo'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

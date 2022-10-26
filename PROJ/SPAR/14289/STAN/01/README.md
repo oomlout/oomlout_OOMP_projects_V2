@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Human_Presence_Sensor-AK9750|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Human_Presence_Sensor-AK9750/Hardware/AK9750 Human Movement Sensor Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Human_Presence_Sensor-AK9750/Hardware/AK9750 Human Movement Sensor Breakout.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

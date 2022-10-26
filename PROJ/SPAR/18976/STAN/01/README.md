@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Environmental|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Environmental/Hardware/SparkX_smol_Environmental.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Environmental/Hardware/SparkX_smol_Environmental.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

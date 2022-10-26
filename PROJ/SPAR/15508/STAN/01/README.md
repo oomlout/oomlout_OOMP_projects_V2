@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_MCP9600_Thermocouple|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_MCP9600_Thermocouple/Hardware/Qwiic_MCP9600.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_MCP9600_Thermocouple/Hardware/Qwiic_MCP9600.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

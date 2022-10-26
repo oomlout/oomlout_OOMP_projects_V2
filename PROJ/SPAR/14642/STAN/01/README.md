@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_RTC|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_RTC/Hardware/Qwiic-RTC.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_RTC/Hardware/Qwiic-RTC.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

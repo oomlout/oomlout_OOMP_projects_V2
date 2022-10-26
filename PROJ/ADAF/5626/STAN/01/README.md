@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-PCA9548-PCB|
 |eagleBoard|eagleBoard|/PCA9548A QT Board.brd|
 |eagleSchem|eagleSchem|/PCA9548A QT Board.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

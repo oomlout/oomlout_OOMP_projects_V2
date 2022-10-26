@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Qwiic_dToF_Imager-TMF882X|
 |eagleBoard|eagleBoard|/Hardware/TMF8820/SparkFun_dToF-TMF8820.brd|
 |eagleSchem|eagleSchem|/Hardware/TMF8820/SparkFun_dToF-TMF8820.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

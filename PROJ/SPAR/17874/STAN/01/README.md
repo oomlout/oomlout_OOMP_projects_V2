@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Differential_Pressure_Sensor-SDP31|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Differential_Pressure_Sensor-SDP31/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Differential_Pressure_Sensor-SDP31/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

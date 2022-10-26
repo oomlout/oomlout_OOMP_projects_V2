@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Magnetic_Imaging_Tile|
 |eagleBoard|eagleBoard|sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

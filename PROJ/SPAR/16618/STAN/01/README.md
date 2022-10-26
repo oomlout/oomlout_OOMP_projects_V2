@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Qwiic_Humidity_AHT20|
 |eagleBoard|eagleBoard|Hardware/Qwiic EEPROM.brd|
 |eagleSchem|eagleSchem|Hardware/Qwiic EEPROM.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

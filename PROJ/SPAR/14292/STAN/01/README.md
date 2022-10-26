@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Shield_for_RaspberryPi|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Shield_for_RaspberryPi/Hardware/Qwiic Shield for RaspberryPi.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Shield_for_RaspberryPi/Hardware/Qwiic Shield for RaspberryPi.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

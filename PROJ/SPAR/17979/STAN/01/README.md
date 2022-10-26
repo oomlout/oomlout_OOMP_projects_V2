@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Sound_Trigger|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

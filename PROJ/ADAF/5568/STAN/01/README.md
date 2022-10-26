@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-WCH-CH9102F-Friend-PCB|
 |eagleBoard|eagleBoard|/Adafruit CH9102F.brd|
 |eagleSchem|eagleSchem|/Adafruit CH9102F.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

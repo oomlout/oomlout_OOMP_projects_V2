@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-PCF8574-PCB|
 |eagleBoard|eagleBoard|/Adafruit PCF8574 QT.brd|
 |eagleSchem|eagleSchem|/Adafruit PCF8574 QT.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

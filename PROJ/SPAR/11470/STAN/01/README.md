@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Qtechknow_ArduSensor_Learning_Kit|
 |eagleBoard|eagleBoard|/ArduSensor PCB/Hardware/SensorBoard-v11.brd|
 |eagleSchem|eagleSchem|/ArduSensor PCB/Hardware/SensorBoard-v11.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

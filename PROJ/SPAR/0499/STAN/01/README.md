@@ -35,8 +35,8 @@
 |gitName|gitName|SSOP-DIP_Adapter_20-Pin|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Adapter-SSOP20-v10.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Adapter-SSOP20-v10.sch|
-|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI10-01', 'JP2': 'HEAD-I01-X-PI10-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': 'M10', 'Device': 'M10', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'JP2', 'Value': 'M10', 'Device': 'M10', 'Package': '1X10', 'Description': 'Header 10', 'BOM': ''}, {'Part': 'U$1', 'Value': 'SSOP20', 'Device': 'SSOP20', 'Package': 'SSOP20-LONG', 'Description': '', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI10-01'</td><td> 'JP2'</td></tr><tr><td> 'HEAD-I01-X-PI10-01'</td><td> 'U$1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> 'M10'</td><td> 'Device'</td></tr><tr><td> 'M10'</td><td> 'Package'</td></tr><tr><td> '1X10'</td><td> 'Description'</td></tr><tr><td> 'Header 10'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP2'</td><td> 'Value'</td></tr><tr><td> 'M10'</td><td> 'Device'</td></tr><tr><td> 'M10'</td><td> 'Package'</td></tr><tr><td> '1X10'</td><td> 'Description'</td></tr><tr><td> 'Header 10'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'SSOP20'</td><td> 'Device'</td></tr><tr><td> 'SSOP20'</td><td> 'Package'</td></tr><tr><td> 'SSOP20-LONG'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

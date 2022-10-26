@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Multi_Port_Board|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

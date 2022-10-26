@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_u-Blox_NEO_M9N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun GPS NEO_M9N_Chip_Antenna/SparkFun GPS NEO_M9N_ANT.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun GPS NEO_M9N_Chip_Antenna/SparkFun GPS NEO_M9N_ANT.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

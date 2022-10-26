@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/MP3_Breakout_WT2003S|
 |eagleBoard|eagleBoard|sourceFiles/git/MP3_Breakout_WT2003S/Hardware/MP3 Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/MP3_Breakout_WT2003S/Hardware/MP3 Breakout.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Qwiic_MultiStar_Board_Promo_Constellation|
 |eagleBoard|eagleBoard|/Hardware/Qwiic_MultiStar.brd|
 |eagleSchem|eagleSchem|/Hardware/Qwiic_MultiStar.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

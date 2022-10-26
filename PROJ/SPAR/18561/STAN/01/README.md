@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Blower_Fan|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Blower_Fan/Hardware/qwiic_blower.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Blower_Fan/Hardware/qwiic_blower.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

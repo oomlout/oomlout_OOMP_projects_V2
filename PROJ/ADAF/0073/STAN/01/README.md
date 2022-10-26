@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|TV-B-Gone-kit|
 |eagleBoard|eagleBoard|/pcb/tvbgone3.brd|
 |eagleSchem|eagleSchem|/pcb/tvbgone3.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

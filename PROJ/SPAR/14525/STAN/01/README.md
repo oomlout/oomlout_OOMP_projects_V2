@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/RedBoard_Edge|
 |eagleBoard|eagleBoard|sourceFiles/git/RedBoard_Edge/Hardware/modified_eagle_files/RedBoard.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/RedBoard_Edge/Hardware/modified_eagle_files/RedBoard.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

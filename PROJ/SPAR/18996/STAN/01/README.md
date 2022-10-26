@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_OLED_Display|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_OLED_Display/Hardware/SparkX_smol_Display.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_OLED_Display/Hardware/SparkX_smol_Display.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

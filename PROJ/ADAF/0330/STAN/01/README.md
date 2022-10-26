@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit_Microtouch|
 |eagleBoard|eagleBoard|/PCB/microtouch.brd|
 |eagleSchem|eagleSchem|/PCB/microtouch.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

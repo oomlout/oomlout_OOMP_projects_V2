@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|MicroMod_Qwiic_Carrier|
 |eagleBoard|eagleBoard|/Hardware/Double/MM-Qwiic-Carrier-Double.brd|
 |eagleSchem|eagleSchem|/Hardware/Double/MM-Qwiic-Carrier-Double.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_USB_Hub-USB2514B|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_USB_Hub-USB2514B/Hardware/Qwiic-USB_Hub.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_USB_Hub-USB2514B/Hardware/Qwiic-USB_Hub.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

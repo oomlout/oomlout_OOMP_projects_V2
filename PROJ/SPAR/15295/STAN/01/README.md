@@ -34,6 +34,6 @@ NO IMAGE
 |gitName|gitName|SparkFun_PCB_Ruler|
 |eagleBoard|eagleBoard|/Hardware/SparkFunRuler.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFunRuler.sch|
-|OOMP Parts List|oompParts|{}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame - Letter', 'BOM': ''}, {'Part': 'LOGO1', 'Value': 'OSHW-LOGOM', 'Device': 'OSHW-LOGOM', 'Package': 'OSHW-LOGO-M', 'Description': 'Open-Source Hardware (OSHW) Logo', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FRAME1'</td><td> 'Value'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Device'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Package'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'Description'</td></tr><tr><td> 'Schematic Frame - Letter'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'LOGO1'</td><td> 'Value'</td></tr><tr><td> 'OSHW-LOGOM'</td><td> 'Device'</td></tr><tr><td> 'OSHW-LOGOM'</td><td> 'Package'</td></tr><tr><td> 'OSHW-LOGO-M'</td><td> 'Description'</td></tr><tr><td> 'Open-Source Hardware (OSHW) Logo'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||

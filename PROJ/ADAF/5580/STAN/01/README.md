@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-MAX17048-PCB|
 |eagleBoard|eagleBoard|/Adafruit-MAX17048-STEMMA.brd|
 |eagleSchem|eagleSchem|/Adafruit-MAX17048-STEMMA.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

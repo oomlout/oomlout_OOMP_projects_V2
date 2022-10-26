@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-QT-5-3V-Shifter-PCB|
 |eagleBoard|eagleBoard|/Adafruit QT 5-3V Shifter.brd|
 |eagleSchem|eagleSchem|/Adafruit QT 5-3V Shifter.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

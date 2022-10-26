@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/2D_Barcode_Scanner|
 |eagleBoard|eagleBoard|sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

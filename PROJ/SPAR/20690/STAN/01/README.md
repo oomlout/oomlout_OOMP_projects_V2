@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Qwiic_Speaker_Amp|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Qwiic_Speaker_Amp.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Qwiic_Speaker_Amp.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

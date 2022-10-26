@@ -34,8 +34,8 @@
 |gitName|gitName|RJ45_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_RJ45 Breakout v11.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_RJ45 Breakout v11.sch|
-|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI08-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M08', 'Package': '1X08', 'Description': 'Header 8', 'BOM': ''}, {'Part': 'U1', 'Value': 'RJ45', 'Device': 'RJ45-8PTH', 'Package': 'RJ45-8', 'Description': 'RJ45 Jack', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI08-01'</td><td> 'U1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'M08'</td><td> 'Package'</td></tr><tr><td> '1X08'</td><td> 'Description'</td></tr><tr><td> 'Header 8'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'RJ45'</td><td> 'Device'</td></tr><tr><td> 'RJ45-8PTH'</td><td> 'Package'</td></tr><tr><td> 'RJ45-8'</td><td> 'Description'</td></tr><tr><td> 'RJ45 Jack'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

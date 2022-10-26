@@ -34,8 +34,8 @@
 |gitName|gitName|microSD_Transflash_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_microSD_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_microSD_Breakout.sch|
-|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI07-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M07', 'Package': '1X07', 'Description': 'Header 7', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'microSD', 'Device': 'USD-SOCKETSMD', 'Package': 'MICRO-SD-SOCKET-PP', 'Description': 'microSD Socket', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI07-01'</td><td> 'U1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'M07'</td><td> 'Package'</td></tr><tr><td> '1X07'</td><td> 'Description'</td></tr><tr><td> 'Header 7'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'LOGO-SFENEW'</td><td> 'Device'</td></tr><tr><td> 'LOGO-SFENEW'</td><td> 'Package'</td></tr><tr><td> 'SFE-NEW-WEBLOGO'</td><td> 'Description'</td></tr><tr><td> 'Spark Fun Electronics PCB Logo'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'microSD'</td><td> 'Device'</td></tr><tr><td> 'USD-SOCKETSMD'</td><td> 'Package'</td></tr><tr><td> 'MICRO-SD-SOCKET-PP'</td><td> 'Description'</td></tr><tr><td> 'microSD Socket'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

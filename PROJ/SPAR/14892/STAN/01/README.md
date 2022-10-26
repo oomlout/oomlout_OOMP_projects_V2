@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/ePaper|
 |eagleBoard|eagleBoard|sourceFiles/git/ePaper/1.54in display/hardware/1.54in.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/ePaper/1.54in display/hardware/1.54in.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

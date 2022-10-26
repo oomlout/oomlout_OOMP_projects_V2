@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_TMP117|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_TMP117/Hardware/Qwiic_TMP117.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_TMP117/Hardware/Qwiic_TMP117.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

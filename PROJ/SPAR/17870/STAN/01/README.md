@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Soft_Power_Switch|
 |eagleBoard|eagleBoard|sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

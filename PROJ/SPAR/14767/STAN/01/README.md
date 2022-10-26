@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Pressure-LPS25HB|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Pressure-LPS25HB/Hardware/Qwiic Pressure Sensor - LPS25HB.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Pressure-LPS25HB/Hardware/Qwiic Pressure Sensor - LPS25HB.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

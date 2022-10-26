@@ -35,8 +35,8 @@
 |gitName|gitName|Adafruit-LED-Sequin-PCB|
 |eagleBoard|eagleBoard|/Adafruit LED Sequin.brd|
 |eagleSchem|eagleSchem|/Adafruit LED Sequin.sch|
-|OOMP Parts List|oompParts|{'LED1': 'LEDS-1206-G-STAN-01', 'R1': 'RESE-0603-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'LED1', 'Value': '', 'Device': 'LEDSMT1206', 'Package': '1206', 'Description': 'LED', 'BOM': ''}, {'Part': 'R1', 'Value': '', 'Device': 'R-US_R0603', 'Package': 'R0603', 'Description': 'RESISTOR, American symbol', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'LED1'</td></tr><tr><td> 'LEDS-1206-G-STAN-01'</td><td> 'R1'</td></tr><tr><td> 'RESE-0603-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'LED1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'LEDSMT1206'</td><td> 'Package'</td></tr><tr><td> '1206'</td><td> 'Description'</td></tr><tr><td> 'LED'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'R-US_R0603'</td><td> 'Package'</td></tr><tr><td> 'R0603'</td><td> 'Description'</td></tr><tr><td> 'RESISTOR</td><td> American symbol'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

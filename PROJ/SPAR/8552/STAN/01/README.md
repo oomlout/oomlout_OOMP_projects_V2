@@ -35,8 +35,8 @@
 |gitName|gitName|Serial_DB9_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Serial_DB9-Breakout-v13.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Serial_DB9-Breakout-v13.sch|
-|OOMP Parts List|oompParts|{'DB9': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'JP1': 'HEAD-I01-X-PI09-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'DB9', 'Value': '', 'Device': 'DB9', 'Package': 'DB9', 'Description': 'DB9 Connector', 'BOM': ''}, {'Part': 'JP1', 'Value': 'M09', 'Device': 'M09', 'Package': '1X09', 'Description': 'Header 9', 'BOM': ''}, {'Part': 'U$2', 'Value': 'LOGO-SFENEW', 'Device': 'LOGO-SFENEW', 'Package': 'SFE-NEW-WEBLOGO', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'DB9'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td><td> 'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI09-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'DB9'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'DB9'</td><td> 'Package'</td></tr><tr><td> 'DB9'</td><td> 'Description'</td></tr><tr><td> 'DB9 Connector'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> 'M09'</td><td> 'Device'</td></tr><tr><td> 'M09'</td><td> 'Package'</td></tr><tr><td> '1X09'</td><td> 'Description'</td></tr><tr><td> 'Header 9'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$2'</td><td> 'Value'</td></tr><tr><td> 'LOGO-SFENEW'</td><td> 'Device'</td></tr><tr><td> 'LOGO-SFENEW'</td><td> 'Package'</td></tr><tr><td> 'SFE-NEW-WEBLOGO'</td><td> 'Description'</td></tr><tr><td> 'Spark Fun Electronics PCB Logo'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

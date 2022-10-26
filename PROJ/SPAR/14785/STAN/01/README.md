@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Pro_RF|
 |eagleBoard|eagleBoard|sourceFiles/git/Pro_RF/Hardware/Pro_RF.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Pro_RF/Hardware/Pro_RF.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

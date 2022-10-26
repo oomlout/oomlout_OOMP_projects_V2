@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|QuickLogic_Thing_Plus|
 |eagleBoard|eagleBoard|/Hardware/Board Files/QTPLUS_V2_1.brd|
 |eagleSchem|eagleSchem|/Hardware/Board Files/QTPLUS_V2_1.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

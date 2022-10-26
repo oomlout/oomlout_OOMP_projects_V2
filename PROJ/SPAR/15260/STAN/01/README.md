@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX-Pi-Filter-Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX-Pi-Filter-Breakout/Hardware/SparkX-Pi-Filter.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX-Pi-Filter-Breakout/Hardware/SparkX-Pi-Filter.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

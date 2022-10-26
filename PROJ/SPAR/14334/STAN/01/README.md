@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Module_for_Tessel_2|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Module_for_Tessel_2/Hardware/Qwiic Module for Tessel 2.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Module_for_Tessel_2/Hardware/Qwiic Module for Tessel 2.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

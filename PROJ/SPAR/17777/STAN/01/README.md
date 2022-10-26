@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|Zio-Qwiic-Ultrasonic-Distance-Sensor|
 |eagleBoard|eagleBoard|/EAGLE/Zio Ultrasonic Distance Sensor.brd|
 |eagleSchem|eagleSchem|/EAGLE/Zio Ultrasonic Distance Sensor.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

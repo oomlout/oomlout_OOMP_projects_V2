@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_LoRaSerial|
 |eagleBoard|eagleBoard|/Hardware/433MHz/SparkFun LoRaSerial 433MHz - 1W.brd|
 |eagleSchem|eagleSchem|/Hardware/433MHz/SparkFun LoRaSerial 433MHz - 1W.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

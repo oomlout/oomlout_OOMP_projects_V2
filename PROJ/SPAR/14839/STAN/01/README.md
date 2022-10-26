@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Bluetooth_Mate_4.0|
 |eagleBoard|eagleBoard|sourceFiles/git/Bluetooth_Mate_4.0/Hardware/Bluetooth_Mate_4.0.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Bluetooth_Mate_4.0/Hardware/Bluetooth_Mate_4.0.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

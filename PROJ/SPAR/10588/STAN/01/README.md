@@ -35,8 +35,8 @@
 |gitName|gitName|Audio_Jack_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Audio_Jack_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Audio_Jack_Breakout.sch|
-|OOMP Parts List|oompParts|{'JP1': 'HEAD-I01-X-PI05-01', 'U1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'JP1', 'Value': '', 'Device': 'M05PTH', 'Package': '1X05', 'Description': 'Header 5', 'BOM': ''}, {'Part': 'U$1', 'Value': 'LOGO-SFESK', 'Device': 'LOGO-SFESK', 'Package': 'SFE-LOGO-FLAME', 'Description': 'Spark Fun Electronics PCB Logo', 'BOM': ''}, {'Part': 'U1', 'Value': 'AUDIO-JACK', 'Device': 'AUDIO-JACK2PTH', 'Package': 'AUDIO-JACK', 'Description': '', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-PI05-01'</td><td> 'U1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'M05PTH'</td><td> 'Package'</td></tr><tr><td> '1X05'</td><td> 'Description'</td></tr><tr><td> 'Header 5'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'LOGO-SFESK'</td><td> 'Device'</td></tr><tr><td> 'LOGO-SFESK'</td><td> 'Package'</td></tr><tr><td> 'SFE-LOGO-FLAME'</td><td> 'Description'</td></tr><tr><td> 'Spark Fun Electronics PCB Logo'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'AUDIO-JACK'</td><td> 'Device'</td></tr><tr><td> 'AUDIO-JACK2PTH'</td><td> 'Package'</td></tr><tr><td> 'AUDIO-JACK'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

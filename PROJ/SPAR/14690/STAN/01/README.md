@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

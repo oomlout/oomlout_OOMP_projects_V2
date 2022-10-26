@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_GPS_SAM-M8Q|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_GPS_SAM-M8Q/Hardware/Qwiic GPS - Ublox SAM-M8Q.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_GPS_SAM-M8Q/Hardware/Qwiic GPS - Ublox SAM-M8Q.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

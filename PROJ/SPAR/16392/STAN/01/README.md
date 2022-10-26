@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Configurable_RC_Filter|
 |eagleBoard|eagleBoard|sourceFiles/git/Configurable_RC_Filter/Hardware/Configurable_RC_Filter.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Configurable_RC_Filter/Hardware/Configurable_RC_Filter.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

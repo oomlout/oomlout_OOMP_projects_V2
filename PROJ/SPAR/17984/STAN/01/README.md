@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/IOTA-ARTIC-R2-Module|
 |eagleBoard|eagleBoard|sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

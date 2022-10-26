@@ -36,7 +36,7 @@
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.sch|
 |OOMP Parts List|oompParts|['U$1', 'UNMATCHED-UNMATCHED-X-UNMATCHED-01']|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'FRAME1', 'Value': 'FRAME-LETTER', 'Device': 'FRAME-LETTER', 'Package': 'CREATIVE_COMMONS', 'Description': 'Schematic Frame', 'BOM': ''}, {'Part': 'U$1', 'Value': 'BLACKBERRY_TRACKBALLER', 'Device': 'BLACKBERRY_TRACKBALLER', 'Package': 'BLACKBERRY_TRACKBALLER', 'Description': '', 'BOM': 'PCB-12486'}]}|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FRAME1'</td><td> 'Value'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Device'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Package'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'Description'</td></tr><tr><td> 'Schematic Frame'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Device'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Package'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> 'PCB-12486'</td></tr></table>]</td></tr></table>|
 ||||
 
 

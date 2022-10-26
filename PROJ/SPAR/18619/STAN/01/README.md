@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/SparkX_smol_ESP32|
 |eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_ESP32/Hardware/SparkX_smol_ESP32.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_ESP32/Hardware/SparkX_smol_ESP32.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

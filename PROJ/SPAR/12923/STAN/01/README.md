@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|MicroView|
 |eagleBoard|eagleBoard|/Hardware/MicroView/SparkFun_MicroView.brd|
 |eagleSchem|eagleSchem|/Hardware/MicroView/SparkFun_MicroView.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

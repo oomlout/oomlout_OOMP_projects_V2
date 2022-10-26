@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/UHF_RFID_Ring_Antenna|
 |eagleBoard|eagleBoard|sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

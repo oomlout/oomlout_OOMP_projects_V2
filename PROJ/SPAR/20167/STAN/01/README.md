@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout/Hardware/ZED-F9P_NEO-D9S_Combo.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout/Hardware/ZED-F9P_NEO-D9S_Combo.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Alphanumeric_Display|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Alphanumeric_Display/Hardware/Qwiic_Alphanumeric_Display.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Alphanumeric_Display/Hardware/Qwiic_Alphanumeric_Display.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

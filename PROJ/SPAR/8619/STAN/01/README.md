@@ -35,8 +35,8 @@
 |gitName|gitName|ProtoBoard_Wombat-PTH|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Protoboard-PTH-v14.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Protoboard-PTH-v14.sch|
-|OOMP Parts List|oompParts|{}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': []}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> []</td></tr></table>|
 ||||
 
 

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_GNSS_Function_Board_NEO-M9N|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_GNSS_NEO-M9N.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_GNSS_NEO-M9N.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

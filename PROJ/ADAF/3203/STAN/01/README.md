@@ -35,8 +35,8 @@
 |gitName|gitName|Adafruit-Perma-Proto-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Bonnet.sch|
-|OOMP Parts List|oompParts|{'CONN1': 'HEAD-I01-X-PI25-01', 'RPI1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}|
-|Parts as pulled from a BOM|rawParts|{'kicadBom': [], 'eagleBom': [{'Part': 'CONN1', 'Value': 'HEADER-1X25', 'Device': 'HEADER-1X25', 'Package': '1X25_ROUND_70MIL', 'Description': '', 'BOM': ''}, {'Part': 'RPI1', 'Value': 'RASPBERRYPI_BPLUS_BONNETNODIM', 'Device': 'RASPBERRYPI_BPLUS_BONNETNODIM', 'Package': 'PI_BONNET_NODIM', 'Description': '', 'BOM': ''}]}|
+|OOMP Parts List|oompParts|<table><tr><td>'CONN1'</td></tr><tr><td> 'HEAD-I01-X-PI25-01'</td><td> 'RPI1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'CONN1'</td><td> 'Value'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'Device'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'Package'</td></tr><tr><td> '1X25_ROUND_70MIL'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'RPI1'</td><td> 'Value'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'Device'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'Package'</td></tr><tr><td> 'PI_BONNET_NODIM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
 

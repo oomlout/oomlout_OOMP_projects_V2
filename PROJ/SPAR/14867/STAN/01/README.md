@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA|
 |eagleBoard|eagleBoard|sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Pressure-MS5637|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Pressure-MS5637/Hardware/Qwiic Pressure Sensor - MS5637.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Pressure-MS5637/Hardware/Qwiic Pressure Sensor - MS5637.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

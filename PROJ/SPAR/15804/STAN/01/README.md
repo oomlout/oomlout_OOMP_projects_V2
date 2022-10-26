@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_PL-N823_IR_Breakout/Hardware/Qwiic PL-N823 IR Breakout.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_PL-N823_IR_Breakout/Hardware/Qwiic PL-N823 IR Breakout.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

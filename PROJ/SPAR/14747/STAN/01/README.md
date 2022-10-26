@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|SparkFun_Pi_AVR_Programmer_HAT|
 |eagleBoard|eagleBoard|/HARDWARE/ADAPTER/SparkFun_Pi_AVR_Programmer_ADAPTER.brd|
 |eagleSchem|eagleSchem|/HARDWARE/ADAPTER/SparkFun_Pi_AVR_Programmer_ADAPTER.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

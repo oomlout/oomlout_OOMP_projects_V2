@@ -30,5 +30,5 @@ NO IMAGES
 |gitName|gitName|https://github.com/sparkfunX/Qwiic_Ambient_Light_Sensor_VEML7700|
 |eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Ambient_Light_Sensor_VEML7700/Hardware/Qwiic_VEML7700.brd|
 |eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Ambient_Light_Sensor_VEML7700/Hardware/Qwiic_VEML7700.sch|
-|OOMP Parts List|oompParts|{}|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
