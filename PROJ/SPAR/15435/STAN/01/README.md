@@ -36,7 +36,7 @@
 |![]()|RESE-0402-X-O1003-01|R8,|
 |![]()|UNMATCHED-4628-X-UNMATCHED-01|S1,S2,|
 |![]()|UNMATCHED-SO235-X-UNMATCHED-01|U2,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 ||||
   
 

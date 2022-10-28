@@ -31,7 +31,7 @@
 |![]()|RESE-0402-X-O472-01|R12,R13,|
 |![]()|RESE-0402-X-O270-01|R14,R15,|
 |![]()|BUTA-4628-X-STAN-01|SW1,SW2,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 ||||
   
 

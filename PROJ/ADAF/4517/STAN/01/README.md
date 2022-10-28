@@ -27,7 +27,7 @@
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI06/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[JP4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|
 |![]()|MOSN-SO363-X-KBSS138-01|Q2,|
 |![]()|RESA-06038-X-O103X4-01|R1,R3,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 ||||
   
 

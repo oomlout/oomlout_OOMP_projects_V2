@@ -21,7 +21,7 @@
 |![]()|CAPC-0805-X-UF10-V10|C2,C4,C5,C6,C8,|
 |![]()|CAPC-0805-X-UF22D-V25|C7,|
 |![]()|HEAD-I01-X-UNMATCHED-01|CONN1,|
-|![]()|DIOD-S123-X-KMBR120-01|D4,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|UNMATCHED-SO23-X-UNMATCHED-01|IC1,|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|L1,RPI1,U$33,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[R1,R2,R8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|

@@ -27,7 +27,7 @@
 |![]()|MOSN-SO363-X-KBSS138-01|Q2,|
 |![]()|RESA-06038-X-O103X4-01|R2,R3,|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|U$2,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 ||||
   
 

@@ -24,7 +24,7 @@
 |![]()|CAPC-0805-X-UF22D-V25|C7,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[C8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|
 |![]()|CAPX-3528-X-UNMATCHED-01|C9,|
-|![]()|DIOD-S123-X-KMBR120-01|D1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|UNMATCHED-1206-X-UNMATCHED-01|F1,|
 |![]()|LEDS-0805-Y-STAN-01|LED1,|
 |![]()|LEDS-0805-G-STAN-01|LED2,|

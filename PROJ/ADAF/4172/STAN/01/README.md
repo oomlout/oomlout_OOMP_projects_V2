@@ -21,7 +21,7 @@
 |![]()|CAPC-0805-X-UF1-V25|C5,|
 |![]()|DIOD-S323-X-K4148-01|D1,D2,|
 |![]()|LEDS-0805-R-STAN-01|D3,|
-|![]()|DIOD-S123-X-KMBR120-01|D5,D6,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D5,D6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI06/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI15/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI15/01/)|[HEAD-I01-X-PI15-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI15/01/)|[JP2,JP5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI15/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[R2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|

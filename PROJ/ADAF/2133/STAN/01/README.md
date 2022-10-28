@@ -23,7 +23,7 @@
 |![]()|CAPC-0805-X-PF47D-01|C11,C12,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI14/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI14/01/)|[HEAD-I01-X-PI14-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI14/01/)|[CONTROL,GPIO1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI14/01/)|
 |![]()|DIOD-S323-X-K4148-01|D2,|
-|![]()|DIOD-S123-X-KMBR120-01|D3,D4,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D3,D4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|LEDS-0805-R-STAN-01|GREEN,|
 |![]()|LEDS-0805-G-STAN-01|LED4,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O105/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O105/01/)|[RESE-0805-X-O105-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O105/01/)|[R1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O105/01/)|

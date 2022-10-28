@@ -18,7 +18,7 @@
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
 |![]()|CAPC-0805-X-UF10-V10|C1,C3,C4,C5,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|IC1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[IC1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC2,IC3,U$10,X1,|
 |![]()|UNMATCHED-SO23-X-UNMATCHED-01|IC4,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI20/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|[HEAD-I01-X-PI20-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|[JP1,JP2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|

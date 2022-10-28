@@ -31,7 +31,7 @@
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[R1,R2,R4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[R3,R5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|
 |![]()|UNMATCHED-4628-X-UNMATCHED-01|S2,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 ||||
   
 

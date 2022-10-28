@@ -23,7 +23,7 @@
 |![]()|MOSN-SO363-X-UNMATCHED-01|Q2,|
 |![]()|RESA-06038-X-O103X4-01|R3,|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|U$12,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 ||||
   
 

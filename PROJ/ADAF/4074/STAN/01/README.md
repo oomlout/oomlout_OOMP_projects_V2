@@ -29,7 +29,7 @@
 |![]()|RESE-0603-X-O3903-01|R3,|
 |![]()|RESA-06038-X-O103X4-01|R5,|
 |![]()|BUTA-6060-X-STAN-01|SW1,SW2,SW3,|
-|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KAP2112K/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[VREG-SO235-X-KAP2112K-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|[U1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KAP2112K/V33D/)|
 |![]()|CAPX-UNMATCHED-X-UNMATCHED-01|X1,|
 ||||
   

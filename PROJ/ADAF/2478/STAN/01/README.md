@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[C1,C4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|
 |![]()|CAPC-0805-X-UF10-V10|C2,C3,C5,C6,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|IC1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[IC1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC2,IC3,U$10,X1,|
 |![]()|UNMATCHED-SO23-X-UNMATCHED-01|IC4,Q1,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI20/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|[HEAD-I01-X-PI20-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|[JP1,JP2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI20/01/)|

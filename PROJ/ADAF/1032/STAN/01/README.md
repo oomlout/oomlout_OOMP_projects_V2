@@ -20,7 +20,7 @@
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[C1,C4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|
 |![]()|CAPC-0805-X-UF10-V10|C3,C5,|
 |![]()|DIOD-S323-X-K4148-01|D1,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|IC1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[IC1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC2,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI09/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI09/01/)|[HEAD-I01-X-PI09-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI09/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI09/01/)|
 |![]()|MOSN-SO23-X-KBSS138-01|Q1,Q2,|

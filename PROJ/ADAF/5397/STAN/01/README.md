@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 |![]()|CAPC-0805-X-UNMATCHED-01|C1,C20,|
 |![]()|LEDS-0603-O-STAN-01|CHG,|
-|![]()|DIOD-S123-X-KMBR120-01|D2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI07/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|[HEAD-I01-X-PI07-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|[JP1,JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|
 |![]()|RESE-0603-X-O1003-01|R1,R3,|
 |![]()|RESE-0603-X-O472-01|R2,R8,|

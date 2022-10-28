@@ -21,14 +21,14 @@
 |![]()|CAPC-0805-X-UF10-V10|C3,C4,|
 |![]()|LEDS-0805-R-STAN-01|D1,|
 |![]()|LEDS-0805-G-STAN-01|D2,|
-|![]()|DIOD-S123-X-KMBR120-01|D3,D8,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D3,D8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|DIOD-S323-X-K4148-01|D4,D5,D6,D7,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI08/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[R1,R2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|
 |![]()|RESE-0805-X-O1003-01|R3,R4,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O202/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[RESE-0805-X-O202-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|SW1,U1,X1,Y1,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 ||||
   
 

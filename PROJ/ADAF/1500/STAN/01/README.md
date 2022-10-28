@@ -22,7 +22,7 @@
 |![]()|CAPC-0805-X-UF10-V10|C1,C8,|
 |![]()|DIOD-S323-X-UNMATCHED-01|D1,D3,|
 |![]()|DIOD-S123-X-UNMATCHED-01|D2,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|IC2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[IC2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[JP1,JP2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
 |![]()|LEDS-0805-G-STAN-01|PWR,|
 |![]()|BUTA-4628-X-STAN-01|Q1,|

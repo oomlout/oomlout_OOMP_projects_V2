@@ -28,7 +28,7 @@
 |![]()|MOSN-SO23-X-KBSS138-01|Q1,Q2,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[R1,R2,R3,R4,R5,R6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|U1,X3,Y2,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 ||||
   
 

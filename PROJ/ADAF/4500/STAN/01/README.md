@@ -21,7 +21,7 @@
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[C3,C4,C10,C11,C12,C14,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|
 |![]()|CAPC-0805-X-UF10-V10|C5,C6,C7,C8,C9,C13,|
 |![]()|HEAD-I01-X-UNMATCHED-01|CONN1,|
-|![]()|DIOD-S123-X-KMBR120-01|D1,D5,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D1,D5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|LEDS-0603-R-STAN-01|D2,|
 |![]()|LEDS-UNMATCHED-G-STAN-01|D3,D4,|
 |![]()|DIOD-S323-X-K4148-01|D6,|

@@ -23,7 +23,7 @@
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[C4,C6,C8,C10,C11,C12,C13,C14,C15,C16,C17,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF22/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|[CAPC-0603-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|[C5,C7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|
 |![]()|CAPC-0603-X-UF1-V25|C9,|
-|![]()|DIOD-S123-X-KMBR120-01|D1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|ECC1,L1,SW1,T2,TR1,U$1,U1,U3,X2,X3,X4,X5,X6,|
 |![]()|UNMATCHED-1206-X-UNMATCHED-01|F2,|
 |![]()|FERB-0805-X-UNMATCHED-01|FB2,|

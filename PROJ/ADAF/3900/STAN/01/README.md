@@ -24,7 +24,7 @@
 |![]()|CAPC-UNMATCHED-X-UF10-01|C11,|
 |![]()|LEDS-0805-O-STAN-01|CHG,|
 |![]()|DIOD-S323-X-UNMATCHED-01|D1,D2,|
-|![]()|DIOD-S123-X-KMBR120-01|D4,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S123/X/KMBR120/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[DIOD-S123-X-KMBR120-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|[D4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S123/X/KMBR120/01/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|I2C,IC4,MS1,NEOPIXEL,PIR,SW2,TFT,U$4,U$13,U1,U4,U5,VR2,X1,X3,X6,|
 |![]()|LEDS-0805-R-STAN-01|L,|
 |![]()|LEDS-3535-RGB-K2812-01|LED1,|

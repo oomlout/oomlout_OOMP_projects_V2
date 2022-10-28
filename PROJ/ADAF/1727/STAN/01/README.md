@@ -22,7 +22,7 @@
 |![]()|FERB-0805-X-UNMATCHED-01|FB1,FB2,|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI08/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|[HEAD-I01-X-PI08-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI08/01/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|U1,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|U2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[U2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TERS/35D/L/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|[X1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|
 ||||
   

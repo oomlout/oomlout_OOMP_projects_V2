@@ -21,7 +21,7 @@
 |![]()|CAPC-0805-X-UF10-V10|C1,C8,|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|CN1,IC3,TP1,X2,|
 |![]()|DIOD-S123-X-UNMATCHED-01|D2,D3,|
-|![]()|VREG-SO235-X-KMIC5225-V33D|IC2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO235/X/KMIC5225/V33D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[VREG-SO235-X-KMIC5225-V33D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|[IC2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO235/X/KMIC5225/V33D/)|
 |![]()|LEDS-0805-G-STAN-01|PWR,|
 |![]()|BUTA-4628-X-STAN-01|Q1,|
 |![]()|RESE-0603-X-UNMATCHED-01|R1,R2,R3,R4,R5,|
