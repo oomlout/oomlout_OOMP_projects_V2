@@ -34,7 +34,7 @@
 |gitName|gitName|Adafruit-Flora-Sewable-3-Pin-JST-Wiring-Adapter-PCB|
 |eagleBoard|eagleBoard|/Adafruit Flora 3JST.brd|
 |eagleSchem|eagleSchem|/Adafruit Flora 3JST.sch|
-|OOMP Parts List|oompParts|['CN2', 'UNMATCHED-UNMATCHED-X-UNMATCHED-01']|
+|OOMP Parts List|oompParts|<table><tr><td>'CN2'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
 |Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'CN2'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'JST_3PIN'</td><td> 'Package'</td></tr><tr><td> 'JSTPH3'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$2'</td><td> 'Value'</td></tr><tr><td> 'FIDUCIAL'</td><td> 'Device'</td></tr><tr><td> 'FIDUCIAL'</td><td> 'Package'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Description'</td></tr><tr><td> 'For use by pick and place machines to calibrate the vision/machine</td><td> 1mm'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 
