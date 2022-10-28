@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit ATECC608.brd"
@@ -35,6 +38,21 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "CONN3": "HEAD-I01-X-UNMATCHED-01",
+            "CONN4": "HEAD-I01-X-UNMATCHED-01",
+            "D1": "LEDS-0603-G-STAN-01",
+            "ECC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP2": "HEAD-I01-X-PI04-01",
+            "R3": "RESE-0603-X-O472-01",
+            "R4": "RESE-0603-X-O103-01",
+            "R5": "RESE-0603-X-O103-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +60,141 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN3",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN4",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603_NOOUTLINE",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "D1",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "ATECC108: Provides ECDSA with NIST curves P256, B283, and K283.  Also, a RNG, 8.5Kb EEPROM.  2.0V - 5.5V.",
+                    "Device": "ATECC108",
+                    "Package": "SOIC8",
+                    "Part": "ECC1",
+                    "Value": "ATECC608"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X4ROUND",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "4.7K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$11",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$12",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$14",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$15",
+                    "Value": "MOUNTINGHOLE2.5"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

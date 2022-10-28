@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/ESP32_GPS_Motion_Shield.brd"
@@ -35,6 +38,36 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "B1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C4": "CAPC-0402-X-NF100-V10",
+            "C5": "CAPC-0402-X-NF100-V10",
+            "C6": "CAPC-0402-X-NF100-V10",
+            "C7": "CAPC-0603-X-NF10-V50",
+            "C8": "CAPC-0603-X-UF10-V63D",
+            "D1": "LEDS-0603-L-STAN-01",
+            "J1": "HEAD-I01-X-PI20-01",
+            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J3": "HEAD-I01-X-PI20-01",
+            "J4": "HEAD-I01-X-PI04-01",
+            "J6": "HEAD-I01-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O471-01",
+            "R10": "RESE-0603-X-O103-01",
+            "R11": "RESE-0603-X-O103-01",
+            "R12": "RESE-0603-X-O103-01",
+            "R13": "RESE-0603-X-O472-01",
+            "R14": "RESE-0603-X-O472-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0402-X-O1003-01",
+            "R4": "RESE-0603-X-O103-01",
+            "R5": "RESE-0603-X-O103-01",
+            "R7": "RESE-0402-X-O1003-01",
+            "R9": "RESE-0603-X-O103-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +75,317 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "SparkFun ESP32 Thing Board",
+                    "Device": "ESP32_THING_WO_ANT_KEEPOUT",
+                    "Package": "ESP32_THING_NO_ANT",
+                    "Part": "B1",
+                    "Value": "ESP32_THING_WO_ANT_KEEPOUT"
+                },
+                {
+                    "BOM": "CAP-12416",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0402-16V-10%",
+                    "Package": "0402",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-12416",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0402-16V-10%",
+                    "Package": "0402",
+                    "Part": "C5",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-12416",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0402-16V-10%",
+                    "Package": "0402",
+                    "Part": "C6",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00867",
+                    "Description": "0.01uF/10nF/10,000pF ceramic capacitors",
+                    "Device": "10NF-0603-50V-10%",
+                    "Package": "0603",
+                    "Part": "C7",
+                    "Value": "10nF"
+                },
+                {
+                    "BOM": "CAP-11015",
+                    "Description": "10.0\u00b5F ceramic capacitors",
+                    "Device": "10UF-0603-6.3V-20%",
+                    "Package": "0603",
+                    "Part": "C8",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "DIO-08575",
+                    "Description": "Blue SMD LED",
+                    "Device": "LED-BLUE0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_20NOSILK",
+                    "Package": "1X20_NOSILK",
+                    "Part": "J1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-07820",
+                    "Description": "microSD Socket for Transflash",
+                    "Device": "MICRO-SD_CARD_SOCKET",
+                    "Package": "MICRO-SD-SOCKET",
+                    "Part": "J2",
+                    "Value": "MICRO-SD_CARD_SOCKET"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_20NOSILK",
+                    "Package": "1X20_NOSILK",
+                    "Part": "J3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-09696",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_04",
+                    "Package": "1X04",
+                    "Part": "J4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-12591",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_03JST-SMD",
+                    "Package": "JST-3-SMD",
+                    "Part": "J6",
+                    "Value": "3-PIN SMD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open-Source Hardware (OSHW) Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Font Logo w/ Flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.2",
+                    "Part": "LOGO2",
+                    "Value": "SFE_LOGO_NAME_FLAME.2_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO3",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "RES-07869",
+                    "Description": "470\u03a9 resistor",
+                    "Device": "470OHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R1",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R2",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-13495",
+                    "Description": "100k\u03a9 resistor",
+                    "Device": "100KOHM-0402-1/16W-1%",
+                    "Package": "0402",
+                    "Part": "R3",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R4",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R5",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-13495",
+                    "Description": "100k\u03a9 resistor",
+                    "Device": "100KOHM-0402-1/16W-1%",
+                    "Package": "0402",
+                    "Part": "R7",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R9",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R10",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R11",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R12",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-07857",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R13",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "RES-07857",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R14",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP1",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP2",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP3",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP4",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP5",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "IC-12536",
+                    "Description": "ST Microelectronics LSM9DS1 9DOF IMU - Accelerometer, Gyroscope & Magnetometer",
+                    "Device": "LSM9DS1",
+                    "Package": "LGA-24-3.5X3",
+                    "Part": "U1",
+                    "Value": "LSM9DS1"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

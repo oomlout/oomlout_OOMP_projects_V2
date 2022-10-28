@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit SDIO microSD.brd"
@@ -35,6 +38,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "JP1": "HEAD-I01-X-PI09-01",
+            "R1": "RESA-06038-X-O473X4-01",
+            "R2": "RESA-06038-X-O473X4-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +56,93 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X970MIL",
+                    "Package": "1X09_ROUND_70",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor Packs (4 resistors)",
+                    "Device": "RESISTOR_4PACK",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R1",
+                    "Value": "47K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor Packs (4 resistors)",
+                    "Device": "RESISTOR_4PACK",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R2",
+                    "Value": "47K"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$1",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$2",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MicroSD/Transflash Card Holder with SPI pinout",
+                    "Device": "MICROSD",
+                    "Package": "MICROSD",
+                    "Part": "X1",
+                    "Value": "microSD"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

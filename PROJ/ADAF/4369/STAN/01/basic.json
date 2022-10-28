@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit_PCT2075.brd"
@@ -35,6 +38,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "CONN3": "HEAD-I01-X-UNMATCHED-01",
+            "CONN4": "HEAD-I01-X-UNMATCHED-01",
+            "D1": "LEDS-0603-G-STAN-01",
+            "JP2": "HEAD-I01-X-PI03-01",
+            "JP3": "HEAD-I01-X-PI05-01",
+            "R3": "RESA-06038-X-O103X4-01",
+            "U$2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +59,157 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN3",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN4",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603_NOOUTLINE",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "D1",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X3ROUND",
+                    "Package": "1X03_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X5ROUND",
+                    "Package": "1X05_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor Packs (4 resistors)",
+                    "Device": "RESISTOR_4PACK",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R3",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$1",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCT2075D",
+                    "Package": "SOIC8_150MIL",
+                    "Part": "U$2",
+                    "Value": "PCT2075D"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$17",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$19",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$21",
+                    "Value": "MOUNTINGHOLE2.5"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

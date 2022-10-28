@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit 128x32 Pi OLED.brd"
@@ -35,6 +38,21 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C2": "CAPC-0805-X-UF1-V25",
+            "C3": "CAPC-0805-X-UF1-V25",
+            "C4": "CAPC-0805-X-UF10-V25",
+            "C5": "CAPC-0805-X-UF10-V25",
+            "C6": "CAPC-0805-X-UF10-V25",
+            "IC5": "UNMATCHED-SO23-X-UNMATCHED-01",
+            "LCD1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R2": "RESE-0805-X-O103-01",
+            "R3": "RESE-0805-X-O3903-01",
+            "RPI1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +60,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C5",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "AXP083-SAG",
+                    "Package": "SOT23",
+                    "Part": "IC5",
+                    "Value": "APX803"
+                },
+                {
+                    "BOM": "",
+                    "Description": "128x32 I2C 0.91 Monochrome OLED Display",
+                    "Device": "DISP_OLED_UG-2832HSWEG02",
+                    "Package": "UG-2832HSWEG02_WRAPUNDER",
+                    "Part": "LCD1",
+                    "Value": "OLED 128x32"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "390K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RASPBERRYPI_2X3",
+                    "Package": "RASPBERRYPI_2X3_THMSMT",
+                    "Part": "RPI1",
+                    "Value": "RASPBERRYPI_2X3"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE3.0THIN",
+                    "Package": "MOUNTINGHOLE_3.0_PLATEDTHIN",
+                    "Part": "U$4",
+                    "Value": "MOUNTINGHOLE3.0THIN"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

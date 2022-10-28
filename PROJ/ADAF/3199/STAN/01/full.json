@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit MICS-5524.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3199/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "JP2": "HEAD-I01-X-PI04-01",
+            "Q1": "MOSP-SO23-X-UNMATCHED-01",
+            "R1": "RESE-0805-X-UNMATCHED-01",
+            "R2": "RESE-0805-X-O103-01",
+            "R3": "RESE-0805-X-O103-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +136,93 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X476MIL",
+                    "Package": "1X04_ROUND_76",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "P-Channel Mosfet",
+                    "Device": "MOSFET-PWIDE",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q1",
+                    "Value": "DMG3415U"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "82\u03a9 1%"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$3",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$4",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MiCS-5524 Carbon Monoxide Gas Sensor",
+                    "Device": "MICS-5524",
+                    "Package": "MICS-5524",
+                    "Part": "U1",
+                    "Value": "MiCS-5524"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

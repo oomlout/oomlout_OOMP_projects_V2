@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/1.0mm + 0.5mm FPC stick.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,19 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "CON1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI2X20-01",
+            "JP2": "HEAD-I01-X-PI20-01",
+            "JP3": "HEAD-I01-X-PI20-01",
+            "U$1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +138,77 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Pinouts for OLED/LCD displays with flex ribbons",
+                    "Device": "PINHD-1X40-0.5MM",
+                    "Package": "1X40-0.5MM",
+                    "Part": "CON1",
+                    "Value": "PINHD-1X40-0.5MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-2X20-BIG",
+                    "Package": "2X20-BIG",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X20-BIG",
+                    "Package": "1X20-BIG",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X20-BIG",
+                    "Package": "1X20-BIG",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Pinouts for OLED/LCD displays with flex ribbons",
+                    "Device": "PINHD-1X40-0.6MM",
+                    "Package": "1X40-0.6MM",
+                    "Part": "U$1",
+                    "Value": "PINHD-1X40-0.6MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Pinouts for OLED/LCD displays with flex ribbons",
+                    "Device": "PINHD-1X40-0.7MM",
+                    "Package": "1X40-0.7MM",
+                    "Part": "U$2",
+                    "Value": "PINHD-1X40-0.7MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Pinouts for OLED/LCD displays with flex ribbons",
+                    "Device": "PINHD-1X40-0.8MM",
+                    "Package": "1X40-0.8MM",
+                    "Part": "U$3",
+                    "Value": "PINHD-1X40-0.8MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Pinouts for OLED/LCD displays with flex ribbons",
+                    "Device": "PINHD-1X40-1MM",
+                    "Package": "1X40-1MM",
+                    "Part": "U$4",
+                    "Value": "PINHD-1X40-1MM"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

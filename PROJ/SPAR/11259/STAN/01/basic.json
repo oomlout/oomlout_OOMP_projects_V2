@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Lilypad_Power_Supply.brd"
@@ -35,6 +38,23 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C10": "CAPX-3528-X-UF68-01",
+            "C11": "CAPC-1206-X-UF10-V25",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
+            "F1": "REFU-1206-X-UNMATCHED-01",
+            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-1206-R-STAN-01",
+            "R1": "RESE-0603-X-O102-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "TP1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-SO235-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +62,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERYAAA",
+                    "Package": "BATTERY-AAA",
+                    "Part": "BAT1",
+                    "Value": "AAA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0603-CAP",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CAP_POL2",
+                    "Package": "EIA3528-21",
+                    "Part": "C10",
+                    "Value": "68uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CAP_POL1206",
+                    "Package": "CPOL_1206",
+                    "Part": "C11",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "DIODESMA",
+                    "Package": "SMA-DIODE",
+                    "Part": "D2",
+                    "Value": "MBRA140"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resettable Fuse PTC",
+                    "Device": "PTCSMD",
+                    "Package": "PTC-1206",
+                    "Part": "F1",
+                    "Value": "PTC 5V/500mA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Basic Inductor/Choke - 0603 and 1206",
+                    "Device": "INDUCTORCR54",
+                    "Package": "CR54",
+                    "Part": "L1",
+                    "Value": "47uH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED1206",
+                    "Package": "LED-1206",
+                    "Part": "LED1",
+                    "Value": "Red"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0603-RES",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPDT Slide Switch",
+                    "Device": "AYZ0202",
+                    "Package": "AYZ0202",
+                    "Part": "S1",
+                    "Value": "AYZ0202"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TEST-POINT3X5",
+                    "Package": "PAD.03X.05",
+                    "Part": "TP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP10",
+                    "Package": "PETAL-LONG-2-2SIDE",
+                    "Part": "U$1",
+                    "Value": "SEWTAP10"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP10",
+                    "Package": "PETAL-LONG-2-2SIDE",
+                    "Part": "U$2",
+                    "Value": "SEWTAP10"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP10",
+                    "Package": "PETAL-LONG-2-2SIDE",
+                    "Part": "U$4",
+                    "Value": "SEWTAP10"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP10",
+                    "Package": "PETAL-LONG-2-2SIDE",
+                    "Part": "U$5",
+                    "Value": "SEWTAP10"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LOGO-LPLP",
+                    "Package": "LOGO-LILYPAD",
+                    "Part": "U$7",
+                    "Value": "LOGO-LPLP"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Switching step-up voltage regulator",
+                    "Device": "V_REG_NCP1400SOT23-5",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "NCP1402-5V"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

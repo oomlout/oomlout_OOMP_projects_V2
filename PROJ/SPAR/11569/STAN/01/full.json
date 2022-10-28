@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Papilio-VGA_Wing.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11569/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,22 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "JP1": "HEAD-I01-X-PI04-01",
+            "JP2": "HEAD-I01-X-PI08-01",
+            "JP3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0402-X-UNMATCHED-01",
+            "R2": "RESE-0402-X-UNMATCHED-01",
+            "R3": "RESE-0402-X-O271-01",
+            "R4": "RESE-0402-X-O271-01",
+            "R5": "RESE-0402-X-O271-01",
+            "R6": "RESE-0402-X-O271-01",
+            "R7": "RESE-0402-X-O271-01",
+            "R8": "RESE-0402-X-O271-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +141,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04PTH",
+                    "Package": "1X04",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 8",
+                    "Device": "M081X08",
+                    "Package": "1X08",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "DB15 / VGA right angle through-hole female connector.",
+                    "Device": "DB15",
+                    "Package": "DB15",
+                    "Part": "JP3",
+                    "Value": "DB15"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP5",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP6",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "JP7",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R1",
+                    "Value": "82.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R2",
+                    "Value": "82.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R3",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R4",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R5",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R6",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R7",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R8",
+                    "Value": "270"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$1",
+                    "Value": "OSHW-LOGOS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

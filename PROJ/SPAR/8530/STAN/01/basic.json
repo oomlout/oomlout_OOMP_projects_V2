@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/Large Digit Shield.brd"
@@ -35,6 +38,16 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "FRAME1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-UNMATCHED-01",
+            "JP2": "HEAD-I01-X-PI06-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +55,69 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "N. Seidle",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Shield form compatible with the Arduino Uno R3.",
+                    "Device": "ARDUINO_R3_SHIELD",
+                    "Package": "UNO_R3_SHIELD",
+                    "Part": "J1",
+                    "Value": "ARDUINO_R3_SHIELD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "COMPUTER-PERIPHERAL-POWERRA",
+                    "Package": "COMPUTER-PERIPHERAL-POWER-RA",
+                    "Part": "J2",
+                    "Value": "Power"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04JST-PTH",
+                    "Package": "JST-4-PTH",
+                    "Part": "JP1",
+                    "Value": "LIDAR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SILK_FEMALE_PTH",
+                    "Package": "1X06",
+                    "Part": "JP2",
+                    "Value": "OUT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name and flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.2",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_NAME_FLAME.2_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

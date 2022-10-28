@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit TFT144 Breakout rev B.brd"
@@ -35,6 +38,21 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "C4": "CAPC-0805-X-NF100-V50",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC2": "VREG-SO235-X-KMIC5225-V33D",
+            "JP1": "HEAD-I01-X-PI11-01",
+            "Q2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Q3": "MOSN-SO23-X-KBSS138-01",
+            "R3": "RESE-0805-X-UNMATCHED-01",
+            "TFT2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +60,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Hex non-inverting BUFFER",
+                    "Device": "4050D",
+                    "Package": "SO16",
+                    "Part": "IC1",
+                    "Value": "4050D"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LP298XS",
+                    "Package": "SOT23-5L",
+                    "Part": "IC2",
+                    "Value": "mic5225-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HEADER-1X1176MIL",
+                    "Package": "1X11_ROUND_76",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Micro-SD / Transflash card holder with SPI pinout",
+                    "Device": "MICROSD",
+                    "Package": "MICROSD",
+                    "Part": "Q2",
+                    "Value": "MICROSD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "N-Channel Mosfet",
+                    "Device": "MOSFET-NWIDE",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q3",
+                    "Value": "BSS138"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "~2.2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "DISP_LCD_FPC1441609",
+                    "Package": "TFT_FPC1441609",
+                    "Part": "TFT2",
+                    "Value": "DISP_LCD_FPC1441609"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$4",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$5",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$7",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$8",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$10",
+                    "Value": "MOUNTINGHOLE2.5"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

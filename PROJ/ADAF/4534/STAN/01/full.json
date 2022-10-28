@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Bonsai Buckaroo.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,22 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "DIOD-S323-X-K4148-01",
+            "D2": "LEDS-0805-R-STAN-01",
+            "D6": "DIOD-S323-X-K4148-01",
+            "MB2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Q1": "MOSN-SO23-X-KBSS138-01",
+            "Q2": "MOSN-SO23-X-KBSS138-01",
+            "R1": "RESE-0603-X-O103-01",
+            "R12": "RESE-0603-X-O103-01",
+            "R2": "RESE-0603-X-O102-01",
+            "SP1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +141,141 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "D2",
+                    "Value": "red"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D6",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MICROBIT_5PIN",
+                    "Package": "MICROBIT_5SMTNUT",
+                    "Part": "MB2",
+                    "Value": "MICROBIT_5PIN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "N-Channel Mosfet",
+                    "Device": "MOSFET-NWIDE",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q1",
+                    "Value": "BSS138"
+                },
+                {
+                    "BOM": "",
+                    "Description": "N-Channel Mosfet",
+                    "Device": "MOSFET-NWIDE",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q2",
+                    "Value": "BSS138"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R12",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPEAKER Source: BuerklinAdded PS12 (for part # PS1240 piezo) http://www.ladyada.net/library/pcb/eaglelibrary.html",
+                    "Device": "SPEAKER_7.5MM",
+                    "Package": "BUZZER_SMT_7.5MM",
+                    "Part": "SP1",
+                    "Value": "SPEAKER_7.5MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAPPCB_ALLIGATOR",
+                    "Package": "PCB_ALLI",
+                    "Part": "TP1",
+                    "Value": "SEWTAPPCB_ALLIGATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAPPCB_ALLIGATOR",
+                    "Package": "PCB_ALLI",
+                    "Part": "TP2",
+                    "Value": "SEWTAPPCB_ALLIGATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAPPCB_ALLIGATOR",
+                    "Package": "PCB_ALLI",
+                    "Part": "TP3",
+                    "Value": "SEWTAPPCB_ALLIGATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Serie 2060,  SMD-Leiterplattenklemme mit Bet\u00e4tigungsdr\u00fcckern im Gurt 2-polig / Series 2060,  SMD terminal block with push-buttons in tape-and-reel packing 2-polePolzahl / Pole No.: 2 Rasterma\u00df / Pitch: 4  mmBemessungsspannung / Rated Voltage: 160 VNennstrom / Nominal Current: 9 ALeiterquerschnitt / Conductor Size: 0.2 - 0.75 mm2Anschlusstechnik / Connection Technology: CAGE CLAMP\u00ae S Leitereinf\u00fchrung (zur Platine) / Conductor entry angle (to PCB): 0 \u00b0Farbe / Color: lichtgrau / light gray Stand: 01.01.2014. Die jeweils aktuellen Daten zu diesem Artikel finden Sie in unserem Produktkatalog, den Sie unter www.wago.com einsehen k\u00f6nnen.  As of: 01/01/2014. Please find the newest data for this article in our product catalogue, which can be viewed under www.wago.com.",
+                    "Device": "2060-402/998-404",
+                    "Package": "P-2060-402/998-404",
+                    "Part": "X1",
+                    "Value": "2060-402/998-404"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

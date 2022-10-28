@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Sparkfun_LilyPad-Switched-Battery.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11285/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,13 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +132,109 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "BATT-10373",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY20MM_4LEGS",
+                    "Package": "BATTCON_20MM_4LEGS",
+                    "Part": "BAT1",
+                    "Value": "20mm coincell"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATB-",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATB-2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATT+",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATT+2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "SWCH-08179",
+                    "Description": "SPDT Switch",
+                    "Device": "SWITCH-SPDTSMD",
+                    "Package": "AYZ0202",
+                    "Part": "S1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "REVISION",
+                    "Package": "REVISION",
+                    "Part": "U$1",
+                    "Value": "REVISION"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

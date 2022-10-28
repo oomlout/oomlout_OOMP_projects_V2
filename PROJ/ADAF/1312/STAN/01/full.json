@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit_Breadboard_NeoPixel.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1312/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,18 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF1-V25",
+            "JP1": "HEAD-I01-X-PI03-01",
+            "JP2": "HEAD-I01-X-PI03-01",
+            "LED1": "LEDS-5050-RGB-K2811-01",
+            "R1": "RESE-0603-X-O102-01",
+            "R2": "RESE-0603-X-O220-01",
+            "R3": "RESE-0603-X-O220-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +137,69 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0603K",
+                    "Package": "C0603K",
+                    "Part": "C1",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X3CB",
+                    "Package": "1X03-CLEANBIG",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X3CB",
+                    "Package": "1X03-CLEANBIG",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS28115050",
+                    "Package": "WS28115050",
+                    "Part": "LED1",
+                    "Value": "WS28115050"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R1",
+                    "Value": "1.0K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R2",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R3",
+                    "Value": "22"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/H2OhNo.brd"
@@ -35,6 +38,19 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C6": "CAPX-UNMATCHED-X-NF100-01",
+            "JP3": "HEAD-I01-X-PI02-01",
+            "JP4": "HEAD-I01-X-PI06-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SG1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +58,133 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY20PTH",
+                    "Package": "BATTCOM_20MM_PTH",
+                    "Part": "BAT1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPPTH2",
+                    "Package": "CAP-PTH-SMALL2",
+                    "Part": "C6",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME2",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP3",
+                    "Value": "Water Sensor"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP4",
+                    "Value": "ISP"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED5MM",
+                    "Package": "LED5MM",
+                    "Part": "LED1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPDT Switch",
+                    "Device": "SWITCH-SPDTPTH",
+                    "Package": "SWITCH-SPDT",
+                    "Part": "S1",
+                    "Value": "Power"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buzzer 12mm",
+                    "Device": "BUZZERPTH",
+                    "Package": "BUZZER-12MM",
+                    "Part": "SG1",
+                    "Value": "Buzzer"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF1",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF4",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "U$1",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$4",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENW2",
+                    "Package": "SFE-NEW-WEB",
+                    "Part": "U$5",
+                    "Value": "LOGO-SFENW2"
+                },
+                {
+                    "BOM": "IC-09445",
+                    "Description": "Atmel 8-pin 2/4/8kB flash uC",
+                    "Device": "ATTINY45TINY85-20-DIP",
+                    "Package": "DIP08",
+                    "Part": "U2",
+                    "Value": "TINY85-20-DIP"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

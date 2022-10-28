@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit MAX31850.brd"
@@ -35,6 +38,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "C3": "CAPC-0805-X-NF100-V50",
+            "FB1": "FERB-0805-X-UNMATCHED-01",
+            "FB2": "FERB-0805-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI08-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "VREG-SO235-X-KMIC5225-V33D",
+            "X1": "TERS-35D-L-PI02-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +59,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ferrite Bead",
+                    "Device": "FERRITE0805",
+                    "Package": "0805",
+                    "Part": "FB1",
+                    "Value": "Ferrite"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ferrite Bead",
+                    "Device": "FERRITE0805",
+                    "Package": "0805",
+                    "Part": "FB2",
+                    "Value": "Ferrite"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X870MIL",
+                    "Package": "1X08_ROUND_70",
+                    "Part": "JP1",
+                    "Value": "Breakout"
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "2-Way Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAY",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$8",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MAX31850/MAX31851 One-Wire Thermocouple to Digital Converter",
+                    "Device": "MAX3185X",
+                    "Package": "TDFN10_3X4MM",
+                    "Part": "U1",
+                    "Value": "MAX31850"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SOT23-5 Fixed Voltage Regulators",
+                    "Device": "VREG_SOT23-5",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "MIC5225-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "3.5mm Terminal block",
+                    "Device": "TERMBLOCK_1X2",
+                    "Package": "TERMBLOCK_1X2-3.5MM",
+                    "Part": "X1",
+                    "Value": "3.5mm"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

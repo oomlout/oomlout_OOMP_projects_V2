@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Flora LSM9DS0 9DoF.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2020/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,16 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C2": "CAPC-UNMATCHED-X-UNMATCHED-01",
+            "C6": "CAPC-0805-X-NF220-01",
+            "C7": "CAPC-0805-X-UF10-V25",
+            "R1": "RESA-06038-X-O103X4-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +135,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805_10MGAP",
+                    "Package": "0805_10MGAP",
+                    "Part": "C2",
+                    "Value": "10\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "0.22uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C7",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "GND",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor Packs (4 resistors)",
+                    "Device": "RESISTOR_4PACK_US",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "SCL1",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "SCL2",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "SDA1",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "SDA2",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LSM9DS0 3-Axis Accelerometer/Gyroscope/Magnetometer",
+                    "Device": "LSM9DS0",
+                    "Package": "LGA24_4X4MM",
+                    "Part": "U2",
+                    "Value": "LSM9DS0TR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "VCC",
+                    "Value": "SEWTAP0.5IN"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

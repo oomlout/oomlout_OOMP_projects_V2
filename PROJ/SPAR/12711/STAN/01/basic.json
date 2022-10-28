@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_USB_LiPolyCharger_SingleCell.brd"
@@ -35,6 +38,27 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF47D-V10",
+            "C2": "CAPC-0603-X-UF47D-V10",
+            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
+            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
+            "J1": "DCJP-S21D-X-STAN-01",
+            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI02-01",
+            "JP2": "HEAD-I01-X-PI02-01",
+            "LED2": "LEDS-0603-R-STAN-01",
+            "PROG": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R-PROG1": "UNMATCHED-0603-X-UNMATCHED-01",
+            "R-PROG2": "RESE-0603-X-O103-01",
+            "R1": "RESE-0603-X-O331-01",
+            "U1": "UNMATCHED-SO235-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +66,229 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-08280",
+                    "Description": "CAP-08280",
+                    "Device": "4.7UF-6.3V-10%(0603)0603",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "4.7uF"
+                },
+                {
+                    "BOM": "CAP-08280",
+                    "Description": "CAP-08280",
+                    "Device": "4.7UF-6.3V-10%(0603)0603",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "4.7uF"
+                },
+                {
+                    "BOM": "DIO-08053",
+                    "Description": "40V, 1A Schottky rectifier",
+                    "Device": "MBRA140",
+                    "Package": "SMA-DIODE",
+                    "Part": "D1",
+                    "Value": "MBRA140"
+                },
+                {
+                    "BOM": "DIO-08053",
+                    "Description": "40V, 1A Schottky rectifier",
+                    "Device": "MBRA140",
+                    "Package": "SMA-DIODE",
+                    "Part": "D2",
+                    "Value": "MBRA140"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "CONN-08106",
+                    "Description": "Power Jack",
+                    "Device": "POWER_JACKSMD",
+                    "Package": "POWER_JACK_SMD",
+                    "Part": "J1",
+                    "Value": "POWER_JACKSMD"
+                },
+                {
+                    "BOM": "CONN-08352",
+                    "Description": "Mates to single-cell LiPo batteries.",
+                    "Device": "JST_2MM_MALE",
+                    "Package": "JST-2-SMD",
+                    "Part": "J2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-08352",
+                    "Description": "Mates to single-cell LiPo batteries.",
+                    "Device": "JST_2MM_MALE",
+                    "Package": "JST-2-SMD",
+                    "Part": "J3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP1",
+                    "Value": "M02PTH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP2",
+                    "Value": "M02PTH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP7",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP8",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP9",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP10",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP11",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP12",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP13",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED3MM",
+                    "Package": "LED3MM",
+                    "Part": "LED1",
+                    "Value": "DNP"
+                },
+                {
+                    "BOM": "DIO-00819",
+                    "Description": "Assorted Red LEDs",
+                    "Device": "LED-RED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED2",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTORAXIAL-0.3",
+                    "Package": "AXIAL-0.3",
+                    "Part": "PROG",
+                    "Value": ""
+                },
+                {
+                    "BOM": "RES-08296",
+                    "Description": "RES-08296",
+                    "Device": "2.0KOHM1/10W5%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R-PROG1",
+                    "Value": "2k"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "RES-00824",
+                    "Device": "10KOHM1/10W1%(0603)0603",
+                    "Package": "0603-RES",
+                    "Part": "R-PROG2",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYS",
+                    "Package": "SJ_3",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "IC-09995",
+                    "Description": "Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller",
+                    "Device": "MCP73831",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "MCP73831"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB Connectors",
+                    "Device": "USBSMD",
+                    "Package": "USB-MINIB",
+                    "Part": "X1",
+                    "Value": "USBSMD"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

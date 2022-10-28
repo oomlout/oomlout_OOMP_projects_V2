@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/Serial-7-Segment-Display.brd"
@@ -35,6 +38,31 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "ATMEGA328P-AU": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPC-0402-X-NF100-V10",
+            "C3": "CAPC-0402-X-NF100-V10",
+            "C4": "CAPC-0402-X-NF100-V10",
+            "JP11": "HEAD-I01-X-PI05-01",
+            "JP12": "HEAD-I01-X-PI10-01",
+            "JP2": "HEAD-I01-X-PI02-01",
+            "JP6": "HEAD-I01-X-PI02-01",
+            "JP7": "HEAD-I01-X-PI02-01",
+            "JP8": "HEAD-I01-X-PI02-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "R1": "RESE-0402-X-O103-01",
+            "R10": "RESE-0402-X-O102-01",
+            "R2": "RESE-0402-X-O102-01",
+            "R3": "RESE-0402-X-O102-01",
+            "R4": "RESE-0402-X-O102-01",
+            "R6": "RESE-0402-X-O102-01",
+            "R7": "RESE-0402-X-O102-01",
+            "R8": "RESE-0402-X-O102-01",
+            "R9": "RESE-0402-X-O102-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +70,245 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ATMEGA168",
+                    "Package": "TQFP32-08",
+                    "Part": "ATMEGA328P-AU",
+                    "Value": "ATMEGA328P-AU"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP1",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 2",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP4",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP5",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 2",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 2",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 2",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP9",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP10",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05PTH-NS",
+                    "Package": "1X05_NO_SILK",
+                    "Part": "JP11",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 10",
+                    "Device": "M10SIP_NS",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP12",
+                    "Value": "M10SIP_NS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.",
+                    "Device": "7-SEGMENT-4DIGIT-YOUNGSUN",
+                    "Package": "7-SEGMENT-4DIGIT-YOUNGSUN",
+                    "Part": "LED1",
+                    "Value": "7-SEGMENT-4DIGIT-YOUNGSUN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R1",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R2",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R3",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R4",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R6",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R7",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R8",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R9",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R10",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CREATIVE_COMMONS",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "U$1",
+                    "Value": "CREATIVE_COMMONS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "U$2",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$4",
+                    "Value": "OSHW-LOGOS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

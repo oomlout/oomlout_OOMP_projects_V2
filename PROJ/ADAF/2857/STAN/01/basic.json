@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit SHT31 Breakout.brd"
@@ -35,6 +38,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C5": "CAPC-0805-X-UF10-V25",
+            "C6": "CAPC-0603-X-NF100-V50",
+            "CONN3": "HEAD-I01-X-UNMATCHED-01",
+            "CONN4": "HEAD-I01-X-UNMATCHED-01",
+            "D1": "LEDS-0603-G-STAN-01",
+            "JP1": "HEAD-I01-X-PI07-01",
+            "R1": "RESE-0603-X-O103-01",
+            "R5": "RESA-06038-X-O103X4-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +59,125 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C5",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C6",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN3",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN4",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603_NOOUTLINE",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "D1",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X770MIL",
+                    "Package": "1X07_ROUND_70",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor Packs (4 resistors)",
+                    "Device": "RESISTOR_4PACK",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R5",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$19",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$20",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SHT3x - Digital Temperature and Humidity Sensor",
+                    "Device": "SHT3X",
+                    "Package": "SHT3X",
+                    "Part": "U2",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

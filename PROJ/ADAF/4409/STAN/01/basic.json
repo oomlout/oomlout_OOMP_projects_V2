@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Non-Latching Relay Breakout.brd"
@@ -35,6 +38,23 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "D1": "DIOD-S323-X-K4148-01",
+            "D2": "LEDS-0805-R-STAN-01",
+            "JP1": "HEAD-I01-X-PI03-01",
+            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O102-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0603-X-O102-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X3": "TERS-35D-L-PI03-01",
+            "X4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +62,165 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "D2",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X3",
+                    "Package": "1X03_OVAL",
+                    "Part": "JP1",
+                    "Value": "0.1 Header"
+                },
+                {
+                    "BOM": "",
+                    "Description": "NPN Transistor",
+                    "Device": "TRANSISTOR_NPN",
+                    "Package": "SOT23-R",
+                    "Part": "Q1",
+                    "Value": "MMBT2222"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper - Closed",
+                    "Device": "SOLDERJUMPER_CLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$1",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$8",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$10",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RELAY_NONLATCHING-EE2NUH",
+                    "Package": "RELAY_EE2_NOLATCH",
+                    "Part": "X1",
+                    "Value": "RELAY_NONLATCHING-EE2NUH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "3.5mm Terminal block",
+                    "Device": "TERMBLOCK_1X3",
+                    "Package": "TERMBLOCK_1X3-3.5MM",
+                    "Part": "X3",
+                    "Value": "3.5mm Terminal"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CON_JST_PH_3PIN",
+                    "Package": "JSTPH3",
+                    "Part": "X4",
+                    "Value": "JST PH 3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Serie 2060,  SMD-Leiterplattenklemme mit Bet\u00e4tigungsdr\u00fcckern im Gurt 3-polig / Series 2060,  SMD terminal block with push-buttons in tape-and-reel packing 3-polePolzahl / Pole No.: 3 Rasterma\u00df / Pitch: 4  mmBemessungsspannung / Rated Voltage: 160 VNennstrom / Nominal Current: 9 ALeiterquerschnitt / Conductor Size: 0.2 - 0.75 mm2Anschlusstechnik / Connection Technology: CAGE CLAMP\u00ae S Leitereinf\u00fchrung (zur Platine) / Conductor entry angle (to PCB): 0 \u00b0Farbe / Color: lichtgrau / light gray Stand: 01.01.2014. Die jeweils aktuellen Daten zu diesem Artikel finden Sie in unserem Produktkatalog, den Sie unter www.wago.com einsehen k\u00f6nnen.  As of: 01/01/2014. Please find the newest data for this article in our product catalogue, which can be viewed under www.wago.com.",
+                    "Device": "2060-403/998-404",
+                    "Package": "P-2060-403/998-404",
+                    "Part": "X5",
+                    "Value": "2060-403/998-404"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

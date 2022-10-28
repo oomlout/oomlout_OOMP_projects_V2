@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Beefcake_Relay_Control_Kit.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "DIOD-UNMATCHED-X-K4148-01",
+            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
+            "J1": "TERS-UNMATCHED-X-UNMATCHED-01",
+            "J2": "TERS-35D-L-PI03-01",
+            "K1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-UNMATCHED-X-O102-01",
+            "R2": "RESE-UNMATCHED-X-O102-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +139,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "DIO-08378",
+                    "Description": "Diode",
+                    "Device": "DIODEKIT",
+                    "Package": "DIODE-1N4148-KIT",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "DIO-13313",
+                    "Description": "Zener Diode",
+                    "Device": "DIODE-ZENER",
+                    "Package": "DIODE-1N4148-KIT",
+                    "Part": "D2",
+                    "Value": "Zener"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME2",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "CONN-10134",
+                    "Description": "Header 3",
+                    "Device": "M03-SCREW-5MM",
+                    "Package": "SCREWTERMINAL-5MM-3",
+                    "Part": "J1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-08288",
+                    "Description": "Header 3",
+                    "Device": "M03SCREW",
+                    "Package": "SCREWTERMINAL-3.5MM-3",
+                    "Part": "J2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NOYES_SILK",
+                    "Package": "PAD-JUMPER-2-NO_YES_SILK",
+                    "Part": "JP1",
+                    "Value": "JUMPER-PAD-2-NOYES_SILK"
+                },
+                {
+                    "BOM": "COMP-10736",
+                    "Description": "SPDT relay (COM-00101)",
+                    "Device": "RELAYPTH5",
+                    "Package": "RELAY-T90",
+                    "Part": "K1",
+                    "Value": "JQX-15F"
+                },
+                {
+                    "BOM": "DIO-09529",
+                    "Description": "LEDs",
+                    "Device": "LED5MM-KIT",
+                    "Package": "LED5MM-KIT",
+                    "Part": "LED1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name and flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_NAME_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "TRANS-08447",
+                    "Description": "Generic NPN BJT",
+                    "Device": "TRANSISTOR_NPN2N3904-EZ",
+                    "Package": "TO-92-EZ",
+                    "Part": "Q1",
+                    "Value": "2N3904"
+                },
+                {
+                    "BOM": "RES-12182",
+                    "Description": "RES-12182",
+                    "Device": "1KOHM-1/4W-1%(PTH)HORIZ-KIT",
+                    "Package": "AXIAL-0.3EZ",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "RES-12182",
+                    "Description": "RES-12182",
+                    "Device": "1KOHM-1/4W-1%(PTH)HORIZ-KIT",
+                    "Package": "AXIAL-0.3EZ",
+                    "Part": "R2",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$4",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$5",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$7",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$12",
+                    "Value": "OSHW-LOGOS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

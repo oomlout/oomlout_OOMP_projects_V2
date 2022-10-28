@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Analog_MEMS_Microphone_Breakout_ICS40180.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/18011/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,22 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF47D-V10",
+            "C2": "CAPC-0603-X-UNMATCHED-01",
+            "C3": "CAPC-0603-X-PF27-V50",
+            "C4": "CAPC-0603-X-NF100-V50",
+            "JP1": "HEAD-I01-X-PI03-01",
+            "R1": "RESE-0603-X-O103-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0603-X-O472-01",
+            "R4": "RESE-0603-X-O3003-01",
+            "U1": "UNMATCHED-SO235-X-UNMATCHED-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +141,157 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "4.7\u00b5F ceramic capacitors",
+                    "Device": "4.7UF-0603-6.3V-(10%)",
+                    "Package": "0603",
+                    "Part": "C1",
+                    "Value": "4.7uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "1\u00b5F ceramic capacitors",
+                    "Device": "1.0UF-0603-16V-10%",
+                    "Package": "0603",
+                    "Part": "C2",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "27pF ceramic capacitors",
+                    "Device": "27PF-0603-50V-5%",
+                    "Package": "0603",
+                    "Part": "C3",
+                    "Value": "27pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0603-25V-(+80/-20%)",
+                    "Package": "0603",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME2",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_031X03_NO_SILK",
+                    "Package": "1X03_NO_SILK",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open-Source Hardware (OSHW) Logo",
+                    "Device": "OSHW-LOGOMINI",
+                    "Package": "OSHW-LOGO-MINI",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOMINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R1",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R2",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R3",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "300k\u03a9 resistor",
+                    "Device": "300KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R4",
+                    "Value": "300k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Single gate rail-to-rail output op-amp. Inputs extend 300mV past rails.",
+                    "Device": "OPA344",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "OPA344"
+                },
+                {
+                    "BOM": "",
+                    "Description": "ICS-40180 - RF-Hardened, Low-Noise MEMs Microphone with Bottom Port and Analog Output",
+                    "Device": "ICS40180",
+                    "Package": "ICS40180",
+                    "Part": "U2",
+                    "Value": "ICS40180"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

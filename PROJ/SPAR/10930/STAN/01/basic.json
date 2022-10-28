@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Clock-v16.brd"
@@ -35,6 +38,26 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPX-UNMATCHED-X-NF100-01",
+            "C2": "CAPX-UNMATCHED-X-NF100-01",
+            "C5": "CAPX-UNMATCHED-X-UF10-01",
+            "C6": "CAPX-UNMATCHED-X-NF100-01",
+            "J1": "DCJP-21D-X-STAN-01",
+            "JP2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-UNMATCHED-X-O103-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SG2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +65,173 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPCAP-PTH-SMALL-KIT",
+                    "Package": "CAP-PTH-SMALL-KIT",
+                    "Part": "C1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPCAP-PTH-SMALL-KIT",
+                    "Package": "CAP-PTH-SMALL-KIT",
+                    "Part": "C2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor Polarized",
+                    "Device": "CAP_POLCPOL-RADIAL-10UF-25V-KIT",
+                    "Package": "CPOL-RADIAL-10UF-25V-KIT",
+                    "Part": "C5",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPCAP-PTH-SMALL-KIT",
+                    "Package": "CAP-PTH-SMALL-KIT",
+                    "Part": "C6",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Power Jack",
+                    "Device": "POWER_JACKKIT",
+                    "Package": "POWER-BARRELJACK-PTH-LOCK-KIT",
+                    "Part": "J1",
+                    "Value": "POWER_JACKKIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "AVR ISP 6 Pin",
+                    "Device": "AVR_SPI_PRG_6PTH",
+                    "Package": "2X3",
+                    "Part": "JP2",
+                    "Value": "AVR_SPI_PRG_6PTH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.",
+                    "Device": "7-SEGMENT-4DIGIT-YOUNGSUNKIT",
+                    "Package": "7-SEGMENT-4DIGIT-YOUNGSUN-KIT",
+                    "Part": "LED1",
+                    "Value": "7-SEGMENT-4DIGIT-YOUNGSUNKIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Crystals",
+                    "Device": "CRYSTALHC49US-KIT",
+                    "Package": "HC49US-KIT",
+                    "Part": "Q1",
+                    "Value": "16MHz"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTORAXIAL-0.3-KIT",
+                    "Package": "AXIAL-0.3-KIT",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT",
+                    "Package": "TACTILE-PTH-KIT",
+                    "Part": "S1",
+                    "Value": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT",
+                    "Package": "TACTILE-PTH-KIT",
+                    "Part": "S2",
+                    "Value": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPST Switch",
+                    "Device": "SWITCH-SPSTKIT",
+                    "Package": "SWITCH-SPDT_KIT",
+                    "Part": "S3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT",
+                    "Package": "TACTILE-PTH-KIT",
+                    "Part": "S4",
+                    "Value": "SWITCH-MOMENTARY-2TACTILE-PTH-KIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buzzer 12mm",
+                    "Device": "BUZZERKIT",
+                    "Package": "BUZZER-12MM-KIT",
+                    "Part": "SG2",
+                    "Value": "BUZZERKIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "U$1",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CREATIVE_COMMONS",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "U$2",
+                    "Value": "CREATIVE_COMMONS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "U$3",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$8",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$9",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MICROCONTROLLER",
+                    "Device": "AVR-MEGA8-PKIT",
+                    "Package": "DIL28-3-KIT",
+                    "Part": "U1",
+                    "Value": "AVR-MEGA8-PKIT"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

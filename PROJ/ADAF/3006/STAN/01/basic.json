@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit MAX98357 Breakout.brd"
@@ -35,6 +38,21 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-NF100-V50",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "C4": "CAPC-0805-X-PF220-01",
+            "C5": "CAPC-0805-X-PF220-01",
+            "FB1": "FERB-0805-X-UNMATCHED-01",
+            "FB2": "FERB-0805-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI07-01",
+            "R1": "RESE-0805-X-O105-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X1": "TERS-35D-L-PI02-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +60,125 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "220pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C5",
+                    "Value": "220pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ferrite Bead",
+                    "Device": "FERRITE-0805NO",
+                    "Package": "0805-NO",
+                    "Part": "FB1",
+                    "Value": "Ferrite"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ferrite Bead",
+                    "Device": "FERRITE-0805NO",
+                    "Package": "0805-NO",
+                    "Part": "FB2",
+                    "Value": "Ferrite"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X7THICKER",
+                    "Package": "1X07_ROUND_76",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "1M"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$10",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MAX98357 - 3.2W I2S Mono Audio Amp",
+                    "Device": "AUDIOAMP_MAX98357",
+                    "Package": "QFN16_3MM",
+                    "Part": "U1",
+                    "Value": "MAX98357A"
+                },
+                {
+                    "BOM": "",
+                    "Description": "3.5mm Terminal block",
+                    "Device": "TERMBLOCK_1X2",
+                    "Package": "TERMBLOCK_1X2-3.5MM",
+                    "Part": "X1",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

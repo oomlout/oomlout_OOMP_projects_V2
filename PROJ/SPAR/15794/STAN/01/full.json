@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Qwiic Pi SHIM.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/15794/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UNMATCHED-01",
+            "C3": "CAPC-0603-X-UNMATCHED-01",
+            "J1": "HEAD-UNMATCHED-X-PI04-01",
+            "J9": "HEAD-I01-X-UNMATCHED-01",
+            "U$4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "VREG-SO235-X-KAP2112K-V33D"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +136,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "1\u00b5F ceramic capacitors",
+                    "Device": "1.0UF-0603-16V-10%",
+                    "Package": "0603",
+                    "Part": "C1",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "1\u00b5F ceramic capacitors",
+                    "Device": "1.0UF-0603-16V-10%",
+                    "Package": "0603",
+                    "Part": "C3",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "CONN-13694",
+                    "Description": "SparkFun I2C Standard Pinout Header",
+                    "Device": "I2C_STANDARDQWIIC",
+                    "Package": "1X04_1MM_RA",
+                    "Part": "J1",
+                    "Value": "Qwiic Right Angle"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "SPARKFUN-CONNECTORS_CONN_03X2SINGLE_SLOT-4MILS",
+                    "Package": "SPARKFUN-CONNECTORS_2X3-NS_PISHIM_LOCKING_SLOTS-4MILS",
+                    "Part": "J9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOMINI",
+                    "Package": "OSHW-LOGO-MINI",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOMINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "U$1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Special Ordering/Production Instructions Alert",
+                    "Device": "SPECIAL_INSTRUCTIONS-ORDERING",
+                    "Package": "ORDERING_INSTRUCTIONS",
+                    "Part": "U$4",
+                    "Value": "SPECIAL_INSTRUCTIONS-ORDERING"
+                },
+                {
+                    "BOM": "VREG-12457",
+                    "Description": "AP2112 - 600mA CMOS LDO Regulator w/ Enable",
+                    "Device": "V_REG_AP2112K-3.3V",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "3.3V/600mA"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/tfttouchshield.brd"
@@ -30,14 +33,65 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +100,32 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "C2": "CAPC-0805-X-NF100-V50",
+            "C3": "CAPC-0805-X-NF100-V50",
+            "C4": "CAPC-0805-X-NF100-V50",
+            "C5": "CAPC-0805-X-UF10-V25",
+            "CN2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC4": "VREG-SO235-X-KLP298XS-V33D",
+            "IC5": "UNMATCHED-SO23-X-UNMATCHED-01",
+            "PIN3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
+            "R1": "RESE-0805-X-O220-01",
+            "R2": "RESE-0805-X-O220-01",
+            "R3": "RESE-0805-X-O220-01",
+            "R4": "RESE-0805-X-O220-01",
+            "R5": "RESE-0805-X-O102-01",
+            "RD": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "VCC": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +133,197 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C5",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "2.8 ILI9325-based TFT LCD w/Integrated Touch Screen",
+                    "Device": "ILI9325_LCD1.0MM",
+                    "Package": "ILI9325_28INCH_TS",
+                    "Part": "CN2",
+                    "Value": "ILI9325_28TFT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Octal BUS TRANSCEIVER, 3-state",
+                    "Device": "74ACT245DW",
+                    "Package": "SO20W",
+                    "Part": "IC1",
+                    "Value": "74ACT245DW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Octal BUS TRANSCEIVER, 3-state",
+                    "Device": "74ACT245DW",
+                    "Package": "SO20W",
+                    "Part": "IC3",
+                    "Value": "74ACT245DW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LP298XS",
+                    "Package": "SOT23-5L",
+                    "Part": "IC4",
+                    "Value": "ADP122"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "AXP083-SAG",
+                    "Package": "SOT23",
+                    "Part": "IC5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD solder JUMPER",
+                    "Device": "SJ",
+                    "Package": "SJ",
+                    "Part": "PIN3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "NPN Transistror",
+                    "Device": "MMBT2222ALT1-NPN-SOT23-BEC",
+                    "Package": "SOT23-BEC",
+                    "Part": "Q1",
+                    "Value": "2222"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R1",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R2",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R3",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R4",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R5",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD solder JUMPER",
+                    "Device": "SJ",
+                    "Package": "SJ",
+                    "Part": "RD",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Arduino Diecimila/Duemilanove",
+                    "Device": "ARDUINO-NOHOLE",
+                    "Package": "ARDUINO-NOHOLE",
+                    "Part": "U$2",
+                    "Value": "ARDUINO-NOHOLE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Micro-SD / Transflash card holder with SPI pinout",
+                    "Device": "MICROSD",
+                    "Package": "MICROSD",
+                    "Part": "U$3",
+                    "Value": "MICROSD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$10",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$11",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD solder JUMPER",
+                    "Device": "SJ",
+                    "Package": "SJ",
+                    "Part": "VCC",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

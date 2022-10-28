@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit TXB0108.brd"
@@ -35,6 +38,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-NF100-V50",
+            "C2": "CAPC-0805-X-NF100-V50",
+            "JP1": "HEAD-I01-X-PI10-01",
+            "JP2": "HEAD-I01-X-PI10-01",
+            "R1": "RESE-0805-X-O103-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +56,69 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805",
+                    "Package": "C0805",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805",
+                    "Package": "C0805",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X10THICKER",
+                    "Package": "1X10_ROUND_76",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X10THICKER",
+                    "Package": "1X10_ROUND_76",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$6",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "8-Bit Bi-Directional Level Shifter",
+                    "Device": "TXB0108PWR",
+                    "Package": "TSSOP20",
+                    "Part": "U1",
+                    "Value": "TXB0108PWR"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

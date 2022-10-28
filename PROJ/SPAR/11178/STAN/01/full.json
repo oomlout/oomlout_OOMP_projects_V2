@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/BigTime.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/11178/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPX-UNMATCHED-X-NF100-01",
+            "C2": "CAPX-UNMATCHED-X-NF100-01",
+            "JP1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "R1": "RESE-UNMATCHED-X-O1003-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Y1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +139,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERYFOB",
+                    "Package": "BATTERY_20MM_PTH_COMPACT",
+                    "Part": "BAT",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPEZ",
+                    "Package": "CAP-PTH-SMALLEZ",
+                    "Part": "C1",
+                    "Value": "100nF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPEZ",
+                    "Package": "CAP-PTH-SMALLEZ",
+                    "Part": "C2",
+                    "Value": "100nF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "FTDI Basic: 3.3V and 5V",
+                    "Device": "FTDI_BASICPTH",
+                    "Package": "FTDI_BASIC",
+                    "Part": "JP1",
+                    "Value": "FTDI_BASICPTH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "This is a part for the 4-Digit 7-segment LEDs from Young Sun.  Different from the Digikey LEDs, all 16 pins are used.",
+                    "Device": "7-SEGMENT-4DIGIT-YOUNGSUNKIT",
+                    "Package": "7-SEGMENT-4DIGIT-YOUNGSUN-KIT",
+                    "Part": "LED1",
+                    "Value": "7-SEGMENT-4DIGIT-YOUNGSUNKIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTORKIT",
+                    "Package": "AXIAL-0.3-KIT",
+                    "Part": "R1",
+                    "Value": "100k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Various NO switches- pushbuttons, reed, etc",
+                    "Device": "SWITCH-MOMENTARY-2SIDE_EZ",
+                    "Package": "TACTILE-PTH-SIDEEZ",
+                    "Part": "S1",
+                    "Value": "BUTTON"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "U$1",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CREATIVE_COMMONS",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "U$2",
+                    "Value": "CREATIVE_COMMONS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$4",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENW2",
+                    "Package": "SFE-NEW-WEB",
+                    "Part": "U$5",
+                    "Value": "LOGO-SFENW2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "uC used in the Arduino",
+                    "Device": "ATMEGA328P_PDIP_EZ",
+                    "Package": "DIL28-EZ",
+                    "Part": "U1",
+                    "Value": "ATMEGA328P_PDIP_EZ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534",
+                    "Device": "CRYSTALTC26H_EZ",
+                    "Package": "TC26HEZ",
+                    "Part": "Y1",
+                    "Value": "32.768kHz"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

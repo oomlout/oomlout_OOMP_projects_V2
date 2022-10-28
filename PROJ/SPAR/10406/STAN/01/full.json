@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/RFID_Eval_13.56MHz.brd"
@@ -30,14 +33,65 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +100,35 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0402-X-NF100-V10",
+            "C2": "CAPC-0402-X-PF22-V50",
+            "C3": "CAPC-0402-X-PF27-V50",
+            "C4": "CAPC-0402-X-PF27-V50",
+            "C5": "CAPC-0402-X-PF18-V50",
+            "C6": "CAPC-0402-X-PF18-V50",
+            "C7": "CAPC-0402-X-PF22-V50",
+            "C8": "CAPC-0402-X-NF100-V10",
+            "JP1": "HEAD-I01-X-PI06-01",
+            "JP6": "HEAD-I01-X-PI05-01",
+            "LED1": "LEDS-0603-Y-STAN-01",
+            "LED2": "LEDS-0603-G-STAN-01",
+            "LED3": "LEDS-0603-R-STAN-01",
+            "R1": "RESE-0402-X-O103-01",
+            "R3": "RESE-0402-X-O331-01",
+            "R4": "RESE-0402-X-O331-01",
+            "R5": "RESE-0402-X-O472-01",
+            "R6": "RESE-0402-X-O472-01",
+            "R7": "RESE-0402-X-O331-01",
+            "R8": "RESE-0402-X-UNMATCHED-01",
+            "R9": "RESE-0402-X-UNMATCHED-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +136,325 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C2",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C3",
+                    "Value": "27pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C4",
+                    "Value": "27pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C5",
+                    "Value": "18pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C6",
+                    "Value": "18pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C7",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C8",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP1",
+                    "Value": "XBee Regulated"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP2",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "JP4",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP5",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05PTH",
+                    "Package": "1X05",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP7",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP8",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP10",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP11",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP12",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP13",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED1",
+                    "Value": "yellow"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED2",
+                    "Value": "green"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED3",
+                    "Value": "red"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R1",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R3",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R4",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R5",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R6",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R7",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R8",
+                    "Value": "0 Ohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R9",
+                    "Value": "0 Ohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SWITCH-MOMENTARY-2SMD",
+                    "Package": "TACTILE_SWITCH_SMD",
+                    "Part": "S1",
+                    "Value": "Reset"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SWITCH-MOMENTARY-2SMD",
+                    "Package": "TACTILE_SWITCH_SMD",
+                    "Part": "S2",
+                    "Value": "Reset"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYPASTE2&3",
+                    "Package": "SJ_3_PASTE2&3",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYPASTE2&3",
+                    "Package": "SJ_3_PASTE2&3",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYPASTE2&3",
+                    "Package": "SJ_3_PASTE2&3",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYPASTE2&3",
+                    "Package": "SJ_3_PASTE2&3",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "13.56MHz RFID Mifare Read/Write Module",
+                    "Device": "SM130",
+                    "Package": "SM130",
+                    "Part": "U1",
+                    "Value": "DNP_SM130"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ARDUINO_SHIELDNOLABELS",
+                    "Package": "DUEMILANOVE_SHIELD_NOLABELS",
+                    "Part": "U3",
+                    "Value": "ARDUINO_SHIELDNOLABELS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

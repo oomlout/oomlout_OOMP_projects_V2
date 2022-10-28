@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Qwiic_KX13X.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/17871/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C4": "CAPC-0603-X-NF100-V50",
+            "D1": "LEDS-0603-R-STAN-01",
+            "J1": "HEAD-I01-X-PI03-01",
+            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J5": "HEAD-I01-X-PI06-01",
+            "R1": "RESE-0603-X-O472-01",
+            "R2": "RESE-0603-X-O472-01",
+            "R3": "RESE-0603-X-O102-01",
+            "R4": "RESE-0603-X-O472-01",
+            "R7": "RESE-0603-X-O472-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +143,253 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper (1 of 2 connections)",
+                    "Device": "JUMPER-SMT_3_1-NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_3_1-NC_TRACE_SILK",
+                    "Part": "ADR",
+                    "Value": "JUMPER-SMT_3_1-NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0603-25V-(+80/-20%)",
+                    "Package": "0603",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0603-25V-(+80/-20%)",
+                    "Package": "0603",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Red SMD LED",
+                    "Device": "LED-RED0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper (2 of 2 connections)",
+                    "Device": "JUMPER-SMT_3_2-NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_3_2-NC_TRACE_SILK",
+                    "Part": "I2C",
+                    "Value": "JUMPER-SMT_3_2-NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_031X03_NO_SILK",
+                    "Package": "1X03_NO_SILK",
+                    "Part": "J1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun I2C Standard Qwiic Connector",
+                    "Device": "QWIIC_CONNECTORJS-1MM",
+                    "Package": "JST04_1MM_RA",
+                    "Part": "J2",
+                    "Value": "QWIIC"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun I2C Standard Qwiic Connector",
+                    "Device": "QWIIC_CONNECTORJS-1MM",
+                    "Package": "JST04_1MM_RA",
+                    "Part": "J4",
+                    "Value": "QWIIC"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_06NO_SILK_NO_POP",
+                    "Package": "1X06_NO_SILK",
+                    "Part": "J5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP4",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP5",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP6",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP7",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "JP8",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO2",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.",
+                    "Device": "QWIIC_LOGO_4MM",
+                    "Package": "QWIIC_4MM",
+                    "Part": "LOGO3",
+                    "Value": "QWIIC_LOGO_4MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open-Source Hardware (OSHW) Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO5",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper",
+                    "Device": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "Part": "PWR",
+                    "Value": "JUMPER-SMT_2_NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R1",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R2",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "1k\u03a9 resistor",
+                    "Device": "1KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R3",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R4",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "4.7k\u03a9 resistor",
+                    "Device": "4.7KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R7",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper",
+                    "Device": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "Part": "TRIG",
+                    "Value": "JUMPER-SMT_2_NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Kionix KX134 Tri-Axis Accelerometer",
+                    "Device": "KX13X-KX134",
+                    "Package": "KX13X",
+                    "Part": "U1",
+                    "Value": "KX134"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/adafruit flora neopixel.brd"
@@ -35,6 +38,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF1-V25",
+            "IC2": "UNMATCHED-UNMATCHED-X-K2811-01",
+            "LED2": "LEDS-5050-RGB-STAN-01",
+            "R1": "RESE-0805-X-O102-01",
+            "R2": "RESE-0805-X-O220-01",
+            "R3": "RESE-0805-X-O220-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +56,93 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C1",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "DATA_INPUT",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "DATA_OUTPUT",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "GND",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2811-SOP8",
+                    "Package": "SO08-SKINNYPADS",
+                    "Part": "IC2",
+                    "Value": "WS2811-SOP8"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!",
+                    "Device": "RGBLED5050",
+                    "Package": "RGBLED5050",
+                    "Part": "LED2",
+                    "Value": "RGBLED5050"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R1",
+                    "Value": "1.0K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R2",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R3",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "VDD",
+                    "Value": "SEWTAP0.5IN"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

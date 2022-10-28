@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/FT232R-Breakout.brd"
@@ -35,6 +38,25 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "C5": "CAPT-3216-X-UF10-V10",
+            "F1": "REFU-1206-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI09-01",
+            "JP2": "HEAD-I01-X-PI09-01",
+            "JP3": "HEAD-I01-X-PI04-01",
+            "JP7": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-0603-R-STAN-01",
+            "LED2": "LEDS-0603-G-STAN-01",
+            "R1": "RESE-0603-X-O331-01",
+            "R2": "RESE-0603-X-O331-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +64,173 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00811",
+                    "Description": "CAP-00811",
+                    "Device": "10UF-16V-10%(TANT)",
+                    "Package": "EIA3216",
+                    "Part": "C5",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resettable Fuse PTC",
+                    "Device": "PTCSMD",
+                    "Package": "PTC-1206",
+                    "Part": "F1",
+                    "Value": "500mA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 9",
+                    "Device": "M09",
+                    "Package": "1X09",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 9",
+                    "Device": "M09",
+                    "Package": "1X09",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04PTH",
+                    "Package": "1X04",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP5",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP6",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "CONN-11752",
+                    "Description": "USB Micro-B Plug",
+                    "Device": "USB_MICROB_PLUGCONN-11752",
+                    "Package": "USB-B-MICRO-SMD_V03",
+                    "Part": "JP7",
+                    "Value": "USB_MICROB_PLUGCONN-11752"
+                },
+                {
+                    "BOM": "DIO-00819",
+                    "Description": "Assorted Red LEDs",
+                    "Device": "LED-RED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED1",
+                    "Value": "Red"
+                },
+                {
+                    "BOM": "DIO-00821",
+                    "Description": "Various green LEDs",
+                    "Device": "LED-GREEN0603",
+                    "Package": "LED-0603",
+                    "Part": "LED2",
+                    "Value": "Green"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "SWCH-08179",
+                    "Description": "SPDT Switch",
+                    "Device": "SWITCH-SPDTSMD",
+                    "Package": "AYZ0202",
+                    "Part": "S1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "REVISION",
+                    "Package": "REVISION",
+                    "Part": "U$1",
+                    "Value": "REVISION"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "U$2",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB UART",
+                    "Device": "FT232RLSSOP",
+                    "Package": "SSOP28DB",
+                    "Part": "U1",
+                    "Value": "FT232R"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

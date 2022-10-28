@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/MIDI_Breakout.brd"
@@ -30,14 +33,68 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +103,32 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
+            "JP10": "HEAD-I01-X-PI06-01",
+            "JP4": "HEAD-I01-X-PI06-01",
+            "JP5": "HEAD-I01-X-PI06-01",
+            "JP6": "HEAD-I01-X-PI06-01",
+            "JP7": "HEAD-I01-X-PI06-01",
+            "JP8": "HEAD-I01-X-PI06-01",
+            "JP9": "HEAD-I01-X-PI06-01",
+            "R1": "RESE-0402-X-O221-01",
+            "R2": "RESE-0402-X-O221-01",
+            "R3": "RESE-0402-X-O221-01",
+            "R4": "RESE-0402-X-O221-01",
+            "R5": "RESE-0402-X-O221-01",
+            "R6": "RESE-0402-X-O221-01",
+            "S3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$6": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +136,213 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESMA",
+                    "Package": "SMA-DIODE",
+                    "Part": "D1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP1",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP2",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP3",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP10",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP11",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R1",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R2",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R3",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R4",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R5",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R6",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Momentary Switch",
+                    "Device": "TAC_SWITCHSMD",
+                    "Package": "TACTILE_SWITCH_SMD",
+                    "Part": "S3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPST Switch",
+                    "Device": "SWITCH-SPSTSMD",
+                    "Package": "AYZ0202",
+                    "Part": "S5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ARDUINO_VIAS_ONLY",
+                    "Package": "DUEMILANOVE_VIAS",
+                    "Part": "U$1",
+                    "Value": "ARDUINO_VIAS_ONLY"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MIDI_CONN_FEMALE_SUPPORT",
+                    "Package": "DIN_5_FEMALE_SUPPORT",
+                    "Part": "U$2",
+                    "Value": "MIDI_CONN_FEMALE_SUPPORT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MIDI_CONN_FEMALE_SUPPORT",
+                    "Package": "DIN_5_FEMALE_SUPPORT",
+                    "Part": "U$3",
+                    "Value": "MIDI_CONN_FEMALE_SUPPORT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MIDI_CONN_FEMALE_SUPPORT",
+                    "Package": "DIN_5_FEMALE_SUPPORT",
+                    "Part": "U$5",
+                    "Value": "MIDI_CONN_FEMALE_SUPPORT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "OPTO_DARL_6N138S",
+                    "Package": "8-SMD",
+                    "Part": "U$6",
+                    "Value": "OPTO_DARL_6N138S"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

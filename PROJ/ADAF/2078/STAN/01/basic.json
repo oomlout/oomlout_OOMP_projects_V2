@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit PowerBoost Shield.brd"
@@ -35,6 +38,43 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "ANALOG": "HEAD-I01-X-PI06-01",
+            "BATT_IN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C4": "CAPC-0805-X-UNMATCHED-01",
+            "C6": "CAPC-0805-X-UF10-V25",
+            "C7": "CAPC-0805-X-UF22D-V25",
+            "C8": "CAPC-0805-X-NF100-V50",
+            "C9": "CAPX-3528-X-UNMATCHED-01",
+            "D1": "DIOD-S123-X-KMBR120-01",
+            "F1": "UNMATCHED-1206-X-UNMATCHED-01",
+            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-0805-Y-STAN-01",
+            "LED2": "LEDS-0805-G-STAN-01",
+            "LED3": "LEDS-0805-L-STAN-01",
+            "LED4": "LEDS-0805-R-STAN-01",
+            "R1": "RESE-0805-X-O471-01",
+            "R10": "RESE-0805-X-O2003-01",
+            "R11": "RESE-0805-X-O3403-01",
+            "R14": "RESE-0805-X-UNMATCHED-01",
+            "R2": "RESE-0805-X-O202-01",
+            "R20": "RESE-0805-X-O102-01",
+            "R23": "RESE-0805-X-O3403-01",
+            "R3": "RESE-0805-X-O102-01",
+            "R4": "RESE-0805-X-O202-01",
+            "R5": "RESE-0805-X-O102-01",
+            "R9": "RESE-0805-X-UNMATCHED-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW1": "BUTA-UNMATCHED-X-STAN-01",
+            "T1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-SO235-X-UNMATCHED-01",
+            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +82,333 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X6",
+                    "Package": "1X06",
+                    "Part": "ANALOG",
+                    "Value": "ANALOG"
+                },
+                {
+                    "BOM": "",
+                    "Description": "JST 2-Pin Connectors of various flavors",
+                    "Device": "JST_2PIN-SMT",
+                    "Package": "JST-PH-2-SMT",
+                    "Part": "BATT_IN",
+                    "Value": "JST-PH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "10\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C7",
+                    "Value": "2.2uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Tantalum Capacitors",
+                    "Device": "CAP_TANTALUMB/3528_REFLOW",
+                    "Package": "EIA3528-21/B-R",
+                    "Part": "C9",
+                    "Value": "100uF/6V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "DIODE-SCHOTTKYSOD-123",
+                    "Package": "SOD-123",
+                    "Part": "D1",
+                    "Value": "MBR120"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PTC fuses, resettable thermistors",
+                    "Device": "PTCFUSE-1206",
+                    "Package": "R1206",
+                    "Part": "F1",
+                    "Value": "500mA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Inductors",
+                    "Device": "INDUCTORTDK_VLC5045",
+                    "Package": "INDUCTOR_5X5MM_TDK_VLC5045",
+                    "Part": "L1",
+                    "Value": "VLC5045-6.8uH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED1",
+                    "Value": "YELLOW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED2",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED3",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED4",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R4",
+                    "Value": "2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R5",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R9",
+                    "Value": "1.87Mohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R10",
+                    "Value": "200K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R11",
+                    "Value": "340K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R14",
+                    "Value": "1.87Mohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R20",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R23",
+                    "Value": "340K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "OS10201MA1Q through-hole right angle switch",
+                    "Device": "OS102011MA1Q",
+                    "Package": "OS102011MA1Q",
+                    "Part": "S1",
+                    "Value": "OS102011MA1Q"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT 6mm switch, EVQQ2 series",
+                    "Device": "SPST_TACT-KMR2",
+                    "Package": "KMR2",
+                    "Part": "SW1",
+                    "Value": "SPST_TACT-KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PNP Bias Resistor Transistor",
+                    "Device": "MUN2114T1-PNP_DRIVER-SC59-BEC",
+                    "Package": "SC59-BEC",
+                    "Part": "T1",
+                    "Value": "MMUN2133LT1G"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$4",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5",
+                    "Device": "ARDUINOR3-NOSILK",
+                    "Package": "ARDUINOR3-NOSILK",
+                    "Part": "U2",
+                    "Value": "ARDUINOR3-NOSILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MCP73831/2 LIPO Charger",
+                    "Device": "MCP73831/2",
+                    "Package": "SOT23-5",
+                    "Part": "U3",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "TPS6103x 4A Boost - 1.8-5.5V Input, Adjustable Output to 5.5V",
+                    "Device": "VREG_TPS6103X",
+                    "Package": "PVQFN-16",
+                    "Part": "U4",
+                    "Value": "TPS61030RSAR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB Connectors",
+                    "Device": "USBMICRO_20329",
+                    "Package": "4UCONN_20329",
+                    "Part": "X1",
+                    "Value": "MicroUSB"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

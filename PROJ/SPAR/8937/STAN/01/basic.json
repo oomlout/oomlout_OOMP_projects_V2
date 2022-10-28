@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LilyPad_XBee.brd"
@@ -35,6 +38,23 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C2": "CAPX-3528-X-UF47-01",
+            "C3": "CAPC-0603-X-UNMATCHED-01",
+            "C4": "CAPC-0603-X-UNMATCHED-01",
+            "D1": "LEDS-0603-G-STAN-01",
+            "D2": "LEDS-0603-G-STAN-01",
+            "JP1": "HEAD-I01-X-PI06-01",
+            "R1": "RESE-0603-X-O331-01",
+            "R2": "RESE-0603-X-O331-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "UNMATCHED-SO235-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +62,341 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor Polarized",
+                    "Device": "CAP_POL3528",
+                    "Package": "EIA3528",
+                    "Part": "C2",
+                    "Value": "47uF"
+                },
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "CAP-00868",
+                    "Device": "1.0UF-16V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C3",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "CAP-00868",
+                    "Device": "1.0UF-16V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C4",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "DIO-00821",
+                    "Description": "Various green LEDs",
+                    "Device": "LED-GREEN0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "Status"
+                },
+                {
+                    "BOM": "DIO-00819",
+                    "Description": "Assorted Red LEDs",
+                    "Device": "LED-RED0603",
+                    "Package": "LED-0603",
+                    "Part": "D2",
+                    "Value": "Status"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "GND",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ARDUINO_SERIAL_PROGRAMPTH",
+                    "Package": "1X06",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.1COP",
+                    "Package": "SFE_LOGO_FLAME_COPPER_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1COP"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "SWCH-08247",
+                    "Description": "Momentary Switch",
+                    "Device": "TAC_SWITCHSMD",
+                    "Package": "TACTILE_SWITCH_SMD",
+                    "Part": "S1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERNC2",
+                    "Package": "SJ_2S-NOTRACE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERNC2",
+                    "Package": "SJ_2S-NOTRACE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LOGO-LPLP",
+                    "Package": "LOGO-LILYPAD",
+                    "Part": "U$1",
+                    "Value": "LOGO-LPLP"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$4",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$30",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$31",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$32",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$33",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$34",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$35",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$36",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$37",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$38",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$39",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$40",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$41",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$42",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$43",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$44",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$45",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$46",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$47",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$48",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP9",
+                    "Package": "PETAL-LONG-1-2SIDE",
+                    "Part": "U$51",
+                    "Value": "SEWTAP9"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "XBEE-1B3",
+                    "Package": "XBEE-SMD",
+                    "Part": "U1",
+                    "Value": "XBEE-1B3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Voltage Regulator LDO",
+                    "Device": "V_REG_LDOSMD",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "V_REG_LDOSMD"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

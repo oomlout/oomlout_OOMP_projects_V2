@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Tiny_Programmer.brd"
@@ -35,6 +38,32 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0402-X-NF100-V10",
+            "C2": "CAPC-0402-X-PF18-V50",
+            "C3": "CAPC-0402-X-UF10-V63D",
+            "C4": "CAPC-0402-X-PF18-V50",
+            "D1": "DIOD-S323-X-UNMATCHED-01",
+            "D2": "DIOD-S323-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI04-01",
+            "JP12": "HEAD-I01-X-PI06-01",
+            "JP2": "HEAD-I01-X-PI04-01",
+            "JP3": "HEAD-I01-X-PI04-01",
+            "JP4": "HEAD-I01-X-PI04-01",
+            "JP9": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-0603-Y-STAN-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0402-X-O680-01",
+            "R2": "RESE-0402-X-O680-01",
+            "R3": "RESE-0402-X-UNMATCHED-01",
+            "R4": "RESE-0402-X-O103-01",
+            "R5": "RESE-0402-X-O331-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +71,261 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C2",
+                    "Value": "18pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C3",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0402-CAP",
+                    "Package": "0402-CAP",
+                    "Part": "C4",
+                    "Value": "18pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Zener Diode",
+                    "Device": "DIODE-ZENER-BZT52",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "3.3V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Zener Diode",
+                    "Device": "DIODE-ZENER-BZT52",
+                    "Package": "SOD-323",
+                    "Part": "D2",
+                    "Value": "3.3V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04PTH",
+                    "Package": "1X04",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04PTH",
+                    "Package": "1X04",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04SMD_STRAIGHT_COMBO",
+                    "Package": "1X04_SMD_STRAIGHT_COMBO",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04SMD_STRAIGHT_COMBO",
+                    "Package": "1X04_SMD_STRAIGHT_COMBO",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENW2",
+                    "Package": "SFE-NEW-WEB",
+                    "Part": "JP5",
+                    "Value": "LOGO-SFENW2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "JP6",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP7",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "JP8",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "AVR ISP 6 Pin",
+                    "Device": "AVR_SPI_PRG_6PTH",
+                    "Package": "2X3",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "JP11",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06SIP",
+                    "Package": "1X06",
+                    "Part": "JP12",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED1",
+                    "Value": "Yellow"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534",
+                    "Device": "CRYSTAL5X3",
+                    "Package": "CRYSTAL-SMD-5X3",
+                    "Part": "Q1",
+                    "Value": "16MHz"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R1",
+                    "Value": "68"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R2",
+                    "Value": "68"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R3",
+                    "Value": "1.5K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R4",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0402-RES",
+                    "Package": "0402-RES",
+                    "Part": "R5",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERNO",
+                    "Package": "SJ_2S-NO",
+                    "Part": "SJ1",
+                    "Value": "SOLDERJUMPERNO"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERNC",
+                    "Package": "SJ_2S",
+                    "Part": "SJ2",
+                    "Value": "NC"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP1",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "U$1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Atmel 14-pin 2/4/8kB flash uC",
+                    "Device": "ATTINY84",
+                    "Package": "SO14",
+                    "Part": "U1",
+                    "Value": "ATTINY84"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB Connectors",
+                    "Device": "USB-A-H",
+                    "Package": "USB-A-H",
+                    "Part": "X1",
+                    "Value": "USB-A-H"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

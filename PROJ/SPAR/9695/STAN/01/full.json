@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/MPR121-Breakout-v13.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9695/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,23 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-NF100-V50",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI01-01",
+            "JP2": "HEAD-I01-X-PI03-01",
+            "JP3": "HEAD-I01-X-PI12-01",
+            "JP4": "HEAD-I01-X-PI01-01",
+            "JP5": "HEAD-I01-X-PI01-01",
+            "R1": "RESE-0603-X-O753-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0603-X-O103-01",
+            "R4": "RESE-0603-X-O103-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +142,173 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0603-CAP",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0603-CAP",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MPR121 Capacitive Touch Sensor Controller. Variant V2 was created using an image import of the bottom of the IC. It matches metal to metal.",
+                    "Device": "MPR121V2",
+                    "Package": "QFN-20-0.4MM-V2",
+                    "Part": "IC1",
+                    "Value": "MPR121"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH",
+                    "Package": "1X01",
+                    "Part": "JP1",
+                    "Value": "ADDR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 3",
+                    "Device": "M03PTH",
+                    "Package": "1X03",
+                    "Part": "JP2",
+                    "Value": "I2C"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 12",
+                    "Device": "M12PTH",
+                    "Package": "1X12",
+                    "Part": "JP3",
+                    "Value": "Electrodes"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH",
+                    "Package": "1X01",
+                    "Part": "JP4",
+                    "Value": "3.3V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH",
+                    "Package": "1X01",
+                    "Part": "JP5",
+                    "Value": "GND"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP7",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP8",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP9",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0603-RES",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "75k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0603-RES",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0603-RES",
+                    "Package": "0603-RES",
+                    "Part": "R3",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTOR0603-RES",
+                    "Package": "0603-RES",
+                    "Part": "R4",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERTRACE",
+                    "Package": "SJ_2S-TRACE",
+                    "Part": "SJ1",
+                    "Value": "SOLDERJUMPERTRACE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERTRACE",
+                    "Package": "SJ_2S-TRACE",
+                    "Part": "SJ2",
+                    "Value": "SOLDERJUMPERTRACE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERTRACE",
+                    "Package": "SJ_2S-TRACE",
+                    "Part": "SJ3",
+                    "Value": "SOLDERJUMPERTRACE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPERTRACE",
+                    "Package": "SJ_2S-TRACE",
+                    "Part": "SJ4",
+                    "Value": "SOLDERJUMPERTRACE"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

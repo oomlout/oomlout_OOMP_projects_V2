@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Qwiic/SparkFun_6DoF_ISM330DHCX.brd"
@@ -35,6 +38,25 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C3": "CAPC-0402-X-NF100-V10",
+            "C4": "CAPC-0402-X-NF100-V10",
+            "D1": "LEDS-0402-R-STAN-01",
+            "I2C_PU": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J1": "HEAD-UNMATCHED-X-UNMATCHED-01",
+            "J3": "HEAD-UNMATCHED-X-PI01-01",
+            "J4": "HEAD-UNMATCHED-X-PI01-01",
+            "R1": "RESE-0402-X-O222-01",
+            "R2": "RESE-0402-X-O222-01",
+            "R3": "RESE-0402-X-O103-01",
+            "R4": "RESE-0402-X-O102-01",
+            "R5": "RESE-0402-X-O103-01",
+            "R6": "RESE-0402-X-O103-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +64,245 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper (1 of 2 connections)",
+                    "Device": "JUMPER-SMT_3_1-NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_3_1-NC_TRACE_SILK",
+                    "Part": "ADDR",
+                    "Value": "JUMPER-SMT_3_1-NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0402T-6.3V-10%-X7R",
+                    "Package": "0402-TIGHT",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "0.1\u00b5F ceramic capacitors",
+                    "Device": "0.1UF-0402T-6.3V-10%-X7R",
+                    "Package": "0402-TIGHT",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Red SMD LED",
+                    "Device": "LED-RED_0402",
+                    "Package": "LED-0402",
+                    "Part": "D1",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FID1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FID2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "Elias Santistevan",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper (2 of 2 connections)",
+                    "Device": "JUMPER-SMT_3_2-NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_3_2-NC_TRACE_SILK",
+                    "Part": "I2C_PU",
+                    "Value": "S_MODE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun I2C Standard Pinout Header",
+                    "Device": "I2C_STANDARDQWIIC",
+                    "Package": "JST04_1MM_RA",
+                    "Part": "J1",
+                    "Value": "Qwiic Right Angle"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_01_1MM",
+                    "Package": "1X01_1MM_NO_SILK",
+                    "Part": "J3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "Device": "CONN_01_1MM",
+                    "Package": "1X01_1MM_NO_SILK",
+                    "Part": "J4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally closed trace jumper",
+                    "Device": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "Package": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "Part": "LED",
+                    "Value": "JUMPER-SMT_2_NC_TRACE_SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.",
+                    "Device": "QWIIC_LOGO_3MM",
+                    "Package": "QWIIC_3MM",
+                    "Part": "LOGO1",
+                    "Value": "QWIIC_LOGO_3MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open-Source Hardware (OSHW) Logo",
+                    "Device": "OSHW-LOGOMINI",
+                    "Package": "OSHW-LOGO-MINI",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOMINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Font Logo w/ Flame",
+                    "Device": "SFE_LOGO_NAME_FLAMEBLANK",
+                    "Package": "BLANK",
+                    "Part": "LOGO3",
+                    "Value": "SFE_LOGO_NAME_FLAMEBLANK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "2.2k\u03a9 resistor",
+                    "Device": "2.2KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R1",
+                    "Value": "2.2k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "2.2k\u03a9 resistor",
+                    "Device": "2.2KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R2",
+                    "Value": "2.2k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R3",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "1k\u03a9 resistor",
+                    "Device": "1KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R4",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R5",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0402T-1/16W-1%",
+                    "Package": "0402-TIGHT",
+                    "Part": "R6",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFFTIGHT",
+                    "Package": "STAND-OFF-TIGHT",
+                    "Part": "STANDOFF1",
+                    "Value": "STAND-OFFTIGHT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP1",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP2",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP3",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Test Points",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP4",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "ISM330DHCX 6DoF",
+                    "Device": "ISM330DHCX",
+                    "Package": "LGA-14L",
+                    "Part": "U1",
+                    "Value": "ISM330DHCX"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

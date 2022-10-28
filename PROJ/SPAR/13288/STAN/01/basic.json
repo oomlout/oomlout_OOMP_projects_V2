@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Teensy_Adapter.brd"
@@ -35,6 +38,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPX-UNMATCHED-X-UF10-01",
+            "JP1": "HEAD-I01-X-PI02-01",
+            "JP10": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP11": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP2": "DCJP-21D-X-STAN-01",
+            "JP3": "HEAD-I01-X-UNMATCHED-01",
+            "JP4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP6": "HEAD-I01-X-PI02-01",
+            "JP7": "HEAD-I01-X-PI02-01",
+            "JP8": "HEAD-I01-X-PI04-01",
+            "JP9": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +63,157 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY12PTH",
+                    "Package": "BATTCON_12MM_PTH",
+                    "Part": "BAT1",
+                    "Value": "CoinCell"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAP-08440",
+                    "Device": "10UF-25V-20%(PTH)",
+                    "Package": "CPOL-RADIAL-10UF-25V",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Power Jack",
+                    "Device": "POWER_JACKPTH_LOCK",
+                    "Package": "POWER_JACK_PTH_LOCK",
+                    "Part": "JP2",
+                    "Value": "POWER_JACKPTH_LOCK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02JST-PTH-2",
+                    "Package": "JST-2-PTH",
+                    "Part": "JP3",
+                    "Value": "JST2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Normally open jumper",
+                    "Device": "JUMPER-SMT_2_NO_SILK",
+                    "Package": "SMT-JUMPER_2_NO_SILK",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M02PTH",
+                    "Package": "1X02",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 4",
+                    "Device": "M04PTH",
+                    "Package": "1X04",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "AVR ISP 6 Pin",
+                    "Device": "AVR_SPI_PRG_6PTH",
+                    "Package": "2X3",
+                    "Part": "JP9",
+                    "Value": "AVR_SPI_PRG_6PTH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Shield form compatible with the Arduino Uno R3.",
+                    "Device": "ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES",
+                    "Package": "UNO_R3_SHIELD_HOLES",
+                    "Part": "JP10",
+                    "Value": "ARDUINO_R3_SHIELDUNO_R3_SHIELD_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TEENSY-3.1SILK",
+                    "Package": "TEENSY-3.1",
+                    "Part": "JP11",
+                    "Value": "TEENSY-3.1SILK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name and flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_NAME_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOM",
+                    "Package": "OSHW-LOGO-M",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL",
+                    "Package": "PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ1",
+                    "Value": "JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL",
+                    "Package": "PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ2",
+                    "Value": "JUMPER-PAD-3-2OF3_NC_BY_TRACE_SMALL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Voltage Regulator",
+                    "Device": "V_REG_78XX-TO-220",
+                    "Package": "TO-220-ALT",
+                    "Part": "U1",
+                    "Value": "5V"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

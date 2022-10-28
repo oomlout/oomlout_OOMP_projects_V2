@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit TPS61023.brd"
@@ -35,6 +38,20 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF22-V63D",
+            "C2": "CAPC-0805-X-UF22-V63D",
+            "C3": "CAPC-0805-X-UF22-V63D",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI04-01",
+            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O1003-01",
+            "R2": "RESE-0603-X-O7323-01",
+            "R3": "RESE-0603-X-O1003-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +59,101 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "22uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "22uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "22uF"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TPS61023",
+                    "Package": "SOT563",
+                    "Part": "IC1",
+                    "Value": "TPS61023"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X4ROUND",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Inductors",
+                    "Device": "INDUCTORTDK_VLC5045",
+                    "Package": "INDUCTOR_5X5MM_TDK_VLC5045",
+                    "Part": "L1",
+                    "Value": "1uH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "732K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Mounting Hole",
+                    "Device": "MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

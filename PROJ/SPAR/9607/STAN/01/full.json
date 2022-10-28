@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/cellular shield-v12.brd"
@@ -30,14 +33,65 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +100,26 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C3": "CAPC-0603-X-NF100-V50",
+            "C5": "CAPX-7343-X-UF100-01",
+            "JP4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP5": "HEAD-I01-X-PI05-01",
+            "JP6": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-0603-R-STAN-01",
+            "R1": "RESE-0603-X-O223-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0603-X-O103-01",
+            "R6": "RESE-0603-X-O331-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +127,165 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAP0603-CAP",
+                    "Package": "0603-CAP",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor Polarized",
+                    "Device": "CAP_POL7343",
+                    "Package": "EIA7343",
+                    "Part": "C5",
+                    "Value": "100uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "JP1",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP2",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP3",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-31-2",
+                    "Package": "SJ_3_PASTE1&2",
+                    "Part": "JP4",
+                    "Value": "JUMPER-31-2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05PTH",
+                    "Package": "1X05",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-32-3",
+                    "Package": "SJ_3_PASTE2&3",
+                    "Part": "JP6",
+                    "Value": "JUMPER-32-3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LEDs",
+                    "Device": "LED0603",
+                    "Package": "LED-0603",
+                    "Part": "LED1",
+                    "Value": "Red"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R1",
+                    "Value": "22K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R3",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0603",
+                    "Package": "R0603",
+                    "Part": "R6",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Momentary Switch",
+                    "Device": "TAC_SWITCHSMD",
+                    "Package": "TACTILE_SWITCH_SMD",
+                    "Part": "S1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CREATIVE_COMMONS",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "U$1",
+                    "Value": "CREATIVE_COMMONS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ARDUINO_SHIELDNOHOLES",
+                    "Package": "DUEMILANOVE_SHIELD_NOHOLES",
+                    "Part": "U1",
+                    "Value": "ARDUINO_SHIELDNOHOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SPX29302",
+                    "Package": "Q5-DD_SPX29300",
+                    "Part": "U2",
+                    "Value": "SPX29302"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SM5100B",
+                    "Package": "SM5100B",
+                    "Part": "U3",
+                    "Value": "SM5100B"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SIMHOLDER3",
+                    "Package": "SIMHOLDER3",
+                    "Part": "U4",
+                    "Value": "SIMHOLDER3"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

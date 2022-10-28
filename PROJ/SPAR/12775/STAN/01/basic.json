@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/RFM69HCW_BOB.brd"
@@ -35,6 +38,19 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPX-UNMATCHED-X-UF10-01",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "JP1": "HEAD-I01-X-PI02-01",
+            "JP2": "HEAD-I01-X-PI05-01",
+            "JP3": "HEAD-I01-X-PI01-01",
+            "JP4": "HEAD-I01-X-PI05-01",
+            "JP5": "HEAD-I01-X-PI03-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +58,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-09824",
+                    "Description": "CAP-09824",
+                    "Device": "10UF50V20%(1210)",
+                    "Package": "1210",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 2",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05_ROUNDONLY_NOSILK",
+                    "Package": "1X05_ROUNDONLY_NOSILK",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01SMDNS",
+                    "Package": "1X01NS",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05_ROUNDONLY_NOSILK",
+                    "Package": "1X05_ROUNDONLY_NOSILK",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 3",
+                    "Device": "M03_ROUND_ONLY_NO_SILK",
+                    "Package": "1X03_ROUND_ONLY_NO_SILK",
+                    "Part": "JP5",
+                    "Value": "ANTENNA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name only",
+                    "Device": "SFE_LOGO_NAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_NAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RFM69HCW",
+                    "Package": "RFM69HCW-XXXS2",
+                    "Part": "U1",
+                    "Value": "RFM69HCW"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

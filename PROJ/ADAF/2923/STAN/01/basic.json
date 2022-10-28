@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Latching Relay FeatherWing.brd"
@@ -35,6 +38,26 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UF10-V25",
+            "D1": "DIOD-S323-X-K4148-01",
+            "D2": "LEDS-0805-R-STAN-01",
+            "JP1": "HEAD-I01-X-PI16-01",
+            "JP2": "HEAD-I01-X-PI01-01",
+            "JP3": "HEAD-I01-X-PI01-01",
+            "JP4": "HEAD-I01-X-PI11-01",
+            "MS1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
+            "R1": "RESE-0805-X-O102-01",
+            "R2": "RESE-0805-X-O103-01",
+            "R3": "RESE-0805-X-O102-01",
+            "SW1": "BUTA-4628-X-STAN-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X2": "TERS-35D-L-PI03-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +65,157 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "D2",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X16ROUND",
+                    "Package": "1X16_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X1ROUND",
+                    "Package": "1X01_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X1ROUND",
+                    "Package": "1X01_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HEADER-1X11",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MICROSHIELD",
+                    "Package": "MICROSHIELD",
+                    "Part": "MS1",
+                    "Value": "MICROSHIELD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "NPN Transistor",
+                    "Device": "TRANSISTOR_NPN",
+                    "Package": "SOT23-R",
+                    "Part": "Q1",
+                    "Value": "MMBT2222"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper - Closed",
+                    "Device": "SOLDERJUMPER_CLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW1",
+                    "Value": "kmr2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RELAY_NONLATCHING-EE2NUH",
+                    "Package": "RELAY_EE2_NOLATCH",
+                    "Part": "X1",
+                    "Value": "RELAY_NONLATCHING-EE2NUH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "3.5mm Terminal block",
+                    "Device": "TERMBLOCK_1X3",
+                    "Package": "TERMBLOCK_1X3-3.5MM",
+                    "Part": "X2",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

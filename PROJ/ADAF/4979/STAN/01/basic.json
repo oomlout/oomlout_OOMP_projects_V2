@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit NeoKey FeatherWing.brd"
@@ -35,6 +38,25 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF1-V25",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "CONN1": "HEAD-I01-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI04-01",
+            "JP5": "HEAD-I01-X-PI12-01",
+            "JP6": "HEAD-I01-X-PI16-01",
+            "LED1": "LEDS-3535-RGB-K2812-01",
+            "LED2": "LEDS-3535-RGB-K2812-01",
+            "MS1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O1003-01",
+            "R2": "RESE-0603-X-O1003-01",
+            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +64,165 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C1",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "STEMMA_I2C_QT",
+                    "Package": "JST_SH4",
+                    "Part": "CONN1",
+                    "Value": "STEMMA_I2C_QT"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X4ROUND",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HEADER-1X12",
+                    "Package": "1X12_ROUND",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X16ROUND",
+                    "Package": "1X16_ROUND",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2812B_SK6812E",
+                    "Package": "NEO3535_REVERSE",
+                    "Part": "LED1",
+                    "Value": "WS2812B_SK6812E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2812B_SK6812E",
+                    "Package": "NEO3535_REVERSE",
+                    "Part": "LED2",
+                    "Value": "WS2812B_SK6812E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERWING_NODIM",
+                    "Package": "FEATHERWING_NODIM",
+                    "Part": "MS1",
+                    "Value": "FEATHERWING_NODIM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPERCLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPERCLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPERCLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buttons",
+                    "Device": "SWITCH_PUSHBUTTON_KAILH_SOCKET",
+                    "Package": "KAILH_SOCKET",
+                    "Part": "SW1",
+                    "Value": "MX"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buttons",
+                    "Device": "SWITCH_PUSHBUTTON_KAILH_SOCKET",
+                    "Package": "KAILH_SOCKET",
+                    "Part": "SW2",
+                    "Value": "MX"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Switch - SPST",
+                    "Device": "SWITCH_SPST_TACT_RA",
+                    "Package": "SPST_TACTILE_RA",
+                    "Part": "SW3",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

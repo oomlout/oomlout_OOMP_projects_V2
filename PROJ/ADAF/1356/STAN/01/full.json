@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Flora TCS34725.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1356/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,18 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UNMATCHED-01",
+            "LED1": "LEDS-UNMATCHED-G-STAN-01",
+            "Q3": "MOSN-SO23-X-KBSS138-01",
+            "R1": "RESE-0805-X-O103-01",
+            "R2": "RESE-0805-X-O103-01",
+            "R6": "RESE-0805-X-O103-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +137,133 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC_0805",
+                    "Package": "_0805",
+                    "Part": "C1",
+                    "Value": "0.1\u00b5F"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LEDEV45-21",
+                    "Package": "EVERLIGHT_45-21",
+                    "Part": "LED1",
+                    "Value": "45-21/LK2C-B38452C4CB2/2T"
+                },
+                {
+                    "BOM": "",
+                    "Description": "N-Channel Mosfet",
+                    "Device": "MOSFET-NWIDE",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q3",
+                    "Value": "BSS138"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0805",
+                    "Package": "_0805",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0805",
+                    "Package": "_0805",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0805",
+                    "Package": "_0805",
+                    "Part": "R6",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP1",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP2",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP3",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP4",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP5",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SEWTAP0.5IN",
+                    "Package": "SEWINGTAP_0.5",
+                    "Part": "TP6",
+                    "Value": "SEWTAP0.5IN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "TCS3472 RGB + Clear Color Sensor",
+                    "Device": "LIGHT_TCS3472",
+                    "Package": "TCS3472_FN6",
+                    "Part": "U1",
+                    "Value": "TCS34725"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

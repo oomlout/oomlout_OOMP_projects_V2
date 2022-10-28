@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit NeoKey Trinkey.brd"
@@ -35,6 +38,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C3": "CAPC-0805-X-UF10-V25",
+            "C4": "CAPC-0603-X-UF1-V25",
+            "C5": "CAPC-0603-X-UF1-V25",
+            "C8": "CAPC-0805-X-UF10-V25",
+            "CN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-3535-RGB-K2812-01",
+            "RESET": "BUTA-4628-X-STAN-01",
+            "RST": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SWC": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SWD": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "VREG-SO235-X-KAP2112K-V33D"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +63,133 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C4",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C5",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB - Type A Connectors",
+                    "Device": "USB_TYPEAPCB",
+                    "Package": "USBA_PCB",
+                    "Part": "CN1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ATSAMD21E",
+                    "Package": "QFN32_5MM",
+                    "Part": "IC3",
+                    "Value": "ATSAMD21E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2812B_SK6812E",
+                    "Package": "NEO3535_REVERSE",
+                    "Part": "LED1",
+                    "Value": "WS2812B_SK6812E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "RESET",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP16R",
+                    "Package": "TP16R",
+                    "Part": "RST",
+                    "Value": "RST"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buttons",
+                    "Device": "SWITCH_PUSHBUTTON_KAILH_THMSIMPLE",
+                    "Package": "KAILH_BOX_MX_NOSTABILIZERS",
+                    "Part": "SW1",
+                    "Value": "MX"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP15R",
+                    "Package": "TP15R",
+                    "Part": "SWC",
+                    "Value": "SWC"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP15R",
+                    "Package": "TP15R",
+                    "Part": "SWD",
+                    "Value": "SWD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SOT23-5 Fixed Voltage Regulators",
+                    "Device": "VREG_SOT23-5",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "AP2112K-3.3"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

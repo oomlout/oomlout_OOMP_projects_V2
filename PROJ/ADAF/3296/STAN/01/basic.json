@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/DS1307 Rev B.brd"
@@ -35,6 +38,18 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPX-UNMATCHED-X-NF100-01",
+            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP2": "HEAD-I01-X-PI05-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-UNMATCHED-X-O222-01",
+            "R2": "RESE-UNMATCHED-X-O222-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +57,69 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CR1216/CR1220/CR1225 12mm 3V lithium coin cell",
+                    "Device": "CR1220THM",
+                    "Package": "CR1220-THM",
+                    "Part": "BAT",
+                    "Value": "CR1220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-US025-025X050",
+                    "Package": "C025-025X050",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "DS1307",
+                    "Device": "DS1307",
+                    "Package": "DIL08",
+                    "Part": "IC3",
+                    "Value": "DS1307"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X5",
+                    "Package": "1X05",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "CRYSTAL",
+                    "Device": "CRYTALTC38H",
+                    "Package": "TC38H",
+                    "Part": "Q1",
+                    "Value": "32.768"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_0207/10",
+                    "Package": "0207/10",
+                    "Part": "R1",
+                    "Value": "2.2k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_0207/10",
+                    "Package": "0207/10",
+                    "Part": "R2",
+                    "Value": "2.2K"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

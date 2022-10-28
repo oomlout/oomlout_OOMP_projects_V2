@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Rotary Trinkey.brd"
@@ -35,6 +38,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C3": "CAPC-0805-X-UF10-V25",
+            "C4": "CAPC-0603-X-UF1-V25",
+            "C5": "CAPC-0603-X-UF1-V25",
+            "C8": "CAPC-0805-X-UF10-V25",
+            "CN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-UNMATCHED-RGB-K2812-01",
+            "Q2": "BUTA-4628-X-STAN-01",
+            "RST": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SWC": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SWD": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "VREG-SO235-X-KAP2112K-V33D"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +63,141 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C4",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C5",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB - Type A Connectors",
+                    "Device": "USB_TYPEAPCB",
+                    "Package": "USBA_PCB",
+                    "Part": "CN1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ATSAMD21E",
+                    "Package": "QFN32_5MM",
+                    "Part": "IC3",
+                    "Value": "ATSAMD21E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2812B_SK6805_1515",
+                    "Package": "SK6805_1515",
+                    "Part": "LED1",
+                    "Value": "WS2812B_SK6805_1515"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "Q2",
+                    "Value": "reset"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP16R",
+                    "Package": "TP16R",
+                    "Part": "RST",
+                    "Value": "TPTP16R"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Rotary Encoder with Built-In Switch",
+                    "Device": "ENCODER_PLUS_SWITCH_BOURNS_PEC11",
+                    "Package": "PEC11+SWITCH",
+                    "Part": "SW1",
+                    "Value": "PEC11"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP16R",
+                    "Package": "TP16R",
+                    "Part": "SWC",
+                    "Value": "TPTP16R"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test pad",
+                    "Device": "TPTP16R",
+                    "Package": "TP16R",
+                    "Part": "SWD",
+                    "Value": "TPTP16R"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test Point",
+                    "Device": "TESTPOINTPAD1MM",
+                    "Package": "TESTPOINT_PAD_1MM",
+                    "Part": "TOUCH",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SOT23-5 Fixed Voltage Regulators",
+                    "Device": "VREG_SOT23-5",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "AP2112K-3.3"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

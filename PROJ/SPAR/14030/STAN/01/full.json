@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Mini_GPS_Shield.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14030/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C5": "CAPC-0805-X-UNMATCHED-01",
+            "C6": "CAPC-0603-X-UF22D-V10",
+            "D1": "LEDS-0603-L-STAN-01",
+            "J1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "J2": "HEAD-I01-X-PI12-01",
+            "J3": "HEAD-I01-X-PI12-01",
+            "J4": "HEAD-I01-X-PI06-01",
+            "J5": "HEAD-I01-X-PI02-01",
+            "R1": "RESE-0603-X-O471-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "VREG-SO235-X-KAP2112K-V33D"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +143,165 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-11625",
+                    "Description": "CAP-11625",
+                    "Device": "1.0UF-25V-+80/-20(0805)",
+                    "Package": "0805-CAP",
+                    "Part": "C5",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "CAP-07888",
+                    "Description": "CAP-07888",
+                    "Device": "2.2UF-10V-20%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C6",
+                    "Value": "2.2uF"
+                },
+                {
+                    "BOM": "DIO-08575",
+                    "Description": "Blue LEDs for production use",
+                    "Device": "LED-BLUE0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "CONN-13500",
+                    "Description": "",
+                    "Device": "MICROSD_TINY",
+                    "Package": "MICROSD_TINY",
+                    "Part": "J1",
+                    "Value": "MICROSD_TINY"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 12",
+                    "Device": "M12NO_SILK",
+                    "Package": "1X12_NO_SILK",
+                    "Part": "J2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 12",
+                    "Device": "M12NO_SILK",
+                    "Package": "1X12_NO_SILK",
+                    "Part": "J3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-08437",
+                    "Description": "Header 6",
+                    "Device": "M06NO_SILK_FEMALE_PTH",
+                    "Package": "1X06_NO_SILK",
+                    "Part": "J4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "J5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO3",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name only",
+                    "Device": "SFE_LOGO_NAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_.1",
+                    "Part": "LOGO4",
+                    "Value": "SFE_LOGO_NAME.1_INCH"
+                },
+                {
+                    "BOM": "RES-07869",
+                    "Description": "RES-07869",
+                    "Device": "470OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "SWCH-08179",
+                    "Description": "DPDT Version of the COM-00597",
+                    "Device": "SWITCH-DPDTAYZ0202",
+                    "Package": "AYZ0202",
+                    "Part": "S1",
+                    "Value": "DPDT"
+                },
+                {
+                    "BOM": "CONN-08249",
+                    "Description": "",
+                    "Device": "GP735",
+                    "Package": "GP735",
+                    "Part": "U1",
+                    "Value": "GP735"
+                },
+                {
+                    "BOM": "IC-12292",
+                    "Description": "8-Bit Bi-Directional Level Shifter",
+                    "Device": "TXB0108",
+                    "Package": "UFDFN-20",
+                    "Part": "U2",
+                    "Value": "TXB0108"
+                },
+                {
+                    "BOM": "VREG-12457",
+                    "Description": "Voltage Regulator LDO",
+                    "Device": "V_REG_LDOSMD",
+                    "Package": "SOT23-5",
+                    "Part": "U3",
+                    "Value": "AP2112K-3.3V"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

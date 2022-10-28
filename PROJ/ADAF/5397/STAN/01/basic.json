@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit LIPoly Charger BFF.brd"
@@ -35,6 +38,24 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-UNMATCHED-01",
+            "C20": "CAPC-0805-X-UNMATCHED-01",
+            "CHG": "LEDS-0603-O-STAN-01",
+            "D2": "DIOD-S123-X-KMBR120-01",
+            "JP1": "HEAD-I01-X-PI07-01",
+            "JP3": "HEAD-I01-X-PI07-01",
+            "R1": "RESE-0603-X-O1003-01",
+            "R2": "RESE-0603-X-O472-01",
+            "R3": "RESE-0603-X-O1003-01",
+            "R8": "RESE-0603-X-O472-01",
+            "SW2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-SO235-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +63,141 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C20",
+                    "Value": "10\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603_NOOUTLINE",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "CHG",
+                    "Value": "ORANGE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODE_SOD-123FL",
+                    "Package": "SOD-123FL",
+                    "Part": "D2",
+                    "Value": "MBR120"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X7_CASTEL",
+                    "Package": "1X07_CASTEL",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X7_CASTEL",
+                    "Package": "1X07_CASTEL",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R8",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPERCLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Switch - DPDT",
+                    "Device": "SWITCH_DPDTEG1390",
+                    "Package": "EG1390",
+                    "Part": "SW2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$6",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$8",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MCP73831/2 LIPO Charger",
+                    "Device": "MCP73831/2",
+                    "Package": "SOT23-5",
+                    "Part": "U3",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CON_JST_PH_2PIN_MT_BATT",
+                    "Package": "JSTPH2_BATT",
+                    "Part": "X1",
+                    "Value": "JSTPH"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit MIDI FeatherWing.brd"
@@ -35,6 +38,26 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "DIOD-S323-X-K4148-01",
+            "D2": "LEDS-0603-L-STAN-01",
+            "D3": "LEDS-0603-L-STAN-01",
+            "MIDIIN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "MIDIOUT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "MS1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "OK2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O330-01",
+            "R2": "RESE-0603-X-O221-01",
+            "R3": "RESE-0603-X-O471-01",
+            "R4": "RESE-0603-X-O100-01",
+            "R5": "RESE-0603-X-O222-01",
+            "R6": "RESE-0603-X-O222-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +65,149 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603",
+                    "Package": "CHIPLED_0603",
+                    "Part": "D2",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0603",
+                    "Package": "CHIPLED_0603",
+                    "Part": "D3",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "DIN_5",
+                    "Package": "CP-2350",
+                    "Part": "MIDIIN",
+                    "Value": "DIN_5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "DIN_5",
+                    "Package": "CP-2350",
+                    "Part": "MIDIOUT",
+                    "Value": "DIN_5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERWING_NODIM",
+                    "Package": "FEATHERWING_NODIM",
+                    "Part": "MS1",
+                    "Value": "FEATHERWING_NODIM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "6-Pin DIP Optocoupler",
+                    "Device": "H11L1MS",
+                    "Package": "DIL6-SMD",
+                    "Part": "OK2",
+                    "Value": "H11L1MS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "33"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "10"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "2.2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R6",
+                    "Value": "2.2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MIC/HEADPHONE JACK",
+                    "Device": "AUDIO_STEREOJACK",
+                    "Package": "STX3100",
+                    "Part": "X1",
+                    "Value": "3.5mm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MIC/HEADPHONE JACK",
+                    "Device": "AUDIO_STEREOJACK",
+                    "Package": "STX3100",
+                    "Part": "X2",
+                    "Value": "3.5mm"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

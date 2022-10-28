@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/usbboarduino20.brd"
@@ -30,14 +33,65 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +100,38 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0805-X-NF100-V50",
+            "C2": "CAPX-UNMATCHED-X-UNMATCHED-01",
+            "C3": "CAPC-0805-X-NF100-V50",
+            "C4": "CAPC-0805-X-NF100-V50",
+            "C5": "CAPC-0805-X-PF15-01",
+            "C6": "CAPC-0805-X-PF15-01",
+            "D1": "LEDS-0805-G-STAN-01",
+            "D2": "LEDS-0805-G-STAN-01",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "IC2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JA1": "HEAD-I01-X-PI06-01",
+            "JD1": "HEAD-I01-X-PI08-01",
+            "JD2": "HEAD-I01-X-PI08-01",
+            "JP3": "HEAD-I01-X-PI2X03-01",
+            "JP4": "HEAD-I01-X-PI04-01",
+            "L1": "UNMATCHED-1206-X-UNMATCHED-01",
+            "R1": "RESE-0805-X-O103-01",
+            "R2": "RESE-0805-X-UNMATCHED-01",
+            "R3": "RESE-0805-X-UNMATCHED-01",
+            "R4": "RESE-0805-X-O102-01",
+            "R5": "RESE-0805-X-UNMATCHED-01",
+            "R6": "RESE-0805-X-UNMATCHED-01",
+            "RX": "LEDS-0805-G-STAN-01",
+            "S1": "BUTA-6060-X-STAN-01",
+            "TX": "LEDS-0805-G-STAN-01",
+            "USB": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +139,253 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "POLARIZED CAPACITOR, American symbol",
+                    "Device": "CPOL-USB/3528-21R",
+                    "Package": "B/3528-21R",
+                    "Part": "C2",
+                    "Value": "100/6VuF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C5",
+                    "Value": "15pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAPACITOR, American symbol",
+                    "Device": "C-USC0805K",
+                    "Package": "C0805K",
+                    "Part": "C6",
+                    "Value": "15pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LEDCHIPLED_0805",
+                    "Package": "CHIPLED_0805",
+                    "Part": "D1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LEDCHIPLED_0805",
+                    "Package": "CHIPLED_0805",
+                    "Part": "D2",
+                    "Value": "Green"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MICROCONTROLLER",
+                    "Device": "ATMEGA168PROUND",
+                    "Package": "DIL28/3",
+                    "Part": "IC1",
+                    "Value": "ATMEGA168P"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FT232R",
+                    "Package": "TSSOP28",
+                    "Part": "IC2",
+                    "Value": "FT232R"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X6CB",
+                    "Package": "1X06-CLEANBIG",
+                    "Part": "JA1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X8CLEANBIG",
+                    "Package": "1X08-CLEANBIG",
+                    "Part": "JD1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X8CLEANBIG",
+                    "Package": "1X08-CLEANBIG",
+                    "Part": "JD2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-2X3",
+                    "Package": "2X03",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "PINHD-1X4CB",
+                    "Package": "1X04-CB",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PTC (Resettable Fuse)",
+                    "Device": "PTC1206",
+                    "Package": "1206",
+                    "Part": "L1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R2",
+                    "Value": "1.0 K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R3",
+                    "Value": "1.0 K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R4",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R5",
+                    "Value": "1.0 K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RESISTOR, American symbol",
+                    "Device": "R-US_R0805",
+                    "Package": "R0805",
+                    "Part": "R6",
+                    "Value": "1.0 K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LEDCHIPLED_0805",
+                    "Package": "CHIPLED_0805",
+                    "Part": "RX",
+                    "Value": "Green"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT 6mm switch, EVQQ2 series",
+                    "Device": "EVQQ2",
+                    "Package": "EVQ-Q2",
+                    "Part": "S1",
+                    "Value": "EVQQ2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPERREFLOW",
+                    "Package": "SOLDERJUMPER_REFLOW",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LEDCHIPLED_0805",
+                    "Package": "CHIPLED_0805",
+                    "Part": "TX",
+                    "Value": "Green"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "USB Connectors",
+                    "Device": "USBMINIB",
+                    "Package": "USB-MINIB",
+                    "Part": "USB",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Low cost SMT crystals, no capacitors included",
+                    "Device": "XTALNX5032",
+                    "Package": "NX5032",
+                    "Part": "X1",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

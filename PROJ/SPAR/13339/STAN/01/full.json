@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LSM6DS3_Breakout.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13339/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,23 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C3": "CAPC-0603-X-NF100-V50",
+            "C4": "CAPC-0603-X-NF100-V50",
+            "FRAME1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI06-01",
+            "JP11": "HEAD-I01-X-PI01-01",
+            "JP2": "HEAD-I01-X-PI01-01",
+            "JP3": "HEAD-I01-X-PI05-01",
+            "L1": "UNMATCHED-0603-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O472-01",
+            "R2": "RESE-0603-X-O472-01",
+            "R3": "RESE-0603-X-O103-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +142,213 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CAP-08390",
+                    "Device": "0.1UF-100V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "CAP-08390",
+                    "Device": "0.1UF-100V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "Marshall Taylor",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06NO_SILK_YES_STOP",
+                    "Package": "1X06_NO_SILK_YES_STOP",
+                    "Part": "JP1",
+                    "Value": "IO"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH_NO_SILK_YES_STOP",
+                    "Package": "1X01_NO_SILK",
+                    "Part": "JP2",
+                    "Value": "3.3V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05PTH",
+                    "Package": "1X05",
+                    "Part": "JP3",
+                    "Value": "IO"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH_NO_SILK_YES_STOP",
+                    "Package": "1X01_NO_SILK",
+                    "Part": "JP11",
+                    "Value": "GND"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Inductors",
+                    "Device": "INDUCTOR30OHM,1.8A",
+                    "Package": "0603",
+                    "Part": "L1",
+                    "Value": "RES-07859"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.2_INCH",
+                    "Package": "SFE_LOGO_FLAME_.2",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.2_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name and flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.1",
+                    "Part": "LOGO3",
+                    "Value": "SFE_LOGO_NAME_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RES-07857",
+                    "Device": "4.7KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "4.7K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RES-07857",
+                    "Device": "4.7KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "4.7K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "RES-00824",
+                    "Device": "10KOHM-1/10W-1%(0603)0603",
+                    "Package": "0603-RES",
+                    "Part": "R3",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-2OF3_NC_BY_PASTE",
+                    "Package": "PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ2",
+                    "Value": "S_MODE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ3",
+                    "Value": "JUMPER-PAD-2-NC_BY_TRACE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ4",
+                    "Value": "JUMPER-PAD-2-NC_BY_TRACE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF1",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF2",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF3",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "#4 Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "STANDOFF4",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LSM6DS3DOT_INDICATION",
+                    "Package": "LGA14L_DOT_INDICATOR",
+                    "Part": "U2",
+                    "Value": "LSM6DS3"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

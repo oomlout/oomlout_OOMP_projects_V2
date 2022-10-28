@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Simon-PTH.brd"
@@ -30,14 +33,65 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/eagleSchemImage.png"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/kicadPcb3dFront.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/10547/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +100,31 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "BAT2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPX-UNMATCHED-X-NF100-01",
+            "C2": "CAPX-UNMATCHED-X-NF100-01",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI06-01",
+            "JP10": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP11": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP4": "HEAD-I01-X-PI08-01",
+            "JP5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP6": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP7": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP8": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP9": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-UNMATCHED-X-O103-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SG1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +132,197 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERYAA-KIT",
+                    "Package": "BATTERY-AA-KIT",
+                    "Part": "BAT1",
+                    "Value": "AA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERYAA-KIT",
+                    "Package": "BATTERY-AA-KIT",
+                    "Part": "BAT2",
+                    "Value": "AA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPCAP-PTH-SMALL-KIT",
+                    "Package": "CAP-PTH-SMALL-KIT",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Capacitor",
+                    "Device": "CAPCAP-PTH-SMALL-KIT",
+                    "Package": "CAP-PTH-SMALL-KIT",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MICROCONTROLLER",
+                    "Device": "AVR-MEGA8-PKIT",
+                    "Package": "DIL28-3-SIMON-KIT",
+                    "Part": "IC1",
+                    "Value": "AVR-MEGA8-P"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06-SFENOSILK",
+                    "Package": "1X06-NOSILK",
+                    "Part": "JP1",
+                    "Value": "Serial"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "AVR ISP 6 Pin",
+                    "Device": "AVR_SPI_PRG_6NS",
+                    "Package": "2X3-NS",
+                    "Part": "JP3",
+                    "Value": "AVR_SPI_PRG_6NS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 8",
+                    "Device": "M08NOSILK",
+                    "Package": "1X08NOSILK",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP10",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Jumper",
+                    "Device": "JUMPER-2NOSILK",
+                    "Package": "SJ_2S_NO_SILK",
+                    "Part": "JP11",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "5mm Button Pad",
+                    "Device": "BUTTONPAD-2X2SINGLEKIT",
+                    "Package": "BUTTONPAD-2X2SINGLE-KIT",
+                    "Part": "P1-",
+                    "Value": "BUTTONPAD-2X2SINGLEKIT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistor",
+                    "Device": "RESISTORAXIAL-0.3-KIT",
+                    "Package": "AXIAL-0.3-KIT",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPST Switch",
+                    "Device": "SWITCH-SPSTKIT",
+                    "Package": "SWITCH-SPDT_KIT",
+                    "Part": "S1",
+                    "Value": "Power"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPST Switch",
+                    "Device": "SWITCH-SPSTKIT",
+                    "Package": "SWITCH-SPDT_KIT",
+                    "Part": "S2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buzzer 12mm",
+                    "Device": "BUZZERKIT",
+                    "Package": "BUZZER-12MM-KIT",
+                    "Part": "SG1",
+                    "Value": "BUZZER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFENEW",
+                    "Package": "SFE-NEW-WEBLOGO",
+                    "Part": "U$1",
+                    "Value": "LOGO-SFENEW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CREATIVE_COMMONS",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "U$2",
+                    "Value": "CREATIVE_COMMONS"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

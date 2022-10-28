@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/gatorBytes_Sensor_board.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,18 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "LEDS-UNMATCHED-G-STAN-01",
+            "R10": "RESE-0603-X-O101-01",
+            "R11": "RESE-0603-X-O103-01",
+            "R8": "RESE-0603-X-O201-01",
+            "R9": "RESE-0603-X-O101-01",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-SO23-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +137,229 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "DIO-13722",
+                    "Description": "LED-RGB Common Cathode",
+                    "Device": "SUNLEDSMD1",
+                    "Package": "PLCC4SMDLED",
+                    "Part": "D1",
+                    "Value": "XZM2CRKM2DGFBB45SCCB"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "FIDUCIAL-MICRO",
+                    "Part": "FD4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame - Letter",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Flame Logo",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open-Source Hardware (OSHW) Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Revision By Text",
+                    "Device": "REVISION",
+                    "Package": "REVISION",
+                    "Part": "LOGO7",
+                    "Value": "REVISION"
+                },
+                {
+                    "BOM": "RES-08220",
+                    "Description": "200\u03a9 resistor",
+                    "Device": "200OHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R8",
+                    "Value": "200"
+                },
+                {
+                    "BOM": "RES-12438",
+                    "Description": "100\u03a9 resistor",
+                    "Device": "100OHM-0603-1/4W-5%",
+                    "Package": "0603",
+                    "Part": "R9",
+                    "Value": "100"
+                },
+                {
+                    "BOM": "RES-12438",
+                    "Description": "100\u03a9 resistor",
+                    "Device": "100OHM-0603-1/4W-5%",
+                    "Package": "0603",
+                    "Part": "R10",
+                    "Value": "100"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "10k\u03a9 resistor",
+                    "Device": "10KOHM-0603-1/10W-1%",
+                    "Package": "0603",
+                    "Part": "R11",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "GATOR",
+                    "Package": "GATOR",
+                    "Part": "U$10",
+                    "Value": "GATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$11",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$12",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "GATOR",
+                    "Package": "GATOR",
+                    "Part": "U$14",
+                    "Value": "GATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "GATOR",
+                    "Package": "GATOR",
+                    "Part": "U$15",
+                    "Value": "GATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$19",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$22",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "GATOR",
+                    "Package": "GATOR",
+                    "Part": "U$23",
+                    "Value": "GATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "GATOR",
+                    "Package": "GATOR",
+                    "Part": "U$24",
+                    "Value": "GATOR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$25",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$26",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TAB_GATOR_MINI",
+                    "Package": "TAB_GATOR_MINI",
+                    "Part": "U$35",
+                    "Value": "TAB_GATOR_MINI"
+                },
+                {
+                    "BOM": "COMP-08569",
+                    "Description": "Ambient Light Sensors - Phototransistors",
+                    "Device": "LIGHT_SENSORTEMT6000",
+                    "Package": "TEMT6000",
+                    "Part": "U2",
+                    "Value": "LIGHT_SENSORTEMT6000"
+                },
+                {
+                    "BOM": "IC-08917",
+                    "Description": "Microchip MCP9700 Analog-Output Temperature Sensor",
+                    "Device": "MCP9700TT",
+                    "Package": "SOT23-3",
+                    "Part": "U3",
+                    "Value": "MCP9700TT"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

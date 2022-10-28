@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Joy Bonnet.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3464/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,22 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "1": "BUTA-4628-X-STAN-01",
+            "2": "BUTA-4628-X-STAN-01",
+            "JOY1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "RPI1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW1": "BUTA-6060-X-STAN-01",
+            "SW2": "BUTA-6060-X-STAN-01",
+            "SW3": "BUTA-6060-X-STAN-01",
+            "SW4": "BUTA-6060-X-STAN-01",
+            "SW5": "BUTA-6060-X-STAN-01",
+            "SW8": "BUTA-6060-X-STAN-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +141,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "1",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "2",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JOYSTICK_ANALOG_XY",
+                    "Package": "JOYSTICK_ANALOG_MINITHM",
+                    "Part": "JOY1",
+                    "Value": "JOYSTICK_ANALOG_XY"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RASPBERRYPI_BPLUS_BONNETSMT",
+                    "Package": "PI_BONNET_SMT",
+                    "Part": "RPI1",
+                    "Value": "RASPBERRYPI_BPLUS_BONNETSMT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW1",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW2",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW3",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW4",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW5",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "SW8",
+                    "Value": "EVQQ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "ADS1015 - 12-bit 4-Channel I2C ADC with Internal PGA",
+                    "Device": "ADC_ADS1015",
+                    "Package": "MSOP10",
+                    "Part": "U1",
+                    "Value": "ADS1015"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

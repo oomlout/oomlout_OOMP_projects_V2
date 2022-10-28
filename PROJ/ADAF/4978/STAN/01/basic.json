@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit NeoKey Breakout.brd"
@@ -35,6 +38,19 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF1-V25",
+            "D1": "DIOD-S323-X-K4148-01",
+            "JP1": "HEAD-I01-X-PI05-01",
+            "JP2": "HEAD-I01-X-PI02-01",
+            "JP3": "HEAD-I01-X-PI05-01",
+            "JP4": "HEAD-I01-X-PI02-01",
+            "LED1": "LEDS-3535-RGB-K2812-01",
+            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +58,93 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0603_NO",
+                    "Package": "0603-NO",
+                    "Part": "C1",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Diode",
+                    "Device": "DIODESOD-323",
+                    "Package": "SOD-323",
+                    "Part": "D1",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X570MIL",
+                    "Package": "1X05_ROUND_70",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X2ROUND",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X570MIL",
+                    "Package": "1X05_ROUND_70",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X2ROUND",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "WS2812B_SK6812E",
+                    "Package": "NEO3535_REVERSE",
+                    "Part": "LED1",
+                    "Value": "WS2812B_SK6812E"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Buttons",
+                    "Device": "SWITCH_PUSHBUTTON_KAILH_SOCKET",
+                    "Package": "KAILH_SOCKET",
+                    "Part": "SW1",
+                    "Value": ""
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

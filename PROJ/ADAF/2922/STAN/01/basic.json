@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/adalogger featherwing.brd"
@@ -35,6 +38,28 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "B1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPC-0805-X-UF10-V25",
+            "C2": "CAPC-0805-X-UF10-V25",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "INT1": "HEAD-I01-X-PI01-01",
+            "JP1": "HEAD-I01-X-PI11-01",
+            "JP2": "HEAD-I01-X-PI16-01",
+            "JP3": "HEAD-I01-X-PI01-01",
+            "MS1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O103-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R3": "RESE-0603-X-O1003-01",
+            "R4": "RESE-0603-X-O102-01",
+            "SDCS": "HEAD-I01-X-PI01-01",
+            "SW1": "BUTA-4628-X-STAN-01",
+            "X4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "Y1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +67,173 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "CR1220 SMT - Digikey: 3001K-ND",
+                    "Device": "BATTERYCR1220_2",
+                    "Package": "CR1220-2",
+                    "Part": "B1",
+                    "Value": "cr1220"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Ceramic Capacitors",
+                    "Device": "CAP_CERAMIC0805-NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RTC_PCF8523T",
+                    "Package": "SOIC8_150MIL",
+                    "Part": "IC1",
+                    "Value": "PCF8523T"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X1ROUND",
+                    "Package": "1X01_ROUND",
+                    "Part": "INT1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HEADER-1X11",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X16ROUND",
+                    "Package": "1X16_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X1ROUND",
+                    "Package": "1X01_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERWING_NODIM",
+                    "Package": "FEATHERWING_NODIM",
+                    "Part": "MS1",
+                    "Value": "FEATHERWING_NODIM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "PIN HEADER",
+                    "Device": "HEADER-1X1ROUND",
+                    "Package": "1X01_ROUND",
+                    "Part": "SDCS",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper - Closed",
+                    "Device": "SOLDERJUMPER_CLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW1",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "MicroSD/Transflash Card Holder with SPI pinout",
+                    "Device": "MICROSD",
+                    "Package": "MICROSD",
+                    "Part": "X4",
+                    "Value": "microsd"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Crystals",
+                    "Device": "CRYSTAL8.0X3.8",
+                    "Package": "CRYSTAL_8X3.8",
+                    "Part": "Y1",
+                    "Value": "32khz"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

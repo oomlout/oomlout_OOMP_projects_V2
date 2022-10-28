@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/RTC-Module.brd"
@@ -35,6 +38,18 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPC-0603-X-NF100-V50",
+            "JP1": "HEAD-I01-X-PI05-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O472-01",
+            "R2": "RESE-0603-X-O472-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +57,117 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY12PTH",
+                    "Package": "BATTCON_12MM_PTH",
+                    "Part": "BAT1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME2",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 5",
+                    "Device": "M05PTH",
+                    "Package": "1X05",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534",
+                    "Device": "CRYSTAL32-SMD",
+                    "Package": "CRYSTAL-32KHZ-SMD",
+                    "Part": "Q1",
+                    "Value": "32.768kHz"
+                },
+                {
+                    "BOM": "RES-07857",
+                    "Description": "RES-07857",
+                    "Device": "4.7KOHM1/10W1%(0603)",
+                    "Package": "0603",
+                    "Part": "R1",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "RES-07857",
+                    "Description": "RES-07857",
+                    "Device": "4.7KOHM1/10W1%(0603)",
+                    "Package": "0603",
+                    "Part": "R2",
+                    "Value": "4.7k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper",
+                    "Device": "SOLDERJUMPER_2WAYPASTE1&2&3",
+                    "Package": "SJ_3_PASTE1&2&3",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Spark Fun Electronics PCB Logo",
+                    "Device": "LOGO-SFESK",
+                    "Package": "SFE-LOGO-FLAME",
+                    "Part": "U$2",
+                    "Value": "LOGO-SFESK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$6",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Stand Off",
+                    "Device": "STAND-OFF",
+                    "Package": "STAND-OFF",
+                    "Part": "U$7",
+                    "Value": "STAND-OFF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "I2C real-time clock with battery backup.",
+                    "Device": "DS1307SO8-TIGHT",
+                    "Package": "SO08-TIGHT",
+                    "Part": "U1",
+                    "Value": "DS1307"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

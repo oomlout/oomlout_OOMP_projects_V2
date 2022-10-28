@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Joypad FeatherWing rev C.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3632/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,25 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "D1": "LEDS-0805-R-STAN-01",
+            "DOWN": "BUTA-6060-X-STAN-01",
+            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JOY1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LEFT": "BUTA-6060-X-STAN-01",
+            "MS1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R2": "RESE-0603-X-O102-01",
+            "R3": "RESE-0603-X-O103-01",
+            "R4": "RESE-0603-X-O103-01",
+            "R5": "RESE-0603-X-O102-01",
+            "RIGHT": "BUTA-6060-X-STAN-01",
+            "SW6": "BUTA-4628-X-STAN-01",
+            "SW7": "BUTA-4628-X-STAN-01",
+            "UP": "BUTA-6060-X-STAN-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -53,6 +144,229 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "LED",
+                    "Device": "LED0805_NOOUTLINE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "D1",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "DOWN",
+                    "Value": "6mm"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ATSAMD09D14A-MU",
+                    "Package": "QFN24_4MM",
+                    "Part": "IC1",
+                    "Value": "ATSAMD09D14A-MU"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JOYSTICK_ANALOG_XY",
+                    "Package": "JOYSTICK_ANALOG_MINITHM",
+                    "Part": "JOY1",
+                    "Value": "JOYSTICK_ANALOG_XY"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "LEFT",
+                    "Value": "6mm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERWING",
+                    "Package": "FEATHERWING",
+                    "Part": "MS1",
+                    "Value": "FEATHERWING"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "10k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR_0603_NOOUT",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "1k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "RIGHT",
+                    "Value": "6mm"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "SMD Solder JUMPER",
+                    "Device": "SOLDERJUMPER",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW6",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT4.6X2.8",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW7",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test Point",
+                    "Device": "TESTPOINTROUND2MM",
+                    "Package": "TESTPOINT_ROUND_2MM",
+                    "Part": "TP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Test Point",
+                    "Device": "TESTPOINTROUND2MM",
+                    "Package": "TESTPOINT_ROUND_2MM",
+                    "Part": "TP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SMT Tact Switches",
+                    "Device": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "Package": "EVQ-Q2_SMALLER",
+                    "Part": "UP",
+                    "Value": "6mm"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

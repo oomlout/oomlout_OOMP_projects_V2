@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/GPS_Shield.brd"
@@ -35,6 +38,47 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "C1": "CAPC-0603-X-UNMATCHED-01",
+            "C2": "CAPC-0603-X-UNMATCHED-01",
+            "C3": "CAPC-0603-X-NF100-V50",
+            "C4": "CAPC-0603-X-NF100-V50",
+            "D1": "LEDS-0603-R-STAN-01",
+            "D2": "LEDS-0603-L-STAN-01",
+            "J1": "HEAD-I01-X-UNMATCHED-01",
+            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "JP1": "HEAD-I01-X-PI10-01",
+            "JP10": "HEAD-I01-X-PI10-01",
+            "JP11": "HEAD-I01-X-PI10-01",
+            "JP12": "HEAD-I01-X-PI10-01",
+            "JP13": "HEAD-I01-X-PI08-01",
+            "JP14": "HEAD-I01-X-PI10-01",
+            "JP15": "HEAD-I01-X-PI02-01",
+            "JP16": "HEAD-I01-X-PI01-01",
+            "JP17": "HEAD-I01-X-PI01-01",
+            "JP2": "HEAD-I01-X-PI10-01",
+            "JP21": "HEAD-I01-X-PI08-01",
+            "JP3": "HEAD-I01-X-PI07-01",
+            "JP4": "HEAD-I01-X-PI10-01",
+            "JP5": "HEAD-I01-X-PI06-01",
+            "JP6": "HEAD-I01-X-PI10-01",
+            "JP7": "HEAD-I01-X-PI10-01",
+            "JP8": "HEAD-I01-X-PI10-01",
+            "JP9": "HEAD-I01-X-PI10-01",
+            "R1": "RESE-0603-X-O102-01",
+            "R2": "RESE-0603-X-O1003-01",
+            "R3": "RESE-0603-X-O1003-01",
+            "R4": "RESE-0603-X-O331-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "VREG-SO235-X-KAP2112K-V33D",
+            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -42,6 +86,429 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "BATT-08044",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY12MM",
+                    "Package": "BATTCON_12MM",
+                    "Part": "BAT1",
+                    "Value": "12mm"
+                },
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "CAP-00868",
+                    "Device": "1.0UF-16V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C1",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "CAP-00868",
+                    "Description": "CAP-00868",
+                    "Device": "1.0UF-16V-10%(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "1.0uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "DIO-00819",
+                    "Description": "Assorted Red LEDs",
+                    "Device": "LED-RED0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "DIO-08575",
+                    "Description": "Blue LEDs for production use",
+                    "Device": "LED-BLUE0603",
+                    "Package": "LED-0603",
+                    "Part": "D2",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Arduino R3 Shield Footprint w/ 6-pin (2x3) ICSP Header",
+                    "Device": "ARDUINO_R3_SHIELD_ICSP-NO_LABELS",
+                    "Package": "UNO_R3_SHIELD_ICSP_NOLABELS",
+                    "Part": "J1",
+                    "Value": "ARDUINO_R3_SHIELD"
+                },
+                {
+                    "BOM": "CONN-07820",
+                    "Description": "microSD Socket",
+                    "Device": "USD_CONNECTOR",
+                    "Package": "MICRO-SD-SOCKET-PP",
+                    "Part": "J2",
+                    "Value": "USD_CONNECTOR"
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 7",
+                    "Device": "M07NO_SILK",
+                    "Package": "1X07_NO_SILK",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-08437",
+                    "Description": "Header 6",
+                    "Device": "M06NO_SILK_FEMALE_PTH",
+                    "Package": "1X06_NO_SILK",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP10",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP11",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP12",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-08438",
+                    "Description": "Header 8",
+                    "Device": "M08NO_SILK_FEMALE_PTH",
+                    "Package": "1X08_NO_SILK",
+                    "Part": "JP13",
+                    "Value": ""
+                },
+                {
+                    "BOM": "CONN-11563",
+                    "Description": "Header 10",
+                    "Device": "M10NO_SILK_PTH_FEMALE",
+                    "Package": "1X10_NO_SILK",
+                    "Part": "JP14",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Standard 2-pin 0.1 header. Use with",
+                    "Device": "M021X02_NO_SILK",
+                    "Package": "1X02_NO_SILK",
+                    "Part": "JP15",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH_NO_SILK_YES_STOP",
+                    "Package": "1X01_NO_SILK",
+                    "Part": "JP16",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 1",
+                    "Device": "M01PTH_NO_SILK_YES_STOP",
+                    "Package": "1X01_NO_SILK",
+                    "Part": "JP17",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP19",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL1X2",
+                    "Package": "FIDUCIAL-1X2",
+                    "Part": "JP20",
+                    "Value": "FIDUCIAL1X2"
+                },
+                {
+                    "BOM": "CONN-08438",
+                    "Description": "Header 8",
+                    "Device": "M08NO_SILK_FEMALE_PTH",
+                    "Package": "1X08_NO_SILK",
+                    "Part": "JP21",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOM",
+                    "Package": "OSHW-LOGO-M",
+                    "Part": "LOGO1",
+                    "Value": "OSHW-LOGOM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, name and flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.1",
+                    "Part": "LOGO2",
+                    "Value": "SFE_LOGO_NAME_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "RES-07856",
+                    "Description": "RES-07856",
+                    "Device": "1KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "RES-07828",
+                    "Description": "RES-07828",
+                    "Device": "100KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "100k"
+                },
+                {
+                    "BOM": "RES-07828",
+                    "Description": "RES-07828",
+                    "Device": "100KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R3",
+                    "Value": "100k"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R4",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "SWCH-08247",
+                    "Description": "Various NO switches- pushbuttons, reed, etc",
+                    "Device": "SWITCH-MOMENTARY-2SMD",
+                    "Package": "TACTILE-SWITCH-SMD",
+                    "Part": "S1",
+                    "Value": "Reset"
+                },
+                {
+                    "BOM": "SWCH-08179",
+                    "Description": "DPDT Version of the COM-00597",
+                    "Device": "SWITCH-DPDTAYZ0202",
+                    "Package": "AYZ0202",
+                    "Part": "S2",
+                    "Value": "DPDT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-2OF3_NC_BY_PASTE",
+                    "Package": "PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ2",
+                    "Value": "PWR-LED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-NOYES_SILK",
+                    "Package": "PAD-JUMPER-3-NO_YES_SILK",
+                    "Part": "SJ3",
+                    "Value": "IOREF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ4",
+                    "Value": "D_RX"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ5",
+                    "Value": "D_TX"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ6",
+                    "Value": "CS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ7",
+                    "Value": "uSD-SCK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ8",
+                    "Value": "uSD-MISO"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-2-NC_BY_TRACE_YES_SILK",
+                    "Part": "SJ9",
+                    "Value": "GPS-LED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-3-NC_BY_TRACE",
+                    "Package": "PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX",
+                    "Part": "SJ10",
+                    "Value": "uSD-MOSI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JUMPER-PAD-2-NOYES_SILK",
+                    "Package": "PAD-JUMPER-2-NO_YES_SILK",
+                    "Part": "SJ11",
+                    "Value": "VBAT-3.3V"
+                },
+                {
+                    "BOM": "VREG-12457",
+                    "Description": "AP2112 - 600mA CMOS LDO Regulator w/ Enable",
+                    "Device": "V_REG_AP2112K-3.3V",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "APK2112-3.3V"
+                },
+                {
+                    "BOM": "GPS-13174",
+                    "Description": "GP3906-TLP PoT GPS Module",
+                    "Device": "GP3906-TLP",
+                    "Package": "GP3906-TLP",
+                    "Part": "U2",
+                    "Value": "GP3906-TLP"
+                },
+                {
+                    "BOM": "IC-12292",
+                    "Description": "8-Bit Bi-Directional Level Shifter",
+                    "Device": "TXB0108",
+                    "Package": "UFDFN-20",
+                    "Part": "U3",
+                    "Value": "TXB0108"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

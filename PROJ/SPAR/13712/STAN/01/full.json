@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/OpenLog.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,25 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "C1": "CAPC-0603-X-UF10-V63D",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "C3": "CAPC-0603-X-NF100-V50",
+            "C4": "CAPC-0603-X-NF100-V50",
+            "D1": "LEDS-0603-L-STAN-01",
+            "D3": "LEDS-0603-G-STAN-01",
+            "JP2": "HEAD-I01-X-PI06-01",
+            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "R1": "RESE-0603-X-O102-01",
+            "R2": "RESE-0603-X-O103-01",
+            "R6": "RESE-0603-X-O331-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U2": "VREG-SO235-X-KMIC5205-01",
+            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +144,221 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CAP-13210",
+                    "Description": "",
+                    "Device": "10UF-6.3V-20%(0603)(TANT)",
+                    "Package": "0603-POL",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C2",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "CAP-00810",
+                    "Description": "CAP-00810",
+                    "Device": "0.1UF-25V(+80/-20%)(0603)",
+                    "Package": "0603-CAP",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "DIO-08575",
+                    "Description": "Blue LEDs for production use",
+                    "Device": "LED-BLUE0603",
+                    "Package": "LED-0603",
+                    "Part": "D1",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "DIO-00821",
+                    "Description": "Various green LEDs",
+                    "Device": "LED-GREEN0603",
+                    "Package": "LED-0603",
+                    "Part": "D3",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FID1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FID2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FID3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FID4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "CONN-08437",
+                    "Description": "Header 6",
+                    "Device": "M06NO_SILK_FEMALE_PTH",
+                    "Package": "1X06_NO_SILK",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOMINI",
+                    "Package": "OSHW-LOGO-MINI",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOMINI"
+                },
+                {
+                    "BOM": "XTAL-08900",
+                    "Description": "Resonator",
+                    "Device": "RESONATOR16MHZ",
+                    "Package": "RESONATOR-SMD",
+                    "Part": "Q1",
+                    "Value": "16MHZ"
+                },
+                {
+                    "BOM": "RES-07856",
+                    "Description": "RES-07856",
+                    "Device": "1KOHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "RES-00824",
+                    "Description": "RES-00824",
+                    "Device": "10KOHM-1/10W-1%(0603)0603",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "RES-00818",
+                    "Description": "RES-00818",
+                    "Device": "330OHM1/10W1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R6",
+                    "Value": "330"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP1",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP2",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP3",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP4",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Bare copper test points for troubleshooting or ICT",
+                    "Device": "TEST-POINT3",
+                    "Package": "PAD.03X.03",
+                    "Part": "TP5",
+                    "Value": "TEST-POINT3"
+                },
+                {
+                    "BOM": "IC-09069",
+                    "Description": "",
+                    "Device": "ATMEGA328P_TQFP",
+                    "Package": "TQFP32-08",
+                    "Part": "U1",
+                    "Value": "ATMEGA328P_TQFP"
+                },
+                {
+                    "BOM": "VREG-00822",
+                    "Description": "MIC5205 150mA vreg",
+                    "Device": "MIC52053.3V",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "3.3V MIC5205"
+                },
+                {
+                    "BOM": "CONN-07820",
+                    "Description": "microSD Socket",
+                    "Device": "USD-SOCKET",
+                    "Package": "MICROSD_1:1",
+                    "Part": "U3",
+                    "Value": "microSD Socket"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LilyPad-E-Sewing-Kit_v15.brd"
@@ -30,14 +33,83 @@
         "STAN"
     ],
     "oompFiles": {
+        "": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/details.csv"
+        ],
+        "bomBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/bomBack.png"
+        ],
+        "bomFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/bomFront.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/details.py"
+        ],
+        "detailsPartsOomp": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/detailsPartsOomp.py"
+        ],
+        "detailspartsRaw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/detailspartsRaw.py"
+        ],
+        "eagleBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/eagleBOM.csv"
+        ],
         "eagleBoard": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/eagleBoard.brd"
+        ],
+        "eagleImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/eagleImage.png"
+        ],
+        "eagleParts": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/eagleParts.txt"
+        ],
+        "eaglePinlist": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/eaglePinlist.txt"
         ],
         "eagleSchem": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/eagleSchem.sch"
         ],
+        "eagleSchemImage": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/eagleSchemImage.png"
+        ],
+        "ibom": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01//ibom.html"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/full.json"
+        ],
+        "kicadBoard": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/kicadBoard.kicad_pcb"
+        ],
+        "kicadPcb3d": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/kicadPcb3d.png"
+        ],
+        "kicadPcb3dBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/kicadPcb3dBack.png"
+        ],
+        "kicadPcb3dFront": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/kicadPcb3dFront.png"
+        ],
+        "kicadSchem": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/src/kicadSchem.kicad_sch"
+        ],
+        "pcbdraw": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/pcbdraw.svg"
+        ],
+        "pcbdrawBack": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/pcbdrawBack.svg"
+        ],
+        "readme": [
+            "oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -46,6 +118,22 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "LED1": "LEDS-1206-G-STAN-01",
+            "LED2": "LEDS-1206-G-STAN-01",
+            "LED3": "LEDS-1206-G-STAN-01",
+            "R1": "RESE-0603-X-O151-01",
+            "R2": "RESE-0603-X-O151-01",
+            "R3": "RESE-0603-X-O151-01",
+            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "S3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U$9": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "SPAR"
     ],
@@ -53,6 +141,381 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "Battery Holders",
+                    "Device": "BATTERY20MM_4LEGS",
+                    "Package": "BATTCON_20MM_4LEGS",
+                    "Part": "BAT1",
+                    "Value": "20mm coincell"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATB-",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATB-2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATT+",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "BATT+2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP8",
+                    "Package": "PETAL-MEDIUM-2SIDE",
+                    "Part": "BUTTON-",
+                    "Value": "SEWTAP8"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP8",
+                    "Package": "PETAL-MEDIUM-2SIDE",
+                    "Part": "BUTTONS",
+                    "Value": "SEWTAP8"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD1",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD2",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD3",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIALUFIDUCIAL",
+                    "Package": "MICRO-FIDUCIAL",
+                    "Part": "FD4",
+                    "Value": "FIDUCIALUFIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Schematic Frame",
+                    "Device": "FRAME-LETTER",
+                    "Package": "CREATIVE_COMMONS",
+                    "Part": "FRAME1",
+                    "Value": "FRAME-LETTER"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED+1",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED+2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED+3",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED-1",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED-2",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP6",
+                    "Package": "PETAL-SMALL-2SIDE",
+                    "Part": "LED-3",
+                    "Value": "SEWTAP6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "White SMD LEDs",
+                    "Device": "LED-WHITE1206",
+                    "Package": "LED-1206",
+                    "Part": "LED1",
+                    "Value": "WHITE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "White SMD LEDs",
+                    "Device": "LED-WHITE1206",
+                    "Package": "LED-1206",
+                    "Part": "LED2",
+                    "Value": "WHITE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "White SMD LEDs",
+                    "Device": "LED-WHITE1206",
+                    "Package": "LED-1206",
+                    "Part": "LED3",
+                    "Value": "WHITE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SFE Logo, flame only",
+                    "Device": "SFE_LOGO_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_FLAME_.1",
+                    "Part": "LOGO1",
+                    "Value": "SFE_LOGO_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Open Source Hardware Logo",
+                    "Device": "OSHW-LOGOS",
+                    "Package": "OSHW-LOGO-S",
+                    "Part": "LOGO2",
+                    "Value": "OSHW-LOGOS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SparkFun Font Logo w/ Flame",
+                    "Device": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "Package": "SFE_LOGO_NAME_FLAME_.1",
+                    "Part": "LOGO3",
+                    "Value": "SFE_LOGO_NAME_FLAME.1_INCH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB+",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB-",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB1",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB2",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB3",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB4",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB5",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB6",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB7",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB8",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB9",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUSE-BITE-12_HOLES",
+                    "Package": "MOUST-BITE-1-(2_HOLES)",
+                    "Part": "MB10",
+                    "Value": "MOUSE-BITE-12_HOLES"
+                },
+                {
+                    "BOM": "13326",
+                    "Description": "RES-11028",
+                    "Device": "150OHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R1",
+                    "Value": "150"
+                },
+                {
+                    "BOM": "13326",
+                    "Description": "RES-11028",
+                    "Device": "150OHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R2",
+                    "Value": "150"
+                },
+                {
+                    "BOM": "13326",
+                    "Description": "RES-11028",
+                    "Device": "150OHM-1/10W-1%(0603)",
+                    "Package": "0603-RES",
+                    "Part": "R3",
+                    "Value": "150"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPDT Switch",
+                    "Device": "SWITCH-SPDTSMD",
+                    "Package": "AYZ0202",
+                    "Part": "S1",
+                    "Value": "S1"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Various NO switches- pushbuttons, reed, etc",
+                    "Device": "SWITCH-MOMENTARY-2SMD",
+                    "Package": "TACTILE-SWITCH-SMD",
+                    "Part": "S2",
+                    "Value": "SWITCH-MOMENTARY-2SMD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "SPDT Switch",
+                    "Device": "SWITCH-SPDTSMD",
+                    "Package": "AYZ0202",
+                    "Part": "S3",
+                    "Value": "S3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP8",
+                    "Package": "PETAL-MEDIUM-2SIDE",
+                    "Part": "SLIDEOFF",
+                    "Value": "SEWTAP8"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Sew Taps for LilyPad Boards.",
+                    "Device": "SEWTAP8",
+                    "Package": "PETAL-MEDIUM-2SIDE",
+                    "Part": "SLIDEON",
+                    "Value": "SEWTAP8"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "REVISION",
+                    "Package": "REVISION",
+                    "Part": "U$1",
+                    "Value": "REVISION"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Special Ordering/Production Instructions Alert",
+                    "Device": "SPECIAL_INSTRUCTIONS-ORDERING",
+                    "Package": "ORDERING_INSTRUCTIONS",
+                    "Part": "U$9",
+                    "Value": "SPECIAL_INSTRUCTIONS-ORDERING"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }

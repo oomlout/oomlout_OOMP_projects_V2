@@ -1,4 +1,7 @@
 {
+    "code": [],
+    "collection": [],
+    "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit HaD Proto HAT rev A.brd"
@@ -35,6 +38,17 @@
     "oompIndex": [
         "01"
     ],
+    "oompInstances": [],
+    "oompParts": [
+        {
+            "CONN1": "HEAD-I01-X-PI25-01",
+            "R1": "RESE-0805-X-O392-01",
+            "R2": "RESE-0805-X-O392-01",
+            "R3": "RESE-0805-X-O392-01",
+            "RPI1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
+    ],
     "oompSize": [
         "ADAF"
     ],
@@ -42,6 +56,85 @@
         "PROJ"
     ],
     "oplPartNumber": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HEADER-1X25",
+                    "Package": "1X25_ROUND_70MIL",
+                    "Part": "CONN1",
+                    "Value": "HEADER-1X25"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "EXCLUDE",
+                    "Description": "Fiducial Alignment Points",
+                    "Device": "FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "3.9K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "3.9K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Resistors",
+                    "Device": "RESISTOR0805_NOOUTLINE",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "3.9K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RASPBERRYPI_BPLUS_HATNOSLOTS",
+                    "Package": "PI_HAT_NOSLOTS",
+                    "Part": "RPI1",
+                    "Value": "RASPBERRYPI_BPLUS_HATNOSLOTS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Solder Jumper - Closed",
+                    "Device": "SOLDERJUMPER_CLOSED",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": "WP"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Note: The same pinout is used for many I2C EEPROMs in SOIC8(150mil) from a variety of manufacturers and in various sizes.",
+                    "Device": "EEPROM_I2C_SOIC8_GENERIC",
+                    "Package": "SOIC8_150MIL",
+                    "Part": "U1",
+                    "Value": "CAT24C32"
+                }
+            ],
+            "kicadBom": []
+        }
+    ],
     "symbolKicad": [],
     "symbolKicadDetails": []
 }
