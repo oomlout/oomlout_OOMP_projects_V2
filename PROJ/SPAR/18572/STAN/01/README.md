@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/LoRa 1W Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-18572-STAN-01](http://oom.lt/PROJ-SPAR-18572-STAN-01)
 - Short Link: [http://oom.lt/PRPR18572](http://oom.lt/PRPR18572)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

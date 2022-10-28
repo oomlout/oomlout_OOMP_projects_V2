@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic RFID Tag
 - Long Link: [http://oom.lt/PROJ-SPAR-19035-STAN-01](http://oom.lt/PROJ-SPAR-19035-STAN-01)
 - Short Link: [http://oom.lt/PRPR19035](http://oom.lt/PRPR19035)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,19 @@
 - Description: TeensyView
 - Long Link: [http://oom.lt/PROJ-SPAR-14048-STAN-01](http://oom.lt/PROJ-SPAR-14048-STAN-01)
 - Short Link: [http://oom.lt/PRPR14048](http://oom.lt/PRPR14048)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0402-X-UNMATCHED-01|C1,C2,C3,C4,|
+|![]()|CAPC-0805-X-UF22D-V25|C5,|
+|![]()|CAPC-1206-X-UF47D-01|C6,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|OLED1,|
+|![]()|RESE-0603-X-O3903-01|R1,|
+|![]()|RESE-0603-X-O472-01|R4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/14048/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14048/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/14048/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14048/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/14048/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14048/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/14048/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14048/STAN/01/kicadPcb3dBack.png)|

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit Conway Game of Life Kit
 - Long Link: [http://oom.lt/PROJ-ADAF-0089-STAN-01](http://oom.lt/PROJ-ADAF-0089-STAN-01)
 - Short Link: [http://oom.lt/PRPR0089](http://oom.lt/PRPR0089)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

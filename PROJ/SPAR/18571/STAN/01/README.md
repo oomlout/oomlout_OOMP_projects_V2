@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Inline DC Panel Meter
 - Long Link: [http://oom.lt/PROJ-SPAR-18571-STAN-01](http://oom.lt/PROJ-SPAR-18571-STAN-01)
 - Short Link: [http://oom.lt/PRPR18571](http://oom.lt/PRPR18571)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

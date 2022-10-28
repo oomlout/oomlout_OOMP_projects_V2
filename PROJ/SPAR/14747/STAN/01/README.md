@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun Pi AVR Programmer HAT
 - Long Link: [http://oom.lt/PROJ-SPAR-14747-STAN-01](http://oom.lt/PROJ-SPAR-14747-STAN-01)
 - Short Link: [http://oom.lt/PRPR14747](http://oom.lt/PRPR14747)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

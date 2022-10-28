@@ -11,6 +11,13 @@ NO IMAGE
 - Description: MicroMod Qwiic Carrier
 - Long Link: [http://oom.lt/PROJ-SPAR-17723-STAN-01](http://oom.lt/PROJ-SPAR-17723-STAN-01)
 - Short Link: [http://oom.lt/PRPR17723](http://oom.lt/PRPR17723)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

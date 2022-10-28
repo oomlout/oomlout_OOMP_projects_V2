@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic UV VEML6075
 - Long Link: [http://oom.lt/PROJ-SPAR-14748-STAN-01](http://oom.lt/PROJ-SPAR-14748-STAN-01)
 - Short Link: [http://oom.lt/PRPR14748](http://oom.lt/PRPR14748)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

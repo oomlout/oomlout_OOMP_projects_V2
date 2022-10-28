@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/RGB Panel Arduino Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-14721-STAN-01](http://oom.lt/PROJ-SPAR-14721-STAN-01)
 - Short Link: [http://oom.lt/PRPR14721](http://oom.lt/PRPR14721)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

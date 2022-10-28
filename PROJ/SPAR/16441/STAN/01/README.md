@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/2D Barcode Scanner
 - Long Link: [http://oom.lt/PROJ-SPAR-16441-STAN-01](http://oom.lt/PROJ-SPAR-16441-STAN-01)
 - Short Link: [http://oom.lt/PRPR16441](http://oom.lt/PRPR16441)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

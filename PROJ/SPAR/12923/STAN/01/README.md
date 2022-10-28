@@ -11,6 +11,13 @@ NO IMAGE
 - Description: MicroView
 - Long Link: [http://oom.lt/PROJ-SPAR-12923-STAN-01](http://oom.lt/PROJ-SPAR-12923-STAN-01)
 - Short Link: [http://oom.lt/PRPR12923](http://oom.lt/PRPR12923)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

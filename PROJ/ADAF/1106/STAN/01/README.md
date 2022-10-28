@@ -11,6 +11,18 @@
 - Description: TIMESQUARE DIY Watch Kit
 - Long Link: [http://oom.lt/PROJ-ADAF-1106-STAN-01](http://oom.lt/PROJ-ADAF-1106-STAN-01)
 - Short Link: [http://oom.lt/PRPR1106](http://oom.lt/PRPR1106)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BATT,IC1,IC2,PLUS,Q1,SET,|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C1,|
+|![]()|LEDS-UNMATCHED-G-STAN-01|LED1,|
+|![]()|RESE-UNMATCHED-X-O470-01|R1,R2,R3,R4,R5,R6,R7,R8,|
+|![]()|RESE-UNMATCHED-X-O103-01|R10,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dBack.png)|

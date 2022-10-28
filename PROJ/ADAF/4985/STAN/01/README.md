@@ -11,6 +11,36 @@
 - Description: Adafruit FunHouse PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4985-STAN-01](http://oom.lt/PROJ-ADAF-4985-STAN-01)
 - Short Link: [http://oom.lt/PRPR4985](http://oom.lt/PRPR4985)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C20,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[C2,C5,C15,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|
+|![]()|CAPC-0805-X-UNMATCHED-01|C3,C4,C7,C10,C11,C13,C17,|
+|![]()|CAPC-0603-X-UF1-V25|C6,C12,C14,|
+|![]()|CAPC-UNMATCHED-X-UNMATCHED-01|C9,|
+|![]()|HEAD-I01-X-UNMATCHED-01|CONN1,|
+|![]()|DIOD-S323-X-UNMATCHED-01|D1,D2,D6,|
+|![]()|DIOD-S323-X-K4148-01|D3,|
+|![]()|UNMATCHED-2020-X-K102-01|DS0,DS1,DS2,DS3,DS4,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI2X03/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI2X03/01/)|[HEAD-I01-X-PI2X03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI2X03/01/)|[JP1,JP2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI2X03/01/)|
+|![]()|LEDS-0603-R-STAN-01|L,|
+|![]()|LEDS-0603-G-STAN-01|ON,|
+|![]()|MOSN-SO23-X-KBSS138-01|Q1,Q4,|
+|![]()|MOSP-SO23-X-UNMATCHED-01|Q3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[R1,R4,R5,R7,R9,R10,R12,R13,R20,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[R2,R16,R18,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|
+|![]()|RESE-0603-X-O472-01|R3,R8,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O473/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/)|[RESE-0603-X-O473-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/)|[R6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|[RESE-0603-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|[R11,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|
+|![]()|RESE-0603-X-UNMATCHED-01|R14,R17,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|SENSE,SENSE1,SENSE3,SP1,SW2,SW3,SW5,SW6,SW7,TFT1,U1,U2,U3,U5,X1,X3,X4,X5,X6,|
+|![]()|BUTA-UNMATCHED-X-STAN-01|SW4,|
+|![]()|VREG-SO235-X-KAP2112K-V33D|U4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4985/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4985/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4985/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4985/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4985/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4985/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4985/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4985/STAN/01/kicadPcb3dBack.png)|

@@ -11,6 +11,24 @@
 - Description: SparkFun Pulse Oximeter Heart Rate Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-15219-STAN-01](http://oom.lt/PROJ-SPAR-15219-STAN-01)
 - Short Link: [http://oom.lt/PRPR15219](http://oom.lt/PRPR15219)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0603-X-UF10-V63D|C1,C3,|
+|![]()|CAPC-0402-X-NF100-V10|C2,|
+|![]()|CAPC-0805-X-UF22-V63D|C4,|
+|![]()|CAPC-0603-X-UNMATCHED-01|C5,|
+|![]()|CAPC-0402-X-UNMATCHED-01|C6,C7,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J1,J2,L1,LOGO4,U$2,U1,U2,U3,Y1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI05/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI05/01/)|[HEAD-I01-X-PI05-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI05/01/)|[J3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI05/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[J4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
+|![]()|RESE-0603-X-O472-01|R1,R2,R5,R6,R7,|
+|![]()|RESE-0603-X-O7503-01|R3,|
+|![]()|RESE-0402-X-O1003-01|R4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15219/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15219/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15219/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15219/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15219/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15219/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15219/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15219/STAN/01/kicadPcb3dBack.png)|

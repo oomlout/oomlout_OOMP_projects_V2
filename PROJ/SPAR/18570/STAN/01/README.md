@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic PC Fan Controller
 - Long Link: [http://oom.lt/PROJ-SPAR-18570-STAN-01](http://oom.lt/PROJ-SPAR-18570-STAN-01)
 - Short Link: [http://oom.lt/PRPR18570](http://oom.lt/PRPR18570)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

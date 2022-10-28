@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Accelerometer MMA8452Q
 - Long Link: [http://oom.lt/PROJ-SPAR-14248-STAN-01](http://oom.lt/PROJ-SPAR-14248-STAN-01)
 - Short Link: [http://oom.lt/PRPR14248](http://oom.lt/PRPR14248)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

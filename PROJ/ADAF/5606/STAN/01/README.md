@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit ENS160 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5606-STAN-01](http://oom.lt/PROJ-ADAF-5606-STAN-01)
 - Short Link: [http://oom.lt/PRPR5606](http://oom.lt/PRPR5606)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol Environmental
 - Long Link: [http://oom.lt/PROJ-SPAR-18976-STAN-01](http://oom.lt/PROJ-SPAR-18976-STAN-01)
 - Short Link: [http://oom.lt/PRPR18976](http://oom.lt/PRPR18976)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

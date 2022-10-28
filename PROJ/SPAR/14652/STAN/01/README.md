@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Magnetic Imaging Tile
 - Long Link: [http://oom.lt/PROJ-SPAR-14652-STAN-01](http://oom.lt/PROJ-SPAR-14652-STAN-01)
 - Short Link: [http://oom.lt/PRPR14652](http://oom.lt/PRPR14652)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun u blox MAX M10S
 - Long Link: [http://oom.lt/PROJ-SPAR-18037-STAN-01](http://oom.lt/PROJ-SPAR-18037-STAN-01)
 - Short Link: [http://oom.lt/PRPR18037](http://oom.lt/PRPR18037)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: TV B Gone kit
 - Long Link: [http://oom.lt/PROJ-ADAF-0073-STAN-01](http://oom.lt/PROJ-ADAF-0073-STAN-01)
 - Short Link: [http://oom.lt/PRPR0073](http://oom.lt/PRPR0073)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

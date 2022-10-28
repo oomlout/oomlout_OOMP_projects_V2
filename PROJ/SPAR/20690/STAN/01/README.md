@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun Qwiic Speaker Amp
 - Long Link: [http://oom.lt/PROJ-SPAR-20690-STAN-01](http://oom.lt/PROJ-SPAR-20690-STAN-01)
 - Short Link: [http://oom.lt/PRPR20690](http://oom.lt/PRPR20690)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

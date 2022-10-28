@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit PCB Ruler
 - Long Link: [http://oom.lt/PROJ-ADAF-1554-STAN-01](http://oom.lt/PROJ-ADAF-1554-STAN-01)
 - Short Link: [http://oom.lt/PRPR1554](http://oom.lt/PRPR1554)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

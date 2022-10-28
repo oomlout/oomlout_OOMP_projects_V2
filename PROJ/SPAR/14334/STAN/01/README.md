@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Module for Tessel 2
 - Long Link: [http://oom.lt/PROJ-SPAR-14334-STAN-01](http://oom.lt/PROJ-SPAR-14334-STAN-01)
 - Short Link: [http://oom.lt/PRPR14334](http://oom.lt/PRPR14334)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Qtechknow ArduSensor Learning Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-11470-STAN-01](http://oom.lt/PROJ-SPAR-11470-STAN-01)
 - Short Link: [http://oom.lt/PRPR11470](http://oom.lt/PRPR11470)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

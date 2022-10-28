@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Humidity SHTC3
 - Long Link: [http://oom.lt/PROJ-SPAR-15074-STAN-01](http://oom.lt/PROJ-SPAR-15074-STAN-01)
 - Short Link: [http://oom.lt/PRPR15074](http://oom.lt/PRPR15074)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

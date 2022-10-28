@@ -11,6 +11,21 @@
 - Description: Adafruit Charger BFF PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5397-STAN-01](http://oom.lt/PROJ-ADAF-5397-STAN-01)
 - Short Link: [http://oom.lt/PRPR5397](http://oom.lt/PRPR5397)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UNMATCHED-01|C1,C20,|
+|![]()|LEDS-0603-O-STAN-01|CHG,|
+|![]()|DIOD-S123-X-KMBR120-01|D2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI07/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|[HEAD-I01-X-PI07-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|[JP1,JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI07/01/)|
+|![]()|RESE-0603-X-O1003-01|R1,R3,|
+|![]()|RESE-0603-X-O472-01|R2,R8,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|SW2,X1,|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U3,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5397/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5397/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5397/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5397/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5397/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5397/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5397/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5397/STAN/01/kicadPcb3dBack.png)|

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic USB Hub USB2514B
 - Long Link: [http://oom.lt/PROJ-SPAR-18014-STAN-01](http://oom.lt/PROJ-SPAR-18014-STAN-01)
 - Short Link: [http://oom.lt/PRPR18014](http://oom.lt/PRPR18014)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

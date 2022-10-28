@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic BMI270
 - Long Link: [http://oom.lt/PROJ-SPAR-17353-STAN-01](http://oom.lt/PROJ-SPAR-17353-STAN-01)
 - Short Link: [http://oom.lt/PRPR17353](http://oom.lt/PRPR17353)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

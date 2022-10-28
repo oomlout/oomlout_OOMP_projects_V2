@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Zio Qwiic Soil Moisture Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-17731-STAN-01](http://oom.lt/PROJ-SPAR-17731-STAN-01)
 - Short Link: [http://oom.lt/PRPR17731](http://oom.lt/PRPR17731)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

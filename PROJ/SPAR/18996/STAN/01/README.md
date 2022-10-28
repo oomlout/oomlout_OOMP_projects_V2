@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol OLED Display
 - Long Link: [http://oom.lt/PROJ-SPAR-18996-STAN-01](http://oom.lt/PROJ-SPAR-18996-STAN-01)
 - Short Link: [http://oom.lt/PRPR18996](http://oom.lt/PRPR18996)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

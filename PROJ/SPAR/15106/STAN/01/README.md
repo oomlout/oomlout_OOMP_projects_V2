@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic GPS SAM M8Q
 - Long Link: [http://oom.lt/PROJ-SPAR-15106-STAN-01](http://oom.lt/PROJ-SPAR-15106-STAN-01)
 - Short Link: [http://oom.lt/PRPR15106](http://oom.lt/PRPR15106)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

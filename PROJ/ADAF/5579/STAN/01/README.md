@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit MMC5603 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5579-STAN-01](http://oom.lt/PROJ-ADAF-5579-STAN-01)
 - Short Link: [http://oom.lt/PRPR5579](http://oom.lt/PRPR5579)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

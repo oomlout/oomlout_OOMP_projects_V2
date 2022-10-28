@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun Air Velocity Sensor FS3000 Qwiic
 - Long Link: [http://oom.lt/PROJ-SPAR-18377-STAN-01](http://oom.lt/PROJ-SPAR-18377-STAN-01)
 - Short Link: [http://oom.lt/PRPR18377](http://oom.lt/PRPR18377)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

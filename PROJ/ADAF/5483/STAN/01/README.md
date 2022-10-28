@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit ESP32 S3 TFT Feather PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5483-STAN-01](http://oom.lt/PROJ-ADAF-5483-STAN-01)
 - Short Link: [http://oom.lt/PRPR5483](http://oom.lt/PRPR5483)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

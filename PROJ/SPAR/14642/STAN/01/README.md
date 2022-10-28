@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic RTC
 - Long Link: [http://oom.lt/PROJ-SPAR-14642-STAN-01](http://oom.lt/PROJ-SPAR-14642-STAN-01)
 - Short Link: [http://oom.lt/PRPR14642](http://oom.lt/PRPR14642)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

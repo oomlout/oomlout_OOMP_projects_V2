@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632
 - Long Link: [http://oom.lt/PROJ-SPAR-14569-STAN-01](http://oom.lt/PROJ-SPAR-14569-STAN-01)
 - Short Link: [http://oom.lt/PRPR14569](http://oom.lt/PRPR14569)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

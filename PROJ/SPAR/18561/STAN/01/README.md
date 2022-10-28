@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Blower Fan
 - Long Link: [http://oom.lt/PROJ-SPAR-18561-STAN-01](http://oom.lt/PROJ-SPAR-18561-STAN-01)
 - Short Link: [http://oom.lt/PRPR18561](http://oom.lt/PRPR18561)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

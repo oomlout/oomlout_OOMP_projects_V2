@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Differential Pressure Sensor SDP31
 - Long Link: [http://oom.lt/PROJ-SPAR-17874-STAN-01](http://oom.lt/PROJ-SPAR-17874-STAN-01)
 - Short Link: [http://oom.lt/PRPR17874](http://oom.lt/PRPR17874)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

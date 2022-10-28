@@ -11,6 +11,16 @@
 - Description: Adafruit Joy Bonnet PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3464-STAN-01](http://oom.lt/PROJ-ADAF-3464-STAN-01)
 - Short Link: [http://oom.lt/PRPR3464](http://oom.lt/PRPR3464)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|BUTA-4628-X-STAN-01|1,2,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|JOY1,RPI1,U1,|
+|![]()|BUTA-6060-X-STAN-01|SW1,SW2,SW3,SW4,SW5,SW8,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3464/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3464/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3464/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3464/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3464/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3464/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3464/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3464/STAN/01/kicadPcb3dBack.png)|

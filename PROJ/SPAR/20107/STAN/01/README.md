@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Satellite Transceiver Function Board  Swarm M138
 - Long Link: [http://oom.lt/PROJ-SPAR-20107-STAN-01](http://oom.lt/PROJ-SPAR-20107-STAN-01)
 - Short Link: [http://oom.lt/PRPR20107](http://oom.lt/PRPR20107)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

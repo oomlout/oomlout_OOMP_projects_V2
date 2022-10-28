@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/MP3 Breakout WT2003S
 - Long Link: [http://oom.lt/PROJ-SPAR-14810-STAN-01](http://oom.lt/PROJ-SPAR-14810-STAN-01)
 - Short Link: [http://oom.lt/PRPR14810](http://oom.lt/PRPR14810)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,24 @@
 - Description: SparkFun Artemis
 - Long Link: [http://oom.lt/PROJ-SPAR-15332-STAN-01](http://oom.lt/PROJ-SPAR-15332-STAN-01)
 - Short Link: [http://oom.lt/PRPR15332](http://oom.lt/PRPR15332)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|A1,U1,Y1,|
+|![]()|CAPC-0402-X-UF47-01|C1,|
+|![]()|CAPC-0402-X-UF47D-V63D|C2,|
+|![]()|CAPC-0402-X-UF22D-01|C3,C5,C8,C16,|
+|![]()|CAPC-0402-X-UNMATCHED-01|C4,C12,C13,C14,C15,|
+|![]()|CAPC-0402-X-PF6-01|C6,C7,|
+|![]()|CAPC-0402-X-NF47-V25|C11,|
+|![]()|CAPC-0402-X-NF500-01|C18,|
+|![]()|UNMATCHED-0805-X-UNMATCHED-01|L1,L2,|
+|![]()|UNMATCHED-0402-X-UNMATCHED-01|L3,L4,|
+|![]()|RESE-0402-X-UNMATCHED-01|R2,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dBack.png)|

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C
 - Long Link: [http://oom.lt/PROJ-SPAR-18018-STAN-01](http://oom.lt/PROJ-SPAR-18018-STAN-01)
 - Short Link: [http://oom.lt/PRPR18018](http://oom.lt/PRPR18018)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

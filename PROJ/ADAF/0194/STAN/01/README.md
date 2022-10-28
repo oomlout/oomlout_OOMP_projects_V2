@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Ice Tube Clock
 - Long Link: [http://oom.lt/PROJ-ADAF-0194-STAN-01](http://oom.lt/PROJ-ADAF-0194-STAN-01)
 - Short Link: [http://oom.lt/PRPR0194](http://oom.lt/PRPR0194)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

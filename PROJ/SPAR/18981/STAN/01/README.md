@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Ambient Light Sensor VEML7700
 - Long Link: [http://oom.lt/PROJ-SPAR-18981-STAN-01](http://oom.lt/PROJ-SPAR-18981-STAN-01)
 - Short Link: [http://oom.lt/PRPR18981](http://oom.lt/PRPR18981)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

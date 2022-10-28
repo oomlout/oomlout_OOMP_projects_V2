@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Zio Qwiic Ultrasonic Distance Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-17777-STAN-01](http://oom.lt/PROJ-SPAR-17777-STAN-01)
 - Short Link: [http://oom.lt/PRPR17777](http://oom.lt/PRPR17777)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

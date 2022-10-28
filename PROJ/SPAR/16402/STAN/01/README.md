@@ -11,6 +11,30 @@
 - Description: MicroMod Teensy Processor
 - Long Link: [http://oom.lt/PROJ-SPAR-16402-STAN-01](http://oom.lt/PROJ-SPAR-16402-STAN-01)
 - Short Link: [http://oom.lt/PRPR16402](http://oom.lt/PRPR16402)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0402-X-UF22D-01|C1,C11,|
+|![]()|CAPC-0402-X-UF47D-V63D|C2,C14,C18,C26,C27,|
+|![]()|CAPC-0402-X-NF220-V16|C3,C4,C12,C13,C15,C17,C20,C22,C23,C24,C25,C28,C29,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/NF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|[C5,C16,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF12/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF12/V50/)|[CAPC-0402-X-PF12-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF12/V50/)|[C6,C7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF12/V50/)|
+|![]()|CAPC-0402-X-PF20-01|C8,C9,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/UF10/V63D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|[CAPC-0402-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|[C10,C19,C21,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|
+|![]()|LEDS-0603-L-STAN-01|D1,|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D2,D3,D4,|
+|![]()|LEDS-0603-Y-STAN-01|D5,|
+|![]()|FERB-0402-X-UNMATCHED-01|FB1,FB2,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J1,L2,LOGO3,MEAS,TP1,TP2,TP3,TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11,TP12,TP13,U1,U3,U4,Y1,Y2,|
+|![]()|MOSP-SO23-X-UNMATCHED-01|Q1,|
+|![]()|MOSN-UNMATCHED-X-UNMATCHED-01|Q2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[R1,R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|
+|![]()|RESE-0402-X-O1003-01|R2,R5,R6,|
+|![]()|RESE-0402-X-UNMATCHED-01|R4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16402/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16402/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16402/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16402/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16402/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16402/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16402/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16402/STAN/01/kicadPcb3dBack.png)|

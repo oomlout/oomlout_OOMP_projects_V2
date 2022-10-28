@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit LTR 329 LTR 303 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5591-STAN-01](http://oom.lt/PROJ-ADAF-5591-STAN-01)
 - Short Link: [http://oom.lt/PRPR5591](http://oom.lt/PRPR5591)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

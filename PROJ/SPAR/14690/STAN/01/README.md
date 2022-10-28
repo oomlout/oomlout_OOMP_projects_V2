@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Proximity VCNL4040
 - Long Link: [http://oom.lt/PROJ-SPAR-14690-STAN-01](http://oom.lt/PROJ-SPAR-14690-STAN-01)
 - Short Link: [http://oom.lt/PRPR14690](http://oom.lt/PRPR14690)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

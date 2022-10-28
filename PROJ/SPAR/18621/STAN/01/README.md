@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol Power Board AAA
 - Long Link: [http://oom.lt/PROJ-SPAR-18621-STAN-01](http://oom.lt/PROJ-SPAR-18621-STAN-01)
 - Short Link: [http://oom.lt/PRPR18621](http://oom.lt/PRPR18621)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

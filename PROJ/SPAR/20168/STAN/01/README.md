@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun Thing Plus ESP32 WROOM C
 - Long Link: [http://oom.lt/PROJ-SPAR-20168-STAN-01](http://oom.lt/PROJ-SPAR-20168-STAN-01)
 - Short Link: [http://oom.lt/PRPR20168](http://oom.lt/PRPR20168)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

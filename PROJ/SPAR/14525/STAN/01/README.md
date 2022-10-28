@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/RedBoard Edge
 - Long Link: [http://oom.lt/PROJ-SPAR-14525-STAN-01](http://oom.lt/PROJ-SPAR-14525-STAN-01)
 - Short Link: [http://oom.lt/PRPR14525](http://oom.lt/PRPR14525)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

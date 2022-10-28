@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit Microtouch
 - Long Link: [http://oom.lt/PROJ-ADAF-0330-STAN-01](http://oom.lt/PROJ-ADAF-0330-STAN-01)
 - Short Link: [http://oom.lt/PRPR0330](http://oom.lt/PRPR0330)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

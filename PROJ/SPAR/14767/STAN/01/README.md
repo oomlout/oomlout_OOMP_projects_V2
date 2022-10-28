@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Pressure LPS25HB
 - Long Link: [http://oom.lt/PROJ-SPAR-14767-STAN-01](http://oom.lt/PROJ-SPAR-14767-STAN-01)
 - Short Link: [http://oom.lt/PRPR14767](http://oom.lt/PRPR14767)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

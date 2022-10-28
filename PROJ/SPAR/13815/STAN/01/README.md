@@ -11,6 +11,20 @@
 - Description: Beefcake Relay Control Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-13815-STAN-01](http://oom.lt/PROJ-SPAR-13815-STAN-01)
 - Short Link: [http://oom.lt/PRPR13815](http://oom.lt/PRPR13815)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|DIOD-UNMATCHED-X-K4148-01|D1,|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D2,|
+|![]()|TERS-UNMATCHED-X-UNMATCHED-01|J1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TERS/35D/L/PI03/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|[TERS-35D-L-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|[J2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|K1,Q1,|
+|![]()|LEDS-UNMATCHED-G-STAN-01|LED1,|
+|![]()|RESE-UNMATCHED-X-O102-01|R1,R2,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13815/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13815/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13815/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13815/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13815/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13815/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13815/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13815/STAN/01/kicadPcb3dBack.png)|

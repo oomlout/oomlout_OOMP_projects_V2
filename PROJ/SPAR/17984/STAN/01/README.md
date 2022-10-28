@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/IOTA ARTIC R2 Module
 - Long Link: [http://oom.lt/PROJ-SPAR-17984-STAN-01](http://oom.lt/PROJ-SPAR-17984-STAN-01)
 - Short Link: [http://oom.lt/PRPR17984](http://oom.lt/PRPR17984)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

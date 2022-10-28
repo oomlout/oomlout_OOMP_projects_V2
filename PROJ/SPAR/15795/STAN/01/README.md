@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Pro Micro
 - Long Link: [http://oom.lt/PROJ-SPAR-15795-STAN-01](http://oom.lt/PROJ-SPAR-15795-STAN-01)
 - Short Link: [http://oom.lt/PRPR15795](http://oom.lt/PRPR15795)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

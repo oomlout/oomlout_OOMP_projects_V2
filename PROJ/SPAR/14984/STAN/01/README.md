@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SAMD21 ProRF 1W
 - Long Link: [http://oom.lt/PROJ-SPAR-14984-STAN-01](http://oom.lt/PROJ-SPAR-14984-STAN-01)
 - Short Link: [http://oom.lt/PRPR14984](http://oom.lt/PRPR14984)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

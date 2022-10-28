@@ -11,6 +11,26 @@
 - Description: MicroMod Artemis Processor
 - Long Link: [http://oom.lt/PROJ-SPAR-16401-STAN-01](http://oom.lt/PROJ-SPAR-16401-STAN-01)
 - Short Link: [http://oom.lt/PRPR16401](http://oom.lt/PRPR16401)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0402-X-NF100-V10|C1,C18,C20,C21,|
+|![]()|CAPC-0402-X-NF220-V16|C2,|
+|![]()|CAPC-0402-X-UNMATCHED-01|C3,C28,|
+|![]()|CAPC-0603-X-UF10-V63D|C4,|
+|![]()|CAPC-0402-X-PF15-V50|C11,C13,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/NF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|[CAPC-0402-X-NF10-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|[C17,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/)|
+|![]()|LEDS-0603-L-STAN-01|D2,|
+|![]()|DIOD-S323-X-UNMATCHED-01|D7,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J1,LOGO4,U1,U2,U6,Y1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[R1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|
+|![]()|RESE-0402-X-O1003-01|R2,R3,R6,R14,|
+|![]()|RESE-0402-X-O1503-01|R4,R5,R7,|
+|![]()|RESE-0402-X-O2203-01|R15,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16401/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16401/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16401/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/16401/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/kicadPcb3dBack.png)|

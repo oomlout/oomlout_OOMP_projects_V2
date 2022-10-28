@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Human Presence Sensor AK9750
 - Long Link: [http://oom.lt/PROJ-SPAR-14289-STAN-01](http://oom.lt/PROJ-SPAR-14289-STAN-01)
 - Short Link: [http://oom.lt/PRPR14289](http://oom.lt/PRPR14289)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

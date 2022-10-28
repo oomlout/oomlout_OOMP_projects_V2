@@ -11,6 +11,22 @@
 - Description: Adafruit 2 13in eInk Bonnet PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4687-STAN-01](http://oom.lt/PROJ-ADAF-4687-STAN-01)
 - Short Link: [http://oom.lt/PRPR4687](http://oom.lt/PRPR4687)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UNMATCHED-01|C1,C2,C6,C15,C21,|
+|![]()|CAPC-0805-X-UNMATCHED-V25|C3,C4,C5,C22,C23,|
+|![]()|CAPC-0805-X-UF1-V25|C16,C24,|
+|![]()|HEAD-I01-X-UNMATCHED-01|CONN2,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D1,D2,D3,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|EINK1,L1,RPI2,SW3,SW4,|
+|![]()|UNMATCHED-SO23-X-UNMATCHED-01|Q5,|
+|![]()|RESE-0603-X-O1003-01|R2,R3,R5,R6,|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4687/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4687/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4687/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4687/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4687/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4687/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4687/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4687/STAN/01/kicadPcb3dBack.png)|

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit WCH CH9102F Friend PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5568-STAN-01](http://oom.lt/PROJ-ADAF-5568-STAN-01)
 - Short Link: [http://oom.lt/PRPR5568](http://oom.lt/PRPR5568)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

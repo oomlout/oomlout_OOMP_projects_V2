@@ -11,6 +11,34 @@
 - Description: Adafruit Feather M4 CAN PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4759-STAN-01](http://oom.lt/PROJ-ADAF-4759-STAN-01)
 - Short Link: [http://oom.lt/PRPR4759](http://oom.lt/PRPR4759)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF22/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|[CAPC-0603-X-PF22-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|[C2,C4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/)|
+|![]()|CAPC-0805-X-UNMATCHED-01|C3,C6,C8,|
+|![]()|CAPC-0805-X-UF10-V10|C5,C13,C16,C17,|
+|![]()|CAPC-0603-X-UF1-V25|C7,C10,C11,C12,C14,C15,|
+|![]()|CAPC-UNMATCHED-X-UF1-01|C18,|
+|![]()|LEDS-0603-O-STAN-01|CHG,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|D+1,D-1,IC1,L2,U$14,U1,X1,X2,X6,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D4,|
+|![]()|UNMATCHED-SO23-X-UNMATCHED-01|IC3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI16/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI12/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|
+|![]()|LEDS-0603-R-STAN-01|L,|
+|![]()|LEDS-3535-RGB-K2812-01|LED1,|
+|![]()|MOSP-SO23-X-UNMATCHED-01|Q3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[R2,R3,R4,R5,R6,R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|
+|![]()|RESE-0603-X-O472-01|R8,R12,R13,|
+|![]()|RESA-06038-X-O1003X4-01|R9,|
+|![]()|RESE-0805-X-UNMATCHED-01|R10,R11,|
+|![]()|BUTA-4628-X-STAN-01|SW1,|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U2,U3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TERS/35D/L/PI03/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|[TERS-35D-L-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|[X4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI03/01/)|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4759/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4759/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4759/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4759/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4759/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4759/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4759/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4759/STAN/01/kicadPcb3dBack.png)|

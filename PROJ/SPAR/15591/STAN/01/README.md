@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Switch
 - Long Link: [http://oom.lt/PROJ-SPAR-15591-STAN-01](http://oom.lt/PROJ-SPAR-15591-STAN-01)
 - Short Link: [http://oom.lt/PRPR15591](http://oom.lt/PRPR15591)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

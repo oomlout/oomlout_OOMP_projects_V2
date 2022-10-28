@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Iridium 9603N
 - Long Link: [http://oom.lt/PROJ-SPAR-16394-STAN-01](http://oom.lt/PROJ-SPAR-16394-STAN-01)
 - Short Link: [http://oom.lt/PRPR16394](http://oom.lt/PRPR16394)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit LSM6DS3TR C LIS3MDL PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5543-STAN-01](http://oom.lt/PROJ-ADAF-5543-STAN-01)
 - Short Link: [http://oom.lt/PRPR5543](http://oom.lt/PRPR5543)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

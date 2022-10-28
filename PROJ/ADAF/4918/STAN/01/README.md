@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit TCA8418 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4918-STAN-01](http://oom.lt/PROJ-ADAF-4918-STAN-01)
 - Short Link: [http://oom.lt/PRPR4918](http://oom.lt/PRPR4918)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

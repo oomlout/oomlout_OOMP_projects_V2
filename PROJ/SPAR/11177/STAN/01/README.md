@@ -11,6 +11,26 @@
 - Description: Sparkpunk
 - Long Link: [http://oom.lt/PROJ-SPAR-11177-STAN-01](http://oom.lt/PROJ-SPAR-11177-STAN-01)
 - Short Link: [http://oom.lt/PRPR11177](http://oom.lt/PRPR11177)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BAT1,IC1,IC2,IC3,IC4,J1,RV1,RV2,RV3,RV4,S1,S2,S3,S4,S5,S6,|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C1,C2,C5,C11,C16,|
+|![]()|CAPX-UNMATCHED-X-UF1-01|C3,C12,C13,|
+|![]()|CAPX-UNMATCHED-X-UF47-01|C4,|
+|![]()|CAPX-UNMATCHED-X-UNMATCHED-V25|C6,C7,C8,C9,C10,C14,C15,|
+|![]()|DIOD-UNMATCHED-X-K4148-01|D1,D2,|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10,JP11,JP12,JP13,JP14,JP15,JP16,JP17,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
+|![]()|RESE-UNMATCHED-X-O103-01|R1,R2,R11,R12,R13,|
+|![]()|RESE-UNMATCHED-X-O471-01|R3,R4,|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R5,|
+|![]()|RESE-UNMATCHED-X-O1003-01|R6,R7,R8,R9,R10,|
+|![]()|RESE-UNMATCHED-X-O102-01|R14,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11177/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11177/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11177/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11177/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11177/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11177/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11177/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11177/STAN/01/kicadPcb3dBack.png)|

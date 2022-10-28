@@ -11,6 +11,33 @@
 - Description: Adafruit 5 HDMI Backpack PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2260-STAN-01](http://oom.lt/PROJ-ADAF-2260-STAN-01)
 - Short Link: [http://oom.lt/PRPR2260](http://oom.lt/PRPR2260)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|HEAD-UNMATCHED-X-PI01-01|BACKLITEPWM,GND,JP3,JP4,JP5,JP6,JP7,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[CAPC-0805-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|[C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C19,C20,C23,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF100/V50/)|
+|![]()|CAPC-0805-X-UF10-V10|C12,C13,C14,C15,C16,|
+|![]()|CAPC-0805-X-UF1-V25|C17,C18,C25,|
+|![]()|CAPC-0805-X-UNMATCHED-01|C21,C22,|
+|![]()|CAPE-PANC-X-UNMATCHED-01|C24,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D1,|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D2,|
+|![]()|DIOD-S323-X-K4148-01|D3,|
+|![]()|FERB-0805-X-UNMATCHED-01|FB1,FB2,FB3,FB4,FB5,FB6,FB7,FB8,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC1,J1,L1,U1,U3,X1,X2,Y1,|
+|![]()|LEDS-0805-R-STAN-01|LED1,|
+|![]()|LEDS-0805-G-STAN-01|LED2,|
+|![]()|LEDS-0805-L-STAN-01|LED3,|
+|![]()|MOSN-SO23-X-KBSS138-01|Q1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[R1,R2,R3,R4,R5,R13,R18,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|
+|![]()|RESA-06038-X-O330X4-01|R6,R7,R8,R9,R10,R11,R12,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[R14,R19,R20,R21,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|
+|![]()|RESE-0805-X-O120-01|R15,R16,|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U2,U4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2260/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2260/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2260/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2260/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2260/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2260/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2260/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2260/STAN/01/kicadPcb3dBack.png)|

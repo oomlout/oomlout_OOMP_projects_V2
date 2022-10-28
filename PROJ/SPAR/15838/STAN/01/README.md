@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic ATECC608A
 - Long Link: [http://oom.lt/PROJ-SPAR-15838-STAN-01](http://oom.lt/PROJ-SPAR-15838-STAN-01)
 - Short Link: [http://oom.lt/PRPR15838](http://oom.lt/PRPR15838)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

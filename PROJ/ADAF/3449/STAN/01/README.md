@@ -11,6 +11,22 @@
 - Description: Adafruit DotStar FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3449-STAN-01](http://oom.lt/PROJ-ADAF-3449-STAN-01)
 - Short Link: [http://oom.lt/PRPR3449](http://oom.lt/PRPR3449)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C2,C3,C4,C5,C6,C7,C8,|
+|![]()|DIOD-S123-X-KMBR120-01|D1,D2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[JP3,JP4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
+|![]()|LEDS-2020-RGB-K102-01|LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED17,LED18,LED19,LED20,LED21,LED22,LED23,LED24,LED25,LED26,LED27,LED28,LED29,LED30,LED31,LED32,LED33,LED34,LED35,LED36,LED37,LED38,LED39,LED40,LED41,LED42,LED43,LED44,LED45,LED46,LED47,LED48,LED49,LED50,LED51,LED52,LED53,LED54,LED55,LED56,LED57,LED58,LED59,LED60,LED61,LED62,LED63,LED64,LED65,LED66,LED67,LED68,LED69,LED70,LED71,LED72,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|MS1,|
+|![]()|MOSN-SO23-X-KBSS138-01|Q1,|
+|![]()|MOSP-SO23-X-UNMATCHED-01|Q3,|
+|![]()|RESE-0603-X-O1003-01|R12,|
+|![]()|BUTA-4628-X-STAN-01|SW1,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3449/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3449/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3449/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3449/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3449/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3449/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3449/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3449/STAN/01/kicadPcb3dBack.png)|

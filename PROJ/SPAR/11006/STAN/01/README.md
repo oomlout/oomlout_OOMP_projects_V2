@@ -11,6 +11,13 @@ NO IMAGE
 - Description: LogicBlocks
 - Long Link: [http://oom.lt/PROJ-SPAR-11006-STAN-01](http://oom.lt/PROJ-SPAR-11006-STAN-01)
 - Short Link: [http://oom.lt/PRPR11006](http://oom.lt/PRPR11006)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

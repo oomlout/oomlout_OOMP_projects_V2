@@ -11,6 +11,13 @@ NO IMAGE
 - Description: QuickLogic Thing Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-17273-STAN-01](http://oom.lt/PROJ-SPAR-17273-STAN-01)
 - Short Link: [http://oom.lt/PRPR17273](http://oom.lt/PRPR17273)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

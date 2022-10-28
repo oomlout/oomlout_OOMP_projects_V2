@@ -11,6 +11,16 @@
 - Description: SparkFun Qwiic pHAT Extension
 - Long Link: [http://oom.lt/PROJ-SPAR-17512-STAN-01](http://oom.lt/PROJ-SPAR-17512-STAN-01)
 - Short Link: [http://oom.lt/PRPR17512](http://oom.lt/PRPR17512)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|HEAD-I01-X-UNMATCHED-01|J1,|
+|![]()|HEAD-I01-X-PI2X20-01|J2,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J3,J5,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17512/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17512/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17512/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17512/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17512/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17512/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17512/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17512/STAN/01/kicadPcb3dBack.png)|

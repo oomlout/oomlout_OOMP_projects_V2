@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Shield for ESP32
 - Long Link: [http://oom.lt/PROJ-SPAR-14203-STAN-01](http://oom.lt/PROJ-SPAR-14203-STAN-01)
 - Short Link: [http://oom.lt/PRPR14203](http://oom.lt/PRPR14203)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

@@ -11,6 +11,14 @@
 - Description: Snappable P Board
 - Long Link: [http://oom.lt/PROJ-SPAR-13268-STAN-01](http://oom.lt/PROJ-SPAR-13268-STAN-01)
 - Short Link: [http://oom.lt/PRPR13268](http://oom.lt/PRPR13268)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI10/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI10/01/)|[HEAD-I01-X-PI10-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI10/01/)|[JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10,JP11,JP12,JP13,JP14,JP15,JP16,JP17,JP18,JP19,JP20,JP21,JP22,JP23,JP24,JP25,JP26,JP27,JP28,JP29,JP30,JP31,JP32,JP33,JP34,JP35,JP36,JP37,JP38,JP39,JP40,JP41,JP42,JP43,JP44,JP45,JP46,JP47,JP48,JP49,JP50,JP51,JP52,JP53,JP54,JP55,JP56,JP57,JP58,JP59,JP60,JP61,JP62,JP63,JP64,JP65,JP66,JP67,JP68,JP69,JP70,JP71,JP72,JP73,JP74,JP75,JP76,JP77,JP78,JP79,JP80,JP81,JP82,JP83,JP84,JP85,JP86,JP87,JP88,JP89,JP90,JP91,JP92,JP93,JP94,JP95,JP96,JP97,JP98,JP99,JP100,JP101,JP102,JP103,JP104,JP105,JP106,JP107,JP108,JP109,JP110,JP111,JP112,JP113,JP114,JP115,JP116,JP117,JP118,JP119,JP120,JP121,JP122,JP123,JP124,JP125,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI10/01/)|
+||||
   
 
 |eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13268/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13268/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13268/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13268/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13268/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13268/STAN/01/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13268/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13268/STAN/01/kicadPcb3d.png)|

@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Sound Trigger
 - Long Link: [http://oom.lt/PROJ-SPAR-17979-STAN-01](http://oom.lt/PROJ-SPAR-17979-STAN-01)
 - Short Link: [http://oom.lt/PRPR17979](http://oom.lt/PRPR17979)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

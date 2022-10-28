@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol ARTIC R2
 - Long Link: [http://oom.lt/PROJ-SPAR-18618-STAN-01](http://oom.lt/PROJ-SPAR-18618-STAN-01)
 - Short Link: [http://oom.lt/PRPR18618](http://oom.lt/PRPR18618)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

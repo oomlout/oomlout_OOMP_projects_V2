@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol Dynamic NFC RFID Tag
 - Long Link: [http://oom.lt/PROJ-SPAR-18991-STAN-01](http://oom.lt/PROJ-SPAR-18991-STAN-01)
 - Short Link: [http://oom.lt/PRPR18991](http://oom.lt/PRPR18991)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

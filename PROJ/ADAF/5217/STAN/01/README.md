@@ -11,6 +11,21 @@
 - Description: Adafruit EyeLights LED Glasses and Driver PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5217-STAN-01](http://oom.lt/PROJ-ADAF-5217-STAN-01)
 - Short Link: [http://oom.lt/PRPR5217](http://oom.lt/PRPR5217)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C3,C4,C5,|
+|![]()|CAPC-0603-X-UF1-V25|C2,C6,|
+|![]()|HEAD-I01-X-UNMATCHED-01|CONN1,CONN2,|
+|![]()|LEDS-2121-RGB-STAN-CA|LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED17,LED18,LED19,LED20,LED21,LED22,LED23,LED24,LED25,LED26,LED27,LED28,LED29,LED30,LED31,LED32,LED33,LED34,LED35,LED36,LED37,LED38,LED39,LED40,LED41,LED42,LED43,LED44,LED45,LED46,LED47,LED48,LED49,LED50,LED51,LED52,LED53,LED54,LED55,LED56,LED57,LED58,LED59,LED60,LED61,LED62,LED63,LED64,LED66,LED67,LED68,LED69,LED70,LED71,LED72,LED73,LED74,LED75,LED76,LED77,LED78,LED79,LED80,LED81,LED82,LED83,LED84,LED85,LED86,LED87,LED88,LED89,LED90,LED91,LED92,LED93,LED94,LED95,LED96,LED97,LED98,LED99,LED100,LED101,LED102,LED103,LED104,LED105,LED106,LED107,LED108,LED109,LED110,LED111,LED112,LED113,LED114,LED115,LED116,LED117,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O222/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O222/01/)|[RESE-0603-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O222/01/)|[R1,R7,R42,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O222/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O510/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O510/01/)|[RESE-0603-X-O510-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O510/01/)|[R2,R3,R5,R6,R9,R11,R12,R14,R15,R17,R18,R20,R21,R23,R24,R26,R28,R29,R31,R32,R34,R35,R37,R38,R40,R41,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O510/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O220/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O220/01/)|[RESE-0603-X-O220-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O220/01/)|[R4,R8,R10,R13,R16,R19,R22,R25,R27,R30,R33,R36,R39,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O220/01/)|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|X1,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5217/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5217/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5217/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5217/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5217/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5217/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5217/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5217/STAN/01/kicadPcb3dBack.png)|

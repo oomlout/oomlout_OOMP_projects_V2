@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/USB Current Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-18016-STAN-01](http://oom.lt/PROJ-SPAR-18016-STAN-01)
 - Short Link: [http://oom.lt/PRPR18016](http://oom.lt/PRPR18016)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

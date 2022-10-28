@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic EEPROM
 - Long Link: [http://oom.lt/PROJ-SPAR-14764-STAN-01](http://oom.lt/PROJ-SPAR-14764-STAN-01)
 - Short Link: [http://oom.lt/PRPR14764](http://oom.lt/PRPR14764)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

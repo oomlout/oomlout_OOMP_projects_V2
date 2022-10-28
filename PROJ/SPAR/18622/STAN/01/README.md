@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX smol Power Board LiPo
 - Long Link: [http://oom.lt/PROJ-SPAR-18622-STAN-01](http://oom.lt/PROJ-SPAR-18622-STAN-01)
 - Short Link: [http://oom.lt/PRPR18622](http://oom.lt/PRPR18622)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

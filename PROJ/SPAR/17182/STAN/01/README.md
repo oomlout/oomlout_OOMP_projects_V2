@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic I2C Capacitor
 - Long Link: [http://oom.lt/PROJ-SPAR-17182-STAN-01](http://oom.lt/PROJ-SPAR-17182-STAN-01)
 - Short Link: [http://oom.lt/PRPR17182](http://oom.lt/PRPR17182)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

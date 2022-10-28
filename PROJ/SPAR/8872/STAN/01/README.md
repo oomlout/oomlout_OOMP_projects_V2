@@ -11,6 +11,23 @@
 - Description: Mic Preamp
 - Long Link: [http://oom.lt/PROJ-SPAR-8872-STAN-01](http://oom.lt/PROJ-SPAR-8872-STAN-01)
 - Short Link: [http://oom.lt/PRPR8872](http://oom.lt/PRPR8872)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPX-UNMATCHED-X-UF10-01|C1,C2,C3,C5,|
+|![]()|CAPX-UNMATCHED-X-UF100-01|C4,|
+|![]()|DCJP-21D-X-STAN-01|J1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[JP1,JP2,JP3,JP4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|
+|![]()|LEDS-UNMATCHED-R-STAN-01|LED1,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|Q1,S1,|
+|![]()|RESE-UNMATCHED-X-O121-01|R1,|
+|![]()|RESE-UNMATCHED-X-O222-01|R2,|
+|![]()|RESE-UNMATCHED-X-O472-01|R3,|
+|![]()|RESE-UNMATCHED-X-O2203-01|R4,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/8872/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8872/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/8872/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8872/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/8872/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8872/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/8872/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8872/STAN/01/kicadPcb3dBack.png)|

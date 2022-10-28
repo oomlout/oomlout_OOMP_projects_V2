@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Lidar Lite
 - Long Link: [http://oom.lt/PROJ-SPAR-15777-STAN-01](http://oom.lt/PROJ-SPAR-15777-STAN-01)
 - Short Link: [http://oom.lt/PRPR15777](http://oom.lt/PRPR15777)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

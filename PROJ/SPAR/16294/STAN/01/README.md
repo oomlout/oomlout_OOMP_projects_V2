@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Qwiic Thermocouple Amplifer
 - Long Link: [http://oom.lt/PROJ-SPAR-16294-STAN-01](http://oom.lt/PROJ-SPAR-16294-STAN-01)
 - Short Link: [http://oom.lt/PRPR16294](http://oom.lt/PRPR16294)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

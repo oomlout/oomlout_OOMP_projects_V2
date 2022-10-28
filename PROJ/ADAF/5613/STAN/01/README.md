@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit EYESPI PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5613-STAN-01](http://oom.lt/PROJ-ADAF-5613-STAN-01)
 - Short Link: [http://oom.lt/PRPR5613](http://oom.lt/PRPR5613)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

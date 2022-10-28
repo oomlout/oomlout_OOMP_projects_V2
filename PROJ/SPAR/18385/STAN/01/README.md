@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic CO2 Sensor STC31
 - Long Link: [http://oom.lt/PROJ-SPAR-18385-STAN-01](http://oom.lt/PROJ-SPAR-18385-STAN-01)
 - Short Link: [http://oom.lt/PRPR18385](http://oom.lt/PRPR18385)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

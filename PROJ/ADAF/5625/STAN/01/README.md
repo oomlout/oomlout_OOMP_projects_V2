@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit Qwiic Stemma QT 5 Port Hub PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5625-STAN-01](http://oom.lt/PROJ-ADAF-5625-STAN-01)
 - Short Link: [http://oom.lt/PRPR5625](http://oom.lt/PRPR5625)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

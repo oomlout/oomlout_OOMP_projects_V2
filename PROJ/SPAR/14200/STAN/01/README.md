@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Robotic Finger Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-14200-STAN-01](http://oom.lt/PROJ-SPAR-14200-STAN-01)
 - Short Link: [http://oom.lt/PRPR14200](http://oom.lt/PRPR14200)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

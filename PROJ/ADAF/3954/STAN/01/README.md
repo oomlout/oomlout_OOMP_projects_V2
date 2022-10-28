@@ -11,6 +11,23 @@
 - Description: Adafruit NeoTrellis 4x4 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3954-STAN-01](http://oom.lt/PROJ-ADAF-3954-STAN-01)
 - Short Link: [http://oom.lt/PRPR3954](http://oom.lt/PRPR3954)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C2,C3,C4,|
+|![]()|CAPC-0603-X-UF1-V25|C7,|
+|![]()|CAPC-0805-X-UNMATCHED-01|C8,|
+|![]()|DIOD-S323-X-K4148-01|D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC2,|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|IC3,U2,|
+|![]()|HEAD-I01-X-UNMATCHED-01|JP1,JP2,JP3,JP4,X2,|
+|![]()|LEDS-3535-RGB-K2812-01|LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,|
+|![]()|MOSN-SO23-X-KBSS138-01|Q1,Q2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[R3,R4,R5,R6,R7,R8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3954/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3954/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3954/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3954/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3954/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3954/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3954/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3954/STAN/01/kicadPcb3dBack.png)|

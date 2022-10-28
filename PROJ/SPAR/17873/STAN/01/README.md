@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Power Meter ACS37800
 - Long Link: [http://oom.lt/PROJ-SPAR-17873-STAN-01](http://oom.lt/PROJ-SPAR-17873-STAN-01)
 - Short Link: [http://oom.lt/PRPR17873](http://oom.lt/PRPR17873)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

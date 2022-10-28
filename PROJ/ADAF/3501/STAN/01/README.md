@@ -11,6 +11,22 @@
 - Description: Adafruit Gemma M0 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3501-STAN-01](http://oom.lt/PROJ-ADAF-3501-STAN-01)
 - Short Link: [http://oom.lt/PRPR3501](http://oom.lt/PRPR3501)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C8,|
+|![]()|CAPC-0603-X-UF1-V25|C2,C3,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|CN1,IC1,SW1,SWC,SWD,TP1,X2,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D1,D2,|
+|![]()|LEDS-2020-RGB-K102-01|LED1,|
+|![]()|LEDS-0603-R-STAN-01|PWR,|
+|![]()|BUTA-4628-X-STAN-01|Q1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[R5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|
+|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3501/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3501/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3501/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3501/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3501/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3501/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3501/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3501/STAN/01/kicadPcb3dBack.png)|

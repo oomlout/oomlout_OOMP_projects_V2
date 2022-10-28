@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit PB86 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5631-STAN-01](http://oom.lt/PROJ-ADAF-5631-STAN-01)
 - Short Link: [http://oom.lt/PRPR5631](http://oom.lt/PRPR5631)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

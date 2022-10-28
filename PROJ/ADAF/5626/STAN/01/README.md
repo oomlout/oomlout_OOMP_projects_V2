@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit PCA9548 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5626-STAN-01](http://oom.lt/PROJ-ADAF-5626-STAN-01)
 - Short Link: [http://oom.lt/PRPR5626](http://oom.lt/PRPR5626)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

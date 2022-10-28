@@ -11,6 +11,13 @@ NO IMAGE
 - Description: ProtoShield Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-7914-STAN-01](http://oom.lt/PROJ-SPAR-7914-STAN-01)
 - Short Link: [http://oom.lt/PRPR7914](http://oom.lt/PRPR7914)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

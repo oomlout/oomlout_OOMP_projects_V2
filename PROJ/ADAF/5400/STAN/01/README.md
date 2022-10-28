@@ -11,6 +11,34 @@
 - Description: Adafruit ESP32 Feather V2 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5400-STAN-01](http://oom.lt/PROJ-ADAF-5400-STAN-01)
 - Short Link: [http://oom.lt/PRPR5400](http://oom.lt/PRPR5400)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C1,C2,C13,|
+|![]()|CAPC-0805-X-UNMATCHED-01|C3,C6,C7,C8,|
+|![]()|CAPC-0603-X-UF1-V25|C4,C5,C9,C10,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/NF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[CAPC-0603-X-NF100-V50](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|[C11,C12,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF100/V50/)|
+|![]()|LEDS-0603-O-STAN-01|CHG,|
+|![]()|HEAD-I01-X-UNMATCHED-01|CONN1,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|D+1,D-1,IC3,X1,X3,X6,|
+|![]()|LEDS-0603-R-STAN-01|D3,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D4,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI16/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI12/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|
+|![]()|LEDS-3535-RGB-K2812-01|LED1,|
+|![]()|MOSP-SO23-X-UNMATCHED-01|Q3,|
+|![]()|MOSN-SO363-X-UNMATCHED-01|Q5,|
+|![]()|RESE-0603-X-O2003-01|R1,R3,|
+|![]()|RESE-0603-X-O472-01|R2,R4,R5,R6,R10,|
+|![]()|RESE-0603-X-O1003-01|R7,R12,|
+|![]()|RESA-06038-X-O473X4-01|R9,|
+|![]()|RESA-06038-X-O103X4-01|R13,|
+|![]()|BUTA-4628-X-STAN-01|SW1,SW2,|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U1,U2,U3,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5400/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5400/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5400/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5400/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5400/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5400/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5400/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5400/STAN/01/kicadPcb3dBack.png)|

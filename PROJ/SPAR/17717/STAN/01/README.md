@@ -11,6 +11,32 @@
 - Description: SparkFun Pro Micro RP2040
 - Long Link: [http://oom.lt/PROJ-SPAR-17717-STAN-01](http://oom.lt/PROJ-SPAR-17717-STAN-01)
 - Short Link: [http://oom.lt/PRPR17717](http://oom.lt/PRPR17717)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0402-X-UNMATCHED-01|C6,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/UF10/V63D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|[CAPC-0402-X-UF10-V63D](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|[C7,C8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/)|
+|![]()|CAPC-0402-X-NF100-V10|C9,C12,C14,C15,C16,C17,C18,C19,C29,|
+|![]()|CAPC-0402-X-PF15-V50|C11,C13,|
+|![]()|CAPC-0402-X-UF22D-01|C20,C21,C22,C23,|
+|![]()|DIOD-S323-X-UNMATCHED-01|D2,|
+|![]()|UNMATCHED-0805-X-UNMATCHED-01|F1,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J2,J5,LOGO5,TP1,TP2,TP3,U2,U4,Y1,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI12/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[J3,J4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|
+|![]()|LEDS-0603-R-STAN-01|LED1,|
+|![]()|RESE-0402-X-O472-01|R1,R3,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[R2,R16,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O222/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O222/01/)|[RESE-0402-X-O222-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O222/01/)|[R5,R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O222/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[R10,R11,R15,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|
+|![]()|RESE-0402-X-O270-01|R12,R13,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O201/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|[RESE-0402-X-O201-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|[R14,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|
+|![]()|UNMATCHED-4628-X-UNMATCHED-01|S1,S2,|
+|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+|![]()|UNMATCHED-2020-X-K2812-01|U3,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17717/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17717/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17717/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17717/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17717/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17717/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/17717/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17717/STAN/01/kicadPcb3dBack.png)|

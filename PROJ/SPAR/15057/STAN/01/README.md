@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic AS3935 Lightning Detector
 - Long Link: [http://oom.lt/PROJ-SPAR-15057-STAN-01](http://oom.lt/PROJ-SPAR-15057-STAN-01)
 - Short Link: [http://oom.lt/PRPR15057](http://oom.lt/PRPR15057)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

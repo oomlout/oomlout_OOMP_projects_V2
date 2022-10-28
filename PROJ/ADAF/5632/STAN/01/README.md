@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit QSPI DIP Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5632-STAN-01](http://oom.lt/PROJ-ADAF-5632-STAN-01)
 - Short Link: [http://oom.lt/PRPR5632](http://oom.lt/PRPR5632)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

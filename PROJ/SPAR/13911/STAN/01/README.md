@@ -11,6 +11,22 @@
 - Description: Serial Controlled Motor Driver
 - Long Link: [http://oom.lt/PROJ-SPAR-13911-STAN-01](http://oom.lt/PROJ-SPAR-13911-STAN-01)
 - Short Link: [http://oom.lt/PRPR13911](http://oom.lt/PRPR13911)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0402-X-UNMATCHED-01|C1,C2,C3,C4,C8,C9,|
+|![]()|CAPC-0402-X-NF100-V10|C5,C6,C7,C11,|
+|![]()|CAPT-3216-X-UF10-V10|C10,C12,|
+|![]()|LEDS-0603-R-STAN-01|D1,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|J8,U1,U2,|
+|![]()|RESE-0603-X-O10-01|R1,R2,|
+|![]()|RESE-0603-X-O472-01|R3,R4,R5,R7,R8,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O471/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O471/01/)|[RESE-0603-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O471/01/)|[R6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O471/01/)|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U$3,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13911/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13911/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13911/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13911/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13911/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13911/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/13911/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13911/STAN/01/kicadPcb3dBack.png)|

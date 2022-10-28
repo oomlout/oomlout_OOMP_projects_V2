@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/SparkX Air Quality Sensor SGP40
 - Long Link: [http://oom.lt/PROJ-SPAR-17729-STAN-01](http://oom.lt/PROJ-SPAR-17729-STAN-01)
 - Short Link: [http://oom.lt/PRPR17729](http://oom.lt/PRPR17729)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

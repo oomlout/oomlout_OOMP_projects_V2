@@ -11,6 +11,13 @@ NO IMAGE
 - Description: Adafruit Brain Machine Kit
 - Long Link: [http://oom.lt/PROJ-ADAF-0287-STAN-01](http://oom.lt/PROJ-ADAF-0287-STAN-01)
 - Short Link: [http://oom.lt/PRPR0287](http://oom.lt/PRPR0287)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

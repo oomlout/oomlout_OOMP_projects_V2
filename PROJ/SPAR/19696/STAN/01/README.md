@@ -11,6 +11,13 @@ NO IMAGE
 - Description: SparkFun Thing Plus DA16200
 - Long Link: [http://oom.lt/PROJ-SPAR-19696-STAN-01](http://oom.lt/PROJ-SPAR-19696-STAN-01)
 - Short Link: [http://oom.lt/PRPR19696](http://oom.lt/PRPR19696)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

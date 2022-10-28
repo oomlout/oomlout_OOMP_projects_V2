@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic Air Quality Combo Board CCS811 BME280
 - Long Link: [http://oom.lt/PROJ-SPAR-14241-STAN-01](http://oom.lt/PROJ-SPAR-14241-STAN-01)
 - Short Link: [http://oom.lt/PRPR14241](http://oom.lt/PRPR14241)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

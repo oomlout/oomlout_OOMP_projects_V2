@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Soft Power Switch
 - Long Link: [http://oom.lt/PROJ-SPAR-17870-STAN-01](http://oom.lt/PROJ-SPAR-17870-STAN-01)
 - Short Link: [http://oom.lt/PRPR17870](http://oom.lt/PRPR17870)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

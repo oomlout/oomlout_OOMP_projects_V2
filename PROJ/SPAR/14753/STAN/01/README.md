@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/RGB Panel Mega Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-14753-STAN-01](http://oom.lt/PROJ-SPAR-14753-STAN-01)
 - Short Link: [http://oom.lt/PRPR14753](http://oom.lt/PRPR14753)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

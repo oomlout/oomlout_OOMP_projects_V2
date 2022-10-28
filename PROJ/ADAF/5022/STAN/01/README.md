@@ -11,6 +11,20 @@
 - Description: Adafruit Proximity Trinkey PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5022-STAN-01](http://oom.lt/PROJ-ADAF-5022-STAN-01)
 - Short Link: [http://oom.lt/PRPR5022](http://oom.lt/PRPR5022)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF10-V10|C3,C8,|
+|![]()|CAPC-0603-X-UF1-V25|C4,C5,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|CN1,IC3,RST,SWC,SWD,U3,|
+|![]()|LEDS-3535-RGB-K2812-01|LED1,LED2,|
+|![]()|BUTA-4628-X-STAN-01|Q2,|
+|![]()|RESE-0603-X-O472-01|R1,R2,|
+|![]()|VREG-SO235-X-KAP2112K-V33D|U1,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5022/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5022/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5022/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5022/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5022/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5022/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5022/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5022/STAN/01/kicadPcb3dBack.png)|

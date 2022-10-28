@@ -11,6 +11,21 @@
 - Description: Adafruit Gemma PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1222-STAN-01](http://oom.lt/PROJ-ADAF-1222-STAN-01)
 - Short Link: [http://oom.lt/PRPR1222](http://oom.lt/PRPR1222)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|LEDS-0805-R-STAN-01|BOOT,|
+|![]()|CAPC-0805-X-UF10-V10|C1,C8,|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|CN1,IC3,TP1,X2,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D2,D3,|
+|![]()|VREG-SO235-X-KMIC5225-V33D|IC2,|
+|![]()|LEDS-0805-G-STAN-01|PWR,|
+|![]()|BUTA-4628-X-STAN-01|Q1,|
+|![]()|RESE-0603-X-UNMATCHED-01|R1,R2,R3,R4,R5,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1222/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1222/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1222/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1222/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1222/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1222/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1222/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1222/STAN/01/kicadPcb3dBack.png)|

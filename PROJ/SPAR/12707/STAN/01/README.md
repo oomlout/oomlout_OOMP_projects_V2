@@ -11,6 +11,32 @@
 - Description: Sparkpunk Sequencer
 - Long Link: [http://oom.lt/PROJ-SPAR-12707-STAN-01](http://oom.lt/PROJ-SPAR-12707-STAN-01)
 - Short Link: [http://oom.lt/PRPR12707](http://oom.lt/PRPR12707)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BAT1,IC1,IC2,IC3,IC4,IC5,IC6,Q100,Q200,Q300,Q400,Q500,Q600,Q700,Q800,Q900,Q1000,RV1,RV2,S1,S3,S5,S100,S200,S300,S400,S500,S600,S700,S800,S900,S1000,VR100,VR200,VR300,VR400,VR500,VR600,VR700,VR800,VR900,VR1000,|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C1,C5,C6,C7,C8,C11,|
+|![]()|CAPX-UNMATCHED-X-UF10-01|C2,C3,C4,|
+|![]()|CAPX-UNMATCHED-X-UNMATCHED-V25|C9,|
+|![]()|CAPX-UNMATCHED-X-NF1-01|C10,|
+|![]()|DIOD-UNMATCHED-X-K4148-01|D1,D2,|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D3,D100,D101,D200,D201,D300,D301,D400,D401,D500,D501,D600,D601,D700,D701,D800,D801,D900,D901,D1000,D1001,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP100,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[JP200,JP300,JP400,JP500,JP600,JP700,JP800,JP900,JP1000,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|
+|![]()|LEDS-UNMATCHED-R-STAN-01|LED1,LED100,LED200,LED300,LED400,LED500,LED600,LED700,LED800,LED900,LED1000,|
+|![]()|RESE-UNMATCHED-X-O471-01|R1,|
+|![]()|RESE-UNMATCHED-X-O1003-01|R2,R3,R14,R16,R27,R28,|
+|![]()|RESE-UNMATCHED-X-O103-01|R4,R7,R12,R21,R23,R24,R25,|
+|![]()|RESE-UNMATCHED-X-O473-01|R5,R13,R20,|
+|![]()|RESE-UNMATCHED-X-O222-01|R6,R19,R100,R200,R300,R400,R500,R600,R700,R800,R900,R1000,|
+|![]()|RESE-UNMATCHED-X-O102-01|R9,R10,R22,R26,|
+|![]()|RESE-UNMATCHED-X-O470-01|R15,|
+|![]()|RESE-UNMATCHED-X-O223-01|R17,R18,R30,|
+|![]()|RESE-UNMATCHED-X-O333-01|R29,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/12707/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12707/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/12707/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12707/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/12707/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12707/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/12707/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12707/STAN/01/kicadPcb3dBack.png)|

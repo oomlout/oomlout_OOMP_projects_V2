@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/Qwiic MCP9600 Thermocouple
 - Long Link: [http://oom.lt/PROJ-SPAR-15508-STAN-01](http://oom.lt/PROJ-SPAR-15508-STAN-01)
 - Short Link: [http://oom.lt/PRPR15508](http://oom.lt/PRPR15508)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

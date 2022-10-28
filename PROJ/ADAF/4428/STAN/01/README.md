@@ -11,6 +11,25 @@
 - Description: Adafruit Circuit Playground Tri Color E Ink Gizmo PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4428-STAN-01](http://oom.lt/PROJ-ADAF-4428-STAN-01)
 - Short Link: [http://oom.lt/PRPR4428](http://oom.lt/PRPR4428)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BUSY,EINK2,L1,LEFT,RIGHT,U$1,U5,VR2,|
+|![]()|CAPC-0805-X-UF10-V10|C1,C2,C15,|
+|![]()|CAPC-0805-X-UNMATCHED-01|C3,C5,C10,|
+|![]()|CAPC-0805-X-UNMATCHED-V25|C6,C7,C8,C22,C23,|
+|![]()|CAPC-0805-X-UF1-V25|C9,C13,C16,C24,|
+|![]()|DIOD-S323-X-UNMATCHED-01|D1,D2,|
+|![]()|DIOD-S123-X-UNMATCHED-01|D3,D4,D5,|
+|![]()|UNMATCHED-SO23-X-UNMATCHED-01|Q5,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[RESE-0603-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|[R2,R5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O102/01/)|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R6,|
+|![]()|RESE-0603-X-O1003-01|R7,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|[RESE-0603-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|[R12,R13,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O101/01/)|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4428/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4428/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4428/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4428/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4428/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4428/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/4428/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4428/STAN/01/kicadPcb3dBack.png)|

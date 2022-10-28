@@ -11,6 +11,13 @@ NO IMAGE
 - Description: https://github.com/sparkfunX/ARGOS ARTIC R2 Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-17236-STAN-01](http://oom.lt/PROJ-SPAR-17236-STAN-01)
 - Short Link: [http://oom.lt/PRPR17236](http://oom.lt/PRPR17236)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

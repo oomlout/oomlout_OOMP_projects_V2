@@ -11,6 +11,21 @@
 - Description: Gram Piano
 - Long Link: [http://oom.lt/PROJ-SPAR-11835-STAN-01](http://oom.lt/PROJ-SPAR-11835-STAN-01)
 - Short Link: [http://oom.lt/PRPR11835](http://oom.lt/PRPR11835)
+
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BAT1,BAT2,J1,JP1,S1,S2,SP1,U3,|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C1,C2,C3,C10,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI06/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[JP9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|
+|![]()|LEDS-UNMATCHED-R-STAN-01|LED1,LED2,|
+|![]()|RESE-UNMATCHED-X-O205-01|R1,R3,R4,R5,R6,R7,R8,R9,R17,R18,R19,R20,R21,|
+|![]()|RESE-UNMATCHED-X-O103-01|R2,R14,|
+|![]()|RESE-UNMATCHED-X-O331-01|R10,R12,|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R11,|
+||||
   
 
 |eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11835/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11835/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11835/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11835/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11835/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11835/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/11835/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11835/STAN/01/kicadPcb3dBack.png)|
