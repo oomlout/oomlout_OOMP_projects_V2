@@ -22,7 +22,7 @@ Contents
 
 ## I BOM
   
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/1231/STAN/0Cibom.html)
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/ADAF/1231/STAN/0C/ibom.html)
 ## OOMP Parts
   
 
