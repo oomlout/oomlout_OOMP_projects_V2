@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17273 > QuickLogic Thing Plus](#prpr17273--quicklogic-thing-plus)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17273 > QuickLogic Thing Plus
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17273-STAN-01](http://oom.lt/PROJ-SPAR-17273-STAN-01)
 - Short Link: [http://oom.lt/PRPR17273](http://oom.lt/PRPR17273)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17273/STAN/01ibom.html)
 ## OOMP Parts
   
 

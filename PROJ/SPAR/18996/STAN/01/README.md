@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18996 > https://github.com/sparkfunX/SparkX smol OLED Display](#prpr18996--httpsgithubcomsparkfunxsparkx-smol-oled-display)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18996 > https://github.com/sparkfunX/SparkX smol OLED Display
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18996-STAN-01](http://oom.lt/PROJ-SPAR-18996-STAN-01)
 - Short Link: [http://oom.lt/PRPR18996](http://oom.lt/PRPR18996)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18996/STAN/01ibom.html)
 ## OOMP Parts
   
 

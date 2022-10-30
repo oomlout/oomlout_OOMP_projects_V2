@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17353 > https://github.com/sparkfunX/Qwiic BMI270](#prpr17353--httpsgithubcomsparkfunxqwiic-bmi270)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17353 > https://github.com/sparkfunX/Qwiic BMI270
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17353-STAN-01](http://oom.lt/PROJ-SPAR-17353-STAN-01)
 - Short Link: [http://oom.lt/PRPR17353](http://oom.lt/PRPR17353)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17353/STAN/01ibom.html)
 ## OOMP Parts
   
 

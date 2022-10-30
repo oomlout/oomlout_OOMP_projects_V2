@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17870 > https://github.com/sparkfunX/Soft Power Switch](#prpr17870--httpsgithubcomsparkfunxsoft-power-switch)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17870 > https://github.com/sparkfunX/Soft Power Switch
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17870-STAN-01](http://oom.lt/PROJ-SPAR-17870-STAN-01)
 - Short Link: [http://oom.lt/PRPR17870](http://oom.lt/PRPR17870)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17870/STAN/01ibom.html)
 ## OOMP Parts
   
 

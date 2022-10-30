@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR0931 > Adafruit 128x32 I2C OLED Breakout PCB](#prpr0931--adafruit-128x32-i2c-oled-breakout-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 ![][im]
 # PRPR0931 > Adafruit 128x32 I2C OLED Breakout PCB
@@ -12,27 +20,30 @@
 - Long Link: [http://oom.lt/PROJ-ADAF-0931-STAN-01](http://oom.lt/PROJ-ADAF-0931-STAN-01)
 - Short Link: [http://oom.lt/PRPR0931](http://oom.lt/PRPR0931)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/0931/STAN/01ibom.html)
 ## OOMP Parts
   
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
 |![]()|CAPC-0805-X-UF1-V25|C1,C2,C3,C4,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V25/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[CAPC-0805-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[C5,C6,C7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/tree/main/)|[CAPC-0805-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/tree/main/)|[C5,C6,C7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/tree/main/)|
 |![]()|DIOD-S323-X-K4148-01|D1,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI06/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|[JP1,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|LCD1,|
 |![]()|MOSN-SO23-X-KBSS138-01|Q1,Q2,|
 |![]()|RESE-0805-X-O3903-01|R3,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[R4,R5,R7,R8,R9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0805/X/O103/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0805/X/O103/01/tree/main/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0805/X/O103/01/tree/main/)|[R4,R5,R7,R8,R9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0805/X/O103/01/tree/main/)|
 |![]()|UNMATCHED-SO235-X-UNMATCHED-01|U1,|
 ||||
   
 
-|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/kicadPcb3dBack.png)|
+|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/kicadPcb3d.png)|bomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/bomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/bomBack.png)|bomFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/bomFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/bomFront.png)|pcbdraw<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/pcbdraw_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/pcbdraw.svg)|
-|pcbdrawBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/0931/STAN/01/pcbdrawBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0931/STAN/01/pcbdrawBack.svg)||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/kicadPcb3d.png)|bomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/bomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/bomBack.png)|bomFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/bomFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/bomFront.png)|pcbdraw<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/pcbdraw_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/pcbdraw.svg)|
+|pcbdrawBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/main/pcbdrawBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/tree/main/pcbdrawBack.svg)||||
 
 ## Tags
   
@@ -57,4 +68,4 @@
 
 
 
-[im]: PROJ/ADAF/0931/STAN/01/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

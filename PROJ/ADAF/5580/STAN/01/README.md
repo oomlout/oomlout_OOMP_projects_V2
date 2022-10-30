@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR5580 > Adafruit MAX17048 PCB](#prpr5580--adafruit-max17048-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR5580 > Adafruit MAX17048 PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-5580-STAN-01](http://oom.lt/PROJ-ADAF-5580-STAN-01)
 - Short Link: [http://oom.lt/PRPR5580](http://oom.lt/PRPR5580)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/5580/STAN/01ibom.html)
 ## OOMP Parts
   
 

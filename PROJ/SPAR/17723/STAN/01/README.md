@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17723 > MicroMod Qwiic Carrier](#prpr17723--micromod-qwiic-carrier)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17723 > MicroMod Qwiic Carrier
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17723-STAN-01](http://oom.lt/PROJ-SPAR-17723-STAN-01)
 - Short Link: [http://oom.lt/PRPR17723](http://oom.lt/PRPR17723)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17723/STAN/01ibom.html)
 ## OOMP Parts
   
 

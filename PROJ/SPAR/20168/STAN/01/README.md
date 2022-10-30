@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR20168 > SparkFun Thing Plus ESP32 WROOM C](#prpr20168--sparkfun-thing-plus-esp32-wroom-c)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR20168 > SparkFun Thing Plus ESP32 WROOM C
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-20168-STAN-01](http://oom.lt/PROJ-SPAR-20168-STAN-01)
 - Short Link: [http://oom.lt/PRPR20168](http://oom.lt/PRPR20168)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/20168/STAN/01ibom.html)
 ## OOMP Parts
   
 

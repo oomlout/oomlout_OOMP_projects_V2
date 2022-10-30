@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR14248 > https://github.com/sparkfunX/Qwiic Accelerometer MMA8452Q](#prpr14248--httpsgithubcomsparkfunxqwiic-accelerometer-mma8452q)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR14248 > https://github.com/sparkfunX/Qwiic Accelerometer MMA8452Q
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14248-STAN-01](http://oom.lt/PROJ-SPAR-14248-STAN-01)
 - Short Link: [http://oom.lt/PRPR14248](http://oom.lt/PRPR14248)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/14248/STAN/01ibom.html)
 ## OOMP Parts
   
 

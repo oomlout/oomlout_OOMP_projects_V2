@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17731 > Zio Qwiic Soil Moisture Sensor](#prpr17731--zio-qwiic-soil-moisture-sensor)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17731 > Zio Qwiic Soil Moisture Sensor
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17731-STAN-01](http://oom.lt/PROJ-SPAR-17731-STAN-01)
 - Short Link: [http://oom.lt/PRPR17731](http://oom.lt/PRPR17731)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17731/STAN/01ibom.html)
 ## OOMP Parts
   
 

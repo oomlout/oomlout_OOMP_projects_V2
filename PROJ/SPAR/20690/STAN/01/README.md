@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR20690 > SparkFun Qwiic Speaker Amp](#prpr20690--sparkfun-qwiic-speaker-amp)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR20690 > SparkFun Qwiic Speaker Amp
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-20690-STAN-01](http://oom.lt/PROJ-SPAR-20690-STAN-01)
 - Short Link: [http://oom.lt/PRPR20690](http://oom.lt/PRPR20690)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/20690/STAN/01ibom.html)
 ## OOMP Parts
   
 

@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18623 > https://github.com/sparkfunX/SparkX smol ZOE M8Q](#prpr18623--httpsgithubcomsparkfunxsparkx-smol-zoe-m8q)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18623 > https://github.com/sparkfunX/SparkX smol ZOE M8Q
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18623-STAN-01](http://oom.lt/PROJ-SPAR-18623-STAN-01)
 - Short Link: [http://oom.lt/PRPR18623](http://oom.lt/PRPR18623)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18623/STAN/01ibom.html)
 ## OOMP Parts
   
 

@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR5606 > Adafruit ENS160 PCB](#prpr5606--adafruit-ens160-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR5606 > Adafruit ENS160 PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-5606-STAN-01](http://oom.lt/PROJ-ADAF-5606-STAN-01)
 - Short Link: [http://oom.lt/PRPR5606](http://oom.lt/PRPR5606)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/5606/STAN/01ibom.html)
 ## OOMP Parts
   
 

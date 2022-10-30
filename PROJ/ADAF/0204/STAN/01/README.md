@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR0204 > monochron](#prpr0204--monochron)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR0204 > monochron
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-0204-STAN-01](http://oom.lt/PROJ-ADAF-0204-STAN-01)
 - Short Link: [http://oom.lt/PRPR0204](http://oom.lt/PRPR0204)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/0204/STAN/01ibom.html)
 ## OOMP Parts
   
 

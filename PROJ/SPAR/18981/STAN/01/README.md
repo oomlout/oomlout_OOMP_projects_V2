@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18981 > https://github.com/sparkfunX/Qwiic Ambient Light Sensor VEML7700](#prpr18981--httpsgithubcomsparkfunxqwiic-ambient-light-sensor-veml7700)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18981 > https://github.com/sparkfunX/Qwiic Ambient Light Sensor VEML7700
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18981-STAN-01](http://oom.lt/PROJ-SPAR-18981-STAN-01)
 - Short Link: [http://oom.lt/PRPR18981](http://oom.lt/PRPR18981)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18981/STAN/01ibom.html)
 ## OOMP Parts
   
 

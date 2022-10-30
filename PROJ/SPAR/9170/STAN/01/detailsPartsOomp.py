@@ -1,2 +1,2 @@
 def load(newPart,it):
-    it['PROJ-SPAR-9170-STAN-01']['oompParts'] = [{'JP1': 'HEAD-I01-X-PI04-01', 'U$1': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'}]
+    it['PROJ-SPAR-9170-STAN-01']['oompParts'] = [{'JP1': 'HEAD-I01-X-PI04-01'}]

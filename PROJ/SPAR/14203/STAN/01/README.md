@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR14203 > https://github.com/sparkfunX/Qwiic Shield for ESP32](#prpr14203--httpsgithubcomsparkfunxqwiic-shield-for-esp32)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR14203 > https://github.com/sparkfunX/Qwiic Shield for ESP32
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14203-STAN-01](http://oom.lt/PROJ-SPAR-14203-STAN-01)
 - Short Link: [http://oom.lt/PRPR14203](http://oom.lt/PRPR14203)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/14203/STAN/01ibom.html)
 ## OOMP Parts
   
 

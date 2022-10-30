@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR5568 > Adafruit WCH CH9102F Friend PCB](#prpr5568--adafruit-wch-ch9102f-friend-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR5568 > Adafruit WCH CH9102F Friend PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-5568-STAN-01](http://oom.lt/PROJ-ADAF-5568-STAN-01)
 - Short Link: [http://oom.lt/PRPR5568](http://oom.lt/PRPR5568)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/5568/STAN/01ibom.html)
 ## OOMP Parts
   
 

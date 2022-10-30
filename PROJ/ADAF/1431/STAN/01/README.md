@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR1431 > Adafruit 1.5inch Color OLED PCB](#prpr1431--adafruit-15inch-color-oled-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR1431 > Adafruit 1.5inch Color OLED PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-1431-STAN-01](http://oom.lt/PROJ-ADAF-1431-STAN-01)
 - Short Link: [http://oom.lt/PRPR1431](http://oom.lt/PRPR1431)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/1431/STAN/01ibom.html)
 ## OOMP Parts
   
 

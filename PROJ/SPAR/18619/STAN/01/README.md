@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18619 > https://github.com/sparkfunX/SparkX smol ESP32](#prpr18619--httpsgithubcomsparkfunxsparkx-smol-esp32)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18619 > https://github.com/sparkfunX/SparkX smol ESP32
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18619-STAN-01](http://oom.lt/PROJ-SPAR-18619-STAN-01)
 - Short Link: [http://oom.lt/PRPR18619](http://oom.lt/PRPR18619)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18619/STAN/01ibom.html)
 ## OOMP Parts
   
 

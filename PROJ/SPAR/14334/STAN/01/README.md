@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR14334 > https://github.com/sparkfunX/Qwiic Module for Tessel 2](#prpr14334--httpsgithubcomsparkfunxqwiic-module-for-tessel-2)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR14334 > https://github.com/sparkfunX/Qwiic Module for Tessel 2
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14334-STAN-01](http://oom.lt/PROJ-SPAR-14334-STAN-01)
 - Short Link: [http://oom.lt/PRPR14334](http://oom.lt/PRPR14334)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/14334/STAN/01ibom.html)
 ## OOMP Parts
   
 

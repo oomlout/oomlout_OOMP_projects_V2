@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR16427 > https://github.com/sparkfunX/Qwiic Alphanumeric Display](#prpr16427--httpsgithubcomsparkfunxqwiic-alphanumeric-display)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR16427 > https://github.com/sparkfunX/Qwiic Alphanumeric Display
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-16427-STAN-01](http://oom.lt/PROJ-SPAR-16427-STAN-01)
 - Short Link: [http://oom.lt/PRPR16427](http://oom.lt/PRPR16427)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/16427/STAN/01ibom.html)
 ## OOMP Parts
   
 

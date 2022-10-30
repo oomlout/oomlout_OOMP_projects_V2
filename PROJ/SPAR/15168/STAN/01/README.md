@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR15168 > Qwiic Joystick](#prpr15168--qwiic-joystick)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR15168 > Qwiic Joystick
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-15168-STAN-01](http://oom.lt/PROJ-SPAR-15168-STAN-01)
 - Short Link: [http://oom.lt/PRPR15168](http://oom.lt/PRPR15168)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/15168/STAN/01ibom.html)
 ## OOMP Parts
   
 

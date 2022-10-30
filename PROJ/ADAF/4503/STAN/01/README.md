@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR4503 > Adafruit LSM6DS3TR C PCB](#prpr4503--adafruit-lsm6ds3tr-c-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR4503 > Adafruit LSM6DS3TR C PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-4503-STAN-01](http://oom.lt/PROJ-ADAF-4503-STAN-01)
 - Short Link: [http://oom.lt/PRPR4503](http://oom.lt/PRPR4503)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/4503/STAN/01ibom.html)
 ## OOMP Parts
   
 

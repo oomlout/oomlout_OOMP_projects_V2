@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18570 > https://github.com/sparkfunX/Qwiic PC Fan Controller](#prpr18570--httpsgithubcomsparkfunxqwiic-pc-fan-controller)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18570 > https://github.com/sparkfunX/Qwiic PC Fan Controller
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18570-STAN-01](http://oom.lt/PROJ-SPAR-18570-STAN-01)
 - Short Link: [http://oom.lt/PRPR18570](http://oom.lt/PRPR18570)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18570/STAN/01ibom.html)
 ## OOMP Parts
   
 

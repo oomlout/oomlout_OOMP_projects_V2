@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR14747 > SparkFun Pi AVR Programmer HAT](#prpr14747--sparkfun-pi-avr-programmer-hat)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR14747 > SparkFun Pi AVR Programmer HAT
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14747-STAN-01](http://oom.lt/PROJ-SPAR-14747-STAN-01)
 - Short Link: [http://oom.lt/PRPR14747](http://oom.lt/PRPR14747)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/14747/STAN/01ibom.html)
 ## OOMP Parts
   
 

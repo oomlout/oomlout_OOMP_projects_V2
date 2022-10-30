@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR9612 > Audio Amplifier Kit STA540](#prpr9612--audio-amplifier-kit-sta540)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 ![][im]
 # PRPR9612 > Audio Amplifier Kit STA540
@@ -12,6 +20,9 @@
 - Long Link: [http://oom.lt/PROJ-SPAR-9612-STAN-01](http://oom.lt/PROJ-SPAR-9612-STAN-01)
 - Short Link: [http://oom.lt/PRPR9612](http://oom.lt/PRPR9612)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/9612/STAN/01ibom.html)
 ## OOMP Parts
   
 
@@ -23,8 +34,8 @@
 |![]()|CAPX-UNMATCHED-X-UF1-01|C7,C8,C14,|
 |![]()|CAPX-UNMATCHED-X-UF47-01|C9,C10,C11,C12,|
 |![]()|CAPX-UNMATCHED-X-UF100-01|C13,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TERS/35D/L/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|[JP1,JP2,JP3,JP4,JP5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TERS/35D/L/PI02/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI03/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|[JP12,JP13,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/TERS/35D/L/PI02/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/TERS/35D/L/PI02/01/tree/main/)|[TERS-35D-L-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/TERS/35D/L/PI02/01/tree/main/)|[JP1,JP2,JP3,JP4,JP5,](https://github.com/oomlout/oomlout_OOMP_parts_V2/TERS/35D/L/PI02/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|[JP12,JP13,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|
 |![]()|LEDS-UNMATCHED-G-STAN-01|LED1,LED2,|
 |![]()|LEDS-UNMATCHED-R-STAN-01|LED3,|
 |![]()|RESE-UNMATCHED-X-O1003-01|R1,R3,|
@@ -35,9 +46,9 @@
 ||||
   
 
-|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/9612/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9612/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/9612/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9612/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/9612/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9612/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/9612/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9612/STAN/01/kicadPcb3dBack.png)|
+|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/main/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/tree/main/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/main/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/tree/main/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/main/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/tree/main/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/main/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/tree/main/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/9612/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9612/STAN/01/kicadPcb3d.png)||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/main/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9612/STAN/01/tree/main/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -62,4 +73,4 @@
 
 
 
-[im]: PROJ/SPAR/9612/STAN/01/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

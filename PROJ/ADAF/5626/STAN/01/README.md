@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR5626 > Adafruit PCA9548 PCB](#prpr5626--adafruit-pca9548-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR5626 > Adafruit PCA9548 PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-5626-STAN-01](http://oom.lt/PROJ-ADAF-5626-STAN-01)
 - Short Link: [http://oom.lt/PRPR5626](http://oom.lt/PRPR5626)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/5626/STAN/01ibom.html)
 ## OOMP Parts
   
 

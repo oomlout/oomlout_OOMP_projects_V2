@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR5632 > Adafruit QSPI DIP Breakout PCB](#prpr5632--adafruit-qspi-dip-breakout-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR5632 > Adafruit QSPI DIP Breakout PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-5632-STAN-01](http://oom.lt/PROJ-ADAF-5632-STAN-01)
 - Short Link: [http://oom.lt/PRPR5632](http://oom.lt/PRPR5632)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/5632/STAN/01ibom.html)
 ## OOMP Parts
   
 

@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR10889 > ProtoSnap Pro Mini](#prpr10889--protosnap-pro-mini)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 ![][im]
 # PRPR10889 > ProtoSnap Pro Mini
@@ -12,6 +20,9 @@
 - Long Link: [http://oom.lt/PROJ-SPAR-10889-STAN-01](http://oom.lt/PROJ-SPAR-10889-STAN-01)
 - Short Link: [http://oom.lt/PRPR10889](http://oom.lt/PRPR10889)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/10889/STAN/01ibom.html)
 ## OOMP Parts
   
 
@@ -19,28 +30,28 @@
 | :--- | :--- | :--- |
 |![]()|CAPC-0402-X-NF100-V10|C1,C2,C3,C4,C6,C10,|
 |![]()|CAPT-3216-X-UF10-V10|C5,C13,C19,|
-|![]()|LEDS-0603-G-STAN-01|D3,LED3,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI06/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|[JP1,JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI06/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[JP2,JP9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI12/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|[JP6,JP7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI12/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI04/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[JP8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI03/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|[JP10,JP21,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI03/01/)|
-|![]()|LEDS-0603-R-STAN-01|LED1,LED2,|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/tree/main/)|[LEDS-0603-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/tree/main/)|[D3,LED3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|[HEAD-I01-X-PI06-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|[JP1,JP3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/tree/main/)|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/tree/main/)|[JP2,JP9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI12/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI12/01/tree/main/)|[HEAD-I01-X-PI12-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI12/01/tree/main/)|[JP6,JP7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI12/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI04/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI04/01/tree/main/)|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI04/01/tree/main/)|[JP8,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI04/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|[HEAD-I01-X-PI03-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|[JP10,JP21,](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/R/STAN/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/R/STAN/01/tree/main/)|[LEDS-0603-R-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/R/STAN/01/tree/main/)|[LED1,LED2,](https://github.com/oomlout/oomlout_OOMP_parts_V2/LEDS/0603/R/STAN/01/tree/main/)|
 |![]()|LEDS-UNMATCHED-G-STAN-01|LED4,|
 |![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|Q1,S1,S2,SG1,U1,U3,U4,X2,|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|[R1,R3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O102/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|[R2,R8,R11,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O103/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O201/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|[RESE-0402-X-O201-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|[R4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O201/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O101/01/)|[RESE-0402-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O101/01/)|[R5,R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O101/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O331/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O331/01/)|[RESE-0402-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O331/01/)|[R6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O331/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|[R9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O103/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O102/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O102/01/tree/main/)|[RESE-0402-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O102/01/tree/main/)|[R1,R3,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O102/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O103/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O103/01/tree/main/)|[RESE-0402-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O103/01/tree/main/)|[R2,R8,R11,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O103/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O201/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O201/01/tree/main/)|[RESE-0402-X-O201-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O201/01/tree/main/)|[R4,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O201/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/tree/main/)|[RESE-0402-X-O101-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/tree/main/)|[R5,R7,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O331/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O331/01/tree/main/)|[RESE-0402-X-O331-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O331/01/tree/main/)|[R6,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O331/01/tree/main/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O103/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O103/01/tree/main/)|[RESE-0603-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O103/01/tree/main/)|[R9,](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O103/01/tree/main/)|
 |![]()|VREG-SO235-X-KMIC5205-01|U2,|
 ||||
   
 
-|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/10889/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10889/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/10889/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10889/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/10889/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10889/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/10889/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10889/STAN/01/kicadPcb3dBack.png)|
+|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/main/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/main/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/main/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/main/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/kicadPcb3dBack.png)|
 | :---: | :---: | :---: | :---: |
-|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/10889/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10889/STAN/01/kicadPcb3d.png)||||
+|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/main/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/kicadPcb3d.png)||||
 
 ## Tags
   
@@ -65,4 +76,4 @@
 
 
 
-[im]: PROJ/SPAR/10889/STAN/01/kicadPcb3d_450.png
+[im]: kicadPcb3d_450.png

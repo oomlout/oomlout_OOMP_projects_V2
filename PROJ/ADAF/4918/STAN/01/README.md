@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR4918 > Adafruit TCA8418 PCB](#prpr4918--adafruit-tca8418-pcb)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR4918 > Adafruit TCA8418 PCB
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-4918-STAN-01](http://oom.lt/PROJ-ADAF-4918-STAN-01)
 - Short Link: [http://oom.lt/PRPR4918](http://oom.lt/PRPR4918)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/4918/STAN/01ibom.html)
 ## OOMP Parts
   
 

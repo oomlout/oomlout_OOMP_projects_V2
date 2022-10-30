@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR18618 > https://github.com/sparkfunX/SparkX smol ARTIC R2](#prpr18618--httpsgithubcomsparkfunxsparkx-smol-artic-r2)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR18618 > https://github.com/sparkfunX/SparkX smol ARTIC R2
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18618-STAN-01](http://oom.lt/PROJ-SPAR-18618-STAN-01)
 - Short Link: [http://oom.lt/PRPR18618](http://oom.lt/PRPR18618)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/18618/STAN/01ibom.html)
 ## OOMP Parts
   
 

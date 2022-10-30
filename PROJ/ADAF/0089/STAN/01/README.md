@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR0089 > Adafruit Conway Game of Life Kit](#prpr0089--adafruit-conway-game-of-life-kit)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR0089 > Adafruit Conway Game of Life Kit
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ADAF-0089-STAN-01](http://oom.lt/PROJ-ADAF-0089-STAN-01)
 - Short Link: [http://oom.lt/PRPR0089](http://oom.lt/PRPR0089)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/ADAF/0089/STAN/01ibom.html)
 ## OOMP Parts
   
 

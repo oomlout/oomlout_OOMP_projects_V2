@@ -1,6 +1,14 @@
 
 
 
+
+Contents
+========
+
+* [PRPR17984 > https://github.com/sparkfunX/IOTA ARTIC R2 Module](#prpr17984--httpsgithubcomsparkfunxiota-artic-r2-module)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
   
 NO IMAGE  
 # PRPR17984 > https://github.com/sparkfunX/IOTA ARTIC R2 Module
@@ -12,6 +20,9 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-17984-STAN-01](http://oom.lt/PROJ-SPAR-17984-STAN-01)
 - Short Link: [http://oom.lt/PRPR17984](http://oom.lt/PRPR17984)
 
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects/blob/main/PROJ/SPAR/17984/STAN/01ibom.html)
 ## OOMP Parts
   
 
