@@ -1,25 +1,10 @@
-SparkFun Variable Load
+Digital_Load
 ==========================================
 
-![Variable Load](https://cdn.sparkfun.com/assets/parts/1/2/4/7/9/14449-SparkFun_Variable_Load_Kit-01.jpg)
+![Variable Load](https://cdn.sparkfun.com/assets/home_page_posts/2/4/3/4/Digital_Load_Box.jpg)
 
-[*Variable Load (KIT-14449)*](https://www.sparkfun.com/products/14449)
-
-The Variable Load is a digitally controllable load for testing power supplies.
-It can test up to 30V at 4A, with a limit of 15W.
-
-Repository Contents
--------------------
-* **/Hardware** - All Eagle design files (.brd, .sch)
-* **/Firmware** - Firmware files for this project.
-* **/Production** - Test bed files and production panel files
-
-
-Documentation
---------------
-
-* **[Hookup Guide - Revised](https://learn.sparkfun.com/tutorials/variable-load-hookup-guide---revised)** - Latest basic hookup guide for the Variable Load.
-* ***[Hookup Guide (RETIRED)](https://learn.sparkfun.com/tutorials/variable-load-hookup-guide)** - Basic hookup guide for the Variable Load for boards purchased purchased prior to 24 May 2018.*
+A PSoC-based digital load that allows the user to set a desired current which will be maintained despite changes in voltage supply.
+Check on the [SparkFun Enginursday post](https://www.sparkfun.com/news/2434) about the project build or the [SparkFun Variable Load Kit](https://www.sparkfun.com/products/14449) that uses this design. 
 
 License Information
 -------------------
