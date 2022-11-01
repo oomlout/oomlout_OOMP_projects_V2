@@ -1,0 +1,323 @@
+Pinlist
+
+Exported from boardEagle.brd at 16/10/2022 00:02
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        3V3
+         2        GND
+
+C2       1        3V3
+         2        GND
+
+C3       1        VUSB
+         2        GND
+
+C4       1        3V3
+         2        GND
+
+C5       1        3V3
+         2        GND
+
+C6       1        3V3
+         2        GND
+
+C7       1        N$9
+         2        GND
+
+C8       1        N$12
+         2        GND
+
+C9       1        3V3
+         2        GND
+
+C10      1        VEXTERN
+         2        GND
+
+C11      1        SWV33
+         2        GND
+
+C12      1        3V3
+         2        GND
+
+C13      1        SWV50
+         2        GND
+
+C14      +        VUSB
+         -        GND
+
+C15      +        N$10
+         -        GND
+
+D1       A        N$3
+         C        VEXTERN
+
+D2       A        N$14
+         C        VEXTERN
+
+D3       A        N$15
+         C        EXVUSB
+
+IC1      1        MISO
+         2        CLOCK
+         3        MOSI
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        MCLR
+         8                 *** unconnected ***
+         9        GND
+         10       3V3
+         11       ADC2
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14       ADC4
+         15       ADC1
+         16       ADC3
+         17       PGC
+         18       PGD
+         19       3V3
+         20       GND
+         21       LD1
+         22       VREGEN
+         23       USBLED
+         24                *** unconnected ***
+         25       GND
+         26       3V3
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30       ADC5
+         31       PUVSEL33
+         32       PUVSEL50
+         33       USBID
+         34       N$11
+         35       3V3
+         36       USB_D-
+         37       USB_D+
+         38       3V3
+         39       N$12
+         40       N$9
+         41       GND
+         42       AUX1
+         43       EE_SDA
+         44       EE_SCL
+         45       EE_WP
+         46       AUX2
+         47                *** unconnected ***
+         48       MS0
+         49       MOSI
+         50       CLOCK
+         51       MISO
+         52       CS
+         53       AUX0
+         54                *** unconnected ***
+         55                *** unconnected ***
+         56       N$10
+         57       3V3
+         58                *** unconnected ***
+         59                *** unconnected ***
+         60                *** unconnected ***
+         61                *** unconnected ***
+         62                *** unconnected ***
+         63                *** unconnected ***
+         64       PULLUPEN
+
+IC2      1        VEXTERN
+         2        N$4
+         3        N$5
+         4        VEXTERN
+         5        PULLUPEN
+         6        PULLUPEN
+         7        GND
+         8        VEXTERN
+         9        N$1
+         10       VEXTERN
+         11       N$2
+         12       PULLUPEN
+         13       PULLUPEN
+         14       VUSB
+
+IC3      1        EE_SCL
+         2        GND
+         3        EE_SDA
+         4        3V3
+         5        EE_WP
+
+ICSP     GND      GND
+         PGC      PGC
+         PGD      PGD
+         VCC      3V3
+         MCLR     MCLR
+
+IO       1        MOSI
+         2        CLOCK
+         3        MISO
+         4        CS
+         5        AUX0
+         6        AUX1
+         7        AUX2
+         8        ADC
+         9        VEXTERN
+         10       SWV33
+         11       SWV50
+         12       GND
+
+JP1      1        N$15
+         2        GND
+
+L1       1        VUSB
+         2        EXVUSB
+
+LED1     A        N$7
+         C        GND
+
+LED1A    A        N$7
+         C        GND
+
+LED2     A        N$6
+         C        GND
+
+LED2A    A        N$6
+         C        GND
+
+LED3     A        N$18
+         C        GND
+
+LED3A    A        N$18
+         C        GND
+
+LED4     A        N$13
+         C        GND
+
+LED4A    A        N$13
+         C        GND
+
+LOGO1   
+NORMAL   1        GND
+         2        GND
+         3        MS0
+         4        MS0
+
+PCB1    
+Q1       1        N$17
+         2        SWV50
+         3        N$3
+
+Q2       1        N$8
+         2        SWV33
+         3        N$14
+
+R1       1        N$17
+         2        PUVSEL50
+
+R2       1        N$8
+         2        PUVSEL33
+
+R3       1        N$7
+         2        3V3
+
+R4       1        N$13
+         2        USBLED
+
+R5       1        N$6
+         2        LD1
+
+R6       1        N$18
+         2        SWV33
+
+R7       1        MCLR
+         2        3V3
+
+R8       1        EE_SDA
+         2        3V3
+
+R9       1        EE_SCL
+         2        3V3
+
+R10      1        MOSI
+         2        N$1
+
+R11      1        VUSB
+         2        ADC5
+
+R12      1        GND
+         2        ADC5
+
+R13      1        SWV50
+         2        N$17
+
+R14      1        SWV33
+         2        N$8
+
+R15      1        VUSB
+         2        N$11
+
+RESET    1        MCLR
+         2        MCLR
+         3        GND
+         4        GND
+
+RN1      1        CLOCK
+         2        MISO
+         3        CS
+         4        PULLUPEN
+         5        VUSB
+         6        N$4
+         7        N$5
+         8        N$2
+
+RN2      1        VEXTERN
+         2        GND
+         3        GND
+         4        SWV50
+         5        ADC4
+         6        ADC4
+         7        ADC2
+         8        ADC2
+
+RN3      1        ADC
+         2        GND
+         3        GND
+         4        SWV33
+         5        ADC3
+         6        ADC3
+         7        ADC1
+         8        ADC1
+
+U$1     
+U$2     
+U$4     
+USB      D+       USB_D+
+         D-       USB_D-
+         ID       USBID
+         GND      GND
+         VUSB     EXVUSB
+         BODY@1            *** unconnected ***
+         BODY@2            *** unconnected ***
+         BODY@3            *** unconnected ***
+         BODY@4            *** unconnected ***
+
+VR1      1        VUSB
+         2        GND
+         3        VUSB
+         4                 *** unconnected ***
+         5        3V3
+
+VR2      1        VUSB
+         2        GND
+         3        VREGEN
+         4                 *** unconnected ***
+         5        SWV33
+
+VR3      1        VUSB
+         2        GND
+         3        VREGEN
+         4                 *** unconnected ***
+         5        SWV50
+
+X1       1        N$12
+         2        N$9
+

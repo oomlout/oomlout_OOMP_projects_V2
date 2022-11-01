@@ -1,0 +1,425 @@
+Pinlist
+
+Exported from boardEagle.brd at 16/10/2022 12:57
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        5V
+
+C2       1        GND
+         2        5V
+
+C3       1        GND
+         2        5V
+
+C4       1        GND
+         2        5V
+
+C5       1        GND
+         2        VUSB_IN
+
+C6       1        GND
+         2        5V
+
+C7       1        GND
+         2        5V
+
+C8       1        GND
+         2        VCC
+
+C9       1        GND
+         2        VCC
+
+C10      1        GND
+         2        VCC
+
+C11      1        GND
+         2        HHPD
+
+C12      1        GND
+         2        N$30
+
+C13      1        GND
+         2        N$31
+
+C14      1        GND
+         2        N$3
+
+C15      1        GND
+         2        VCC
+
+C16      1        GND
+         2        N$4
+
+CON1     DM       USB1_N
+         DP       USB1_P
+         GND      GND
+         P$5      GND
+         P$6      GND
+         VBUS     5V
+
+CON2     DM       USB2_N
+         DP       USB2_P
+         GND      GND
+         P$5      GND
+         P$6      GND
+         VBUS     5V
+
+CON3     CC1      N$9
+         CC2      N$10
+         DN1      USB0_N
+         DN2      USB0_N
+         DP1      USB0_P
+         DP2      USB0_P
+         P$1      GND
+         P$2      GND
+         P$3      GND
+         P$4      GND
+         P$5      GND
+         P$6      GND
+         P$7      GND
+         P$8      GND
+         SBU1              *** unconnected ***
+         SBU2              *** unconnected ***
+         GND@1    GND
+         GND@2    GND
+         VBUS@1   VUSB_IN
+         VBUS@2   VUSB_IN
+
+CON4     1        GND
+         2        HTX2_P
+         3        HTX2_N
+         4        GND
+         5        HTX1_P
+         6        HTX1_N
+         7        GND
+         8        HTX0_P
+         9        HTX0_N
+         10       GND
+         11       HTXC_P
+         12       HTXC_N
+         13       GND
+         14       HDCEC
+         15       HDSCL
+         16       HDSDA
+         17                *** unconnected ***
+         18       H5V
+         19       HDHPD
+         SHELL    GND
+         SHELL1   GND
+         SHELL2   GND
+         SHELL3   GND
+
+CON5     1        TXO_P
+         2        TXO_N
+         3        RXI_P
+         4        N$3
+         5        N$4
+         6        RXI_N
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11       TR0_TAP
+         12       TR1_TAP
+         13       TR2_TAP
+         14       TR3_TAP
+         15       VCC
+         16       N$2
+         17       VCC
+         18       N$6
+         MH3      GND
+         MH4      GND
+
+CON6     1        SCD0-D2
+         2        SCD0-D3
+         3        SCD0-CMD
+         4        VCC
+         5        SCD0-CLK'
+         6        GND
+         7        SCD0-D0
+         8        SCD0-D1
+         9        SCD0-DET
+         S1       GND
+         S2       GND
+         S3       GND
+         S4       GND
+
+D1       1        USB0_P
+         2        GND
+         3        USB0_N
+         4                 *** unconnected ***
+         5        VUSB_IN
+         6                 *** unconnected ***
+
+D2       1        USB2_N
+         2        GND
+         3        USB2_P
+         4        USB1_N
+         5        5V
+         6        USB1_P
+
+D3       1        N$7
+         2        VCC
+
+D4       1        H5V
+         2        5V
+
+IC1      1        GND
+         2        VCC
+         3        5V
+         4        VCC
+
+J1       1        GND
+         2        LRADC
+         3        LINEOUT_L
+         4        LINEOUT_R
+
+J2       1        GND
+         2        PH0/UART0-TX
+         3        PH1/UART0-RX
+
+J3       1        GND
+         2        VUSB_IN
+
+J4       P$1      VCC
+         P$2      N$5
+         P$3      PI8/TWI1-SDA
+         P$4      N$5
+         P$5      PI7/TWI1-SCK
+         P$6      GND
+         P$7      PI0/I2S0-MCLK
+         P$8      PH0/UART0-TX
+         P$9      GND
+         P$10     PH1/UART0-RX
+         P$11     PH2/UART5-TX
+         P$12     PI1/I2S0-BCLK
+         P$13     PH3/UART5-RX
+         P$14     GND
+         P$15     PI13/UART4-TX/PWM3
+         P$16     PI14/UART4-RX/PWM4
+         P$17     VCC
+         P$18     PH4
+         P$19     SPI1-MOSI
+         P$20     GND
+         P$21     SPI1-MISO
+         P$22     PI6/UART2-RX
+         P$23     SPI1-CLK
+         P$24     SPI1-CS0
+         P$25     GND
+         P$26     SPI1-CS1
+         P$27     PI10/TWI2-SDA
+         P$28     PI9/TWI2-SCK
+         P$29     PI11
+         P$30     GND
+         P$31     PI12
+         P$32     PI5/UART2-TX
+         P$33     PI15
+         P$34     GND
+         P$35     PI2/I2S0-LRCK
+         P$36     PH10
+         P$37     PI16
+         P$38     PI4/I2S0-DOUT
+         P$39     GND
+         P$40     PI3/I2S0-DIN
+
+J5       1        N$5
+         2        5V
+
+J6       1        TR1_TAP
+         2        TR0_TAP
+         3        TR3_TAP
+         4        TR2_TAP
+
+L1       1        VUSB_IN
+         2        5V
+
+LED1     A        N$1
+         C        GND
+
+MOD1     1                 *** unconnected ***
+         2                 *** unconnected ***
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10       SCD0-D1
+         11       SCD0-D0
+         12       SCD0-CLK
+         13       GND
+         14       SCD0-CMD
+         15       SCD0-D3
+         16       SCD0-D2
+         17       SCD0-DET
+         18       PI0/I2S0-MCLK
+         19       PI1/I2S0-BCLK
+         20       PI2/I2S0-LRCK
+         21       PI3/I2S0-DIN
+         22       PI4/I2S0-DOUT
+         23       PI5/UART2-TX
+         24       PI6/UART2-RX
+         25       PI7/TWI1-SCK
+         26       PI8/TWI1-SDA
+         27       PI9/TWI2-SCK
+         28       PI10/TWI2-SDA
+         29       PI11
+         30       PI12
+         31       GND
+         32       PI13/UART4-TX/PWM3
+         33       PI14/UART4-RX/PWM4
+         34       PI15
+         35       PI16
+         36       PH0/UART0-TX
+         37       PH1/UART0-RX
+         38       PH2/UART5-TX
+         39       PH3/UART5-RX
+         40       PH4
+         41       SPI1-CS0
+         42       SPI1-CLK
+         43       SPI1-MOSI
+         44       SPI1-MISO
+         45       SPI1-CS1
+         46       PH10
+         47                *** unconnected ***
+         48                *** unconnected ***
+         49       5V
+         50       5V
+         51       GND
+         52       GND
+         53       RESET
+         54       GND
+         55       USB1_N
+         56       USB1_P
+         57       GND
+         58       USB2_N
+         59       USB2_P
+         60       GND
+         61       USB0_N
+         62       USB0_P
+         63       GND
+         64       LRADC
+         65                *** unconnected ***
+         66       LINEOUT_L
+         67       LINEOUT_R
+         68       HSDA
+         69       HSCL
+         70       HHPD
+         71       HCEC
+         72       GND
+         73       HTXC_N
+         74       HTXC_P
+         75       GND
+         76       HTX0_N
+         77       HTX0_P
+         78       GND
+         79       HTX1_N
+         80       HTX1_P
+         81       GND
+         82       HTX2_N
+         83       HTX2_P
+         84       GND
+         85       RXI_N
+         86       RXI_P
+         87       TXO_N
+         88       TXO_P
+         89       GND
+         90                *** unconnected ***
+         91       LAN_LED_Y
+         92       LAN_LED_G
+         93                *** unconnected ***
+         94                *** unconnected ***
+         95                *** unconnected ***
+         96                *** unconnected ***
+         97                *** unconnected ***
+         98                *** unconnected ***
+         99                *** unconnected ***
+         100               *** unconnected ***
+         101               *** unconnected ***
+         102               *** unconnected ***
+         103               *** unconnected ***
+         104               *** unconnected ***
+         105               *** unconnected ***
+         106      GND
+
+R1       1        GND
+         2        N$10
+
+R2       1        GND
+         2        N$9
+
+R3       1        N$1
+         2        VCC
+
+R4       1        VCC
+         2        PI8/TWI1-SDA
+
+R5       1        VCC
+         2        PI7/TWI1-SCK
+
+R6       1        HDHPD
+         2        HHPD
+
+R7       1        HDCEC
+         2        N$7
+
+R8       1        HDCEC
+         2        HCEC
+
+R9       1        H5V
+         2        HDSCL
+
+R10      1        H5V
+         2        HDSDA
+
+R11      1        HDSCL
+         2        HSCL
+
+R12      1        HDSDA
+         2        HSDA
+
+R13      1        N$30
+         2        TXO_P
+
+R14      1        N$30
+         2        TXO_N
+
+R15      1        N$31
+         2        RXI_P
+
+R16      1        N$31
+         2        RXI_N
+
+R17      1        SCD0-CMD
+         2        VCC
+
+R18      1        SCD0-CLK'
+         2        SCD0-CLK
+
+R19      1        SCD0-DET
+         2        VCC
+
+R20      1        N$2
+         2        LAN_LED_G
+
+R21      1        N$6
+         2        LAN_LED_Y
+
+SW1      P$1      RESET
+         P$2      RESET
+         P$3      GND
+         P$4      GND
+
+TP1      TP       GND
+
+TP2      TP       GND
+
+TP3      TP       VCC
+
+TP4      TP       SCD0-DET
+

@@ -1,0 +1,198 @@
+Pinlist
+
+Exported from boardEagle.brd at 06/10/2022 22:42
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        GND
+         2        VCC
+
+C2       1        GND
+         2        VCC
+
+C3       1        VUSB
+         2        GND
+
+C4       1        VCC
+         2        GND
+
+C5       1        GND
+         2        RESET
+
+C6       1        GND
+         2        X32K_Q1
+
+C7       1        GND
+         2        X32K_Q2
+
+C8       1        GND
+         2        DCOUPL
+
+C9       1        GND
+         2        UNBAL
+
+C10      1        GND
+         2        ANT
+
+C11      1        VDDS
+         2        GND
+
+C12      1        VDDS
+         2        GND
+
+C13      1        VDDS
+         2        GND
+
+C14      1        VDDS
+         2        GND
+
+C15      1        VDDS
+         2        GND
+
+C16      1        VDDR
+         2        GND
+
+C17      1        VDDR
+         2        GND
+
+C18      1        VDDR
+         2        GND
+
+CON3     1        VCC
+         2        TMS
+         3        GND
+         4        TCK
+         6        RESET
+
+D1       1        USB_D+
+         2        GND
+         3        USB_D-
+         4        UD-
+         5        VUSB
+         6        UD+
+
+FL1      1        UNBAL
+         2        GND
+         3        RF_N
+         4        RF_P
+         5        GND
+         6        GND
+
+IC1      1        UD+
+         2        UD-
+         3        GND
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        VCC
+         8        PC_TX
+         9        PC_RX
+         10       VCC
+
+IC2      1        VUSB
+         2        GND
+         3        VUSB
+         4                 *** unconnected ***
+         5        VCC
+
+IC3      1        RF_P
+         2        RF_N
+         3        X32K_Q1
+         4        X32K_Q2
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        PC_TX
+         8        PC_RX
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12       LED
+         13       VDDS
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19       BSL
+         20                *** unconnected ***
+         21                *** unconnected ***
+         22       VDDS
+         23       DCOUPL
+         24       TMS
+         25       TCK
+         26                *** unconnected ***
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29                *** unconnected ***
+         30                *** unconnected ***
+         31                *** unconnected ***
+         32                *** unconnected ***
+         33       DCDC_SW
+         34       VDDS
+         35       RESET
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38                *** unconnected ***
+         39                *** unconnected ***
+         40                *** unconnected ***
+         41                *** unconnected ***
+         42                *** unconnected ***
+         43                *** unconnected ***
+         44       VDDS
+         45       VDDR
+         46       X48M_N
+         47       X48M_P
+         48       VDDR
+         49       GND
+
+L1       1        VCC
+         2        VDDS
+
+L2       1        DCDC_SW
+         2        VDDR
+
+L3       1        UNBAL
+         2        ANT
+
+LED1     A        N$16
+         C        GND
+
+MOD1     USB_V    VUSB
+         USB_D+   USB_D+
+         USB_D-   USB_D-
+         USB_GND  GND
+         SMA_SHIEL D_1 GND
+         SMA_SHIEL D_2 GND
+         SMA_SHIEL D_3 GND
+         SMA_SHIEL D_4 GND
+         SMA_SIGNA L ANT
+         USB_SHIEL D_1 GND
+         USB_SHIEL D_2 GND
+
+R1       1        RESET
+         2        VCC
+
+R2       1        LED
+         2        N$16
+
+R3       1        VCC
+         2        BSL
+
+SW1      1        GND
+         2        GND
+         3        BSL
+         4        BSL
+         M1                *** unconnected ***
+         M2                *** unconnected ***
+
+U$5     
+Y1       1        X48M_P
+         2        GND
+         3        X48M_N
+         4        GND
+
+Y2       1        X32K_Q1
+         2        X32K_Q2
+

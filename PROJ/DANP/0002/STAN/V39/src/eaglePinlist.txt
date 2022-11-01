@@ -1,0 +1,233 @@
+Pinlist
+
+Exported from boardEagle.brd at 15/10/2022 23:54
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+C1       1        +3V3
+         2        GND
+
+C2       1        +3V3
+         2        GND
+
+C3       1        VUSB
+         2        GND
+
+C4       1        VUSB
+         2        GND
+
+C5       1        N$8
+         2        GND
+
+C6       1        +3V3
+         2        GND
+
+C7       1        +3V3
+         2        GND
+
+C8       1        SWV33
+         2        GND
+
+C9       1        SWV50
+         2        GND
+
+C10      +        VUSB
+         -        GND
+
+C11      +        N$3
+         -        GND
+
+CON1     1        GND
+         2        SWV50
+         3        SWV33
+         4        VEXTERN
+         5        ADC
+         6        AUX1
+         7        CS
+         8        MISO
+         9        CLK
+         10       MOSI
+
+CON2     1        MCLR
+         2        +3V3
+         3        GND
+         4        PGD
+         5        PGC
+         6                 *** unconnected ***
+
+CON3     P1       $N26
+         P2       N$16
+         P3       N$15
+         P4                *** unconnected ***
+         P5       GND
+         GND1     GND
+         GND2     GND
+         GND3     GND
+         GND4     GND
+         GND5     GND
+         GND6     GND
+
+IC1      1        MCLR
+         2        VREGEN
+         3        LD1
+         4        PGD
+         5        PGC
+         6        TP1
+         7        V33PU
+         8        GND
+         9        V50PU
+         10       CTS
+         11       RX
+         12       RTS
+         13       +3V3
+         14       TX
+         15       CS
+         16       MISO
+         17       CLK
+         18       MOSI
+         19       GND
+         20       N$3
+         21       AUX1
+         22       PULLUPEN
+         23       ADC1
+         24       ADC2
+         25       ADC3
+         26       ADC4
+         27       GND
+         28       +3V3
+
+IC3      1        N$10
+         2        VEXTERN
+         3        SWV33
+         4        N$10
+         5        V33PU
+         6        V50PU
+         7        GND
+         8        N$10
+         9        SWV50
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       PULLUPEN
+         14       VUSB
+
+IC4      1        TX
+         2        RTS
+         3        +3V3
+         4        RX
+         5        GND
+         6        CTS
+         7                 *** unconnected ***
+         8        N$15
+         9        N$16
+         10       N$8
+         11                *** unconnected ***
+         12       VUSB
+         13       GND
+         14       RXLED
+         15                *** unconnected ***
+         16                *** unconnected ***
+
+L1       1        VUSB
+         2        $N26
+
+LED1     A        N$7
+         C        GND
+
+LED1A    A        N$7
+         C        GND
+
+LED2     A        N$6
+         C        GND
+
+LED2A    A        N$6
+         C        GND
+
+LED3     A        N$18
+         C        GND
+
+LED3A    A        N$18
+         C        GND
+
+LED4     A        N$13
+         C        RXLED
+
+LED4A    A        N$13
+         C        RXLED
+
+LOGO1   
+PCB1    
+R1       1        MCLR
+         2        +3V3
+
+R2       1        N$7
+         2        +3V3
+
+R3       1        N$13
+         2        +3V3
+
+R4       1        N$6
+         2        LD1
+
+R6       1        N$18
+         2        SWV33
+
+RN1      1        ADC4
+         2        ADC4
+         3        ADC3
+         4        ADC3
+         5        GND
+         6        SWV33
+         7        GND
+         8        SWV50
+
+RN2      1        ADC2
+         2        ADC2
+         3        ADC1
+         4        ADC1
+         5        GND
+         6        ADC
+         7        GND
+         8        VEXTERN
+
+RN3      1        N$10
+         2        N$10
+         3        N$10
+         4        N$10
+         5        CLK
+         6        MISO
+         7        CS
+         8        MOSI
+
+RN4      1        AUX1
+         2        PULLUPEN
+         3        V33PU
+         4        V50PU
+         5        GND
+         6        GND
+         7        GND
+         8        N$10
+
+U$1     
+U$2     
+U$3     
+VR1      1        VUSB
+         2        GND
+         3        VUSB
+         4                 *** unconnected ***
+         5        +3V3
+
+VR2      1        VUSB
+         2        GND
+         3        VREGEN
+         4                 *** unconnected ***
+         5        SWV33
+
+VR3      1        VUSB
+         2        GND
+         3        VREGEN
+         4                 *** unconnected ***
+         5        SWV50
+
