@@ -42,7 +42,23 @@
     ],
     "oompInstances": [],
     "oompParts": [
-        {}
+        {
+            "C1": "CAPC-0603-X-UF1-V25",
+            "C2": "CAPC-0603-X-NF100-V50",
+            "C3": "CAPX-UNMATCHED-X-UF22-01",
+            "D1": "LEDS-0805-G-STAN-01",
+            "D2": "LEDS-0805-Y-STAN-01",
+            "JP1": "HEAD-I01-X-PI06-01",
+            "JP2": "HEAD-I01-X-PI10-01",
+            "JP3": "HEAD-I01-X-PI10-01",
+            "R1": "RESE-0603-X-O103-01",
+            "R2": "RESE-0603-X-UNMATCHED-01",
+            "R3": "RESE-0603-X-UNMATCHED-01",
+            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "SW2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
+            "USB1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+        }
     ],
     "oompSize": [
         "ELLA"
@@ -51,7 +67,254 @@
         "PROJ"
     ],
     "oplPartNumber": [],
-    "rawParts": [],
+    "rawParts": [
+        {
+            "eagleBom": [
+                {
+                    "BOM": "CC0603KRX7R8BB105",
+                    "Description": "302010139",
+                    "Device": "CERAMIC-1UF-25V-10%-X7R(0603)",
+                    "Package": "C0603",
+                    "Part": "C1",
+                    "Value": "1uf"
+                },
+                {
+                    "BOM": "CC0603KRX7R9BB104",
+                    "Description": "302010138",
+                    "Device": "CERAMIC-100NF-50V-10%-X7R(0603)",
+                    "Package": "C0603",
+                    "Part": "C2",
+                    "Value": "100nf"
+                },
+                {
+                    "BOM": "TAJB226*016#NJ",
+                    "Description": "302020013",
+                    "Device": "TANTALUM-SMD-22UF-16V(AVX-B)",
+                    "Package": "AVX-B",
+                    "Part": "C3",
+                    "Value": "22uf"
+                },
+                {
+                    "BOM": "17-215SYGC/S530-E2/TR8",
+                    "Description": "304090057",
+                    "Device": "SMD-LED-CLEAR-GREEN(0805)",
+                    "Package": "LED-0805",
+                    "Part": "D1",
+                    "Value": "GREEN-0805"
+                },
+                {
+                    "BOM": "17-215UYC/S530-A3/TR8",
+                    "Description": "304090039",
+                    "Device": "SMD-LED-CLEAR-YELLOW(0805)",
+                    "Package": "LED-0805",
+                    "Part": "D2",
+                    "Value": "YELLOW-0805"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 6",
+                    "Device": "M06LOCK",
+                    "Package": "1X06_LOCK",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 10",
+                    "Device": "M10LOCK",
+                    "Package": "1X10_LOCK",
+                    "Part": "JP2",
+                    "Value": "M10LOCK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "Header 10",
+                    "Device": "M10LOCK",
+                    "Package": "1X10_LOCK",
+                    "Part": "JP3",
+                    "Value": "M10LOCK"
+                },
+                {
+                    "BOM": "RC0603FR-0710KL",
+                    "Description": "301010299",
+                    "Device": "SMD-RES-10K-1%-1/10W(0603)",
+                    "Package": "R0603",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "RC0603JR-07200RL",
+                    "Description": "301010218",
+                    "Device": "SMD-RES-200R-5%-1/10W(0603)",
+                    "Package": "R0603",
+                    "Part": "R2",
+                    "Value": "200R 1/10W"
+                },
+                {
+                    "BOM": "RC0603JR-07200RL",
+                    "Description": "301010218",
+                    "Device": "SMD-RES-200R-5%-1/10W(0603)",
+                    "Package": "R0603",
+                    "Part": "R3",
+                    "Value": "200R 1/10W"
+                },
+                {
+                    "BOM": "B3U-1000P-2P-SMD",
+                    "Description": "311020047",
+                    "Device": "SMD-BUTTON(2P-3.0X2.5X1.2+0.4MM)-B3U-1000P-2P-SMD",
+                    "Package": "SW2-2.6-3.0X2.5X1.2+0.4MM",
+                    "Part": "SW1",
+                    "Value": "B3U-1000P-2P-SMD"
+                },
+                {
+                    "BOM": "B3U-1000P-2P-SMD",
+                    "Description": "311020047",
+                    "Device": "SMD-BUTTON(2P-3.0X2.5X1.2+0.4MM)-B3U-1000P-2P-SMD",
+                    "Package": "SW2-2.6-3.0X2.5X1.2+0.4MM",
+                    "Part": "SW2",
+                    "Value": "B3U-1000P-2P-SMD"
+                },
+                {
+                    "BOM": "PIC16F1459-I/SO",
+                    "Description": "8-Bit USB Microcontrollers,SOIC-20",
+                    "Device": "PIC16F1459-I/SO",
+                    "Package": "SOIC127P1030X265-20N",
+                    "Part": "U1",
+                    "Value": "PIC16F1459-I/SO"
+                },
+                {
+                    "BOM": "ST-USB-001G",
+                    "Description": "320010000",
+                    "Device": "MICRO-USB-SMD-B-WITHOUT-POST-W/P(ST-USB-001G)",
+                    "Package": "MICRO-USB5+4P-SMD-0.65-B",
+                    "Part": "USB1",
+                    "Value": "ST-USB-001G"
+                }
+            ],
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "R0603 200R 1/10W",
+                    "Package": "R0603",
+                    "Part": "R3",
+                    "Value": "200R 1/10W"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "R0603 200R 1/10W",
+                    "Package": "R0603",
+                    "Part": "R2",
+                    "Value": "200R 1/10W"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X10_LOCK M10LOCK",
+                    "Package": "1X10_LOCK",
+                    "Part": "JP3",
+                    "Value": "M10LOCK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X10_LOCK M10LOCK",
+                    "Package": "1X10_LOCK",
+                    "Part": "JP2",
+                    "Value": "M10LOCK"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "R0603 10K",
+                    "Package": "R0603",
+                    "Part": "R1",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "C0603 1uf",
+                    "Package": "C0603",
+                    "Part": "C1",
+                    "Value": "1uf"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MICRO-USB5+4P-SMD-0.65-B ST-USB-001G",
+                    "Package": "MICRO-USB5+4P-SMD-0.65-B",
+                    "Part": "USB1",
+                    "Value": "ST-USB-001G"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X06_LOCK ",
+                    "Package": "1X06_LOCK",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SW2-2.6-3.0X2.5X1.2+0.4MM B3U-1000P-2P-SMD",
+                    "Package": "SW2-2.6-3.0X2.5X1.2+0.4MM",
+                    "Part": "SW1",
+                    "Value": "B3U-1000P-2P-SMD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SW2-2.6-3.0X2.5X1.2+0.4MM B3U-1000P-2P-SMD",
+                    "Package": "SW2-2.6-3.0X2.5X1.2+0.4MM",
+                    "Part": "SW2",
+                    "Value": "B3U-1000P-2P-SMD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "AVX-B 22uf",
+                    "Package": "AVX-B",
+                    "Part": "C3",
+                    "Value": "22uf"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LED-0805 YELLOW-0805",
+                    "Package": "LED-0805",
+                    "Part": "D2",
+                    "Value": "YELLOW-0805"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "C0603 100nf",
+                    "Package": "C0603",
+                    "Part": "C2",
+                    "Value": "100nf"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LED-0805 GREEN-0805",
+                    "Package": "LED-0805",
+                    "Part": "D1",
+                    "Value": "GREEN-0805"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOIC127P1030X265-20N PIC16F1459-I/SO",
+                    "Package": "SOIC127P1030X265-20N",
+                    "Part": "U1",
+                    "Value": "PIC16F1459-I/SO"
+                }
+            ]
+        }
+    ],
     "symbolEagle": [],
     "symbolEagleDetails": [],
     "symbolKicad": [],
