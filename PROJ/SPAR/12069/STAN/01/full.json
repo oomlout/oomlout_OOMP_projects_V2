@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/H2OhNo.brd"
     ],
     "eagleSchem": [
         "/hardware/H2OhNo.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "H2OhNo"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR12069"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "H2OhNo"
     ],
@@ -121,17 +109,248 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C6": "CAPX-UNMATCHED-X-NF100-01",
-            "JP3": "HEAD-I01-X-PI02-01",
-            "JP4": "HEAD-I01-X-PI06-01",
-            "LED1": "LEDS-05-G-STAN-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "SG1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "BAT1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Battery Holders",
+                    "DEVICE": "BATTERY20PTH",
+                    "FULL": "BAT1,,BATTERY20PTH,BATTCOM_20MM_PTH,Battery Holders,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BATTCOM_20MM_PTH",
+                    "PACKAGENUMBER": "20",
+                    "PART": "BAT1",
+                    "PARTLETTER": "BAT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAPPTH2",
+                    "FULL": "C6,0.1uF,CAPPTH2,CAP-PTH-SMALL2,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CAP-PTH-SMALL2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-NF100-01"
+            },
+            "FRAME2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME2",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Standard 2-pin 0.1 header. Use with",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP3,Water Sensor,M02PTH,1X02,Standard 2-pin 0.1 header. Use with,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Water Sensor",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 6",
+                    "DEVICE": "M06SIP",
+                    "FULL": "JP4,ISP,M06SIP,1X06,Header 6,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X06",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "ISP",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LEDs",
+                    "DEVICE": "LED5MM",
+                    "FULL": "LED1,,LED5MM,LED5MM,LEDs,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED5MM",
+                    "PACKAGENUMBER": "5",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-05-G-STAN-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SPDT Switch",
+                    "DEVICE": "SWITCH-SPDTPTH",
+                    "FULL": "S1,Power,SWITCH-SPDTPTH,SWITCH-SPDT,SPDT Switch,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SWITCH-SPDT",
+                    "PACKAGENUMBER": "",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "Power",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SG1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Buzzer 12mm",
+                    "DEVICE": "BUZZERPTH",
+                    "FULL": "SG1,Buzzer,BUZZERPTH,BUZZER-12MM,Buzzer 12mm,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BUZZER-12MM",
+                    "PACKAGENUMBER": "12",
+                    "PART": "SG1",
+                    "PARTLETTER": "SG",
+                    "VALUE": "Buzzer",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF1",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "STANDOFF3,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF3",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "STANDOFF4,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF4",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFESK",
+                    "FULL": "U$1,LOGO-SFESK,LOGO-SFESK,SFE-LOGO-FLAME,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-LOGO-FLAME",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFESK",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "U$4,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENW2",
+                    "FULL": "U$5,LOGO-SFENW2,LOGO-SFENW2,SFE-NEW-WEB,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEB",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFENW2",
+                    "VALUENUMBER": "-2"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "IC-09445",
+                    "DESC": "Atmel 8-pin 2/4/8kB flash uC",
+                    "DEVICE": "ATTINY45TINY85-20-DIP",
+                    "FULL": "U2,TINY85-20-DIP,ATTINY45TINY85-20-DIP,DIP08,Atmel 8-pin 2/4/8kB flash uC,IC-09445,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "DIP08",
+                    "PACKAGENUMBER": "08",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "TINY85-20-DIP",
+                    "VALUENUMBER": "85-20-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -140,7 +359,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -267,9 +485,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

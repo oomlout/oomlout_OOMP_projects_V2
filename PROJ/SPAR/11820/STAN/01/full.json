@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFunws2812bBreakout.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFunws2812bBreakout.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "WS2812_Breakout"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR11820"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "WS2812 Breakout"
     ],
@@ -121,13 +109,184 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0603-X-NF100-V50",
-            "JP1": "HEAD-I01-X-PI03-01",
-            "JP2": "HEAD-I01-X-PI03-01",
-            "U1": "UNMATCHED-UNMATCHED-X-K2812-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAP-00810",
+                    "DEVICE": "0.1UF-25V(+80/-20%)(0603)",
+                    "FULL": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "NAME",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,NAME,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 3",
+                    "DEVICE": "M03PTH",
+                    "FULL": "JP1,INPUT,M03PTH,1X03,Header 3,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X03",
+                    "PACKAGENUMBER": "103",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "INPUT",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "JP15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP15,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP15",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 3",
+                    "DEVICE": "M03PTH",
+                    "FULL": "JP2,OUTPUT,M03PTH,1X03,Header 3,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X03",
+                    "PACKAGENUMBER": "103",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "OUTPUT",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, flame only",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "LOGO2,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "WS2812B - Intelligent control LED integrated light source",
+                    "DEVICE": "WS2812B",
+                    "FULL": "U1,WS2812B,WS2812B,WS2812B,WS2812B - Intelligent control LED integrated light source,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "WS2812B",
+                    "PACKAGENUMBER": "2812",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "WS2812B",
+                    "VALUENUMBER": "2812"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-K2812-01"
+            }
         }
     ],
     "oompSize": [
@@ -136,7 +295,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -231,9 +389,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

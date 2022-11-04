@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_OpAmp_Breakout-LMV358.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_OpAmp_Breakout-LMV358.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "OpAmp_Breakout-LMV358"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR9816"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "OpAmp Breakout LMV358"
     ],
@@ -121,25 +109,280 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0402-X-PF100-V50",
-            "C2": "CAPC-0402-X-NF100-V16",
-            "C3": "CAPC-0402-X-PF100-V50",
-            "C5": "CAPC-0402-X-UF1-V63D",
-            "C6": "CAPC-0402-X-UF1-V63D",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI04-01",
-            "R1": "RESE-0402-X-O1003-01",
-            "R2": "RESE-0402-X-O103-01",
-            "R3": "RESE-0402-X-O103-01",
-            "R4": "RESE-0402-X-O1003-01",
-            "R5": "RESE-0402-X-O103-01",
-            "R6": "RESE-0402-X-O103-01",
-            "R7": "RESE-UNMATCHED-X-O1003-01",
-            "R8": "RESE-0402-X-O103-01",
-            "R9": "RESE-0402-X-O103-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C1,100pF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "100pF",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "CAPC-0402-X-PF100-V50"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0402-X-NF100-V16"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C3,100pF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "100pF",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "CAPC-0402-X-PF100-V50"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C5,1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0402-X-UF1-V63D"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C6,1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0402-X-UF1-V63D"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Operational Amplifier",
+                    "DEVICE": "OPAMP-DUALU",
+                    "FULL": "IC1,LMV358,OPAMP-DUALU,SO08,Operational Amplifier,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SO08",
+                    "PACKAGENUMBER": "08",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "LMV358",
+                    "VALUENUMBER": "358"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 4",
+                    "DEVICE": "M04PTH",
+                    "FULL": "JP1,,M04PTH,1X04,Header 4,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X04",
+                    "PACKAGENUMBER": "104",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI04-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R1,100K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0402-X-O1003-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R3,10K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R4,100K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0402-X-O1003-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R5,10K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R6,10K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TRIMPOTSMD",
+                    "FULL": "R7,100K,TRIMPOTSMD,TRIMPOT-3MM,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TRIMPOT-3MM",
+                    "PACKAGENUMBER": "3",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O1003-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402",
+                    "FULL": "R8,10K,RESISTOR0402,C0402,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402",
+                    "FULL": "R9,10K,RESISTOR0402,C0402,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "U$3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -148,7 +391,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -291,9 +533,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

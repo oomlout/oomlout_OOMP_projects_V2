@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Flora LSM9DS0 9DoF.brd"
     ],
     "eagleSchem": [
         "/Adafruit Flora LSM9DS0 9DoF.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-Flora-LSM9DS0-9DOF-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR2020"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit Flora LSM9DS0 9DOF PCB"
     ],
@@ -121,14 +109,216 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C2": "CAPC-0805-X-UF10-V25",
-            "C6": "CAPC-0805-X-NF220-01",
-            "C7": "CAPC-0805-X-UF10-V25",
-            "R1": "RESA-06038-X-O103X4-01",
-            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805_10MGAP",
+                    "FULL": "C2,10UF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805_10MGAP",
+                    "PACKAGENUMBER": "080510",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "10UF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C6,0.22uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.22uF",
+                    "VALUENUMBER": "0.22"
+                },
+                "OOMPID": "CAPC-0805-X-NF220-01"
+            },
+            "C7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C7",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "GND": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "GND,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "GND",
+                    "PARTLETTER": "GND",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor Packs (4 resistors)",
+                    "DEVICE": "RESISTOR_4PACK_US",
+                    "FULL": "R1,10K,RESISTOR_4PACK_US,RESPACK_4X0603,Resistor Packs (4 resistors),,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "RESPACK_4X0603",
+                    "PACKAGENUMBER": "40603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESA-06038-X-O103X4-01"
+            },
+            "SCL1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "SCL1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "SCL1",
+                    "PARTLETTER": "SCL",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SCL2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "SCL2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "SCL2",
+                    "PARTLETTER": "SCL",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SDA1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "SDA1,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "SDA1",
+                    "PARTLETTER": "SDA",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SDA2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "SDA2,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "SDA2",
+                    "PARTLETTER": "SDA",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LSM9DS0 3-Axis Accelerometer/Gyroscope/Magnetometer",
+                    "DEVICE": "LSM9DS0",
+                    "FULL": "U2,LSM9DS0TR,LSM9DS0,LGA24_4X4MM,LSM9DS0 3-Axis Accelerometer/Gyroscope/Magnetometer,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "LGA24_4X4MM",
+                    "PACKAGENUMBER": "2444",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "LSM9DS0TR",
+                    "VALUENUMBER": "90"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "VCC": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP0.5IN",
+                    "FULL": "VCC,SEWTAP0.5IN,SEWTAP0.5IN,SEWINGTAP_0.5,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_0.5",
+                    "PACKAGENUMBER": "05",
+                    "PART": "VCC",
+                    "PARTLETTER": "VCC",
+                    "VALUE": "SEWTAP0.5IN",
+                    "VALUENUMBER": "0.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -137,7 +327,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -248,9 +437,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

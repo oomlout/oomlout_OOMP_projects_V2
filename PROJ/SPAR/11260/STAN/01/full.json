@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LilyPad_LiPower.brd"
     ],
     "eagleSchem": [
         "/Hardware/LilyPad_LiPower.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "LilyPad_LiPower"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR11260"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "LilyPad LiPower"
     ],
@@ -115,21 +103,296 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "100MA": "REFU-1206-X-UNMATCHED-01",
-            "C10": "CAPX-3528-X-UF47-01",
-            "C11": "CAPC-1206-X-UF10-V25",
-            "C2": "CAPC-0603-X-NF100-V50",
-            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI02-01",
-            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED1": "LEDS-1206-R-STAN-01",
-            "R1": "RESE-0603-X-O102-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-SO235-X-UNMATCHED-01"
+            "100MA": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resettable Fuse PTC",
+                    "DEVICE": "PTCSMD",
+                    "FULL": "100MA,PTC,PTCSMD,PTC-1206,Resettable Fuse PTC,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PTC-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "100MA",
+                    "PARTLETTER": "MA",
+                    "VALUE": "PTC",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "REFU-1206-X-UNMATCHED-01"
+            },
+            "C10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CAP_POL2",
+                    "FULL": "C10,47uF,CAP_POL2,EIA3528-21,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3528-21",
+                    "PACKAGENUMBER": "352821",
+                    "PART": "C10",
+                    "PARTLETTER": "C",
+                    "VALUE": "47uF",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "CAPX-3528-X-UF47-01"
+            },
+            "C11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CAP_POL1206",
+                    "FULL": "C11,10uF,CAP_POL1206,CPOL_1206,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CPOL_1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "C11",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-1206-X-UF10-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0603-CAP",
+                    "FULL": "C2,0.1uF,CAP0603-CAP,0603-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIODESMA",
+                    "FULL": "D1,MBRA140,DIODESMA,SMA-DIODE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMA-DIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "MBRA140",
+                    "VALUENUMBER": "140"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIODESMA",
+                    "FULL": "D2,MBRA140,DIODESMA,SMA-DIODE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMA-DIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "MBRA140",
+                    "VALUENUMBER": "140"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02-JST-2MM-SMT",
+                    "FULL": "JP1,LiPo,M02-JST-2MM-SMT,JST-2-SMD,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST-2-SMD",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "LiPo",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Basic Inductor/Choke - 0603 and 1206",
+                    "DEVICE": "INDUCTORCR54",
+                    "FULL": "L1,22uH,INDUCTORCR54,CR54,Basic Inductor/Choke - 0603 and 1206,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CR54",
+                    "PACKAGENUMBER": "54",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "22uH",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LEDs",
+                    "DEVICE": "LED1206",
+                    "FULL": "LED1,Red,LED1206,LED-1206,LEDs,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "Red",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-R-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603-RES",
+                    "FULL": "R1,1K,RESISTOR0603-RES,0603-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SPDT Slide Switch",
+                    "DEVICE": "AYZ0202",
+                    "FULL": "S1,AYZ0202,AYZ0202,AYZ0202,SPDT Slide Switch,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AYZ0202",
+                    "PACKAGENUMBER": "0202",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "AYZ0202",
+                    "VALUENUMBER": "0202"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP10",
+                    "FULL": "U$1,SEWTAP10,SEWTAP10,PETAL-LONG-2-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-2-2SIDE",
+                    "PACKAGENUMBER": "22",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP10",
+                    "FULL": "U$2,SEWTAP10,SEWTAP10,PETAL-LONG-2-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-2-2SIDE",
+                    "PACKAGENUMBER": "22",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP10",
+                    "FULL": "U$3,SEWTAP10,SEWTAP10,PETAL-LONG-2-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-2-2SIDE",
+                    "PACKAGENUMBER": "22",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP10",
+                    "FULL": "U$4,SEWTAP10,SEWTAP10,PETAL-LONG-2-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-2-2SIDE",
+                    "PACKAGENUMBER": "22",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP10",
+                    "FULL": "U$5,SEWTAP10,SEWTAP10,PETAL-LONG-2-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-2-2SIDE",
+                    "PACKAGENUMBER": "22",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LOGO-LPLP",
+                    "FULL": "U$7,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LOGO-LILYPAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$7",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-LPLP",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Switching step-up voltage regulator",
+                    "DEVICE": "V_REG_NCP1400SOT23-5",
+                    "FULL": "U1,NCP1400-5V,V_REG_NCP1400SOT23-5,SOT23-5,Switching step-up voltage regulator,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "NCP1400-5V",
+                    "VALUENUMBER": "1400-5"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -138,7 +401,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -289,9 +551,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

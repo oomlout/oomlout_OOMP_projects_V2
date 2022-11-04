@@ -44,27 +44,502 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-UNMATCHED-V63D",
-            "C2": "CAPC-0805-X-UNMATCHED-V63D",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IN": "HEAD-I01-X-PI03-01",
-            "LED1": "LEDS-UNMATCHED-RGB-STAN-01",
-            "OUT": "HEAD-I01-X-PI03-01",
-            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q2": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q3": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q4": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q5": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q6": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "R1": "RESE-1206-X-UNMATCHED-01",
-            "R2": "RESE-0603-X-O473-01",
-            "R3": "RESE-1206-X-UNMATCHED-01",
-            "R4": "RESE-0603-X-O473-01",
-            "R5": "RESE-1206-X-UNMATCHED-01",
-            "R6": "RESE-0603-X-O473-01",
-            "R7": "RESE-0603-X-O101-01",
-            "R8": "RESE-0603-X-O330-01",
-            "R9": "RESE-0603-X-O101-01"
+            "!MCLR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Bare copper test points for troubleshooting or ICT",
+                    "DEVICE": "TEST-POINT3X4",
+                    "FULL": "!MCLR,TEST-POINT3X4,TEST-POINT3X4,PAD.03X.04,Bare copper test points for troubleshooting or ICT,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "PAD.03X.04",
+                    "PACKAGENUMBER": "0304",
+                    "PART": "!MCLR",
+                    "PARTLETTER": "!MCLR",
+                    "VALUE": "TEST-POINT3X4",
+                    "VALUENUMBER": "-34"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C1,22uF,6.3V,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "22uF,6.3V",
+                    "VALUENUMBER": "22,6.3"
+                },
+                "OOMPID": "CAPC-0805-X-UNMATCHED-V63D"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C2,22uF,6.3V,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "22uF,6.3V",
+                    "VALUENUMBER": "22,6.3"
+                },
+                "OOMPID": "CAPC-0805-X-UNMATCHED-V63D"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "PIC12(L)F157X",
+                    "FULL": "IC1,PIC12(L)F157X,PIC12(L)F157X,MSOP-8,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MSOP-8",
+                    "PACKAGENUMBER": "8",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "PIC12(L)F157X",
+                    "VALUENUMBER": "12()157"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 3",
+                    "DEVICE": "M030.1PWR+SIG",
+                    "FULL": "IN,,M030.1PWR+SIG,1X03-0.1PWR+SIG,Header 3,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X03-0.1PWR+SIG",
+                    "PACKAGENUMBER": "10301",
+                    "PART": "IN",
+                    "PARTLETTER": "IN",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RGB LED, common-anode5MM Staggered pins5mm Piranha package",
+                    "DEVICE": "RGBLED_CA",
+                    "FULL": "LED1,RGBLED_CA,RGBLED_CA,RGBLED3W4PIN,RGB LED, common-anode5MM Staggered pins5mm Piranha package,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "RGBLED3W4PIN",
+                    "PACKAGENUMBER": "34",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "RGBLED_CA",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "LEDS-UNMATCHED-RGB-STAN-01"
+            },
+            "OUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 3",
+                    "DEVICE": "M030.1PWR+SIG",
+                    "FULL": "OUT,,M030.1PWR+SIG,1X03-0.1PWR+SIG,Header 3,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X03-0.1PWR+SIG",
+                    "PACKAGENUMBER": "10301",
+                    "PART": "OUT",
+                    "PARTLETTER": "OUT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "PGC": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Bare copper test points for troubleshooting or ICT",
+                    "DEVICE": "TEST-POINT3X4",
+                    "FULL": "PGC,TEST-POINT3X4,TEST-POINT3X4,PAD.03X.04,Bare copper test points for troubleshooting or ICT,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "PAD.03X.04",
+                    "PACKAGENUMBER": "0304",
+                    "PART": "PGC",
+                    "PARTLETTER": "PGC",
+                    "VALUE": "TEST-POINT3X4",
+                    "VALUENUMBER": "-34"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "PGD": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Bare copper test points for troubleshooting or ICT",
+                    "DEVICE": "TEST-POINT3X4",
+                    "FULL": "PGD,TEST-POINT3X4,TEST-POINT3X4,PAD.03X.04,Bare copper test points for troubleshooting or ICT,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "PAD.03X.04",
+                    "PACKAGENUMBER": "0304",
+                    "PART": "PGD",
+                    "PARTLETTER": "PGD",
+                    "VALUE": "TEST-POINT3X4",
+                    "VALUENUMBER": "-34"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "IRLML2060TRPBF",
+                    "FULL": "Q1,IRLML2060TRPBF,IRLML2060TRPBF,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "IRLML2060TRPBF",
+                    "VALUENUMBER": "2060"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "MMBT2222A",
+                    "FULL": "Q2,MMBT2222A,MMBT2222A,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q2",
+                    "PARTLETTER": "Q",
+                    "VALUE": "MMBT2222A",
+                    "VALUENUMBER": "2222"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "IRLML2060TRPBF",
+                    "FULL": "Q3,IRLML2060TRPBF,IRLML2060TRPBF,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q3",
+                    "PARTLETTER": "Q",
+                    "VALUE": "IRLML2060TRPBF",
+                    "VALUENUMBER": "2060"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "MMBT2222A",
+                    "FULL": "Q4,MMBT2222A,MMBT2222A,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q4",
+                    "PARTLETTER": "Q",
+                    "VALUE": "MMBT2222A",
+                    "VALUENUMBER": "2222"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "IRLML2060TRPBF",
+                    "FULL": "Q5,IRLML2060TRPBF,IRLML2060TRPBF,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q5",
+                    "PARTLETTER": "Q",
+                    "VALUE": "IRLML2060TRPBF",
+                    "VALUENUMBER": "2060"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "MMBT2222A",
+                    "FULL": "Q6,MMBT2222A,MMBT2222A,SOT23-3,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-3",
+                    "PACKAGENUMBER": "233",
+                    "PART": "Q6",
+                    "PARTLETTER": "Q",
+                    "VALUE": "MMBT2222A",
+                    "VALUENUMBER": "2222"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR1206",
+                    "FULL": "R1,1.74 0.25W,RESISTOR1206,1206,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.74 0.25W",
+                    "VALUENUMBER": "1.74 0.25"
+                },
+                "OOMPID": "RESE-1206-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603",
+                    "FULL": "R2,47k,RESISTOR0603,0603-RES,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "47k",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0603-X-O473-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR1206",
+                    "FULL": "R3,1.74 0.25W,RESISTOR1206,1206,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.74 0.25W",
+                    "VALUENUMBER": "1.74 0.25"
+                },
+                "OOMPID": "RESE-1206-X-UNMATCHED-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603",
+                    "FULL": "R4,47k,RESISTOR0603,0603-RES,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "47k",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0603-X-O473-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR1206",
+                    "FULL": "R5,1.74 0.25W,RESISTOR1206,1206,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.74 0.25W",
+                    "VALUENUMBER": "1.74 0.25"
+                },
+                "OOMPID": "RESE-1206-X-UNMATCHED-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603",
+                    "FULL": "R6,47k,RESISTOR0603,0603-RES,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "47k",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0603-X-O473-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603",
+                    "FULL": "R7,100,RESISTOR0603,0603-RES,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "100",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0603-X-O101-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0603",
+                    "FULL": "R8,33,RESISTOR0603,0603-RES,Resistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "33",
+                    "VALUENUMBER": "33"
+                },
+                "OOMPID": "RESE-0603-X-O330-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603MP",
+                    "FULL": "R9,100,RESISTOR_0603MP,_0603MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0603MP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "100",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0603-X-O101-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ALIGN_CROSS",
+                    "FULL": "U$1,ALIGN_CROSS,ALIGN_CROSS,ALIGN_CROSS,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ALIGN_CROSS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ALIGN_CROSS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ALIGN_CROSS",
+                    "FULL": "U$2,ALIGN_CROSS,ALIGN_CROSS,ALIGN_CROSS,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ALIGN_CROSS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ALIGN_CROSS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ALIGN_CROSS",
+                    "FULL": "U$3,ALIGN_CROSS,ALIGN_CROSS,ALIGN_CROSS,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ALIGN_CROSS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ALIGN_CROSS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ALIGN_CROSS",
+                    "FULL": "U$4,ALIGN_CROSS,ALIGN_CROSS,ALIGN_CROSS,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ALIGN_CROSS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ALIGN_CROSS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "PIXIE-LOGO",
+                    "FULL": "U$5,PIXIE-LOGO,PIXIE-LOGO,PIXIE-LOGO,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "PIXIE-LOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "PIXIE-LOGO",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$6": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$6,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$6",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$7": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$7,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$7",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0003 > ESP-12F Breakout Board (sirboard)
 
 - ID: PROJ-SIRB-0003-STAN-01
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|ESP-12F/ESP-12F.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

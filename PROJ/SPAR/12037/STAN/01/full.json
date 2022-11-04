@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Binary_Blaster.brd"
     ],
     "eagleSchem": [
         "/Hardware/Binary_Blaster.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Binary_Blaster"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR12037"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Binary Blaster"
     ],
@@ -121,23 +109,552 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "BAT1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "BAT2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C1": "CAPX-UNMATCHED-X-NF100-01",
-            "C2": "CAPX-UNMATCHED-X-NF100-01",
-            "JP1": "HEAD-I01-X-PI06-01",
-            "JP3": "HEAD-I01-X-PI2X03-01",
-            "R1": "RESE-UNMATCHED-X-O103-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S6": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "SG1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "BAT1": {
+                "FULL": {
+                    "BOM": "BATT-08316",
+                    "DESC": "Battery Holders",
+                    "DEVICE": "BATTERYAA-KIT",
+                    "FULL": "BAT1,AA,BATTERYAA-KIT,BATTERY-AA-KIT,Battery Holders,BATT-08316,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BATTERY-AA-KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "BAT1",
+                    "PARTLETTER": "BAT",
+                    "VALUE": "AA",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "BAT2": {
+                "FULL": {
+                    "BOM": "BATT-08316",
+                    "DESC": "Battery Holders",
+                    "DEVICE": "BATTERYAA-KIT",
+                    "FULL": "BAT2,AA,BATTERYAA-KIT,BATTERY-AA-KIT,Battery Holders,BATT-08316,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BATTERY-AA-KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "BAT2",
+                    "PARTLETTER": "BAT",
+                    "VALUE": "AA",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "CAP-08370",
+                    "DESC": "CAP-08370",
+                    "DEVICE": "0.1UF-50V-20%(PTH)KIT-EZ",
+                    "FULL": "C1,0.1uF,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,CAP-08370,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CAP-PTH-SMALL-KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-NF100-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "CAP-08370",
+                    "DESC": "CAP-08370",
+                    "DEVICE": "0.1UF-50V-20%(PTH)KIT-EZ",
+                    "FULL": "C2,0.1uF,0.1UF-50V-20%(PTH)KIT-EZ,CAP-PTH-SMALL-KIT,CAP-08370,CAP-08370,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CAP-PTH-SMALL-KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-NF100-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 6",
+                    "DEVICE": "M06-SFENOSILK",
+                    "FULL": "JP1,Serial,M06-SFENOSILK,1X06-NOSILK,Header 6,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X06-NOSILK",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Serial",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "JP10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP10,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP10",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP11,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP11",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP12,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP12",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP13,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP13",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP14,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP14",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "AVR ISP 6 Pin",
+                    "DEVICE": "AVR_SPI_PRG_6NS",
+                    "FULL": "JP3,,AVR_SPI_PRG_6NS,2X3-NS,AVR ISP 6 Pin,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "2X3-NS",
+                    "PACKAGENUMBER": "23",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP4,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP5",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP6,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP7",
+                    "PARTLETTER": "JP",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP8,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-3SMD",
+                    "FULL": "JP9,,JUMPER-3SMD,SJ_3,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "LOGO1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "LOGO2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "RES-08375",
+                    "DESC": "RES-08375",
+                    "DEVICE": "10KOHM1/6W5%(PTH)KIT",
+                    "FULL": "R1,10K,10KOHM1/6W5%(PTH)KIT,AXIAL-0.3-KIT,RES-08375,RES-08375,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AXIAL-0.3-KIT",
+                    "PACKAGENUMBER": "03",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O103-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "SWCH-08261",
+                    "DESC": "SPDT Switch",
+                    "DEVICE": "SWITCH-SPDTKIT",
+                    "FULL": "S1,Power,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,SWCH-08261,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SWITCH-SPDT_KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "Power",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S2": {
+                "FULL": {
+                    "BOM": "SWCH-08261",
+                    "DESC": "SPDT Switch",
+                    "DEVICE": "SWITCH-SPDTKIT",
+                    "FULL": "S2,,SWITCH-SPDTKIT,SWITCH-SPDT_KIT,SPDT Switch,SWCH-08261,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SWITCH-SPDT_KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "S2",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.",
+                    "DEVICE": "SWITCH-MOMENTARY-LEDEZ",
+                    "FULL": "S3,,SWITCH-MOMENTARY-LEDEZ,TACTILE-PTH-LED-12MM-EZ,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TACTILE-PTH-LED-12MM-EZ",
+                    "PACKAGENUMBER": "12",
+                    "PART": "S3",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.",
+                    "DEVICE": "SWITCH-MOMENTARY-LEDEZ",
+                    "FULL": "S4,,SWITCH-MOMENTARY-LEDEZ,TACTILE-PTH-LED-12MM-EZ,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TACTILE-PTH-LED-12MM-EZ",
+                    "PACKAGENUMBER": "12",
+                    "PART": "S4",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.",
+                    "DEVICE": "SWITCH-MOMENTARY-LEDEZ",
+                    "FULL": "S5,,SWITCH-MOMENTARY-LEDEZ,TACTILE-PTH-LED-12MM-EZ,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TACTILE-PTH-LED-12MM-EZ",
+                    "PACKAGENUMBER": "12",
+                    "PART": "S5",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.",
+                    "DEVICE": "SWITCH-MOMENTARY-LEDEZ",
+                    "FULL": "S6,,SWITCH-MOMENTARY-LEDEZ,TACTILE-PTH-LED-12MM-EZ,EZ is for Kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TACTILE-PTH-LED-12MM-EZ",
+                    "PACKAGENUMBER": "12",
+                    "PART": "S6",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SG1": {
+                "FULL": {
+                    "BOM": "COMP-08253",
+                    "DESC": "Buzzer 12mm",
+                    "DEVICE": "BUZZERPTH-KIT",
+                    "FULL": "SG1,BUZZER,BUZZERPTH-KIT,BUZZER-12MM-KIT,Buzzer 12mm,COMP-08253,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BUZZER-12MM-KIT",
+                    "PACKAGENUMBER": "12",
+                    "PART": "SG1",
+                    "PARTLETTER": "SG",
+                    "VALUE": "BUZZER",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "7-Segment Display 1 Red (COM-08546)",
+                    "DEVICE": "7-SEGMENT-DISPLAY-1-REDEZ",
+                    "FULL": "U$1,7-SEGMENT-DISPLAY-1-REDEZ,7-SEGMENT-DISPLAY-1-REDEZ,7-SEGMENT-1PTH-EZ,7-Segment Display 1 Red (COM-08546),,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "7-SEGMENT-1PTH-EZ",
+                    "PACKAGENUMBER": "71",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "7-SEGMENT-DISPLAY-1-REDEZ",
+                    "VALUENUMBER": "7---1-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOL",
+                    "FULL": "U$2,OSHW-LOGOL,OSHW-LOGOL,OSHW-LOGO-L,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-L",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOL",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "U$3,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "7-Segment Display 1 Red (COM-08546)",
+                    "DEVICE": "7-SEGMENT-DISPLAY-1-REDEZ",
+                    "FULL": "U$6,7-SEGMENT-DISPLAY-1-REDEZ,7-SEGMENT-DISPLAY-1-REDEZ,7-SEGMENT-1PTH-EZ,7-Segment Display 1 Red (COM-08546),,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "7-SEGMENT-1PTH-EZ",
+                    "PACKAGENUMBER": "71",
+                    "PART": "U$6",
+                    "PARTLETTER": "U$",
+                    "VALUE": "7-SEGMENT-DISPLAY-1-REDEZ",
+                    "VALUENUMBER": "7---1-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "AVR-MEGA8-P-KEYED-14",
+                    "FULL": "U$7,AVR-MEGA8-P-KEYED-14,AVR-MEGA8-P-KEYED-14,DIL28-3_KEYED-14,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "DIL28-3_KEYED-14",
+                    "PACKAGENUMBER": "28314",
+                    "PART": "U$7",
+                    "PARTLETTER": "U$",
+                    "VALUE": "AVR-MEGA8-P-KEYED-14",
+                    "VALUENUMBER": "-8---14"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -146,7 +663,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -425,9 +941,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

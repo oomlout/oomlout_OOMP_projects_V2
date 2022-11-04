@@ -44,23 +44,294 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "BATT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C1": "CAPX-UNMATCHED-X-NF100-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED1": "LEDS-UNMATCHED-G-STAN-01",
-            "PLUS": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-UNMATCHED-X-O470-01",
-            "R10": "RESE-UNMATCHED-X-O103-01",
-            "R2": "RESE-UNMATCHED-X-O470-01",
-            "R3": "RESE-UNMATCHED-X-O470-01",
-            "R4": "RESE-UNMATCHED-X-O470-01",
-            "R5": "RESE-UNMATCHED-X-O470-01",
-            "R6": "RESE-UNMATCHED-X-O470-01",
-            "R7": "RESE-UNMATCHED-X-O470-01",
-            "R8": "RESE-UNMATCHED-X-O470-01",
-            "SET": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "BATT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CR2032THM",
+                    "FULL": "BATT,CR2032,CR2032THM,CR2032-THRU,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CR2032-THRU",
+                    "PACKAGENUMBER": "2032",
+                    "PART": "BATT",
+                    "PARTLETTER": "BATT",
+                    "VALUE": "CR2032",
+                    "VALUENUMBER": "2032"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-US025-025X050",
+                    "FULL": "C1,0.1uF,C-US025-025X050,C025-025X050,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C025-025X050",
+                    "PACKAGENUMBER": "025025050",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-NF100-01"
+            },
+            "FTDI": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CLEAN",
+                    "FULL": "FTDI,DNP,PINHD-1X6CLEAN,1X06-CLEAN,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEAN",
+                    "PACKAGENUMBER": "106",
+                    "PART": "FTDI",
+                    "PARTLETTER": "FTDI",
+                    "VALUE": "DNP",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "DS1337 - Maxim RTC without battery backup",
+                    "DEVICE": "DS1337",
+                    "FULL": "IC1,DS1337,DS1337,DIL08-ROUND,DS1337 - Maxim RTC without battery backup,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "DIL08-ROUND",
+                    "PACKAGENUMBER": "08",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "DS1337",
+                    "VALUENUMBER": "1337"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MICROCONTROLLER",
+                    "DEVICE": "ATMEGA168PROUND",
+                    "FULL": "IC2,ATMEGA168PROUND,ATMEGA168PROUND,DIL28-3-ROUND,MICROCONTROLLER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "DIL28-3-ROUND",
+                    "PACKAGENUMBER": "283",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "ATMEGA168PROUND",
+                    "VALUENUMBER": "168"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "8x8 LED Segment Displays: Row = Cathode",
+                    "DEVICE": "SEGMENT_8X8_ROWCATHODEBL-M15",
+                    "FULL": "LED1,BL-M15881B,SEGMENT_8X8_ROWCATHODEBL-M15,SEGMENT_BL-M15A881,8x8 LED Segment Displays: Row = Cathode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEGMENT_BL-M15A881",
+                    "PACKAGENUMBER": "15881",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "BL-M15881B",
+                    "VALUENUMBER": "-15881"
+                },
+                "OOMPID": "LEDS-UNMATCHED-G-STAN-01"
+            },
+            "PLUS": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OMRON SWITCH",
+                    "DEVICE": "31-XXSKINNY",
+                    "FULL": "PLUS,,31-XXSKINNY,B3F-31XX-SKINNIER,OMRON SWITCH,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "B3F-31XX-SKINNIER",
+                    "PACKAGENUMBER": "331",
+                    "PART": "PLUS",
+                    "PARTLETTER": "PLUS",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CRYSTAL",
+                    "DEVICE": "CRYSTALTC38H",
+                    "FULL": "Q1,32.768KHz,CRYSTALTC38H,TC38H,CRYSTAL,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TC38H",
+                    "PACKAGENUMBER": "38",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "32.768KHz",
+                    "VALUENUMBER": "32.768"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R1,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R10,10K,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R10",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O103-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R2,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R3,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R4,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R5,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R6,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R7,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0204/7",
+                    "FULL": "R8,47,R-US_0204/7,0204/7,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0204/7",
+                    "PACKAGENUMBER": "02047",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O470-01"
+            },
+            "SET": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OMRON SWITCH",
+                    "DEVICE": "31-XXSKINNY",
+                    "FULL": "SET,,31-XXSKINNY,B3F-31XX-SKINNIER,OMRON SWITCH,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "B3F-31XX-SKINNIER",
+                    "PACKAGENUMBER": "331",
+                    "PART": "SET",
+                    "PARTLETTER": "SET",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

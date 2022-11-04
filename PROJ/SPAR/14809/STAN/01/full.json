@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_I2S_Audio_Breakout.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_I2S_Audio_Breakout.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "I2S_Audio_Breakout"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR14809"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "I2S Audio Breakout"
     ],
@@ -121,16 +109,296 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-UF10-V25",
-            "C2": "CAPC-0603-X-NF100-V50",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "J1": "TERS-35D-L-PI02-01",
-            "J2": "HEAD-I01-X-PI07-01",
-            "R1": "RESE-0603-X-O3003-01",
-            "R2": "RESE-0603-X-O105-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "CAP-11330",
+                    "DESC": "10.0\u00b5F ceramic capacitors",
+                    "DEVICE": "10UF-0805-10V-10%",
+                    "FULL": "C1,10uF,10UF-0805-10V-10%,0805,10.0\u00b5F ceramic capacitors,CAP-11330,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "CAP-00810",
+                    "DESC": "0.1\u00b5F ceramic capacitors",
+                    "DEVICE": "0.1UF-0603-25V-(+80/-20%)",
+                    "FULL": "C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00b5F ceramic capacitors,CAP-00810,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "FD1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD1",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD2",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD3",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD4",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame - Letter",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "H1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "H1",
+                    "PARTLETTER": "H",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "H2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "H2",
+                    "PARTLETTER": "H",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "IC-14032",
+                    "DESC": "I2S DAC 3.2W (4-8ohm)",
+                    "DEVICE": "MAX98357A",
+                    "FULL": "IC1,MAX98357A,MAX98357A,TQFN-16,I2S DAC 3.2W (4-8ohm),IC-14032,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TQFN-16",
+                    "PACKAGENUMBER": "16",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "MAX98357A",
+                    "VALUENUMBER": "98357"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J1": {
+                "FULL": {
+                    "BOM": "CONN-08399",
+                    "DESC": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "DEVICE": "CONN_023.5MM-NO_SILK",
+                    "FULL": "J1,,CONN_023.5MM-NO_SILK,SCREWTERMINAL-3.5MM-2-NS,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SCREWTERMINAL-3.5MM-2-NS",
+                    "PACKAGENUMBER": "352",
+                    "PART": "J1",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "J2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "DEVICE": "CONN_07NO_SILK",
+                    "FULL": "J2,,CONN_07NO_SILK,1X07_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X07_NO_SILK",
+                    "PACKAGENUMBER": "107",
+                    "PART": "J2",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI07-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally open jumper",
+                    "DEVICE": "JUMPER-SMT_3_NO_NO-SILK",
+                    "FULL": "JP1,,JUMPER-SMT_3_NO_NO-SILK,SMT-JUMPER_3_NO_NO-SILK,Normally open jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_3_NO_NO-SILK",
+                    "PACKAGENUMBER": "3",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally closed trace jumper",
+                    "DEVICE": "JUMPER-SMT_2_NC_TRACE_NO-SILK",
+                    "FULL": "JP2,,JUMPER-SMT_2_NC_TRACE_NO-SILK,SMT-JUMPER_2_NC_TRACE_NO-SILK,Normally closed trace jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_2_NC_TRACE_NO-SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Font Logo w/ Flame",
+                    "DEVICE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "FULL": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "VALUENUMBER": "___.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open-Source Hardware (OSHW) Logo",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "RES-10809",
+                    "DESC": "300k\u03a9 resistor",
+                    "DEVICE": "300KOHM-0603-1/10W-1%",
+                    "FULL": "R1,300k,300KOHM-0603-1/10W-1%,0603,300k\u03a9 resistor,RES-10809,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "300k",
+                    "VALUENUMBER": "300"
+                },
+                "OOMPID": "RESE-0603-X-O3003-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "RES-07868",
+                    "DESC": "1M\u03a9 resistor",
+                    "DEVICE": "1MOHM-0603-1/4W-5%",
+                    "FULL": "R2,1M,1MOHM-0603-1/4W-5%,0603,1M\u03a9 resistor,RES-07868,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1M",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O105-01"
+            }
         }
     ],
     "oompSize": [
@@ -139,7 +407,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -290,9 +557,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

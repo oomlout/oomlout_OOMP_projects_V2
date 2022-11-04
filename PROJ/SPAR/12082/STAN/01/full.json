@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_AD5330_Breakout.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_AD5330_Breakout.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "AD5330_Breakout"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR12082"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "AD5330 Breakout"
     ],
@@ -121,16 +109,200 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0603-X-NF100-V50",
-            "C2": "CAPT-3216-X-UF10-V10",
-            "JP6": "HEAD-I01-X-PI08-01",
-            "JP7": "HEAD-I01-X-PI07-01",
-            "JP8": "HEAD-I01-X-PI02-01",
-            "JP9": "HEAD-I01-X-PI02-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "CAP-00810",
+                    "DESC": "Ceramic",
+                    "DEVICE": "0.1UF-25V(+80/-20%)(0603)",
+                    "FULL": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,Ceramic,CAP-00810,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "CAP-00811",
+                    "DESC": "CAP-00811",
+                    "DEVICE": "10UF-16V-10%(TANT)",
+                    "FULL": "C2,10uF,10UF-16V-10%(TANT),EIA3216,CAP-00811,CAP-00811,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3216",
+                    "PACKAGENUMBER": "3216",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPT-3216-X-UF10-V10"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "JP2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "JP3,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 8",
+                    "DEVICE": "M08",
+                    "FULL": "JP6,,M08,1X08,Header 8,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X08",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 7",
+                    "DEVICE": "M07",
+                    "FULL": "JP7,,M07,1X07,Header 7,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X07",
+                    "PACKAGENUMBER": "107",
+                    "PART": "JP7",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI07-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP8,,M02PTH,1X02,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP9,,M02PTH,1X02,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "AD5330",
+                    "FULL": "U1,AD5330,AD5330,TSSOP20,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TSSOP20",
+                    "PACKAGENUMBER": "20",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "AD5330",
+                    "VALUENUMBER": "5330"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -139,7 +311,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -242,9 +413,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

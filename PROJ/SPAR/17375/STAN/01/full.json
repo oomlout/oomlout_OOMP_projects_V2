@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/Qwiic_PIR.brd"
     ],
     "eagleSchem": [
         "/Hardware/Qwiic_PIR.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Qwiic_PIR"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR17375"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Qwiic PIR"
     ],
@@ -121,25 +109,504 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C2": "CAPC-0603-X-NF100-V50",
-            "D1": "LEDS-0603-R-STAN-01",
-            "D2": "DIOD-0603-X-UNMATCHED-01",
-            "J1": "HEAD-I01-X-PI04-01",
-            "J2": "HEAD-JSTSH-X-PI04-RS",
-            "J3": "HEAD-JSTSH-X-PI04-RS",
-            "J5": "HEAD-I01-X-PI01-01",
-            "LOGO2": "HEAD-JSTSH-X-PI04-RS",
-            "R1": "RESE-0603-X-O222-01",
-            "R11": "RESE-0603-X-O103-01",
-            "R2": "RESE-0603-X-O222-01",
-            "R3": "RESE-0603-X-O103-01",
-            "R4": "RESE-0603-X-O102-01",
-            "R5": "RESE-0603-X-O473-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "ADR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally closed trace jumper",
+                    "DEVICE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "FULL": "ADR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "ADR",
+                    "PARTLETTER": "ADR",
+                    "VALUE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "VALUENUMBER": "-_2___"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "0.1\u00b5F ceramic capacitors",
+                    "DEVICE": "0.1UF-0603-25V-(+80/-20%)",
+                    "FULL": "C2,0.1uF,0.1UF-0603-25V-(+80/-20%),0603,0.1\u00b5F ceramic capacitors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Red SMD LED",
+                    "DEVICE": "LED-RED0603",
+                    "FULL": "D1,RED,LED-RED0603,LED-0603,Red SMD LED,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-R-STAN-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIODE_TVS",
+                    "FULL": "D2,24V,DIODE_TVS,0603,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "24V",
+                    "VALUENUMBER": "24"
+                },
+                "OOMPID": "DIOD-0603-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame - Letter",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "H1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "H1,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "H1",
+                    "PARTLETTER": "H",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "H2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "H2,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "H2",
+                    "PARTLETTER": "H",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "I2C": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally closed trace jumper (2 of 2 connections)",
+                    "DEVICE": "JUMPER-SMT_3_2-NC_TRACE_SILK",
+                    "FULL": "I2C,JUMPER-SMT_3_2-NC_TRACE_SILK,JUMPER-SMT_3_2-NC_TRACE_SILK,SMT-JUMPER_3_2-NC_TRACE_SILK,Normally closed trace jumper (2 of 2 connections),,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_3_2-NC_TRACE_SILK",
+                    "PACKAGENUMBER": "32",
+                    "PART": "I2C",
+                    "PARTLETTER": "IC",
+                    "VALUE": "JUMPER-SMT_3_2-NC_TRACE_SILK",
+                    "VALUENUMBER": "-_3_2-__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "INT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally closed trace jumper",
+                    "DEVICE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "FULL": "INT,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "INT",
+                    "PARTLETTER": "INT",
+                    "VALUE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "VALUENUMBER": "-_2___"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "DEVICE": "CONN_041X04_NO_SILK",
+                    "FULL": "J1,,CONN_041X04_NO_SILK,1X04_NO_SILK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X04_NO_SILK",
+                    "PACKAGENUMBER": "104",
+                    "PART": "J1",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI04-01"
+            },
+            "J2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun I2C Standard Qwiic Connector",
+                    "DEVICE": "QWIIC_CONNECTORJS-1MM",
+                    "FULL": "J2,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST04_1MM_RA",
+                    "PACKAGENUMBER": "041",
+                    "PART": "J2",
+                    "PARTLETTER": "J",
+                    "VALUE": "QWIIC",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun I2C Standard Qwiic Connector",
+                    "DEVICE": "QWIIC_CONNECTORJS-1MM",
+                    "FULL": "J3,QWIIC,QWIIC_CONNECTORJS-1MM,JST04_1MM_RA,SparkFun I2C Standard Qwiic Connector,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST04_1MM_RA",
+                    "PACKAGENUMBER": "041",
+                    "PART": "J3",
+                    "PARTLETTER": "J",
+                    "VALUE": "QWIIC",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "DEVICE": "CONN_01PTH_NO_SILK_YES_STOP",
+                    "FULL": "J5,,CONN_01PTH_NO_SILK_YES_STOP,1X01_NO_SILK,Single connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X01_NO_SILK",
+                    "PACKAGENUMBER": "101",
+                    "PART": "J5",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "J7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "AVR ISP 6 Pin",
+                    "DEVICE": "AVR_SPI_PROG_3X2TESTPOINTS",
+                    "FULL": "J7,ISP,AVR_SPI_PROG_3X2TESTPOINTS,2X3_TEST_POINTS,AVR ISP 6 Pin,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "2X3_TEST_POINTS",
+                    "PACKAGENUMBER": "23",
+                    "PART": "J7",
+                    "PARTLETTER": "J",
+                    "VALUE": "ISP",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "JP2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "JP6,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "JP8,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "JP9,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open-Source Hardware (OSHW) Logo",
+                    "DEVICE": "OSHW-LOGOMINI",
+                    "FULL": "LOGO1,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOMINI",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.",
+                    "DEVICE": "QWIIC_LOGO_5MM",
+                    "FULL": "LOGO2,QWIIC_LOGO_5MM,QWIIC_LOGO_5MM,QWIIC_5MM,Qwiic Logos for placement on schematic and PCB. The 5.5mm silk logo is best for placing next to Qwiic connector.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "QWIIC_5MM",
+                    "PACKAGENUMBER": "5",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "QWIIC_LOGO_5MM",
+                    "VALUENUMBER": "__5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Font Logo",
+                    "DEVICE": "SFE_LOGO_NAME.1_INCH",
+                    "FULL": "LOGO3,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO3",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Flame Logo",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO4",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "PWR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally closed trace jumper",
+                    "DEVICE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "FULL": "PWR,JUMPER-SMT_2_NC_TRACE_SILK,JUMPER-SMT_2_NC_TRACE_SILK,SMT-JUMPER_2_NC_TRACE_SILK,Normally closed trace jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_2_NC_TRACE_SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "PWR",
+                    "PARTLETTER": "PWR",
+                    "VALUE": "JUMPER-SMT_2_NC_TRACE_SILK",
+                    "VALUENUMBER": "-_2___"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "2.2k\u03a9 resistor",
+                    "DEVICE": "2.2KOHM-0603-1/10W-1%",
+                    "FULL": "R1,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.2k",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "RESE-0603-X-O222-01"
+            },
+            "R11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "10k\u03a9 resistor",
+                    "DEVICE": "10KOHM-0603-1/10W-1%",
+                    "FULL": "R11,10k,10KOHM-0603-1/10W-1%,0603,10k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R11",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "2.2k\u03a9 resistor",
+                    "DEVICE": "2.2KOHM-0603-1/10W-1%",
+                    "FULL": "R2,2.2k,2.2KOHM-0603-1/10W-1%,0603,2.2k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.2k",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "RESE-0603-X-O222-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "10k\u03a9 resistor",
+                    "DEVICE": "10KOHM-0603-1/10W-1%",
+                    "FULL": "R3,10k,10KOHM-0603-1/10W-1%,0603,10k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "1k\u03a9 resistor",
+                    "DEVICE": "1KOHM-0603-1/10W-1%",
+                    "FULL": "R4,1k,1KOHM-0603-1/10W-1%,0603,1k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "47k\u03a9 resistor",
+                    "DEVICE": "47KOHM-0603-1/10W-1%",
+                    "FULL": "R5,47k,47KOHM-0603-1/10W-1%,0603,47k\u03a9 resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "47k",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0603-X-O473-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Panasonic EKMCX607112 PIR Sensor",
+                    "DEVICE": "PIR_EKM4607112K",
+                    "FULL": "U1,EKMC4607112k,PIR_EKM4607112K,TO-3,Panasonic EKMCX607112 PIR Sensor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TO-3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "EKMC4607112k",
+                    "VALUENUMBER": "4607112"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ATTINY84-ARDUINO",
+                    "FULL": "U4,ATTINY84-ARDUINO,ATTINY84-ARDUINO,SO14,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SO14",
+                    "PACKAGENUMBER": "14",
+                    "PART": "U4",
+                    "PARTLETTER": "U",
+                    "VALUE": "ATTINY84-ARDUINO",
+                    "VALUENUMBER": "84-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -148,7 +615,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -403,9 +869,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

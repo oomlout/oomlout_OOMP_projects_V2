@@ -44,20 +44,278 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "D1": "DIOD-S323-X-K4148-01",
-            "D2": "LEDS-0603-L-STAN-01",
-            "D3": "LEDS-0603-L-STAN-01",
-            "MIDIIN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "MIDIOUT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "OK2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-0603-X-O330-01",
-            "R2": "RESE-0603-X-O221-01",
-            "R3": "RESE-0603-X-O471-01",
-            "R4": "RESE-0603-X-O100-01",
-            "R5": "RESE-0603-X-O222-01",
-            "R6": "RESE-0603-X-O222-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODESOD-323",
+                    "FULL": "D1,1N4148,DIODESOD-323,SOD-323,Diode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOD-323",
+                    "PACKAGENUMBER": "323",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "1N4148",
+                    "VALUENUMBER": "14148"
+                },
+                "OOMPID": "DIOD-S323-X-K4148-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0603",
+                    "FULL": "D2,BLUE,LED0603,CHIPLED_0603,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "BLUE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-L-STAN-01"
+            },
+            "D3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0603",
+                    "FULL": "D3,BLUE,LED0603,CHIPLED_0603,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D3",
+                    "PARTLETTER": "D",
+                    "VALUE": "BLUE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-L-STAN-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "MIDIIN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIN_5",
+                    "FULL": "MIDIIN,DIN_5,DIN_5,CP-2350,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CP-2350",
+                    "PACKAGENUMBER": "2350",
+                    "PART": "MIDIIN",
+                    "PARTLETTER": "MIDIIN",
+                    "VALUE": "DIN_5",
+                    "VALUENUMBER": "_5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "MIDIOUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIN_5",
+                    "FULL": "MIDIOUT,DIN_5,DIN_5,CP-2350,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CP-2350",
+                    "PACKAGENUMBER": "2350",
+                    "PART": "MIDIOUT",
+                    "PARTLETTER": "MIDIOUT",
+                    "VALUE": "DIN_5",
+                    "VALUENUMBER": "_5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "MS1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "FEATHERWING_NODIM",
+                    "FULL": "MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_NODIM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FEATHERWING_NODIM",
+                    "PACKAGENUMBER": "",
+                    "PART": "MS1",
+                    "PARTLETTER": "MS",
+                    "VALUE": "FEATHERWING_NODIM",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "OK2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "6-Pin DIP Optocoupler",
+                    "DEVICE": "H11L1MS",
+                    "FULL": "OK2,H11L1MS,H11L1MS,DIL6-SMD,6-Pin DIP Optocoupler,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "DIL6-SMD",
+                    "PACKAGENUMBER": "6",
+                    "PART": "OK2",
+                    "PARTLETTER": "OK",
+                    "VALUE": "H11L1MS",
+                    "VALUENUMBER": "111"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R1,33,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "33",
+                    "VALUENUMBER": "33"
+                },
+                "OOMPID": "RESE-0603-X-O330-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R2,220,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "220",
+                    "VALUENUMBER": "220"
+                },
+                "OOMPID": "RESE-0603-X-O221-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R3,470,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "470",
+                    "VALUENUMBER": "470"
+                },
+                "OOMPID": "RESE-0603-X-O471-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R4,10,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O100-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R5,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.2K",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "RESE-0603-X-O222-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R6,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.2K",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "RESE-0603-X-O222-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MIC/HEADPHONE JACK",
+                    "DEVICE": "AUDIO_STEREOJACK",
+                    "FULL": "X1,3.5mm,AUDIO_STEREOJACK,STX3100,MIC/HEADPHONE JACK,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "STX3100",
+                    "PACKAGENUMBER": "3100",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "3.5mm",
+                    "VALUENUMBER": "3.5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MIC/HEADPHONE JACK",
+                    "DEVICE": "AUDIO_STEREOJACK",
+                    "FULL": "X2,3.5mm,AUDIO_STEREOJACK,STX3100,MIC/HEADPHONE JACK,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "STX3100",
+                    "PACKAGENUMBER": "3100",
+                    "PART": "X2",
+                    "PARTLETTER": "X",
+                    "VALUE": "3.5mm",
+                    "VALUENUMBER": "3.5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

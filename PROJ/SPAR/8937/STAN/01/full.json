@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LilyPad_XBee.brd"
     ],
     "eagleSchem": [
         "/Hardware/LilyPad_XBee.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "LilyPad_XBee"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR8937"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "LilyPad XBee"
     ],
@@ -121,21 +109,664 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0603-X-NF100-V50",
-            "C2": "CAPX-3528-X-UF47-01",
-            "C3": "CAPC-0603-X-UF1-V25",
-            "C4": "CAPC-0603-X-UF1-V25",
-            "D1": "LEDS-0603-G-STAN-01",
-            "D2": "LEDS-0603-G-STAN-01",
-            "JP1": "HEAD-I01-X-PI06-01",
-            "R1": "RESE-0603-X-O331-01",
-            "R2": "RESE-0603-X-O331-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-SO235-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "CAP-00810",
+                    "DESC": "CAP-00810",
+                    "DEVICE": "0.1UF-25V(+80/-20%)(0603)",
+                    "FULL": "C1,0.1uF,0.1UF-25V(+80/-20%)(0603),0603-CAP,CAP-00810,CAP-00810,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor Polarized",
+                    "DEVICE": "CAP_POL3528",
+                    "FULL": "C2,47uF,CAP_POL3528,EIA3528,Capacitor Polarized,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3528",
+                    "PACKAGENUMBER": "3528",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "47uF",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "CAPX-3528-X-UF47-01"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "CAP-00868",
+                    "DESC": "CAP-00868",
+                    "DEVICE": "1.0UF-16V-10%(0603)",
+                    "FULL": "C3,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "1.0uF",
+                    "VALUENUMBER": "1.0"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "CAP-00868",
+                    "DESC": "CAP-00868",
+                    "DEVICE": "1.0UF-16V-10%(0603)",
+                    "FULL": "C4,1.0uF,1.0UF-16V-10%(0603),0603-CAP,CAP-00868,CAP-00868,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "1.0uF",
+                    "VALUENUMBER": "1.0"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "DIO-00821",
+                    "DESC": "Various green LEDs",
+                    "DEVICE": "LED-GREEN0603",
+                    "FULL": "D1,Status,LED-GREEN0603,LED-0603,Various green LEDs,DIO-00821,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "Status",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-G-STAN-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "DIO-00819",
+                    "DESC": "Assorted Red LEDs",
+                    "DEVICE": "LED-RED0603",
+                    "FULL": "D2,Status,LED-RED0603,LED-0603,Assorted Red LEDs,DIO-00819,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "Status",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-G-STAN-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "GND": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "GND,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "GND",
+                    "PARTLETTER": "GND",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ARDUINO_SERIAL_PROGRAMPTH",
+                    "FULL": "JP1,,ARDUINO_SERIAL_PROGRAMPTH,1X06,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X06",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, flame only",
+                    "DEVICE": "SFE_LOGO_FLAME.1COP",
+                    "FULL": "LOGO1,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME.1COP,SFE_LOGO_FLAME_COPPER_.1,SFE Logo, flame only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_COPPER_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1COP",
+                    "VALUENUMBER": "__.1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "RES-00818",
+                    "DEVICE": "330OHM1/10W1%(0603)",
+                    "FULL": "R1,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "RES-00818",
+                    "DEVICE": "330OHM1/10W1%(0603)",
+                    "FULL": "R2,330,330OHM1/10W1%(0603),0603-RES,RES-00818,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "SWCH-08247",
+                    "DESC": "Momentary Switch",
+                    "DEVICE": "TAC_SWITCHSMD",
+                    "FULL": "S1,,TAC_SWITCHSMD,TACTILE_SWITCH_SMD,Momentary Switch,SWCH-08247,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TACTILE_SWITCH_SMD",
+                    "PACKAGENUMBER": "",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper",
+                    "DEVICE": "SOLDERJUMPERNC2",
+                    "FULL": "SJ1,,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NOTRACE",
+                    "PACKAGENUMBER": "2",
+                    "PART": "SJ1",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper",
+                    "DEVICE": "SOLDERJUMPERNC2",
+                    "FULL": "SJ2,,SOLDERJUMPERNC2,SJ_2S-NOTRACE,Solder Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NOTRACE",
+                    "PACKAGENUMBER": "2",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LOGO-LPLP",
+                    "FULL": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LOGO-LILYPAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-LPLP",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$30": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$30,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$30",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$31": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$31,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$31",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$32": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$32,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$32",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$33": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$33,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$33",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$34": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$34,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$34",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$35": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$35,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$35",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$36": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$36,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$36",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$37": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$37,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$37",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$38": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$38,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$38",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$39": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$39,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$39",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$4,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$40": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$40,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$40",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$41": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$41,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$41",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$42": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$42,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$42",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$43": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$43,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$43",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$44": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$44,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$44",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$45": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$45,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$45",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$46": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$46,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$46",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$47": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$47,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$47",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$48": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$48,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$48",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$51": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "U$51,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "U$51",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "XBEE-1B3",
+                    "FULL": "U1,XBEE-1B3,XBEE-1B3,XBEE-SMD,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "XBEE-SMD",
+                    "PACKAGENUMBER": "",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "XBEE-1B3",
+                    "VALUENUMBER": "-13"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Voltage Regulator LDO",
+                    "DEVICE": "V_REG_LDOSMD",
+                    "FULL": "U2,V_REG_LDOSMD,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "V_REG_LDOSMD",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -144,7 +775,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -479,9 +1109,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Joypad FeatherWing rev C.brd"
     ],
     "eagleSchem": [
         "/Joypad FeatherWing rev C.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-Joy-Featherwing-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR3632"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit Joy Featherwing PCB"
     ],
@@ -121,22 +109,440 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "D1": "LEDS-0805-R-STAN-01",
-            "DOWN": "BUTA-6060-X-STAN-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JOY1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LEFT": "BUTA-6060-X-STAN-01",
-            "R2": "RESE-0603-X-O102-01",
-            "R3": "RESE-0603-X-O103-01",
-            "R4": "RESE-0603-X-O103-01",
-            "R5": "RESE-0603-X-O102-01",
-            "RIGHT": "BUTA-6060-X-STAN-01",
-            "SW6": "BUTA-4628-X-STAN-01",
-            "SW7": "BUTA-4628-X-STAN-01",
-            "UP": "BUTA-6060-X-STAN-01"
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "DOWN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "FULL": "DOWN,6mm,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2_SMALLER",
+                    "PACKAGENUMBER": "2",
+                    "PART": "DOWN",
+                    "PARTLETTER": "DOWN",
+                    "VALUE": "6mm",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ATSAMD09D14A-MU",
+                    "FULL": "IC1,ATSAMD09D14A-MU,ATSAMD09D14A-MU,QFN24_4MM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "QFN24_4MM",
+                    "PACKAGENUMBER": "244",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "ATSAMD09D14A-MU",
+                    "VALUENUMBER": "0914-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JOY1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JOYSTICK_ANALOG_XY",
+                    "FULL": "JOY1,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_XY,JOYSTICK_ANALOG_MINITHM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JOYSTICK_ANALOG_MINITHM",
+                    "PACKAGENUMBER": "",
+                    "PART": "JOY1",
+                    "PARTLETTER": "JOY",
+                    "VALUE": "JOYSTICK_ANALOG_XY",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LEFT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "FULL": "LEFT,6mm,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2_SMALLER",
+                    "PACKAGENUMBER": "2",
+                    "PART": "LEFT",
+                    "PARTLETTER": "LEFT",
+                    "VALUE": "6mm",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            },
+            "MS1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "FEATHERWING",
+                    "FULL": "MS1,FEATHERWING,FEATHERWING,FEATHERWING,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FEATHERWING",
+                    "PACKAGENUMBER": "",
+                    "PART": "MS1",
+                    "PARTLETTER": "MS",
+                    "VALUE": "FEATHERWING",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R2,1k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R3,10K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R4,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R5,1k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "RIGHT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "FULL": "RIGHT,6mm,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2_SMALLER",
+                    "PACKAGENUMBER": "2",
+                    "PART": "RIGHT",
+                    "PARTLETTER": "RIGHT",
+                    "VALUE": "6mm",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            },
+            "SJ1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ1",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ3": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ3,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ3",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ4": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ4,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ4",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ5": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ5,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ5",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ6": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ6,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ6",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ7": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ7,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ7",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ8": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ8,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ8",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ9": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ9,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ9",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SW6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "SW6,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "SW6",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "SW7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "SW7,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "SW7",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "TP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTROUND2MM",
+                    "FULL": "TP1,,TESTPOINTROUND2MM,TESTPOINT_ROUND_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_ROUND_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP1",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTROUND2MM",
+                    "FULL": "TP2,,TESTPOINTROUND2MM,TESTPOINT_ROUND_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_ROUND_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP2",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "UP": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "FULL": "UP,6mm,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2_SMALLER",
+                    "PACKAGENUMBER": "2",
+                    "PART": "UP",
+                    "PARTLETTER": "UP",
+                    "VALUE": "6mm",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            }
         }
     ],
     "oompSize": [
@@ -145,7 +551,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -368,9 +773,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

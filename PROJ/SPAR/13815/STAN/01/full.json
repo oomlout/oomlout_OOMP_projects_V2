@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Beefcake_Relay_Control_Kit.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_Beefcake_Relay_Control_Kit.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Beefcake_Relay_Control_Kit"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR13815"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Beefcake Relay Control Kit"
     ],
@@ -121,18 +109,280 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "D1": "DIOD-UNMATCHED-X-K4148-01",
-            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "J1": "TERS-UNMATCHED-X-UNMATCHED-01",
-            "J2": "TERS-35D-L-PI03-01",
-            "K1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED1": "LEDS-05-G-STAN-01",
-            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-UNMATCHED-X-O102-01",
-            "R2": "RESE-UNMATCHED-X-O102-01"
+            "D1": {
+                "FULL": {
+                    "BOM": "DIO-08378",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODEKIT",
+                    "FULL": "D1,1N4148,DIODEKIT,DIODE-1N4148-KIT,Diode,DIO-08378,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "DIODE-1N4148-KIT",
+                    "PACKAGENUMBER": "14148",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "1N4148",
+                    "VALUENUMBER": "14148"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-K4148-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "DIO-13313",
+                    "DESC": "Zener Diode",
+                    "DEVICE": "DIODE-ZENER",
+                    "FULL": "D2,Zener,DIODE-ZENER,DIODE-1N4148-KIT,Zener Diode,DIO-13313,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "DIODE-1N4148-KIT",
+                    "PACKAGENUMBER": "14148",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "Zener",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME2",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J1": {
+                "FULL": {
+                    "BOM": "CONN-10134",
+                    "DESC": "Header 3",
+                    "DEVICE": "M03-SCREW-5MM",
+                    "FULL": "J1,,M03-SCREW-5MM,SCREWTERMINAL-5MM-3,Header 3,CONN-10134,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SCREWTERMINAL-5MM-3",
+                    "PACKAGENUMBER": "53",
+                    "PART": "J1",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J2": {
+                "FULL": {
+                    "BOM": "CONN-08288",
+                    "DESC": "Header 3",
+                    "DEVICE": "M03SCREW",
+                    "FULL": "J2,,M03SCREW,SCREWTERMINAL-3.5MM-3,Header 3,CONN-08288,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SCREWTERMINAL-3.5MM-3",
+                    "PACKAGENUMBER": "353",
+                    "PART": "J2",
+                    "PARTLETTER": "J",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JUMPER-PAD-2-NOYES_SILK",
+                    "FULL": "JP1,JUMPER-PAD-2-NOYES_SILK,JUMPER-PAD-2-NOYES_SILK,PAD-JUMPER-2-NO_YES_SILK,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PAD-JUMPER-2-NO_YES_SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "JUMPER-PAD-2-NOYES_SILK",
+                    "VALUENUMBER": "--2-_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "K1": {
+                "FULL": {
+                    "BOM": "COMP-10736",
+                    "DESC": "SPDT relay (COM-00101)",
+                    "DEVICE": "RELAYPTH5",
+                    "FULL": "K1,JQX-15F,RELAYPTH5,RELAY-T90,SPDT relay (COM-00101),COMP-10736,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "RELAY-T90",
+                    "PACKAGENUMBER": "90",
+                    "PART": "K1",
+                    "PARTLETTER": "K",
+                    "VALUE": "JQX-15F",
+                    "VALUENUMBER": "-15"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "DIO-09529",
+                    "DESC": "LEDs",
+                    "DEVICE": "LED5MM-KIT",
+                    "FULL": "LED1,,LED5MM-KIT,LED5MM-KIT,LEDs,DIO-09529,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED5MM-KIT",
+                    "PACKAGENUMBER": "5",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-05-G-STAN-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, name and flame",
+                    "DEVICE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "FULL": "LOGO1,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SFE Logo, name and flame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "VALUENUMBER": "___.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "TRANS-08447",
+                    "DESC": "Generic NPN BJT",
+                    "DEVICE": "TRANSISTOR_NPN2N3904-EZ",
+                    "FULL": "Q1,2N3904,TRANSISTOR_NPN2N3904-EZ,TO-92-EZ,Generic NPN BJT,TRANS-08447,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TO-92-EZ",
+                    "PACKAGENUMBER": "92",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "2N3904",
+                    "VALUENUMBER": "23904"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "RES-12182",
+                    "DESC": "RES-12182",
+                    "DEVICE": "1KOHM-1/4W-1%(PTH)HORIZ-KIT",
+                    "FULL": "R1,1K,1KOHM-1/4W-1%(PTH)HORIZ-KIT,AXIAL-0.3EZ,RES-12182,RES-12182,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AXIAL-0.3EZ",
+                    "PACKAGENUMBER": "03",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O102-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "RES-12182",
+                    "DESC": "RES-12182",
+                    "DEVICE": "1KOHM-1/4W-1%(PTH)HORIZ-KIT",
+                    "FULL": "R2,1K,1KOHM-1/4W-1%(PTH)HORIZ-KIT,AXIAL-0.3EZ,RES-12182,RES-12182,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AXIAL-0.3EZ",
+                    "PACKAGENUMBER": "03",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O102-01"
+            },
+            "U$12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "U$12,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$12",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "U$3,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "U$4,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "U$5,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "U$7,STAND-OFF,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$7",
+                    "PARTLETTER": "U$",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -141,7 +391,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -284,9 +533,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

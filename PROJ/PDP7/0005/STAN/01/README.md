@@ -1,0 +1,60 @@
+
+
+
+
+Contents
+========
+
+* [PRPR0005 > <built-in method capitalize of str object at 0x000001DF21995D30>](#prpr0005--built-in-method-capitalize-of-str-object-at-0x000001df21995d30)
+	* [I BOM](#i-bom)
+	* [OOMP Parts](#oomp-parts)
+	* [Tags](#tags)
+  
+![][im]
+# PRPR0005 > <built-in method capitalize of str object at 0x000001DF21995D30>
+
+- ID: PROJ-PDP7-0005-STAN-01
+- Hex ID: PRPR0005
+- Name: <built-in method capitalize of str object at 0x000001DF21995D30>
+- Description: <built-in method capitalize of str object at 0x000001DF21995D30>
+- Long Link: [http://oom.lt/PROJ-PDP7-0005-STAN-01](http://oom.lt/PROJ-PDP7-0005-STAN-01)
+- Short Link: [http://oom.lt/PRPR0005](http://oom.lt/PRPR0005)
+
+## I BOM
+  
+[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/PDP7/0005/STAN/01/ibom.html)
+## OOMP Parts
+  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
+  
+
+|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/PDP7/0005/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/PDP7/0005/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/PDP7/0005/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/PDP7/0005/STAN/01/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/PDP7/0005/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/PDP7/0005/STAN/01/kicadPcb3d.png)||
+| :---: | :---: | :---: | :---: |
+
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|PROJ|
+|OOMP Size|oompSize|PDP7|
+|OOMP Color|oompColor|0005|
+|OOMP Description|oompDesc|STAN|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|PROJ-PDP7-0005-STAN-01|
+|Hex ID (short code)|hexID|PRPR0005|
+|name|name|<built-in method capitalize of str object at 0x000001DF21995D30>|
+|gitRepo|gitRepo|https://github.com/pdp7/gtb|
+|gitName|gitName|gtb|
+|kicadBoard|kicadBoard|gtb.kicad_pcb|
+|kicadSchem|kicadSchem|gtb.kicad_sch|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> '7555'</td><td> 'Device'</td></tr><tr><td> 'DIP-8_W7.62mm 7555'</td><td> 'Package'</td></tr><tr><td> 'DIP-8_W7.62mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R3'</td><td> 'Value'</td></tr><tr><td> '100'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 100'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R2'</td><td> 'Value'</td></tr><tr><td> '470K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 470K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R1'</td><td> 'Value'</td></tr><tr><td> '1K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 1K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'C1'</td><td> 'Value'</td></tr><tr><td> '1uF'</td><td> 'Device'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal 1uF'</td><td> 'Package'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'CR1220'</td><td> 'Value'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Device'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Package'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> '7555'</td><td> 'Device'</td></tr><tr><td> 'DIP-8_W7.62mm 7555'</td><td> 'Package'</td></tr><tr><td> 'DIP-8_W7.62mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R3'</td><td> 'Value'</td></tr><tr><td> '100'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 100'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R2'</td><td> 'Value'</td></tr><tr><td> '470K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 470K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R1'</td><td> 'Value'</td></tr><tr><td> '1K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 1K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'C1'</td><td> 'Value'</td></tr><tr><td> '1uF'</td><td> 'Device'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal 1uF'</td><td> 'Package'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'CR1220'</td><td> 'Value'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Device'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Package'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> '7555'</td><td> 'Device'</td></tr><tr><td> 'DIP-8_W7.62mm 7555'</td><td> 'Package'</td></tr><tr><td> 'DIP-8_W7.62mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R3'</td><td> 'Value'</td></tr><tr><td> '100'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 100'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R2'</td><td> 'Value'</td></tr><tr><td> '470K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 470K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'R1'</td><td> 'Value'</td></tr><tr><td> '1K'</td><td> 'Device'</td></tr><tr><td> 'RES-CARBONFILM-7MM 1K'</td><td> 'Package'</td></tr><tr><td> 'RES-CARBONFILM-7MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'D1'</td><td> 'Value'</td></tr><tr><td> 'LED'</td><td> 'Device'</td></tr><tr><td> 'LED_D3.0mm LED'</td><td> 'Package'</td></tr><tr><td> 'LED_D3.0mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'C1'</td><td> 'Value'</td></tr><tr><td> '1uF'</td><td> 'Device'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal 1uF'</td><td> 'Package'</td></tr><tr><td> 'C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'CR1220'</td><td> 'Value'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Device'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Package'</td></tr><tr><td> 'BatteryHolder_Keystone_3000_1x12mm'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td><td> 'eagleBom'</td></tr><tr><td> []</td></tr></table>|
+||||
+
+
+
+[im]: kicadPcb3d_450.png

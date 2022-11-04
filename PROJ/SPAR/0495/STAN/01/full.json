@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_SOIC20_Adapter_v10.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_SOIC20_Adapter_v10.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "SOIC20-DIP_Adapter"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR0495"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SOIC20 DIP Adapter"
     ],
@@ -121,11 +109,72 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "JP1": "HEAD-I01-X-PI10-01",
-            "JP2": "HEAD-I01-X-PI10-01"
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 10",
+                    "DEVICE": "M100.1",
+                    "FULL": "JP1,M100.1,M100.1,1X10,Header 10,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X10",
+                    "PACKAGENUMBER": "110",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "M100.1",
+                    "VALUENUMBER": "100.1"
+                },
+                "OOMPID": "HEAD-I01-X-PI10-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 10",
+                    "DEVICE": "M100.1",
+                    "FULL": "JP2,M100.1,M100.1,1X10,Header 10,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X10",
+                    "PACKAGENUMBER": "110",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "M100.1",
+                    "VALUENUMBER": "100.1"
+                },
+                "OOMPID": "HEAD-I01-X-PI10-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SOIC_20",
+                    "FULL": "U$1,SOIC_20,SOIC_20,SO20W,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SO20W",
+                    "PACKAGENUMBER": "20",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "SOIC_20",
+                    "VALUENUMBER": "_20"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "U$2,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -134,7 +183,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -173,9 +221,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

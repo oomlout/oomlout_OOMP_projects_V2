@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit 2.4in TFT FeatherWing.brd"
     ],
     "eagleSchem": [
         "/Adafruit 2.4in TFT FeatherWing.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-2.4-TFT-FeatherWing-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR3315"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit 2.4 TFT FeatherWing PCB"
     ],
@@ -121,28 +109,952 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-NF100-V50",
-            "C3": "CAPC-0805-X-UF10-V25",
-            "C4": "CAPC-0805-X-NF100-V50",
-            "C6": "CAPC-0805-X-UF10-V25",
-            "IC5": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q4": "MOSN-SO23-X-KBSS138-01",
-            "R1": "RESE-0805-X-O100-01",
-            "R12": "RESE-0805-X-O392-01",
-            "R2": "RESE-0805-X-O100-01",
-            "R3": "RESE-0805-X-O100-01",
-            "R4": "RESE-0805-X-O100-01",
-            "R5": "RESE-0805-X-O1003-01",
-            "R6": "RESE-0805-X-O1003-01",
-            "R7": "RESE-0805-X-O103-01",
-            "R8": "RESE-0805-X-O1003-01",
-            "SW1": "BUTA-6060-X-STAN-01",
-            "SW2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C1,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C4,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID3": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID3",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "AXP083-SAG",
+                    "FULL": "IC5,APX803,AXP083-SAG,SOT23,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23",
+                    "PACKAGENUMBER": "23",
+                    "PART": "IC5",
+                    "PARTLETTER": "IC",
+                    "VALUE": "APX803",
+                    "VALUENUMBER": "803"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "MS2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "FEATHERWING_SMTDUAL",
+                    "FULL": "MS2,FEATHERWING_SMTDUAL,FEATHERWING_SMTDUAL,FEATHERWING_SMT2,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FEATHERWING_SMT2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "MS2",
+                    "PARTLETTER": "MS",
+                    "VALUE": "FEATHERWING_SMTDUAL",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "N-Channel Mosfet",
+                    "DEVICE": "MOSFET-NWIDE",
+                    "FULL": "Q4,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-WIDE",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q4",
+                    "PARTLETTER": "Q",
+                    "VALUE": "BSS138",
+                    "VALUENUMBER": "138"
+                },
+                "OOMPID": "MOSN-SO23-X-KBSS138-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R1,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O100-01"
+            },
+            "R12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R12,3.9K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R12",
+                    "PARTLETTER": "R",
+                    "VALUE": "3.9K",
+                    "VALUENUMBER": "3.9"
+                },
+                "OOMPID": "RESE-0805-X-O392-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R2,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O100-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R3,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O100-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R4,10,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "10",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O100-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R5,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0805-X-O1003-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R6,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0805-X-O1003-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R7,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R8,100K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0805-X-O1003-01"
+            },
+            "SJ1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper - Closed",
+                    "DEVICE": "SOLDERJUMPER_CLOSED",
+                    "FULL": "SJ1,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ1",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper - Closed",
+                    "DEVICE": "SOLDERJUMPER_CLOSED",
+                    "FULL": "SJ2,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper - Closed",
+                    "DEVICE": "SOLDERJUMPER_CLOSED",
+                    "FULL": "SJ3,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ3",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Solder Jumper - Closed",
+                    "DEVICE": "SOLDERJUMPER_CLOSED",
+                    "FULL": "SJ4,,SOLDERJUMPER_CLOSED,SOLDERJUMPER_CLOSEDWIRE,Solder Jumper - Closed,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ4",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT_EVQQ2_SMALL",
+                    "FULL": "SW1,EVQQ2,SWITCH_TACT_SMT_EVQQ2_SMALL,EVQ-Q2_SMALLER,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2_SMALLER",
+                    "PACKAGENUMBER": "2",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "EVQQ2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            },
+            "SW2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Switch - DPDT",
+                    "DEVICE": "SWITCH_DPDTEG1390",
+                    "FULL": "SW2,Slide Switch,SWITCH_DPDTEG1390,EG1390,Switch - DPDT,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EG1390",
+                    "PACKAGENUMBER": "1390",
+                    "PART": "SW2",
+                    "PARTLETTER": "SW",
+                    "VALUE": "Slide Switch",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP1,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP1",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP10,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP10",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP11,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP11",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP12,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP12",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP13,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP13",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP14,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP14",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP15,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP15",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP16": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP16,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP16",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP17": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP17,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP17",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP18": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP18,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP18",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP19": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP19,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP19",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP2,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP2",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP20": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP20,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP20",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP21": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP21,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP21",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP22": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP22,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP22",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP23": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP23,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP23",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP24": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP24,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP24",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP25": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP25,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP25",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP26": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP26,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP26",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP27": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP27,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP27",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP3,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP3",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP4,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP4",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP5,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP5",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP6,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP6",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP7,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP7",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP8,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP8",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test Point",
+                    "DEVICE": "TESTPOINTPAD2MM",
+                    "FULL": "TP9,,TESTPOINTPAD2MM,TESTPOINT_PAD_2MM,Test Point,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TESTPOINT_PAD_2MM",
+                    "PACKAGENUMBER": "2",
+                    "PART": "TP9",
+                    "PARTLETTER": "TP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DISP_LCD_240X320_50PIN-2.4IN",
+                    "FULL": "U$10,DISP_LCD_240X320_50PIN-2.4IN,DISP_LCD_240X320_50PIN-2.4IN,TFT_2.4IN_240X320_50PIN,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TFT_2.4IN_240X320_50PIN",
+                    "PACKAGENUMBER": "2424032050",
+                    "PART": "U$10",
+                    "PARTLETTER": "U$",
+                    "VALUE": "DISP_LCD_240X320_50PIN-2.4IN",
+                    "VALUENUMBER": "__240320_50-2.4"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$11": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$11,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$11",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$15": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$15,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$15",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$17": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$17,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$17",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$9": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$9,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$9",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "STMPE610 - 12-Bit Touch Screen Controller",
+                    "DEVICE": "STMPE610",
+                    "FULL": "U2,STMPE811,STMPE610,QFN16_3MM,STMPE610 - 12-Bit Touch Screen Controller,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "QFN16_3MM",
+                    "PACKAGENUMBER": "163",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "STMPE811",
+                    "VALUENUMBER": "811"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MicroSD/Transflash Card Holder with SPI pinout",
+                    "DEVICE": "MICROSD",
+                    "FULL": "X1,MicroSD Holder,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MICROSD",
+                    "PACKAGENUMBER": "",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "MicroSD Holder",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -151,7 +1063,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -630,9 +1541,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0001 > ADXL345 Breakout V002
 
 - ID: PROJ-IBBC-0001-STAN-V002
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|IBBC_0001_V002/IBBC_0001.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit HMC5883L Compass.brd"
     ],
     "eagleSchem": [
         "/Adafruit HMC5883L Compass.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-HMC5883-Mag-Compass-Sensor-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR1746"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit HMC5883 Mag Compass Sensor PCB"
     ],
@@ -118,22 +106,296 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C2": "CAPC-0805-X-UF47D-V25",
-            "C3": "CAPC-0805-X-UF10-V25",
-            "C4": "CAPC-0805-X-NF220-01",
-            "C5": "CAPC-0805-X-UF10-V25",
-            "JP1": "HEAD-I01-X-PI06-01",
-            "Q1": "MOSN-SO23-X-KBSS138-01",
-            "Q2": "MOSN-SO23-X-KBSS138-01",
-            "R1": "RESE-0805-X-O103-01",
-            "R2": "RESE-0805-X-O103-01",
-            "R3": "RESE-0805-X-O103-01",
-            "R4": "RESE-0805-X-O103-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "VREG-SO235-X-KMIC5225-V33D"
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805_10MGAP",
+                    "FULL": "C2,4.7uF,CAP_CERAMIC0805_10MGAP,0805_10MGAP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805_10MGAP",
+                    "PACKAGENUMBER": "080510",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "4.7uF",
+                    "VALUENUMBER": "4.7"
+                },
+                "OOMPID": "CAPC-0805-X-UF47D-V25"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805",
+                    "FULL": "C3,10uF,C-USC0805,C0805,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805",
+                    "FULL": "C4,0.22uF,C-USC0805,C0805,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.22uF",
+                    "VALUENUMBER": "0.22"
+                },
+                "OOMPID": "CAPC-0805-X-NF220-01"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805",
+                    "FULL": "C5,10uF,C-USC0805,C0805,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X676MIL",
+                    "FULL": "JP1,,HEADER-1X676MIL,1X06_ROUND_76,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06_ROUND_76",
+                    "PACKAGENUMBER": "10676",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "N-Channel Mosfet",
+                    "DEVICE": "MOSFET-NWIDE",
+                    "FULL": "Q1,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-WIDE",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "BSS138",
+                    "VALUENUMBER": "138"
+                },
+                "OOMPID": "MOSN-SO23-X-KBSS138-01"
+            },
+            "Q2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "N-Channel Mosfet",
+                    "DEVICE": "MOSFET-NWIDE",
+                    "FULL": "Q2,BSS138,MOSFET-NWIDE,SOT23-WIDE,N-Channel Mosfet,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-WIDE",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q2",
+                    "PARTLETTER": "Q",
+                    "VALUE": "BSS138",
+                    "VALUENUMBER": "138"
+                },
+                "OOMPID": "MOSN-SO23-X-KBSS138-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R1,10K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R2,10K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R3,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R4,10K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "U$10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$10,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$10",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$11,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$11",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$12,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$12",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$8": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$8,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$8",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$9": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$9,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$9",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "HMC5883L 3-Axis Digital Compass",
+                    "DEVICE": "HMC5883L",
+                    "FULL": "U1,HMC5883L-T,HMC5883L,HMC5883L,HMC5883L 3-Axis Digital Compass,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "HMC5883L",
+                    "PACKAGENUMBER": "5883",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "HMC5883L-T",
+                    "VALUENUMBER": "5883-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SOT23-5 Fixed Voltage Regulators",
+                    "DEVICE": "VREG_SOT23-5",
+                    "FULL": "U2,MIC5225-3.3V,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "MIC5225-3.3V",
+                    "VALUENUMBER": "5225-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5225-V33D"
+            }
         }
     ],
     "oompSize": [
@@ -142,7 +404,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -293,9 +554,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

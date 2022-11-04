@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/wings20.brd"
     ],
     "eagleSchem": [
         "/wings20.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-Proto-Screwshield-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR0196"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit Proto Screwshield PCB"
     ],
@@ -103,29 +91,344 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "CN1": "TERS-35D-L-PI04-01",
-            "J1": "TERS-35D-L-PI02-01",
-            "JP1": "TERS-35D-L-PI06-01",
-            "JP2": "HEAD-I01-X-PI06-01",
-            "JP3": "HEAD-I01-X-PI08-01",
-            "JP4": "HEAD-I01-X-PI08-01",
-            "JP5": "TERS-35D-L-PI08-01",
-            "JP6": "TERS-35D-L-PI08-01",
-            "JP7": "TERS-35D-L-PI08-01",
-            "JP8": "HEAD-I01-X-PI06-01",
-            "JP9": "HEAD-I01-X-PI01-01",
-            "LED": "LEDS-03-G-STAN-01",
-            "POWER": "LEDS-03-G-STAN-01",
-            "R1": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R2": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "RESET": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "W": "HEAD-I01-X-PI01-01",
-            "X": "HEAD-I01-X-PI01-01",
-            "Y": "HEAD-I01-X-PI01-01",
-            "Z": "HEAD-I01-X-PI01-01"
+            "CN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "4-pin connector",
+                    "DEVICE": "1X4-3.5MM",
+                    "FULL": "CN1,1X4-3.5MM,1X4-3.5MM,1X04-3.5MM,4-pin connector,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X04-3.5MM",
+                    "PACKAGENUMBER": "10435",
+                    "PART": "CN1",
+                    "PARTLETTER": "CN",
+                    "VALUE": "1X4-3.5MM",
+                    "VALUENUMBER": "14-3.5"
+                },
+                "OOMPID": "TERS-35D-L-PI04-01"
+            },
+            "J1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "1X2-3.5MM",
+                    "FULL": "J1,1X2-3.5MM,1X2-3.5MM,1X2-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X2-3.5MM",
+                    "PACKAGENUMBER": "1235",
+                    "PART": "J1",
+                    "PARTLETTER": "J",
+                    "VALUE": "1X2-3.5MM",
+                    "VALUENUMBER": "12-3.5"
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6-3.5MM",
+                    "FULL": "JP1,,PINHD-1X6-3.5MM,1X06-3.5MM,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-3.5MM",
+                    "PACKAGENUMBER": "10635",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI06-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CB",
+                    "FULL": "JP2,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEANBIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "JP3,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "JP4,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8-3.5MM",
+                    "FULL": "JP5,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-3.5MM",
+                    "PACKAGENUMBER": "10835",
+                    "PART": "JP5",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI08-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8-3.5MM",
+                    "FULL": "JP6,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-3.5MM",
+                    "PACKAGENUMBER": "10835",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI08-01"
+            },
+            "JP7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8-3.5MM",
+                    "FULL": "JP7,,PINHD-1X8-3.5MM,1X08-3.5MM,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-3.5MM",
+                    "PACKAGENUMBER": "10835",
+                    "PART": "JP7",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI08-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CB",
+                    "FULL": "JP8,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEANBIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "JP9,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "LED": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED3MM",
+                    "FULL": "LED,,LED3MM,LED3MM,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "LED3MM",
+                    "PACKAGENUMBER": "3",
+                    "PART": "LED",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-03-G-STAN-01"
+            },
+            "POWER": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED3MM",
+                    "FULL": "POWER,,LED3MM,LED3MM,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "LED3MM",
+                    "PACKAGENUMBER": "3",
+                    "PART": "POWER",
+                    "PARTLETTER": "POWER",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-03-G-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0207/10",
+                    "FULL": "R1,,R-US_0207/10,0207/10,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0207/10",
+                    "PACKAGENUMBER": "020710",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_0207/10",
+                    "FULL": "R2,,R-US_0207/10,0207/10,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0207/10",
+                    "PACKAGENUMBER": "020710",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "RESET": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OMRON SWITCH",
+                    "DEVICE": "10-XX",
+                    "FULL": "RESET,,10-XX,B3F-10XX,OMRON SWITCH,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "B3F-10XX",
+                    "PACKAGENUMBER": "310",
+                    "PART": "RESET",
+                    "PARTLETTER": "RESET",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Arduino Diecimila/Duemilanove",
+                    "DEVICE": "ARDUINO-BPLACE",
+                    "FULL": "U$1,ARDUINO-BPLACE,ARDUINO-BPLACE,ARDUINO-BPLACE,Arduino Diecimila/Duemilanove,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ARDUINO-BPLACE",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ARDUINO-BPLACE",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "W": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "W,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "W",
+                    "PARTLETTER": "W",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "X": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "X,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "X",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "Y": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "Y,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "Y",
+                    "PARTLETTER": "Y",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "Z": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "Z,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "Z",
+                    "PARTLETTER": "Z",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            }
         }
     ],
     "oompSize": [
@@ -134,7 +437,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -309,9 +611,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

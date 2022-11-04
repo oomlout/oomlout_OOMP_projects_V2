@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/MrRoboto.brd"
     ],
     "eagleSchem": [
         "/Hardware/MrRoboto.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Mr.Roboto"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR11257"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Mr.Roboto"
     ],
@@ -121,38 +109,632 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0402-X-NF100-V16",
-            "C10": "CAPC-0402-X-NF100-V16",
-            "C2": "CAPC-0402-X-NF100-V16",
-            "C3": "CAPC-0402-X-NF100-V16",
-            "C4": "CAPT-3216-X-UF10-V10",
-            "C5": "CAPX-3528-X-UF68-01",
-            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "IC1": "UNMATCHED-SO235-X-UNMATCHED-01",
-            "JP1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP3": "HEAD-I01-X-PI02-01",
-            "JP4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP5": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP9": "HEAD-I01-X-PI06-01",
-            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED2": "LEDS-05-R-STAN-01",
-            "LED3": "LEDS-05-R-STAN-01",
-            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "R1": "RESE-UNMATCHED-X-O102-01",
-            "R2": "RESE-0402-X-O103-01",
-            "R3": "RESE-UNMATCHED-X-O102-01",
-            "R4": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R5": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R6": "RESE-0402-X-O103-01",
-            "SG1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "Y1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C1,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0402-X-NF100-V16"
+            },
+            "C10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C10,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C10",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0402-X-NF100-V16"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C2,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0402-X-NF100-V16"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402-CAP",
+                    "FULL": "C3,0.1uF,CAP0402-CAP,0402-CAP,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-CAP",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0402-X-NF100-V16"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor Polarized",
+                    "DEVICE": "CAP_POL1206",
+                    "FULL": "C4,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3216",
+                    "PACKAGENUMBER": "3216",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPT-3216-X-UF10-V10"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor Polarized",
+                    "DEVICE": "CAP_POL3528",
+                    "FULL": "C5,68uF,CAP_POL3528,EIA3528,Capacitor Polarized,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3528",
+                    "PACKAGENUMBER": "3528",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "68uF",
+                    "VALUENUMBER": "68"
+                },
+                "OOMPID": "CAPX-3528-X-UF68-01"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODESMA",
+                    "FULL": "D1,MBRA140,DIODESMA,SMA-DIODE,Diode,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMA-DIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "MBRA140",
+                    "VALUENUMBER": "140"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Switching step-up voltage regulator",
+                    "DEVICE": "V_REG_NCP1400SOT23-5",
+                    "FULL": "IC1,NCP1402,V_REG_NCP1400SOT23-5,SOT23-5,Switching step-up voltage regulator,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "NCP1402",
+                    "VALUENUMBER": "1402"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP1,Long, Plastic,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Long, Plastic",
+                    "VALUENUMBER": ", "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Jumper",
+                    "DEVICE": "JUMPER-2SMD-NO-NS",
+                    "FULL": "JP10,,JUMPER-2SMD-NO-NS,SJ_2S-NO-NS,Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NO-NS",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP10",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2.5",
+                    "FULL": "JP11,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2.5",
+                    "PACKAGENUMBER": "125",
+                    "PART": "JP11",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIAL1X2.5",
+                    "VALUENUMBER": "12.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2.5",
+                    "FULL": "JP12,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2.5",
+                    "PACKAGENUMBER": "125",
+                    "PART": "JP12",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FIDUCIAL1X2.5",
+                    "VALUENUMBER": "12.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP2,Long, Plastic,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Long, Plastic",
+                    "VALUENUMBER": ", "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02JST-PTH-2-KIT",
+                    "FULL": "JP3,JST-PTH,M02JST-PTH-2-KIT,JST-2-PTH-KIT,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST-2-PTH-KIT",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "JST-PTH",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP4,Long, Plastic,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Long, Plastic",
+                    "VALUENUMBER": ", "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "JP5,Long, Plastic,STAND-OFF,STAND-OFF,Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP5",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Long, Plastic",
+                    "VALUENUMBER": ", "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Jumper",
+                    "DEVICE": "JUMPER-2SMD-NO-NS",
+                    "FULL": "JP6,,JUMPER-2SMD-NO-NS,SJ_2S-NO-NS,Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NO-NS",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Jumper",
+                    "DEVICE": "JUMPER-2SMD-NO-NS",
+                    "FULL": "JP7,,JUMPER-2SMD-NO-NS,SJ_2S-NO-NS,Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NO-NS",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP7",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Jumper",
+                    "DEVICE": "JUMPER-2SMD-NO-NS",
+                    "FULL": "JP8,,JUMPER-2SMD-NO-NS,SJ_2S-NO-NS,Jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SJ_2S-NO-NS",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ARDUINO_SERIAL_PROGRAMPTH-KIT",
+                    "FULL": "JP9,Program,ARDUINO_SERIAL_PROGRAMPTH-KIT,1X06-KIT,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X06-KIT",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Program",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTORCR54",
+                    "FULL": "L1,47uH,INDUCTORCR54,CR54,Inductors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CR54",
+                    "PACKAGENUMBER": "54",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "47uH",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LEDs",
+                    "DEVICE": "LED5MM-KIT",
+                    "FULL": "LED2,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED5MM-KIT",
+                    "PACKAGENUMBER": "5",
+                    "PART": "LED2",
+                    "PARTLETTER": "LED",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-05-R-STAN-01"
+            },
+            "LED3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LEDs",
+                    "DEVICE": "LED5MM-KIT",
+                    "FULL": "LED3,RED,LED5MM-KIT,LED5MM-KIT,LEDs,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED5MM-KIT",
+                    "PACKAGENUMBER": "5",
+                    "PART": "LED3",
+                    "PARTLETTER": "LED",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-05-R-STAN-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Transistor NPN",
+                    "DEVICE": "TRANSISTOR_NPNSOT23",
+                    "FULL": "Q1,,TRANSISTOR_NPNSOT23,SOT23,Transistor NPN,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTORKIT",
+                    "FULL": "R1,1k,RESISTORKIT,AXIAL-0.3-KIT,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AXIAL-0.3-KIT",
+                    "PACKAGENUMBER": "03",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O102-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R2,10K,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTORKIT",
+                    "FULL": "R3,1k,RESISTORKIT,AXIAL-0.3-KIT,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AXIAL-0.3-KIT",
+                    "PACKAGENUMBER": "03",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O102-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TRIMPOT-2",
+                    "FULL": "R4,TRIMPOT-2,TRIMPOT-2,TRIMPOT_TC33,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TRIMPOT_TC33",
+                    "PACKAGENUMBER": "33",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "TRIMPOT-2",
+                    "VALUENUMBER": "-2"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Photocell Also known as a CdS photoresistor. This is a low cost way to detect light levels. Resistance decreases with more incoming light. SparkFun SKU: SEN-09088",
+                    "DEVICE": "PHOTOCELLPTH-KIT",
+                    "FULL": "R5,PHOTOCELLPTH,PHOTOCELLPTH-KIT,PHOTOCELL-KIT,Photocell Also known as a CdS photoresistor. This is a low cost way to detect light levels. Resistance decreases with more incoming light. SparkFun SKU: SEN-09088,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PHOTOCELL-KIT",
+                    "PACKAGENUMBER": "",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "PHOTOCELLPTH",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402-RES",
+                    "FULL": "R6,10k,RESISTOR0402-RES,0402-RES,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0402-RES",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0402-X-O103-01"
+            },
+            "SG1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Buzzer 12mm",
+                    "DEVICE": "BUZZERPTH-NS-KIT",
+                    "FULL": "SG1,BUZZER,BUZZERPTH-NS-KIT,BUZZER-12MM-NS-KIT,Buzzer 12mm,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BUZZER-12MM-NS-KIT",
+                    "PACKAGENUMBER": "12",
+                    "PART": "SG1",
+                    "PARTLETTER": "SG",
+                    "VALUE": "BUZZER",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "TP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TEST-POINT3X5",
+                    "FULL": "TP1,TP,TEST-POINT3X5,PAD.03X.05,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PAD.03X.05",
+                    "PACKAGENUMBER": "0305",
+                    "PART": "TP1",
+                    "PARTLETTER": "TP",
+                    "VALUE": "TP",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CREATIVE_COMMONS",
+                    "FULL": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "CREATIVE_COMMONS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOM",
+                    "FULL": "U$2,OSHW-LOGOM,OSHW-LOGOM,OSHW-LOGO-M,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-M",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOM",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "U$3,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ATMEGA168",
+                    "FULL": "U1,ATmega328,ATMEGA168,TQFP32-08,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TQFP32-08",
+                    "PACKAGENUMBER": "3208",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "ATmega328",
+                    "VALUENUMBER": "328"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LCD-16X28X2-KIT",
+                    "FULL": "U3,LCD-8x2,LCD-16X28X2-KIT,LCD-8X2-KIT,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LCD-8X2-KIT",
+                    "PACKAGENUMBER": "82",
+                    "PART": "U3",
+                    "PARTLETTER": "U",
+                    "VALUE": "LCD-8x2",
+                    "VALUENUMBER": "-82"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TMP36TO-92-KIT",
+                    "FULL": "U4,,TMP36TO-92-KIT,TO-92-KIT,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TO-92-KIT",
+                    "PACKAGENUMBER": "92",
+                    "PART": "U4",
+                    "PARTLETTER": "U",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Y1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resonator",
+                    "DEVICE": "RESONATORSMD",
+                    "FULL": "Y1,16mhz,RESONATORSMD,RESONATOR-SMD,Resonator,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "RESONATOR-SMD",
+                    "PACKAGENUMBER": "",
+                    "PART": "Y1",
+                    "PARTLETTER": "Y",
+                    "VALUE": "16mhz",
+                    "VALUENUMBER": "16"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -161,7 +743,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -480,9 +1061,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

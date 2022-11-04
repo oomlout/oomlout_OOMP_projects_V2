@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/SPW2430-Silicon-Mic_Rev-B.brd"
     ],
     "eagleSchem": [
         "/SPW2430-Silicon-Mic_Rev-B.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-SPW2430-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR2716"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit SPW2430 PCB"
     ],
@@ -121,16 +109,168 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-UF10-V25",
-            "C2": "CAPC-0805-X-NF100-V50",
-            "C3": "CAPC-0805-X-UF10-V25",
-            "C4": "CAPC-0805-X-UF10-V25",
-            "JP1": "HEAD-I01-X-PI05-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "VREG-SO235-X-KMIC5225-V33D"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C2,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X576MIL",
+                    "FULL": "JP1,,HEADER-1X576MIL,1X05_ROUND_76,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X05_ROUND_76",
+                    "PACKAGENUMBER": "10576",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI05-01"
+            },
+            "U$12": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$12,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$12",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SPW2430HR5H-B - Silicon Microphone",
+                    "DEVICE": "SPW2430HR5H-B",
+                    "FULL": "U1,SPW2430HR5H-B,SPW2430HR5H-B,SPW2430HR5H-B,SPW2430HR5H-B - Silicon Microphone,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SPW2430HR5H-B",
+                    "PACKAGENUMBER": "24305",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "SPW2430HR5H-B",
+                    "VALUENUMBER": "24305-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SOT23-5 Fixed Voltage Regulators",
+                    "DEVICE": "VREG_SOT23-5",
+                    "FULL": "U2,MIC5225-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "MIC5225-3.3",
+                    "VALUENUMBER": "5225-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5225-V33D"
+            }
         }
     ],
     "oompSize": [
@@ -139,7 +279,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -226,9 +365,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

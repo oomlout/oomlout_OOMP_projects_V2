@@ -44,38 +44,646 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "ANALOG": "HEAD-I01-X-PI06-01",
-            "BATT_IN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C4": "CAPC-0805-X-UF10-V25",
-            "C6": "CAPC-0805-X-UF10-V25",
-            "C7": "CAPC-0805-X-UF22D-V25",
-            "C8": "CAPC-0805-X-NF100-V50",
-            "C9": "CAPX-3528-X-UNMATCHED-01",
-            "D1": "DIOD-S123-X-KMBR120-01",
-            "F1": "UNMATCHED-1206-X-UNMATCHED-01",
-            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED1": "LEDS-0805-Y-STAN-01",
-            "LED2": "LEDS-0805-G-STAN-01",
-            "LED3": "LEDS-0805-L-STAN-01",
-            "LED4": "LEDS-0805-R-STAN-01",
-            "R1": "RESE-0805-X-O471-01",
-            "R10": "RESE-0805-X-O2003-01",
-            "R11": "RESE-0805-X-O3403-01",
-            "R14": "RESE-0805-X-UNMATCHED-01",
-            "R2": "RESE-0805-X-O202-01",
-            "R20": "RESE-0805-X-O102-01",
-            "R23": "RESE-0805-X-O3403-01",
-            "R3": "RESE-0805-X-O102-01",
-            "R4": "RESE-0805-X-O202-01",
-            "R5": "RESE-0805-X-O102-01",
-            "R9": "RESE-0805-X-UNMATCHED-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "SW1": "BUTA-UNMATCHED-X-STAN-01",
-            "T1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U3": "UNMATCHED-SO235-X-UNMATCHED-01",
-            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "ANALOG": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6",
+                    "FULL": "ANALOG,ANALOG,PINHD-1X6,1X06,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06",
+                    "PACKAGENUMBER": "106",
+                    "PART": "ANALOG",
+                    "PARTLETTER": "ANALOG",
+                    "VALUE": "ANALOG",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "BATT_IN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "JST 2-Pin Connectors of various flavors",
+                    "DEVICE": "JST_2PIN-SMT",
+                    "FULL": "BATT_IN,JST-PH,JST_2PIN-SMT,JST-PH-2-SMT,JST 2-Pin Connectors of various flavors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JST-PH-2-SMT",
+                    "PACKAGENUMBER": "2",
+                    "PART": "BATT_IN",
+                    "PARTLETTER": "BATT_IN",
+                    "VALUE": "JST-PH",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C4,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10UF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C7,2.2uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C7",
+                    "PARTLETTER": "C",
+                    "VALUE": "2.2uF",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "CAPC-0805-X-UF22D-V25"
+            },
+            "C8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C8,0.1uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C8",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Tantalum Capacitors",
+                    "DEVICE": "CAP_TANTALUMB/3528_REFLOW",
+                    "FULL": "C9,100uF/6V,CAP_TANTALUMB/3528_REFLOW,EIA3528-21/B-R,Tantalum Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EIA3528-21/B-R",
+                    "PACKAGENUMBER": "352821",
+                    "PART": "C9",
+                    "PARTLETTER": "C",
+                    "VALUE": "100uF/6V",
+                    "VALUENUMBER": "100/6"
+                },
+                "OOMPID": "CAPX-3528-X-UNMATCHED-01"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DIODE-SCHOTTKYSOD-123",
+                    "FULL": "D1,MBR120,DIODE-SCHOTTKYSOD-123,SOD-123,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOD-123",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "MBR120",
+                    "VALUENUMBER": "120"
+                },
+                "OOMPID": "DIOD-S123-X-KMBR120-01"
+            },
+            "F1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PTC fuses, resettable thermistors",
+                    "DEVICE": "PTCFUSE-1206",
+                    "FULL": "F1,500mA,PTCFUSE-1206,R1206,PTC fuses, resettable thermistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "F1",
+                    "PARTLETTER": "F",
+                    "VALUE": "500mA",
+                    "VALUENUMBER": "500"
+                },
+                "OOMPID": "UNMATCHED-1206-X-UNMATCHED-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTORTDK_VLC5045",
+                    "FULL": "L1,VLC5045-6.8uH,INDUCTORTDK_VLC5045,INDUCTOR_5X5MM_TDK_VLC5045,Inductors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "INDUCTOR_5X5MM_TDK_VLC5045",
+                    "PACKAGENUMBER": "555045",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "VLC5045-6.8uH",
+                    "VALUENUMBER": "5045-6.8"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED1,YELLOW,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "YELLOW",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-Y-STAN-01"
+            },
+            "LED2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED2",
+                    "PARTLETTER": "LED",
+                    "VALUE": "GREEN",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED3,BLUE,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED3",
+                    "PARTLETTER": "LED",
+                    "VALUE": "BLUE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-L-STAN-01"
+            },
+            "LED4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED4,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED4",
+                    "PARTLETTER": "LED",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R1,470,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "470",
+                    "VALUENUMBER": "470"
+                },
+                "OOMPID": "RESE-0805-X-O471-01"
+            },
+            "R10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R10,200K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R10",
+                    "PARTLETTER": "R",
+                    "VALUE": "200K",
+                    "VALUENUMBER": "200"
+                },
+                "OOMPID": "RESE-0805-X-O2003-01"
+            },
+            "R11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R11,340K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R11",
+                    "PARTLETTER": "R",
+                    "VALUE": "340K",
+                    "VALUENUMBER": "340"
+                },
+                "OOMPID": "RESE-0805-X-O3403-01"
+            },
+            "R14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R14,1.87Mohm,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R14",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.87Mohm",
+                    "VALUENUMBER": "1.87"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R2,2K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0805-X-O202-01"
+            },
+            "R20": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R20,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R20",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R23": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R23,340K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R23",
+                    "PARTLETTER": "R",
+                    "VALUE": "340K",
+                    "VALUENUMBER": "340"
+                },
+                "OOMPID": "RESE-0805-X-O3403-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R3,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R4,2K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0805-X-O202-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R5,1K,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805_NOOUTLINE",
+                    "FULL": "R9,1.87Mohm,RESISTOR0805_NOOUTLINE,0805-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.87Mohm",
+                    "VALUENUMBER": "1.87"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OS10201MA1Q through-hole right angle switch",
+                    "DEVICE": "OS102011MA1Q",
+                    "FULL": "S1,OS102011MA1Q,OS102011MA1Q,OS102011MA1Q,OS10201MA1Q through-hole right angle switch,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "OS102011MA1Q",
+                    "PACKAGENUMBER": "1020111",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "OS102011MA1Q",
+                    "VALUENUMBER": "1020111"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ1,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ1",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ2,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ3": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ3,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ3",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ4": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ4,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ4",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ5": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ5,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ5",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ6": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPER",
+                    "FULL": "SJ6,,SOLDERJUMPER,SOLDERJUMPER_ARROW_NOPASTE,SMD Solder JUMPER,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ6",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT 6mm switch, EVQQ2 series",
+                    "DEVICE": "SPST_TACT-KMR2",
+                    "FULL": "SW1,SPST_TACT-KMR2,SPST_TACT-KMR2,KMR2,SMT 6mm switch, EVQQ2 series,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "KMR2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "SPST_TACT-KMR2",
+                    "VALUENUMBER": "_-2"
+                },
+                "OOMPID": "BUTA-UNMATCHED-X-STAN-01"
+            },
+            "T1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PNP Bias Resistor Transistor",
+                    "DEVICE": "MUN2114T1-PNP_DRIVER-SC59-BEC",
+                    "FULL": "T1,MMUN2133LT1G,MUN2114T1-PNP_DRIVER-SC59-BEC,SC59-BEC,PNP Bias Resistor Transistor,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SC59-BEC",
+                    "PACKAGENUMBER": "59",
+                    "PART": "T1",
+                    "PARTLETTER": "T",
+                    "VALUE": "MMUN2133LT1G",
+                    "VALUENUMBER": "21331"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$4,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5",
+                    "DEVICE": "ARDUINOR3-NOSILK",
+                    "FULL": "U2,ARDUINOR3-NOSILK,ARDUINOR3-NOSILK,ARDUINOR3-NOSILK,This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ARDUINOR3-NOSILK",
+                    "PACKAGENUMBER": "3",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "ARDUINOR3-NOSILK",
+                    "VALUENUMBER": "3-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MCP73831/2 LIPO Charger",
+                    "DEVICE": "MCP73831/2",
+                    "FULL": "U3,MCP73831T-2ACI/OT,MCP73831/2,SOT23-5,MCP73831/2 LIPO Charger,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U3",
+                    "PARTLETTER": "U",
+                    "VALUE": "MCP73831T-2ACI/OT",
+                    "VALUENUMBER": "73831-2/"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            },
+            "U4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "TPS6103x 4A Boost - 1.8-5.5V Input, Adjustable Output to 5.5V",
+                    "DEVICE": "VREG_TPS6103X",
+                    "FULL": "U4,TPS61030RSAR,VREG_TPS6103X,PVQFN-16,TPS6103x 4A Boost - 1.8-5.5V Input, Adjustable Output to 5.5V,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "PVQFN-16",
+                    "PACKAGENUMBER": "16",
+                    "PART": "U4",
+                    "PARTLETTER": "U",
+                    "VALUE": "TPS61030RSAR",
+                    "VALUENUMBER": "61030"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB Connectors",
+                    "DEVICE": "USBMICRO_20329",
+                    "FULL": "X1,MicroUSB,USBMICRO_20329,4UCONN_20329,USB Connectors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "4UCONN_20329",
+                    "PACKAGENUMBER": "420329",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "MicroUSB",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

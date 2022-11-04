@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0022 > ATTinyX12 SirTiny
 
 - ID: PROJ-SIRB-0022-STAN-01
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|ATTinyX12/ATTinyX12.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

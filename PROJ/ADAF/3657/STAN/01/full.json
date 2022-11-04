@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/ATSAMD09D14 Breakout rev B.brd"
     ],
     "eagleSchem": [
         "/ATSAMD09D14 Breakout rev B.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-SAMD09-Breakout-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR3657"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit SAMD09 Breakout PCB"
     ],
@@ -121,24 +109,280 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-UF10-V25",
-            "C2": "CAPC-0603-X-NF100-V50",
-            "C4": "CAPC-0805-X-UF10-V25",
-            "D1": "LEDS-0805-R-STAN-01",
-            "D2": "LEDS-0805-G-STAN-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI12-01",
-            "JP3": "HEAD-I01-X-PI12-01",
-            "R1": "RESE-0603-X-O102-01",
-            "R2": "RESE-0603-X-O102-01",
-            "R3": "RESE-0603-X-O102-01",
-            "R4": "RESE-0603-X-O103-01",
-            "R5": "RESE-0603-X-O103-01",
-            "SW1": "BUTA-4628-X-STAN-01",
-            "U1": "VREG-SO235-X-KAP2112K-V33D"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0603_NO",
+                    "FULL": "C2,0.1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C4,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "D1,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "D2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "GREEN",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ATSAMD09D14A-MU",
+                    "FULL": "IC1,ATSAMD09D14A-MU,ATSAMD09D14A-MU,QFN24_4MM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "QFN24_4MM",
+                    "PACKAGENUMBER": "244",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "ATSAMD09D14A-MU",
+                    "VALUENUMBER": "0914-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-1X1276MIL",
+                    "FULL": "JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X12_ROUND_76MIL",
+                    "PACKAGENUMBER": "11276",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI12-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-1X1276MIL",
+                    "FULL": "JP3,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X12_ROUND_76MIL",
+                    "PACKAGENUMBER": "11276",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI12-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R1,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R2,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R3,1K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R4,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R5,10k,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SOT23-5 Fixed Voltage Regulators",
+                    "DEVICE": "VREG_SOT23-5",
+                    "FULL": "U1,AP2112K,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "AP2112K",
+                    "VALUENUMBER": "2112"
+                },
+                "OOMPID": "VREG-SO235-X-KAP2112K-V33D"
+            }
         }
     ],
     "oompSize": [
@@ -147,7 +391,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -290,9 +533,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

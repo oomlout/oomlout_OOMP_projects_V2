@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0010 > SOIC16 Breakout Board (sirboard)
 
 - ID: PROJ-SIRB-0010-STAN-01
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|SOIC16/SOIC16.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

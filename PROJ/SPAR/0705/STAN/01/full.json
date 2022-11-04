@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_Transceiver_Breakout_RPSMA.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_Transceiver_Breakout_RPSMA.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Transceiver_Breakout-nRF24L01_RP-SMA"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR0705"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Transceiver Breakout nRF24L01 RP SMA"
     ],
@@ -121,29 +109,376 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0402-X-PF22-V50",
-            "C10": "CAPT-3216-X-UF10-V10",
-            "C2": "CAPC-0402-X-PF22-V50",
-            "C3": "CAPC-0402-X-NF33-01",
-            "C4": "CAPC-0402-X-PF22D-V50",
-            "C5": "CAPC-0402-X-PF47D-01",
-            "C6": "CAPC-0402-X-UNMATCHED-01",
-            "C7": "CAPC-0402-X-PF15D-V50",
-            "C8": "CAPC-0402-X-NF10-V50",
-            "C9": "CAPC-0402-X-NF1-V50",
-            "J$1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI08-01",
-            "L1": "UNMATCHED-0402-X-UNMATCHED-01",
-            "L2": "UNMATCHED-0402-X-UNMATCHED-01",
-            "L3": "UNMATCHED-0402-X-UNMATCHED-01",
-            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-0402-X-O105-01",
-            "R2": "RESE-0402-X-O223-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-SO235-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C1,22pF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "22pF",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "CAPC-0402-X-PF22-V50"
+            },
+            "C10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor Polarized",
+                    "DEVICE": "CAP_POL1206",
+                    "FULL": "C10,10uF,CAP_POL1206,EIA3216,Capacitor Polarized,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "EIA3216",
+                    "PACKAGENUMBER": "3216",
+                    "PART": "C10",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPT-3216-X-UF10-V10"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C2,22pF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "22pF",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "CAPC-0402-X-PF22-V50"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C3,33nF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "33nF",
+                    "VALUENUMBER": "33"
+                },
+                "OOMPID": "CAPC-0402-X-NF33-01"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C4,2.2nF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "2.2nF",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "CAPC-0402-X-PF22D-V50"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C5,4.7pF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "4.7pF",
+                    "VALUENUMBER": "4.7"
+                },
+                "OOMPID": "CAPC-0402-X-PF47D-01"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C6,1.0pF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "1.0pF",
+                    "VALUENUMBER": "1.0"
+                },
+                "OOMPID": "CAPC-0402-X-UNMATCHED-01"
+            },
+            "C7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C7,1.5pF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C7",
+                    "PARTLETTER": "C",
+                    "VALUE": "1.5pF",
+                    "VALUENUMBER": "1.5"
+                },
+                "OOMPID": "CAPC-0402-X-PF15D-V50"
+            },
+            "C8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C8,10nF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C8",
+                    "PARTLETTER": "C",
+                    "VALUE": "10nF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0402-X-NF10-V50"
+            },
+            "C9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Capacitor",
+                    "DEVICE": "CAP0402",
+                    "FULL": "C9,1nF,CAP0402,C0402,Capacitor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "C9",
+                    "PARTLETTER": "C",
+                    "VALUE": "1nF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0402-X-NF1-V50"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMA Antenna Connector",
+                    "DEVICE": "SMA_EDGE",
+                    "FULL": "J$1,SMA_EDGE,SMA_EDGE,SMA-EDGE,SMA Antenna Connector,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMA-EDGE",
+                    "PACKAGENUMBER": "",
+                    "PART": "J$1",
+                    "PARTLETTER": "J$",
+                    "VALUE": "SMA_EDGE",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 8",
+                    "DEVICE": "M08",
+                    "FULL": "JP1,,M08,1X08,Header 8,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X08",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTOR0402",
+                    "FULL": "L1,3.9nH,INDUCTOR0402,C0402,Inductors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "3.9nH",
+                    "VALUENUMBER": "3.9"
+                },
+                "OOMPID": "UNMATCHED-0402-X-UNMATCHED-01"
+            },
+            "L2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTOR0402",
+                    "FULL": "L2,2.7nH,INDUCTOR0402,C0402,Inductors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "L2",
+                    "PARTLETTER": "L",
+                    "VALUE": "2.7nH",
+                    "VALUENUMBER": "2.7"
+                },
+                "OOMPID": "UNMATCHED-0402-X-UNMATCHED-01"
+            },
+            "L3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTOR0402",
+                    "FULL": "L3,8.2nH,INDUCTOR0402,C0402,Inductors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "L3",
+                    "PARTLETTER": "L",
+                    "VALUE": "8.2nH",
+                    "VALUENUMBER": "8.2"
+                },
+                "OOMPID": "UNMATCHED-0402-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Crystals",
+                    "DEVICE": "CRYSTAL5X3",
+                    "FULL": "Q1,16MHz,CRYSTAL5X3,CRYSTAL-SMD-5X3,Crystals,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CRYSTAL-SMD-5X3",
+                    "PACKAGENUMBER": "53",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "16MHz",
+                    "VALUENUMBER": "16"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402",
+                    "FULL": "R1,1M,RESISTOR0402,C0402,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1M",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0402-X-O105-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistor",
+                    "DEVICE": "RESISTOR0402",
+                    "FULL": "R2,22K,RESISTOR0402,C0402,Resistor,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "C0402",
+                    "PACKAGENUMBER": "0402",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "22K",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "RESE-0402-X-O223-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "U$5,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "2.4GHz Low Power Transceiver",
+                    "DEVICE": "NRF24L01SMD",
+                    "FULL": "U1,NRF24L01SMD,NRF24L01SMD,QFN20,2.4GHz Low Power Transceiver,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "QFN20",
+                    "PACKAGENUMBER": "20",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "NRF24L01SMD",
+                    "VALUENUMBER": "2401"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Voltage Regulator LDO",
+                    "DEVICE": "V_REG_LDOSMD",
+                    "FULL": "U2,V_REG_LDOSMD,V_REG_LDOSMD,SOT23-5,Voltage Regulator LDO,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "V_REG_LDOSMD",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -152,7 +487,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -343,9 +677,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

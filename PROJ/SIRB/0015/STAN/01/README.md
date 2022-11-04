@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0015 > TQFP32 Breakout Board (sirboard)
 
 - ID: PROJ-SIRB-0015-STAN-01
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|TQFP32/TQFP32.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit MAX4466 Mic Amp.brd"
     ],
     "eagleSchem": [
         "/Adafruit MAX4466 Mic Amp.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-MAX4466-Electret-Mic-Amplifier-PCBs"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR1063"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit MAX4466 Electret Mic Amplifier PCBs"
     ],
@@ -118,25 +106,328 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-NF100-V50",
-            "C2": "CAPC-0805-X-UNMATCHED-01",
-            "C3": "CAPC-0805-X-PF100-01",
-            "C4": "CAPC-0805-X-UF10-V25",
-            "FB1": "FERB-0805-X-UNMATCHED-01",
-            "FB2": "FERB-0805-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI03-01",
-            "Q1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-0805-X-O102-01",
-            "R2": "RESE-0805-X-O102-01",
-            "R3": "RESE-0805-X-O105-01",
-            "R4": "RESE-0805-X-O105-01",
-            "R5": "RESE-0805-X-O102-01",
-            "R7": "RESE-0805-X-O223-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "VR1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C1,0.1UF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1UF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C2,0.01uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.01uF",
+                    "VALUENUMBER": "0.01"
+                },
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C3,100pF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "100pF",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "CAPC-0805-X-PF100-01"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C4,10uF,CAP_CERAMIC0805,0805,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FB1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ferrite Bead",
+                    "DEVICE": "FERRITE0805",
+                    "FULL": "FB1,FERRITE,FERRITE0805,0805,Ferrite Bead,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "FB1",
+                    "PARTLETTER": "FB",
+                    "VALUE": "FERRITE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "FERB-0805-X-UNMATCHED-01"
+            },
+            "FB2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ferrite Bead",
+                    "DEVICE": "FERRITE0805",
+                    "FULL": "FB2,FERRITE,FERRITE0805,0805,Ferrite Bead,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "FB2",
+                    "PARTLETTER": "FB",
+                    "VALUE": "FERRITE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "FERB-0805-X-UNMATCHED-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X376MIL",
+                    "FULL": "JP1,,HEADER-1X376MIL,1X03_ROUND_76,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X03_ROUND_76",
+                    "PACKAGENUMBER": "10376",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Electret microphone",
+                    "DEVICE": "ELECTRET",
+                    "FULL": "Q1,CMA-4544PF-W,ELECTRET,ELECTRET_9.7,Electret microphone,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ELECTRET_9.7",
+                    "PACKAGENUMBER": "97",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "CMA-4544PF-W",
+                    "VALUENUMBER": "-4544-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R1,1K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R2,1K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R3,1M,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1M",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O105-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R4,1M,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "1M",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O105-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R5,1K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R7,22K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "22K",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "RESE-0805-X-O223-01"
+            },
+            "U$11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$11,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$11",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE2.5",
+                    "FULL": "U$14,MOUNTINGHOLE2.5,MOUNTINGHOLE2.5,MOUNTINGHOLE_2.5_PLATED,Mounting Hole,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_2.5_PLATED",
+                    "PACKAGENUMBER": "25",
+                    "PART": "U$14",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE2.5",
+                    "VALUENUMBER": "2.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MAX4466 - Microphone Pre-Amp",
+                    "DEVICE": "MAX4466",
+                    "FULL": "U1,MAX4466EXK+T,MAX4466,SC70-5,MAX4466 - Microphone Pre-Amp,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SC70-5",
+                    "PACKAGENUMBER": "705",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "MAX4466EXK+T",
+                    "VALUENUMBER": "4466+"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "VR1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3-Pin SMT Trimpots",
+                    "DEVICE": "TRIMPOTTC33X-2",
+                    "FULL": "VR1,TC33X-2-104E (100K),TRIMPOTTC33X-2,TRIMPOT_BOURNS_TC33X-2,3-Pin SMT Trimpots,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TRIMPOT_BOURNS_TC33X-2",
+                    "PACKAGENUMBER": "332",
+                    "PART": "VR1",
+                    "PARTLETTER": "VR",
+                    "VALUE": "TC33X-2-104E (100K)",
+                    "VALUENUMBER": "33-2-104 (100)"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -145,7 +436,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -312,9 +602,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

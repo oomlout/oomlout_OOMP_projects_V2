@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit_MCP7386x.brd"
     ],
     "eagleSchem": [
         "/Adafruit_MCP7386x.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-USB-DC-LiPoly-Charger"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR0280"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit USB DC LiPoly Charger"
     ],
@@ -118,31 +106,408 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "BATT_IN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "BATT_OUT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C3": "CAPC-0805-X-UF47-01",
-            "C4": "CAPX-UNMATCHED-X-UF10-01",
-            "C5": "CAPX-UNMATCHED-X-UF10-01",
-            "CHG": "LEDS-0805-O-STAN-01",
-            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "ERR": "LEDS-0805-R-STAN-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "OUT": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "PG": "LEDS-0805-G-STAN-01",
-            "R1": "RESE-0805-X-UNMATCHED-01",
-            "R11": "RESE-0805-X-O471-01",
-            "R6": "RESE-0805-X-UNMATCHED-01",
-            "R7": "RESE-0805-X-UNMATCHED-01",
-            "RTH": "UNMATCHED-0805-X-UNMATCHED-01",
-            "STAT3": "HEAD-I01-X-PI01-01",
-            "STAT4": "HEAD-I01-X-PI01-01",
-            "USB": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "VIN": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "BATT_IN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "JST 2-Pin Right-Angle Connector",
+                    "DEVICE": "JST_2PIN",
+                    "FULL": "BATT_IN,,JST_2PIN,JSTPH2,JST 2-Pin Right-Angle Connector,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JSTPH2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "BATT_IN",
+                    "PARTLETTER": "BATT_IN",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "BATT_OUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "JST 2-Pin Right-Angle Connector",
+                    "DEVICE": "JST_2PIN",
+                    "FULL": "BATT_OUT,,JST_2PIN,JSTPH2,JST 2-Pin Right-Angle Connector,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JSTPH2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "BATT_OUT",
+                    "PARTLETTER": "BATT_OUT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C3,0.47uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.47uF",
+                    "VALUENUMBER": "0.47"
+                },
+                "OOMPID": "CAPC-0805-X-UF47-01"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "POLARIZED CAPACITOR, American symbol",
+                    "DEVICE": "CPOL-USA/3216-18R",
+                    "FULL": "C4,10uF,CPOL-USA/3216-18R,A/3216-18R,POLARIZED CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "A/3216-18R",
+                    "PACKAGENUMBER": "321618",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-UF10-01"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "POLARIZED CAPACITOR, American symbol",
+                    "DEVICE": "CPOL-USA/3216-18R",
+                    "FULL": "C5,10uF,CPOL-USA/3216-18R,A/3216-18R,POLARIZED CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "A/3216-18R",
+                    "PACKAGENUMBER": "321618",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-UF10-01"
+            },
+            "CHG": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIPLED_0805",
+                    "FULL": "CHG,ORANGE,LEDCHIPLED_0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "CHG",
+                    "PARTLETTER": "CHG",
+                    "VALUE": "ORANGE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-O-STAN-01"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODESMA",
+                    "FULL": "D1,B120,DIODESMA,SMADIODE,Diode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SMADIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "B120",
+                    "VALUENUMBER": "120"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODESMA",
+                    "FULL": "D2,B120,DIODESMA,SMADIODE,Diode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SMADIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "B120",
+                    "VALUENUMBER": "120"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "ERR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIPLED_0805",
+                    "FULL": "ERR,RED,LEDCHIPLED_0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "ERR",
+                    "PARTLETTER": "ERR",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MCP7386x",
+                    "DEVICE": "MCP7386XS",
+                    "FULL": "IC1,,MCP7386XS,SO16,MCP7386x,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SO16",
+                    "PACKAGENUMBER": "16",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "1X2-3.5MM",
+                    "FULL": "IN,1X2-3.5MM,1X2-3.5MM,3.5MMTERM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "3.5MMTERM",
+                    "PACKAGENUMBER": "35",
+                    "PART": "IN",
+                    "PARTLETTER": "IN",
+                    "VALUE": "1X2-3.5MM",
+                    "VALUENUMBER": "12-3.5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "OUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "1X2-3.5MM",
+                    "FULL": "OUT,1X2-3.5MM,1X2-3.5MM,3.5MMTERM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "3.5MMTERM",
+                    "PACKAGENUMBER": "35",
+                    "PART": "OUT",
+                    "PARTLETTER": "OUT",
+                    "VALUE": "1X2-3.5MM",
+                    "VALUENUMBER": "12-3.5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "PG": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIPLED_0805",
+                    "FULL": "PG,GREEN,LEDCHIPLED_0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "PG",
+                    "PARTLETTER": "PG",
+                    "VALUE": "GREEN",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_FLIPFLOP",
+                    "FULL": "R1,adj,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-THM",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "adj",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R11,470,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R11",
+                    "PARTLETTER": "R",
+                    "VALUE": "470",
+                    "VALUENUMBER": "470"
+                },
+                "OOMPID": "RESE-0805-X-O471-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R6,6.19K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "6.19K",
+                    "VALUENUMBER": "6.19"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R7,7.3k,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "7.3k",
+                    "VALUENUMBER": "7.3"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "RTH": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_FLIPFLOP",
+                    "FULL": "RTH,10K @ 25degC,R-US_FLIPFLOP,0805-THM,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-THM",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "RTH",
+                    "PARTLETTER": "RTH",
+                    "VALUE": "10K @ 25degC",
+                    "VALUENUMBER": "10 @ 25"
+                },
+                "OOMPID": "UNMATCHED-0805-X-UNMATCHED-01"
+            },
+            "STAT3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "STAT3,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "STAT3",
+                    "PARTLETTER": "STAT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "STAT4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x1 for 0.1 spacing",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "STAT4,,PINHD-1X1,1X01,Pin header 1x1 for 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "STAT4",
+                    "PARTLETTER": "STAT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "2.1mm x 5.5mm THM DC jack with internal switch. Digikey part #PJ-102A, 4UCON part #05537",
+                    "DEVICE": "2.1MMJACKSMT",
+                    "FULL": "U$1,2.1MMJACKSMT,2.1MMJACKSMT,DCJACK_2MM_SMT,2.1mm x 5.5mm THM DC jack with internal switch. Digikey part #PJ-102A, 4UCON part #05537,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "DCJACK_2MM_SMT",
+                    "PACKAGENUMBER": "2",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "2.1MMJACKSMT",
+                    "VALUENUMBER": "2.1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$3,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$4,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "USB": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB Connectors",
+                    "DEVICE": "USBMINIB",
+                    "FULL": "USB,MINI-USB,USBMINIB,USB-MINIB,USB Connectors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "USB-MINIB",
+                    "PACKAGENUMBER": "",
+                    "PART": "USB",
+                    "PARTLETTER": "USB",
+                    "VALUE": "MINI-USB",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "VIN": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "1X2-3.5MM",
+                    "FULL": "VIN,1X2-3.5MM,1X2-3.5MM,3.5MMTERM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "3.5MMTERM",
+                    "PACKAGENUMBER": "35",
+                    "PART": "VIN",
+                    "PARTLETTER": "VIN",
+                    "VALUE": "1X2-3.5MM",
+                    "VALUENUMBER": "12-3.5"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -151,7 +516,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -358,9 +722,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

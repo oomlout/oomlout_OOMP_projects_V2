@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0004 > MicroSD Breakout Board (sirboard)
 
 - ID: PROJ-SIRB-0004-STAN-01
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|MicroSD/MicroSD.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

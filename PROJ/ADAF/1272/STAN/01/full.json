@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit GPS Logger Shield.brd"
     ],
     "eagleSchem": [
         "/Adafruit GPS Logger Shield.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-GPS-Logger-Shield-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR1272"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit GPS Logger Shield PCB"
     ],
@@ -121,32 +109,440 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "B1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C1": "CAPC-UNMATCHED-X-NF100-01",
-            "C2": "CAPC-UNMATCHED-X-UF10-01",
-            "C3": "CAPC-UNMATCHED-X-UF10-01",
-            "CN2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "FB1": "FERB-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI08-01",
-            "JP4": "HEAD-I01-X-PI08-01",
-            "JP6": "HEAD-I01-X-PI06-01",
-            "JP9": "HEAD-I01-X-PI06-01",
-            "LED1": "LEDS-0805-R-STAN-01",
-            "LED4": "LEDS-0805-Y-STAN-01",
-            "LED5": "LEDS-0805-G-STAN-01",
-            "R1": "RESE-0805-X-O102-01",
-            "R10": "RESE-0805-X-O102-01",
-            "R5": "RESE-0805-X-O103-01",
-            "R9": "RESE-0805-X-O102-01",
-            "RESET": "BUTA-6060-X-STAN-01",
-            "SW1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "VREG-SO235-X-KMIC5225-V33D",
-            "U3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "B1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "BATTERYCR1220_SMT",
+                    "FULL": "B1,CR1220,BATTERYCR1220_SMT,CR1220,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CR1220",
+                    "PACKAGENUMBER": "1220",
+                    "PART": "B1",
+                    "PARTLETTER": "B",
+                    "VALUE": "CR1220",
+                    "VALUENUMBER": "1220"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C1,0.1uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805@1",
+                    "PACKAGENUMBER": "08051",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-UNMATCHED-X-NF100-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C2,10uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805@1",
+                    "PACKAGENUMBER": "08051",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-UNMATCHED-X-UF10-01"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805",
+                    "FULL": "C3,10uF,CAP_CERAMIC0805,0805@1,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805@1",
+                    "PACKAGENUMBER": "08051",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-UNMATCHED-X-UF10-01"
+            },
+            "CN2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MicroSD/Transflash Card Holder with SPI pinout",
+                    "DEVICE": "MICROSD",
+                    "FULL": "CN2,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MICROSD",
+                    "PACKAGENUMBER": "",
+                    "PART": "CN2",
+                    "PARTLETTER": "CN",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FB1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ferrite Bead",
+                    "DEVICE": "FERRITE0805",
+                    "FULL": "FB1,Ferrite,FERRITE0805,0805@1,Ferrite Bead,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805@1",
+                    "PACKAGENUMBER": "08051",
+                    "PART": "FB1",
+                    "PARTLETTER": "FB",
+                    "VALUE": "Ferrite",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "FERB-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8BIG",
+                    "FULL": "JP1,D0-D7,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-BIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "D0-D7",
+                    "VALUENUMBER": "0-7"
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8BIG",
+                    "FULL": "JP4,D0-D7,PINHD-1X8BIG,1X08-BIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-BIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "D0-D7",
+                    "VALUENUMBER": "0-7"
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6B",
+                    "FULL": "JP6,,PINHD-1X6B,1X06-BIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-BIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "JP9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6B",
+                    "FULL": "JP9,,PINHD-1X6B,1X06-BIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-BIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP9",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805",
+                    "FULL": "LED1,red,LED0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "red",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "LED4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805",
+                    "FULL": "LED4,yellow,LED0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED4",
+                    "PARTLETTER": "LED",
+                    "VALUE": "yellow",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-Y-STAN-01"
+            },
+            "LED5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805",
+                    "FULL": "LED5,green,LED0805,CHIPLED_0805,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED5",
+                    "PARTLETTER": "LED",
+                    "VALUE": "green",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R1,1K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R10,1k,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R10",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R5,10K,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR0805",
+                    "FULL": "R9,1k,RESISTOR0805,0805,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "1k",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "RESET": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT 6mm switch, EVQQ2 series",
+                    "DEVICE": "SPST_TACT-EVQQ2",
+                    "FULL": "RESET,Reset,SPST_TACT-EVQQ2,EVQ-Q2,SMT 6mm switch, EVQQ2 series,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "RESET",
+                    "PARTLETTER": "RESET",
+                    "VALUE": "Reset",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "BUTA-6060-X-STAN-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DPDT-EG1390",
+                    "FULL": "SW1,,DPDT-EG1390,EG1390,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EG1390",
+                    "PACKAGENUMBER": "1390",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$20": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "U.FL Antenna Connector",
+                    "DEVICE": "U.FL",
+                    "FULL": "U$20,U.FL,U.FL,U.FL,U.FL Antenna Connector,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "U.FL",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$20",
+                    "PARTLETTER": "U$",
+                    "VALUE": "U.FL",
+                    "VALUENUMBER": "."
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Pin header 1x10 0.1 spacing",
+                    "DEVICE": "PINHD-1X10",
+                    "FULL": "U$9,PINHD-1X10,PINHD-1X10,1X10-BIG,Pin header 1x10 0.1 spacing,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X10-BIG",
+                    "PACKAGENUMBER": "110",
+                    "PART": "U$9",
+                    "PARTLETTER": "U$",
+                    "VALUE": "PINHD-1X10",
+                    "VALUENUMBER": "-110"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "GPS Module - MTK MT3339 Chipset, -165dBm sensitivity, 22 channels, 10Hz, auto-select external antenna options",
+                    "DEVICE": "GPS_FGPMMOPA6H",
+                    "FULL": "U1,FGPMMOPA6H,GPS_FGPMMOPA6H,FGPMMOPA6H,GPS Module - MTK MT3339 Chipset, -165dBm sensitivity, 22 channels, 10Hz, auto-select external antenna options,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FGPMMOPA6H",
+                    "PACKAGENUMBER": "6",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "FGPMMOPA6H",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SOT23-5 Fixed Voltage Regulators",
+                    "DEVICE": "VREG_SOT23-5",
+                    "FULL": "U2,MIC5225-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "MIC5225-3.3",
+                    "VALUENUMBER": "5225-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5225-V33D"
+            },
+            "U3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5",
+                    "DEVICE": "ARDUINOR3-DIMENSION",
+                    "FULL": "U3,ARDUINOR3-DIMENSION,ARDUINOR3-DIMENSION,ARDUINOR3,This is a new object for the new Arduino R3 - with extra pins that you may want to use (such as IOref, and duplicated A4/A5,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ARDUINOR3",
+                    "PACKAGENUMBER": "3",
+                    "PART": "U3",
+                    "PARTLETTER": "U",
+                    "VALUE": "ARDUINOR3-DIMENSION",
+                    "VALUENUMBER": "3-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "6-channel level shifter",
+                    "DEVICE": "74HC4050D",
+                    "FULL": "U4,4050,74HC4050D,SOIC16,6-channel level shifter,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOIC16",
+                    "PACKAGENUMBER": "16",
+                    "PART": "U4",
+                    "PARTLETTER": "U",
+                    "VALUE": "4050",
+                    "VALUENUMBER": "4050"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -155,7 +551,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -378,9 +773,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

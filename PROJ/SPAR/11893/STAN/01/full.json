@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/LilyPad_Simple_Power.brd"
     ],
     "eagleSchem": [
         "/Hardware/LilyPad_Simple_Power.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "LilyPad_Simple_Power"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR11893"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "LilyPad Simple Power"
     ],
@@ -121,18 +109,360 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0603-X-UF47D-V10",
-            "C2": "CAPC-0603-X-UF47D-V10",
-            "D1": "LEDS-0603-Y-STAN-01",
-            "JP1": "HEAD-JSTPH-X-PI02-01",
-            "JP4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R3": "RESE-0603-X-O331-01",
-            "R4": "RESE-0603-X-O202-01",
-            "S1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-SO235-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAP-08280",
+                    "DEVICE": "4.7UF-6.3V-10%(0603)0603",
+                    "FULL": "C1,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "4.7uF",
+                    "VALUENUMBER": "4.7"
+                },
+                "OOMPID": "CAPC-0603-X-UF47D-V10"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAP-08280",
+                    "DEVICE": "4.7UF-6.3V-10%(0603)0603",
+                    "FULL": "C2,4.7uF,4.7UF-6.3V-10%(0603)0603,0603-CAP,CAP-08280,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-CAP",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "4.7uF",
+                    "VALUENUMBER": "4.7"
+                },
+                "OOMPID": "CAPC-0603-X-UF47D-V10"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Yellow SMD LEDs",
+                    "DEVICE": "LED-YELLOW0603",
+                    "FULL": "D1,Yellow,LED-YELLOW0603,LED-0603,Yellow SMD LEDs,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "Yellow",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0603-Y-STAN-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "Nathan Seidle",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,Nathan Seidle,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Standard 2-pin 0.1 header. Use with",
+                    "DEVICE": "M02-JST-2MM-SMT",
+                    "FULL": "JP1,M02-JST-2MM-SMT,M02-JST-2MM-SMT,JST-2-SMD,Standard 2-pin 0.1 header. Use with,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST-2-SMD",
+                    "PACKAGENUMBER": "2",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "M02-JST-2MM-SMT",
+                    "VALUENUMBER": "02--2-"
+                },
+                "OOMPID": "HEAD-JSTPH-X-PI02-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Sew Taps for LilyPad Boards.",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "JP2,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,Sew Taps for LilyPad Boards.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Sew Taps for LilyPad Boards.",
+                    "DEVICE": "SEWTAP9",
+                    "FULL": "JP3,SEWTAP9,SEWTAP9,PETAL-LONG-1-2SIDE,Sew Taps for LilyPad Boards.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PETAL-LONG-1-2SIDE",
+                    "PACKAGENUMBER": "12",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "SEWTAP9",
+                    "VALUENUMBER": "9"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB Micro-B connectors",
+                    "DEVICE": "USB_MICROB_PLUGCONN-11752",
+                    "FULL": "JP4,USB_MICROB_PLUGCONN-11752,USB_MICROB_PLUGCONN-11752,USB-B-MICRO-SMD_V03,USB Micro-B connectors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "USB-B-MICRO-SMD_V03",
+                    "PACKAGENUMBER": "03",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "USB_MICROB_PLUGCONN-11752",
+                    "VALUENUMBER": "__-11752"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, flame only",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "JP5,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "JP5",
+                    "PARTLETTER": "JP",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RES-00818",
+                    "DEVICE": "330OHM1/10W1%(0603)",
+                    "FULL": "R3,330,330OHM1/10W1%(0603),0603-RES,RES-00818,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RES-08296",
+                    "DEVICE": "2.0KOHM1/10W5%(0603)",
+                    "FULL": "R4,2.0k,2.0KOHM1/10W5%(0603),0603-RES,RES-08296,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603-RES",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.0k",
+                    "VALUENUMBER": "2.0"
+                },
+                "OOMPID": "RESE-0603-X-O202-01"
+            },
+            "S1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "DPDT Version of the COM-00597",
+                    "DEVICE": "SWITCH-DPDTAYZ0202",
+                    "FULL": "S1,DPDT,SWITCH-DPDTAYZ0202,AYZ0202,DPDT Version of the COM-00597,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "AYZ0202",
+                    "PACKAGENUMBER": "0202",
+                    "PART": "S1",
+                    "PARTLETTER": "S",
+                    "VALUE": "DPDT",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "SEW-HOLE-NO-PAD",
+                    "FULL": "STANDOFF1,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SEW-HOLE-NO-PAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF1",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "SEW-HOLE-NO-PAD",
+                    "VALUENUMBER": "---"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "SEW-HOLE-NO-PAD",
+                    "FULL": "STANDOFF2,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SEW-HOLE-NO-PAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF2",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "SEW-HOLE-NO-PAD",
+                    "VALUENUMBER": "---"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "SEW-HOLE-NO-PAD",
+                    "FULL": "STANDOFF3,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SEW-HOLE-NO-PAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF3",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "SEW-HOLE-NO-PAD",
+                    "VALUENUMBER": "---"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "SEW-HOLE-NO-PAD",
+                    "FULL": "STANDOFF4,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,SEW-HOLE-NO-PAD,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SEW-HOLE-NO-PAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF4",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "SEW-HOLE-NO-PAD",
+                    "VALUENUMBER": "---"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LOGO-LPLP",
+                    "FULL": "U$1,LOGO-LPLP,LOGO-LPLP,LOGO-LILYPAD,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LOGO-LILYPAD",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "LOGO-LPLP",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "U$5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "REVISION",
+                    "FULL": "U$6,REVISION,REVISION,REVISION,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "REVISION",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$6",
+                    "PARTLETTER": "U$",
+                    "VALUE": "REVISION",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller",
+                    "DEVICE": "MCP73831",
+                    "FULL": "U1,MCP73831,MCP73831,SOT23-5,Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "MCP73831",
+                    "VALUENUMBER": "73831"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -141,7 +471,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -324,9 +653,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

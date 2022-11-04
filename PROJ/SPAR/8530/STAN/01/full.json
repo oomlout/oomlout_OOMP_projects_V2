@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/Large Digit Shield.brd"
     ],
     "eagleSchem": [
         "/hardware/Large Digit Shield.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Speed_Trap"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR8530"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Speed Trap"
     ],
@@ -121,13 +109,120 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "J1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "J2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI04-01",
-            "JP2": "HEAD-I01-X-PI06-01"
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "N. Seidle",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,N. Seidle,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Shield form compatible with the Arduino Uno R3.",
+                    "DEVICE": "ARDUINO_R3_SHIELD",
+                    "FULL": "J1,ARDUINO_R3_SHIELD,ARDUINO_R3_SHIELD,UNO_R3_SHIELD,Shield form compatible with the Arduino Uno R3.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "UNO_R3_SHIELD",
+                    "PACKAGENUMBER": "3",
+                    "PART": "J1",
+                    "PARTLETTER": "J",
+                    "VALUE": "ARDUINO_R3_SHIELD",
+                    "VALUENUMBER": "_3_"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "J2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "COMPUTER-PERIPHERAL-POWERRA",
+                    "FULL": "J2,Power,COMPUTER-PERIPHERAL-POWERRA,COMPUTER-PERIPHERAL-POWER-RA,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "COMPUTER-PERIPHERAL-POWER-RA",
+                    "PACKAGENUMBER": "",
+                    "PART": "J2",
+                    "PARTLETTER": "J",
+                    "VALUE": "Power",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 4",
+                    "DEVICE": "M04JST-PTH",
+                    "FULL": "JP1,LIDAR,M04JST-PTH,JST-4-PTH,Header 4,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "JST-4-PTH",
+                    "PACKAGENUMBER": "4",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "LIDAR",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI04-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 6",
+                    "DEVICE": "M06SILK_FEMALE_PTH",
+                    "FULL": "JP2,OUT,M06SILK_FEMALE_PTH,1X06,Header 6,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X06",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "OUT",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, name and flame",
+                    "DEVICE": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "FULL": "LOGO1,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SFE Logo, name and flame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_FLAME_.2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "VALUENUMBER": "___.2_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO2,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -136,7 +231,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -199,9 +293,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/SparkFun_Pi_Wedge_40-Pin_PreAssembled.brd"
     ],
     "eagleSchem": [
         "/hardware/SparkFun_Pi_Wedge_40-Pin_PreAssembled.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Pi_Wedge_40-Pin_PreAssembled"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR13717"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Pi Wedge 40 Pin PreAssembled"
     ],
@@ -121,15 +109,280 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C3V": "CAPE-PAND-X-UF47-01",
-            "C5V": "CAPE-PAND-X-UF47-01",
-            "JP1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "JP2": "HEAD-I01-X-PI2X20-01",
-            "JP3": "HEAD-I01-X-PI17-01",
-            "JP4": "HEAD-I01-X-PI17-01"
+            "C3V": {
+                "FULL": {
+                    "BOM": "CAP-10547",
+                    "DESC": "CAP-10547",
+                    "DEVICE": "47UF-50V-20%(ELECT)",
+                    "FULL": "C3V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PANASONIC_D",
+                    "PACKAGENUMBER": "",
+                    "PART": "C3V",
+                    "PARTLETTER": "CV",
+                    "VALUE": "47uf",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "CAPE-PAND-X-UF47-01"
+            },
+            "C5V": {
+                "FULL": {
+                    "BOM": "CAP-10547",
+                    "DESC": "CAP-10547",
+                    "DEVICE": "47UF-50V-20%(ELECT)",
+                    "FULL": "C5V,47uf,47UF-50V-20%(ELECT),PANASONIC_D,CAP-10547,CAP-10547,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "PANASONIC_D",
+                    "PACKAGENUMBER": "",
+                    "PART": "C5V",
+                    "PARTLETTER": "CV",
+                    "VALUE": "47uf",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "CAPE-PAND-X-UF47-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FID1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FID2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,MICRO-FIDUCIAL,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "MICRO-FIDUCIAL",
+                    "PACKAGENUMBER": "",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME2,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME2",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "CONN-08971",
+                    "DESC": "Connector which mates to FTDI basic or FTDI cable.",
+                    "DEVICE": "FTDI_DEVICERA_SMT",
+                    "FULL": "JP1,FTDI Device,FTDI_DEVICERA_SMT,FTDI_DEVICE_RA_SMT,Connector which mates to FTDI basic or FTDI cable.,CONN-08971,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FTDI_DEVICE_RA_SMT",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "FTDI Device",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "CONN-13143",
+                    "DESC": "Second Generation Raspberry Pi GPIO Header",
+                    "DEVICE": "RASPBERRYPI-40-PIN-GPIO-SMT",
+                    "FULL": "JP2,RASPBERRYPI-40-PIN-GPIO-SMT,RASPBERRYPI-40-PIN-GPIO-SMT,2X20-SHROUDED-SMT,Second Generation Raspberry Pi GPIO Header,CONN-13143,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "2X20-SHROUDED-SMT",
+                    "PACKAGENUMBER": "220",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "RASPBERRYPI-40-PIN-GPIO-SMT",
+                    "VALUENUMBER": "-40---"
+                },
+                "OOMPID": "HEAD-I01-X-PI2X20-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "CONN-12294",
+                    "DESC": "1x17 .1 header",
+                    "DEVICE": "M17KIT",
+                    "FULL": "JP3,1x17,M17KIT,1X17_NO_SILK_KIT,1x17 .1 header,CONN-12294,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X17_NO_SILK_KIT",
+                    "PACKAGENUMBER": "117",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "1x17",
+                    "VALUENUMBER": "117"
+                },
+                "OOMPID": "HEAD-I01-X-PI17-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "CONN-12294",
+                    "DESC": "1x17 .1 header",
+                    "DEVICE": "M17KIT",
+                    "FULL": "JP4,1x17,M17KIT,1X17_NO_SILK_KIT,1x17 .1 header,CONN-12294,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X17_NO_SILK_KIT",
+                    "PACKAGENUMBER": "117",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "1x17",
+                    "VALUENUMBER": "117"
+                },
+                "OOMPID": "HEAD-I01-X-PI17-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, name only",
+                    "DEVICE": "SFE_LOGO_NAME.2_INCH",
+                    "FULL": "LOGO1,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME.2_INCH,SFE_LOGO_NAME_.2,SFE Logo, name only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_.2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME.2_INCH",
+                    "VALUENUMBER": "__.2_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, name and flame",
+                    "DEVICE": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "FULL": "LOGO2,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME.2_INCH,SFE_LOGO_NAME_FLAME_.2,SFE Logo, name and flame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_FLAME_.2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME_FLAME.2_INCH",
+                    "VALUENUMBER": "___.2_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, flame only",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "LOGO3,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO3",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SFE Logo, flame only",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "LOGO4,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SFE Logo, flame only,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO4",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open Source Hardware Logo",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO5,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open Source Hardware Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO5",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "STANDOFF1,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF1",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "STANDOFF2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "#4 Stand Off",
+                    "DEVICE": "STAND-OFF",
+                    "FULL": "STANDOFF2,STAND-OFF,STAND-OFF,STAND-OFF,#4 Stand Off,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "STAND-OFF",
+                    "PACKAGENUMBER": "",
+                    "PART": "STANDOFF2",
+                    "PARTLETTER": "STANDOFF",
+                    "VALUE": "STAND-OFF",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Reference markings that correspond to solderless breadboard row spacing.",
+                    "DEVICE": "BREADBOARD_PATTERN",
+                    "FULL": "U$2,BREADBOARD_PATTERN,BREADBOARD_PATTERN,BREADBOARD_SPACING,Reference markings that correspond to solderless breadboard row spacing.,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "BREADBOARD_SPACING",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "BREADBOARD_PATTERN",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -138,7 +391,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -281,9 +533,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

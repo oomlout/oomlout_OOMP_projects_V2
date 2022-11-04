@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Hardware/SparkFun_RF_Transceiver-RFM22B.brd"
     ],
     "eagleSchem": [
         "/Hardware/SparkFun_RF_Transceiver-RFM22B.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "RF_Transceiver_Breakout-RFM22B"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR10154"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "RF Transceiver Breakout RFM22B"
     ],
@@ -121,15 +109,136 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "JP0": "HEAD-I01-X-PI02-01",
-            "JP2": "HEAD-I01-X-PI01-01",
-            "JP3": "HEAD-I01-X-PI03-01",
-            "JP4": "HEAD-I01-X-PI05-01",
-            "JP5": "HEAD-I01-X-PI02-01",
-            "RFM22-XXX-S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "JP0": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP0,POWER,M02PTH,1X02,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP0",
+                    "PARTLETTER": "JP",
+                    "VALUE": "POWER",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Spark Fun Electronics PCB Logo",
+                    "DEVICE": "LOGO-SFENEW",
+                    "FULL": "JP1,LOGO-SFENEW,LOGO-SFENEW,SFE-NEW-WEBLOGO,Spark Fun Electronics PCB Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE-NEW-WEBLOGO",
+                    "PACKAGENUMBER": "",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "LOGO-SFENEW",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 1",
+                    "DEVICE": "M01PTH",
+                    "FULL": "JP2,ANT,M01PTH,1X01,Header 1,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "ANT",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 3",
+                    "DEVICE": "M03PTH",
+                    "FULL": "JP3,GPIO,M03PTH,1X03,Header 3,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X03",
+                    "PACKAGENUMBER": "103",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "GPIO",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI03-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 5",
+                    "DEVICE": "M05PTH",
+                    "FULL": "JP4,SPI,M05PTH,1X05,Header 5,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X05",
+                    "PACKAGENUMBER": "105",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "SPI",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI05-01"
+            },
+            "JP5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 2",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP5,RX/TX-ANT,M02PTH,1X02,Header 2,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP5",
+                    "PARTLETTER": "JP",
+                    "VALUE": "RX/TX-ANT",
+                    "VALUENUMBER": "/-"
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "RFM22-XXX-S2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "*Hope RFs RFM22*",
+                    "DEVICE": "RFM22",
+                    "FULL": "RFM22-XXX-S2,RFM22,RFM22,RFM22-XXX-S2,*Hope RFs RFM22*,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "RFM22-XXX-S2",
+                    "PACKAGENUMBER": "222",
+                    "PART": "RFM22-XXX-S2",
+                    "PARTLETTER": "RFM-XXX-S",
+                    "VALUE": "RFM22",
+                    "VALUENUMBER": "22"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CREATIVE_COMMONS",
+                    "FULL": "U$1,CREATIVE_COMMONS,CREATIVE_COMMONS,CREATIVE_COMMONS,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "CREATIVE_COMMONS",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -138,7 +247,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -209,9 +317,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

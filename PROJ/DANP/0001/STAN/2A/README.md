@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0001 > Bus Pirate Ultra 2A
 
 - ID: PROJ-DANP-0001-STAN-2A
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|BPUv2a/BPUv2a.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

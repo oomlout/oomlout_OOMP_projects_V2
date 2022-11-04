@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit RGB Matrix FeatherWing nRF52.brd"
     ],
     "eagleSchem": [
         "/Adafruit RGB Matrix FeatherWing nRF52.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-RGB-Matrix-FeatherWing-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR4702"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit RGB Matrix FeatherWing PCB"
     ],
@@ -121,22 +109,264 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C6": "CAPC-0805-X-UF10-V25",
-            "C7": "CAPC-0805-X-UF10-V25",
-            "IC2": "VREG-SO235-X-KLP298XS-V33D",
-            "JP1": "HEAD-I01-X-PI12-01",
-            "JP15": "HEAD-I01-X-PI2X08-01",
-            "JP2": "HEAD-I01-X-PI08-01",
-            "JP3": "HEAD-I01-X-PI08-01",
-            "JP4": "HEAD-I01-X-PI16-01",
-            "Q2": "MOSP-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-0603-X-O1003-01",
-            "SW1": "BUTA-4628-X-STAN-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C6,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C7,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C7",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID3": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID3,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID3",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LP298XS",
+                    "FULL": "IC2,AP2112K-3.3,LP298XS,SOT23-5L,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5L",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "AP2112K-3.3",
+                    "VALUENUMBER": "2112-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KLP298XS-V33D"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-1X12",
+                    "FULL": "JP1,,HEADER-1X12,1X12_ROUND,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X12_ROUND",
+                    "PACKAGENUMBER": "112",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI12-01"
+            },
+            "JP15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-2X8_SHROUDED",
+                    "FULL": "JP15,Shrouded 2x8,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "2X08_SHROUDED",
+                    "PACKAGENUMBER": "208",
+                    "PART": "JP15",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Shrouded 2x8",
+                    "VALUENUMBER": " 28"
+                },
+                "OOMPID": "HEAD-I01-X-PI2X08-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X870MIL",
+                    "FULL": "JP2,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08_ROUND_70",
+                    "PACKAGENUMBER": "10870",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X870MIL",
+                    "FULL": "JP3,,HEADER-1X870MIL,1X08_ROUND_70,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08_ROUND_70",
+                    "PACKAGENUMBER": "10870",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X16ROUND",
+                    "FULL": "JP4,,HEADER-1X16ROUND,1X16_ROUND,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X16_ROUND",
+                    "PACKAGENUMBER": "116",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI16-01"
+            },
+            "MS1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "FEATHERWING",
+                    "FULL": "MS1,FEATHERWING,FEATHERWING,FEATHERWING,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FEATHERWING",
+                    "PACKAGENUMBER": "",
+                    "PART": "MS1",
+                    "PARTLETTER": "MS",
+                    "VALUE": "FEATHERWING",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "P-Channel Mosfet",
+                    "DEVICE": "MOSFET-P-POWERDI3333",
+                    "FULL": "Q2,AON7401,MOSFET-P-POWERDI3333,POWERDI3333,P-Channel Mosfet,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "POWERDI3333",
+                    "PACKAGENUMBER": "3333",
+                    "PART": "Q2",
+                    "PARTLETTER": "Q",
+                    "VALUE": "AON7401",
+                    "VALUENUMBER": "7401"
+                },
+                "OOMPID": "MOSP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R1,100K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0603-X-O1003-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "DC Barrel Jack",
+                    "DEVICE": "DCBARRELPTH",
+                    "FULL": "X1,,DCBARRELPTH,DCJACK_2MM_PTH,DC Barrel Jack,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "DCJACK_2MM_PTH",
+                    "PACKAGENUMBER": "2",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X2_5.08MM",
+                    "FULL": "X2,,TERMBLOCK_1X2_5.08MM,TERMBLOCK_508_1X2,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_508_1X2",
+                    "PACKAGENUMBER": "50812",
+                    "PART": "X2",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -145,7 +375,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -280,9 +509,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

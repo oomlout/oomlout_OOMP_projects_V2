@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/hardware/femtobuck.brd"
     ],
     "eagleSchem": [
         "/hardware/femtobuck.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "FemtoBuck"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR13716"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "FemtoBuck"
     ],
@@ -121,19 +109,264 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-1206-X-UF1-01",
-            "C2": "CAPC-1206-X-UF22D-01",
-            "CH1": "TERS-35D-L-PI02-01",
-            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "JP1": "HEAD-I01-X-PI04-01",
-            "JP2": "HEAD-I01-X-PI02-01",
-            "L1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "R1": "RESE-0805-X-UNMATCHED-01",
-            "R2": "RESE-0805-X-UNMATCHED-01",
-            "U1": "UNMATCHED-SO235-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAP-09822",
+                    "DEVICE": "1.0UF50V10%(1206)",
+                    "FULL": "C1,1uF,1.0UF50V10%(1206),1206-CAP,CAP-09822,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1206-CAP",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-1206-X-UF1-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAP-10009",
+                    "DEVICE": "2.2UF50V10%(1206)",
+                    "FULL": "C2,2.2uF,2.2UF50V10%(1206),1206-CAP,CAP-10009,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1206-CAP",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "2.2uF",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "CAPC-1206-X-UF22D-01"
+            },
+            "CH1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections",
+                    "DEVICE": "CONN_023.5MM_LOCK",
+                    "FULL": "CH1,,CONN_023.5MM_LOCK,SCREWTERMINAL-3.5MM-2_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SCREWTERMINAL-3.5MM-2_LOCK",
+                    "PACKAGENUMBER": "352",
+                    "PART": "CH1",
+                    "PARTLETTER": "CH",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schottky diodes in SFEs production catalog",
+                    "DEVICE": "DIODE-SCHOTTKY-MBRA140",
+                    "FULL": "D1,MBRA140,DIODE-SCHOTTKY-MBRA140,SMA-DIODE,Schottky diodes in SFEs production catalog,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMA-DIODE",
+                    "PACKAGENUMBER": "",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "MBRA140",
+                    "VALUENUMBER": "140"
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID1,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2",
+                    "FULL": "FID2,FIDUCIAL1X2,FIDUCIAL1X2,FIDUCIAL-1X2,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-1X2",
+                    "PACKAGENUMBER": "12",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2",
+                    "VALUENUMBER": "12"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame - Letter",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Header 4",
+                    "DEVICE": "M04PTH",
+                    "FULL": "JP1,,M04PTH,1X04,Header 4,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X04",
+                    "PACKAGENUMBER": "104",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI04-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Standard 2-pin 0.1 header. Use with",
+                    "DEVICE": "M02PTH",
+                    "FULL": "JP2,M02PTH,M02PTH,1X02@1,Standard 2-pin 0.1 header. Use with,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "1X02@1",
+                    "PACKAGENUMBER": "1021",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "M02PTH",
+                    "VALUENUMBER": "02"
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Inductors",
+                    "DEVICE": "INDUCTOR-SRN6045-33UH",
+                    "FULL": "L1,33UH/\u00b120%/1.4A,INDUCTOR-SRN6045-33UH,SRN6045,Inductors,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SRN6045",
+                    "PACKAGENUMBER": "6045",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "33UH/\u00b120%/1.4A",
+                    "VALUENUMBER": "33/\u00b120%/1.4"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open-Source Hardware (OSHW) Logo",
+                    "DEVICE": "OSHW-LOGOS",
+                    "FULL": "LOGO1,OSHW-LOGOS,OSHW-LOGOS,OSHW-LOGO-S,Open-Source Hardware (OSHW) Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-S",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOS",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Font Logo w/ Flame",
+                    "DEVICE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "FULL": "LOGO2,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME.1_INCH,SFE_LOGO_NAME_FLAME_.1,SparkFun Font Logo w/ Flame,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME_FLAME.1_INCH",
+                    "VALUENUMBER": "___.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RES-11622",
+                    "DEVICE": "0.3OHM-1/8W-1%(0805)",
+                    "FULL": "R1,0.3R,0.3OHM-1/8W-1%(0805),0805,RES-11622,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "0.3R",
+                    "VALUENUMBER": "0.3"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RES-11622",
+                    "DEVICE": "0.3OHM-1/8W-1%(0805)",
+                    "FULL": "R2,0.3R,0.3OHM-1/8W-1%(0805),0805,RES-11622,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "0.3R",
+                    "VALUENUMBER": "0.3"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Normally open jumper",
+                    "DEVICE": "JUMPER-SMT_2_NO_NO-SILK",
+                    "FULL": "SJ2,NO Jumper,JUMPER-SMT_2_NO_NO-SILK,SMT-JUMPER_2_NO_NO-SILK,Normally open jumper,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SMT-JUMPER_2_NO_NO-SILK",
+                    "PACKAGENUMBER": "2",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "NO Jumper",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "AL8860",
+                    "FULL": "U1,AL8860,AL8860,SOT23-5,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "AL8860",
+                    "VALUENUMBER": "8860"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -142,7 +375,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -277,9 +509,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

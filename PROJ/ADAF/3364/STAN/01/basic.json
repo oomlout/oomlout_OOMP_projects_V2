@@ -44,17 +44,262 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "C3": "CAPC-0805-X-UF10-V25",
-            "C4": "CAPC-0603-X-UF1-V25",
-            "C5": "CAPC-0603-X-UF1-V25",
-            "C8": "CAPC-0805-X-UF10-V25",
-            "CN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "LED2": "LEDS-2020-RGB-K102-01",
-            "Q2": "BUTA-4628-X-STAN-01",
-            "R4": "RESE-0603-X-O222-01",
-            "U1": "VREG-SO235-X-KAP2112K-V33D"
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C3,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0603_NO",
+                    "FULL": "C4,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0603_NO",
+                    "FULL": "C5,1uF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C8,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C8",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "CN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB - Type A Connectors",
+                    "DEVICE": "USB_TYPEAPCB",
+                    "FULL": "CN1,,USB_TYPEAPCB,USBA_PCB,USB - Type A Connectors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "USBA_PCB",
+                    "PACKAGENUMBER": "",
+                    "PART": "CN1",
+                    "PARTLETTER": "CN",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID1,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL_1MM",
+                    "FULL": "FID2,FIDUCIAL_1MM,FIDUCIAL_1MM,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL_1MM",
+                    "VALUENUMBER": "_1"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Vishay TSOP75XYY, where X is 2 (normal), or 4 (high noise environments, and YY is the demodulation frequency (36, 38, 40 KHz).",
+                    "DEVICE": "TSOP75XYY",
+                    "FULL": "IC2,TSOP75XYY,TSOP75XYY,TSOP75XYY,Vishay TSOP75XYY, where X is 2 (normal), or 4 (high noise environments, and YY is the demodulation frequency (36, 38, 40 KHz).,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TSOP75XYY",
+                    "PACKAGENUMBER": "75",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "TSOP75XYY",
+                    "VALUENUMBER": "75"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ATSAMD21E",
+                    "FULL": "IC3,ATSAMD21E,ATSAMD21E,QFN32_5MM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "QFN32_5MM",
+                    "PACKAGENUMBER": "325",
+                    "PART": "IC3",
+                    "PARTLETTER": "IC",
+                    "VALUE": "ATSAMD21E",
+                    "VALUENUMBER": "21"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "APA102/DotStar Pixels",
+                    "DEVICE": "APA1022020",
+                    "FULL": "LED2,AP102-2020,APA1022020,APA102_2020,APA102/DotStar Pixels,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "APA102_2020",
+                    "PACKAGENUMBER": "1022020",
+                    "PART": "LED2",
+                    "PARTLETTER": "LED",
+                    "VALUE": "AP102-2020",
+                    "VALUENUMBER": "102-2020"
+                },
+                "OOMPID": "LEDS-2020-RGB-K102-01"
+            },
+            "Q2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "Q2,reset,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "Q2",
+                    "PARTLETTER": "Q",
+                    "VALUE": "reset",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R4,2.2K,RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "2.2K",
+                    "VALUENUMBER": "2.2"
+                },
+                "OOMPID": "RESE-0603-X-O222-01"
+            },
+            "RST": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test pad",
+                    "DEVICE": "TPTP16R",
+                    "FULL": "RST,TPTP16R,TPTP16R,TP16R,Test pad,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TP16R",
+                    "PACKAGENUMBER": "16",
+                    "PART": "RST",
+                    "PARTLETTER": "RST",
+                    "VALUE": "TPTP16R",
+                    "VALUENUMBER": "16"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SWC": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test pad",
+                    "DEVICE": "TPTP15R",
+                    "FULL": "SWC,TPTP15R,TPTP15R,TP15R,Test pad,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TP15R",
+                    "PACKAGENUMBER": "15",
+                    "PART": "SWC",
+                    "PARTLETTER": "SWC",
+                    "VALUE": "TPTP15R",
+                    "VALUENUMBER": "15"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SWD": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test pad",
+                    "DEVICE": "TPTP16R",
+                    "FULL": "SWD,TPTP16R,TPTP16R,TP16R,Test pad,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TP16R",
+                    "PACKAGENUMBER": "16",
+                    "PART": "SWD",
+                    "PARTLETTER": "SWD",
+                    "VALUE": "TPTP16R",
+                    "VALUENUMBER": "16"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SOT23-5 Fixed Voltage Regulators",
+                    "DEVICE": "VREG_SOT23-5",
+                    "FULL": "U1,AP2112K-3.3,VREG_SOT23-5,SOT23-5,SOT23-5 Fixed Voltage Regulators,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "AP2112K-3.3",
+                    "VALUENUMBER": "2112-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KAP2112K-V33D"
+            }
         }
     ],
     "oompSize": [

@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR5632 > Adafruit QSPI DIP Breakout PCB
 
 - ID: PROJ-ADAF-5632-STAN-01
@@ -30,7 +30,10 @@ NO IMAGE
 | :--- | :--- | :--- |
 ||||
   
-NO IMAGES  
+
+|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5632/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5632/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5632/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5632/STAN/01/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/5632/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5632/STAN/01/kicadPcb3d.png)||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -49,4 +52,9 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Adafruit QSPI DIP Breakout.brd|
 |eagleSchem|eagleSchem|/Adafruit QSPI DIP Breakout.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FID1'</td><td> 'Value'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Device'</td></tr><tr><td> 'FIDUCIAL_1MM FIDUCIAL_1MM'</td><td> 'Package'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'GENERIC QSPI'</td><td> 'Device'</td></tr><tr><td> 'SOIC8_208MIL GENERIC QSPI'</td><td> 'Package'</td></tr><tr><td> 'SOIC8_208MIL'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP3'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP2'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$4'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'ADAFRUIT_2.5MM '</td><td> 'Package'</td></tr><tr><td> 'ADAFRUIT_2.5MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'FID1'</td><td> 'Value'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Device'</td></tr><tr><td> 'FIDUCIAL_1MM FIDUCIAL_1MM'</td><td> 'Package'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'GENERIC QSPI'</td><td> 'Device'</td></tr><tr><td> 'SOIC8_208MIL GENERIC QSPI'</td><td> 'Package'</td></tr><tr><td> 'SOIC8_208MIL'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP3'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP2'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$4'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'ADAFRUIT_2.5MM '</td><td> 'Package'</td></tr><tr><td> 'ADAFRUIT_2.5MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'FID1'</td><td> 'Value'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Device'</td></tr><tr><td> 'FIDUCIAL_1MM FIDUCIAL_1MM'</td><td> 'Package'</td></tr><tr><td> 'FIDUCIAL_1MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U1'</td><td> 'Value'</td></tr><tr><td> 'GENERIC QSPI'</td><td> 'Device'</td></tr><tr><td> 'SOIC8_208MIL GENERIC QSPI'</td><td> 'Package'</td></tr><tr><td> 'SOIC8_208MIL'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP3'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'JP2'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '1X04_ROUND_76 '</td><td> 'Package'</td></tr><tr><td> '1X04_ROUND_76'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$4'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'ADAFRUIT_2.5MM '</td><td> 'Package'</td></tr><tr><td> 'ADAFRUIT_2.5MM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td><td> 'eagleBom'</td></tr><tr><td> []</td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

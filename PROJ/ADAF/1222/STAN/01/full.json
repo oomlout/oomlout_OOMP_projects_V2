@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Gemma rev B.brd"
     ],
     "eagleSchem": [
         "/Adafruit Gemma rev B.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-Gemma-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR1222"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit Gemma PCB"
     ],
@@ -121,25 +109,408 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "BOOT": "LEDS-0805-R-STAN-01",
-            "C1": "CAPC-0805-X-UF10-V25",
-            "C8": "CAPC-0805-X-UF10-V25",
-            "CN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "D2": "DIOD-S123-X-UNMATCHED-01",
-            "D3": "DIOD-S123-X-UNMATCHED-01",
-            "IC2": "VREG-SO235-X-KMIC5225-V33D",
-            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "PWR": "LEDS-0805-G-STAN-01",
-            "Q1": "BUTA-4628-X-STAN-01",
-            "R1": "RESE-0603-X-UNMATCHED-01",
-            "R2": "RESE-0603-X-UNMATCHED-01",
-            "R3": "RESE-0603-X-UNMATCHED-01",
-            "R4": "RESE-0603-X-O471-01",
-            "R5": "RESE-0603-X-O471-01",
-            "X2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "3V3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "3V3,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "3V3",
+                    "PARTLETTER": "V",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "B0": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "B0,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "B0",
+                    "PARTLETTER": "B",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "B1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "B1,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "B1",
+                    "PARTLETTER": "B",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "B2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "B2,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "B2",
+                    "PARTLETTER": "B",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "BOOT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "BOOT,red,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "BOOT",
+                    "PARTLETTER": "BOOT",
+                    "VALUE": "red",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C1,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
+                    "FULL": "C8,10uF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0805-NO",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C8",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "CN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "JST 2-Pin Connectors of various flavors",
+                    "DEVICE": "JST_2PIN-SMT-RA",
+                    "FULL": "CN1,JST-PH,JST_2PIN-SMT-RA,JST-PH-2-SMT-RA,JST 2-Pin Connectors of various flavors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JST-PH-2-SMT-RA",
+                    "PACKAGENUMBER": "2",
+                    "PART": "CN1",
+                    "PARTLETTER": "CN",
+                    "VALUE": "JST-PH",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODE_SOD-123FL",
+                    "FULL": "D2,SCHOTTKY,DIODE_SOD-123FL,SOD-123FL,Diode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOD-123FL",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "SCHOTTKY",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-S123-X-UNMATCHED-01"
+            },
+            "D3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Diode",
+                    "DEVICE": "DIODE_SOD-123FL",
+                    "FULL": "D3,SCHOTTKY,DIODE_SOD-123FL,SOD-123FL,Diode,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOD-123FL",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D3",
+                    "PARTLETTER": "D",
+                    "VALUE": "SCHOTTKY",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-S123-X-UNMATCHED-01"
+            },
+            "GND": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "GND,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "GND",
+                    "PARTLETTER": "GND",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LP298XS",
+                    "FULL": "IC2,MIC5225-3.3v,LP298XS,SOT23-5L,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5L",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "MIC5225-3.3v",
+                    "VALUENUMBER": "5225-3.3"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5225-V33D"
+            },
+            "IC3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "MICROCONTROLLER",
+                    "DEVICE": "ATTINY85V-10S",
+                    "FULL": "IC3,ATTINY85,ATTINY85V-10S,SOIC8,MICROCONTROLLER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOIC8",
+                    "PACKAGENUMBER": "8",
+                    "PART": "IC3",
+                    "PARTLETTER": "IC",
+                    "VALUE": "ATTINY85",
+                    "VALUENUMBER": "85"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "PWR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "PWR,green,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "PWR",
+                    "PARTLETTER": "PWR",
+                    "VALUE": "green",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "Q1,reset,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "reset",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R1,68 (0603),RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "68 (0603)",
+                    "VALUENUMBER": "68 (0603)"
+                },
+                "OOMPID": "RESE-0603-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R2,68 (0603),RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "68 (0603)",
+                    "VALUENUMBER": "68 (0603)"
+                },
+                "OOMPID": "RESE-0603-X-UNMATCHED-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R3,1.5K (0603),RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.5K (0603)",
+                    "VALUENUMBER": "1.5 (0603)"
+                },
+                "OOMPID": "RESE-0603-X-UNMATCHED-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R4,470 (0603),RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "470 (0603)",
+                    "VALUENUMBER": "470 (0603)"
+                },
+                "OOMPID": "RESE-0603-X-O471-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0603_NOOUT",
+                    "FULL": "R5,470 (0603),RESISTOR_0603_NOOUT,0603-NO,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "0603-NO",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "470 (0603)",
+                    "VALUENUMBER": "470 (0603)"
+                },
+                "OOMPID": "RESE-0603-X-O471-01"
+            },
+            "TP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Test pad",
+                    "DEVICE": "TPB2,54",
+                    "FULL": "TP1,TPB2,54,TPB2,54,B2,54,Test pad,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "B2,54",
+                    "PACKAGENUMBER": "254",
+                    "PART": "TP1",
+                    "PARTLETTER": "TP",
+                    "VALUE": "TPB2,54",
+                    "VALUENUMBER": "2,54"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$6,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$6",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "VBAT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SEWTAP-2.0IN",
+                    "FULL": "VBAT,SEWTAP-2.0IN,SEWTAP-2.0IN,SEWINGTAP_2.0,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SEWINGTAP_2.0",
+                    "PACKAGENUMBER": "20",
+                    "PART": "VBAT",
+                    "PARTLETTER": "VBAT",
+                    "VALUE": "SEWTAP-2.0IN",
+                    "VALUENUMBER": "-2.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB Connectors",
+                    "DEVICE": "USB_MEDIUM",
+                    "FULL": "X2,MiniB,USB_MEDIUM,USB-MINI_MEDIUM,USB Connectors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "USB-MINI_MEDIUM",
+                    "PACKAGENUMBER": "",
+                    "PART": "X2",
+                    "PARTLETTER": "X",
+                    "VALUE": "MiniB",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -148,7 +519,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -355,9 +725,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

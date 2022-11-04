@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0031 > FT230V2 SirUSB
 
 - ID: PROJ-SIRB-0031-STAN-02
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|FT230V2/FT230V2.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png

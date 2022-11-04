@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit RGB Matrix Shield.brd"
     ],
     "eagleSchem": [
         "/Adafruit RGB Matrix Shield.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-RGB-Matrix-Shield-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR2601"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit RGB Matrix Shield PCB"
     ],
@@ -121,18 +109,376 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "JP1": "HEAD-I01-X-PI08-01",
-            "JP15": "HEAD-I01-X-PI2X08-01",
-            "JP2": "HEAD-I01-X-PI08-01",
-            "JP3": "HEAD-I01-X-PI08-01",
-            "JP4": "HEAD-I01-X-PI08-01",
-            "JP6": "HEAD-I01-X-PI10-01",
-            "JP8": "HEAD-I01-X-PI06-01",
-            "MATRIX_PWR": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "S4": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "JP1,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-2X8_SHROUDED",
+                    "FULL": "JP15,Shrouded 2x8,HEADER-2X8_SHROUDED,2X08_SHROUDED,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "2X08_SHROUDED",
+                    "PACKAGENUMBER": "208",
+                    "PART": "JP15",
+                    "PARTLETTER": "JP",
+                    "VALUE": "Shrouded 2x8",
+                    "VALUENUMBER": " 28"
+                },
+                "OOMPID": "HEAD-I01-X-PI2X08-01"
+            },
+            "JP2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X876MIL",
+                    "FULL": "JP2,,HEADER-1X876MIL,1X08_ROUND_76,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08_ROUND_76",
+                    "PACKAGENUMBER": "10876",
+                    "PART": "JP2",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X876MIL",
+                    "FULL": "JP3,,HEADER-1X876MIL,1X08_ROUND_76,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08_ROUND_76",
+                    "PACKAGENUMBER": "10876",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "JP4,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "JP4",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "JP6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X1070MIL",
+                    "FULL": "JP6,,HEADER-1X1070MIL,1X10_ROUND70,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X10_ROUND70",
+                    "PACKAGENUMBER": "11070",
+                    "PART": "JP6",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI10-01"
+            },
+            "JP8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CB",
+                    "FULL": "JP8,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEANBIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "JP8",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "MATRIX_PWR": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "PINHEAD",
+                    "FULL": "MATRIX_PWR,PINHEAD,PINHEAD,TERMBLOCK508,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK508",
+                    "PACKAGENUMBER": "508",
+                    "PART": "MATRIX_PWR",
+                    "PARTLETTER": "MATRIX_PWR",
+                    "VALUE": "PINHEAD",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OMRON SWITCH",
+                    "DEVICE": "10-XX",
+                    "FULL": "S4,6mm,10-XX,B3F-10XX,OMRON SWITCH,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "B3F-10XX",
+                    "PACKAGENUMBER": "310",
+                    "PART": "S4",
+                    "PARTLETTER": "S",
+                    "VALUE": "6mm",
+                    "VALUENUMBER": "6"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ1,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ1",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ10,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ10",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ12,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ12",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ13,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ13",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ14,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ14",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ2,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ2",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ3,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ3",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ4,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ4",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ5,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ5",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ6,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ6",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ7,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ7",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ8,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ8",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "SJ9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Solder JUMPER",
+                    "DEVICE": "SOLDERJUMPERCLOSED",
+                    "FULL": "SJ9,,SOLDERJUMPERCLOSED,SOLDERJUMPER_CLOSEDWIRE,SMD Solder JUMPER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOLDERJUMPER_CLOSEDWIRE",
+                    "PACKAGENUMBER": "",
+                    "PART": "SJ9",
+                    "PARTLETTER": "SJ",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$41": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "ARDUINO_R3_ICSP_NODIM",
+                    "FULL": "U$41,ARDUINO_R3_ICSP_NODIM,ARDUINO_R3_ICSP_NODIM,ARDUINOR3_ICSP_NODIM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ARDUINOR3_ICSP_NODIM",
+                    "PACKAGENUMBER": "3",
+                    "PART": "U$41",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ARDUINO_R3_ICSP_NODIM",
+                    "VALUENUMBER": "_3__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -141,7 +487,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -332,9 +677,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

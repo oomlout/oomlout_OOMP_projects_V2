@@ -44,18 +44,678 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "D2": "LEDS-1206-R-STAN-01",
-            "D3": "LEDS-1206-G-STAN-01",
-            "D4": "LEDS-1206-L-STAN-01",
-            "D5": "LEDS-1206-Y-STAN-01",
-            "D6": "LEDS-1206-G-STAN-01",
-            "D9": "LEDS-1206-G-STAN-01",
-            "R2": "RESE-0603-X-O331-01",
-            "R3": "RESE-0603-X-O331-01",
-            "R4": "RESE-0603-X-O151-01",
-            "R5": "RESE-0603-X-O331-01",
-            "R6": "RESE-0603-X-O151-01",
-            "R7": "RESE-0603-X-O331-01"
+            "D2": {
+                "FULL": {
+                    "BOM": "DIO-09912",
+                    "DESC": "Red SMD LED",
+                    "DEVICE": "LED-RED1206",
+                    "FULL": "D2,RED,LED-RED1206,LED-1206,Red SMD LED,DIO-09912,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-R-STAN-01"
+            },
+            "D3": {
+                "FULL": {
+                    "BOM": "DIO-09955",
+                    "DESC": "White SMD LED",
+                    "DEVICE": "LED-WHITE1206",
+                    "FULL": "D3,WHITE,LED-WHITE1206,LED-1206,White SMD LED,DIO-09955,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D3",
+                    "PARTLETTER": "D",
+                    "VALUE": "WHITE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-G-STAN-01"
+            },
+            "D4": {
+                "FULL": {
+                    "BOM": "DIO-09911",
+                    "DESC": "Blue SMD LED",
+                    "DEVICE": "LED-BLUE1206",
+                    "FULL": "D4,BLUE,LED-BLUE1206,LED-1206,Blue SMD LED,DIO-09911,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D4",
+                    "PARTLETTER": "D",
+                    "VALUE": "BLUE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-L-STAN-01"
+            },
+            "D5": {
+                "FULL": {
+                    "BOM": "DIO-09909",
+                    "DESC": "Yellow SMD LED",
+                    "DEVICE": "LED-YELLOWLILYPAD",
+                    "FULL": "D5,Yellow,LED-YELLOWLILYPAD,LED-1206,Yellow SMD LED,DIO-09909,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D5",
+                    "PARTLETTER": "D",
+                    "VALUE": "Yellow",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-Y-STAN-01"
+            },
+            "D6": {
+                "FULL": {
+                    "BOM": "DIO-00862",
+                    "DESC": "Green SMD LED",
+                    "DEVICE": "LED-GREEN1206",
+                    "FULL": "D6,GREEN,LED-GREEN1206,LED-1206,Green SMD LED,DIO-00862,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D6",
+                    "PARTLETTER": "D",
+                    "VALUE": "GREEN",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-G-STAN-01"
+            },
+            "D9": {
+                "FULL": {
+                    "BOM": "DIO-09955",
+                    "DESC": "White SMD LED",
+                    "DEVICE": "LED-WHITE1206",
+                    "FULL": "D9,WHITE,LED-WHITE1206,LED-1206,White SMD LED,DIO-09955,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "LED-1206",
+                    "PACKAGENUMBER": "1206",
+                    "PART": "D9",
+                    "PARTLETTER": "D",
+                    "VALUE": "WHITE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-1206-G-STAN-01"
+            },
+            "FD1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD1,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD1",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD2,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD2",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD3,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD3",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FD4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIALUFIDUCIAL",
+                    "FULL": "FD4,FIDUCIALUFIDUCIAL,FIDUCIALUFIDUCIAL,FIDUCIAL-MICRO,Fiducial Alignment Points,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "FIDUCIAL-MICRO",
+                    "PACKAGENUMBER": "",
+                    "PART": "FD4",
+                    "PARTLETTER": "FD",
+                    "VALUE": "FIDUCIALUFIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FRAME1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Schematic Frame - Letter",
+                    "DEVICE": "FRAME-LETTER",
+                    "FULL": "FRAME1,FRAME-LETTER,FRAME-LETTER,CREATIVE_COMMONS,Schematic Frame - Letter,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "CREATIVE_COMMONS",
+                    "PACKAGENUMBER": "",
+                    "PART": "FRAME1",
+                    "PARTLETTER": "FRAME",
+                    "VALUE": "FRAME-LETTER",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Flame Logo",
+                    "DEVICE": "SFE_LOGO_FLAME.1_INCH",
+                    "FULL": "LOGO1,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME.1_INCH,SFE_LOGO_FLAME_.1,SparkFun Flame Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_FLAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_FLAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open-Source Hardware (OSHW) Logo",
+                    "DEVICE": "OSHW-LOGOMINI",
+                    "FULL": "LOGO15,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO15",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOMINI",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO16": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SparkFun Font Logo",
+                    "DEVICE": "SFE_LOGO_NAME.1_INCH",
+                    "FULL": "LOGO16,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME.1_INCH,SFE_LOGO_NAME_.1,SparkFun Font Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "SFE_LOGO_NAME_.1",
+                    "PACKAGENUMBER": "1",
+                    "PART": "LOGO16",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "SFE_LOGO_NAME.1_INCH",
+                    "VALUENUMBER": "__.1_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Open-Source Hardware (OSHW) Logo",
+                    "DEVICE": "OSHW-LOGOMINI",
+                    "FULL": "LOGO2,OSHW-LOGOMINI,OSHW-LOGOMINI,OSHW-LOGO-MINI,Open-Source Hardware (OSHW) Logo,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "OSHW-LOGO-MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO2",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "OSHW-LOGOMINI",
+                    "VALUENUMBER": "-"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LOGO8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Revision By Text",
+                    "DEVICE": "REVISION",
+                    "FULL": "LOGO8,REVISION,REVISION,REVISION,Revision By Text,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "REVISION",
+                    "PACKAGENUMBER": "",
+                    "PART": "LOGO8",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "REVISION",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "330\u03a9 resistor",
+                    "DEVICE": "330OHM-0603-1/10W-1%",
+                    "FULL": "R2,330,330OHM-0603-1/10W-1%,0603,330\u03a9 resistor,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "330\u03a9 resistor",
+                    "DEVICE": "330OHM-0603-1/10W-1%",
+                    "FULL": "R3,330,330OHM-0603-1/10W-1%,0603,330\u03a9 resistor,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "RES-11028",
+                    "DESC": "150\u03a9 resistor",
+                    "DEVICE": "150OHM-0603-1/10W-1%",
+                    "FULL": "R4,150,150OHM-0603-1/10W-1%,0603,150\u03a9 resistor,RES-11028,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "150",
+                    "VALUENUMBER": "150"
+                },
+                "OOMPID": "RESE-0603-X-O151-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "330\u03a9 resistor",
+                    "DEVICE": "330OHM-0603-1/10W-1%",
+                    "FULL": "R5,330,330OHM-0603-1/10W-1%,0603,330\u03a9 resistor,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "RES-11028",
+                    "DESC": "150\u03a9 resistor",
+                    "DEVICE": "150OHM-0603-1/10W-1%",
+                    "FULL": "R6,150,150OHM-0603-1/10W-1%,0603,150\u03a9 resistor,RES-11028,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "150",
+                    "VALUENUMBER": "150"
+                },
+                "OOMPID": "RESE-0603-X-O151-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "RES-00818",
+                    "DESC": "330\u03a9 resistor",
+                    "DEVICE": "330OHM-0603-1/10W-1%",
+                    "FULL": "R7,330,330OHM-0603-1/10W-1%,0603,330\u03a9 resistor,RES-00818,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "330",
+                    "VALUENUMBER": "330"
+                },
+                "OOMPID": "RESE-0603-X-O331-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$1,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$10,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$10",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$11,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$11",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$13,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$13",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$16": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$16,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$16",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$18": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$18,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$18",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$19": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$19,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$19",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$2,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$20": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$20,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$20",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$21": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$21,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$21",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$28": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$28,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$28",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$3,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$30": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$30,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$30",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$32": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$32,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$32",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$33": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$33,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$33",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$34": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$34,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$34",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$38": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$38,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$38",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$6,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$6",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$7,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$7",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "TAB_GATOR_MINI",
+                    "FULL": "U$8,TAB_GATOR_MINI,TAB_GATOR_MINI,TAB_GATOR_MINI,,,",
+                    "OWNER": "SPAR",
+                    "PACKAGE": "TAB_GATOR_MINI",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$8",
+                    "PARTLETTER": "U$",
+                    "VALUE": "TAB_GATOR_MINI",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

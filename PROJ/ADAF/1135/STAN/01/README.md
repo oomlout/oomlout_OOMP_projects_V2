@@ -28,7 +28,7 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|HEAD-I01-X-UNMATCHED-01|JP1,|
+|![]()|HEAD-I01-X-UNMATCHED-01||
 ||||
   
 
@@ -54,7 +54,7 @@ Contents
 |gitName|gitName|Adafruit-Perma-Proto-Pi-PCBs|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Pi - Full Size.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Pi - Full Size.sch|
-|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> 'HEAD-I01-X-UNMATCHED-01'</td></tr></table>|
+|OOMP Parts List|oompParts|<table><tr><td>'JP1'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'HEAD-I01-X-UNMATCHED-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'PART'</td></tr><tr><td> 'JP1'</td><td> 'PARTLETTER'</td></tr><tr><td> 'JP'</td><td> 'VALUE'</td></tr><tr><td> ''</td><td> 'VALUENUMBER'</td></tr><tr><td> ''</td><td> 'DEVICE'</td></tr><tr><td> 'RASBERRYPI_IDC'</td><td> 'PACKAGE'</td></tr><tr><td> 'RASBERRYPI_IDC'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> ''</td><td> 'DESC'</td></tr><tr><td> 'Rasberry PI IDC Header'</td><td> 'BOM'</td></tr><tr><td> ''</td><td> 'OWNER'</td></tr><tr><td> 'ADAF'</td><td> 'FULL'</td></tr><tr><td> 'JP1</td><td></td><td>RASBERRYPI_IDC</td><td>RASBERRYPI_IDC</td><td>Rasberry PI IDC Header</td><td></td><td>'</td></tr></table></td></tr></table></td></tr></table>|
 |Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'JP1'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'RASBERRYPI_IDC'</td><td> 'Package'</td></tr><tr><td> 'RASBERRYPI_IDC'</td><td> 'Description'</td></tr><tr><td> 'Rasberry PI IDC Header'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 

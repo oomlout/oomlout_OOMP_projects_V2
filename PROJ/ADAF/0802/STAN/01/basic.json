@@ -44,29 +44,470 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "ANALOGS": "HEAD-I01-X-PI06-01",
-            "BACKLITE": "HEAD-I01-X-PI01-01",
-            "BTN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "C1": "CAPC-0805-X-UF10-V25",
-            "C2": "CAPC-0805-X-UF10-V25",
-            "C3": "CAPC-0805-X-NF100-V50",
-            "C4": "CAPC-0805-X-NF100-V50",
-            "DIGITALS": "HEAD-I01-X-PI08-01",
-            "DIGITALS2": "HEAD-I01-X-PI08-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC2": "VREG-SO235-X-KLP298XS-V33D",
-            "NAV": "HEAD-I01-X-PI01-01",
-            "POWER": "HEAD-I01-X-PI06-01",
-            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "R1": "RESE-0805-X-UNMATCHED-01",
-            "R2": "RESE-0805-X-O102-01",
-            "R3": "RESE-0805-X-O102-01",
-            "R4": "RESE-0805-X-UNMATCHED-01",
-            "R5": "RESE-0805-X-UNMATCHED-01",
-            "R6": "RESE-0805-X-O103-01",
-            "R7": "RESE-0805-X-UNMATCHED-01",
-            "R8": "RESE-0805-X-O000-01",
-            "R9": "RESE-0805-X-O102-01"
+            "ANALOGS": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CB",
+                    "FULL": "ANALOGS,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEANBIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "ANALOGS",
+                    "PARTLETTER": "ANALOGS",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "BACKLITE": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "BACKLITE,,PINHD-1X1,1X01,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "BACKLITE",
+                    "PARTLETTER": "BACKLITE",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "BTN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SWITCH_4WAY_TPA511GLFS",
+                    "FULL": "BTN1,,SWITCH_4WAY_TPA511GLFS,SWITCH_4WAY_TPA511GLFS,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SWITCH_4WAY_TPA511GLFS",
+                    "PACKAGENUMBER": "4511",
+                    "PART": "BTN1",
+                    "PARTLETTER": "BTN",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C1,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C2,10uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C4,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "DIGITALS": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "DIGITALS,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "DIGITALS",
+                    "PARTLETTER": "DIGITALS",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "DIGITALS2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X8CLEANBIG",
+                    "FULL": "DIGITALS2,,PINHD-1X8CLEANBIG,1X08-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X08-CLEANBIG",
+                    "PACKAGENUMBER": "108",
+                    "PART": "DIGITALS2",
+                    "PARTLETTER": "DIGITALS",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI08-01"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2.5",
+                    "FULL": "FID1,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL-1X2.5",
+                    "PACKAGENUMBER": "125",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2.5",
+                    "VALUENUMBER": "12.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL1X2.5",
+                    "FULL": "FID3,FIDUCIAL1X2.5,FIDUCIAL1X2.5,FIDUCIAL-1X2.5,Fiducial Alignment Points,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL-1X2.5",
+                    "PACKAGENUMBER": "125",
+                    "PART": "FID3",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL1X2.5",
+                    "VALUENUMBER": "12.5"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Hex non-inverting BUFFER",
+                    "DEVICE": "4050D",
+                    "FULL": "IC1,4050D,4050D,SO16,Hex non-inverting BUFFER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SO16",
+                    "PACKAGENUMBER": "16",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "4050D",
+                    "VALUENUMBER": "4050"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LP298XS",
+                    "FULL": "IC2,RT9193-33GB,LP298XS,SOT23-5L,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5L",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "RT9193-33GB",
+                    "VALUENUMBER": "9193-33"
+                },
+                "OOMPID": "VREG-SO235-X-KLP298XS-V33D"
+            },
+            "NAV": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X1",
+                    "FULL": "NAV,,PINHD-1X1,1X01,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X01",
+                    "PACKAGENUMBER": "101",
+                    "PART": "NAV",
+                    "PARTLETTER": "NAV",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI01-01"
+            },
+            "POWER": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X6CB",
+                    "FULL": "POWER,,PINHD-1X6CB,1X06-CLEANBIG,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X06-CLEANBIG",
+                    "PACKAGENUMBER": "106",
+                    "PART": "POWER",
+                    "PARTLETTER": "POWER",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI06-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "NPN Transistror",
+                    "DEVICE": "MMBT2222ALT1-NPN-SOT23-BEC",
+                    "FULL": "Q1,2N2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-BEC",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "2N2222",
+                    "VALUENUMBER": "22222"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R1,22 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "22 ohm",
+                    "VALUENUMBER": "22 "
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R2,1K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R3,1.0K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1.0K",
+                    "VALUENUMBER": "1.0"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R4,470 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "470 ohm",
+                    "VALUENUMBER": "470 "
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R5,220 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "220 ohm",
+                    "VALUENUMBER": "220 "
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R6,10K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R7,22 ohm,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "22 ohm",
+                    "VALUENUMBER": "22 "
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R8,1Kohm,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "1Kohm",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O000-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R9,1K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "U$1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "JD-T1800",
+                    "FULL": "U$1,JD-T1800,JD-T1800,JD-T1800,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "JD-T1800",
+                    "PACKAGENUMBER": "1800",
+                    "PART": "U$1",
+                    "PARTLETTER": "U$",
+                    "VALUE": "JD-T1800",
+                    "VALUENUMBER": "-1800"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Arduino Diecimila/Duemilanove",
+                    "DEVICE": "ARDUINOUNO",
+                    "FULL": "U$2,ARDUINOUNO,ARDUINOUNO,ARDUINO,Arduino Diecimila/Duemilanove,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ARDUINO",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "ARDUINOUNO",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Micro-SD / Transflash card holder with SPI pinout",
+                    "DEVICE": "MICROSD",
+                    "FULL": "U$3,MICROSD,MICROSD,MICROSD,Micro-SD / Transflash card holder with SPI pinout,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MICROSD",
+                    "PACKAGENUMBER": "",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MICROSD",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT 6mm switch, EVQQ2 series",
+                    "DEVICE": "EVQQ2",
+                    "FULL": "U$4,EVQQ2,EVQQ2,EVQ-Q2,SMT 6mm switch, EVQQ2 series,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EVQ-Q2",
+                    "PACKAGENUMBER": "2",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "EVQQ2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "SKIP-6060-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

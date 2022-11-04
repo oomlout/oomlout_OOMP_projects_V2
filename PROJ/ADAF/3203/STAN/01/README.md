@@ -28,8 +28,8 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|HEAD-I01-X-PI25-01|CONN1,|
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|RPI1,|
+|![]()|HEAD-I01-X-PI25-01||
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
 ||||
   
 
@@ -55,7 +55,7 @@ Contents
 |gitName|gitName|Adafruit-Perma-Proto-Bonnet-PCB|
 |eagleBoard|eagleBoard|/Adafruit Perma Proto Bonnet.brd|
 |eagleSchem|eagleSchem|/Adafruit Perma Proto Bonnet.sch|
-|OOMP Parts List|oompParts|<table><tr><td>'CONN1'</td></tr><tr><td> 'HEAD-I01-X-PI25-01'</td><td> 'RPI1'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td></tr></table>|
+|OOMP Parts List|oompParts|<table><tr><td>'CONN1'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'HEAD-I01-X-PI25-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'PART'</td></tr><tr><td> 'CONN1'</td><td> 'PARTLETTER'</td></tr><tr><td> 'CONN'</td><td> 'VALUE'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'VALUENUMBER'</td></tr><tr><td> '-125'</td><td> 'DEVICE'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'PACKAGE'</td></tr><tr><td> '1X25_ROUND_70MIL'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> '12570'</td><td> 'DESC'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td><td> 'OWNER'</td></tr><tr><td> 'ADAF'</td><td> 'FULL'</td></tr><tr><td> 'CONN1</td><td>HEADER-1X25</td><td>HEADER-1X25</td><td>1X25_ROUND_70MIL</td><td></td><td></td><td>'</td></tr></table></td></tr></table></td><td> 'RPI1'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'UNMATCHED-UNMATCHED-X-UNMATCHED-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'PART'</td></tr><tr><td> 'RPI1'</td><td> 'PARTLETTER'</td></tr><tr><td> 'RPI'</td><td> 'VALUE'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'VALUENUMBER'</td></tr><tr><td> '__'</td><td> 'DEVICE'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'PACKAGE'</td></tr><tr><td> 'PI_BONNET_NODIM'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> ''</td><td> 'DESC'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td><td> 'OWNER'</td></tr><tr><td> 'ADAF'</td><td> 'FULL'</td></tr><tr><td> 'RPI1</td><td>RASPBERRYPI_BPLUS_BONNETNODIM</td><td>RASPBERRYPI_BPLUS_BONNETNODIM</td><td>PI_BONNET_NODIM</td><td></td><td></td><td>'</td></tr></table></td></tr></table></td></tr></table>|
 |Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'CONN1'</td><td> 'Value'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'Device'</td></tr><tr><td> 'HEADER-1X25'</td><td> 'Package'</td></tr><tr><td> '1X25_ROUND_70MIL'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'RPI1'</td><td> 'Value'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'Device'</td></tr><tr><td> 'RASPBERRYPI_BPLUS_BONNETNODIM'</td><td> 'Package'</td></tr><tr><td> 'PI_BONNET_NODIM'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td></tr></table>|
 ||||
 

@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "hardware/v4/BusPirate-v4e.brd"
     ],
     "eagleSchem": [
         "hardware/v4/BusPirate-v4e.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Bus_Pirate"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR0002"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Bus Pirate v4e"
     ],
@@ -85,70 +73,1000 @@
     "oompIndex": [
         "V4E"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0603-X-NF100-V50",
-            "C10": "CAPC-0603-X-NF100-V50",
-            "C11": "CAPC-0603-X-UF1-V25",
-            "C12": "CAPC-0603-X-UF1-V25",
-            "C13": "CAPC-0603-X-UF1-V25",
-            "C14": "CAPX-UNMATCHED-X-UF10-01",
-            "C15": "CAPX-UNMATCHED-X-UF10-01",
-            "C2": "CAPC-0603-X-NF100-V50",
-            "C3": "CAPC-0603-X-NF100-V50",
-            "C4": "CAPC-0603-X-NF100-V50",
-            "C5": "CAPC-0603-X-NF100-V50",
-            "C6": "CAPC-0603-X-NF100-V50",
-            "C7": "CAPC-0603-X-NF100-V50",
-            "C8": "CAPC-0603-X-NF100-V50",
-            "C9": "CAPC-0603-X-NF100-V50",
-            "D1": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "D2": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "D3": "DIOD-UNMATCHED-X-UNMATCHED-01",
-            "IC1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC3": "UNMATCHED-SO235-X-UNMATCHED-01",
-            "ICSP": "HEAD-I01-X-UNMATCHED-01",
-            "IO": "HEAD-I01-X-PI2X06-01",
-            "JP1": "HEAD-I01-X-PI02-01",
-            "L1": "UNMATCHED-0805-X-UNMATCHED-01",
-            "LED1": "LEDS-0805-G-STAN-01",
-            "LED1A": "LEDS-0805-G-STAN-01",
-            "LED2": "LEDS-0805-G-STAN-01",
-            "LED2A": "LEDS-0805-G-STAN-01",
-            "LED3": "LEDS-0805-G-STAN-01",
-            "LED3A": "LEDS-0805-G-STAN-01",
-            "LED4": "LEDS-0805-G-STAN-01",
-            "LED4A": "LEDS-0805-G-STAN-01",
-            "NORMAL": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "PCB1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "Q2": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "R1": "RESE-UNMATCHED-X-O102-01",
-            "R10": "RESE-0603-X-O202-01",
-            "R11": "RESE-0603-X-O103-01",
-            "R12": "RESE-0603-X-O103-01",
-            "R13": "RESE-UNMATCHED-X-O103-01",
-            "R14": "RESE-0603-X-O103-01",
-            "R15": "RESE-0603-X-O1003-01",
-            "R2": "RESE-0603-X-O102-01",
-            "R3": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R4": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R5": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R6": "RESE-UNMATCHED-X-UNMATCHED-01",
-            "R7": "RESE-0603-X-O202-01",
-            "R8": "RESE-0603-X-O202-01",
-            "R9": "RESE-0603-X-O202-01",
-            "RESET": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "RN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "RN2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "RN3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "USB": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "VR1": "VREG-SO235-X-KMIC5205-01",
-            "VR2": "VREG-SO235-X-KMIC5205-01",
-            "VR3": "VREG-SO235-X-KMIC5205-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C1,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C10,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C10",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C11,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C11",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C12,1uf,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C12",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uf",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C13,1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C13",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0603-X-UF1-V25"
+            },
+            "C14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "POLARIZED CAPACITOR, European symbol",
+                    "DEVICE": "CPOL-EUSMCA",
+                    "FULL": "C14,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SMC_A",
+                    "PACKAGENUMBER": "",
+                    "PART": "C14",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-UF10-01"
+            },
+            "C15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "POLARIZED CAPACITOR, European symbol",
+                    "DEVICE": "CPOL-EUSMCA",
+                    "FULL": "C15,10uF,CPOL-EUSMCA,SMC_A,POLARIZED CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SMC_A",
+                    "PACKAGENUMBER": "",
+                    "PART": "C15",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPX-UNMATCHED-X-UF10-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C2,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C3,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C4,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C5,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C6,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C6",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C7,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C7",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C8,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C8",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "C9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, European symbol",
+                    "DEVICE": "C-EUC0603",
+                    "FULL": "C9,0.1uF,C-EUC0603,C0603,CAPACITOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "C0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "C9",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0603-X-NF100-V50"
+            },
+            "D1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SCHOTTKY BARRIER RECTIFIER",
+                    "DEVICE": "MBR0520LT",
+                    "FULL": "D1,,MBR0520LT,SOD123,SCHOTTKY BARRIER RECTIFIER,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOD123",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D1",
+                    "PARTLETTER": "D",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "D2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SCHOTTKY BARRIER RECTIFIER",
+                    "DEVICE": "MBR0520LT",
+                    "FULL": "D2,,MBR0520LT,SOD123,SCHOTTKY BARRIER RECTIFIER,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOD123",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D2",
+                    "PARTLETTER": "D",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "D3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SCHOTTKY BARRIER RECTIFIER",
+                    "DEVICE": "MBR0520LT",
+                    "FULL": "D3,,MBR0520LT,SOD123,SCHOTTKY BARRIER RECTIFIER,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOD123",
+                    "PACKAGENUMBER": "123",
+                    "PART": "D3",
+                    "PARTLETTER": "D",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "DIOD-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "16-Bit Flash Microcontroller with USB On-The-Go(OTG)",
+                    "DEVICE": "PIC24FJ256GB106",
+                    "FULL": "IC1,PIC24FJ256GB106,PIC24FJ256GB106,TQFP64-10X10,16-Bit Flash Microcontroller with USB On-The-Go(OTG),,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "TQFP64-10X10",
+                    "PACKAGENUMBER": "641010",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "PIC24FJ256GB106",
+                    "VALUENUMBER": "24256106"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Quad bilateral ANALOG SWITCH",
+                    "DEVICE": "4066TS",
+                    "FULL": "IC2,4066TS,4066TS,40XX_TSSOP14,Quad bilateral ANALOG SWITCH,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "40XX_TSSOP14",
+                    "PACKAGENUMBER": "4014",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "4066TS",
+                    "VALUENUMBER": "4066"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC3": {
+                "FULL": {
+                    "BOM": "24AA",
+                    "DESC": "",
+                    "DEVICE": "24AA",
+                    "FULL": "IC3,24AASOT-23-5,24AA,SOT-23-5,,24AA,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT-23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC3",
+                    "PARTLETTER": "IC",
+                    "VALUE": "24AASOT-23-5",
+                    "VALUENUMBER": "24-23-5"
+                },
+                "OOMPID": "UNMATCHED-SO235-X-UNMATCHED-01"
+            },
+            "ICSP": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "5-pin PIC In Circuit Serial Programming header",
+                    "DEVICE": "CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT",
+                    "FULL": "ICSP,CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT,CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT,CON_POGO_ICSP_TARGET,5-pin PIC In Circuit Serial Programming header,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CON_POGO_ICSP_TARGET",
+                    "PACKAGENUMBER": "",
+                    "PART": "ICSP",
+                    "PARTLETTER": "ICSP",
+                    "VALUE": "CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT",
+                    "VALUENUMBER": "____--"
+                },
+                "OOMPID": "HEAD-I01-X-UNMATCHED-01"
+            },
+            "IO": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Shrouded pin header, 2.54mm pitch",
+                    "DEVICE": "PINSHRD-PTH-2X06",
+                    "FULL": "IO,PINSHRD-PTH-2X06,PINSHRD-PTH-2X06,PINSHRD_PTH_2X06,Shrouded pin header, 2.54mm pitch,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "PINSHRD_PTH_2X06",
+                    "PACKAGENUMBER": "206",
+                    "PART": "IO",
+                    "PARTLETTER": "IO",
+                    "VALUE": "PINSHRD-PTH-2X06",
+                    "VALUENUMBER": "--206"
+                },
+                "OOMPID": "HEAD-I01-X-PI2X06-01"
+            },
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X02_2.54-S",
+                    "FULL": "JP1,,PINHD-1X02_2.54-S,1X02-S,PIN HEADER,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "1X02-S",
+                    "PACKAGENUMBER": "102",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI02-01"
+            },
+            "L1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMD Wire Wound Ceramic Inductor WE-KIL",
+                    "DEVICE": "WE-KIL_0805",
+                    "FULL": "L1,700mA+ ferrite bead,WE-KIL_0805,WE-KI_0805_B,SMD Wire Wound Ceramic Inductor WE-KIL,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "WE-KI_0805_B",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "L1",
+                    "PARTLETTER": "L",
+                    "VALUE": "700mA+ ferrite bead",
+                    "VALUENUMBER": "700+  "
+                },
+                "OOMPID": "UNMATCHED-0805-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED1,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED1A": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED1A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED1A",
+                    "PARTLETTER": "LEDA",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED2,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED2",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED2A": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED2A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED2A",
+                    "PARTLETTER": "LEDA",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED3,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED3",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED3A": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED3A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED3A",
+                    "PARTLETTER": "LEDA",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED4,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED4",
+                    "PARTLETTER": "LED",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED4A": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LEDCHIP-LED0805",
+                    "FULL": "LED4A,,LEDCHIP-LED0805,CHIP-LED0805,LED,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CHIP-LED0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED4A",
+                    "PARTLETTER": "LEDA",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LOGO1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LOGO_CC-0",
+                    "FULL": "LOGO1,LOGO_CC-0,LOGO_CC-0,LOGO_CC-0,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "LOGO_CC-0",
+                    "PACKAGENUMBER": "0",
+                    "PART": "LOGO1",
+                    "PARTLETTER": "LOGO",
+                    "VALUE": "LOGO_CC-0",
+                    "VALUENUMBER": "_-0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "NORMAL": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SMD_TACT_SMALL",
+                    "FULL": "NORMAL,SMD_TACT_SMALL,SMD_TACT_SMALL,TACT_SWITCH_SMALL,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "TACT_SWITCH_SMALL",
+                    "PACKAGENUMBER": "",
+                    "PART": "NORMAL",
+                    "PARTLETTER": "NORMAL",
+                    "VALUE": "SMD_TACT_SMALL",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "PCB1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Dangerous Prototypes Standard Rectangular PCB sizes",
+                    "DEVICE": "PCB_DP_RECTANGLE-43X70",
+                    "FULL": "PCB1,PCB_DP_RECTANGLE-43X70,PCB_DP_RECTANGLE-43X70,DP7043_V1,Dangerous Prototypes Standard Rectangular PCB sizes,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "DP7043_V1",
+                    "PACKAGENUMBER": "70431",
+                    "PART": "PCB1",
+                    "PARTLETTER": "PCB",
+                    "VALUE": "PCB_DP_RECTANGLE-43X70",
+                    "VALUENUMBER": "__-4370"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PNP Transistor",
+                    "DEVICE": "MMBTA56-SOT23",
+                    "FULL": "Q1,,MMBTA56-SOT23,SOT23,PNP Transistor,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT23",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "Q2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PNP Transistor",
+                    "DEVICE": "MMBTA56-SOT23",
+                    "FULL": "Q2,,MMBTA56-SOT23,SOT23,PNP Transistor,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT23",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q2",
+                    "PARTLETTER": "Q",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R1,1K,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O102-01"
+            },
+            "R10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R10,2K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R10",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0603-X-O202-01"
+            },
+            "R11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R11,10K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R11",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R12,10K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R12",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R13": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R13,10K,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R13",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-O103-01"
+            },
+            "R14": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R14,10K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R14",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0603-X-O103-01"
+            },
+            "R15": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R15,100K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R15",
+                    "PARTLETTER": "R",
+                    "VALUE": "100K",
+                    "VALUENUMBER": "100"
+                },
+                "OOMPID": "RESE-0603-X-O1003-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R2,1K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0603-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R3,1K1,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K1",
+                    "VALUENUMBER": "11"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R4,1K1,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K1",
+                    "VALUENUMBER": "11"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R5,1K1,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K1",
+                    "VALUENUMBER": "11"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "RESISTOR-0603",
+                    "FULL": "R6,1K1,RESISTOR-0603,R603,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R603",
+                    "PACKAGENUMBER": "603",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K1",
+                    "VALUENUMBER": "11"
+                },
+                "OOMPID": "RESE-UNMATCHED-X-UNMATCHED-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R7,2K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0603-X-O202-01"
+            },
+            "R8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R8,2K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R8",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0603-X-O202-01"
+            },
+            "R9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, European symbol",
+                    "DEVICE": "R-EU_R0603",
+                    "FULL": "R9,2K,R-EU_R0603,R0603,RESISTOR, European symbol,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "R0603",
+                    "PACKAGENUMBER": "0603",
+                    "PART": "R9",
+                    "PARTLETTER": "R",
+                    "VALUE": "2K",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "RESE-0603-X-O202-01"
+            },
+            "RESET": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "SMD_TACT_SMALL",
+                    "FULL": "RESET,SMD_TACT_SMALL,SMD_TACT_SMALL,TACT_SWITCH_SMALL,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "TACT_SWITCH_SMALL",
+                    "PACKAGENUMBER": "",
+                    "PART": "RESET",
+                    "PARTLETTER": "RESET",
+                    "VALUE": "SMD_TACT_SMALL",
+                    "VALUENUMBER": "__"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "RN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "4 Resistor Array 0603",
+                    "DEVICE": "RNETWORK",
+                    "FULL": "RN1,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "RN8P-4R-CRA06S",
+                    "PACKAGENUMBER": "8406",
+                    "PART": "RN1",
+                    "PARTLETTER": "RN",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "RN2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "4 Resistor Array 0603",
+                    "DEVICE": "RNETWORK",
+                    "FULL": "RN2,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "RN8P-4R-CRA06S",
+                    "PACKAGENUMBER": "8406",
+                    "PART": "RN2",
+                    "PARTLETTER": "RN",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "RN3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "4 Resistor Array 0603",
+                    "DEVICE": "RNETWORK",
+                    "FULL": "RN3,10k,RNETWORK,RN8P-4R-CRA06S,4 Resistor Array 0603,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "RN8P-4R-CRA06S",
+                    "PACKAGENUMBER": "8406",
+                    "PART": "RN3",
+                    "PARTLETTER": "RN",
+                    "VALUE": "10k",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "USB": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB connector",
+                    "DEVICE": "CON-USB-MINI-BUSB1",
+                    "FULL": "USB,USB mini-b,CON-USB-MINI-BUSB1,CONN_USB_MINI-B,USB connector,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "CONN_USB_MINI-B",
+                    "PACKAGENUMBER": "",
+                    "PART": "USB",
+                    "PARTLETTER": "USB",
+                    "VALUE": "USB mini-b",
+                    "VALUENUMBER": " -"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "VR1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "150ma Low-Noise LDO Regulator",
+                    "DEVICE": "MIC5205",
+                    "FULL": "VR1,MCP1801T-3302I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT-23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "VR1",
+                    "PARTLETTER": "VR",
+                    "VALUE": "MCP1801T-3302I/OT",
+                    "VALUENUMBER": "1801-3302/"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5205-01"
+            },
+            "VR2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "150ma Low-Noise LDO Regulator",
+                    "DEVICE": "MIC5205",
+                    "FULL": "VR2,MCP1801T-3302I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT-23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "VR2",
+                    "PARTLETTER": "VR",
+                    "VALUE": "MCP1801T-3302I/OT",
+                    "VALUENUMBER": "1801-3302/"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5205-01"
+            },
+            "VR3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "150ma Low-Noise LDO Regulator",
+                    "DEVICE": "MIC5205",
+                    "FULL": "VR3,MCP1801T-5002I/OT,MIC5205,SOT-23-5,150ma Low-Noise LDO Regulator,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "SOT-23-5",
+                    "PACKAGENUMBER": "235",
+                    "PART": "VR3",
+                    "PARTLETTER": "VR",
+                    "VALUE": "MCP1801T-5002I/OT",
+                    "VALUENUMBER": "1801-5002/"
+                },
+                "OOMPID": "VREG-SO235-X-KMIC5205-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "CRYSTAL_212M_",
+                    "FULL": "X1,CRYSTAL_212M_,CRYSTAL_212M_,4X6,,,",
+                    "OWNER": "DANP",
+                    "PACKAGE": "4X6",
+                    "PACKAGENUMBER": "46",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "CRYSTAL_212M_",
+                    "VALUENUMBER": "_212_"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [
@@ -157,7 +1075,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -660,9 +1577,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

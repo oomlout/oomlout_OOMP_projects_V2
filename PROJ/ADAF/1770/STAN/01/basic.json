@@ -44,23 +44,310 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "1X20BREAKOUT": "HEAD-I01-X-PI20-01",
-            "2X10BREAKOUT": "HEAD-I01-X-PI2X10-01",
-            "C1": "CAPC-0805-X-UNMATCHED-01",
-            "C2": "CAPC-0805-X-NF100-V50",
-            "C3": "CAPC-0805-X-NF100-V50",
-            "C4": "CAPC-0805-X-NF100-V50",
-            "C5": "CAPC-0805-X-UNMATCHED-01",
-            "CN1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC1": "VREG-SO235-X-KLP298XS-V33D",
-            "IC2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "IC3": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "Q1": "UNMATCHED-SO23-X-UNMATCHED-01",
-            "R1": "RESE-0805-X-O470-01",
-            "R2": "RESE-0805-X-O470-01",
-            "R3": "RESE-0805-X-O470-01",
-            "R4": "RESE-0805-X-O470-01",
-            "R5": "RESE-0805-X-O102-01"
+            "1X20BREAKOUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-1X20",
+                    "FULL": "1X20BREAKOUT,,PINHD-1X20,1X20,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X20",
+                    "PACKAGENUMBER": "120",
+                    "PART": "1X20BREAKOUT",
+                    "PARTLETTER": "XBREAKOUT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI20-01"
+            },
+            "2X10BREAKOUT": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "PINHD-2X10",
+                    "FULL": "2X10BREAKOUT,,PINHD-2X10,2X10,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "2X10",
+                    "PACKAGENUMBER": "210",
+                    "PART": "2X10BREAKOUT",
+                    "PARTLETTER": "XBREAKOUT",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI2X10-01"
+            },
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C1,2.2uF+,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "2.2uF+",
+                    "VALUENUMBER": "2.2+"
+                },
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C2,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C3,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C4,0.1uF,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "0.1uF",
+                    "VALUENUMBER": "0.1"
+                },
+                "OOMPID": "CAPC-0805-X-NF100-V50"
+            },
+            "C5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "CAPACITOR, American symbol",
+                    "DEVICE": "C-USC0805K",
+                    "FULL": "C5,2.2uF+,C-USC0805K,C0805K,CAPACITOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "C0805K",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C5",
+                    "PARTLETTER": "C",
+                    "VALUE": "2.2uF+",
+                    "VALUENUMBER": "2.2+"
+                },
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
+            },
+            "CN1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "2.8 ILI9325-based TFT LCD w/Integrated Touch Screen",
+                    "DEVICE": "ILI9325_LCD1.0MM",
+                    "FULL": "CN1,ILI9325_28TFT,ILI9325_LCD1.0MM,ILI9325_28INCH_TS,2.8 ILI9325-based TFT LCD w/Integrated Touch Screen,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "ILI9325_28INCH_TS",
+                    "PACKAGENUMBER": "932528",
+                    "PART": "CN1",
+                    "PARTLETTER": "CN",
+                    "VALUE": "ILI9325_28TFT",
+                    "VALUENUMBER": "9325_28"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "LP298XS",
+                    "FULL": "IC1,LP298XS,LP298XS,SOT23-5L,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-5L",
+                    "PACKAGENUMBER": "235",
+                    "PART": "IC1",
+                    "PARTLETTER": "IC",
+                    "VALUE": "LP298XS",
+                    "VALUENUMBER": "298"
+                },
+                "OOMPID": "VREG-SO235-X-KLP298XS-V33D"
+            },
+            "IC2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Octal BUS TRANSCEIVER, 3-state",
+                    "DEVICE": "74ACT245DW",
+                    "FULL": "IC2,74ACT245DW,74ACT245DW,SO20W,Octal BUS TRANSCEIVER, 3-state,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SO20W",
+                    "PACKAGENUMBER": "20",
+                    "PART": "IC2",
+                    "PARTLETTER": "IC",
+                    "VALUE": "74ACT245DW",
+                    "VALUENUMBER": "74245"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "IC3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Octal BUS TRANSCEIVER, 3-state",
+                    "DEVICE": "74ACT245DW",
+                    "FULL": "IC3,74ACT245DW,74ACT245DW,SO20W,Octal BUS TRANSCEIVER, 3-state,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SO20W",
+                    "PACKAGENUMBER": "20",
+                    "PART": "IC3",
+                    "PARTLETTER": "IC",
+                    "VALUE": "74ACT245DW",
+                    "VALUENUMBER": "74245"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Q1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "NPN Transistror",
+                    "DEVICE": "MMBT2222ALT1-NPN-SOT23-BEC",
+                    "FULL": "Q1,2222,MMBT2222ALT1-NPN-SOT23-BEC,SOT23-BEC,NPN Transistror,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "SOT23-BEC",
+                    "PACKAGENUMBER": "23",
+                    "PART": "Q1",
+                    "PARTLETTER": "Q",
+                    "VALUE": "2222",
+                    "VALUENUMBER": "2222"
+                },
+                "OOMPID": "UNMATCHED-SO23-X-UNMATCHED-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R1,47,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0805-X-O470-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R2,47,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0805-X-O470-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R3,47,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0805-X-O470-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R4,47,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "47",
+                    "VALUENUMBER": "47"
+                },
+                "OOMPID": "RESE-0805-X-O470-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "RESISTOR, American symbol",
+                    "DEVICE": "R-US_R0805",
+                    "FULL": "R5,1K,R-US_R0805,R0805,RESISTOR, American symbol,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "R0805",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "U$11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$11,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$11",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "For use by pick and place machines to calibrate the vision/machine, 1mm",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "U$9,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,For use by pick and place machines to calibrate the vision/machine, 1mm,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "U$9",
+                    "PARTLETTER": "U$",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

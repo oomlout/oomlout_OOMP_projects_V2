@@ -44,28 +44,390 @@
     "oompInstances": [],
     "oompParts": [
         {
-            "C1": "CAPC-0805-X-UF1-V25",
-            "C2": "CAPC-0805-X-UF1-V25",
-            "C3": "CAPC-0805-X-UF10-V25",
-            "C4": "CAPC-0805-X-UF10-V25",
-            "LED1": "LEDS-0805-Y-STAN-01",
-            "LED2": "LEDS-0805-G-STAN-01",
-            "LED3": "LEDS-0805-R-STAN-01",
-            "LED4": "LEDS-0805-L-STAN-01",
-            "R1": "RESE-0805-X-O102-01",
-            "R2": "RESE-0805-X-O102-01",
-            "R3": "RESE-0805-X-O102-01",
-            "R4": "RESE-0805-X-UNMATCHED-01",
-            "R5": "RESE-0805-X-O103-01",
-            "R6": "RESE-0805-X-O103-01",
-            "R7": "RESE-0805-X-O102-01",
-            "SW1": "BUTA-4628-X-STAN-01",
-            "SW2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "U2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "Y1": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            "C1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C1,1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C1",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0805-X-UF1-V25"
+            },
+            "C2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C2,1uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C2",
+                    "PARTLETTER": "C",
+                    "VALUE": "1uF",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "CAPC-0805-X-UF1-V25"
+            },
+            "C3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C3,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C3",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "C4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Ceramic Capacitors",
+                    "DEVICE": "CAP_CERAMIC_0805MP",
+                    "FULL": "C4,10uF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "C4",
+                    "PARTLETTER": "C",
+                    "VALUE": "10uF",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "CAPC-0805-X-UF10-V25"
+            },
+            "FID1": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID1,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID1",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "FID2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Fiducial Alignment Points",
+                    "DEVICE": "FIDUCIAL",
+                    "FULL": "FID2,FIDUCIAL,FIDUCIAL,FIDUCIAL_1MM,Fiducial Alignment Points,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FIDUCIAL_1MM",
+                    "PACKAGENUMBER": "1",
+                    "PART": "FID2",
+                    "PARTLETTER": "FID",
+                    "VALUE": "FIDUCIAL",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "LED1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED1,YELLOW,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED1",
+                    "PARTLETTER": "LED",
+                    "VALUE": "YELLOW",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-Y-STAN-01"
+            },
+            "LED2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED2,GREEN,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED2",
+                    "PARTLETTER": "LED",
+                    "VALUE": "GREEN",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-G-STAN-01"
+            },
+            "LED3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED3,RED,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED3",
+                    "PARTLETTER": "LED",
+                    "VALUE": "RED",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-R-STAN-01"
+            },
+            "LED4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "LED",
+                    "DEVICE": "LED0805_NOOUTLINE",
+                    "FULL": "LED4,BLUE,LED0805_NOOUTLINE,CHIPLED_0805_NOOUTLINE,LED,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CHIPLED_0805_NOOUTLINE",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "LED4",
+                    "PARTLETTER": "LED",
+                    "VALUE": "BLUE",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "LEDS-0805-L-STAN-01"
+            },
+            "R1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R1,1K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R1",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R2,1K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R2",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R3,1K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R3",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "R4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R4,0,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R4",
+                    "PARTLETTER": "R",
+                    "VALUE": "0",
+                    "VALUENUMBER": "0"
+                },
+                "OOMPID": "RESE-0805-X-UNMATCHED-01"
+            },
+            "R5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R5,10K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R5",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R6,10K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R6",
+                    "PARTLETTER": "R",
+                    "VALUE": "10K",
+                    "VALUENUMBER": "10"
+                },
+                "OOMPID": "RESE-0805-X-O103-01"
+            },
+            "R7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Resistors",
+                    "DEVICE": "RESISTOR_0805MP",
+                    "FULL": "R7,1K,RESISTOR_0805MP,_0805MP,Resistors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "_0805MP",
+                    "PACKAGENUMBER": "0805",
+                    "PART": "R7",
+                    "PARTLETTER": "R",
+                    "VALUE": "1K",
+                    "VALUENUMBER": "1"
+                },
+                "OOMPID": "RESE-0805-X-O102-01"
+            },
+            "SW1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "SMT Tact Switches",
+                    "DEVICE": "SWITCH_TACT_SMT4.6X2.8",
+                    "FULL": "SW1,KMR2,SWITCH_TACT_SMT4.6X2.8,BTN_KMR2_4.6X2.8,SMT Tact Switches,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BTN_KMR2_4.6X2.8",
+                    "PACKAGENUMBER": "24628",
+                    "PART": "SW1",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "BUTA-4628-X-STAN-01"
+            },
+            "SW2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "DPDT-EG1390",
+                    "FULL": "SW2,KMR2,DPDT-EG1390,EG1390,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "EG1390",
+                    "PACKAGENUMBER": "1390",
+                    "PART": "SW2",
+                    "PARTLETTER": "SW",
+                    "VALUE": "KMR2",
+                    "VALUENUMBER": "2"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "nRF51822 Bluetooth Low Energy Module",
+                    "DEVICE": "BLE_MODULE_RAYTAC_MDBT40",
+                    "FULL": "U1,nrf51822_32KB,BLE_MODULE_RAYTAC_MDBT40,BLE_MODULE_RAYTAC_MDBT40,nRF51822 Bluetooth Low Energy Module,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "BLE_MODULE_RAYTAC_MDBT40",
+                    "PACKAGENUMBER": "40",
+                    "PART": "U1",
+                    "PARTLETTER": "U",
+                    "VALUE": "nrf51822_32KB",
+                    "VALUENUMBER": "51822_32"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "FT231X USB To Full Handshake UART IC",
+                    "DEVICE": "FT231X",
+                    "FULL": "U2,FT231XQ-x ,FT231X,QFN20_4MM,FT231X USB To Full Handshake UART IC,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "QFN20_4MM",
+                    "PACKAGENUMBER": "204",
+                    "PART": "U2",
+                    "PARTLETTER": "U",
+                    "VALUE": "FT231XQ-x ",
+                    "VALUENUMBER": "231- "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "USB - Type A Connectors",
+                    "DEVICE": "USB_TYPEA_CLIENTTHM",
+                    "FULL": "X1,USB A,USB_TYPEA_CLIENTTHM,USB_A-THM,USB - Type A Connectors,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "USB_A-THM",
+                    "PACKAGENUMBER": "",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "USB A",
+                    "VALUENUMBER": " "
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Serial Wire (SW-DP) Connector",
+                    "DEVICE": "JTAG-CORTEXBOXPOSTS",
+                    "FULL": "X2,20317,JTAG-CORTEXBOXPOSTS,2X05_1.27MM_BOX_POSTS,Serial Wire (SW-DP) Connector,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "2X05_1.27MM_BOX_POSTS",
+                    "PACKAGENUMBER": "205127",
+                    "PART": "X2",
+                    "PARTLETTER": "X",
+                    "VALUE": "20317",
+                    "VALUENUMBER": "20317"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "Y1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "Crystals",
+                    "DEVICE": "CRYSTAL2.0X6.0_32.768",
+                    "FULL": "Y1,DNC,CRYSTAL2.0X6.0_32.768,CRYSTAL_CYL_2X6MM_SMT,Crystals,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "CRYSTAL_CYL_2X6MM_SMT",
+                    "PACKAGENUMBER": "26",
+                    "PART": "Y1",
+                    "PARTLETTER": "Y",
+                    "VALUE": "DNC",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            }
         }
     ],
     "oompSize": [

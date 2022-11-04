@@ -1,18 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
     "eagleBoard": [
         "/Adafruit Terminal FeatherWing.brd"
     ],
     "eagleSchem": [
         "/Adafruit Terminal FeatherWing.sch"
     ],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
     "gitName": [
         "Adafruit-Terminal-Block-FeatherWing-PCB"
     ],
@@ -22,10 +14,6 @@
     "hexID": [
         "PRPR2926"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "Adafruit Terminal Block FeatherWing PCB"
     ],
@@ -121,24 +109,328 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
     "oompParts": [
         {
-            "JP1": "HEAD-I01-X-PI12-01",
-            "JP3": "HEAD-I01-X-PI16-01",
-            "S2": "UNMATCHED-UNMATCHED-X-UNMATCHED-01",
-            "X1": "TERS-35D-L-PI02-01",
-            "X10": "TERS-35D-L-PI03-01",
-            "X11": "TERS-35D-L-PI03-01",
-            "X12": "TERS-35D-L-PI03-01",
-            "X2": "TERS-35D-L-PI02-01",
-            "X3": "TERS-35D-L-PI02-01",
-            "X4": "TERS-35D-L-PI02-01",
-            "X5": "TERS-35D-L-PI03-01",
-            "X6": "TERS-35D-L-PI03-01",
-            "X7": "TERS-35D-L-PI03-01",
-            "X8": "TERS-35D-L-PI03-01",
-            "X9": "TERS-35D-L-PI03-01"
+            "JP1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "HEADER-1X1276MIL",
+                    "FULL": "JP1,,HEADER-1X1276MIL,1X12_ROUND_76MIL,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X12_ROUND_76MIL",
+                    "PACKAGENUMBER": "11276",
+                    "PART": "JP1",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI12-01"
+            },
+            "JP3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "PIN HEADER",
+                    "DEVICE": "HEADER-1X16_76MIL",
+                    "FULL": "JP3,,HEADER-1X16_76MIL,1X16_ROUND_76MIL,PIN HEADER,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "1X16_ROUND_76MIL",
+                    "PACKAGENUMBER": "11676",
+                    "PART": "JP3",
+                    "PARTLETTER": "JP",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "HEAD-I01-X-PI16-01"
+            },
+            "MS1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "",
+                    "DEVICE": "FEATHERWING_NODIM",
+                    "FULL": "MS1,FEATHERWING_NODIM,FEATHERWING_NODIM,FEATHERWING_DIM,,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "FEATHERWING_DIM",
+                    "PACKAGENUMBER": "",
+                    "PART": "MS1",
+                    "PARTLETTER": "MS",
+                    "VALUE": "FEATHERWING_NODIM",
+                    "VALUENUMBER": "_"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "S2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "OS10201MA1Q through-hole right angle switch",
+                    "DEVICE": "OS102011MA1Q",
+                    "FULL": "S2,OS102011MA1Q,OS102011MA1Q,OS102011MA1Q,OS10201MA1Q through-hole right angle switch,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "OS102011MA1Q",
+                    "PACKAGENUMBER": "1020111",
+                    "PART": "S2",
+                    "PARTLETTER": "S",
+                    "VALUE": "OS102011MA1Q",
+                    "VALUENUMBER": "1020111"
+                },
+                "OOMPID": "UNMATCHED-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$2": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE3.0THIN",
+                    "FULL": "U$2,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_3.0_PLATEDTHIN",
+                    "PACKAGENUMBER": "30",
+                    "PART": "U$2",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE3.0THIN",
+                    "VALUENUMBER": "3.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$3": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE3.0THIN",
+                    "FULL": "U$3,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_3.0_PLATEDTHIN",
+                    "PACKAGENUMBER": "30",
+                    "PART": "U$3",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE3.0THIN",
+                    "VALUENUMBER": "3.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$4": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE3.0THIN",
+                    "FULL": "U$4,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_3.0_PLATEDTHIN",
+                    "PACKAGENUMBER": "30",
+                    "PART": "U$4",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE3.0THIN",
+                    "VALUENUMBER": "3.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "U$5": {
+                "FULL": {
+                    "BOM": "EXCLUDE",
+                    "DESC": "Mounting Hole",
+                    "DEVICE": "MOUNTINGHOLE3.0THIN",
+                    "FULL": "U$5,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE3.0THIN,MOUNTINGHOLE_3.0_PLATEDTHIN,Mounting Hole,EXCLUDE,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "MOUNTINGHOLE_3.0_PLATEDTHIN",
+                    "PACKAGENUMBER": "30",
+                    "PART": "U$5",
+                    "PARTLETTER": "U$",
+                    "VALUE": "MOUNTINGHOLE3.0THIN",
+                    "VALUENUMBER": "3.0"
+                },
+                "OOMPID": "SKIP-UNMATCHED-X-UNMATCHED-01"
+            },
+            "X1": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X2",
+                    "FULL": "X1,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X2-3.5MM",
+                    "PACKAGENUMBER": "1235",
+                    "PART": "X1",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "X10": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X10,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X10",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X11": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X11,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X11",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X12": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X12,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X12",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X2": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X2",
+                    "FULL": "X2,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X2-3.5MM",
+                    "PACKAGENUMBER": "1235",
+                    "PART": "X2",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "X3": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X2",
+                    "FULL": "X3,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X2-3.5MM",
+                    "PACKAGENUMBER": "1235",
+                    "PART": "X3",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "X4": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X2",
+                    "FULL": "X4,,TERMBLOCK_1X2,TERMBLOCK_1X2-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X2-3.5MM",
+                    "PACKAGENUMBER": "1235",
+                    "PART": "X4",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI02-01"
+            },
+            "X5": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X5,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X5",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X6": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X6,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X6",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X7": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X7,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X7",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X8": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X8,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X8",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            },
+            "X9": {
+                "FULL": {
+                    "BOM": "",
+                    "DESC": "3.5mm Terminal block",
+                    "DEVICE": "TERMBLOCK_1X3",
+                    "FULL": "X9,,TERMBLOCK_1X3,TERMBLOCK_1X3-3.5MM,3.5mm Terminal block,,",
+                    "OWNER": "ADAF",
+                    "PACKAGE": "TERMBLOCK_1X3-3.5MM",
+                    "PACKAGENUMBER": "1335",
+                    "PART": "X9",
+                    "PARTLETTER": "X",
+                    "VALUE": "",
+                    "VALUENUMBER": ""
+                },
+                "OOMPID": "TERS-35D-L-PI03-01"
+            }
         }
     ],
     "oompSize": [
@@ -147,7 +439,6 @@
     "oompType": [
         "PROJ"
     ],
-    "oplPartNumber": [],
     "rawParts": [
         {
             "eagleBom": [
@@ -314,9 +605,5 @@
             ],
             "kicadBom": []
         }
-    ],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

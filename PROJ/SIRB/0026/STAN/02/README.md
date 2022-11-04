@@ -10,7 +10,7 @@ Contents
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
-NO IMAGE  
+![][im]
 # PRPR0026 > SirNanoV2 SirNano
 
 - ID: PROJ-SIRB-0026-STAN-02
@@ -54,3 +54,7 @@ NO IMAGE
 |kicadSchem|kicadSchem|SirNanoV2/SirNanoV2.kicad_sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
+
+
+
+[im]: kicadPcb3d_450.png
