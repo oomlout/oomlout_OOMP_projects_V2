@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR18574 > https://github.com/sparkfunX/RFM97CW Breakout](#prpr18574--httpsgithubcomsparkfunxrfm97cw-breakout)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18574-STAN-01](http://oom.lt/PROJ-SPAR-18574-STAN-01)
 - Short Link: [http://oom.lt/PRPR18574](http://oom.lt/PRPR18574)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/18574/STAN/01/ibom.html)
 ## OOMP Parts
   
 

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0005 > minik](#prpr0005--minik)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-ELLA-0005-STAN-01](http://oom.lt/PROJ-ELLA-0005-STAN-01)
 - Short Link: [http://oom.lt/PRPR0005](http://oom.lt/PRPR0005)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/ELLA/0005/STAN/01/ibom.html)
 ## OOMP Parts
   
 

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR15804 > https://github.com/sparkfunX/Qwiic PL N823 IR Breakout](#prpr15804--httpsgithubcomsparkfunxqwiic-pl-n823-ir-breakout)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-15804-STAN-01](http://oom.lt/PROJ-SPAR-15804-STAN-01)
 - Short Link: [http://oom.lt/PRPR15804](http://oom.lt/PRPR15804)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/15804/STAN/01/ibom.html)
 ## OOMP Parts
   
 

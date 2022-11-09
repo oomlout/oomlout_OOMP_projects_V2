@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0014 > Adafruit MintyBoost PCB](#prpr0014--adafruit-mintyboost-pcb)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,29 +19,19 @@ Contents
 - Long Link: [http://oom.lt/PROJ-ADAF-0014-STAN-01](http://oom.lt/PROJ-ADAF-0014-STAN-01)
 - Short Link: [http://oom.lt/PRPR0014](http://oom.lt/PRPR0014)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/ADAF/0014/STAN/01/ibom.html)
 ## OOMP Parts
   
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-UF220-01||
-|![]()|CAPX-UNMATCHED-X-UF220-01||
-|![]()|DIOD-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-O753-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-O753-01||
-|![]()|RESE-UNMATCHED-X-O332-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI01/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[HEAD-I01-X-PI01-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|[+,-](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI01/01/)|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C1,C2|
+|![]()|CAPX-UNMATCHED-X-UF220-01|C3,C4|
+|![]()|DIOD-UNMATCHED-X-UNMATCHED-01|D1|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC1,L1,X1|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R1,R3|
+|![]()|RESE-UNMATCHED-X-O753-01|R2,R4|
+|![]()|RESE-UNMATCHED-X-O332-01|R5|
 ||||
   
 

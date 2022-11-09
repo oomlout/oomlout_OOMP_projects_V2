@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0002 > Bus Pirate v0a](#prpr0002--bus-pirate-v0a)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,42 +19,19 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-DANP-0002-STAN-V0A](http://oom.lt/PROJ-DANP-0002-STAN-V0A)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/DANP/0002/STAN/V0A/ibom.html)
 ## OOMP Parts
   
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|CAPX-UNMATCHED-X-UF10-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|CAPX-UNMATCHED-X-NF100-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|HEAD-I01-X-UNMATCHED-01||
-|![]()|DCJP-21D-X-STAN-01||
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/G/STAN/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|[LEDS-03-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|[](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-UNMATCHED-01||
-|![]()|RESE-UNMATCHED-X-O202-01||
-|![]()|HEAD-I01-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01||
+|![]()|CAPX-UNMATCHED-X-UF10-01|C3|
+|![]()|CAPX-UNMATCHED-X-NF100-01|C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C17|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|IC1,IC2,VR1,VR2,X1,X2|
+|![]()|HEAD-I01-X-UNMATCHED-01|ICSP,SV3|
+|![]()|DCJP-21D-X-STAN-01|J1|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/G/STAN/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|[LEDS-03-G-STAN-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/G/STAN/01/)|
+|![]()|RESE-UNMATCHED-X-UNMATCHED-01|R1,R2,R3,R4,R5|
+|![]()|RESE-UNMATCHED-X-O202-01|R7|
 ||||
   
 

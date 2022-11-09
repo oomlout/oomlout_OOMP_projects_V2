@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3356/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3356/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3356/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -116,16 +119,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C1,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C1,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C1",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "CONN1": {
                 "FULL": {
@@ -531,7 +534,152 @@
                     "Value": "ADS1015IDGST"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X11_ROUND ",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X11_ROUND ",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X11_ROUND ",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X11_ROUND ",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PI_BONNET RASPBERRYPI_BPLUS_PHAT",
+                    "Package": "PI_BONNET",
+                    "Part": "RPI1",
+                    "Value": "RASPBERRYPI_BPLUS_PHAT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MSOP10 ADS1015IDGST",
+                    "Package": "MSOP10",
+                    "Part": "U1",
+                    "Value": "ADS1015IDGST"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X03_ROUND_76 ",
+                    "Package": "1X03_ROUND_76",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X03_ROUND_76 ",
+                    "Package": "1X03_ROUND_76",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X03_ROUND_76 ",
+                    "Package": "1X03_ROUND_76",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10K",
+                    "Package": "0805-NO",
+                    "Part": "R4",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X04_ROUND ",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP10",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X04_ROUND ",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X04_ROUND ",
+                    "Package": "1X04_ROUND",
+                    "Part": "JP8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X25_ROUND_70MIL HEADER-1X25",
+                    "Package": "1X25_ROUND_70MIL",
+                    "Part": "CONN1",
+                    "Value": "HEADER-1X25"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BONNET_EYES_REVA ",
+                    "Package": "BONNET_EYES_REVA",
+                    "Part": "U$8",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

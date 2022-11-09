@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3200/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3200/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3200/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -116,32 +119,32 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C3,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C3,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C3",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C6": {
                 "FULL": {
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C6,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C7": {
                 "FULL": {
@@ -164,16 +167,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C8,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C8,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C8",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "CHG": {
                 "FULL": {
@@ -603,7 +606,200 @@
                     "Value": "JSTPH"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$31",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$32",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100k",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "100k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$35",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$34",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MCP73831T-2ACI/OT",
+                    "Package": "SOT23-5",
+                    "Part": "U3",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TEENSY3-ALL_PINS TEENSY_3.1_ALL_PINS",
+                    "Package": "TEENSY3-ALL_PINS",
+                    "Part": "U$1",
+                    "Value": "TEENSY_3.1_ALL_PINS"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE ORANGE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "CHG0",
+                    "Value": "ORANGE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 2.2K",
+                    "Package": "0603-NO",
+                    "Part": "R8",
+                    "Value": "2.2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-123 MBR120",
+                    "Package": "SOD-123",
+                    "Part": "D4",
+                    "Value": "MBR120"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100K",
+                    "Package": "0603-NO",
+                    "Part": "R6",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X16_ROUND ",
+                    "Package": "1X16_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_3.5MM ",
+                    "Package": "ADAFRUIT_3.5MM",
+                    "Part": "U$7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X12_ROUND ",
+                    "Package": "1X12_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1K",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JSTPH2 JSTPH",
+                    "Package": "JSTPH2",
+                    "Part": "X1",
+                    "Value": "JSTPH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C7",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_5MM ",
+                    "Package": "ADAFRUIT_5MM",
+                    "Part": "U$4",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

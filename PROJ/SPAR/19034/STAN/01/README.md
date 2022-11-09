@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR19034 > https://github.com/sparkfunX/Qwiic High Performance Magnetometer MMC5983MA](#prpr19034--httpsgithubcomsparkfunxqwiic-high-performance-magnetometer-mmc5983ma)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-19034-STAN-01](http://oom.lt/PROJ-SPAR-19034-STAN-01)
 - Short Link: [http://oom.lt/PRPR19034](http://oom.lt/PRPR19034)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/19034/STAN/01/ibom.html)
 ## OOMP Parts
   
 

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR14312 > https://github.com/sparkfunX/Qwiic GPS TitanX1](#prpr14312--httpsgithubcomsparkfunxqwiic-gps-titanx1)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14312-STAN-01](http://oom.lt/PROJ-SPAR-14312-STAN-01)
 - Short Link: [http://oom.lt/PRPR14312](http://oom.lt/PRPR14312)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/14312/STAN/01/ibom.html)
 ## OOMP Parts
   
 

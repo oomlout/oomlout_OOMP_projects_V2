@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/4383/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/4383/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/4383/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -116,32 +119,32 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C1,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C1,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C1",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C2": {
                 "FULL": {
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C2,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C2,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C2",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C3": {
                 "FULL": {
@@ -555,7 +558,248 @@
                     "Value": "74HC4050D"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X11_ROUND ",
+                    "Package": "1X11_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE8",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 10K",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 10K",
+                    "Package": "0603-NO",
+                    "Part": "R8",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 0.1uF",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23 APX803",
+                    "Package": "SOT23",
+                    "Part": "IC5",
+                    "Value": "APX803"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOIC16 74HC4050D",
+                    "Package": "SOIC16",
+                    "Part": "U3",
+                    "Value": "74HC4050D"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-WIDE MMBT2222",
+                    "Package": "SOT23-WIDE",
+                    "Part": "Q1",
+                    "Value": "MMBT2222"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$10",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$9",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1K",
+                    "Package": "0603-NO",
+                    "Part": "R7",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_3.5MM MICROSD",
+                    "Package": "ADAFRUIT_3.5MM",
+                    "Part": "U$4",
+                    "Value": "MICROSD"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MIC5225-3.3",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "MIC5225-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MICROSD ",
+                    "Package": "MICROSD",
+                    "Part": "CN1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TFT_1.14IN_240X135_WRAPUNDER DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER",
+                    "Package": "TFT_1.14IN_240X135_WRAPUNDER",
+                    "Part": "DISP1",
+                    "Value": "DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER"
+                }
+            ]
         }
     ]
 }

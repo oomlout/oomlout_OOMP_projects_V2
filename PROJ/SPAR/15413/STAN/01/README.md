@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR15413 > https://github.com/sparkfunX/Qwiic TMP117](#prpr15413--httpsgithubcomsparkfunxqwiic-tmp117)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-15413-STAN-01](http://oom.lt/PROJ-SPAR-15413-STAN-01)
 - Short Link: [http://oom.lt/PRPR15413](http://oom.lt/PRPR15413)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/15413/STAN/01/ibom.html)
 ## OOMP Parts
   
 

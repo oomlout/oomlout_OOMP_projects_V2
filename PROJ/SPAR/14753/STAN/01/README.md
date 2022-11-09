@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR14753 > https://github.com/sparkfunX/RGB Panel Mega Shield](#prpr14753--httpsgithubcomsparkfunxrgb-panel-mega-shield)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14753-STAN-01](http://oom.lt/PROJ-SPAR-14753-STAN-01)
 - Short Link: [http://oom.lt/PRPR14753](http://oom.lt/PRPR14753)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/14753/STAN/01/ibom.html)
 ## OOMP Parts
   
 

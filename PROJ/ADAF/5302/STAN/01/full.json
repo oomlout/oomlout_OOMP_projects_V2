@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -276,16 +279,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC_0805MP",
-                    "FULL": "C6,10UF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "_0805MP",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C7": {
                 "FULL": {
@@ -308,16 +311,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC_0805MP",
-                    "FULL": "C8,10UF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "FULL": "C8,10\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "_0805MP",
                     "PACKAGENUMBER": "0805",
                     "PART": "C8",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C9": {
                 "FULL": {
@@ -1179,7 +1182,384 @@
                     "Value": "12MHZ"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 5.1K",
+                    "Package": "_0402NO",
+                    "Part": "R2",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 5.1K",
+                    "Package": "_0402NO",
+                    "Part": "R1",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 5.1K",
+                    "Package": "_0402NO",
+                    "Part": "R10",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 5.1K",
+                    "Package": "_0402NO",
+                    "Part": "R12",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$34",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$35",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0805MP 10\u00c2\u00b5F",
+                    "Package": "_0805MP",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0805MP 10\u00c2\u00b5F",
+                    "Package": "_0805MP",
+                    "Part": "C8",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C14",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C9",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C16",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C13",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C17",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C7",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 0.1uF",
+                    "Package": "_0402NO",
+                    "Part": "C11",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X13_CASTEL ",
+                    "Package": "1X13_CASTEL",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X13_CASTEL ",
+                    "Package": "1X13_CASTEL",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JST_SH4_SKINNY STEMMA_I2C_QTSKINNY",
+                    "Package": "JST_SH4_SKINNY",
+                    "Part": "CONN1",
+                    "Value": "STEMMA_I2C_QTSKINNY"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323F NSR0320",
+                    "Package": "SOD-323F",
+                    "Part": "D3",
+                    "Value": "NSR0320"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323F NSR0320",
+                    "Package": "SOD-323F",
+                    "Part": "D1",
+                    "Value": "NSR0320"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "USB_C_CUSB31-CFM2AX-01-X USB TYPE C",
+                    "Package": "USB_C_CUSB31-CFM2AX-01-X",
+                    "Part": "X6",
+                    "Value": "USB TYPE C"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CRYSTAL_2.5X2 12MHZ",
+                    "Package": "CRYSTAL_2.5X2",
+                    "Part": "Y1",
+                    "Value": "12MHZ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0603MP 1uF",
+                    "Package": "_0603MP",
+                    "Part": "C10",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0603MP 1uF",
+                    "Package": "_0603MP",
+                    "Part": "C12",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SK6805_1515 WS2812B_SK6805_1515",
+                    "Package": "SK6805_1515",
+                    "Part": "LED1",
+                    "Value": "WS2812B_SK6805_1515"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 10K",
+                    "Package": "_0402NO",
+                    "Part": "R5",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 10K",
+                    "Package": "_0402NO",
+                    "Part": "R7",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 10K",
+                    "Package": "_0402NO",
+                    "Part": "R9",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 22pF",
+                    "Package": "_0402NO",
+                    "Part": "C19",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 22pF",
+                    "Package": "_0402NO",
+                    "Part": "C20",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BTN_KMR2_4.6X2.8 KMR2",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW2",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BTN_KMR2_4.6X2.8 KMR2",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW3",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C15",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "USON8_4X4 8MB QSPI Flash",
+                    "Package": "USON8_4X4",
+                    "Part": "U5",
+                    "Value": "8MB QSPI Flash"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 1K",
+                    "Package": "_0402NO",
+                    "Part": "R6",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 1K",
+                    "Package": "_0402NO",
+                    "Part": "R11",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "KB2040_TOP ",
+                    "Package": "KB2040_TOP",
+                    "Part": "U$19",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO FUSE",
+                    "Package": "0805-NO",
+                    "Part": "R8",
+                    "Value": "FUSE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 AP2112K-3.3",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "AP2112K-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 27",
+                    "Package": "_0402NO",
+                    "Part": "R3",
+                    "Value": "27"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0402NO 27",
+                    "Package": "_0402NO",
+                    "Part": "R4",
+                    "Value": "27"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "QFN56_7MM_REDUCEDEPAD RP2040_QFN56",
+                    "Package": "QFN56_7MM_REDUCEDEPAD",
+                    "Part": "IC2",
+                    "Value": "RP2040_QFN56"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0603_NOOUTLINE GREEN",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "D2",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$20",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_ARROW_NOPASTE ",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TESTPOINT_ROUND_1.5MM_NO ",
+                    "Package": "TESTPOINT_ROUND_1.5MM_NO",
+                    "Part": "TP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "KB2040_BOT ",
+                    "Package": "KB2040_BOT",
+                    "Part": "U$17",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

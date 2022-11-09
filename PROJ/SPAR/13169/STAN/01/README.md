@@ -6,7 +6,7 @@ Contents
 ========
 
 * [PRPR13169 > Blackberry Trackballer Breakout](#prpr13169--blackberry-trackballer-breakout)
-	* [I BOM](#i-bom)
+	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,7 +20,7 @@ Contents
 - Long Link: [http://oom.lt/PROJ-SPAR-13169-STAN-01](http://oom.lt/PROJ-SPAR-13169-STAN-01)
 - Short Link: [http://oom.lt/PRPR13169](http://oom.lt/PRPR13169)
 
-## I BOM
+## iBom
   
 [iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/13169/STAN/01/ibom.html)
 ## OOMP Parts
@@ -28,8 +28,6 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|SKIP-UNMATCHED-X-UNMATCHED-01||
-|![]()|SKIP-UNMATCHED-X-UNMATCHED-01||
 ||||
   
 
@@ -55,8 +53,8 @@ Contents
 |gitName|gitName|Blackberry_Trackballer_Breakout|
 |eagleBoard|eagleBoard|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkFun_Blackberry_Trackballer_Breakout.sch|
-|OOMP Parts List|oompParts|<table><tr><td>'FRAME1'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'SKIP-UNMATCHED-X-UNMATCHED-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'DESC'</td></tr><tr><td> 'Schematic Frame'</td><td> 'PART'</td></tr><tr><td> 'FRAME1'</td><td> 'DEVICE'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'PACKAGE'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'PARTLETTER'</td></tr><tr><td> 'FRAME'</td><td> 'VALUE'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'VALUENUMBER'</td></tr><tr><td> '-'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td><td> 'OWNER'</td></tr><tr><td> 'SPAR'</td><td> 'FULL'</td></tr><tr><td> 'FRAME1</td><td>FRAME-LETTER</td><td>FRAME-LETTER</td><td>CREATIVE_COMMONS</td><td>Schematic Frame</td><td></td><td>'</td></tr></table></td></tr></table></td><td> 'U$1'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'SKIP-UNMATCHED-X-UNMATCHED-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'DESC'</td></tr><tr><td> ''</td><td> 'PART'</td></tr><tr><td> 'U$1'</td><td> 'DEVICE'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'PACKAGE'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'PARTLETTER'</td></tr><tr><td> 'U$'</td><td> 'VALUE'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'VALUENUMBER'</td></tr><tr><td> '_'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> 'PCB-12486'</td><td> 'OWNER'</td></tr><tr><td> 'SPAR'</td><td> 'FULL'</td></tr><tr><td> 'U$1</td><td>BLACKBERRY_TRACKBALLER</td><td>BLACKBERRY_TRACKBALLER</td><td>BLACKBERRY_TRACKBALLER</td><td></td><td>PCB-12486</td><td>'</td></tr></table></td></tr></table></td></tr></table>|
-|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> []</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FRAME1'</td><td> 'Value'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Device'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Package'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'Description'</td></tr><tr><td> 'Schematic Frame'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Device'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Package'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> 'PCB-12486'</td></tr></table>]</td></tr></table>|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FRAME1'</td><td> 'Value'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Device'</td></tr><tr><td> 'CREATIVE_COMMONS FRAME-LETTER'</td><td> 'Package'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Device'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER BLACKBERRY_TRACKBALLER'</td><td> 'Package'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td><td> 'eagleBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'FRAME1'</td><td> 'Value'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Device'</td></tr><tr><td> 'FRAME-LETTER'</td><td> 'Package'</td></tr><tr><td> 'CREATIVE_COMMONS'</td><td> 'Description'</td></tr><tr><td> 'Schematic Frame'</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'U$1'</td><td> 'Value'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Device'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Package'</td></tr><tr><td> 'BLACKBERRY_TRACKBALLER'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> 'PCB-12486'</td></tr></table>]</td></tr></table>|
 ||||
 
 

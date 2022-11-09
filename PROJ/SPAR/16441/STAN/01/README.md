@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR16441 > https://github.com/sparkfunX/2D Barcode Scanner](#prpr16441--httpsgithubcomsparkfunx2d-barcode-scanner)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-16441-STAN-01](http://oom.lt/PROJ-SPAR-16441-STAN-01)
 - Short Link: [http://oom.lt/PRPR16441](http://oom.lt/PRPR16441)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/16441/STAN/01/ibom.html)
 ## OOMP Parts
   
 

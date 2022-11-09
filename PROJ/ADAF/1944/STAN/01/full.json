@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1944/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/1944/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/1944/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -196,16 +199,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C6,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "CN1": {
                 "FULL": {
@@ -1011,7 +1014,344 @@
                     "Value": "microUSB"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R5",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R7",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R20",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE ORANGE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED3",
+                    "Value": "ORANGE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 340K",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "340K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 340K",
+                    "Package": "0805-NO",
+                    "Part": "R13",
+                    "Value": "340K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "EIA3528-21_B-R 100uF/6V",
+                    "Package": "EIA3528-21_B-R",
+                    "Part": "C5",
+                    "Value": "100uF/6V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 2k",
+                    "Package": "0805-NO",
+                    "Part": "R8",
+                    "Value": "2k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MCP73831T-2ACI/OT",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_MINUS ",
+                    "Package": "SYMBOL_MINUS",
+                    "Part": "U$26",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "USB_HOST-PTH USBA_FEMALE",
+                    "Package": "USB_HOST-PTH",
+                    "Part": "CN1",
+                    "Value": "USBA_FEMALE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X06-CLEANBIG ",
+                    "Package": "1X06-CLEANBIG",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TERMBLOCK_1X2-3.5MM ",
+                    "Package": "TERMBLOCK_1X2-3.5MM",
+                    "Part": "X1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 49.9K 1%",
+                    "Package": "0805-NO",
+                    "Part": "R10",
+                    "Value": "49.9K 1%"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 49.9K 1%",
+                    "Package": "0805-NO",
+                    "Part": "R12",
+                    "Value": "49.9K 1%"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$12",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$10",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SC59-BEC MMUN2133LT1G",
+                    "Package": "SC59-BEC",
+                    "Part": "Q1",
+                    "Value": "MMUN2133LT1G"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE RED",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LBO0",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_PLUS ",
+                    "Package": "SYMBOL_PLUS",
+                    "Part": "U$25",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_PLUS ",
+                    "Package": "SYMBOL_PLUS",
+                    "Part": "U$13",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 200K",
+                    "Package": "0805-NO",
+                    "Part": "R4",
+                    "Value": "200K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE BLUE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "PWR0",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "4UCONN_20329 microUSB",
+                    "Package": "4UCONN_20329",
+                    "Part": "X2",
+                    "Value": "microUSB"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1.87Mohm",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "1.87Mohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1.87Mohm",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "1.87Mohm"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 470",
+                    "Package": "0805-NO",
+                    "Part": "R6",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 75K 1%",
+                    "Package": "0805-NO",
+                    "Part": "R9",
+                    "Value": "75K 1%"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 75K 1%",
+                    "Package": "0805-NO",
+                    "Part": "R11",
+                    "Value": "75K 1%"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JSTPH2 1.8-5V",
+                    "Package": "JSTPH2",
+                    "Part": "B1",
+                    "Value": "1.8-5V"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "INDUCTOR_5X5MM_TDK_VLC5045 VLC5045-6.8uH",
+                    "Package": "INDUCTOR_5X5MM_TDK_VLC5045",
+                    "Part": "L1",
+                    "Value": "VLC5045-6.8uH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 0.1uF",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE GREEN",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "LED4",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 2.2uF",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "2.2uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_2.5MM ",
+                    "Package": "ADAFRUIT_2.5MM",
+                    "Part": "U$28",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PVQFN-16 TPS61090RSAR",
+                    "Package": "PVQFN-16",
+                    "Part": "U1",
+                    "Value": "TPS61090RSAR"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_5MM ",
+                    "Package": "ADAFRUIT_5MM",
+                    "Part": "U$29",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

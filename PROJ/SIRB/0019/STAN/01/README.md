@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0019 > USB_C Breakout Board (sirboard)](#prpr0019--usb_c-breakout-board-sirboard)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SIRB-0019-STAN-01](http://oom.lt/PROJ-SIRB-0019-STAN-01)
 - Short Link: [http://oom.lt/PRPR0019](http://oom.lt/PRPR0019)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SIRB/0019/STAN/01/ibom.html)
 ## OOMP Parts
   
 

@@ -1,2 +1,2 @@
 def load(newPart,it):
-    it['PROJ-PDP7-0012-STAN-01']['oompParts'] = [{}]
+    it['PROJ-PDP7-0012-STAN-01']['oompParts'] = [{'OSH_small': {'OOMPID': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'FULL': {'DESC': '', 'PART': 'OSH_small', 'DEVICE': 'OSH_small_silk G***', 'PACKAGE': 'OSH_small_silk', 'PARTLETTER': 'OSH_small', 'VALUE': 'G***', 'VALUENUMBER': '***', 'PACKAGENUMBER': '', 'BOM': '', 'OWNER': 'PDP7', 'FULL': 'OSH_small,G***,OSH_small_silk G***,OSH_small_silk,,,'}}}]

@@ -5,24 +5,20 @@
 Contents
 ========
 
-* [PRPR0008 > <built-in method capitalize of str object at 0x000001DF6E5A9330>](#prpr0008--built-in-method-capitalize-of-str-object-at-0x000001df6e5a9330)
-	* [I BOM](#i-bom)
+* [PRPR0008 > <built-in method capitalize of str object at 0x0000017F0A5CFBF0>](#prpr0008--built-in-method-capitalize-of-str-object-at-0x0000017f0a5cfbf0)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0008 > <built-in method capitalize of str object at 0x000001DF6E5A9330>
+# PRPR0008 > <built-in method capitalize of str object at 0x0000017F0A5CFBF0>
 
 - ID: PROJ-PDP7-0008-STAN-01
 - Hex ID: PRPR0008
-- Name: <built-in method capitalize of str object at 0x000001DF6E5A9330>
-- Description: <built-in method capitalize of str object at 0x000001DF6E5A9330>
+- Name: <built-in method capitalize of str object at 0x0000017F0A5CFBF0>
+- Description: <built-in method capitalize of str object at 0x0000017F0A5CFBF0>
 - Long Link: [http://oom.lt/PROJ-PDP7-0008-STAN-01](http://oom.lt/PROJ-PDP7-0008-STAN-01)
 - Short Link: [http://oom.lt/PRPR0008](http://oom.lt/PRPR0008)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/PDP7/0008/STAN/01/ibom.html)
 ## OOMP Parts
   
 
@@ -46,7 +42,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0008-STAN-01|
 |Hex ID (short code)|hexID|PRPR0008|
-|name|name|<built-in method capitalize of str object at 0x000001DF6E5A9330>|
+|name|name|<built-in method capitalize of str object at 0x0000017F0A5CFBF0>|
 |gitRepo|gitRepo|https://github.com/pdp7/art|
 |gitName|gitName|art|
 |kicadBoard|kicadBoard|art2.kicad_pcb|

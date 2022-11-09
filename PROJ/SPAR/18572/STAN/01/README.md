@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR18572 > https://github.com/sparkfunX/LoRa 1W Breakout](#prpr18572--httpsgithubcomsparkfunxlora-1w-breakout)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-18572-STAN-01](http://oom.lt/PROJ-SPAR-18572-STAN-01)
 - Short Link: [http://oom.lt/PRPR18572](http://oom.lt/PRPR18572)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/18572/STAN/01/ibom.html)
 ## OOMP Parts
   
 

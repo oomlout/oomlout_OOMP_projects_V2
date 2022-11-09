@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0002 > CR2031 Breakout Board (sirboard)](#prpr0002--cr2031-breakout-board-sirboard)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SIRB-0002-STAN-01](http://oom.lt/PROJ-SIRB-0002-STAN-01)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SIRB/0002/STAN/01/ibom.html)
 ## OOMP Parts
   
 

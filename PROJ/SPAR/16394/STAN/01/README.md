@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR16394 > https://github.com/sparkfunX/Qwiic Iridium 9603N](#prpr16394--httpsgithubcomsparkfunxqwiic-iridium-9603n)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-16394-STAN-01](http://oom.lt/PROJ-SPAR-16394-STAN-01)
 - Short Link: [http://oom.lt/PRPR16394](http://oom.lt/PRPR16394)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/16394/STAN/01/ibom.html)
 ## OOMP Parts
   
 

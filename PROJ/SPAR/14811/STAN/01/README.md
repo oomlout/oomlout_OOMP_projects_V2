@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR14811 > https://github.com/sparkfunX/A111 Pulsed Radar Breakout](#prpr14811--httpsgithubcomsparkfunxa111-pulsed-radar-breakout)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-14811-STAN-01](http://oom.lt/PROJ-SPAR-14811-STAN-01)
 - Short Link: [http://oom.lt/PRPR14811](http://oom.lt/PRPR14811)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/14811/STAN/01/ibom.html)
 ## OOMP Parts
   
 

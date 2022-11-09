@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/2468/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/2468/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/2468/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -116,16 +119,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C1,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C1,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C1",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C10": {
                 "FULL": {
@@ -1683,7 +1686,632 @@
                     "Value": "SIM_LOCKAMPHENOL"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SMA_EDGELAUNCH_UFL uFL",
+                    "Package": "SMA_EDGELAUNCH_UFL",
+                    "Part": "X1",
+                    "Value": "uFL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TP11R TPTP11R",
+                    "Package": "TP11R",
+                    "Part": "TP1",
+                    "Value": "TPTP11R"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323 1N4148",
+                    "Package": "SOD-323",
+                    "Part": "D5",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323 1N4148",
+                    "Package": "SOD-323",
+                    "Part": "D4",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323 1N4148",
+                    "Package": "SOD-323",
+                    "Part": "D3",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323 1N4148",
+                    "Package": "SOD-323",
+                    "Part": "D6",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-323 1N4148",
+                    "Package": "SOD-323",
+                    "Part": "D8",
+                    "Value": "1N4148"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C9",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C11",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_PLUS ",
+                    "Package": "SYMBOL_PLUS",
+                    "Part": "U$43",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_PLUS ",
+                    "Package": "SYMBOL_PLUS",
+                    "Part": "U$2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_PLUS ",
+                    "Package": "SYMBOL_PLUS",
+                    "Part": "U$36",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT363 SMF05C",
+                    "Package": "SOT363",
+                    "Part": "D2",
+                    "Value": "SMF05C"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SC59-BEC DTC143ZUAT106",
+                    "Package": "SC59-BEC",
+                    "Part": "Q1",
+                    "Value": "DTC143ZUAT106"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE GREEN",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "PWRSTAT0",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE GREEN",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "DONE0",
+                    "Value": "GREEN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X10_ROUND70 ",
+                    "Package": "1X10_ROUND70",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ARDUINOR3_ICSP_NODIM ARDUINO_R3_ICSP_NODIM",
+                    "Package": "ARDUINOR3_ICSP_NODIM",
+                    "Part": "M1",
+                    "Value": "ARDUINO_R3_ICSP_NODIM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R5",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R2",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 1K",
+                    "Package": "0805-NO",
+                    "Part": "R4",
+                    "Value": "1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X06_ROUND_76 ",
+                    "Package": "1X06_ROUND_76",
+                    "Part": "JP7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 10pF",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "C17",
+                    "Value": "10pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 10pF",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "C15",
+                    "Value": "10pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND BUZZ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP3",
+                    "Value": "BUZZ"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "SJ4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X08_ROUND_76 ",
+                    "Package": "1X08_ROUND_76",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X08_ROUND_76 ",
+                    "Package": "1X08_ROUND_76",
+                    "Part": "JP6",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X08_ROUND_76 ",
+                    "Package": "1X08_ROUND_76",
+                    "Part": "JP10",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "EVQ-Q2 KMR2",
+                    "Package": "EVQ-Q2",
+                    "Part": "SW1",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 470",
+                    "Package": "0805-NO",
+                    "Part": "R1",
+                    "Value": "470"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 33pF",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "33pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 33pF",
+                    "Package": "0805-NO",
+                    "Part": "C4",
+                    "Value": "33pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 33pF",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "33pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID4",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID3",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID5",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 4.7K",
+                    "Package": "0805-NO",
+                    "Part": "R6",
+                    "Value": "4.7K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 4.7K",
+                    "Package": "0805-NO",
+                    "Part": "R3",
+                    "Value": "4.7K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE ORANGE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "CHRG0",
+                    "Value": "ORANGE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 33pF",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "C14",
+                    "Value": "33pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 33pF",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "C16",
+                    "Value": "33pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$59",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10pF",
+                    "Package": "0805-NO",
+                    "Part": "C10",
+                    "Value": "10pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10pF",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "10pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10pF",
+                    "Package": "0805-NO",
+                    "Part": "C5",
+                    "Value": "10pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "4UCONN_18510 4UCONN_18510",
+                    "Package": "4UCONN_18510",
+                    "Part": "X4",
+                    "Value": "4UCONN_18510"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-123 MBRA120",
+                    "Package": "SOD-123",
+                    "Part": "D7",
+                    "Value": "MBRA120"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE BLUE",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "NETSTAT0",
+                    "Value": "BLUE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JSTPH2 JSTPH",
+                    "Package": "JSTPH2",
+                    "Part": "CN2",
+                    "Value": "JSTPH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_2WAY_OPEN_NOPASTE ",
+                    "Package": "SOLDERJUMPER_2WAY_OPEN_NOPASTE",
+                    "Part": "SJ1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TSSOP14 74VHCT125PW",
+                    "Package": "TSSOP14",
+                    "Part": "IC1",
+                    "Value": "74VHCT125PW"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FONA_LOGO ",
+                    "Package": "FONA_LOGO",
+                    "Part": "U$26",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MCP73831T-2ACI/OT",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-123 MMSZ5231BT1G",
+                    "Package": "SOD-123",
+                    "Part": "D1",
+                    "Value": "MMSZ5231BT1G"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND MIC",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP2",
+                    "Value": "MIC"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_MINUS ",
+                    "Package": "SYMBOL_MINUS",
+                    "Part": "U$33",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_MINUS ",
+                    "Package": "SYMBOL_MINUS",
+                    "Part": "U$57",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SYMBOL_MINUS ",
+                    "Package": "SYMBOL_MINUS",
+                    "Part": "U$34",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X01-CLEANBIG ",
+                    "Package": "1X01-CLEANBIG",
+                    "Part": "PWM0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "C707_10M006_512_2 SIM_LOCKAMPHENOL",
+                    "Package": "C707_10M006_512_2",
+                    "Part": "X6",
+                    "Value": "SIM_LOCKAMPHENOL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "EG1390 EG1390",
+                    "Package": "EG1390",
+                    "Part": "SW2",
+                    "Value": "EG1390"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SIM800L SIM800H/L",
+                    "Package": "SIM800L",
+                    "Part": "U1",
+                    "Value": "SIM800H/L"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "C1210 100uF",
+                    "Package": "C1210",
+                    "Part": "C7",
+                    "Value": "100uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_5MM ",
+                    "Package": "ADAFRUIT_5MM",
+                    "Part": "U$10",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

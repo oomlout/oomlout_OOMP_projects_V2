@@ -1,47 +1,43 @@
-Arduino Pro Mini 328
-====================
+**NOTE:** *This product has been retired from our catalog as this was for a special promotion. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking, improving, and using on this product with the [Arduino Pro Mini 5V/16MHz](https://www.sparkfun.com/products/11113).*
+* *[SparkFun Forum](https://forum.sparkfun.com/)*
+* *[IRC Channel](https://www.sparkfun.com/news/263)*
 
-<table class="table table-hover table-striped table-bordered">
-  <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/11113"><img src="https://cdn.sparkfun.com/assets/parts/6/5/3/9/11113-04b.jpg" title="Arduino Pro Mini 328 - 5V/16MHz"></a></td>
-   <td><a href="https://www.sparkfun.com/products/11114"><img src="https://cdn.sparkfun.com/assets/parts/6/5/4/0/11114-04.jpg" title="Arduino Pro Mini 328 - 3.3V/8MHz
-"></a></td>
-  </tr>
-  <tr align="center">
-    <td><i>Arduino Pro Mini 328 - 5V/16MHz [<a href="https://www.sparkfun.com/products/11113">DEV-11113</a>]</i></td>
-    <td><i>Arduino Pro Mini 328 - 3.3V/8MHz [<a href="https://www.sparkfun.com/products/11114">DEV-11114</a>]</i></td>
-  </tr>
-</table>
+SparkFun Pro Mini Candy
+===============
 
-SparkFun's Arduino Pro Mini 328 is a bare bones super small Arduino compatible development board. This hardware is used for both the 3.3V/8MHz and the 5V/16MHz versions. 
+![SparkFun Pro Mini Candy ](https://cdn.sparkfun.com//assets/parts/9/3/0/8/12627-04.jpg)
 
-Both of these products use the same PCB, but are populated with unique voltage regulators and resonators.
+[*SparkFun  Pro Mini Candy (DEV-12627)*](https://www.sparkfun.com/products/retired/12627)
+
+
+This is a repository for the special SparkFun version of the Arduino Pro Mini 5V/16 MHz board.
+
+It is designed to be used as a complimentary board to send out with holiday orders. Check out the special regarding this [here](https://www.sparkfun.com/news/1334).
 
 Repository Contents
 -------------------
-* **/Documentation** - SVG and PDF datasheets for the Pro Mini
-* **/Hardware** - Eagle design files (Schematic and Board)
-* **/Production** - Test bed files and production panel files
+
+* **/Firmware** - Example code 
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)** - Basic hookup guide for the Arduino Pro Mini 3.3V/8MHz. It can be used as a guide with the 5V. The only difference when following the tutorial is selecting the board definition in the Arduino IDE and the voltage levels.
 
-Product Versions
-----------------
-* [DEV-11113](https://www.sparkfun.com/products/11113)- 5V/16MHz Pro Mini
-* [DEV-15254](https://www.sparkfun.com/products/15254)- 5V/16MHz Pro Mini Starter Kit
-* [DEV-11114](https://www.sparkfun.com/products/11114)- 3.3V/8MHz Pro Mini
-* [DEV-15257](https://www.sparkfun.com/products/15257)- 3.3V/8MHz Pro Mini Starter Kit 
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)** - Basic hookup guide for the Arduino Pro Mini 3.3V/8MHz. It can be used as a guide with the 5V. The only difference when following the tutorial is selecting the board definition in the Arduino IDE and the voltage levels.
+* **[Limited Edition Christmas Candy Pro Mini](https://www.sparkfun.com/news/1334)** - Blog post about the special Pro Mini Candy.
 
 License Information
 -------------------
-The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
 
-Hardware authors: Original Arduino Mini design by Team Arduino
+This product is _**open source**_! 
 
-Pro Mini design by Nathan Seidle @ SparkFun Electonics
+Please review the LICENSE.md file for license information. 
 
-Revision work by Pete Lewis @ SparkFun Electonics  
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_

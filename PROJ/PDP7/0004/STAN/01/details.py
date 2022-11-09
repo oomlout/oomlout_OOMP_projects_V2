@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x00000279AD5F5B60>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x0000017F0A5F0C10>')
     newPart['gitRepo'].append('https://github.com/pdp7/rotary-encoder-breakout')
     newPart['gitName'].append('rotary-encoder-breakout')
     newPart['kicadBoard'].append('rotary-encoder-breakout.kicad_pcb')

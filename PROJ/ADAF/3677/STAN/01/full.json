@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -132,16 +135,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C6,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C7": {
                 "FULL": {
@@ -164,16 +167,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C8,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C8,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C8",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C9": {
                 "FULL": {
@@ -651,7 +654,208 @@
                     "Value": "16MHz"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C7",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X05_ROUND ",
+                    "Package": "1X05_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "4UCONN_20329_V2 microUSB",
+                    "Package": "4UCONN_20329_V2",
+                    "Part": "X3",
+                    "Value": "microUSB"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MIC5225-5.0",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "MIC5225-5.0"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C14",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C9",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0805_NOOUTLINE RED",
+                    "Package": "CHIPLED_0805_NOOUTLINE",
+                    "Part": "L0",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESONATOR-SMD 16MHz",
+                    "Package": "RESONATOR-SMD",
+                    "Part": "Y1",
+                    "Value": "16MHz"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_3.5MM ",
+                    "Package": "ADAFRUIT_3.5MM",
+                    "Part": "U$7",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X14_ROUND70 ",
+                    "Package": "1X14_ROUND70",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X14_ROUND70 ",
+                    "Package": "1X14_ROUND70",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 2.2K",
+                    "Package": "0603-NO",
+                    "Part": "R7",
+                    "Value": "2.2K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100k",
+                    "Package": "0603-NO",
+                    "Part": "R9",
+                    "Value": "100k"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$35",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$34",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "TQFN44_7MM ATMEGA32U4-MU",
+                    "Package": "TQFN44_7MM",
+                    "Part": "IC1",
+                    "Value": "ATMEGA32U4-MU"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "KMR2 SPST_TACT-KMR2",
+                    "Package": "KMR2",
+                    "Part": "SW1",
+                    "Value": "SPST_TACT-KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-123 MBR120",
+                    "Package": "SOD-123",
+                    "Part": "D1",
+                    "Value": "MBR120"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_5MM ",
+                    "Package": "ADAFRUIT_5MM",
+                    "Part": "U$4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JSTPH2 ",
+                    "Package": "JSTPH2",
+                    "Part": "X1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$10",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

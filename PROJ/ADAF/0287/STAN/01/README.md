@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR0287 > Adafruit Brain Machine Kit](#prpr0287--adafruit-brain-machine-kit)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ Contents
 - Long Link: [http://oom.lt/PROJ-ADAF-0287-STAN-01](http://oom.lt/PROJ-ADAF-0287-STAN-01)
 - Short Link: [http://oom.lt/PRPR0287](http://oom.lt/PRPR0287)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/ADAF/0287/STAN/01/ibom.html)
 ## OOMP Parts
   
 

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [PRPR16770 > https://github.com/sparkfunX/Qwiic PT100 ADS122C04](#prpr16770--httpsgithubcomsparkfunxqwiic-pt100-ads122c04)
-	* [I BOM](#i-bom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
@@ -20,9 +19,6 @@ NO IMAGE
 - Long Link: [http://oom.lt/PROJ-SPAR-16770-STAN-01](http://oom.lt/PROJ-SPAR-16770-STAN-01)
 - Short Link: [http://oom.lt/PRPR16770](http://oom.lt/PRPR16770)
 
-## I BOM
-  
-[iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/16770/STAN/01/ibom.html)
 ## OOMP Parts
   
 

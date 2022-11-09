@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -132,16 +135,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0603_NO",
-                    "FULL": "C19,1UF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "FULL": "C19,1\u00b5F,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0603-NO",
                     "PACKAGENUMBER": "0603",
                     "PART": "C19",
                     "PARTLETTER": "C",
                     "VALUE": "1UF",
-                    "VALUENUMBER": "1"
+                    "VALUENUMBER": "1\u00b5"
                 },
-                "OOMPID": "CAPC-0603-X-UF1-V25"
+                "OOMPID": "CAPC-0603-X-UNMATCHED-01"
             },
             "C2": {
                 "FULL": {
@@ -164,16 +167,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C20,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C20,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C20",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C21": {
                 "FULL": {
@@ -212,16 +215,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0603_NO",
-                    "FULL": "C26,0.1UF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "FULL": "C26,0.1\u00b5F,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0603-NO",
                     "PACKAGENUMBER": "0603",
                     "PART": "C26",
                     "PARTLETTER": "C",
                     "VALUE": "0.1UF",
-                    "VALUENUMBER": "0.1"
+                    "VALUENUMBER": "0.1\u00b5"
                 },
-                "OOMPID": "CAPC-0603-X-NF100-V50"
+                "OOMPID": "CAPC-0603-X-UNMATCHED-01"
             },
             "C3": {
                 "FULL": {
@@ -276,32 +279,32 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC_0805MP",
-                    "FULL": "C6,10UF,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC_0805MP,_0805MP,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "_0805MP",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C8": {
                 "FULL": {
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0603_NO",
-                    "FULL": "C8,1UF,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
+                    "FULL": "C8,1\u00b5F,CAP_CERAMIC0603_NO,0603-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0603-NO",
                     "PACKAGENUMBER": "0603",
                     "PART": "C8",
                     "PARTLETTER": "C",
                     "VALUE": "1UF",
-                    "VALUENUMBER": "1"
+                    "VALUENUMBER": "1\u00b5"
                 },
-                "OOMPID": "CAPC-0603-X-UF1-V25"
+                "OOMPID": "CAPC-0603-X-UNMATCHED-01"
             },
             "CN1": {
                 "FULL": {
@@ -1011,7 +1014,336 @@
                     "Value": "ABM8G-12.288MHZ-4Y-T3"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1M",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "1M"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LQFP48 VS1053B",
+                    "Package": "LQFP48",
+                    "Part": "U1",
+                    "Value": "VS1053B"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22pF",
+                    "Package": "0603-NO",
+                    "Part": "C5",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22pF",
+                    "Package": "0603-NO",
+                    "Part": "C4",
+                    "Value": "22pF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100K",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 22",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "22"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 10nF",
+                    "Package": "0603-NO",
+                    "Part": "C22",
+                    "Value": "10nF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 10nF",
+                    "Package": "0603-NO",
+                    "Part": "C21",
+                    "Value": "10nF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1\u00c2\u00b5F",
+                    "Package": "0603-NO",
+                    "Part": "C8",
+                    "Value": "1\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1\u00c2\u00b5F",
+                    "Package": "0603-NO",
+                    "Part": "C19",
+                    "Value": "1\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO FERITTE",
+                    "Package": "0805-NO",
+                    "Part": "FB1",
+                    "Value": "FERITTE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO FERITTE",
+                    "Package": "0805-NO",
+                    "Part": "FB2",
+                    "Value": "FERITTE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERWING_NODIM FEATHERWING_NODIM",
+                    "Package": "FEATHERWING_NODIM",
+                    "Part": "MS1",
+                    "Value": "FEATHERWING_NODIM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X12_ROUND ",
+                    "Package": "1X12_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PANASONIC_C 220uF",
+                    "Package": "PANASONIC_C",
+                    "Part": "C2",
+                    "Value": "220uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PANASONIC_C 220uF",
+                    "Package": "PANASONIC_C",
+                    "Part": "C1",
+                    "Value": "220uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID1",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "FID2",
+                    "Value": "FIDUCIAL"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP4",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X02_ROUND ",
+                    "Package": "1X02_ROUND",
+                    "Part": "JP2",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100",
+                    "Package": "0603-NO",
+                    "Part": "R7",
+                    "Value": "100"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100",
+                    "Package": "0603-NO",
+                    "Part": "R6",
+                    "Value": "100"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_3.5MM ",
+                    "Package": "ADAFRUIT_3.5MM",
+                    "Part": "U$36",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X13_ROUND_70 ",
+                    "Package": "1X13_ROUND_70",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-6 AP7312-1833W6-7",
+                    "Package": "SOT23-6",
+                    "Part": "U2",
+                    "Value": "AP7312-1833W6-7"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C20",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "4UCONN_18510 ",
+                    "Package": "4UCONN_18510",
+                    "Part": "X1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BTN_KMR2_4.6X2.8 KMR2",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW1",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CRYSTAL_3.2X2.5 ABM8G-12.288MHZ-4Y-T3",
+                    "Package": "CRYSTAL_3.2X2.5",
+                    "Part": "Y1",
+                    "Value": "ABM8G-12.288MHZ-4Y-T3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X01_ROUND ",
+                    "Package": "1X01_ROUND",
+                    "Part": "JP5",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MICROSD 2908-05WB-M6",
+                    "Package": "MICROSD",
+                    "Part": "CN1",
+                    "Value": "2908-05WB-M6"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 100K",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R16",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C3",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 0.1\u00c2\u00b5F",
+                    "Package": "0603-NO",
+                    "Part": "C26",
+                    "Value": "0.1\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "_0805MP 10\u00c2\u00b5F",
+                    "Package": "_0805MP",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERLOGO_SMALL ",
+                    "Package": "FEATHERLOGO_SMALL",
+                    "Part": "U$37",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_TEXT_20MM ",
+                    "Package": "ADAFRUIT_TEXT_20MM",
+                    "Part": "U$55",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_CLOSEDWIRE ",
+                    "Package": "SOLDERJUMPER_CLOSEDWIRE",
+                    "Part": "RST0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOLDERJUMPER_ARROW_NOPASTE ",
+                    "Package": "SOLDERJUMPER_ARROW_NOPASTE",
+                    "Part": "MIDI0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$43",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }

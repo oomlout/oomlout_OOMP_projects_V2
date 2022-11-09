@@ -78,6 +78,9 @@
         "jsonFull": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/5400/STAN/01/full.json"
         ],
+        "kicadBOM": [
+            "oomlout_OOMP_projects_V2/PROJ/ADAF/5400/STAN/01/src/kicadBoardBom.csv"
+        ],
         "kicadBoard": [
             "oomlout_OOMP_projects_V2/PROJ/ADAF/5400/STAN/01/src/kicadBoard.kicad_pcb"
         ],
@@ -212,16 +215,16 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C3,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C3,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C3",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C4": {
                 "FULL": {
@@ -260,48 +263,48 @@
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C6,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C6,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C6",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C7": {
                 "FULL": {
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C7,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C7,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C7",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C8": {
                 "FULL": {
                     "BOM": "",
                     "DESC": "Ceramic Capacitors",
                     "DEVICE": "CAP_CERAMIC0805-NOOUTLINE",
-                    "FULL": "C8,10UF,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
+                    "FULL": "C8,10\u00b5F,CAP_CERAMIC0805-NOOUTLINE,0805-NO,Ceramic Capacitors,,",
                     "OWNER": "ADAF",
                     "PACKAGE": "0805-NO",
                     "PACKAGENUMBER": "0805",
                     "PART": "C8",
                     "PARTLETTER": "C",
                     "VALUE": "10UF",
-                    "VALUENUMBER": "10"
+                    "VALUENUMBER": "10\u00b5"
                 },
-                "OOMPID": "CAPC-0805-X-UF10-V25"
+                "OOMPID": "CAPC-0805-X-UNMATCHED-01"
             },
             "C9": {
                 "FULL": {
@@ -1275,7 +1278,456 @@
                     "Value": "USB Type C"
                 }
             ],
-            "kicadBom": []
+            "kicadBom": [
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$35",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FIDUCIAL_1MM FIDUCIAL_1MM",
+                    "Package": "FIDUCIAL_1MM",
+                    "Part": "U$34",
+                    "Value": "FIDUCIAL_1MM"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C4",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C10",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C9",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 1uF",
+                    "Package": "0603-NO",
+                    "Part": "C5",
+                    "Value": "1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 200K",
+                    "Package": "0603-NO",
+                    "Part": "R3",
+                    "Value": "200K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 200K",
+                    "Package": "0603-NO",
+                    "Part": "R1",
+                    "Value": "200K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JSTPH2_BATT JSTPH",
+                    "Package": "JSTPH2_BATT",
+                    "Part": "X1",
+                    "Value": "JSTPH"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_2.5MM ",
+                    "Package": "ADAFRUIT_2.5MM",
+                    "Part": "U$14",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 5.1K",
+                    "Package": "0603-NO",
+                    "Part": "R6",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 5.1K",
+                    "Package": "0603-NO",
+                    "Part": "R4",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 5.1K",
+                    "Package": "0603-NO",
+                    "Part": "R2",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 5.1K",
+                    "Package": "0603-NO",
+                    "Part": "R5",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 5.1K",
+                    "Package": "0603-NO",
+                    "Part": "R10",
+                    "Value": "5.1K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 MCP73831T-2ACI/OT",
+                    "Package": "SOT23-5",
+                    "Part": "U3",
+                    "Value": "MCP73831T-2ACI/OT"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOD-123 MBR540",
+                    "Package": "SOD-123",
+                    "Part": "D4",
+                    "Value": "MBR540"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X16_ROUND ",
+                    "Package": "1X16_ROUND",
+                    "Part": "JP1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$31",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "MOUNTINGHOLE_2.5_PLATED MOUNTINGHOLE2.5",
+                    "Package": "MOUNTINGHOLE_2.5_PLATED",
+                    "Part": "U$32",
+                    "Value": "MOUNTINGHOLE2.5"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE1",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": " ",
+                    "Package": "",
+                    "Part": "@HOLE0",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C1",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C2",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10uF",
+                    "Package": "0805-NO",
+                    "Part": "C13",
+                    "Value": "10uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 10K",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R13",
+                    "Value": "10K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100K",
+                    "Package": "0603-NO",
+                    "Part": "R12",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 100K",
+                    "Package": "0603-NO",
+                    "Part": "R7",
+                    "Value": "100K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-R DMG3415U",
+                    "Package": "SOT23-R",
+                    "Part": "Q3",
+                    "Value": "DMG3415U"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "QFN24_4MM_SMSC CP2102N-24",
+                    "Package": "QFN24_4MM_SMSC",
+                    "Part": "IC3",
+                    "Value": "CP2102N-24"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C3",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C8",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C6",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0805-NO 10\u00c2\u00b5F",
+                    "Package": "0805-NO",
+                    "Part": "C7",
+                    "Value": "10\u00c2\u00b5F"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT363 DUAL NPN",
+                    "Package": "SOT363",
+                    "Part": "Q5",
+                    "Value": "DUAL NPN"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 AP2112-3.3",
+                    "Package": "SOT23-5",
+                    "Part": "U1",
+                    "Value": "AP2112-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "SOT23-5 AP2112-3.3",
+                    "Package": "SOT23-5",
+                    "Part": "U2",
+                    "Value": "AP2112-3.3"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "USB_C_CUSB31-CFM2AX-01-X USB Type C",
+                    "Package": "USB_C_CUSB31-CFM2AX-01-X",
+                    "Part": "X6",
+                    "Value": "USB Type C"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "RESPACK_4X0603 47K",
+                    "Package": "RESPACK_4X0603",
+                    "Part": "R9",
+                    "Value": "47K"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0603_NOOUTLINE RED",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "D3",
+                    "Value": "RED"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "JST_SH4_RA STEMMA_I2C_QTRA",
+                    "Package": "JST_SH4_RA",
+                    "Part": "CONN1",
+                    "Value": "STEMMA_I2C_QTRA"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ESP32-PICO-MINI ESP32-PICO-MINI-02MINI",
+                    "Package": "ESP32-PICO-MINI",
+                    "Part": "X3",
+                    "Value": "ESP32-PICO-MINI-02MINI"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "LED3535 WS2812B3535",
+                    "Package": "LED3535",
+                    "Part": "LED1",
+                    "Value": "WS2812B3535"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "CHIPLED_0603_NOOUTLINE ORANGE",
+                    "Package": "CHIPLED_0603_NOOUTLINE",
+                    "Part": "CHG0",
+                    "Value": "ORANGE"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 0.1uF",
+                    "Package": "0603-NO",
+                    "Part": "C12",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "0603-NO 0.1uF",
+                    "Package": "0603-NO",
+                    "Part": "C11",
+                    "Value": "0.1uF"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BTN_KMR2_4.6X2.8 KMR2",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW2",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "BTN_KMR2_4.6X2.8 KMR2",
+                    "Package": "BTN_KMR2_4.6X2.8",
+                    "Part": "SW1",
+                    "Value": "KMR2"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_3.5MM ",
+                    "Package": "ADAFRUIT_3.5MM",
+                    "Part": "U$15",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "1X12_ROUND ",
+                    "Package": "1X12_ROUND",
+                    "Part": "JP3",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "B1,27 TPB1,27",
+                    "Package": "B1,27",
+                    "Part": "D+1",
+                    "Value": "TPB1,27"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "B1,27 TPB1,27",
+                    "Package": "B1,27",
+                    "Part": "D-1",
+                    "Value": "TPB1,27"
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "HUZZAH32 ",
+                    "Package": "HUZZAH32",
+                    "Part": "U$43",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "FEATHERLOGO_MED ",
+                    "Package": "FEATHERLOGO_MED",
+                    "Part": "U$9",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "PCBFEAT-REV-040 ",
+                    "Package": "PCBFEAT-REV-040",
+                    "Part": "U$13",
+                    "Value": ""
+                },
+                {
+                    "BOM": "",
+                    "Description": "",
+                    "Device": "ADAFRUIT_5MM ",
+                    "Package": "ADAFRUIT_5MM",
+                    "Part": "U$7",
+                    "Value": ""
+                }
+            ]
         }
     ]
 }
