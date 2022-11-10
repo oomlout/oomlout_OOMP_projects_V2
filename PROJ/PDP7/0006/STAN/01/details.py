@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x0000020A47D3B4B0>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x00000239415843A0>')
     newPart['gitRepo'].append('https://github.com/pdp7/teensy-wifi-weather-logger')
     newPart['gitName'].append('teensy-wifi-weather-logger')
     newPart['kicadBoard'].append('hardware/teensyi2c.kicad_pcb')

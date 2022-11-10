@@ -1,2 +1,2 @@
 def load(newPart,it):
-    it['PROJ-ADAF-0966-STAN-01']['oompParts'] = [{'CN1': {'OOMPID': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'FULL': {'DESC': 'MicroSD/Transflash Card Holder with SPI pinout', 'PART': 'CN1', 'DEVICE': 'MICROSD', 'PACKAGE': 'MICROSD', 'PARTLETTER': 'CN', 'VALUE': '', 'VALUENUMBER': '', 'PACKAGENUMBER': '', 'BOM': '', 'OWNER': 'ADAF', 'FULL': 'CN1,,MICROSD,MICROSD,MicroSD/Transflash Card Holder with SPI pinout,,'}}}]
+    it['PROJ-ADAF-0966-STAN-01']['oompParts'] = [{'CN1': {'OOMPID': 'UNMATCHED-UNMATCHED-X-UNMATCHED-01', 'FULL': {'DESC': '', 'PART': 'CN1', 'DEVICE': 'MICROSD ', 'PACKAGE': 'MICROSD', 'PARTLETTER': 'CN', 'VALUE': '', 'VALUENUMBER': '', 'PACKAGENUMBER': '', 'BOM': '', 'OWNER': 'ADAF', 'FULL': 'CN1,,MICROSD ,MICROSD,,,'}}}]

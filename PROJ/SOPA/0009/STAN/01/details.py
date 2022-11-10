@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x0000020A66D326A0>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x000002394E773F00>')
     newPart['gitRepo'].append('https://github.com/solderparty/rp2040_stamp_console_hw')
     newPart['gitName'].append('rp2040_stamp_console_hw')
     newPart['kicadBoard'].append('rp2040_stamp_console.kicad_pcb')

@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x0000020A47D1F0F0>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x0000023941572B70>')
     newPart['gitRepo'].append('https://github.com/pdp7/gtb')
     newPart['gitName'].append('gtb')
     newPart['kicadBoard'].append('gtb.kicad_pcb')

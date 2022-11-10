@@ -1,2 +1,2 @@
 def load(newPart,it):
-    it['PROJ-SPAR-9170-STAN-01']['oompParts'] = [{'JP1': {'OOMPID': 'HEAD-I01-X-PI04-01', 'FULL': {'DESC': 'Header 4', 'PART': 'JP1', 'DEVICE': 'M04PTH', 'PACKAGE': '1X04', 'PARTLETTER': 'JP', 'VALUE': '', 'VALUENUMBER': '', 'PACKAGENUMBER': '104', 'BOM': '', 'OWNER': 'SPAR', 'FULL': 'JP1,,M04PTH,1X04,Header 4,,'}}}]
+    it['PROJ-SPAR-9170-STAN-01']['oompParts'] = [{'JP1': {'OOMPID': 'HEAD-I01-X-PI04-01', 'FULL': {'DESC': '', 'PART': 'JP1', 'DEVICE': '1X04 ', 'PACKAGE': '1X04', 'PARTLETTER': 'JP', 'VALUE': '', 'VALUENUMBER': '', 'PACKAGENUMBER': '104', 'BOM': '', 'OWNER': 'SPAR', 'FULL': 'JP1,,1X04 ,1X04,,,'}}}]
