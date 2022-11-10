@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x0000017F34E25070>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x0000020A66906930>')
     newPart['gitRepo'].append('https://github.com/solderparty/bbq20kbd_hw')
     newPart['gitName'].append('bbq20kbd_hw')
     newPart['kicadBoard'].append('bbq20_keyboard.kicad_pcb')
