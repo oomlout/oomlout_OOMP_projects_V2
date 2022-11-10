@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0006 > <built-in method capitalize of str object at 0x000002394E773640>](#prpr0006--built-in-method-capitalize-of-str-object-at-0x000002394e773640)
+* [PRPR0006 > <built-in method capitalize of str object at 0x00000163107845D0>](#prpr0006--built-in-method-capitalize-of-str-object-at-0x00000163107845d0)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0006 > <built-in method capitalize of str object at 0x000002394E773640>
+# PRPR0006 > <built-in method capitalize of str object at 0x00000163107845D0>
 
 - ID: PROJ-SOPA-0006-STAN-01
 - Hex ID: PRPR0006
-- Name: <built-in method capitalize of str object at 0x000002394E773640>
-- Description: <built-in method capitalize of str object at 0x000002394E773640>
+- Name: <built-in method capitalize of str object at 0x00000163107845D0>
+- Description: <built-in method capitalize of str object at 0x00000163107845D0>
 - Long Link: [http://oom.lt/PROJ-SOPA-0006-STAN-01](http://oom.lt/PROJ-SOPA-0006-STAN-01)
 - Short Link: [http://oom.lt/PRPR0006](http://oom.lt/PRPR0006)
 
@@ -51,7 +51,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0006-STAN-01|
 |Hex ID (short code)|hexID|PRPR0006|
-|name|name|<built-in method capitalize of str object at 0x000002394E773640>|
+|name|name|<built-in method capitalize of str object at 0x00000163107845D0>|
 |gitRepo|gitRepo|https://github.com/solderparty/type-c_plug_lipo|
 |gitName|gitName|type-c_plug_lipo|
 |kicadBoard|kicadBoard|type-c_plug_lipo.kicad_pcb|

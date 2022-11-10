@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0005 > <built-in method capitalize of str object at 0x0000023941572B70>](#prpr0005--built-in-method-capitalize-of-str-object-at-0x0000023941572b70)
+* [PRPR0005 > <built-in method capitalize of str object at 0x000001637F73EDF0>](#prpr0005--built-in-method-capitalize-of-str-object-at-0x000001637f73edf0)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0005 > <built-in method capitalize of str object at 0x0000023941572B70>
+# PRPR0005 > <built-in method capitalize of str object at 0x000001637F73EDF0>
 
 - ID: PROJ-PDP7-0005-STAN-01
 - Hex ID: PRPR0005
-- Name: <built-in method capitalize of str object at 0x0000023941572B70>
-- Description: <built-in method capitalize of str object at 0x0000023941572B70>
+- Name: <built-in method capitalize of str object at 0x000001637F73EDF0>
+- Description: <built-in method capitalize of str object at 0x000001637F73EDF0>
 - Long Link: [http://oom.lt/PROJ-PDP7-0005-STAN-01](http://oom.lt/PROJ-PDP7-0005-STAN-01)
 - Short Link: [http://oom.lt/PRPR0005](http://oom.lt/PRPR0005)
 
@@ -49,7 +49,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0005-STAN-01|
 |Hex ID (short code)|hexID|PRPR0005|
-|name|name|<built-in method capitalize of str object at 0x0000023941572B70>|
+|name|name|<built-in method capitalize of str object at 0x000001637F73EDF0>|
 |gitRepo|gitRepo|https://github.com/pdp7/gtb|
 |gitName|gitName|gtb|
 |kicadBoard|kicadBoard|gtb.kicad_pcb|

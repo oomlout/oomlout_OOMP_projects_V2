@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0008 > <built-in method capitalize of str object at 0x000002394E773E60>](#prpr0008--built-in-method-capitalize-of-str-object-at-0x000002394e773e60)
+* [PRPR0008 > <built-in method capitalize of str object at 0x0000016310784580>](#prpr0008--built-in-method-capitalize-of-str-object-at-0x0000016310784580)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0008 > <built-in method capitalize of str object at 0x000002394E773E60>
+# PRPR0008 > <built-in method capitalize of str object at 0x0000016310784580>
 
 - ID: PROJ-SOPA-0008-STAN-01
 - Hex ID: PRPR0008
-- Name: <built-in method capitalize of str object at 0x000002394E773E60>
-- Description: <built-in method capitalize of str object at 0x000002394E773E60>
+- Name: <built-in method capitalize of str object at 0x0000016310784580>
+- Description: <built-in method capitalize of str object at 0x0000016310784580>
 - Long Link: [http://oom.lt/PROJ-SOPA-0008-STAN-01](http://oom.lt/PROJ-SOPA-0008-STAN-01)
 - Short Link: [http://oom.lt/PRPR0008](http://oom.lt/PRPR0008)
 
@@ -49,7 +49,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0008-STAN-01|
 |Hex ID (short code)|hexID|PRPR0008|
-|name|name|<built-in method capitalize of str object at 0x000002394E773E60>|
+|name|name|<built-in method capitalize of str object at 0x0000016310784580>|
 |gitRepo|gitRepo|https://github.com/solderparty/rp2040_stamp_macropad_hw|
 |gitName|gitName|rp2040_stamp_macropad_hw|
 |kicadBoard|kicadBoard|rp2040_stamp_macropad.kicad_pcb|
