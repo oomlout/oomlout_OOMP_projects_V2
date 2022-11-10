@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x000002394E7735F0>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x000001E72DAA6880>')
     newPart['gitRepo'].append('https://github.com/solderparty/keyboard_featherwing_hw')
     newPart['gitName'].append('keyboard_featherwing_hw')
     newPart['kicadBoard'].append('keyboard_featherwing.kicad_pcb')

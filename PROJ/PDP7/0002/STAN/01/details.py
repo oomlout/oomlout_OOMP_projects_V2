@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x0000023941584120>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x000001E77154F4B0>')
     newPart['gitRepo'].append('https://github.com/pdp7/teensy-touch')
     newPart['gitName'].append('teensy-touch')
     newPart['kicadBoard'].append('hardware/teensy-touch.kicad_pcb')
