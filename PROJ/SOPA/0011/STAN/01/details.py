@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x000001E771726F70>')
+    newPart['name'].append('<built-in method capitalize of str object at 0x0000016310CE6370>')
     newPart['gitRepo'].append('https://github.com/solderparty/pmod_to_qwiic_adapter')
     newPart['gitName'].append('pmod_to_qwiic_adapter')
     newPart['kicadBoard'].append('pmod_to_qwiic.kicad_pcb')
