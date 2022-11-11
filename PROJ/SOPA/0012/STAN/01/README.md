@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0012 > <built-in method capitalize of str object at 0x0000016310784D00>](#prpr0012--built-in-method-capitalize-of-str-object-at-0x0000016310784d00)
+* [PRPR0012 > Rp2040 stamp jig](#prpr0012--rp2040-stamp-jig)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0012 > <built-in method capitalize of str object at 0x0000016310784D00>
+# PRPR0012 > Rp2040 stamp jig
 
 - ID: PROJ-SOPA-0012-STAN-01
 - Hex ID: PRPR0012
-- Name: <built-in method capitalize of str object at 0x0000016310784D00>
-- Description: <built-in method capitalize of str object at 0x0000016310784D00>
+- Name: Rp2040 stamp jig
+- Description: Rp2040 stamp jig
 - Long Link: [http://oom.lt/PROJ-SOPA-0012-STAN-01](http://oom.lt/PROJ-SOPA-0012-STAN-01)
 - Short Link: [http://oom.lt/PRPR0012](http://oom.lt/PRPR0012)
 
@@ -51,7 +51,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0012-STAN-01|
 |Hex ID (short code)|hexID|PRPR0012|
-|name|name|<built-in method capitalize of str object at 0x0000016310784D00>|
+|name|name|Rp2040 stamp jig|
 |gitRepo|gitRepo|https://github.com/solderparty/rp2040_stamp_jig_hw|
 |gitName|gitName|rp2040_stamp_jig_hw|
 |kicadBoard|kicadBoard|rp2040_stamp_jig.kicad_pcb|

@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0004 > <built-in method capitalize of str object at 0x000001637F7502B0>](#prpr0004--built-in-method-capitalize-of-str-object-at-0x000001637f7502b0)
+* [PRPR0004 > Rotary-encoder-breakout](#prpr0004--rotary-encoder-breakout)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0004 > <built-in method capitalize of str object at 0x000001637F7502B0>
+# PRPR0004 > Rotary-encoder-breakout
 
 - ID: PROJ-PDP7-0004-STAN-01
 - Hex ID: PRPR0004
-- Name: <built-in method capitalize of str object at 0x000001637F7502B0>
-- Description: <built-in method capitalize of str object at 0x000001637F7502B0>
+- Name: Rotary-encoder-breakout
+- Description: Rotary-encoder-breakout
 - Long Link: [http://oom.lt/PROJ-PDP7-0004-STAN-01](http://oom.lt/PROJ-PDP7-0004-STAN-01)
 - Short Link: [http://oom.lt/PRPR0004](http://oom.lt/PRPR0004)
 
@@ -46,7 +46,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0004-STAN-01|
 |Hex ID (short code)|hexID|PRPR0004|
-|name|name|<built-in method capitalize of str object at 0x000001637F7502B0>|
+|name|name|Rotary-encoder-breakout|
 |gitRepo|gitRepo|https://github.com/pdp7/rotary-encoder-breakout|
 |gitName|gitName|rotary-encoder-breakout|
 |kicadBoard|kicadBoard|rotary-encoder-breakout.kicad_pcb|

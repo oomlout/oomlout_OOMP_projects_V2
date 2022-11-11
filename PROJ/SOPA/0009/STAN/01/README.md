@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0009 > <built-in method capitalize of str object at 0x0000016310784760>](#prpr0009--built-in-method-capitalize-of-str-object-at-0x0000016310784760)
+* [PRPR0009 > Rp2040 stamp console](#prpr0009--rp2040-stamp-console)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0009 > <built-in method capitalize of str object at 0x0000016310784760>
+# PRPR0009 > Rp2040 stamp console
 
 - ID: PROJ-SOPA-0009-STAN-01
 - Hex ID: PRPR0009
-- Name: <built-in method capitalize of str object at 0x0000016310784760>
-- Description: <built-in method capitalize of str object at 0x0000016310784760>
+- Name: Rp2040 stamp console
+- Description: Rp2040 stamp console
 - Long Link: [http://oom.lt/PROJ-SOPA-0009-STAN-01](http://oom.lt/PROJ-SOPA-0009-STAN-01)
 - Short Link: [http://oom.lt/PRPR0009](http://oom.lt/PRPR0009)
 
@@ -51,7 +51,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0009-STAN-01|
 |Hex ID (short code)|hexID|PRPR0009|
-|name|name|<built-in method capitalize of str object at 0x0000016310784760>|
+|name|name|Rp2040 stamp console|
 |gitRepo|gitRepo|https://github.com/solderparty/rp2040_stamp_console_hw|
 |gitName|gitName|rp2040_stamp_console_hw|
 |kicadBoard|kicadBoard|rp2040_stamp_console.kicad_pcb|

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [PRPR0002 > <built-in method capitalize of str object at 0x0000016310CE6330>](#prpr0002--built-in-method-capitalize-of-str-object-at-0x0000016310ce6330)
+* [PRPR0002 > Bbq20 keyboard](#prpr0002--bbq20-keyboard)
 	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0002 > <built-in method capitalize of str object at 0x0000016310CE6330>
+# PRPR0002 > Bbq20 keyboard
 
 - ID: PROJ-SOPA-0002-STAN-01
 - Hex ID: PRPR0002
-- Name: <built-in method capitalize of str object at 0x0000016310CE6330>
-- Description: <built-in method capitalize of str object at 0x0000016310CE6330>
+- Name: Bbq20 keyboard
+- Description: Bbq20 keyboard
 - Long Link: [http://oom.lt/PROJ-SOPA-0002-STAN-01](http://oom.lt/PROJ-SOPA-0002-STAN-01)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)
 
@@ -63,7 +63,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0002-STAN-01|
 |Hex ID (short code)|hexID|PRPR0002|
-|name|name|<built-in method capitalize of str object at 0x0000016310CE6330>|
+|name|name|Bbq20 keyboard|
 |gitRepo|gitRepo|https://github.com/solderparty/bbq20kbd_hw|
 |gitName|gitName|bbq20kbd_hw|
 |kicadBoard|kicadBoard|bbq20_keyboard.kicad_pcb|

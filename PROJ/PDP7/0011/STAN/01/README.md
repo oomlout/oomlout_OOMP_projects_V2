@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0011 > <built-in method capitalize of str object at 0x000001637F73F1F0>](#prpr0011--built-in-method-capitalize-of-str-object-at-0x000001637f73f1f0)
+* [PRPR0011 > Leaf](#prpr0011--leaf)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0011 > <built-in method capitalize of str object at 0x000001637F73F1F0>
+# PRPR0011 > Leaf
 
 - ID: PROJ-PDP7-0011-STAN-01
 - Hex ID: PRPR0011
-- Name: <built-in method capitalize of str object at 0x000001637F73F1F0>
-- Description: <built-in method capitalize of str object at 0x000001637F73F1F0>
+- Name: Leaf
+- Description: Leaf
 - Long Link: [http://oom.lt/PROJ-PDP7-0011-STAN-01](http://oom.lt/PROJ-PDP7-0011-STAN-01)
 - Short Link: [http://oom.lt/PRPR0011](http://oom.lt/PRPR0011)
 
@@ -44,7 +44,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0011-STAN-01|
 |Hex ID (short code)|hexID|PRPR0011|
-|name|name|<built-in method capitalize of str object at 0x000001637F73F1F0>|
+|name|name|Leaf|
 |gitRepo|gitRepo|https://github.com/pdp7/art|
 |gitName|gitName|art|
 |kicadBoard|kicadBoard|leaf.kicad_pcb|

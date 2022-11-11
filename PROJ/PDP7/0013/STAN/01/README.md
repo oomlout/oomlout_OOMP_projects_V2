@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0013 > <built-in method capitalize of str object at 0x000001637F750440>](#prpr0013--built-in-method-capitalize-of-str-object-at-0x000001637f750440)
+* [PRPR0013 > Hardware/teensyi2c](#prpr0013--hardwareteensyi2c)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0013 > <built-in method capitalize of str object at 0x000001637F750440>
+# PRPR0013 > Hardware/teensyi2c
 
 - ID: PROJ-PDP7-0013-STAN-01
 - Hex ID: PRPR0013
-- Name: <built-in method capitalize of str object at 0x000001637F750440>
-- Description: <built-in method capitalize of str object at 0x000001637F750440>
+- Name: Hardware/teensyi2c
+- Description: Hardware/teensyi2c
 - Long Link: [http://oom.lt/PROJ-PDP7-0013-STAN-01](http://oom.lt/PROJ-PDP7-0013-STAN-01)
 - Short Link: [http://oom.lt/PRPR0013](http://oom.lt/PRPR0013)
 
@@ -48,7 +48,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0013-STAN-01|
 |Hex ID (short code)|hexID|PRPR0013|
-|name|name|<built-in method capitalize of str object at 0x000001637F750440>|
+|name|name|Hardware/teensyi2c|
 |gitRepo|gitRepo|https://github.com/pdp7/teensy-weather-badge|
 |gitName|gitName|teensy-weather-badge|
 |kicadBoard|kicadBoard|hardware/teensyi2c.kicad_pcb|

@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0011 > <built-in method capitalize of str object at 0x0000016310CE6370>](#prpr0011--built-in-method-capitalize-of-str-object-at-0x0000016310ce6370)
+* [PRPR0011 > Pmod to qwiic](#prpr0011--pmod-to-qwiic)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0011 > <built-in method capitalize of str object at 0x0000016310CE6370>
+# PRPR0011 > Pmod to qwiic
 
 - ID: PROJ-SOPA-0011-STAN-01
 - Hex ID: PRPR0011
-- Name: <built-in method capitalize of str object at 0x0000016310CE6370>
-- Description: <built-in method capitalize of str object at 0x0000016310CE6370>
+- Name: Pmod to qwiic
+- Description: Pmod to qwiic
 - Long Link: [http://oom.lt/PROJ-SOPA-0011-STAN-01](http://oom.lt/PROJ-SOPA-0011-STAN-01)
 - Short Link: [http://oom.lt/PRPR0011](http://oom.lt/PRPR0011)
 
@@ -45,7 +45,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0011-STAN-01|
 |Hex ID (short code)|hexID|PRPR0011|
-|name|name|<built-in method capitalize of str object at 0x0000016310CE6370>|
+|name|name|Pmod to qwiic|
 |gitRepo|gitRepo|https://github.com/solderparty/pmod_to_qwiic_adapter|
 |gitName|gitName|pmod_to_qwiic_adapter|
 |kicadBoard|kicadBoard|pmod_to_qwiic.kicad_pcb|

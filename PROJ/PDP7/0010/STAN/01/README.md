@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0010 > <built-in method capitalize of str object at 0x000001637F73F0F0>](#prpr0010--built-in-method-capitalize-of-str-object-at-0x000001637f73f0f0)
+* [PRPR0010 > Flower v3](#prpr0010--flower-v3)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0010 > <built-in method capitalize of str object at 0x000001637F73F0F0>
+# PRPR0010 > Flower v3
 
 - ID: PROJ-PDP7-0010-STAN-01
 - Hex ID: PRPR0010
-- Name: <built-in method capitalize of str object at 0x000001637F73F0F0>
-- Description: <built-in method capitalize of str object at 0x000001637F73F0F0>
+- Name: Flower v3
+- Description: Flower v3
 - Long Link: [http://oom.lt/PROJ-PDP7-0010-STAN-01](http://oom.lt/PROJ-PDP7-0010-STAN-01)
 - Short Link: [http://oom.lt/PRPR0010](http://oom.lt/PRPR0010)
 
@@ -45,7 +45,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0010-STAN-01|
 |Hex ID (short code)|hexID|PRPR0010|
-|name|name|<built-in method capitalize of str object at 0x000001637F73F0F0>|
+|name|name|Flower v3|
 |gitRepo|gitRepo|https://github.com/pdp7/art|
 |gitName|gitName|art|
 |kicadBoard|kicadBoard|flower-v3.kicad_pcb|

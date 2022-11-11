@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0006 > <built-in method capitalize of str object at 0x000001637F750440>](#prpr0006--built-in-method-capitalize-of-str-object-at-0x000001637f750440)
+* [PRPR0006 > Hardware/teensyi2c](#prpr0006--hardwareteensyi2c)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0006 > <built-in method capitalize of str object at 0x000001637F750440>
+# PRPR0006 > Hardware/teensyi2c
 
 - ID: PROJ-PDP7-0006-STAN-01
 - Hex ID: PRPR0006
-- Name: <built-in method capitalize of str object at 0x000001637F750440>
-- Description: <built-in method capitalize of str object at 0x000001637F750440>
+- Name: Hardware/teensyi2c
+- Description: Hardware/teensyi2c
 - Long Link: [http://oom.lt/PROJ-PDP7-0006-STAN-01](http://oom.lt/PROJ-PDP7-0006-STAN-01)
 - Short Link: [http://oom.lt/PRPR0006](http://oom.lt/PRPR0006)
 
@@ -48,7 +48,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0006-STAN-01|
 |Hex ID (short code)|hexID|PRPR0006|
-|name|name|<built-in method capitalize of str object at 0x000001637F750440>|
+|name|name|Hardware/teensyi2c|
 |gitRepo|gitRepo|https://github.com/pdp7/teensy-wifi-weather-logger|
 |gitName|gitName|teensy-wifi-weather-logger|
 |kicadBoard|kicadBoard|hardware/teensyi2c.kicad_pcb|

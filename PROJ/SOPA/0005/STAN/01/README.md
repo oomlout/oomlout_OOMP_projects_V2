@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0005 > <built-in method capitalize of str object at 0x0000016333F4CAD0>](#prpr0005--built-in-method-capitalize-of-str-object-at-0x0000016333f4cad0)
+* [PRPR0005 > Type-c plug cp2102](#prpr0005--type-c-plug-cp2102)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0005 > <built-in method capitalize of str object at 0x0000016333F4CAD0>
+# PRPR0005 > Type-c plug cp2102
 
 - ID: PROJ-SOPA-0005-STAN-01
 - Hex ID: PRPR0005
-- Name: <built-in method capitalize of str object at 0x0000016333F4CAD0>
-- Description: <built-in method capitalize of str object at 0x0000016333F4CAD0>
+- Name: Type-c plug cp2102
+- Description: Type-c plug cp2102
 - Long Link: [http://oom.lt/PROJ-SOPA-0005-STAN-01](http://oom.lt/PROJ-SOPA-0005-STAN-01)
 - Short Link: [http://oom.lt/PRPR0005](http://oom.lt/PRPR0005)
 
@@ -52,7 +52,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SOPA-0005-STAN-01|
 |Hex ID (short code)|hexID|PRPR0005|
-|name|name|<built-in method capitalize of str object at 0x0000016333F4CAD0>|
+|name|name|Type-c plug cp2102|
 |gitRepo|gitRepo|https://github.com/solderparty/type-c_plug_cp2102|
 |gitName|gitName|type-c_plug_cp2102|
 |kicadBoard|kicadBoard|type-c_plug_cp2102.kicad_pcb|

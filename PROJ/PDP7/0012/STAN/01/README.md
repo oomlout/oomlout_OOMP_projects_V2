@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0012 > <built-in method capitalize of str object at 0x000001637F73E3F0>](#prpr0012--built-in-method-capitalize-of-str-object-at-0x000001637f73e3f0)
+* [PRPR0012 > Sixlayer](#prpr0012--sixlayer)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 ![][im]
-# PRPR0012 > <built-in method capitalize of str object at 0x000001637F73E3F0>
+# PRPR0012 > Sixlayer
 
 - ID: PROJ-PDP7-0012-STAN-01
 - Hex ID: PRPR0012
-- Name: <built-in method capitalize of str object at 0x000001637F73E3F0>
-- Description: <built-in method capitalize of str object at 0x000001637F73E3F0>
+- Name: Sixlayer
+- Description: Sixlayer
 - Long Link: [http://oom.lt/PROJ-PDP7-0012-STAN-01](http://oom.lt/PROJ-PDP7-0012-STAN-01)
 - Short Link: [http://oom.lt/PRPR0012](http://oom.lt/PRPR0012)
 
@@ -44,7 +44,7 @@ Contents
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0012-STAN-01|
 |Hex ID (short code)|hexID|PRPR0012|
-|name|name|<built-in method capitalize of str object at 0x000001637F73E3F0>|
+|name|name|Sixlayer|
 |gitRepo|gitRepo|https://github.com/pdp7/art|
 |gitName|gitName|art|
 |kicadBoard|kicadBoard|sixlayer.kicad_pcb|

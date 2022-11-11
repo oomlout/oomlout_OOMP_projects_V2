@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0003 > <built-in method capitalize of str object at 0x000001637F750260>](#prpr0003--built-in-method-capitalize-of-str-object-at-0x000001637f750260)
+* [PRPR0003 > Hardware/epaperteensyboard](#prpr0003--hardwareepaperteensyboard)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR0003 > <built-in method capitalize of str object at 0x000001637F750260>
+# PRPR0003 > Hardware/epaperteensyboard
 
 - ID: PROJ-PDP7-0003-STAN-01
 - Hex ID: PRPR0003
-- Name: <built-in method capitalize of str object at 0x000001637F750260>
-- Description: <built-in method capitalize of str object at 0x000001637F750260>
+- Name: Hardware/epaperteensyboard
+- Description: Hardware/epaperteensyboard
 - Long Link: [http://oom.lt/PROJ-PDP7-0003-STAN-01](http://oom.lt/PROJ-PDP7-0003-STAN-01)
 - Short Link: [http://oom.lt/PRPR0003](http://oom.lt/PRPR0003)
 
@@ -39,7 +39,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-PDP7-0003-STAN-01|
 |Hex ID (short code)|hexID|PRPR0003|
-|name|name|<built-in method capitalize of str object at 0x000001637F750260>|
+|name|name|Hardware/epaperteensyboard|
 |gitRepo|gitRepo|https://github.com/pdp7/TeensyEpaperShield|
 |gitName|gitName|TeensyEpaperShield|
 |kicadBoard|kicadBoard|hardware/EpaperTeensyBoard.kicad_pcb|
