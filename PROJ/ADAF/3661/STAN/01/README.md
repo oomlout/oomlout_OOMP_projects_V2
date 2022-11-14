@@ -8,6 +8,7 @@ Contents
 * [PRPR3661 > Adafruit AP3602A PCB](#prpr3661--adafruit-ap3602a-pcb)
 	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -28,12 +29,14 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
+|![]()|CAPC-0805-X-UF1-V25|C3|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V25/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[CAPC-0805-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[C2,C1](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI04/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|
 |![]()|RESE-0805-X-O1003-01|R1|
 |![]()|UNMATCHED-SO23-X-UNMATCHED-01|IC1|
-|![]()|CAPC-0805-X-UF1-V25|C3|
 ||||
+
+## Images
   
 
 |ibomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3661/STAN/01//ibomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3661/STAN/01//ibomBack.png)|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3661/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3661/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3661/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3661/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/3661/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3661/STAN/01/kicadPcb3dFront.png)|

@@ -8,6 +8,7 @@ Contents
 * [PRPR2542 > Adafruit FONA 808 Breakout PCB](#prpr2542--adafruit-fona-808-breakout-pcb)
 	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -28,29 +29,31 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[R4,R2,R5](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|
-|![]()|UNMATCHED-0805-X-UNMATCHED-01|NETSTAT0,DONE0,CHRG0,PWRSTAT0|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O202/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[RESE-0805-X-O202-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[R3](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|
-|![]()|CAPC-0805-X-PF33-01|C6|
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|Q1,IC1,U3,X2,PWM0,ADC1,X4,X6|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O471/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|[RESE-0805-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|
-|![]()|DIOD-S323-X-K4148-01|D3,D7,D4,D6,D5|
-|![]()|CAPC-06038-X-PF33-01|C14,C16|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|
-|![]()|CAPC-0805-X-UNMATCHED-01|C1|
 |![]()|BUTA-4628-X-STAN-01|SW1|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI16/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[JP10](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|
 |![]()|CAPC-06038-X-PF10-01|C17,C15|
-|![]()|CAPX-1210-X-UF100-01|C7|
-|![]()|HEAD-JSTPH-X-UNMATCHED-01|CN2|
-|![]()|DIOD-SO363-X-UNMATCHED-01|D2|
-|![]()|CAPX-UNMATCHED-X-NF100-01|X1,X3|
+|![]()|CAPC-06038-X-PF33-01|C14,C16|
 |![]()|CAPC-0805-X-PF10-01|C5|
+|![]()|CAPC-0805-X-PF33-01|C6|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V25/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[CAPC-0805-X-UF10-V25](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|[C9,C11](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/)|
-|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U2|
+|![]()|CAPC-0805-X-UNMATCHED-01|C1|
+|![]()|CAPX-1210-X-UF100-01|C7|
+|![]()|CAPX-UNMATCHED-X-NF100-01|X1,X3|
 |![]()|DIOD-S123-X-UNMATCHED-01|D1|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S323/X/K4148/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S323/X/K4148/01/)|[DIOD-S323-X-K4148-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S323/X/K4148/01/)|[D3,D7,D4,D6,D5](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S323/X/K4148/01/)|
+|![]()|DIOD-SO363-X-UNMATCHED-01|D2|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI02/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[HEAD-I01-X-PI02-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI02/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI16/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[HEAD-I01-X-PI16-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|[JP10](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI16/01/)|
+|![]()|HEAD-JSTPH-X-UNMATCHED-01|CN2|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[RESE-0805-X-O102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|[R4,R2,R5](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O102/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O103/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[RESE-0805-X-O103-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|[R6](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O103/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O202/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[RESE-0805-X-O202-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|[R3](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O202/01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O471/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|[RESE-0805-X-O471-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|[R1](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/)|
+|![]()|UNMATCHED-0805-X-UNMATCHED-01|NETSTAT0,DONE0,CHRG0,PWRSTAT0|
+|![]()|UNMATCHED-SO235-X-UNMATCHED-01|U2|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|Q1,IC1,U3,X2,PWM0,ADC1,X4,X6|
 ||||
+
+## Images
   
 
 |ibomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2542/STAN/01//ibomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2542/STAN/01//ibomBack.png)|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2542/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2542/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2542/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2542/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/2542/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2542/STAN/01/kicadPcb3dFront.png)|

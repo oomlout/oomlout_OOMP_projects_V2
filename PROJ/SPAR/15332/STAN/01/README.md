@@ -8,6 +8,7 @@ Contents
 * [PRPR15332 > SparkFun Artemis](#prpr15332--sparkfun-artemis)
 	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -28,18 +29,20 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|CAPC-0402-X-UF22D-01|C5,C3,C16,C8|
-|![]()|CAPC-0402-X-UF47D-V63D|C2|
-|![]()|CAPC-0402-X-UF47-01|C1|
-|![]()|UNMATCHED-0805-X-UNMATCHED-01|L2,L1|
-|![]()|RESE-0402-X-UNMATCHED-01|R2|
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|A1,U1,Y1|
-|![]()|CAPC-0402-X-PF6-01|C7,C6|
-|![]()|CAPC-0402-X-UF1-V63D|C12,C13,C15,C14,C4|
 |![]()|CAPC-0402-X-NF47-V25|C11|
 |![]()|CAPC-0402-X-NF500-01|C18|
+|![]()|CAPC-0402-X-PF6-01|C7,C6|
+|![]()|CAPC-0402-X-UF1-V63D|C12,C13,C15,C14,C4|
+|![]()|CAPC-0402-X-UF22D-01|C5,C3,C16,C8|
+|![]()|CAPC-0402-X-UF47-01|C1|
+|![]()|CAPC-0402-X-UF47D-V63D|C2|
+|![]()|RESE-0402-X-UNMATCHED-01|R2|
 |![]()|UNMATCHED-0402-X-UNMATCHED-01|L3,L4|
+|![]()|UNMATCHED-0805-X-UNMATCHED-01|L2,L1|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|A1,U1,Y1|
 ||||
+
+## Images
   
 
 |ibomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01//ibomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01//ibomBack.png)|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15332/STAN/01/kicadPcb3dFront.png)|

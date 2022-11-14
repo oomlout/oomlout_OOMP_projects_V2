@@ -8,6 +8,7 @@ Contents
 * [PRPR1106 > TIMESQUARE DIY Watch Kit](#prpr1106--timesquare-diy-watch-kit)
 	* [iBom](#ibom)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -28,12 +29,14 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BATT0,IC1,Q1,SET0,PLUS0,IC2|
-|![]()|RESE-UNMATCHED-X-O103-01|R10|
-|![]()|RESE-UNMATCHED-X-O470-01|R6,R1,R7,R5,R2,R4,R8,R3|
 |![]()|CAPX-UNMATCHED-X-NF100-01|C1|
 |![]()|LEDS-UNMATCHED-G-STAN-01|LED1|
+|![]()|RESE-UNMATCHED-X-O103-01|R10|
+|![]()|RESE-UNMATCHED-X-O470-01|R6,R1,R7,R5,R2,R4,R8,R3|
+|![]()|UNMATCHED-UNMATCHED-X-UNMATCHED-01|BATT0,IC1,Q1,SET0,PLUS0,IC2|
 ||||
+
+## Images
   
 
 |ibomBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01//ibomBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01//ibomBack.png)|eagleImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/eagleImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/eagleImage.png)|eagleSchemImage<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/eagleSchemImage_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/eagleSchemImage.png)|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1106/STAN/01/kicadPcb3dFront.png)|
