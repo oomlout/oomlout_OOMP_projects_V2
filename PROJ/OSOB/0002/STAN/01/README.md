@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0002 > <built-in method capitalize of str object at 0x00000182BC58E070>](#prpr0002--built-in-method-capitalize-of-str-object-at-0x00000182bc58e070)
+* [PRPR0002 > Lcd featherwing](#prpr0002--lcd-featherwing)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR0002 > <built-in method capitalize of str object at 0x00000182BC58E070>
+# PRPR0002 > Lcd featherwing
 
 - ID: PROJ-OSOB-0002-STAN-01
 - Hex ID: PRPR0002
-- Name: <built-in method capitalize of str object at 0x00000182BC58E070>
-- Description: <built-in method capitalize of str object at 0x00000182BC58E070>
+- Name: Lcd featherwing
+- Description: Lcd featherwing
 - Long Link: [http://oom.lt/PROJ-OSOB-0002-STAN-01](http://oom.lt/PROJ-OSOB-0002-STAN-01)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)
 
@@ -39,7 +39,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-OSOB-0002-STAN-01|
 |Hex ID (short code)|hexID|PRPR0002|
-|name|name|<built-in method capitalize of str object at 0x00000182BC58E070>|
+|name|name|Lcd featherwing|
 |gitRepo|gitRepo|https://github.com/joeycastillo/LCD-FeatherWing|
 |gitName|gitName|LCD-FeatherWing|
 |eagleBoard|eagleBoard|OSO-WILD-A3/OSO-WILD-A3.brd|

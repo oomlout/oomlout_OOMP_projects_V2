@@ -25,7 +25,6 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI04/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[HEAD-I01-X-PI04-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|[REF**](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI04/01/)|
 ||||
 
 ## Images
@@ -52,7 +51,7 @@ Contents
 |gitName|gitName|art|
 |kicadBoard|kicadBoard|art.kicad_pcb|
 |kicadSchem|kicadSchem|art.kicad_sch|
-|OOMP Parts List|oompParts|<table><tr><td>'REF**'</td></tr><tr><td> <table><tr><td>'OOMPID'</td></tr><tr><td> 'HEAD-I01-X-PI04-01'</td><td> 'FULL'</td></tr><tr><td> <table><tr><td>'DESC'</td></tr><tr><td> ''</td><td> 'PART'</td></tr><tr><td> 'REF**'</td><td> 'DEVICE'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'PACKAGE'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'PARTLETTER'</td></tr><tr><td> 'REF**'</td><td> 'VALUE'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'VALUENUMBER'</td></tr><tr><td> '_104_2.54_'</td><td> 'PACKAGENUMBER'</td></tr><tr><td> '104254'</td><td> 'BOM'</td></tr><tr><td> ''</td><td> 'OWNER'</td></tr><tr><td> 'PDP7'</td><td> 'FULL'</td></tr><tr><td> 'REF**</td><td>FanPinHeader_1x04_P2.54mm_Vertical</td><td>FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical</td><td>FanPinHeader_1x04_P2.54mm_Vertical</td><td></td><td></td><td>'</td></tr></table></td></tr></table></td></tr></table>|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 |Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'REF**'</td><td> 'Value'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Device'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Package'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'REF**'</td><td> 'Value'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Device'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Package'</td></tr><tr><td> 'FanPinHeader_1x04_P2.54mm_Vertical'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td><td> 'eagleBom'</td></tr><tr><td> []</td></tr></table>|
 ||||
 

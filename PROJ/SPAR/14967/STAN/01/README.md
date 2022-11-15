@@ -29,7 +29,7 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|LEDS-2020-RGB-K102-01|D17,D3,D11,D2,D12,D20,D5,D8,D1,D19,D15,D6,D13,D14,D4,D16,D7,D10,D18,D9|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/2020/RGB/K102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|[LEDS-2020-RGB-K102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|[D17,D3,D11,D2,D12,D20,D5,D8,D1,D19,D15,D6,D13,D14,D4,D16,D7,D10,D18,D9](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|
 ||||
 
 ## Images

@@ -29,7 +29,7 @@ Contents
 
 |Image|OOMP ID|Designators|
 | :--- | :--- | :--- |
-|![]()|LEDS-2020-RGB-K102-01|D6,D11,D55,D34,D24,D33,D51,D39,D26,D21,D56,D22,D47,D41,D23,D45,D32,D5,D52,D16,D31,D38,D60,D37,D4,D36,D1,D3,D54,D28,D57,D13,D15,D44,D10,D58,D46,D40,D27,D35,D18,D48,D8,D19,D2,D43,D17,D42,D7,D49,D50,D20,D9,D30,D29,D53,D14,D12,D59,D25|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/2020/RGB/K102/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|[LEDS-2020-RGB-K102-01](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|[D6,D11,D55,D34,D24,D33,D51,D39,D26,D21,D56,D22,D47,D41,D23,D45,D32,D5,D52,D16,D31,D38,D60,D37,D4,D36,D1,D3,D54,D28,D57,D13,D15,D44,D10,D58,D46,D40,D27,D35,D18,D48,D8,D19,D2,D43,D17,D42,D7,D49,D50,D20,D9,D30,D29,D53,D14,D12,D59,D25](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|
 ||||
 
 ## Images

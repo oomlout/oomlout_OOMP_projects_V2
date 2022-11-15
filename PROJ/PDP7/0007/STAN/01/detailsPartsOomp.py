@@ -1,2 +1,2 @@
 def load(newPart,it):
-    it['PROJ-PDP7-0007-STAN-01']['oompParts'] = [{'REF**': {'OOMPID': 'HEAD-I01-X-PI04-01', 'FULL': {'DESC': '', 'PART': 'REF**', 'DEVICE': 'FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical', 'PACKAGE': 'FanPinHeader_1x04_P2.54mm_Vertical', 'PARTLETTER': 'REF**', 'VALUE': 'FanPinHeader_1x04_P2.54mm_Vertical', 'VALUENUMBER': '_104_2.54_', 'PACKAGENUMBER': '104254', 'BOM': '', 'OWNER': 'PDP7', 'FULL': 'REF**,FanPinHeader_1x04_P2.54mm_Vertical,FanPinHeader_1x04_P2.54mm_Vertical FanPinHeader_1x04_P2.54mm_Vertical,FanPinHeader_1x04_P2.54mm_Vertical,,,'}}}]
+    it['PROJ-PDP7-0007-STAN-01']['oompParts'] = [{}]

@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [PRPR0001 > <built-in method capitalize of str object at 0x00000182BC58B190>](#prpr0001--built-in-method-capitalize-of-str-object-at-0x00000182bc58b190)
+* [PRPR0001 > Hydrabus 1.0 r1.2](#prpr0001--hydrabus-10-r12)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR0001 > <built-in method capitalize of str object at 0x00000182BC58B190>
+# PRPR0001 > Hydrabus 1.0 r1.2
 
 - ID: PROJ-HYDR-0001-STAN-R12
 - Hex ID: PRPR0001
-- Name: <built-in method capitalize of str object at 0x00000182BC58B190>
-- Description: <built-in method capitalize of str object at 0x00000182BC58B190>
+- Name: Hydrabus 1.0 r1.2
+- Description: Hydrabus 1.0 r1.2
 - Long Link: [http://oom.lt/PROJ-HYDR-0001-STAN-R12](http://oom.lt/PROJ-HYDR-0001-STAN-R12)
 - Short Link: [http://oom.lt/PRPR0001](http://oom.lt/PRPR0001)
 
@@ -39,7 +39,7 @@ NO IMAGES
 |OOMP Index|oompIndex|R12|
 |Full OOMP ID|oompID|PROJ-HYDR-0001-STAN-R12|
 |Hex ID (short code)|hexID|PRPR0001|
-|name|name|<built-in method capitalize of str object at 0x00000182BC58B190>|
+|name|name|Hydrabus 1.0 r1.2|
 |gitRepo|gitRepo|https://github.com/hydrabus/hydrabus|
 |gitName|gitName|hydrabus|
 |eagleBoard|eagleBoard|hardware/HydraBus_1_0_Rev1_2.brd|
