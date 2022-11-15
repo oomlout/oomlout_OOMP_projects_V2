@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x00000182BC58DFF0>')
+    newPart['name'].append('Sensor watch')
     newPart['gitRepo'].append('https://github.com/joeycastillo/Sensor-Watch')
     newPart['gitName'].append('Sensor-Watch')
     newPart['eagleBoard'].append('PCB/ Main Boards/OSO-SWAT-A1-05.brd')

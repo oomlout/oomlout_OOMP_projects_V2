@@ -3,11 +3,11 @@
 
 def load(newPart,it):
     oType = "PROJ"
-    oSize = "HYDR"
-    oColor = "0001"
+    oSize = "ELLA"
+    oColor = "0002"
     oDesc = "STAN"
-    oIndex = "R14"
-    hexID = "PRPR0001"
+    oIndex = "0C"
+    hexID = "PRPR0002"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('Hydrabus 1.0 r1.4')
-    newPart['gitRepo'].append('https://github.com/hydrabus/hydrabus')
-    newPart['gitName'].append('hydrabus')
-    newPart['kicadBoard'].append('hardware/HydraBus.kicad_pcb')
-    newPart['kicadSchem'].append('hardware/HydraBus.kicad_sch')
+    newPart['name'].append('Zoe Rev C')
+    newPart['gitRepo'].append('https://github.com/electrolama/zoe')
+    newPart['gitName'].append('zoe')
+    newPart['eagleBoard'].append('/Revision C/pi-zigbee-poe-rtc.brd')
+    newPart['eagleSchem'].append('/Revision C/pi-zigbee-poe-rtc.sch')
 
 
     ######  Common

@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x00000182BC58E070>')
+    newPart['name'].append('Lcd featherwing')
     newPart['gitRepo'].append('https://github.com/joeycastillo/LCD-FeatherWing')
     newPart['gitName'].append('LCD-FeatherWing')
     newPart['eagleBoard'].append('OSO-WILD-A3/OSO-WILD-A3.brd')

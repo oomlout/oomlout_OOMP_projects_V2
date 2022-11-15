@@ -17,7 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('<built-in method capitalize of str object at 0x00000182BC58B320>')
+    newPart['name'].append('Hydrabus 1.0 r1.3')
     newPart['gitRepo'].append('https://github.com/hydrabus/hydrabus')
     newPart['gitName'].append('hydrabus')
     newPart['eagleBoard'].append('hardware/HydraBus_1_0_Rev1_3.brd')

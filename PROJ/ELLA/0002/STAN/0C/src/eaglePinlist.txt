@@ -1,0 +1,214 @@
+Pinlist
+
+Exported from boardEagle.brd at 07/10/2022 16:39
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Part     Pad      Net
+
+BAT1     -        GND
+         +_1      N$1
+         +_2      N$1
+
+BR1      1        POE_VIN+
+         2        POE_VIN-
+         3        VB1
+         4        VB2
+
+BR2      1        POE_VIN+
+         2        POE_VIN-
+         3        VA1
+         4        VA2
+
+C1       1        GND
+         2        POE_5V
+
+C2       1        GND
+         2        LDO_OUT
+
+C4       1        VCC
+         2        GND
+
+C5       1        VCC
+         2        GND
+
+C6       1        POE_5V
+         2        GND
+
+C7       +        POE_5V
+         -        GND
+
+CON1     TC_1     GND
+         TC_2     VCC
+         TC_3     CC_DC
+         TC_4     CC_DD
+         TC_5              *** unconnected ***
+         TC_6              *** unconnected ***
+         TC_7     CC_RST
+         TC_8              *** unconnected ***
+         TC_9              *** unconnected ***
+         TC_10             *** unconnected ***
+
+D1       1        POE_VIN+
+         2        POE_VIN-
+
+IC1      1        POE_5V
+         2        GND
+         3        POE_5V
+         4                 *** unconnected ***
+         5        LDO_OUT
+
+IC2      1                 *** unconnected ***
+         2        VCC
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       GND
+         14       N$1
+         15       PI_SDA
+         16       PI_SCL
+
+MOD1     1        GND
+         2        VCC
+         3        CC_DC
+         4        CC_DD
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9                 *** unconnected ***
+         10                *** unconnected ***
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13                *** unconnected ***
+         14                *** unconnected ***
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17                *** unconnected ***
+         18                *** unconnected ***
+         19                *** unconnected ***
+         20       PI_RX
+         21       PI_TX
+         22                *** unconnected ***
+         23                *** unconnected ***
+         24       CC_RST
+
+MOD2     1        POE_5V
+         2        POE_5V
+         3        GND
+         4        POE_ADJ
+         5        POE_VIN+
+         6        POE_VIN+
+         7        POE_VIN-
+         8        POE_VIN-
+
+MOD3     E1       VA2
+         E2       VA1
+         E3       VB2
+         E4       VB1
+         P1       PI_3V3
+         P2       PI_5V
+         P3       PI_SDA
+         P4       PI_5V
+         P5       PI_SCL
+         P6       GND
+         P7                *** unconnected ***
+         P8       PI_TX
+         P9       GND
+         P10      PI_RX
+         P11               *** unconnected ***
+         P12               *** unconnected ***
+         P13               *** unconnected ***
+         P14      GND
+         P15               *** unconnected ***
+         P16               *** unconnected ***
+         P17               *** unconnected ***
+         P18               *** unconnected ***
+         P19               *** unconnected ***
+         P20      GND
+         P21               *** unconnected ***
+         P22               *** unconnected ***
+         P23               *** unconnected ***
+         P24               *** unconnected ***
+         P25      GND
+         P26               *** unconnected ***
+         P27               *** unconnected ***
+         P28               *** unconnected ***
+         P29               *** unconnected ***
+         P30      GND
+         P31               *** unconnected ***
+         P32               *** unconnected ***
+         P33               *** unconnected ***
+         P34      GND
+         P35      GP19
+         P36      GP16
+         P37               *** unconnected ***
+         P38      GP20
+         P39      GND
+         P40               *** unconnected ***
+
+R4       1        CC_RST
+         2        VCC
+
+R5       1        PI_5V
+         2        POE_5V
+
+R6       1        LDO_OUT
+         2        VCC
+
+SW1      1        CC_RST
+         2        CC_DC
+         3        CC_DD
+         4        GP20
+         5        GP16
+         6        GP19
+
+SW2      A        GND
+         B        GND
+         C        CC_RST
+         D        CC_RST
+
+TP1      TP       CC_RST
+
+TP2      TP       CC_DC
+
+TP3      TP       CC_DD
+
+TP4      TP       PI_RX
+
+TP5      TP       PI_TX
+
+TP6      TP       PI_SCL
+
+TP7      TP       PI_SDA
+
+TP8      TP       POE_VIN+
+
+TP9      TP       POE_VIN-
+
+TP10     TP       POE_5V
+
+TP11     TP       GND
+
+TP12     TP       LDO_OUT
+
+TP13     TP       GND
+
+TP14     TP       GND
+
+TP15     TP       PI_5V
+
+TP16     TP       N$1
+
+TP17     TP       POE_ADJ
+
+TP18     1        GND
+
+U$1     
