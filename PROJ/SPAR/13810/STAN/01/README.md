@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13810-STAN-01
 - Hex ID: PRPR13810
 - Name: tsunami
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/
 - Description: tsunami
 - Long Link: [http://oom.lt/PROJ-SPAR-13810-STAN-01](http://oom.lt/PROJ-SPAR-13810-STAN-01)
 - Short Link: [http://oom.lt/PRPR13810](http://oom.lt/PRPR13810)

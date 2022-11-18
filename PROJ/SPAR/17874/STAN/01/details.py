@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Differential Pressure Sensor SDP31')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Differential_Pressure_Sensor-SDP31')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Differential_Pressure_Sensor-SDP31')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Differential_Pressure_Sensor-SDP31/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Differential_Pressure_Sensor-SDP31/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.sch')
+    newPart['name'].append('Qwiic Differential Pressure Sensor SDP31')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Differential_Pressure_Sensor-SDP31')
+    newPart['gitName'].append('Qwiic_Differential_Pressure_Sensor-SDP31')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Differential_Pressure_Sensor-SDP31.sch')
 
 
     ######  Common

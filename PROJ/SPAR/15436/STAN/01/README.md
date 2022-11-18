@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15436-STAN-01
 - Hex ID: PRPR15436
 - Name: SparkFun Ambient Sensor VEML6030
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15436/STAN/01/
 - Description: SparkFun Ambient Sensor VEML6030
 - Long Link: [http://oom.lt/PROJ-SPAR-15436-STAN-01](http://oom.lt/PROJ-SPAR-15436-STAN-01)
 - Short Link: [http://oom.lt/PRPR15436](http://oom.lt/PRPR15436)

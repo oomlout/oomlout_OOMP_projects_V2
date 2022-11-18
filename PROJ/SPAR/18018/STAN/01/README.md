@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18018 > https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C](#prpr18018--httpsgithubcomsparkfunxsparkfun-esp32-thing-plus-c)
+* [PRPR18018 > SparkFun ESP32 Thing Plus C](#prpr18018--sparkfun-esp32-thing-plus-c)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18018 > https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C
+# PRPR18018 > SparkFun ESP32 Thing Plus C
 
 - ID: PROJ-SPAR-18018-STAN-01
 - Hex ID: PRPR18018
-- Name: https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C
-- Description: https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C
+- Name: SparkFun ESP32 Thing Plus C
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18018/STAN/01/
+- Description: SparkFun ESP32 Thing Plus C
 - Long Link: [http://oom.lt/PROJ-SPAR-18018-STAN-01](http://oom.lt/PROJ-SPAR-18018-STAN-01)
 - Short Link: [http://oom.lt/PRPR18018](http://oom.lt/PRPR18018)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18018-STAN-01|
 |Hex ID (short code)|hexID|PRPR18018|
-|name|name|https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C|
-|gitName|gitName|https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C|
-|eagleBoard|eagleBoard|sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.sch|
+|name|name|SparkFun ESP32 Thing Plus C|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkFun_ESP32_Thing_Plus_C|
+|gitName|gitName|SparkFun_ESP32_Thing_Plus_C|
+|eagleBoard|eagleBoard|/Hardware/SparkFun ESP32 Thing Plus C.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkFun ESP32 Thing Plus C.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

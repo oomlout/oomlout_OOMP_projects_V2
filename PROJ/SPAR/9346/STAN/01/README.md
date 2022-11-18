@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-9346-STAN-01
 - Hex ID: PRPR9346
 - Name: MegaShield Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9346/STAN/01/
 - Description: MegaShield Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-9346-STAN-01](http://oom.lt/PROJ-SPAR-9346-STAN-01)
 - Short Link: [http://oom.lt/PRPR9346](http://oom.lt/PRPR9346)

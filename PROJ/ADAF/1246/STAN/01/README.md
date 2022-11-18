@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1246-STAN-01
 - Hex ID: PRPR1246
 - Name: Adafruit Flora TSL2561 Lux Sensor PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1246/STAN/01/
 - Description: Adafruit Flora TSL2561 Lux Sensor PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1246-STAN-01](http://oom.lt/PROJ-ADAF-1246-STAN-01)
 - Short Link: [http://oom.lt/PRPR1246](http://oom.lt/PRPR1246)

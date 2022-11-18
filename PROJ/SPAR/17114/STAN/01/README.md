@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17114 > https://github.com/sparkfunX/Qwiic Cellular Notecarrier](#prpr17114--httpsgithubcomsparkfunxqwiic-cellular-notecarrier)
+* [PRPR17114 > Qwiic Cellular Notecarrier](#prpr17114--qwiic-cellular-notecarrier)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17114 > https://github.com/sparkfunX/Qwiic Cellular Notecarrier
+# PRPR17114 > Qwiic Cellular Notecarrier
 
 - ID: PROJ-SPAR-17114-STAN-01
 - Hex ID: PRPR17114
-- Name: https://github.com/sparkfunX/Qwiic Cellular Notecarrier
-- Description: https://github.com/sparkfunX/Qwiic Cellular Notecarrier
+- Name: Qwiic Cellular Notecarrier
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17114/STAN/01/
+- Description: Qwiic Cellular Notecarrier
 - Long Link: [http://oom.lt/PROJ-SPAR-17114-STAN-01](http://oom.lt/PROJ-SPAR-17114-STAN-01)
 - Short Link: [http://oom.lt/PRPR17114](http://oom.lt/PRPR17114)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17114-STAN-01|
 |Hex ID (short code)|hexID|PRPR17114|
-|name|name|https://github.com/sparkfunX/Qwiic Cellular Notecarrier|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.sch|
+|name|name|Qwiic Cellular Notecarrier|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Cellular-Notecarrier|
+|gitName|gitName|Qwiic_Cellular-Notecarrier|
+|eagleBoard|eagleBoard|/Hardware/Qwiic-Cellular-Notepad.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic-Cellular-Notepad.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

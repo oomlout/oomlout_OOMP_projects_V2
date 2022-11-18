@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11343-STAN-01
 - Hex ID: PRPR11343
 - Name: IOIO OTG
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11343/STAN/01/
 - Description: IOIO OTG
 - Long Link: [http://oom.lt/PROJ-SPAR-11343-STAN-01](http://oom.lt/PROJ-SPAR-11343-STAN-01)
 - Short Link: [http://oom.lt/PRPR11343](http://oom.lt/PRPR11343)

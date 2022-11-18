@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-ADAF-0000-STAN-01
 - Hex ID: PRPR0000
 - Name: Data Logger shield
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0000/STAN/01/
 - Description: Data Logger shield
 - Long Link: [http://oom.lt/PROJ-ADAF-0000-STAN-01](http://oom.lt/PROJ-ADAF-0000-STAN-01)
 - Short Link: [http://oom.lt/PRPR0000](http://oom.lt/PRPR0000)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

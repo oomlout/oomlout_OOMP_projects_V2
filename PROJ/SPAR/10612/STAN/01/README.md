@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10612-STAN-01
 - Hex ID: PRPR10612
 - Name: Tri Axis Gyro Breakout L3G4200D
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10612/STAN/01/
 - Description: Tri Axis Gyro Breakout L3G4200D
 - Long Link: [http://oom.lt/PROJ-SPAR-10612-STAN-01](http://oom.lt/PROJ-SPAR-10612-STAN-01)
 - Short Link: [http://oom.lt/PRPR10612](http://oom.lt/PRPR10612)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Configurable RC Filter')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Configurable_RC_Filter')
-    newPart['gitName'].append('https://github.com/sparkfunX/Configurable_RC_Filter')
-    newPart['eagleBoard'].append('sourceFiles/git/Configurable_RC_Filter/Hardware/Configurable_RC_Filter.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Configurable_RC_Filter/Hardware/Configurable_RC_Filter.sch')
+    newPart['name'].append('Configurable RC Filter')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Configurable_RC_Filter')
+    newPart['gitName'].append('Configurable_RC_Filter')
+    newPart['eagleBoard'].append('/Hardware/Configurable_RC_Filter.brd')
+    newPart['eagleSchem'].append('/Hardware/Configurable_RC_Filter.sch')
 
 
     ######  Common

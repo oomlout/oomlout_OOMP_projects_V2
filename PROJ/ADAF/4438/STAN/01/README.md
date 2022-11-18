@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4438-STAN-01
 - Hex ID: PRPR4438
 - Name: Adafruit LSM6DSOX PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4438/STAN/01/
 - Description: Adafruit LSM6DSOX PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4438-STAN-01](http://oom.lt/PROJ-ADAF-4438-STAN-01)
 - Short Link: [http://oom.lt/PRPR4438](http://oom.lt/PRPR4438)

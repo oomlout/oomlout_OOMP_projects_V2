@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Alphanumeric Display')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Alphanumeric_Display')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Alphanumeric_Display')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Alphanumeric_Display/Hardware/Qwiic_Alphanumeric_Display.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Alphanumeric_Display/Hardware/Qwiic_Alphanumeric_Display.sch')
+    newPart['name'].append('Qwiic Alphanumeric Display')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Alphanumeric_Display')
+    newPart['gitName'].append('Qwiic_Alphanumeric_Display')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Alphanumeric_Display.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Alphanumeric_Display.sch')
 
 
     ######  Common

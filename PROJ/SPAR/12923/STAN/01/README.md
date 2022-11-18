@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-12923-STAN-01
 - Hex ID: PRPR12923
 - Name: MicroView
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12923/STAN/01/
 - Description: MicroView
 - Long Link: [http://oom.lt/PROJ-SPAR-12923-STAN-01](http://oom.lt/PROJ-SPAR-12923-STAN-01)
 - Short Link: [http://oom.lt/PRPR12923](http://oom.lt/PRPR12923)

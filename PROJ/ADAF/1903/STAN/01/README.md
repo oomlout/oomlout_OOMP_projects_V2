@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1903-STAN-01
 - Hex ID: PRPR1903
 - Name: Adafruit PowerBoost 500 Basic PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1903/STAN/01/
 - Description: Adafruit PowerBoost 500 Basic PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1903-STAN-01](http://oom.lt/PROJ-ADAF-1903-STAN-01)
 - Short Link: [http://oom.lt/PRPR1903](http://oom.lt/PRPR1903)

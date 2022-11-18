@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12582-STAN-01
 - Hex ID: PRPR12582
 - Name: BlueSMiRF
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12582/STAN/01/
 - Description: BlueSMiRF
 - Long Link: [http://oom.lt/PROJ-SPAR-12582-STAN-01](http://oom.lt/PROJ-SPAR-12582-STAN-01)
 - Short Link: [http://oom.lt/PRPR12582](http://oom.lt/PRPR12582)

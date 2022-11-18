@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-PDP7-0007-STAN-01
 - Hex ID: PRPR0007
 - Name: Art 01
+- Path: oomlout_OOMP_projects_V2/PROJ/PDP7/0007/STAN/01/
 - Description: Art 01
 - Long Link: [http://oom.lt/PROJ-PDP7-0007-STAN-01](http://oom.lt/PROJ-PDP7-0007-STAN-01)
 - Short Link: [http://oom.lt/PRPR0007](http://oom.lt/PRPR0007)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

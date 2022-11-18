@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2218-STAN-01
 - Hex ID: PRPR2218
 - Name: Adafruit TFP401 HDMI To 40Pin TFT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2218/STAN/01/
 - Description: Adafruit TFP401 HDMI To 40Pin TFT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2218-STAN-01](http://oom.lt/PROJ-ADAF-2218-STAN-01)
 - Short Link: [http://oom.lt/PRPR2218](http://oom.lt/PRPR2218)

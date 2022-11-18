@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-PDP7-0010-STAN-01
 - Hex ID: PRPR0010
 - Name: Flower v3
+- Path: oomlout_OOMP_projects_V2/PROJ/PDP7/0010/STAN/01/
 - Description: Flower v3
 - Long Link: [http://oom.lt/PROJ-PDP7-0010-STAN-01](http://oom.lt/PROJ-PDP7-0010-STAN-01)
 - Short Link: [http://oom.lt/PRPR0010](http://oom.lt/PRPR0010)

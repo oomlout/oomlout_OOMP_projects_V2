@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX Air Quality Sensor SGP40')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX_Air_Quality_Sensor-SGP40')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX_Air_Quality_Sensor-SGP40/Hardware/SGP40 Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX_Air_Quality_Sensor-SGP40/Hardware/SGP40 Breakout.sch')
+    newPart['name'].append('SparkX Air Quality Sensor SGP40')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX_Air_Quality_Sensor-SGP40')
+    newPart['gitName'].append('SparkX_Air_Quality_Sensor-SGP40')
+    newPart['eagleBoard'].append('/Hardware/SGP40 Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/SGP40 Breakout.sch')
 
 
     ######  Common

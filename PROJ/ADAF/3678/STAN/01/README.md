@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3678-STAN-01
 - Hex ID: PRPR3678
 - Name: Adafruit UDA1334A I2S Stereo DAC PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3678/STAN/01/
 - Description: Adafruit UDA1334A I2S Stereo DAC PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3678-STAN-01](http://oom.lt/PROJ-ADAF-3678-STAN-01)
 - Short Link: [http://oom.lt/PRPR3678](http://oom.lt/PRPR3678)

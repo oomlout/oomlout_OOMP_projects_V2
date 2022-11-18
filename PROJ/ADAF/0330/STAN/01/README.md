@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-ADAF-0330-STAN-01
 - Hex ID: PRPR0330
 - Name: Adafruit Microtouch
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0330/STAN/01/
 - Description: Adafruit Microtouch
 - Long Link: [http://oom.lt/PROJ-ADAF-0330-STAN-01](http://oom.lt/PROJ-ADAF-0330-STAN-01)
 - Short Link: [http://oom.lt/PRPR0330](http://oom.lt/PRPR0330)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

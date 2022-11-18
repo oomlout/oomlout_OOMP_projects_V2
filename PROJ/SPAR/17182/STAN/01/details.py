@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic I2C Capacitor')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_I2C_Capacitor')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_I2C_Capacitor')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_I2C_Capacitor/Hardware/Qwiic_I2C_Capacitor.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_I2C_Capacitor/Hardware/Qwiic_I2C_Capacitor.sch')
+    newPart['name'].append('Qwiic I2C Capacitor')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_I2C_Capacitor')
+    newPart['gitName'].append('Qwiic_I2C_Capacitor')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_I2C_Capacitor.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_I2C_Capacitor.sch')
 
 
     ######  Common

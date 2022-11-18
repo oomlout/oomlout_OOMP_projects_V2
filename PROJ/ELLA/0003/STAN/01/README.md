@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ELLA-0003-STAN-01
 - Hex ID: PRPR0003
 - Name: mcore h616 breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/ELLA/0003/STAN/01/
 - Description: mcore h616 breakout
 - Long Link: [http://oom.lt/PROJ-ELLA-0003-STAN-01](http://oom.lt/PROJ-ELLA-0003-STAN-01)
 - Short Link: [http://oom.lt/PRPR0003](http://oom.lt/PRPR0003)

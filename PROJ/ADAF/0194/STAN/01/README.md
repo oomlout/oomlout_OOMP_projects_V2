@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-ADAF-0194-STAN-01
 - Hex ID: PRPR0194
 - Name: Ice Tube Clock
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0194/STAN/01/
 - Description: Ice Tube Clock
 - Long Link: [http://oom.lt/PROJ-ADAF-0194-STAN-01](http://oom.lt/PROJ-ADAF-0194-STAN-01)
 - Short Link: [http://oom.lt/PRPR0194](http://oom.lt/PRPR0194)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

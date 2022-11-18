@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1334-STAN-01
 - Hex ID: PRPR1334
 - Name: Adafruit TCS34725 Color Sensor Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1334/STAN/01/
 - Description: Adafruit TCS34725 Color Sensor Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1334-STAN-01](http://oom.lt/PROJ-ADAF-1334-STAN-01)
 - Short Link: [http://oom.lt/PRPR1334](http://oom.lt/PRPR1334)

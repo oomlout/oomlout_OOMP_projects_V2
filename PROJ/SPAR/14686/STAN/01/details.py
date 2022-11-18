@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic IMU BNO080')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_IMU_BNO080')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_IMU_BNO080')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_IMU_BNO080/Documents/Qwiic_IMU_Bonobo.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_IMU_BNO080/Documents/Qwiic_IMU_Bonobo.sch')
+    newPart['name'].append('Qwiic IMU BNO080')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_IMU_BNO080')
+    newPart['gitName'].append('Qwiic_IMU_BNO080')
+    newPart['eagleBoard'].append('/Documents/Qwiic_IMU_Bonobo.brd')
+    newPart['eagleSchem'].append('/Documents/Qwiic_IMU_Bonobo.sch')
 
 
     ######  Common

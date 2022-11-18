@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1059-STAN-01
 - Hex ID: PRPR1059
 - Name: Adafruit Flora Ultimate GPS
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1059/STAN/01/
 - Description: Adafruit Flora Ultimate GPS
 - Long Link: [http://oom.lt/PROJ-ADAF-1059-STAN-01](http://oom.lt/PROJ-ADAF-1059-STAN-01)
 - Short Link: [http://oom.lt/PRPR1059](http://oom.lt/PRPR1059)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0280-STAN-01
 - Hex ID: PRPR0280
 - Name: Adafruit USB DC LiPoly Charger
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0280/STAN/01/
 - Description: Adafruit USB DC LiPoly Charger
 - Long Link: [http://oom.lt/PROJ-ADAF-0280-STAN-01](http://oom.lt/PROJ-ADAF-0280-STAN-01)
 - Short Link: [http://oom.lt/PRPR0280](http://oom.lt/PRPR0280)

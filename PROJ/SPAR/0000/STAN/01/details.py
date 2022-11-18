@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/UHF RFID Ring Antenna')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/UHF_RFID_Ring_Antenna')
-    newPart['gitName'].append('https://github.com/sparkfunX/UHF_RFID_Ring_Antenna')
-    newPart['eagleBoard'].append('sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/UHF_RFID_Ring_Antenna/Hardware/RFID_Antenna.sch')
+    newPart['name'].append('UHF RFID Ring Antenna')
+    newPart['gitRepo'].append('https://github.com/sparkfun/UHF_RFID_Ring_Antenna')
+    newPart['gitName'].append('UHF_RFID_Ring_Antenna')
+    newPart['eagleBoard'].append('/Hardware/RFID_Antenna.brd')
+    newPart['eagleSchem'].append('/Hardware/RFID_Antenna.sch')
 
 
     ######  Common

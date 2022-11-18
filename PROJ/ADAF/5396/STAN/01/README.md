@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5396-STAN-01
 - Hex ID: PRPR5396
 - Name: Adafruit VL53L4CD PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5396/STAN/01/
 - Description: Adafruit VL53L4CD PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5396-STAN-01](http://oom.lt/PROJ-ADAF-5396-STAN-01)
 - Short Link: [http://oom.lt/PRPR5396](http://oom.lt/PRPR5396)

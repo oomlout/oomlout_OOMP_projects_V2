@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14569 > https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632](#prpr14569--httpsgithubcomsparkfunxqwiic-noncontact-thermo-mlx90632)
+* [PRPR14569 > Qwiic NonContact Thermo MLX90632](#prpr14569--qwiic-noncontact-thermo-mlx90632)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14569 > https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632
+# PRPR14569 > Qwiic NonContact Thermo MLX90632
 
 - ID: PROJ-SPAR-14569-STAN-01
 - Hex ID: PRPR14569
-- Name: https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632
-- Description: https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632
+- Name: Qwiic NonContact Thermo MLX90632
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14569/STAN/01/
+- Description: Qwiic NonContact Thermo MLX90632
 - Long Link: [http://oom.lt/PROJ-SPAR-14569-STAN-01](http://oom.lt/PROJ-SPAR-14569-STAN-01)
 - Short Link: [http://oom.lt/PRPR14569](http://oom.lt/PRPR14569)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14569-STAN-01|
 |Hex ID (short code)|hexID|PRPR14569|
-|name|name|https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.sch|
+|name|name|Qwiic NonContact Thermo MLX90632|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_NonContact_Thermo_MLX90632|
+|gitName|gitName|Qwiic_NonContact_Thermo_MLX90632|
+|eagleBoard|eagleBoard|/Hardware/Qwiic_NonContact_Thermo_MLX90632.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic_NonContact_Thermo_MLX90632.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

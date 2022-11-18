@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11801-STAN-01
 - Hex ID: PRPR11801
 - Name: Tiny AVR Programmer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11801/STAN/01/
 - Description: Tiny AVR Programmer
 - Long Link: [http://oom.lt/PROJ-SPAR-11801-STAN-01](http://oom.lt/PROJ-SPAR-11801-STAN-01)
 - Short Link: [http://oom.lt/PRPR11801](http://oom.lt/PRPR11801)

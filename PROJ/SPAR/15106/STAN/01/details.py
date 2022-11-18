@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic GPS SAM M8Q')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_GPS_SAM-M8Q')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_GPS_SAM-M8Q')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_GPS_SAM-M8Q/Hardware/Qwiic GPS - Ublox SAM-M8Q.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_GPS_SAM-M8Q/Hardware/Qwiic GPS - Ublox SAM-M8Q.sch')
+    newPart['name'].append('Qwiic GPS SAM M8Q')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_GPS_SAM-M8Q')
+    newPart['gitName'].append('Qwiic_GPS_SAM-M8Q')
+    newPart['eagleBoard'].append('/Hardware/Qwiic GPS - Ublox SAM-M8Q.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic GPS - Ublox SAM-M8Q.sch')
 
 
     ######  Common

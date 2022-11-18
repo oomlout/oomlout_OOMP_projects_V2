@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0757-STAN-01
 - Hex ID: PRPR0757
 - Name: 4 Channel Level Shifter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0757/STAN/01/
 - Description: 4 Channel Level Shifter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0757-STAN-01](http://oom.lt/PROJ-ADAF-0757-STAN-01)
 - Short Link: [http://oom.lt/PRPR0757](http://oom.lt/PRPR0757)

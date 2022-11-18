@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12916-STAN-01
 - Hex ID: PRPR12916
 - Name: HMC6343 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12916/STAN/01/
 - Description: HMC6343 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-12916-STAN-01](http://oom.lt/PROJ-SPAR-12916-STAN-01)
 - Short Link: [http://oom.lt/PRPR12916](http://oom.lt/PRPR12916)

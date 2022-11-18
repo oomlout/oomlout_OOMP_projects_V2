@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5591-STAN-01
 - Hex ID: PRPR5591
 - Name: Adafruit LTR 329 LTR 303 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5591/STAN/01/
 - Description: Adafruit LTR 329 LTR 303 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5591-STAN-01](http://oom.lt/PROJ-ADAF-5591-STAN-01)
 - Short Link: [http://oom.lt/PRPR5591](http://oom.lt/PRPR5591)

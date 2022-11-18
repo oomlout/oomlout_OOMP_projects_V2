@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-17723-STAN-01
 - Hex ID: PRPR17723
 - Name: MicroMod Qwiic Carrier
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17723/STAN/01/
 - Description: MicroMod Qwiic Carrier
 - Long Link: [http://oom.lt/PROJ-SPAR-17723-STAN-01](http://oom.lt/PROJ-SPAR-17723-STAN-01)
 - Short Link: [http://oom.lt/PRPR17723](http://oom.lt/PRPR17723)

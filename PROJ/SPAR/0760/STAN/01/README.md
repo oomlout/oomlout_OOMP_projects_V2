@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0760-STAN-01
 - Hex ID: PRPR0760
 - Name: LED Matrix Serial Interface RGB
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0760/STAN/01/
 - Description: LED Matrix Serial Interface RGB
 - Long Link: [http://oom.lt/PROJ-SPAR-0760-STAN-01](http://oom.lt/PROJ-SPAR-0760-STAN-01)
 - Short Link: [http://oom.lt/PRPR0760](http://oom.lt/PRPR0760)

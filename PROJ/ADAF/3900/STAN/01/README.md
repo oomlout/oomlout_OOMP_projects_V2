@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3900-STAN-01
 - Hex ID: PRPR3900
 - Name: Adafruit Hallowing M0 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3900/STAN/01/
 - Description: Adafruit Hallowing M0 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3900-STAN-01](http://oom.lt/PROJ-ADAF-3900-STAN-01)
 - Short Link: [http://oom.lt/PRPR3900](http://oom.lt/PRPR3900)

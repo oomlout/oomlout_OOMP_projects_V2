@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15110-STAN-01
 - Hex ID: PRPR15110
 - Name: SparkFun ESP32 Thing Plus DMX to LED Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15110/STAN/01/
 - Description: SparkFun ESP32 Thing Plus DMX to LED Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-15110-STAN-01](http://oom.lt/PROJ-SPAR-15110-STAN-01)
 - Short Link: [http://oom.lt/PRPR15110](http://oom.lt/PRPR15110)

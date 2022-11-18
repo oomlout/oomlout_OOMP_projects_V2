@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14554-STAN-01
 - Hex ID: PRPR14554
 - Name: Papa Soundie Audio Player
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/
 - Description: Papa Soundie Audio Player
 - Long Link: [http://oom.lt/PROJ-SPAR-14554-STAN-01](http://oom.lt/PROJ-SPAR-14554-STAN-01)
 - Short Link: [http://oom.lt/PRPR14554](http://oom.lt/PRPR14554)

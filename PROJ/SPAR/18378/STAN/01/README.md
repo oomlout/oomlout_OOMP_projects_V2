@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-18378-STAN-01
 - Hex ID: PRPR18378
 - Name: SparkFun GNSS Function Board NEO M9N
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18378/STAN/01/
 - Description: SparkFun GNSS Function Board NEO M9N
 - Long Link: [http://oom.lt/PROJ-SPAR-18378-STAN-01](http://oom.lt/PROJ-SPAR-18378-STAN-01)
 - Short Link: [http://oom.lt/PRPR18378](http://oom.lt/PRPR18378)

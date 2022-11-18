@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11087-STAN-01
 - Hex ID: PRPR11087
 - Name: Uh Oh Battery Indicator
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11087/STAN/01/
 - Description: Uh Oh Battery Indicator
 - Long Link: [http://oom.lt/PROJ-SPAR-11087-STAN-01](http://oom.lt/PROJ-SPAR-11087-STAN-01)
 - Short Link: [http://oom.lt/PRPR11087](http://oom.lt/PRPR11087)

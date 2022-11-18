@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3000-STAN-01
 - Hex ID: PRPR3000
 - Name: Adafruit Circuit Playground PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3000/STAN/01/
 - Description: Adafruit Circuit Playground PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3000-STAN-01](http://oom.lt/PROJ-ADAF-3000-STAN-01)
 - Short Link: [http://oom.lt/PRPR3000](http://oom.lt/PRPR3000)

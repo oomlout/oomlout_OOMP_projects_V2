@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5568-STAN-01
 - Hex ID: PRPR5568
 - Name: Adafruit WCH CH9102F Friend PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5568/STAN/01/
 - Description: Adafruit WCH CH9102F Friend PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5568-STAN-01](http://oom.lt/PROJ-ADAF-5568-STAN-01)
 - Short Link: [http://oom.lt/PRPR5568](http://oom.lt/PRPR5568)

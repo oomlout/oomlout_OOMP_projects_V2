@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14587-STAN-01
 - Hex ID: PRPR14587
 - Name: Qwiic Accelerometer MMA8452Q
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14587/STAN/01/
 - Description: Qwiic Accelerometer MMA8452Q
 - Long Link: [http://oom.lt/PROJ-SPAR-14587-STAN-01](http://oom.lt/PROJ-SPAR-14587-STAN-01)
 - Short Link: [http://oom.lt/PRPR14587](http://oom.lt/PRPR14587)

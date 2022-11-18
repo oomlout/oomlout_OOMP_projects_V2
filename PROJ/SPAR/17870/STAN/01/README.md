@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17870 > https://github.com/sparkfunX/Soft Power Switch](#prpr17870--httpsgithubcomsparkfunxsoft-power-switch)
+* [PRPR17870 > Soft Power Switch](#prpr17870--soft-power-switch)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17870 > https://github.com/sparkfunX/Soft Power Switch
+# PRPR17870 > Soft Power Switch
 
 - ID: PROJ-SPAR-17870-STAN-01
 - Hex ID: PRPR17870
-- Name: https://github.com/sparkfunX/Soft Power Switch
-- Description: https://github.com/sparkfunX/Soft Power Switch
+- Name: Soft Power Switch
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17870/STAN/01/
+- Description: Soft Power Switch
 - Long Link: [http://oom.lt/PROJ-SPAR-17870-STAN-01](http://oom.lt/PROJ-SPAR-17870-STAN-01)
 - Short Link: [http://oom.lt/PRPR17870](http://oom.lt/PRPR17870)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17870-STAN-01|
 |Hex ID (short code)|hexID|PRPR17870|
-|name|name|https://github.com/sparkfunX/Soft Power Switch|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Soft_Power_Switch|
-|gitName|gitName|https://github.com/sparkfunX/Soft_Power_Switch|
-|eagleBoard|eagleBoard|sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.sch|
+|name|name|Soft Power Switch|
+|gitRepo|gitRepo|https://github.com/sparkfun/Soft_Power_Switch|
+|gitName|gitName|Soft_Power_Switch|
+|eagleBoard|eagleBoard|/Hardware/SparkFun Soft Power Switch.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkFun Soft Power Switch.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

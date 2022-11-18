@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11824-STAN-01
 - Hex ID: PRPR11824
 - Name: BMP180 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11824/STAN/01/
 - Description: BMP180 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11824-STAN-01](http://oom.lt/PROJ-SPAR-11824-STAN-01)
 - Short Link: [http://oom.lt/PRPR11824](http://oom.lt/PRPR11824)

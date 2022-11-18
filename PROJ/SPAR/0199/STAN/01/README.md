@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0199-STAN-01
 - Hex ID: PRPR0199
 - Name: USB Serial GPIO Breakout CP2103
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0199/STAN/01/
 - Description: USB Serial GPIO Breakout CP2103
 - Long Link: [http://oom.lt/PROJ-SPAR-0199-STAN-01](http://oom.lt/PROJ-SPAR-0199-STAN-01)
 - Short Link: [http://oom.lt/PRPR0199](http://oom.lt/PRPR0199)

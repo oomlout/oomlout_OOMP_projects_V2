@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0495-STAN-01
 - Hex ID: PRPR0495
 - Name: SOIC20 DIP Adapter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0495/STAN/01/
 - Description: SOIC20 DIP Adapter
 - Long Link: [http://oom.lt/PROJ-SPAR-0495-STAN-01](http://oom.lt/PROJ-SPAR-0495-STAN-01)
 - Short Link: [http://oom.lt/PRPR0495](http://oom.lt/PRPR0495)

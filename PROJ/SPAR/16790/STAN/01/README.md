@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16790-STAN-01
 - Hex ID: PRPR16790
 - Name: Qwiic Shield for Thing Plus
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16790/STAN/01/
 - Description: Qwiic Shield for Thing Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-16790-STAN-01](http://oom.lt/PROJ-SPAR-16790-STAN-01)
 - Short Link: [http://oom.lt/PRPR16790](http://oom.lt/PRPR16790)

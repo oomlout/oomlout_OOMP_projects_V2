@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5378-STAN-01
 - Hex ID: PRPR5378
 - Name: Adafruit VEML7700 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5378/STAN/01/
 - Description: Adafruit VEML7700 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5378-STAN-01](http://oom.lt/PROJ-ADAF-5378-STAN-01)
 - Short Link: [http://oom.lt/PRPR5378](http://oom.lt/PRPR5378)

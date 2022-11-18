@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18567-STAN-01
 - Hex ID: PRPR18567
 - Name: WiFi Shield DA16200
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18567/STAN/01/
 - Description: WiFi Shield DA16200
 - Long Link: [http://oom.lt/PROJ-SPAR-18567-STAN-01](http://oom.lt/PROJ-SPAR-18567-STAN-01)
 - Short Link: [http://oom.lt/PRPR18567](http://oom.lt/PRPR18567)

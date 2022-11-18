@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0904-STAN-01
 - Hex ID: PRPR0904
 - Name: Adafruit INA219 Current Sensor PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0904/STAN/01/
 - Description: Adafruit INA219 Current Sensor PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0904-STAN-01](http://oom.lt/PROJ-ADAF-0904-STAN-01)
 - Short Link: [http://oom.lt/PRPR0904](http://oom.lt/PRPR0904)

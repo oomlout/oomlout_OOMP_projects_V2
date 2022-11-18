@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11509-STAN-01
 - Hex ID: PRPR11509
 - Name: Papilio Button LED Wing
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11509/STAN/01/
 - Description: Papilio Button LED Wing
 - Long Link: [http://oom.lt/PROJ-SPAR-11509-STAN-01](http://oom.lt/PROJ-SPAR-11509-STAN-01)
 - Short Link: [http://oom.lt/PRPR11509](http://oom.lt/PRPR11509)

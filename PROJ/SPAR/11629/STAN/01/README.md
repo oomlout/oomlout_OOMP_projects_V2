@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11629-STAN-01
 - Hex ID: PRPR11629
 - Name: Serial7SegmentDisplay
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11629/STAN/01/
 - Description: Serial7SegmentDisplay
 - Long Link: [http://oom.lt/PROJ-SPAR-11629-STAN-01](http://oom.lt/PROJ-SPAR-11629-STAN-01)
 - Short Link: [http://oom.lt/PRPR11629](http://oom.lt/PRPR11629)

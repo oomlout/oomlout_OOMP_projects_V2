@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2829-STAN-01
 - Hex ID: PRPR2829
 - Name: Adafruit Feather 32u4 Bluefruit LE PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2829/STAN/01/
 - Description: Adafruit Feather 32u4 Bluefruit LE PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2829-STAN-01](http://oom.lt/PROJ-ADAF-2829-STAN-01)
 - Short Link: [http://oom.lt/PRPR2829](http://oom.lt/PRPR2829)

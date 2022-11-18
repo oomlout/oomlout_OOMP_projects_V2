@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-9598-STAN-01
 - Hex ID: PRPR9598
 - Name: MIDI Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/
 - Description: MIDI Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-9598-STAN-01](http://oom.lt/PROJ-SPAR-9598-STAN-01)
 - Short Link: [http://oom.lt/PRPR9598](http://oom.lt/PRPR9598)

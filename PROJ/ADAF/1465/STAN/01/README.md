@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1465-STAN-01
 - Hex ID: PRPR1465
 - Name: Adafruit ISP SWD and JTAG Breakout PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1465/STAN/01/
 - Description: Adafruit ISP SWD and JTAG Breakout PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-1465-STAN-01](http://oom.lt/PROJ-ADAF-1465-STAN-01)
 - Short Link: [http://oom.lt/PRPR1465](http://oom.lt/PRPR1465)

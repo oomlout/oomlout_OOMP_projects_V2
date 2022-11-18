@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4759-STAN-01
 - Hex ID: PRPR4759
 - Name: Adafruit Feather M4 CAN PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4759/STAN/01/
 - Description: Adafruit Feather M4 CAN PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4759-STAN-01](http://oom.lt/PROJ-ADAF-4759-STAN-01)
 - Short Link: [http://oom.lt/PRPR4759](http://oom.lt/PRPR4759)

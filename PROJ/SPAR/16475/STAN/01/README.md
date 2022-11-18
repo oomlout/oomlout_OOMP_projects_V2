@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16475-STAN-01
 - Hex ID: PRPR16475
 - Name: SparkFun GPS Dead Reckoning PHat ZED F9R
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16475/STAN/01/
 - Description: SparkFun GPS Dead Reckoning PHat ZED F9R
 - Long Link: [http://oom.lt/PROJ-SPAR-16475-STAN-01](http://oom.lt/PROJ-SPAR-16475-STAN-01)
 - Short Link: [http://oom.lt/PRPR16475](http://oom.lt/PRPR16475)

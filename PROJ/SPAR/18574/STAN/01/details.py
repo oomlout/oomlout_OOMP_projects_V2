@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/RFM97CW Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/RFM97CW_Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/RFM97CW_Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/RFM97CW_Breakout/Hardware/SparkFun_RFM97CW_Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/RFM97CW_Breakout/Hardware/SparkFun_RFM97CW_Breakout.sch')
+    newPart['name'].append('RFM97CW Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/RFM97CW_Breakout')
+    newPart['gitName'].append('RFM97CW_Breakout')
+    newPart['eagleBoard'].append('/Hardware/SparkFun_RFM97CW_Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkFun_RFM97CW_Breakout.sch')
 
 
     ######  Common

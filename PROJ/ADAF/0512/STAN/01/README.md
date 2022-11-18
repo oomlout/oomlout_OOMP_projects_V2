@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0512-STAN-01
 - Hex ID: PRPR0512
 - Name: Adafruit 9 DOF and 10 DOF PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0512/STAN/01/
 - Description: Adafruit 9 DOF and 10 DOF PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-0512-STAN-01](http://oom.lt/PROJ-ADAF-0512-STAN-01)
 - Short Link: [http://oom.lt/PRPR0512](http://oom.lt/PRPR0512)

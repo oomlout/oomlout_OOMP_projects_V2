@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4415-STAN-01
 - Hex ID: PRPR4415
 - Name: Adafruit PA1010D Mini GPS PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4415/STAN/01/
 - Description: Adafruit PA1010D Mini GPS PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4415-STAN-01](http://oom.lt/PROJ-ADAF-4415-STAN-01)
 - Short Link: [http://oom.lt/PRPR4415](http://oom.lt/PRPR4415)

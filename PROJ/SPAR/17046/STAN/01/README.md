@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17046 > https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder](#prpr17046--httpsgithubcomsparkfunxqwiic-chirp-101-ultrasonic-rangefinder)
+* [PRPR17046 > Qwiic Chirp 101 Ultrasonic Rangefinder](#prpr17046--qwiic-chirp-101-ultrasonic-rangefinder)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17046 > https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder
+# PRPR17046 > Qwiic Chirp 101 Ultrasonic Rangefinder
 
 - ID: PROJ-SPAR-17046-STAN-01
 - Hex ID: PRPR17046
-- Name: https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder
-- Description: https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder
+- Name: Qwiic Chirp 101 Ultrasonic Rangefinder
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17046/STAN/01/
+- Description: Qwiic Chirp 101 Ultrasonic Rangefinder
 - Long Link: [http://oom.lt/PROJ-SPAR-17046-STAN-01](http://oom.lt/PROJ-SPAR-17046-STAN-01)
 - Short Link: [http://oom.lt/PRPR17046](http://oom.lt/PRPR17046)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17046-STAN-01|
 |Hex ID (short code)|hexID|PRPR17046|
-|name|name|https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.sch|
+|name|name|Qwiic Chirp 101 Ultrasonic Rangefinder|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Chirp_101_Ultrasonic_Rangefinder|
+|gitName|gitName|Qwiic_Chirp_101_Ultrasonic_Rangefinder|
+|eagleBoard|eagleBoard|/Hardware/Qwiic_Chirp_101.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic_Chirp_101.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8554-STAN-01
 - Hex ID: PRPR8554
 - Name: IR Receiver Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8554/STAN/01/
 - Description: IR Receiver Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-8554-STAN-01](http://oom.lt/PROJ-SPAR-8554-STAN-01)
 - Short Link: [http://oom.lt/PRPR8554](http://oom.lt/PRPR8554)

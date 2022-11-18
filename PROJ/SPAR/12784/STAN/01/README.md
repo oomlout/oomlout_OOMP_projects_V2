@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12784-STAN-01
 - Hex ID: PRPR12784
 - Name: ToF Range Finder Breakout VL6180
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12784/STAN/01/
 - Description: ToF Range Finder Breakout VL6180
 - Long Link: [http://oom.lt/PROJ-SPAR-12784-STAN-01](http://oom.lt/PROJ-SPAR-12784-STAN-01)
 - Short Link: [http://oom.lt/PRPR12784](http://oom.lt/PRPR12784)

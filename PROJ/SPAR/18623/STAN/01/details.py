@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX smol ZOE M8Q')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_ZOE-M8Q')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX_smol_ZOE-M8Q')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX_smol_ZOE-M8Q/Hardware/SparkX_smol_ZOE-M8Q.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX_smol_ZOE-M8Q/Hardware/SparkX_smol_ZOE-M8Q.sch')
+    newPart['name'].append('SparkX smol ZOE M8Q')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX_smol_ZOE-M8Q')
+    newPart['gitName'].append('SparkX_smol_ZOE-M8Q')
+    newPart['eagleBoard'].append('/Hardware/SparkX_smol_ZOE-M8Q.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkX_smol_ZOE-M8Q.sch')
 
 
     ######  Common

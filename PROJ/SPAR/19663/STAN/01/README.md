@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-19663-STAN-01
 - Hex ID: PRPR19663
 - Name: SparkFun MicroMod GNSS Function Board ZED F9P
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/19663/STAN/01/
 - Description: SparkFun MicroMod GNSS Function Board ZED F9P
 - Long Link: [http://oom.lt/PROJ-SPAR-19663-STAN-01](http://oom.lt/PROJ-SPAR-19663-STAN-01)
 - Short Link: [http://oom.lt/PRPR19663](http://oom.lt/PRPR19663)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3251-STAN-01
 - Hex ID: PRPR3251
 - Name: Adafruit Si7021 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3251/STAN/01/
 - Description: Adafruit Si7021 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3251-STAN-01](http://oom.lt/PROJ-ADAF-3251-STAN-01)
 - Short Link: [http://oom.lt/PRPR3251](http://oom.lt/PRPR3251)

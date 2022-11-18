@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13036-STAN-01
 - Hex ID: PRPR13036
 - Name: Edison Arduino Block
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13036/STAN/01/
 - Description: Edison Arduino Block
 - Long Link: [http://oom.lt/PROJ-SPAR-13036-STAN-01](http://oom.lt/PROJ-SPAR-13036-STAN-01)
 - Short Link: [http://oom.lt/PRPR13036](http://oom.lt/PRPR13036)

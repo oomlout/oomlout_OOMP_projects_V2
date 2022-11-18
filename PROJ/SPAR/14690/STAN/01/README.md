@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14690 > https://github.com/sparkfunX/Qwiic Proximity VCNL4040](#prpr14690--httpsgithubcomsparkfunxqwiic-proximity-vcnl4040)
+* [PRPR14690 > Qwiic Proximity VCNL4040](#prpr14690--qwiic-proximity-vcnl4040)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14690 > https://github.com/sparkfunX/Qwiic Proximity VCNL4040
+# PRPR14690 > Qwiic Proximity VCNL4040
 
 - ID: PROJ-SPAR-14690-STAN-01
 - Hex ID: PRPR14690
-- Name: https://github.com/sparkfunX/Qwiic Proximity VCNL4040
-- Description: https://github.com/sparkfunX/Qwiic Proximity VCNL4040
+- Name: Qwiic Proximity VCNL4040
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14690/STAN/01/
+- Description: Qwiic Proximity VCNL4040
 - Long Link: [http://oom.lt/PROJ-SPAR-14690-STAN-01](http://oom.lt/PROJ-SPAR-14690-STAN-01)
 - Short Link: [http://oom.lt/PRPR14690](http://oom.lt/PRPR14690)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14690-STAN-01|
 |Hex ID (short code)|hexID|PRPR14690|
-|name|name|https://github.com/sparkfunX/Qwiic Proximity VCNL4040|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.sch|
+|name|name|Qwiic Proximity VCNL4040|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Proximity_VCNL4040|
+|gitName|gitName|Qwiic_Proximity_VCNL4040|
+|eagleBoard|eagleBoard|/Hardware/Qwiic Proximity Sensor - VCNL4040.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic Proximity Sensor - VCNL4040.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

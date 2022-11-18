@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0254-STAN-01
 - Hex ID: PRPR0254
 - Name: MicroSD breakout board
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0254/STAN/01/
 - Description: MicroSD breakout board
 - Long Link: [http://oom.lt/PROJ-ADAF-0254-STAN-01](http://oom.lt/PROJ-ADAF-0254-STAN-01)
 - Short Link: [http://oom.lt/PRPR0254](http://oom.lt/PRPR0254)

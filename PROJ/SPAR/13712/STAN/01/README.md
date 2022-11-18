@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13712-STAN-01
 - Hex ID: PRPR13712
 - Name: OpenLog
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13712/STAN/01/
 - Description: OpenLog
 - Long Link: [http://oom.lt/PROJ-SPAR-13712-STAN-01](http://oom.lt/PROJ-SPAR-13712-STAN-01)
 - Short Link: [http://oom.lt/PRPR13712](http://oom.lt/PRPR13712)

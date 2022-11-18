@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11561-STAN-01
 - Hex ID: PRPR11561
 - Name: RaspiRobot
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11561/STAN/01/
 - Description: RaspiRobot
 - Long Link: [http://oom.lt/PROJ-SPAR-11561-STAN-01](http://oom.lt/PROJ-SPAR-11561-STAN-01)
 - Short Link: [http://oom.lt/PRPR11561](http://oom.lt/PRPR11561)

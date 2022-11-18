@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4570-STAN-01
 - Hex ID: PRPR4570
 - Name: Adafruit DS1841 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4570/STAN/01/
 - Description: Adafruit DS1841 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4570-STAN-01](http://oom.lt/PROJ-ADAF-4570-STAN-01)
 - Short Link: [http://oom.lt/PRPR4570](http://oom.lt/PRPR4570)

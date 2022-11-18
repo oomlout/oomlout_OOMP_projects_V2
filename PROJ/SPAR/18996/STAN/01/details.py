@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX smol OLED Display')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_OLED_Display')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX_smol_OLED_Display')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX_smol_OLED_Display/Hardware/SparkX_smol_Display.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX_smol_OLED_Display/Hardware/SparkX_smol_Display.sch')
+    newPart['name'].append('SparkX smol OLED Display')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX_smol_OLED_Display')
+    newPart['gitName'].append('SparkX_smol_OLED_Display')
+    newPart['eagleBoard'].append('/Hardware/SparkX_smol_Display.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkX_smol_Display.sch')
 
 
     ######  Common

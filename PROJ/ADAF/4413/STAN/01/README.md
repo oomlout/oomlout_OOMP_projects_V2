@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4413-STAN-01
 - Hex ID: PRPR4413
 - Name: Adafruit LSM303AGR PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4413/STAN/01/
 - Description: Adafruit LSM303AGR PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4413-STAN-01](http://oom.lt/PROJ-ADAF-4413-STAN-01)
 - Short Link: [http://oom.lt/PRPR4413](http://oom.lt/PRPR4413)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-17590-STAN-01
 - Hex ID: PRPR17590
 - Name: Qwiic Haptic Driver DA7280
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17590/STAN/01/
 - Description: Qwiic Haptic Driver DA7280
 - Long Link: [http://oom.lt/PROJ-SPAR-17590-STAN-01](http://oom.lt/PROJ-SPAR-17590-STAN-01)
 - Short Link: [http://oom.lt/PRPR17590](http://oom.lt/PRPR17590)

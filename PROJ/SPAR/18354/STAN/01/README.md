@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18354-STAN-01
 - Hex ID: PRPR18354
 - Name: SparkFun Qwiic LED Stick
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18354/STAN/01/
 - Description: SparkFun Qwiic LED Stick
 - Long Link: [http://oom.lt/PROJ-SPAR-18354-STAN-01](http://oom.lt/PROJ-SPAR-18354-STAN-01)
 - Short Link: [http://oom.lt/PRPR18354](http://oom.lt/PRPR18354)

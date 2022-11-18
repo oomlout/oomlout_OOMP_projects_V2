@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13601-STAN-01
 - Hex ID: PRPR13601
 - Name: SX1509 IO Expander
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13601/STAN/01/
 - Description: SX1509 IO Expander
 - Long Link: [http://oom.lt/PROJ-SPAR-13601-STAN-01](http://oom.lt/PROJ-SPAR-13601-STAN-01)
 - Short Link: [http://oom.lt/PRPR13601](http://oom.lt/PRPR13601)

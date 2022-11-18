@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0021-STAN-01
 - Hex ID: PRPR0021
 - Name: ATTiny85 SirTiny
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0021/STAN/01/
 - Description: ATTiny85 SirTiny
 - Long Link: [http://oom.lt/PROJ-SIRB-0021-STAN-01](http://oom.lt/PROJ-SIRB-0021-STAN-01)
 - Short Link: [http://oom.lt/PRPR0021](http://oom.lt/PRPR0021)

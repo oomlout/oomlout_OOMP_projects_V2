@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14652 > https://github.com/sparkfunX/Magnetic Imaging Tile](#prpr14652--httpsgithubcomsparkfunxmagnetic-imaging-tile)
+* [PRPR14652 > Magnetic Imaging Tile](#prpr14652--magnetic-imaging-tile)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14652 > https://github.com/sparkfunX/Magnetic Imaging Tile
+# PRPR14652 > Magnetic Imaging Tile
 
 - ID: PROJ-SPAR-14652-STAN-01
 - Hex ID: PRPR14652
-- Name: https://github.com/sparkfunX/Magnetic Imaging Tile
-- Description: https://github.com/sparkfunX/Magnetic Imaging Tile
+- Name: Magnetic Imaging Tile
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14652/STAN/01/
+- Description: Magnetic Imaging Tile
 - Long Link: [http://oom.lt/PROJ-SPAR-14652-STAN-01](http://oom.lt/PROJ-SPAR-14652-STAN-01)
 - Short Link: [http://oom.lt/PRPR14652](http://oom.lt/PRPR14652)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14652-STAN-01|
 |Hex ID (short code)|hexID|PRPR14652|
-|name|name|https://github.com/sparkfunX/Magnetic Imaging Tile|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Magnetic_Imaging_Tile|
-|gitName|gitName|https://github.com/sparkfunX/Magnetic_Imaging_Tile|
-|eagleBoard|eagleBoard|sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.sch|
+|name|name|Magnetic Imaging Tile|
+|gitRepo|gitRepo|https://github.com/sparkfun/Magnetic_Imaging_Tile|
+|gitName|gitName|Magnetic_Imaging_Tile|
+|eagleBoard|eagleBoard|/hardware/Magnetic-Imaging-Tile.brd|
+|eagleSchem|eagleSchem|/hardware/Magnetic-Imaging-Tile.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

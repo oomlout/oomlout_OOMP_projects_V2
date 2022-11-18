@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0782-STAN-01
 - Hex ID: PRPR0782
 - Name: Adafruit USB Serial RGB Character Backpack PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0782/STAN/01/
 - Description: Adafruit USB Serial RGB Character Backpack PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0782-STAN-01](http://oom.lt/PROJ-ADAF-0782-STAN-01)
 - Short Link: [http://oom.lt/PRPR0782](http://oom.lt/PRPR0782)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic NonContact Thermo MLX90632')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_NonContact_Thermo_MLX90632')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_NonContact_Thermo_MLX90632/Hardware/Qwiic_NonContact_Thermo_MLX90632.sch')
+    newPart['name'].append('Qwiic NonContact Thermo MLX90632')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_NonContact_Thermo_MLX90632')
+    newPart['gitName'].append('Qwiic_NonContact_Thermo_MLX90632')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_NonContact_Thermo_MLX90632.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_NonContact_Thermo_MLX90632.sch')
 
 
     ######  Common

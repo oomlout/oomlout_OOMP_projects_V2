@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4754-STAN-01
 - Hex ID: PRPR4754
 - Name: Adafruit BNO08x PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4754/STAN/01/
 - Description: Adafruit BNO08x PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4754-STAN-01](http://oom.lt/PROJ-ADAF-4754-STAN-01)
 - Short Link: [http://oom.lt/PRPR4754](http://oom.lt/PRPR4754)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14350-STAN-01
 - Hex ID: PRPR14350
 - Name: APDS 9301 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14350/STAN/01/
 - Description: APDS 9301 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-14350-STAN-01](http://oom.lt/PROJ-SPAR-14350-STAN-01)
 - Short Link: [http://oom.lt/PRPR14350](http://oom.lt/PRPR14350)

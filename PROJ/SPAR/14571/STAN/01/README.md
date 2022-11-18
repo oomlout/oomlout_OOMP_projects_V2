@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14571-STAN-01
 - Hex ID: PRPR14571
 - Name: Qwiic Magnetometer MLX90393
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14571/STAN/01/
 - Description: Qwiic Magnetometer MLX90393
 - Long Link: [http://oom.lt/PROJ-SPAR-14571-STAN-01](http://oom.lt/PROJ-SPAR-14571-STAN-01)
 - Short Link: [http://oom.lt/PRPR14571](http://oom.lt/PRPR14571)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3661-STAN-01
 - Hex ID: PRPR3661
 - Name: Adafruit AP3602A PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3661/STAN/01/
 - Description: Adafruit AP3602A PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3661-STAN-01](http://oom.lt/PROJ-ADAF-3661-STAN-01)
 - Short Link: [http://oom.lt/PRPR3661](http://oom.lt/PRPR3661)

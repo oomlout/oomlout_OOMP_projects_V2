@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12786-STAN-01
 - Hex ID: PRPR12786
 - Name: ADXL337 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12786/STAN/01/
 - Description: ADXL337 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-12786-STAN-01](http://oom.lt/PROJ-SPAR-12786-STAN-01)
 - Short Link: [http://oom.lt/PRPR12786](http://oom.lt/PRPR12786)

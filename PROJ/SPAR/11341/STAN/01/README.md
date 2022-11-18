@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11341-STAN-01
 - Hex ID: PRPR11341
 - Name: Gyro Breakout LPY503AL
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11341/STAN/01/
 - Description: Gyro Breakout LPY503AL
 - Long Link: [http://oom.lt/PROJ-SPAR-11341-STAN-01](http://oom.lt/PROJ-SPAR-11341-STAN-01)
 - Short Link: [http://oom.lt/PRPR11341](http://oom.lt/PRPR11341)

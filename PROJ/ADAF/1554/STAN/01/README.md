@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-1554-STAN-01
 - Hex ID: PRPR1554
 - Name: Adafruit PCB Ruler
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1554/STAN/01/
 - Description: Adafruit PCB Ruler
 - Long Link: [http://oom.lt/PROJ-ADAF-1554-STAN-01](http://oom.lt/PROJ-ADAF-1554-STAN-01)
 - Short Link: [http://oom.lt/PRPR1554](http://oom.lt/PRPR1554)

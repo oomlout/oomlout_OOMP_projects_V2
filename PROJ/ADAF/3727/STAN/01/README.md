@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3727-STAN-01
 - Hex ID: PRPR3727
 - Name: Adafruit ItsyBitsy M0 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3727/STAN/01/
 - Description: Adafruit ItsyBitsy M0 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3727-STAN-01](http://oom.lt/PROJ-ADAF-3727-STAN-01)
 - Short Link: [http://oom.lt/PRPR3727](http://oom.lt/PRPR3727)

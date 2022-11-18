@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SOPA-0004-STAN-01
 - Hex ID: PRPR0004
 - Name: Keyboard featherwing
+- Path: oomlout_OOMP_projects_V2/PROJ/SOPA/0004/STAN/01/
 - Description: Keyboard featherwing
 - Long Link: [http://oom.lt/PROJ-SOPA-0004-STAN-01](http://oom.lt/PROJ-SOPA-0004-STAN-01)
 - Short Link: [http://oom.lt/PRPR0004](http://oom.lt/PRPR0004)

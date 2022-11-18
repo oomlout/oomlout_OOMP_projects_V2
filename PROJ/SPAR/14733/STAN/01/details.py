@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic RGB BH1749')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_RGB_BH1749')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_RGB_BH1749')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_RGB_BH1749/Hardware/Qwiic RGB Sensor - BH1749.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_RGB_BH1749/Hardware/Qwiic RGB Sensor - BH1749.sch')
+    newPart['name'].append('Qwiic RGB BH1749')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_RGB_BH1749')
+    newPart['gitName'].append('Qwiic_RGB_BH1749')
+    newPart['eagleBoard'].append('/Hardware/Qwiic RGB Sensor - BH1749.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic RGB Sensor - BH1749.sch')
 
 
     ######  Common

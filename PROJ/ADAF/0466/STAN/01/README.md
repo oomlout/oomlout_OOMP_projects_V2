@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0466-STAN-01
 - Hex ID: PRPR0466
 - Name: Adafruit VCNL40X0 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0466/STAN/01/
 - Description: Adafruit VCNL40X0 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0466-STAN-01](http://oom.lt/PROJ-ADAF-0466-STAN-01)
 - Short Link: [http://oom.lt/PRPR0466](http://oom.lt/PRPR0466)

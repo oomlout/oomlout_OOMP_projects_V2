@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1063-STAN-01
 - Hex ID: PRPR1063
 - Name: Adafruit MAX4466 Electret Mic Amplifier PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1063/STAN/01/
 - Description: Adafruit MAX4466 Electret Mic Amplifier PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-1063-STAN-01](http://oom.lt/PROJ-ADAF-1063-STAN-01)
 - Short Link: [http://oom.lt/PRPR1063](http://oom.lt/PRPR1063)

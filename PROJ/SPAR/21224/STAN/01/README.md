@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-21224-STAN-01
 - Hex ID: PRPR21224
 - Name: Qwiic MultiStar Board Promo Constellation
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/21224/STAN/01/
 - Description: Qwiic MultiStar Board Promo Constellation
 - Long Link: [http://oom.lt/PROJ-SPAR-21224-STAN-01](http://oom.lt/PROJ-SPAR-21224-STAN-01)
 - Short Link: [http://oom.lt/PRPR21224](http://oom.lt/PRPR21224)

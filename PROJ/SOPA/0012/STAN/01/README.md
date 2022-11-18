@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SOPA-0012-STAN-01
 - Hex ID: PRPR0012
 - Name: Rp2040 stamp jig
+- Path: oomlout_OOMP_projects_V2/PROJ/SOPA/0012/STAN/01/
 - Description: Rp2040 stamp jig
 - Long Link: [http://oom.lt/PROJ-SOPA-0012-STAN-01](http://oom.lt/PROJ-SOPA-0012-STAN-01)
 - Short Link: [http://oom.lt/PRPR0012](http://oom.lt/PRPR0012)

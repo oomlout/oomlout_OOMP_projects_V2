@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Chirp 101 Ultrasonic Rangefinder')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Chirp_101_Ultrasonic_Rangefinder')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Chirp_101_Ultrasonic_Rangefinder/Hardware/Qwiic_Chirp_101.sch')
+    newPart['name'].append('Qwiic Chirp 101 Ultrasonic Rangefinder')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Chirp_101_Ultrasonic_Rangefinder')
+    newPart['gitName'].append('Qwiic_Chirp_101_Ultrasonic_Rangefinder')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Chirp_101.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Chirp_101.sch')
 
 
     ######  Common

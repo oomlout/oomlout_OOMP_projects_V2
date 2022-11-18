@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4682-STAN-01
 - Hex ID: PRPR4682
 - Name: Adafruit MicroSD SPI or SDIO card breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4682/STAN/01/
 - Description: Adafruit MicroSD SPI or SDIO card breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4682-STAN-01](http://oom.lt/PROJ-ADAF-4682-STAN-01)
 - Short Link: [http://oom.lt/PRPR4682](http://oom.lt/PRPR4682)

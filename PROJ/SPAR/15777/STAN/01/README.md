@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR15777 > https://github.com/sparkfunX/Qwiic Lidar Lite](#prpr15777--httpsgithubcomsparkfunxqwiic-lidar-lite)
+* [PRPR15777 > Qwiic Lidar Lite](#prpr15777--qwiic-lidar-lite)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR15777 > https://github.com/sparkfunX/Qwiic Lidar Lite
+# PRPR15777 > Qwiic Lidar Lite
 
 - ID: PROJ-SPAR-15777-STAN-01
 - Hex ID: PRPR15777
-- Name: https://github.com/sparkfunX/Qwiic Lidar Lite
-- Description: https://github.com/sparkfunX/Qwiic Lidar Lite
+- Name: Qwiic Lidar Lite
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15777/STAN/01/
+- Description: Qwiic Lidar Lite
 - Long Link: [http://oom.lt/PROJ-SPAR-15777-STAN-01](http://oom.lt/PROJ-SPAR-15777-STAN-01)
 - Short Link: [http://oom.lt/PRPR15777](http://oom.lt/PRPR15777)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15777-STAN-01|
 |Hex ID (short code)|hexID|PRPR15777|
-|name|name|https://github.com/sparkfunX/Qwiic Lidar Lite|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Lidar_Lite|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Lidar_Lite|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.sch|
+|name|name|Qwiic Lidar Lite|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Lidar_Lite|
+|gitName|gitName|Qwiic_Lidar_Lite|
+|eagleBoard|eagleBoard|/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

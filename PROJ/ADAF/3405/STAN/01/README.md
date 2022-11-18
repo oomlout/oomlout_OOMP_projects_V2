@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3405-STAN-01
 - Hex ID: PRPR3405
 - Name: Adafruit HUZZAH32 ESP32 Feather PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3405/STAN/01/
 - Description: Adafruit HUZZAH32 ESP32 Feather PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3405-STAN-01](http://oom.lt/PROJ-ADAF-3405-STAN-01)
 - Short Link: [http://oom.lt/PRPR3405](http://oom.lt/PRPR3405)

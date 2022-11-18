@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic High Performance Magnetometer MMC5983MA')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_High_Performance_Magnetometer_MMC5983MA')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_High_Performance_Magnetometer_MMC5983MA')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_High_Performance_Magnetometer_MMC5983MA/Hardware/Qwiic_High_Performance_Magnetometer_X01.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_High_Performance_Magnetometer_MMC5983MA/Hardware/Qwiic_High_Performance_Magnetometer_X01.sch')
+    newPart['name'].append('Qwiic High Performance Magnetometer MMC5983MA')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_High_Performance_Magnetometer_MMC5983MA')
+    newPart['gitName'].append('Qwiic_High_Performance_Magnetometer_MMC5983MA')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_High_Performance_Magnetometer_X01.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_High_Performance_Magnetometer_X01.sch')
 
 
     ######  Common

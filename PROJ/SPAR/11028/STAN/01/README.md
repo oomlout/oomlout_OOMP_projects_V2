@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11028-STAN-01
 - Hex ID: PRPR11028
 - Name: MPU 6050 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11028/STAN/01/
 - Description: MPU 6050 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11028-STAN-01](http://oom.lt/PROJ-SPAR-11028-STAN-01)
 - Short Link: [http://oom.lt/PRPR11028](http://oom.lt/PRPR11028)

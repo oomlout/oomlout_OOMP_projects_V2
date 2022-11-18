@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Human Presence Sensor AK9750')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Human_Presence_Sensor-AK9750')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Human_Presence_Sensor-AK9750')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Human_Presence_Sensor-AK9750/Hardware/AK9750 Human Movement Sensor Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Human_Presence_Sensor-AK9750/Hardware/AK9750 Human Movement Sensor Breakout.sch')
+    newPart['name'].append('Qwiic Human Presence Sensor AK9750')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Human_Presence_Sensor-AK9750')
+    newPart['gitName'].append('Qwiic_Human_Presence_Sensor-AK9750')
+    newPart['eagleBoard'].append('/Hardware/AK9750 Human Movement Sensor Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/AK9750 Human Movement Sensor Breakout.sch')
 
 
     ######  Common

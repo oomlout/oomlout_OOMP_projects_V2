@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Inline DC Panel Meter')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Inline-DC-Panel-Meter')
-    newPart['gitName'].append('https://github.com/sparkfunX/Inline-DC-Panel-Meter')
-    newPart['eagleBoard'].append('sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.sch')
+    newPart['name'].append('Inline DC Panel Meter')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Inline-DC-Panel-Meter')
+    newPart['gitName'].append('Inline-DC-Panel-Meter')
+    newPart['eagleBoard'].append('/Hardware/Inline DC Panel Meter - Display Holder.brd')
+    newPart['eagleSchem'].append('/Hardware/Inline DC Panel Meter - Display Holder.sch')
 
 
     ######  Common

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5297-STAN-01
 - Hex ID: PRPR5297
 - Name: Adafruit 1.12in 128x128 OLED PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5297/STAN/01/
 - Description: Adafruit 1.12in 128x128 OLED PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5297-STAN-01](http://oom.lt/PROJ-ADAF-5297-STAN-01)
 - Short Link: [http://oom.lt/PRPR5297](http://oom.lt/PRPR5297)

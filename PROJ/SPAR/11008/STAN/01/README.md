@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11008-STAN-01
 - Hex ID: PRPR11008
 - Name: LilyPad Vibe Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11008/STAN/01/
 - Description: LilyPad Vibe Board
 - Long Link: [http://oom.lt/PROJ-SPAR-11008-STAN-01](http://oom.lt/PROJ-SPAR-11008-STAN-01)
 - Short Link: [http://oom.lt/PRPR11008](http://oom.lt/PRPR11008)

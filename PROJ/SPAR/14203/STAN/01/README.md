@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14203 > https://github.com/sparkfunX/Qwiic Shield for ESP32](#prpr14203--httpsgithubcomsparkfunxqwiic-shield-for-esp32)
+* [PRPR14203 > Qwiic Shield for ESP32](#prpr14203--qwiic-shield-for-esp32)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14203 > https://github.com/sparkfunX/Qwiic Shield for ESP32
+# PRPR14203 > Qwiic Shield for ESP32
 
 - ID: PROJ-SPAR-14203-STAN-01
 - Hex ID: PRPR14203
-- Name: https://github.com/sparkfunX/Qwiic Shield for ESP32
-- Description: https://github.com/sparkfunX/Qwiic Shield for ESP32
+- Name: Qwiic Shield for ESP32
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14203/STAN/01/
+- Description: Qwiic Shield for ESP32
 - Long Link: [http://oom.lt/PROJ-SPAR-14203-STAN-01](http://oom.lt/PROJ-SPAR-14203-STAN-01)
 - Short Link: [http://oom.lt/PRPR14203](http://oom.lt/PRPR14203)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14203-STAN-01|
 |Hex ID (short code)|hexID|PRPR14203|
-|name|name|https://github.com/sparkfunX/Qwiic Shield for ESP32|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Shield_for_ESP32|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Shield_for_ESP32|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.sch|
+|name|name|Qwiic Shield for ESP32|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Shield_for_ESP32|
+|gitName|gitName|Qwiic_Shield_for_ESP32|
+|eagleBoard|eagleBoard|/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd|
+|eagleSchem|eagleSchem|/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

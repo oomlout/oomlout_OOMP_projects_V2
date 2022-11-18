@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17979 > https://github.com/sparkfunX/Qwiic Sound Trigger](#prpr17979--httpsgithubcomsparkfunxqwiic-sound-trigger)
+* [PRPR17979 > Qwiic Sound Trigger](#prpr17979--qwiic-sound-trigger)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17979 > https://github.com/sparkfunX/Qwiic Sound Trigger
+# PRPR17979 > Qwiic Sound Trigger
 
 - ID: PROJ-SPAR-17979-STAN-01
 - Hex ID: PRPR17979
-- Name: https://github.com/sparkfunX/Qwiic Sound Trigger
-- Description: https://github.com/sparkfunX/Qwiic Sound Trigger
+- Name: Qwiic Sound Trigger
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17979/STAN/01/
+- Description: Qwiic Sound Trigger
 - Long Link: [http://oom.lt/PROJ-SPAR-17979-STAN-01](http://oom.lt/PROJ-SPAR-17979-STAN-01)
 - Short Link: [http://oom.lt/PRPR17979](http://oom.lt/PRPR17979)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17979-STAN-01|
 |Hex ID (short code)|hexID|PRPR17979|
-|name|name|https://github.com/sparkfunX/Qwiic Sound Trigger|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Sound_Trigger|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Sound_Trigger|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.sch|
+|name|name|Qwiic Sound Trigger|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Sound_Trigger|
+|gitName|gitName|Qwiic_Sound_Trigger|
+|eagleBoard|eagleBoard|/Hardware/Qwiic Sound Trigger.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic Sound Trigger.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

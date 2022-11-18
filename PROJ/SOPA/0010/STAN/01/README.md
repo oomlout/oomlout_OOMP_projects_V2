@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-SOPA-0010-STAN-01
 - Hex ID: PRPR0010
 - Name: Rp2040 stamp round
+- Path: oomlout_OOMP_projects_V2/PROJ/SOPA/0010/STAN/01/
 - Description: Rp2040 stamp round
 - Long Link: [http://oom.lt/PROJ-SOPA-0010-STAN-01](http://oom.lt/PROJ-SOPA-0010-STAN-01)
 - Short Link: [http://oom.lt/PRPR0010](http://oom.lt/PRPR0010)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

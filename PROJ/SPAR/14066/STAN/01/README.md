@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14066-STAN-01
 - Hex ID: PRPR14066
 - Name: Simultaneous RFID Tag Reader
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14066/STAN/01/
 - Description: Simultaneous RFID Tag Reader
 - Long Link: [http://oom.lt/PROJ-SPAR-14066-STAN-01](http://oom.lt/PROJ-SPAR-14066-STAN-01)
 - Short Link: [http://oom.lt/PRPR14066](http://oom.lt/PRPR14066)

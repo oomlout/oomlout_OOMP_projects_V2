@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11013-STAN-01
 - Hex ID: PRPR11013
 - Name: LilyPad MP3 Player
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/
 - Description: LilyPad MP3 Player
 - Long Link: [http://oom.lt/PROJ-SPAR-11013-STAN-01](http://oom.lt/PROJ-SPAR-11013-STAN-01)
 - Short Link: [http://oom.lt/PRPR11013](http://oom.lt/PRPR11013)

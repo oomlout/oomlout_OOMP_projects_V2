@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4832-STAN-01
 - Hex ID: PRPR4832
 - Name: Adafruit HTU31 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4832/STAN/01/
 - Description: Adafruit HTU31 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4832-STAN-01](http://oom.lt/PROJ-ADAF-4832-STAN-01)
 - Short Link: [http://oom.lt/PRPR4832](http://oom.lt/PRPR4832)

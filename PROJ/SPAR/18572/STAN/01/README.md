@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18572 > https://github.com/sparkfunX/LoRa 1W Breakout](#prpr18572--httpsgithubcomsparkfunxlora-1w-breakout)
+* [PRPR18572 > LoRa 1W Breakout](#prpr18572--lora-1w-breakout)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18572 > https://github.com/sparkfunX/LoRa 1W Breakout
+# PRPR18572 > LoRa 1W Breakout
 
 - ID: PROJ-SPAR-18572-STAN-01
 - Hex ID: PRPR18572
-- Name: https://github.com/sparkfunX/LoRa 1W Breakout
-- Description: https://github.com/sparkfunX/LoRa 1W Breakout
+- Name: LoRa 1W Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18572/STAN/01/
+- Description: LoRa 1W Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-18572-STAN-01](http://oom.lt/PROJ-SPAR-18572-STAN-01)
 - Short Link: [http://oom.lt/PRPR18572](http://oom.lt/PRPR18572)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18572-STAN-01|
 |Hex ID (short code)|hexID|PRPR18572|
-|name|name|https://github.com/sparkfunX/LoRa 1W Breakout|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/LoRa_1W_Breakout|
-|gitName|gitName|https://github.com/sparkfunX/LoRa_1W_Breakout|
-|eagleBoard|eagleBoard|sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.sch|
+|name|name|LoRa 1W Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/LoRa_1W_Breakout|
+|gitName|gitName|LoRa_1W_Breakout|
+|eagleBoard|eagleBoard|/Hardware/LoRa_1W_Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/LoRa_1W_Breakout.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

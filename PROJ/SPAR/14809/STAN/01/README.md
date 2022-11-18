@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14809-STAN-01
 - Hex ID: PRPR14809
 - Name: I2S Audio Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14809/STAN/01/
 - Description: I2S Audio Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-14809-STAN-01](http://oom.lt/PROJ-SPAR-14809-STAN-01)
 - Short Link: [http://oom.lt/PRPR14809](http://oom.lt/PRPR14809)

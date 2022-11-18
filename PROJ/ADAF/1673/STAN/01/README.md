@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1673-STAN-01
 - Hex ID: PRPR1673
 - Name: Adafruit 1.27inch Color OLED Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1673/STAN/01/
 - Description: Adafruit 1.27inch Color OLED Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1673-STAN-01](http://oom.lt/PROJ-ADAF-1673-STAN-01)
 - Short Link: [http://oom.lt/PRPR1673](http://oom.lt/PRPR1673)

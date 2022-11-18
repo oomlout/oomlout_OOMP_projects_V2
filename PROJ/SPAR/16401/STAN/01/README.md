@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16401-STAN-01
 - Hex ID: PRPR16401
 - Name: MicroMod Artemis Processor
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16401/STAN/01/
 - Description: MicroMod Artemis Processor
 - Long Link: [http://oom.lt/PROJ-SPAR-16401-STAN-01](http://oom.lt/PROJ-SPAR-16401-STAN-01)
 - Short Link: [http://oom.lt/PRPR16401](http://oom.lt/PRPR16401)

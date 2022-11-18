@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13303-STAN-01
 - Hex ID: PRPR13303
 - Name: LSM303C 6 DOF IMU Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13303/STAN/01/
 - Description: LSM303C 6 DOF IMU Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-13303-STAN-01](http://oom.lt/PROJ-SPAR-13303-STAN-01)
 - Short Link: [http://oom.lt/PRPR13303](http://oom.lt/PRPR13303)

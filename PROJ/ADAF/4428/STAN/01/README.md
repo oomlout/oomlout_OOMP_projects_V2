@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4428-STAN-01
 - Hex ID: PRPR4428
 - Name: Adafruit Circuit Playground Tri Color E Ink Gizmo PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4428/STAN/01/
 - Description: Adafruit Circuit Playground Tri Color E Ink Gizmo PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4428-STAN-01](http://oom.lt/PROJ-ADAF-4428-STAN-01)
 - Short Link: [http://oom.lt/PRPR4428](http://oom.lt/PRPR4428)

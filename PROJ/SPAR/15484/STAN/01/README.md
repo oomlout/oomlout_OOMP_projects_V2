@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR15484 > https://github.com/sparkfunX/Artemis Global Tracker](#prpr15484--httpsgithubcomsparkfunxartemis-global-tracker)
+* [PRPR15484 > Artemis Global Tracker](#prpr15484--artemis-global-tracker)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR15484 > https://github.com/sparkfunX/Artemis Global Tracker
+# PRPR15484 > Artemis Global Tracker
 
 - ID: PROJ-SPAR-15484-STAN-01
 - Hex ID: PRPR15484
-- Name: https://github.com/sparkfunX/Artemis Global Tracker
-- Description: https://github.com/sparkfunX/Artemis Global Tracker
+- Name: Artemis Global Tracker
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15484/STAN/01/
+- Description: Artemis Global Tracker
 - Long Link: [http://oom.lt/PROJ-SPAR-15484-STAN-01](http://oom.lt/PROJ-SPAR-15484-STAN-01)
 - Short Link: [http://oom.lt/PRPR15484](http://oom.lt/PRPR15484)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15484-STAN-01|
 |Hex ID (short code)|hexID|PRPR15484|
-|name|name|https://github.com/sparkfunX/Artemis Global Tracker|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Artemis_Global_Tracker|
-|gitName|gitName|https://github.com/sparkfunX/Artemis_Global_Tracker|
-|eagleBoard|eagleBoard|sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.sch|
+|name|name|Artemis Global Tracker|
+|gitRepo|gitRepo|https://github.com/sparkfun/Artemis_Global_Tracker|
+|gitName|gitName|Artemis_Global_Tracker|
+|eagleBoard|eagleBoard|/Hardware/Artemis_Global_Tracker.brd|
+|eagleSchem|eagleSchem|/Hardware/Artemis_Global_Tracker.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

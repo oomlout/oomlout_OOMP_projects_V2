@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16984-STAN-01
 - Hex ID: PRPR16984
 - Name: MicroMod Processor Board nRF52840
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16984/STAN/01/
 - Description: MicroMod Processor Board nRF52840
 - Long Link: [http://oom.lt/PROJ-SPAR-16984-STAN-01](http://oom.lt/PROJ-SPAR-16984-STAN-01)
 - Short Link: [http://oom.lt/PRPR16984](http://oom.lt/PRPR16984)

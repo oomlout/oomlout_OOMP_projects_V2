@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5397-STAN-01
 - Hex ID: PRPR5397
 - Name: Adafruit Charger BFF PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5397/STAN/01/
 - Description: Adafruit Charger BFF PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5397-STAN-01](http://oom.lt/PROJ-ADAF-5397-STAN-01)
 - Short Link: [http://oom.lt/PRPR5397](http://oom.lt/PRPR5397)

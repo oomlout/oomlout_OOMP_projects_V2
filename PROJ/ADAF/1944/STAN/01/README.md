@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1944-STAN-01
 - Hex ID: PRPR1944
 - Name: Adafruit PowerBoost 500 Charger PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1944/STAN/01/
 - Description: Adafruit PowerBoost 500 Charger PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1944-STAN-01](http://oom.lt/PROJ-ADAF-1944-STAN-01)
 - Short Link: [http://oom.lt/PRPR1944](http://oom.lt/PRPR1944)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX smol Power Board LiPo')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.sch')
+    newPart['name'].append('SparkX smol Power Board LiPo')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX_smol_Power_Board_LiPo')
+    newPart['gitName'].append('SparkX_smol_Power_Board_LiPo')
+    newPart['eagleBoard'].append('/Hardware/SparkX_smol_LiPo_Power.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkX_smol_LiPo_Power.sch')
 
 
     ######  Common

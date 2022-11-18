@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1958-STAN-01
 - Hex ID: PRPR1958
 - Name: Adafruit Si4713 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1958/STAN/01/
 - Description: Adafruit Si4713 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1958-STAN-01](http://oom.lt/PROJ-ADAF-1958-STAN-01)
 - Short Link: [http://oom.lt/PRPR1958](http://oom.lt/PRPR1958)

@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0014-STAN-01
 - Hex ID: PRPR0014
 - Name: Adafruit MintyBoost PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0014/STAN/01/
 - Description: Adafruit MintyBoost PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0014-STAN-01](http://oom.lt/PROJ-ADAF-0014-STAN-01)
 - Short Link: [http://oom.lt/PRPR0014](http://oom.lt/PRPR0014)

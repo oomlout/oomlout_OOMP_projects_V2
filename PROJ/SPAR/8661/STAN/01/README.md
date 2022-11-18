@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8661-STAN-01
 - Hex ID: PRPR8661
 - Name: Polar Heart Rate Monitor Interface
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8661/STAN/01/
 - Description: Polar Heart Rate Monitor Interface
 - Long Link: [http://oom.lt/PROJ-SPAR-8661-STAN-01](http://oom.lt/PROJ-SPAR-8661-STAN-01)
 - Short Link: [http://oom.lt/PRPR8661](http://oom.lt/PRPR8661)

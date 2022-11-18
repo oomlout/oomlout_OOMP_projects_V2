@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/RGB Panel Mega Shield')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/RGB_Panel_Mega_Shield')
-    newPart['gitName'].append('https://github.com/sparkfunX/RGB_Panel_Mega_Shield')
-    newPart['eagleBoard'].append('sourceFiles/git/RGB_Panel_Mega_Shield/Hardware/RGB 32x64 Shield for Arduino Mega.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/RGB_Panel_Mega_Shield/Hardware/RGB 32x64 Shield for Arduino Mega.sch')
+    newPart['name'].append('RGB Panel Mega Shield')
+    newPart['gitRepo'].append('https://github.com/sparkfun/RGB_Panel_Mega_Shield')
+    newPart['gitName'].append('RGB_Panel_Mega_Shield')
+    newPart['eagleBoard'].append('/Hardware/RGB 32x64 Shield for Arduino Mega.brd')
+    newPart['eagleSchem'].append('/Hardware/RGB 32x64 Shield for Arduino Mega.sch')
 
 
     ######  Common

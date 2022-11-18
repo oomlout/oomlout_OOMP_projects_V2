@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9946-STAN-01
 - Hex ID: PRPR9946
 - Name: Energy Harvester Breakout LTC3588
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9946/STAN/01/
 - Description: Energy Harvester Breakout LTC3588
 - Long Link: [http://oom.lt/PROJ-SPAR-9946-STAN-01](http://oom.lt/PROJ-SPAR-9946-STAN-01)
 - Short Link: [http://oom.lt/PRPR9946](http://oom.lt/PRPR9946)

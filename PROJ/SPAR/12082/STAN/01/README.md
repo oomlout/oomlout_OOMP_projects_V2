@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12082-STAN-01
 - Hex ID: PRPR12082
 - Name: AD5330 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12082/STAN/01/
 - Description: AD5330 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-12082-STAN-01](http://oom.lt/PROJ-SPAR-12082-STAN-01)
 - Short Link: [http://oom.lt/PRPR12082](http://oom.lt/PRPR12082)

@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-ADAF-0723-STAN-01
 - Hex ID: PRPR0723
 - Name: Adafruit Perma Proto PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0723/STAN/01/
 - Description: Adafruit Perma Proto PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0723-STAN-01](http://oom.lt/PROJ-ADAF-0723-STAN-01)
 - Short Link: [http://oom.lt/PRPR0723](http://oom.lt/PRPR0723)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

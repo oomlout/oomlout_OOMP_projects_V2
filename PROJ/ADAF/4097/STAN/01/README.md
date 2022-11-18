@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4097-STAN-01
 - Hex ID: PRPR4097
 - Name: Adafruit ADXL343 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4097/STAN/01/
 - Description: Adafruit ADXL343 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4097-STAN-01](http://oom.lt/PROJ-ADAF-4097-STAN-01)
 - Short Link: [http://oom.lt/PRPR4097](http://oom.lt/PRPR4097)

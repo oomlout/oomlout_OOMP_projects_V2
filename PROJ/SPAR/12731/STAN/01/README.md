@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12731-STAN-01
 - Hex ID: PRPR12731
 - Name: FT232RL USB Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12731/STAN/01/
 - Description: FT232RL USB Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-12731-STAN-01](http://oom.lt/PROJ-SPAR-12731-STAN-01)
 - Short Link: [http://oom.lt/PRPR12731](http://oom.lt/PRPR12731)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15047-STAN-01
 - Hex ID: PRPR15047
 - Name: Lumini 8x8
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15047/STAN/01/
 - Description: Lumini 8x8
 - Long Link: [http://oom.lt/PROJ-SPAR-15047-STAN-01](http://oom.lt/PROJ-SPAR-15047-STAN-01)
 - Short Link: [http://oom.lt/PRPR15047](http://oom.lt/PRPR15047)

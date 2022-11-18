@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/ESP32 LoRa 1CH Gateway')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway')
-    newPart['gitName'].append('https://github.com/sparkfunX/ESP32_LoRa_1CH_Gateway')
-    newPart['eagleBoard'].append('sourceFiles/git/ESP32_LoRa_1CH_Gateway/Hardware/ESP32_LoRa_1_Channel_Gateway.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/ESP32_LoRa_1CH_Gateway/Hardware/ESP32_LoRa_1_Channel_Gateway.sch')
+    newPart['name'].append('ESP32 LoRa 1CH Gateway')
+    newPart['gitRepo'].append('https://github.com/sparkfun/ESP32_LoRa_1CH_Gateway')
+    newPart['gitName'].append('ESP32_LoRa_1CH_Gateway')
+    newPart['eagleBoard'].append('/Hardware/ESP32_LoRa_1_Channel_Gateway.brd')
+    newPart['eagleSchem'].append('/Hardware/ESP32_LoRa_1_Channel_Gateway.sch')
 
 
     ######  Common

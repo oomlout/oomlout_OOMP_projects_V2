@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1231-STAN-0A
 - Hex ID: PRPR1231
 - Name: ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev A
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1231/STAN/0A/
 - Description: ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev A
 - Long Link: [http://oom.lt/PROJ-ADAF-1231-STAN-0A](http://oom.lt/PROJ-ADAF-1231-STAN-0A)
 - Short Link: [http://oom.lt/PRPR1231](http://oom.lt/PRPR1231)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15734-STAN-01
 - Hex ID: PRPR15734
 - Name: SparkFun Clock Generator 5P49V60
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15734/STAN/01/
 - Description: SparkFun Clock Generator 5P49V60
 - Long Link: [http://oom.lt/PROJ-SPAR-15734-STAN-01](http://oom.lt/PROJ-SPAR-15734-STAN-01)
 - Short Link: [http://oom.lt/PRPR15734](http://oom.lt/PRPR15734)

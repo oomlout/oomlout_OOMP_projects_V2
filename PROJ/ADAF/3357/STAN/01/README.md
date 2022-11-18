@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3357-STAN-01
 - Hex ID: PRPR3357
 - Name: Adafruit Music Maker FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/
 - Description: Adafruit Music Maker FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3357-STAN-01](http://oom.lt/PROJ-ADAF-3357-STAN-01)
 - Short Link: [http://oom.lt/PRPR3357](http://oom.lt/PRPR3357)

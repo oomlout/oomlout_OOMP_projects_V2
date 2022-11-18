@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0497-STAN-01
 - Hex ID: PRPR0497
 - Name: SSOP DIP Adapter 8 Pin
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0497/STAN/01/
 - Description: SSOP DIP Adapter 8 Pin
 - Long Link: [http://oom.lt/PROJ-SPAR-0497-STAN-01](http://oom.lt/PROJ-SPAR-0497-STAN-01)
 - Short Link: [http://oom.lt/PRPR0497](http://oom.lt/PRPR0497)

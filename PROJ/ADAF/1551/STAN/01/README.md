@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1551-STAN-01
 - Hex ID: PRPR1551
 - Name: Adafruit DS2413 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1551/STAN/01/
 - Description: Adafruit DS2413 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1551-STAN-01](http://oom.lt/PROJ-ADAF-1551-STAN-01)
 - Short Link: [http://oom.lt/PRPR1551](http://oom.lt/PRPR1551)

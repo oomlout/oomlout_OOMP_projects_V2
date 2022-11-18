@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-DANP-0001-STAN-1B
 - Hex ID: PRPR0001
 - Name: Bus Pirate Ultra 1B
+- Path: oomlout_OOMP_projects_V2/PROJ/DANP/0001/STAN/1B/
 - Description: Bus Pirate Ultra 1B
 - Long Link: [http://oom.lt/PROJ-DANP-0001-STAN-1B](http://oom.lt/PROJ-DANP-0001-STAN-1B)
 - Short Link: [http://oom.lt/PRPR0001](http://oom.lt/PRPR0001)

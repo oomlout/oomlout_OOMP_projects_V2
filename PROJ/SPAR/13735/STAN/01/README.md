@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13735-STAN-01
 - Hex ID: PRPR13735
 - Name: LilyPad Tri Color LED
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13735/STAN/01/
 - Description: LilyPad Tri Color LED
 - Long Link: [http://oom.lt/PROJ-SPAR-13735-STAN-01](http://oom.lt/PROJ-SPAR-13735-STAN-01)
 - Short Link: [http://oom.lt/PRPR13735](http://oom.lt/PRPR13735)

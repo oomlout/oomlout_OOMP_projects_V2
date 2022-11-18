@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2633-STAN-01
 - Hex ID: PRPR2633
 - Name: Adafruit Bluefruit LE SPI Friend PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2633/STAN/01/
 - Description: Adafruit Bluefruit LE SPI Friend PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2633-STAN-01](http://oom.lt/PROJ-ADAF-2633-STAN-01)
 - Short Link: [http://oom.lt/PRPR2633](http://oom.lt/PRPR2633)

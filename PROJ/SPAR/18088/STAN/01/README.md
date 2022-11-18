@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18088-STAN-01
 - Hex ID: PRPR18088
 - Name: 2D Barcode Scanner Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18088/STAN/01/
 - Description: 2D Barcode Scanner Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-18088-STAN-01](http://oom.lt/PROJ-SPAR-18088-STAN-01)
 - Short Link: [http://oom.lt/PRPR18088](http://oom.lt/PRPR18088)

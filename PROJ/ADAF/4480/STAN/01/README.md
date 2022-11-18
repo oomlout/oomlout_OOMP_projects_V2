@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4480-STAN-01
 - Hex ID: PRPR4480
 - Name: Adafruit LSM6DS33 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4480/STAN/01/
 - Description: Adafruit LSM6DS33 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4480-STAN-01](http://oom.lt/PROJ-ADAF-4480-STAN-01)
 - Short Link: [http://oom.lt/PRPR4480](http://oom.lt/PRPR4480)

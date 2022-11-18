@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2616-STAN-01
 - Hex ID: PRPR2616
 - Name: Adafruit PiTFT Plus 3.2 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2616/STAN/01/
 - Description: Adafruit PiTFT Plus 3.2 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2616-STAN-01](http://oom.lt/PROJ-ADAF-2616-STAN-01)
 - Short Link: [http://oom.lt/PRPR2616](http://oom.lt/PRPR2616)

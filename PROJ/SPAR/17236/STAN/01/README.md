@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17236 > https://github.com/sparkfunX/ARGOS ARTIC R2 Shield](#prpr17236--httpsgithubcomsparkfunxargos-artic-r2-shield)
+* [PRPR17236 > ARGOS ARTIC R2 Shield](#prpr17236--argos-artic-r2-shield)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17236 > https://github.com/sparkfunX/ARGOS ARTIC R2 Shield
+# PRPR17236 > ARGOS ARTIC R2 Shield
 
 - ID: PROJ-SPAR-17236-STAN-01
 - Hex ID: PRPR17236
-- Name: https://github.com/sparkfunX/ARGOS ARTIC R2 Shield
-- Description: https://github.com/sparkfunX/ARGOS ARTIC R2 Shield
+- Name: ARGOS ARTIC R2 Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17236/STAN/01/
+- Description: ARGOS ARTIC R2 Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-17236-STAN-01](http://oom.lt/PROJ-SPAR-17236-STAN-01)
 - Short Link: [http://oom.lt/PRPR17236](http://oom.lt/PRPR17236)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17236-STAN-01|
 |Hex ID (short code)|hexID|PRPR17236|
-|name|name|https://github.com/sparkfunX/ARGOS ARTIC R2 Shield|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield|
-|gitName|gitName|https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield|
-|eagleBoard|eagleBoard|sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.sch|
+|name|name|ARGOS ARTIC R2 Shield|
+|gitRepo|gitRepo|https://github.com/sparkfun/ARGOS-ARTIC-R2-Shield|
+|gitName|gitName|ARGOS-ARTIC-R2-Shield|
+|eagleBoard|eagleBoard|/Hardware/ARTIC_R2.brd|
+|eagleSchem|eagleSchem|/Hardware/ARTIC_R2.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

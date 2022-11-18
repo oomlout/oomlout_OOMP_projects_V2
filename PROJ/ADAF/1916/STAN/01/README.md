@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1916-STAN-01
 - Hex ID: PRPR1916
 - Name: Adafruit Cupcade Adapter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1916/STAN/01/
 - Description: Adafruit Cupcade Adapter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1916-STAN-01](http://oom.lt/PROJ-ADAF-1916-STAN-01)
 - Short Link: [http://oom.lt/PRPR1916](http://oom.lt/PRPR1916)

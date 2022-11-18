@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0759-STAN-01
 - Hex ID: PRPR0759
 - Name: LED Matrix Serial Interface RedGreen
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0759/STAN/01/
 - Description: LED Matrix Serial Interface RedGreen
 - Long Link: [http://oom.lt/PROJ-SPAR-0759-STAN-01](http://oom.lt/PROJ-SPAR-0759-STAN-01)
 - Short Link: [http://oom.lt/PRPR0759](http://oom.lt/PRPR0759)

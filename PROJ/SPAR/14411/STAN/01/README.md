@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14411-STAN-01
 - Hex ID: PRPR14411
 - Name: LiPo Charger Booster 5V 1A
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14411/STAN/01/
 - Description: LiPo Charger Booster 5V 1A
 - Long Link: [http://oom.lt/PROJ-SPAR-14411-STAN-01](http://oom.lt/PROJ-SPAR-14411-STAN-01)
 - Short Link: [http://oom.lt/PRPR14411](http://oom.lt/PRPR14411)

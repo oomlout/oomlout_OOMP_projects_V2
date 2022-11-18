@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0258-STAN-01
 - Hex ID: PRPR0258
 - Name: Serial Enabled LCD Backpack
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/
 - Description: Serial Enabled LCD Backpack
 - Long Link: [http://oom.lt/PROJ-SPAR-0258-STAN-01](http://oom.lt/PROJ-SPAR-0258-STAN-01)
 - Short Link: [http://oom.lt/PRPR0258](http://oom.lt/PRPR0258)

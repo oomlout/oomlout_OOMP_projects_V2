@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11771-STAN-01
 - Hex ID: PRPR11771
 - Name: TXB0104 breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11771/STAN/01/
 - Description: TXB0104 breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11771-STAN-01](http://oom.lt/PROJ-SPAR-11771-STAN-01)
 - Short Link: [http://oom.lt/PRPR11771](http://oom.lt/PRPR11771)

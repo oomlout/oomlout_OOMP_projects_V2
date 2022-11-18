@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14631-STAN-01
 - Hex ID: PRPR14631
 - Name: LilyPad USB Plus Standalone
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/
 - Description: LilyPad USB Plus Standalone
 - Long Link: [http://oom.lt/PROJ-SPAR-14631-STAN-01](http://oom.lt/PROJ-SPAR-14631-STAN-01)
 - Short Link: [http://oom.lt/PRPR14631](http://oom.lt/PRPR14631)

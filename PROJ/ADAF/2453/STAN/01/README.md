@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2453-STAN-01
 - Hex ID: PRPR2453
 - Name: Adafruit DPI Kippah PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2453/STAN/01/
 - Description: Adafruit DPI Kippah PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2453-STAN-01](http://oom.lt/PROJ-ADAF-2453-STAN-01)
 - Short Link: [http://oom.lt/PRPR2453](http://oom.lt/PRPR2453)

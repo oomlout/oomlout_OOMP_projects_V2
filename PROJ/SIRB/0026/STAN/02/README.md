@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0026-STAN-02
 - Hex ID: PRPR0026
 - Name: SirNanoV2 SirNano
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0026/STAN/02/
 - Description: SirNanoV2 SirNano
 - Long Link: [http://oom.lt/PROJ-SIRB-0026-STAN-02](http://oom.lt/PROJ-SIRB-0026-STAN-02)
 - Short Link: [http://oom.lt/PRPR0026](http://oom.lt/PRPR0026)

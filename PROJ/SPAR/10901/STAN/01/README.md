@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10901-STAN-01
 - Hex ID: PRPR10901
 - Name: Infrared Proximity Breakout VCNL4000
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10901/STAN/01/
 - Description: Infrared Proximity Breakout VCNL4000
 - Long Link: [http://oom.lt/PROJ-SPAR-10901-STAN-01](http://oom.lt/PROJ-SPAR-10901-STAN-01)
 - Short Link: [http://oom.lt/PRPR10901](http://oom.lt/PRPR10901)

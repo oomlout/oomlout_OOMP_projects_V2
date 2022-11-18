@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18719-STAN-01
 - Hex ID: PRPR18719
 - Name: SparkFun GNSS Dead Reckoning ZED F9K
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18719/STAN/01/
 - Description: SparkFun GNSS Dead Reckoning ZED F9K
 - Long Link: [http://oom.lt/PROJ-SPAR-18719-STAN-01](http://oom.lt/PROJ-SPAR-18719-STAN-01)
 - Short Link: [http://oom.lt/PRPR18719](http://oom.lt/PRPR18719)

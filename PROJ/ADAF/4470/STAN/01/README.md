@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4470-STAN-01
 - Hex ID: PRPR4470
 - Name: Adafruit MCP4728 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4470/STAN/01/
 - Description: Adafruit MCP4728 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4470-STAN-01](http://oom.lt/PROJ-ADAF-4470-STAN-01)
 - Short Link: [http://oom.lt/PRPR4470](http://oom.lt/PRPR4470)

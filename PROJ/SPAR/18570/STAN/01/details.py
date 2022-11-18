@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic PC Fan Controller')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_PC_Fan_Controller')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_PC_Fan_Controller')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_PC_Fan_Controller/Hardware/Qwiic_4_Pin_Fan_Controller.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_PC_Fan_Controller/Hardware/Qwiic_4_Pin_Fan_Controller.sch')
+    newPart['name'].append('Qwiic PC Fan Controller')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_PC_Fan_Controller')
+    newPart['gitName'].append('Qwiic_PC_Fan_Controller')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_4_Pin_Fan_Controller.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_4_Pin_Fan_Controller.sch')
 
 
     ######  Common

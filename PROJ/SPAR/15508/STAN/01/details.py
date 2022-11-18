@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic MCP9600 Thermocouple')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_MCP9600_Thermocouple')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_MCP9600_Thermocouple')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_MCP9600_Thermocouple/Hardware/Qwiic_MCP9600.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_MCP9600_Thermocouple/Hardware/Qwiic_MCP9600.sch')
+    newPart['name'].append('Qwiic MCP9600 Thermocouple')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_MCP9600_Thermocouple')
+    newPart['gitName'].append('Qwiic_MCP9600_Thermocouple')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_MCP9600.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_MCP9600.sch')
 
 
     ######  Common

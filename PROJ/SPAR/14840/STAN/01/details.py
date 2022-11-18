@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Bluetooth HC1x')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Bluetooth_HC1x')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Bluetooth_HC1x/Hardware/Qwiic-Bluetooth-HC1X.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Bluetooth_HC1x/Hardware/Qwiic-Bluetooth-HC1X.sch')
+    newPart['name'].append('Qwiic Bluetooth HC1x')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Bluetooth_HC1x')
+    newPart['gitName'].append('Qwiic_Bluetooth_HC1x')
+    newPart['eagleBoard'].append('/Hardware/Qwiic-Bluetooth-HC1X.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic-Bluetooth-HC1X.sch')
 
 
     ######  Common

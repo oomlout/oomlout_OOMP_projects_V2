@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-20170-STAN-01
 - Hex ID: PRPR20170
 - Name: SparkFun Qwiic Pressure Sensor BMP581
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/20170/STAN/01/
 - Description: SparkFun Qwiic Pressure Sensor BMP581
 - Long Link: [http://oom.lt/PROJ-SPAR-20170-STAN-01](http://oom.lt/PROJ-SPAR-20170-STAN-01)
 - Short Link: [http://oom.lt/PRPR20170](http://oom.lt/PRPR20170)

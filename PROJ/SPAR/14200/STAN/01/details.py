@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Robotic Finger Sensor')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Robotic_Finger_Sensor')
-    newPart['gitName'].append('https://github.com/sparkfunX/Robotic_Finger_Sensor')
-    newPart['eagleBoard'].append('sourceFiles/git/Robotic_Finger_Sensor/Hardware/Layout/Robotic_Finger_Sensor.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Robotic_Finger_Sensor/Hardware/Layout/Robotic_Finger_Sensor.sch')
+    newPart['name'].append('Robotic Finger Sensor')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Robotic_Finger_Sensor')
+    newPart['gitName'].append('Robotic_Finger_Sensor')
+    newPart['eagleBoard'].append('/Hardware/Layout/Robotic_Finger_Sensor.brd')
+    newPart['eagleSchem'].append('/Hardware/Layout/Robotic_Finger_Sensor.sch')
 
 
     ######  Common

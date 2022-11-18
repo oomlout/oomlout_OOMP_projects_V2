@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/RedBoard Edge')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/RedBoard_Edge')
-    newPart['gitName'].append('https://github.com/sparkfunX/RedBoard_Edge')
-    newPart['eagleBoard'].append('sourceFiles/git/RedBoard_Edge/Hardware/modified_eagle_files/RedBoard.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/RedBoard_Edge/Hardware/modified_eagle_files/RedBoard.sch')
+    newPart['name'].append('RedBoard Edge')
+    newPart['gitRepo'].append('https://github.com/sparkfun/RedBoard_Edge')
+    newPart['gitName'].append('RedBoard_Edge')
+    newPart['eagleBoard'].append('/Hardware/modified_eagle_files/RedBoard.brd')
+    newPart['eagleSchem'].append('/Hardware/modified_eagle_files/RedBoard.sch')
 
 
     ######  Common

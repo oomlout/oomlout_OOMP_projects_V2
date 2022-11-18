@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4090-STAN-01
 - Hex ID: PRPR4090
 - Name: Adafruit USB C Downstream Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4090/STAN/01/
 - Description: Adafruit USB C Downstream Breakout
 - Long Link: [http://oom.lt/PROJ-ADAF-4090-STAN-01](http://oom.lt/PROJ-ADAF-4090-STAN-01)
 - Short Link: [http://oom.lt/PRPR4090](http://oom.lt/PRPR4090)

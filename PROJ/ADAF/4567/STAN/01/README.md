@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4567-STAN-01
 - Hex ID: PRPR4567
 - Name: Adafruit 2.23 inch Monochrome OLED Bonnet PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4567/STAN/01/
 - Description: Adafruit 2.23 inch Monochrome OLED Bonnet PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4567-STAN-01](http://oom.lt/PROJ-ADAF-4567-STAN-01)
 - Short Link: [http://oom.lt/PRPR4567](http://oom.lt/PRPR4567)

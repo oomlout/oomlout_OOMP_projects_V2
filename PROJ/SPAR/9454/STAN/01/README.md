@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9454-STAN-01
 - Hex ID: PRPR9454
 - Name: QRE1113 Line Sensor Breakout Digital
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9454/STAN/01/
 - Description: QRE1113 Line Sensor Breakout Digital
 - Long Link: [http://oom.lt/PROJ-SPAR-9454-STAN-01](http://oom.lt/PROJ-SPAR-9454-STAN-01)
 - Short Link: [http://oom.lt/PRPR9454](http://oom.lt/PRPR9454)

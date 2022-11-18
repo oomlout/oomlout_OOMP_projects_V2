@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic CO2 Sensor STC31')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_CO2_Sensor-STC31')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_CO2_Sensor-STC31')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_CO2_Sensor-STC31/Hardware/STC31 Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_CO2_Sensor-STC31/Hardware/STC31 Breakout.sch')
+    newPart['name'].append('Qwiic CO2 Sensor STC31')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_CO2_Sensor-STC31')
+    newPart['gitName'].append('Qwiic_CO2_Sensor-STC31')
+    newPart['eagleBoard'].append('/Hardware/STC31 Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/STC31 Breakout.sch')
 
 
     ######  Common

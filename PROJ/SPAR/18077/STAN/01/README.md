@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18077-STAN-01
 - Hex ID: PRPR18077
 - Name: SparkFun Cryptographic Co Processor Breakout ATECC608A Qwiic
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18077/STAN/01/
 - Description: SparkFun Cryptographic Co Processor Breakout ATECC608A Qwiic
 - Long Link: [http://oom.lt/PROJ-SPAR-18077-STAN-01](http://oom.lt/PROJ-SPAR-18077-STAN-01)
 - Short Link: [http://oom.lt/PRPR18077](http://oom.lt/PRPR18077)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16481-STAN-01
 - Hex ID: PRPR16481
 - Name: Qwiic GPS RTK2
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16481/STAN/01/
 - Description: Qwiic GPS RTK2
 - Long Link: [http://oom.lt/PROJ-SPAR-16481-STAN-01](http://oom.lt/PROJ-SPAR-16481-STAN-01)
 - Short Link: [http://oom.lt/PRPR16481](http://oom.lt/PRPR16481)

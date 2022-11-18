@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2821-STAN-01
 - Hex ID: PRPR2821
 - Name: Adafruit Feather ESP8266 HUZZAH PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2821/STAN/01/
 - Description: Adafruit Feather ESP8266 HUZZAH PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2821-STAN-01](http://oom.lt/PROJ-ADAF-2821-STAN-01)
 - Short Link: [http://oom.lt/PRPR2821](http://oom.lt/PRPR2821)

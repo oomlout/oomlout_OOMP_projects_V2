@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11260-STAN-01
 - Hex ID: PRPR11260
 - Name: LilyPad LiPower
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11260/STAN/01/
 - Description: LilyPad LiPower
 - Long Link: [http://oom.lt/PROJ-SPAR-11260-STAN-01](http://oom.lt/PROJ-SPAR-11260-STAN-01)
 - Short Link: [http://oom.lt/PRPR11260](http://oom.lt/PRPR11260)

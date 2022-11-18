@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4481-STAN-01
 - Hex ID: PRPR4481
 - Name: Adafruit ItsyBitsy nRF52840 Express PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4481/STAN/01/
 - Description: Adafruit ItsyBitsy nRF52840 Express PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4481-STAN-01](http://oom.lt/PROJ-ADAF-4481-STAN-01)
 - Short Link: [http://oom.lt/PRPR4481](http://oom.lt/PRPR4481)

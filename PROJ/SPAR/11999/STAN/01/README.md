@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11999-STAN-01
 - Hex ID: PRPR11999
 - Name: RedBot Whisker Bumper
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11999/STAN/01/
 - Description: RedBot Whisker Bumper
 - Long Link: [http://oom.lt/PROJ-SPAR-11999-STAN-01](http://oom.lt/PROJ-SPAR-11999-STAN-01)
 - Short Link: [http://oom.lt/PRPR11999](http://oom.lt/PRPR11999)

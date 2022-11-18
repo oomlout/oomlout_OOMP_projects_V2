@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13906-STAN-01
 - Hex ID: PRPR13906
 - Name: 74HC4051 8 Channel Mux Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13906/STAN/01/
 - Description: 74HC4051 8 Channel Mux Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-13906-STAN-01](http://oom.lt/PROJ-SPAR-13906-STAN-01)
 - Short Link: [http://oom.lt/PRPR13906](http://oom.lt/PRPR13906)

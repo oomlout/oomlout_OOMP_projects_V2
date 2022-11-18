@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-19895-STAN-01
 - Hex ID: PRPR19895
 - Name: SparkFun Qwiic 9DoF ISM330DHCX MMC5983MA
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/19895/STAN/01/
 - Description: SparkFun Qwiic 9DoF ISM330DHCX MMC5983MA
 - Long Link: [http://oom.lt/PROJ-SPAR-19895-STAN-01](http://oom.lt/PROJ-SPAR-19895-STAN-01)
 - Short Link: [http://oom.lt/PRPR19895](http://oom.lt/PRPR19895)

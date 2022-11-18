@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-19013-STAN-01
 - Hex ID: PRPR19013
 - Name: SparkFun Qwiic ToF Imager VL53L5CX Mini
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/19013/STAN/01/
 - Description: SparkFun Qwiic ToF Imager VL53L5CX Mini
 - Long Link: [http://oom.lt/PROJ-SPAR-19013-STAN-01](http://oom.lt/PROJ-SPAR-19013-STAN-01)
 - Short Link: [http://oom.lt/PRPR19013](http://oom.lt/PRPR19013)

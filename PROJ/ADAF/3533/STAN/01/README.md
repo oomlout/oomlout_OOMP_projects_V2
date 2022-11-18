@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3533-STAN-01
 - Hex ID: PRPR3533
 - Name: Adafruit 0.96 160x80 TFT Display Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3533/STAN/01/
 - Description: Adafruit 0.96 160x80 TFT Display Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3533-STAN-01](http://oom.lt/PROJ-ADAF-3533-STAN-01)
 - Short Link: [http://oom.lt/PRPR3533](http://oom.lt/PRPR3533)

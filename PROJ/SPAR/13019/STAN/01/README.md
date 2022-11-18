@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13019-STAN-01
 - Hex ID: PRPR13019
 - Name: BLE Mate2
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13019/STAN/01/
 - Description: BLE Mate2
 - Long Link: [http://oom.lt/PROJ-SPAR-13019-STAN-01](http://oom.lt/PROJ-SPAR-13019-STAN-01)
 - Short Link: [http://oom.lt/PRPR13019](http://oom.lt/PRPR13019)

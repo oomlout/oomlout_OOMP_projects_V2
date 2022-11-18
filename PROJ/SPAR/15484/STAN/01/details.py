@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Artemis Global Tracker')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Artemis_Global_Tracker')
-    newPart['gitName'].append('https://github.com/sparkfunX/Artemis_Global_Tracker')
-    newPart['eagleBoard'].append('sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Artemis_Global_Tracker/Hardware/Artemis_Global_Tracker.sch')
+    newPart['name'].append('Artemis Global Tracker')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Artemis_Global_Tracker')
+    newPart['gitName'].append('Artemis_Global_Tracker')
+    newPart['eagleBoard'].append('/Hardware/Artemis_Global_Tracker.brd')
+    newPart['eagleSchem'].append('/Hardware/Artemis_Global_Tracker.sch')
 
 
     ######  Common

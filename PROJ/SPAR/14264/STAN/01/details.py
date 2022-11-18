@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.sch')
+    newPart['name'].append('Qwiic UV Sensor ZOPT220x')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_UV_Sensor-ZOPT220x')
+    newPart['gitName'].append('Qwiic_UV_Sensor-ZOPT220x')
+    newPart['eagleBoard'].append('/Hardware/Qwiic UV Sensor - ZOPT220x.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic UV Sensor - ZOPT220x.sch')
 
 
     ######  Common

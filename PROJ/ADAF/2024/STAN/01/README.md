@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2024-STAN-01
 - Hex ID: PRPR2024
 - Name: Adafruit MPR121 Capacitive Touch Shield PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2024/STAN/01/
 - Description: Adafruit MPR121 Capacitive Touch Shield PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2024-STAN-01](http://oom.lt/PROJ-ADAF-2024-STAN-01)
 - Short Link: [http://oom.lt/PRPR2024](http://oom.lt/PRPR2024)

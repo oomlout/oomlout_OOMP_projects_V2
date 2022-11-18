@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3654-STAN-01
 - Hex ID: PRPR3654
 - Name: Adafruit WINC1500 Shield PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3654/STAN/01/
 - Description: Adafruit WINC1500 Shield PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3654-STAN-01](http://oom.lt/PROJ-ADAF-3654-STAN-01)
 - Short Link: [http://oom.lt/PRPR3654](http://oom.lt/PRPR3654)

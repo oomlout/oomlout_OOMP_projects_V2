@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-9565-STAN-01
 - Hex ID: PRPR9565
 - Name: Through Hole Christmas Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9565/STAN/01/
 - Description: Through Hole Christmas Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-9565-STAN-01](http://oom.lt/PROJ-SPAR-9565-STAN-01)
 - Short Link: [http://oom.lt/PRPR9565](http://oom.lt/PRPR9565)

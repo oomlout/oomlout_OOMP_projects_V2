@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0027-STAN-01
 - Hex ID: PRPR0027
 - Name: CH330N SirUSB
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0027/STAN/01/
 - Description: CH330N SirUSB
 - Long Link: [http://oom.lt/PROJ-SIRB-0027-STAN-01](http://oom.lt/PROJ-SIRB-0027-STAN-01)
 - Short Link: [http://oom.lt/PRPR0027](http://oom.lt/PRPR0027)

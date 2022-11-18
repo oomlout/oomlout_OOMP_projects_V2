@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3249-STAN-01
 - Hex ID: PRPR3249
 - Name: Adafruit NeoPXL8 PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3249/STAN/01/
 - Description: Adafruit NeoPXL8 PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-3249-STAN-01](http://oom.lt/PROJ-ADAF-3249-STAN-01)
 - Short Link: [http://oom.lt/PRPR3249](http://oom.lt/PRPR3249)

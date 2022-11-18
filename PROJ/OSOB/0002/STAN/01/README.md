@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-OSOB-0002-STAN-01
 - Hex ID: PRPR0002
 - Name: Lcd featherwing
+- Path: oomlout_OOMP_projects_V2/PROJ/OSOB/0002/STAN/01/
 - Description: Lcd featherwing
 - Long Link: [http://oom.lt/PROJ-OSOB-0002-STAN-01](http://oom.lt/PROJ-OSOB-0002-STAN-01)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

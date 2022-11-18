@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5425-STAN-01
 - Hex ID: PRPR5425
 - Name: Adafruit VL53L4CX PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5425/STAN/01/
 - Description: Adafruit VL53L4CX PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5425-STAN-01](http://oom.lt/PROJ-ADAF-5425-STAN-01)
 - Short Link: [http://oom.lt/PRPR5425](http://oom.lt/PRPR5425)

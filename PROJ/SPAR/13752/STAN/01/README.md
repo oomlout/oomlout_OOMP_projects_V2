@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13752-STAN-01
 - Hex ID: PRPR13752
 - Name: L6470 AutoDriver
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13752/STAN/01/
 - Description: L6470 AutoDriver
 - Long Link: [http://oom.lt/PROJ-SPAR-13752-STAN-01](http://oom.lt/PROJ-SPAR-13752-STAN-01)
 - Short Link: [http://oom.lt/PRPR13752](http://oom.lt/PRPR13752)

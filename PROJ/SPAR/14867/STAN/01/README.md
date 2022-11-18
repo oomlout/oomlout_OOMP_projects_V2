@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14867 > https://github.com/sparkfunX/QWIIC RFID ID XXLA](#prpr14867--httpsgithubcomsparkfunxqwiic-rfid-id-xxla)
+* [PRPR14867 > QWIIC RFID ID XXLA](#prpr14867--qwiic-rfid-id-xxla)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14867 > https://github.com/sparkfunX/QWIIC RFID ID XXLA
+# PRPR14867 > QWIIC RFID ID XXLA
 
 - ID: PROJ-SPAR-14867-STAN-01
 - Hex ID: PRPR14867
-- Name: https://github.com/sparkfunX/QWIIC RFID ID XXLA
-- Description: https://github.com/sparkfunX/QWIIC RFID ID XXLA
+- Name: QWIIC RFID ID XXLA
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14867/STAN/01/
+- Description: QWIIC RFID ID XXLA
 - Long Link: [http://oom.lt/PROJ-SPAR-14867-STAN-01](http://oom.lt/PROJ-SPAR-14867-STAN-01)
 - Short Link: [http://oom.lt/PRPR14867](http://oom.lt/PRPR14867)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14867-STAN-01|
 |Hex ID (short code)|hexID|PRPR14867|
-|name|name|https://github.com/sparkfunX/QWIIC RFID ID XXLA|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA|
-|gitName|gitName|https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA|
-|eagleBoard|eagleBoard|sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.sch|
+|name|name|QWIIC RFID ID XXLA|
+|gitRepo|gitRepo|https://github.com/sparkfun/QWIIC_RFID_ID-XXLA|
+|gitName|gitName|QWIIC_RFID_ID-XXLA|
+|eagleBoard|eagleBoard|/Hardware/Qwiic RFID - IDXXLA.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic RFID - IDXXLA.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

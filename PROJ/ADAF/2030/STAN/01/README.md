@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2030-STAN-01
 - Hex ID: PRPR2030
 - Name: Adafruit PowerBoost 1000 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2030/STAN/01/
 - Description: Adafruit PowerBoost 1000 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2030-STAN-01](http://oom.lt/PROJ-ADAF-2030-STAN-01)
 - Short Link: [http://oom.lt/PRPR2030](http://oom.lt/PRPR2030)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2455-STAN-01
 - Hex ID: PRPR2455
 - Name: Adafruit PiTFT 2.4 Inch HAT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2455/STAN/01/
 - Description: Adafruit PiTFT 2.4 Inch HAT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2455-STAN-01](http://oom.lt/PROJ-ADAF-2455-STAN-01)
 - Short Link: [http://oom.lt/PRPR2455](http://oom.lt/PRPR2455)

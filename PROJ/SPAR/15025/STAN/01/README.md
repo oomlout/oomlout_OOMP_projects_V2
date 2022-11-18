@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15025-STAN-01
 - Hex ID: PRPR15025
 - Name: nRF52840 Breakout MDBT50Q
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15025/STAN/01/
 - Description: nRF52840 Breakout MDBT50Q
 - Long Link: [http://oom.lt/PROJ-SPAR-15025-STAN-01](http://oom.lt/PROJ-SPAR-15025-STAN-01)
 - Short Link: [http://oom.lt/PRPR15025](http://oom.lt/PRPR15025)

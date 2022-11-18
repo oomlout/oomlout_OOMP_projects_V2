@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-14765-STAN-01
 - Hex ID: PRPR14765
 - Name: Single Supply Logic Level Converter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14765/STAN/01/
 - Description: Single Supply Logic Level Converter
 - Long Link: [http://oom.lt/PROJ-SPAR-14765-STAN-01](http://oom.lt/PROJ-SPAR-14765-STAN-01)
 - Short Link: [http://oom.lt/PRPR14765](http://oom.lt/PRPR14765)

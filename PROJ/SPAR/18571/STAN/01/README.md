@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18571 > https://github.com/sparkfunX/Inline DC Panel Meter](#prpr18571--httpsgithubcomsparkfunxinline-dc-panel-meter)
+* [PRPR18571 > Inline DC Panel Meter](#prpr18571--inline-dc-panel-meter)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18571 > https://github.com/sparkfunX/Inline DC Panel Meter
+# PRPR18571 > Inline DC Panel Meter
 
 - ID: PROJ-SPAR-18571-STAN-01
 - Hex ID: PRPR18571
-- Name: https://github.com/sparkfunX/Inline DC Panel Meter
-- Description: https://github.com/sparkfunX/Inline DC Panel Meter
+- Name: Inline DC Panel Meter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18571/STAN/01/
+- Description: Inline DC Panel Meter
 - Long Link: [http://oom.lt/PROJ-SPAR-18571-STAN-01](http://oom.lt/PROJ-SPAR-18571-STAN-01)
 - Short Link: [http://oom.lt/PRPR18571](http://oom.lt/PRPR18571)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18571-STAN-01|
 |Hex ID (short code)|hexID|PRPR18571|
-|name|name|https://github.com/sparkfunX/Inline DC Panel Meter|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Inline-DC-Panel-Meter|
-|gitName|gitName|https://github.com/sparkfunX/Inline-DC-Panel-Meter|
-|eagleBoard|eagleBoard|sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Inline-DC-Panel-Meter/Hardware/Inline DC Panel Meter - Display Holder.sch|
+|name|name|Inline DC Panel Meter|
+|gitRepo|gitRepo|https://github.com/sparkfun/Inline-DC-Panel-Meter|
+|gitName|gitName|Inline-DC-Panel-Meter|
+|eagleBoard|eagleBoard|/Hardware/Inline DC Panel Meter - Display Holder.brd|
+|eagleSchem|eagleSchem|/Hardware/Inline DC Panel Meter - Display Holder.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3305-STAN-01
 - Hex ID: PRPR3305
 - Name: Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3305/STAN/01/
 - Description: Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3305-STAN-01](http://oom.lt/PROJ-ADAF-3305-STAN-01)
 - Short Link: [http://oom.lt/PRPR3305](http://oom.lt/PRPR3305)

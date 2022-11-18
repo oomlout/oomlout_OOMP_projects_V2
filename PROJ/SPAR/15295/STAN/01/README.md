@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15295-STAN-01
 - Hex ID: PRPR15295
 - Name: SparkFun PCB Ruler
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15295/STAN/01/
 - Description: SparkFun PCB Ruler
 - Long Link: [http://oom.lt/PROJ-SPAR-15295-STAN-01](http://oom.lt/PROJ-SPAR-15295-STAN-01)
 - Short Link: [http://oom.lt/PRPR15295](http://oom.lt/PRPR15295)

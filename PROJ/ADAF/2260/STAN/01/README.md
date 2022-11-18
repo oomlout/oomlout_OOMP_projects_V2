@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2260-STAN-01
 - Hex ID: PRPR2260
 - Name: Adafruit 5 HDMI Backpack PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2260/STAN/01/
 - Description: Adafruit 5 HDMI Backpack PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2260-STAN-01](http://oom.lt/PROJ-ADAF-2260-STAN-01)
 - Short Link: [http://oom.lt/PRPR2260](http://oom.lt/PRPR2260)

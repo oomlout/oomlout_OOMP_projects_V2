@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic LED Stick')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_LED_Stick')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_LED_Stick')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_LED_Stick/Hardware/Qwiic LED Stick.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_LED_Stick/Hardware/Qwiic LED Stick.sch')
+    newPart['name'].append('Qwiic LED Stick')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_LED_Stick')
+    newPart['gitName'].append('Qwiic_LED_Stick')
+    newPart['eagleBoard'].append('/Hardware/Qwiic LED Stick.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic LED Stick.sch')
 
 
     ######  Common

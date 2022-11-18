@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-18037-STAN-01
 - Hex ID: PRPR18037
 - Name: SparkFun u blox MAX M10S
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18037/STAN/01/
 - Description: SparkFun u blox MAX M10S
 - Long Link: [http://oom.lt/PROJ-SPAR-18037-STAN-01](http://oom.lt/PROJ-SPAR-18037-STAN-01)
 - Short Link: [http://oom.lt/PRPR18037](http://oom.lt/PRPR18037)

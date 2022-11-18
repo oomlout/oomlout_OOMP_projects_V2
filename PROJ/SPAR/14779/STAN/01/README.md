@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14779-STAN-01
 - Hex ID: PRPR14779
 - Name: LumiDrive
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14779/STAN/01/
 - Description: LumiDrive
 - Long Link: [http://oom.lt/PROJ-SPAR-14779-STAN-01](http://oom.lt/PROJ-SPAR-14779-STAN-01)
 - Short Link: [http://oom.lt/PRPR14779](http://oom.lt/PRPR14779)

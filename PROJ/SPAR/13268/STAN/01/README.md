@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13268-STAN-01
 - Hex ID: PRPR13268
 - Name: Snappable P Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13268/STAN/01/
 - Description: Snappable P Board
 - Long Link: [http://oom.lt/PROJ-SPAR-13268-STAN-01](http://oom.lt/PROJ-SPAR-13268-STAN-01)
 - Short Link: [http://oom.lt/PRPR13268](http://oom.lt/PRPR13268)

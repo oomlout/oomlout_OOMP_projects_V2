@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1393-STAN-01
 - Hex ID: PRPR1393
 - Name: Adafruit Sharp Memory Display PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1393/STAN/01/
 - Description: Adafruit Sharp Memory Display PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-1393-STAN-01](http://oom.lt/PROJ-ADAF-1393-STAN-01)
 - Short Link: [http://oom.lt/PRPR1393](http://oom.lt/PRPR1393)

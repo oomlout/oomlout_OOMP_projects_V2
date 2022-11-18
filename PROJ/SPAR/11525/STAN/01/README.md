@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11525-STAN-01
 - Hex ID: PRPR11525
 - Name: P8X32A Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11525/STAN/01/
 - Description: P8X32A Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11525-STAN-01](http://oom.lt/PROJ-SPAR-11525-STAN-01)
 - Short Link: [http://oom.lt/PRPR11525](http://oom.lt/PRPR11525)

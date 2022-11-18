@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Soft Power Switch')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Soft_Power_Switch')
-    newPart['gitName'].append('https://github.com/sparkfunX/Soft_Power_Switch')
-    newPart['eagleBoard'].append('sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Soft_Power_Switch/Hardware/SparkFun Soft Power Switch.sch')
+    newPart['name'].append('Soft Power Switch')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Soft_Power_Switch')
+    newPart['gitName'].append('Soft_Power_Switch')
+    newPart['eagleBoard'].append('/Hardware/SparkFun Soft Power Switch.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkFun Soft Power Switch.sch')
 
 
     ######  Common

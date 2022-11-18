@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Boost')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Boost')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Boost')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.sch')
+    newPart['name'].append('Qwiic Boost')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Boost')
+    newPart['gitName'].append('Qwiic_Boost')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Boost.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Boost.sch')
 
 
     ######  Common

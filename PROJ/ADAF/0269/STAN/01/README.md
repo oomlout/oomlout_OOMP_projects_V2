@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0269-STAN-01
 - Hex ID: PRPR0269
 - Name: Adafruit MAX31855 breakout board
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0269/STAN/01/
 - Description: Adafruit MAX31855 breakout board
 - Long Link: [http://oom.lt/PROJ-ADAF-0269-STAN-01](http://oom.lt/PROJ-ADAF-0269-STAN-01)
 - Short Link: [http://oom.lt/PRPR0269](http://oom.lt/PRPR0269)

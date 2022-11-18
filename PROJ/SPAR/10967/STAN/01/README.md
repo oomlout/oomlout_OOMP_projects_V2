@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10967-STAN-01
 - Hex ID: PRPR10967
 - Name: NCP1402 3.3V
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10967/STAN/01/
 - Description: NCP1402 3.3V
 - Long Link: [http://oom.lt/PROJ-SPAR-10967-STAN-01](http://oom.lt/PROJ-SPAR-10967-STAN-01)
 - Short Link: [http://oom.lt/PRPR10967](http://oom.lt/PRPR10967)

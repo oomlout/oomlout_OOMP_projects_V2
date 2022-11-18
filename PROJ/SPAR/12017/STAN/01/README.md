@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12017-STAN-01
 - Hex ID: PRPR12017
 - Name: MPR121 Capacitive Touch Keypad
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12017/STAN/01/
 - Description: MPR121 Capacitive Touch Keypad
 - Long Link: [http://oom.lt/PROJ-SPAR-12017-STAN-01](http://oom.lt/PROJ-SPAR-12017-STAN-01)
 - Short Link: [http://oom.lt/PRPR12017](http://oom.lt/PRPR12017)

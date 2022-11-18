@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0390-STAN-01
 - Hex ID: PRPR0390
 - Name: USB DC Solar Lithium Ion Polymer charger
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0390/STAN/01/
 - Description: USB DC Solar Lithium Ion Polymer charger
 - Long Link: [http://oom.lt/PROJ-ADAF-0390-STAN-01](http://oom.lt/PROJ-ADAF-0390-STAN-01)
 - Short Link: [http://oom.lt/PRPR0390](http://oom.lt/PRPR0390)

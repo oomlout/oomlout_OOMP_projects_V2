@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SAMD21 ProRF 1W')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SAMD21_ProRF_1W')
-    newPart['gitName'].append('https://github.com/sparkfunX/SAMD21_ProRF_1W')
-    newPart['eagleBoard'].append('sourceFiles/git/SAMD21_ProRF_1W/Hardware/SAMD21_Pro_RF_1W.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SAMD21_ProRF_1W/Hardware/SAMD21_Pro_RF_1W.sch')
+    newPart['name'].append('SAMD21 ProRF 1W')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SAMD21_ProRF_1W')
+    newPart['gitName'].append('SAMD21_ProRF_1W')
+    newPart['eagleBoard'].append('/Hardware/SAMD21_Pro_RF_1W.brd')
+    newPart['eagleSchem'].append('/Hardware/SAMD21_Pro_RF_1W.sch')
 
 
     ######  Common

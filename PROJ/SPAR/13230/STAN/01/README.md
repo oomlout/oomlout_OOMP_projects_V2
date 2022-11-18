@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13230-STAN-01
 - Hex ID: PRPR13230
 - Name: HX711 Load Cell Amplifier
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13230/STAN/01/
 - Description: HX711 Load Cell Amplifier
 - Long Link: [http://oom.lt/PROJ-SPAR-13230-STAN-01](http://oom.lt/PROJ-SPAR-13230-STAN-01)
 - Short Link: [http://oom.lt/PRPR13230](http://oom.lt/PRPR13230)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16985-STAN-01
 - Hex ID: PRPR16985
 - Name: MicroMod Input and Display Carrier
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16985/STAN/01/
 - Description: MicroMod Input and Display Carrier
 - Long Link: [http://oom.lt/PROJ-SPAR-16985-STAN-01](http://oom.lt/PROJ-SPAR-16985-STAN-01)
 - Short Link: [http://oom.lt/PRPR16985](http://oom.lt/PRPR16985)

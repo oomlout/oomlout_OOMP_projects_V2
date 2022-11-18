@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15219-STAN-01
 - Hex ID: PRPR15219
 - Name: SparkFun Pulse Oximeter Heart Rate Sensor
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15219/STAN/01/
 - Description: SparkFun Pulse Oximeter Heart Rate Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-15219-STAN-01](http://oom.lt/PROJ-SPAR-15219-STAN-01)
 - Short Link: [http://oom.lt/PRPR15219](http://oom.lt/PRPR15219)

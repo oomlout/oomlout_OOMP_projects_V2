@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8872-STAN-01
 - Hex ID: PRPR8872
 - Name: Mic Preamp
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8872/STAN/01/
 - Description: Mic Preamp
 - Long Link: [http://oom.lt/PROJ-SPAR-8872-STAN-01](http://oom.lt/PROJ-SPAR-8872-STAN-01)
 - Short Link: [http://oom.lt/PRPR8872](http://oom.lt/PRPR8872)

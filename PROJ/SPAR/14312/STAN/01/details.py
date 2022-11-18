@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic GPS TitanX1')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_GPS-TitanX1')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_GPS-TitanX1')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_GPS-TitanX1/Hardware/Qwiic GPS - Titan X1.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_GPS-TitanX1/Hardware/Qwiic GPS - Titan X1.sch')
+    newPart['name'].append('Qwiic GPS TitanX1')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_GPS-TitanX1')
+    newPart['gitName'].append('Qwiic_GPS-TitanX1')
+    newPart['eagleBoard'].append('/Hardware/Qwiic GPS - Titan X1.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic GPS - Titan X1.sch')
 
 
     ######  Common

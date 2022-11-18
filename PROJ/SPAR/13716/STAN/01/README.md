@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13716-STAN-01
 - Hex ID: PRPR13716
 - Name: FemtoBuck
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13716/STAN/01/
 - Description: FemtoBuck
 - Long Link: [http://oom.lt/PROJ-SPAR-13716-STAN-01](http://oom.lt/PROJ-SPAR-13716-STAN-01)
 - Short Link: [http://oom.lt/PRPR13716](http://oom.lt/PRPR13716)

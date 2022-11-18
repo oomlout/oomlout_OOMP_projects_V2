@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/A111 Pulsed Radar Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/A111_Pulsed_Radar_Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/A111_Pulsed_Radar_Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/A111_Pulsed_Radar_Breakout/Hardware/A111_Pulsed_Radar_Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/A111_Pulsed_Radar_Breakout/Hardware/A111_Pulsed_Radar_Breakout.sch')
+    newPart['name'].append('A111 Pulsed Radar Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/A111_Pulsed_Radar_Breakout')
+    newPart['gitName'].append('A111_Pulsed_Radar_Breakout')
+    newPart['eagleBoard'].append('/Hardware/A111_Pulsed_Radar_Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/A111_Pulsed_Radar_Breakout.sch')
 
 
     ######  Common

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3147-STAN-01
 - Hex ID: PRPR3147
 - Name: Adafruit FONA SIMCOM 3G Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3147/STAN/01/
 - Description: Adafruit FONA SIMCOM 3G Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3147-STAN-01](http://oom.lt/PROJ-ADAF-3147-STAN-01)
 - Short Link: [http://oom.lt/PRPR3147](http://oom.lt/PRPR3147)

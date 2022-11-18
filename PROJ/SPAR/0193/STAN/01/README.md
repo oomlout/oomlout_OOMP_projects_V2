@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0193-STAN-01
 - Hex ID: PRPR0193
 - Name: Adapter Board ICD ICD2
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0193/STAN/01/
 - Description: Adapter Board ICD ICD2
 - Long Link: [http://oom.lt/PROJ-SPAR-0193-STAN-01](http://oom.lt/PROJ-SPAR-0193-STAN-01)
 - Short Link: [http://oom.lt/PRPR0193](http://oom.lt/PRPR0193)

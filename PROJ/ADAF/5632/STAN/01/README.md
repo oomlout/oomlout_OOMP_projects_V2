@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5632-STAN-01
 - Hex ID: PRPR5632
 - Name: Adafruit QSPI DIP Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5632/STAN/01/
 - Description: Adafruit QSPI DIP Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5632-STAN-01](http://oom.lt/PROJ-ADAF-5632-STAN-01)
 - Short Link: [http://oom.lt/PRPR5632](http://oom.lt/PRPR5632)

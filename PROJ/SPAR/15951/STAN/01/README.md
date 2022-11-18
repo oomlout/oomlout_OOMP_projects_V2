@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR15951 > https://github.com/sparkfunX/Qwiic Step](#prpr15951--httpsgithubcomsparkfunxqwiic-step)
+* [PRPR15951 > Qwiic Step](#prpr15951--qwiic-step)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR15951 > https://github.com/sparkfunX/Qwiic Step
+# PRPR15951 > Qwiic Step
 
 - ID: PROJ-SPAR-15951-STAN-01
 - Hex ID: PRPR15951
-- Name: https://github.com/sparkfunX/Qwiic Step
-- Description: https://github.com/sparkfunX/Qwiic Step
+- Name: Qwiic Step
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15951/STAN/01/
+- Description: Qwiic Step
 - Long Link: [http://oom.lt/PROJ-SPAR-15951-STAN-01](http://oom.lt/PROJ-SPAR-15951-STAN-01)
 - Short Link: [http://oom.lt/PRPR15951](http://oom.lt/PRPR15951)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15951-STAN-01|
 |Hex ID (short code)|hexID|PRPR15951|
-|name|name|https://github.com/sparkfunX/Qwiic Step|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Step|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Step|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Step/Hardware/Qwiic-Step.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Step/Hardware/Qwiic-Step.sch|
+|name|name|Qwiic Step|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Step|
+|gitName|gitName|Qwiic_Step|
+|eagleBoard|eagleBoard|/Hardware/Qwiic-Step.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic-Step.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

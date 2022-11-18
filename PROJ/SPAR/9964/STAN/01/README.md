@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-9964-STAN-01
 - Hex ID: PRPR9964
 - Name: Electret Microphone Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9964/STAN/01/
 - Description: Electret Microphone Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-9964-STAN-01](http://oom.lt/PROJ-SPAR-9964-STAN-01)
 - Short Link: [http://oom.lt/PRPR9964](http://oom.lt/PRPR9964)

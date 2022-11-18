@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14546-STAN-01
 - Hex ID: PRPR14546
 - Name: LilyPad E Sewing Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/
 - Description: LilyPad E Sewing Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-14546-STAN-01](http://oom.lt/PROJ-SPAR-14546-STAN-01)
 - Short Link: [http://oom.lt/PRPR14546](http://oom.lt/PRPR14546)

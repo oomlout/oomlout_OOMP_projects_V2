@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16400-STAN-01
 - Hex ID: PRPR16400
 - Name: MicroMod Machine Learning Carrier
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16400/STAN/01/
 - Description: MicroMod Machine Learning Carrier
 - Long Link: [http://oom.lt/PROJ-SPAR-16400-STAN-01](http://oom.lt/PROJ-SPAR-16400-STAN-01)
 - Short Link: [http://oom.lt/PRPR16400](http://oom.lt/PRPR16400)

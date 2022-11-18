@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Keyboard Explorer')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Keyboard_Explorer')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Keyboard_Explorer')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Keyboard_Explorer/Hardware/Mounting_Plate.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Keyboard_Explorer/Hardware/Mounting_Plate.sch')
+    newPart['name'].append('Qwiic Keyboard Explorer')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Keyboard_Explorer')
+    newPart['gitName'].append('Qwiic_Keyboard_Explorer')
+    newPart['eagleBoard'].append('/Hardware/Mounting_Plate.brd')
+    newPart['eagleSchem'].append('/Hardware/Mounting_Plate.sch')
 
 
     ######  Common

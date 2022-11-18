@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8619-STAN-01
 - Hex ID: PRPR8619
 - Name: ProtoBoard Wombat PTH
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8619/STAN/01/
 - Description: ProtoBoard Wombat PTH
 - Long Link: [http://oom.lt/PROJ-SPAR-8619-STAN-01](http://oom.lt/PROJ-SPAR-8619-STAN-01)
 - Short Link: [http://oom.lt/PRPR8619](http://oom.lt/PRPR8619)
@@ -25,11 +26,6 @@ Contents
   
 [iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/SPAR/8619/STAN/01/ibom.html)
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

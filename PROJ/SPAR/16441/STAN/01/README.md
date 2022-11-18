@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR16441 > https://github.com/sparkfunX/2D Barcode Scanner](#prpr16441--httpsgithubcomsparkfunx2d-barcode-scanner)
+* [PRPR16441 > 2D Barcode Scanner](#prpr16441--2d-barcode-scanner)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR16441 > https://github.com/sparkfunX/2D Barcode Scanner
+# PRPR16441 > 2D Barcode Scanner
 
 - ID: PROJ-SPAR-16441-STAN-01
 - Hex ID: PRPR16441
-- Name: https://github.com/sparkfunX/2D Barcode Scanner
-- Description: https://github.com/sparkfunX/2D Barcode Scanner
+- Name: 2D Barcode Scanner
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16441/STAN/01/
+- Description: 2D Barcode Scanner
 - Long Link: [http://oom.lt/PROJ-SPAR-16441-STAN-01](http://oom.lt/PROJ-SPAR-16441-STAN-01)
 - Short Link: [http://oom.lt/PRPR16441](http://oom.lt/PRPR16441)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16441-STAN-01|
 |Hex ID (short code)|hexID|PRPR16441|
-|name|name|https://github.com/sparkfunX/2D Barcode Scanner|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/2D_Barcode_Scanner|
-|gitName|gitName|https://github.com/sparkfunX/2D_Barcode_Scanner|
-|eagleBoard|eagleBoard|sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.sch|
+|name|name|2D Barcode Scanner|
+|gitRepo|gitRepo|https://github.com/sparkfun/2D_Barcode_Scanner|
+|gitName|gitName|2D_Barcode_Scanner|
+|eagleBoard|eagleBoard|/Hardware/2DBarcodeScanner.brd|
+|eagleSchem|eagleSchem|/Hardware/2DBarcodeScanner.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

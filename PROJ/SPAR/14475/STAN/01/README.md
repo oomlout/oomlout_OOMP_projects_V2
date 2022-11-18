@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14475-STAN-01
 - Hex ID: PRPR14475
 - Name: Noisy Cricket 1.5W Stereo Amplifier Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14475/STAN/01/
 - Description: Noisy Cricket 1.5W Stereo Amplifier Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-14475-STAN-01](http://oom.lt/PROJ-SPAR-14475-STAN-01)
 - Short Link: [http://oom.lt/PRPR14475](http://oom.lt/PRPR14475)

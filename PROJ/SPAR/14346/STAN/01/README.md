@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14346-STAN-01
 - Hex ID: PRPR14346
 - Name: LilyPad ProtoSnap Plus
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/
 - Description: LilyPad ProtoSnap Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-14346-STAN-01](http://oom.lt/PROJ-SPAR-14346-STAN-01)
 - Short Link: [http://oom.lt/PRPR14346](http://oom.lt/PRPR14346)

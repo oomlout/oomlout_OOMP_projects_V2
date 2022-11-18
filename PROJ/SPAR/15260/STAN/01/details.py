@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX Pi Filter Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX-Pi-Filter-Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX-Pi-Filter-Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX-Pi-Filter-Breakout/Hardware/SparkX-Pi-Filter.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX-Pi-Filter-Breakout/Hardware/SparkX-Pi-Filter.sch')
+    newPart['name'].append('SparkX Pi Filter Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX-Pi-Filter-Breakout')
+    newPart['gitName'].append('SparkX-Pi-Filter-Breakout')
+    newPart['eagleBoard'].append('/Hardware/SparkX-Pi-Filter.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkX-Pi-Filter.sch')
 
 
     ######  Common

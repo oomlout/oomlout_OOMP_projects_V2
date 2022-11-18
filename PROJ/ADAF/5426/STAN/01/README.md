@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5426-STAN-01
 - Hex ID: PRPR5426
 - Name: Adafruit QT Py ESP32 S3 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5426/STAN/01/
 - Description: Adafruit QT Py ESP32 S3 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5426-STAN-01](http://oom.lt/PROJ-ADAF-5426-STAN-01)
 - Short Link: [http://oom.lt/PRPR5426](http://oom.lt/PRPR5426)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4037-STAN-01
 - Hex ID: PRPR4037
 - Name: Adafruit I2S Audio Bonnet for Raspberry Pi PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4037/STAN/01/
 - Description: Adafruit I2S Audio Bonnet for Raspberry Pi PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4037-STAN-01](http://oom.lt/PROJ-ADAF-4037-STAN-01)
 - Short Link: [http://oom.lt/PRPR4037](http://oom.lt/PRPR4037)

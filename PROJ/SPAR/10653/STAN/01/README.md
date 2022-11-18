@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10653-STAN-01
 - Hex ID: PRPR10653
 - Name: Voice Recorder Breakout ISD1932
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10653/STAN/01/
 - Description: Voice Recorder Breakout ISD1932
 - Long Link: [http://oom.lt/PROJ-SPAR-10653-STAN-01](http://oom.lt/PROJ-SPAR-10653-STAN-01)
 - Short Link: [http://oom.lt/PRPR10653](http://oom.lt/PRPR10653)

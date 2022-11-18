@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1754-STAN-01
 - Hex ID: PRPR1754
 - Name: Adafruit Pi Cobber PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1754/STAN/01/
 - Description: Adafruit Pi Cobber PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-1754-STAN-01](http://oom.lt/PROJ-ADAF-1754-STAN-01)
 - Short Link: [http://oom.lt/PRPR1754](http://oom.lt/PRPR1754)

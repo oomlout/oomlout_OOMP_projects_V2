@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-17720-STAN-01
 - Hex ID: PRPR17720
 - Name: MicroMod Processor RP2040
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17720/STAN/01/
 - Description: MicroMod Processor RP2040
 - Long Link: [http://oom.lt/PROJ-SPAR-17720-STAN-01](http://oom.lt/PROJ-SPAR-17720-STAN-01)
 - Short Link: [http://oom.lt/PRPR17720](http://oom.lt/PRPR17720)

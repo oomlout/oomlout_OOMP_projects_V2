@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3315-STAN-01
 - Hex ID: PRPR3315
 - Name: Adafruit 2.4 TFT FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3315/STAN/01/
 - Description: Adafruit 2.4 TFT FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3315-STAN-01](http://oom.lt/PROJ-ADAF-3315-STAN-01)
 - Short Link: [http://oom.lt/PRPR3315](http://oom.lt/PRPR3315)

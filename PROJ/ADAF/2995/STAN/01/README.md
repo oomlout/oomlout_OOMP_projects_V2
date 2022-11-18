@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2995-STAN-01
 - Hex ID: PRPR2995
 - Name: Adafruit Feather M0 Bluefruit LE PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2995/STAN/01/
 - Description: Adafruit Feather M0 Bluefruit LE PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2995-STAN-01](http://oom.lt/PROJ-ADAF-2995-STAN-01)
 - Short Link: [http://oom.lt/PRPR2995](http://oom.lt/PRPR2995)

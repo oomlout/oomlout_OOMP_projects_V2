@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5580-STAN-01
 - Hex ID: PRPR5580
 - Name: Adafruit MAX17048 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5580/STAN/01/
 - Description: Adafruit MAX17048 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5580-STAN-01](http://oom.lt/PROJ-ADAF-5580-STAN-01)
 - Short Link: [http://oom.lt/PRPR5580](http://oom.lt/PRPR5580)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11893-STAN-01
 - Hex ID: PRPR11893
 - Name: LilyPad Simple Power
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11893/STAN/01/
 - Description: LilyPad Simple Power
 - Long Link: [http://oom.lt/PROJ-SPAR-11893-STAN-01](http://oom.lt/PROJ-SPAR-11893-STAN-01)
 - Short Link: [http://oom.lt/PRPR11893](http://oom.lt/PRPR11893)

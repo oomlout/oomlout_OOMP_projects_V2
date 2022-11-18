@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/ESP8266 WiFi IR Blaster')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/ESP8266_WiFi_IR_Blaster')
-    newPart['gitName'].append('https://github.com/sparkfunX/ESP8266_WiFi_IR_Blaster')
-    newPart['eagleBoard'].append('sourceFiles/git/ESP8266_WiFi_IR_Blaster/Hardware/esp8266_ir_blaster.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/ESP8266_WiFi_IR_Blaster/Hardware/esp8266_ir_blaster.sch')
+    newPart['name'].append('ESP8266 WiFi IR Blaster')
+    newPart['gitRepo'].append('https://github.com/sparkfun/ESP8266_WiFi_IR_Blaster')
+    newPart['gitName'].append('ESP8266_WiFi_IR_Blaster')
+    newPart['eagleBoard'].append('/Hardware/esp8266_ir_blaster.brd')
+    newPart['eagleSchem'].append('/Hardware/esp8266_ir_blaster.sch')
 
 
     ######  Common

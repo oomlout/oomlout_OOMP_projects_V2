@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1611-STAN-01
 - Hex ID: PRPR1611
 - Name: Adafruit Trellis
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1611/STAN/01/
 - Description: Adafruit Trellis
 - Long Link: [http://oom.lt/PROJ-ADAF-1611-STAN-01](http://oom.lt/PROJ-ADAF-1611-STAN-01)
 - Short Link: [http://oom.lt/PRPR1611](http://oom.lt/PRPR1611)

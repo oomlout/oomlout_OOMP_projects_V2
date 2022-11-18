@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2190-STAN-01
 - Hex ID: PRPR2190
 - Name: Adafruit Verter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2190/STAN/01/
 - Description: Adafruit Verter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2190-STAN-01](http://oom.lt/PROJ-ADAF-2190-STAN-01)
 - Short Link: [http://oom.lt/PRPR2190](http://oom.lt/PRPR2190)

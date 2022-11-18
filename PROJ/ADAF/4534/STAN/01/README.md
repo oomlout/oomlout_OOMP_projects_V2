@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4534-STAN-01
 - Hex ID: PRPR4534
 - Name: Adafruit Bonsai Buckaroo PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4534/STAN/01/
 - Description: Adafruit Bonsai Buckaroo PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4534-STAN-01](http://oom.lt/PROJ-ADAF-4534-STAN-01)
 - Short Link: [http://oom.lt/PRPR4534](http://oom.lt/PRPR4534)

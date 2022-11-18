@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1900-STAN-01
 - Hex ID: PRPR1900
 - Name: Adafruit BMP183 Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1900/STAN/01/
 - Description: Adafruit BMP183 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1900-STAN-01](http://oom.lt/PROJ-ADAF-1900-STAN-01)
 - Short Link: [http://oom.lt/PRPR1900](http://oom.lt/PRPR1900)

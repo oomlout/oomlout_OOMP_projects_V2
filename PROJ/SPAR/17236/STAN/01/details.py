@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/ARGOS ARTIC R2 Shield')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield')
-    newPart['gitName'].append('https://github.com/sparkfunX/ARGOS-ARTIC-R2-Shield')
-    newPart['eagleBoard'].append('sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/ARGOS-ARTIC-R2-Shield/Hardware/ARTIC_R2.sch')
+    newPart['name'].append('ARGOS ARTIC R2 Shield')
+    newPart['gitRepo'].append('https://github.com/sparkfun/ARGOS-ARTIC-R2-Shield')
+    newPart['gitName'].append('ARGOS-ARTIC-R2-Shield')
+    newPart['eagleBoard'].append('/Hardware/ARTIC_R2.brd')
+    newPart['eagleSchem'].append('/Hardware/ARTIC_R2.sch')
 
 
     ######  Common

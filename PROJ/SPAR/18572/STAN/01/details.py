@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/LoRa 1W Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/LoRa_1W_Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/LoRa_1W_Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/LoRa_1W_Breakout/Hardware/LoRa_1W_Breakout.sch')
+    newPart['name'].append('LoRa 1W Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/LoRa_1W_Breakout')
+    newPart['gitName'].append('LoRa_1W_Breakout')
+    newPart['eagleBoard'].append('/Hardware/LoRa_1W_Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/LoRa_1W_Breakout.sch')
 
 
     ######  Common

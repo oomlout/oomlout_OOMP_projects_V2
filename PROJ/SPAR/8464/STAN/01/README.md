@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8464-STAN-01
 - Hex ID: PRPR8464
 - Name: LilyPad Light Sensor
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8464/STAN/01/
 - Description: LilyPad Light Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-8464-STAN-01](http://oom.lt/PROJ-SPAR-8464-STAN-01)
 - Short Link: [http://oom.lt/PRPR8464](http://oom.lt/PRPR8464)

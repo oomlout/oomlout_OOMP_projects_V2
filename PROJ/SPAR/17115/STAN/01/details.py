@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SerialFlash Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SerialFlash-Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/SerialFlash-Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.sch')
+    newPart['name'].append('SerialFlash Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SerialFlash-Breakout')
+    newPart['gitName'].append('SerialFlash-Breakout')
+    newPart['eagleBoard'].append('/Hardware/QSPI-Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/QSPI-Breakout.sch')
 
 
     ######  Common

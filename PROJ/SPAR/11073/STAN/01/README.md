@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11073-STAN-01
 - Hex ID: PRPR11073
 - Name: GP 2106 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11073/STAN/01/
 - Description: GP 2106 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11073-STAN-01](http://oom.lt/PROJ-SPAR-11073-STAN-01)
 - Short Link: [http://oom.lt/PRPR11073](http://oom.lt/PRPR11073)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-17119-STAN-01
 - Hex ID: PRPR17119
 - Name: Qwiic Shield for Teensy
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17119/STAN/01/
 - Description: Qwiic Shield for Teensy
 - Long Link: [http://oom.lt/PROJ-SPAR-17119-STAN-01](http://oom.lt/PROJ-SPAR-17119-STAN-01)
 - Short Link: [http://oom.lt/PRPR17119](http://oom.lt/PRPR17119)

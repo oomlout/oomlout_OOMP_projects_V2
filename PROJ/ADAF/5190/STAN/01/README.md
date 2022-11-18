@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5190-STAN-01
 - Hex ID: PRPR5190
 - Name: Adafruit SCD 4x PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5190/STAN/01/
 - Description: Adafruit SCD 4x PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5190-STAN-01](http://oom.lt/PROJ-ADAF-5190-STAN-01)
 - Short Link: [http://oom.lt/PRPR5190](http://oom.lt/PRPR5190)

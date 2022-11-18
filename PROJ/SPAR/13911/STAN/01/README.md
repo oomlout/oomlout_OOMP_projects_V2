@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13911-STAN-01
 - Hex ID: PRPR13911
 - Name: Serial Controlled Motor Driver
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13911/STAN/01/
 - Description: Serial Controlled Motor Driver
 - Long Link: [http://oom.lt/PROJ-SPAR-13911-STAN-01](http://oom.lt/PROJ-SPAR-13911-STAN-01)
 - Short Link: [http://oom.lt/PRPR13911](http://oom.lt/PRPR13911)

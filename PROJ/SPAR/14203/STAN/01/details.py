@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Shield for ESP32')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Shield_for_ESP32')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Shield_for_ESP32')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Shield_for_ESP32/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.sch')
+    newPart['name'].append('Qwiic Shield for ESP32')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Shield_for_ESP32')
+    newPart['gitName'].append('Qwiic_Shield_for_ESP32')
+    newPart['eagleBoard'].append('/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.brd')
+    newPart['eagleSchem'].append('/Hardware/Sparkfun_Qwiic_Shield_for_ESP32.sch')
 
 
     ######  Common

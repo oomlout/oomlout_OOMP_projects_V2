@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3088-STAN-01
 - Hex ID: PRPR3088
 - Name: Adafruit LED Backpack FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3088/STAN/01/
 - Description: Adafruit LED Backpack FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3088-STAN-01](http://oom.lt/PROJ-ADAF-3088-STAN-01)
 - Short Link: [http://oom.lt/PRPR3088](http://oom.lt/PRPR3088)

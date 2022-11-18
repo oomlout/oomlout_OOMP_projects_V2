@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1480-STAN-01
 - Hex ID: PRPR1480
 - Name: Adafruit 2.2 SPI TFT
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1480/STAN/01/
 - Description: Adafruit 2.2 SPI TFT
 - Long Link: [http://oom.lt/PROJ-ADAF-1480-STAN-01](http://oom.lt/PROJ-ADAF-1480-STAN-01)
 - Short Link: [http://oom.lt/PRPR1480](http://oom.lt/PRPR1480)

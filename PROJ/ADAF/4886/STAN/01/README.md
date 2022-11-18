@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4886-STAN-01
 - Hex ID: PRPR4886
 - Name: Adafruit AW9523 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4886/STAN/01/
 - Description: Adafruit AW9523 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4886-STAN-01](http://oom.lt/PROJ-ADAF-4886-STAN-01)
 - Short Link: [http://oom.lt/PRPR4886](http://oom.lt/PRPR4886)

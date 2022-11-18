@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Iridium 9603N')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Iridium_9603N')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Iridium_9603N')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Iridium_9603N/Hardware/Qwiic_Iridium_9603N.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Iridium_9603N/Hardware/Qwiic_Iridium_9603N.sch')
+    newPart['name'].append('Qwiic Iridium 9603N')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Iridium_9603N')
+    newPart['gitName'].append('Qwiic_Iridium_9603N')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Iridium_9603N.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Iridium_9603N.sch')
 
 
     ######  Common

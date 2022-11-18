@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13664-STAN-01
 - Hex ID: PRPR13664
 - Name: SAMD21 Mini Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13664/STAN/01/
 - Description: SAMD21 Mini Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-13664-STAN-01](http://oom.lt/PROJ-SPAR-13664-STAN-01)
 - Short Link: [http://oom.lt/PRPR13664](http://oom.lt/PRPR13664)

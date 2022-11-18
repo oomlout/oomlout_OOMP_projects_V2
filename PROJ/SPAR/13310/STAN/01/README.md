@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13310-STAN-01
 - Hex ID: PRPR13310
 - Name: Ludus ProtoShield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13310/STAN/01/
 - Description: Ludus ProtoShield
 - Long Link: [http://oom.lt/PROJ-SPAR-13310-STAN-01](http://oom.lt/PROJ-SPAR-13310-STAN-01)
 - Short Link: [http://oom.lt/PRPR13310](http://oom.lt/PRPR13310)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3333-STAN-01
 - Hex ID: PRPR3333
 - Name: Adafruit Circuit Playground Express PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3333/STAN/01/
 - Description: Adafruit Circuit Playground Express PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3333-STAN-01](http://oom.lt/PROJ-ADAF-3333-STAN-01)
 - Short Link: [http://oom.lt/PRPR3333](http://oom.lt/PRPR3333)

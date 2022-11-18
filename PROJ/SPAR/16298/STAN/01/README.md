@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR16298 > https://github.com/sparkfunX/Qwiic PHT MS8607](#prpr16298--httpsgithubcomsparkfunxqwiic-pht-ms8607)
+* [PRPR16298 > Qwiic PHT MS8607](#prpr16298--qwiic-pht-ms8607)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR16298 > https://github.com/sparkfunX/Qwiic PHT MS8607
+# PRPR16298 > Qwiic PHT MS8607
 
 - ID: PROJ-SPAR-16298-STAN-01
 - Hex ID: PRPR16298
-- Name: https://github.com/sparkfunX/Qwiic PHT MS8607
-- Description: https://github.com/sparkfunX/Qwiic PHT MS8607
+- Name: Qwiic PHT MS8607
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16298/STAN/01/
+- Description: Qwiic PHT MS8607
 - Long Link: [http://oom.lt/PROJ-SPAR-16298-STAN-01](http://oom.lt/PROJ-SPAR-16298-STAN-01)
 - Short Link: [http://oom.lt/PRPR16298](http://oom.lt/PRPR16298)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-16298-STAN-01|
 |Hex ID (short code)|hexID|PRPR16298|
-|name|name|https://github.com/sparkfunX/Qwiic PHT MS8607|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_PHT_MS8607|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_PHT_MS8607|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_PHT_MS8607/Hardware/Qwiic PHT Sensor - MS8607.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_PHT_MS8607/Hardware/Qwiic PHT Sensor - MS8607.sch|
+|name|name|Qwiic PHT MS8607|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_PHT_MS8607|
+|gitName|gitName|Qwiic_PHT_MS8607|
+|eagleBoard|eagleBoard|/Hardware/Qwiic PHT Sensor - MS8607.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic PHT Sensor - MS8607.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

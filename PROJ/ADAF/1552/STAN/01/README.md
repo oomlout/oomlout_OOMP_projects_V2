@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1552-STAN-01
 - Hex ID: PRPR1552
 - Name: Adafruit TPA2012 or TS2012 Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1552/STAN/01/
 - Description: Adafruit TPA2012 or TS2012 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1552-STAN-01](http://oom.lt/PROJ-ADAF-1552-STAN-01)
 - Short Link: [http://oom.lt/PRPR1552](http://oom.lt/PRPR1552)

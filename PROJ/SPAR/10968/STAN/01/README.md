@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10968-STAN-01
 - Hex ID: PRPR10968
 - Name: NCP1402 5V Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10968/STAN/01/
 - Description: NCP1402 5V Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-10968-STAN-01](http://oom.lt/PROJ-SPAR-10968-STAN-01)
 - Short Link: [http://oom.lt/PRPR10968](http://oom.lt/PRPR10968)

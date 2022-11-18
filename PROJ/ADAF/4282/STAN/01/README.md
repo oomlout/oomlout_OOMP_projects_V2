@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4282-STAN-01
 - Hex ID: PRPR4282
 - Name: Adafruit PiRTC DS3231 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4282/STAN/01/
 - Description: Adafruit PiRTC DS3231 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4282-STAN-01](http://oom.lt/PROJ-ADAF-4282-STAN-01)
 - Short Link: [http://oom.lt/PRPR4282](http://oom.lt/PRPR4282)

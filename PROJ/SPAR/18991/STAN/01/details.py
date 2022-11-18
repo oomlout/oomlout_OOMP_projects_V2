@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkX smol Dynamic NFC RFID Tag')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_Dynamic_NFC_RFID_Tag')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkX_smol_Dynamic_NFC_RFID_Tag')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkX_smol_Dynamic_NFC_RFID_Tag/Hardware/SparkX_smol_Dynamic_NFC_RFID_Tag.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkX_smol_Dynamic_NFC_RFID_Tag/Hardware/SparkX_smol_Dynamic_NFC_RFID_Tag.sch')
+    newPart['name'].append('SparkX smol Dynamic NFC RFID Tag')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkX_smol_Dynamic_NFC_RFID_Tag')
+    newPart['gitName'].append('SparkX_smol_Dynamic_NFC_RFID_Tag')
+    newPart['eagleBoard'].append('/Hardware/SparkX_smol_Dynamic_NFC_RFID_Tag.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkX_smol_Dynamic_NFC_RFID_Tag.sch')
 
 
     ######  Common

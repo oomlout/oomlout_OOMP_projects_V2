@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13676-STAN-01
 - Hex ID: PRPR13676
 - Name: SparkFun BME280 Breakout Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13676/STAN/01/
 - Description: SparkFun BME280 Breakout Board
 - Long Link: [http://oom.lt/PROJ-SPAR-13676-STAN-01](http://oom.lt/PROJ-SPAR-13676-STAN-01)
 - Short Link: [http://oom.lt/PRPR13676](http://oom.lt/PRPR13676)

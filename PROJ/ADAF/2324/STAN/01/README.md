@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2324-STAN-01
 - Hex ID: PRPR2324
 - Name: Adafruit Ultimate GPS HAT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2324/STAN/01/
 - Description: Adafruit Ultimate GPS HAT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2324-STAN-01](http://oom.lt/PROJ-ADAF-2324-STAN-01)
 - Short Link: [http://oom.lt/PRPR2324](http://oom.lt/PRPR2324)

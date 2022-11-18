@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5302-STAN-01
 - Hex ID: PRPR5302
 - Name: Adafruit KB2040 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/
 - Description: Adafruit KB2040 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5302-STAN-01](http://oom.lt/PROJ-ADAF-5302-STAN-01)
 - Short Link: [http://oom.lt/PRPR5302](http://oom.lt/PRPR5302)

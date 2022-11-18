@@ -16,16 +16,12 @@ Contents
 - ID: PROJ-PDP7-0008-STAN-01
 - Hex ID: PRPR0008
 - Name: Art 02
+- Path: oomlout_OOMP_projects_V2/PROJ/PDP7/0008/STAN/01/
 - Description: Art 02
 - Long Link: [http://oom.lt/PROJ-PDP7-0008-STAN-01](http://oom.lt/PROJ-PDP7-0008-STAN-01)
 - Short Link: [http://oom.lt/PRPR0008](http://oom.lt/PRPR0008)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

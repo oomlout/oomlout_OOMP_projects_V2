@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-13926-STAN-01
 - Hex ID: PRPR13926
 - Name: MMA8452 Accelerometer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13926/STAN/01/
 - Description: MMA8452 Accelerometer
 - Long Link: [http://oom.lt/PROJ-SPAR-13926-STAN-01](http://oom.lt/PROJ-SPAR-13926-STAN-01)
 - Short Link: [http://oom.lt/PRPR13926](http://oom.lt/PRPR13926)

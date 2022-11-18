@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/PoE Power Supply')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/PoE_Power_Supply')
-    newPart['gitName'].append('https://github.com/sparkfunX/PoE_Power_Supply')
-    newPart['eagleBoard'].append('sourceFiles/git/PoE_Power_Supply/Hardware/POE_Power_Supply.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/PoE_Power_Supply/Hardware/POE_Power_Supply.sch')
+    newPart['name'].append('PoE Power Supply')
+    newPart['gitRepo'].append('https://github.com/sparkfun/PoE_Power_Supply')
+    newPart['gitName'].append('PoE_Power_Supply')
+    newPart['eagleBoard'].append('/Hardware/POE_Power_Supply.brd')
+    newPart['eagleSchem'].append('/Hardware/POE_Power_Supply.sch')
 
 
     ######  Common

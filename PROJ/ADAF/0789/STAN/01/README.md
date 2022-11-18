@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0789-STAN-01
 - Hex ID: PRPR0789
 - Name: Adafruit PN532 RFID NFC Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0789/STAN/01/
 - Description: Adafruit PN532 RFID NFC Shield
 - Long Link: [http://oom.lt/PROJ-ADAF-0789-STAN-01](http://oom.lt/PROJ-ADAF-0789-STAN-01)
 - Short Link: [http://oom.lt/PRPR0789](http://oom.lt/PRPR0789)

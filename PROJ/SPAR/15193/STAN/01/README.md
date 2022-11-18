@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15193-STAN-01
 - Hex ID: PRPR15193
 - Name: SparkFun u blox ZOE M8Q
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15193/STAN/01/
 - Description: SparkFun u blox ZOE M8Q
 - Long Link: [http://oom.lt/PROJ-SPAR-15193-STAN-01](http://oom.lt/PROJ-SPAR-15193-STAN-01)
 - Short Link: [http://oom.lt/PRPR15193](http://oom.lt/PRPR15193)

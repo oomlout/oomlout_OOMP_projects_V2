@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2809-STAN-01
 - Hex ID: PRPR2809
 - Name: Adafruit LIS3DH Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2809/STAN/01/
 - Description: Adafruit LIS3DH Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2809-STAN-01](http://oom.lt/PROJ-ADAF-2809-STAN-01)
 - Short Link: [http://oom.lt/PRPR2809](http://oom.lt/PRPR2809)

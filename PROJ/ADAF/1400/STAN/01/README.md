@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1400-STAN-01
 - Hex ID: PRPR1400
 - Name: Adafruit Push Button Power Switch PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1400/STAN/01/
 - Description: Adafruit Push Button Power Switch PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1400-STAN-01](http://oom.lt/PROJ-ADAF-1400-STAN-01)
 - Short Link: [http://oom.lt/PRPR1400](http://oom.lt/PRPR1400)

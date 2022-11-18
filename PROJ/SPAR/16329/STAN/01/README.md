@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16329-STAN-01
 - Hex ID: PRPR16329
 - Name: SparkFun u blox NEO M8U
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16329/STAN/01/
 - Description: SparkFun u blox NEO M8U
 - Long Link: [http://oom.lt/PROJ-SPAR-16329-STAN-01](http://oom.lt/PROJ-SPAR-16329-STAN-01)
 - Short Link: [http://oom.lt/PRPR16329](http://oom.lt/PRPR16329)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4863-STAN-01
 - Hex ID: PRPR4863
 - Name: Adafruit CYBERDECK PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4863/STAN/01/
 - Description: Adafruit CYBERDECK PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4863-STAN-01](http://oom.lt/PROJ-ADAF-4863-STAN-01)
 - Short Link: [http://oom.lt/PRPR4863](http://oom.lt/PRPR4863)

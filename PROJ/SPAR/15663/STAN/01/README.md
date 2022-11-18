@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15663-STAN-01
 - Hex ID: PRPR15663
 - Name: ESP32 Thing Plus
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15663/STAN/01/
 - Description: ESP32 Thing Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-15663-STAN-01](http://oom.lt/PROJ-SPAR-15663-STAN-01)
 - Short Link: [http://oom.lt/PRPR15663](http://oom.lt/PRPR15663)

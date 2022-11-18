@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12924-STAN-01
 - Hex ID: PRPR12924
 - Name: MicroView USB Programmer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12924/STAN/01/
 - Description: MicroView USB Programmer
 - Long Link: [http://oom.lt/PROJ-SPAR-12924-STAN-01](http://oom.lt/PROJ-SPAR-12924-STAN-01)
 - Short Link: [http://oom.lt/PRPR12924](http://oom.lt/PRPR12924)

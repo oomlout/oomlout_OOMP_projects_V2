@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1463-STAN-01
 - Hex ID: PRPR1463
 - Name: Adafruit NeoPixel Ring
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1463/STAN/01/
 - Description: Adafruit NeoPixel Ring
 - Long Link: [http://oom.lt/PROJ-ADAF-1463-STAN-01](http://oom.lt/PROJ-ADAF-1463-STAN-01)
 - Short Link: [http://oom.lt/PRPR1463](http://oom.lt/PRPR1463)

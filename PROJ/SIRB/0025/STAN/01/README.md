@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0025-STAN-01
 - Hex ID: PRPR0025
 - Name: ATTinyX17 SirTiny
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0025/STAN/01/
 - Description: ATTinyX17 SirTiny
 - Long Link: [http://oom.lt/PROJ-SIRB-0025-STAN-01](http://oom.lt/PROJ-SIRB-0025-STAN-01)
 - Short Link: [http://oom.lt/PRPR0025](http://oom.lt/PRPR0025)

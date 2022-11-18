@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9540-STAN-01
 - Hex ID: PRPR9540
 - Name: Full Bridge Motor Driver Breakout L298N
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9540/STAN/01/
 - Description: Full Bridge Motor Driver Breakout L298N
 - Long Link: [http://oom.lt/PROJ-SPAR-9540-STAN-01](http://oom.lt/PROJ-SPAR-9540-STAN-01)
 - Short Link: [http://oom.lt/PRPR9540](http://oom.lt/PRPR9540)

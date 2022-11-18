@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11722-STAN-01
 - Hex ID: PRPR11722
 - Name: Rotary Encoder Breakout Illuminated
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11722/STAN/01/
 - Description: Rotary Encoder Breakout Illuminated
 - Long Link: [http://oom.lt/PROJ-SPAR-11722-STAN-01](http://oom.lt/PROJ-SPAR-11722-STAN-01)
 - Short Link: [http://oom.lt/PRPR11722](http://oom.lt/PRPR11722)

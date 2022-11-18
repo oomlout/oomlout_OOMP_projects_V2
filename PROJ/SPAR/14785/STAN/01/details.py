@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Pro RF')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Pro_RF')
-    newPart['gitName'].append('https://github.com/sparkfunX/Pro_RF')
-    newPart['eagleBoard'].append('sourceFiles/git/Pro_RF/Hardware/Pro_RF.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Pro_RF/Hardware/Pro_RF.sch')
+    newPart['name'].append('Pro RF')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Pro_RF')
+    newPart['gitName'].append('Pro_RF')
+    newPart['eagleBoard'].append('/Hardware/Pro_RF.brd')
+    newPart['eagleSchem'].append('/Hardware/Pro_RF.sch')
 
 
     ######  Common

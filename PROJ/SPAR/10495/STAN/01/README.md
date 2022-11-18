@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10495-STAN-01
 - Hex ID: PRPR10495
 - Name: Coin Cell Battery Holder Breakout 24.5mm
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10495/STAN/01/
 - Description: Coin Cell Battery Holder Breakout 24.5mm
 - Long Link: [http://oom.lt/PROJ-SPAR-10495-STAN-01](http://oom.lt/PROJ-SPAR-10495-STAN-01)
 - Short Link: [http://oom.lt/PRPR10495](http://oom.lt/PRPR10495)

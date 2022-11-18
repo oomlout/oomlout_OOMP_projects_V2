@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-19177-STAN-01
 - Hex ID: PRPR19177
 - Name: SparkFun IoT RedBoard ESP32
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/19177/STAN/01/
 - Description: SparkFun IoT RedBoard ESP32
 - Long Link: [http://oom.lt/PROJ-SPAR-19177-STAN-01](http://oom.lt/PROJ-SPAR-19177-STAN-01)
 - Short Link: [http://oom.lt/PRPR19177](http://oom.lt/PRPR19177)

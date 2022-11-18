@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4712-STAN-01
 - Hex ID: PRPR4712
 - Name: Adafruit LC709203F PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4712/STAN/01/
 - Description: Adafruit LC709203F PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4712-STAN-01](http://oom.lt/PROJ-ADAF-4712-STAN-01)
 - Short Link: [http://oom.lt/PRPR4712](http://oom.lt/PRPR4712)

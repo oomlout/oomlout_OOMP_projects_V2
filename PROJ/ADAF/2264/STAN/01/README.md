@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2264-STAN-01
 - Hex ID: PRPR2264
 - Name: Adafruit FT232H Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2264/STAN/01/
 - Description: Adafruit FT232H Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2264-STAN-01](http://oom.lt/PROJ-ADAF-2264-STAN-01)
 - Short Link: [http://oom.lt/PRPR2264](http://oom.lt/PRPR2264)

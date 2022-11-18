@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13034-STAN-01
 - Hex ID: PRPR13034
 - Name: Edison I2C Breakout Block
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13034/STAN/01/
 - Description: Edison I2C Breakout Block
 - Long Link: [http://oom.lt/PROJ-SPAR-13034-STAN-01](http://oom.lt/PROJ-SPAR-13034-STAN-01)
 - Short Link: [http://oom.lt/PRPR13034](http://oom.lt/PRPR13034)

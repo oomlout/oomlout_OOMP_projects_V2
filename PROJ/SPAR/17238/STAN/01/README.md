@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17238 > https://github.com/sparkfunX/Qwiic Boost](#prpr17238--httpsgithubcomsparkfunxqwiic-boost)
+* [PRPR17238 > Qwiic Boost](#prpr17238--qwiic-boost)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17238 > https://github.com/sparkfunX/Qwiic Boost
+# PRPR17238 > Qwiic Boost
 
 - ID: PROJ-SPAR-17238-STAN-01
 - Hex ID: PRPR17238
-- Name: https://github.com/sparkfunX/Qwiic Boost
-- Description: https://github.com/sparkfunX/Qwiic Boost
+- Name: Qwiic Boost
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17238/STAN/01/
+- Description: Qwiic Boost
 - Long Link: [http://oom.lt/PROJ-SPAR-17238-STAN-01](http://oom.lt/PROJ-SPAR-17238-STAN-01)
 - Short Link: [http://oom.lt/PRPR17238](http://oom.lt/PRPR17238)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17238-STAN-01|
 |Hex ID (short code)|hexID|PRPR17238|
-|name|name|https://github.com/sparkfunX/Qwiic Boost|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Boost|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_Boost|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_Boost/Hardware/Qwiic_Boost.sch|
+|name|name|Qwiic Boost|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_Boost|
+|gitName|gitName|Qwiic_Boost|
+|eagleBoard|eagleBoard|/Hardware/Qwiic_Boost.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic_Boost.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

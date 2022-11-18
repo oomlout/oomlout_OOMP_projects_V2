@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1032-STAN-01
 - Hex ID: PRPR1032
 - Name: Adafruit L3GD20 Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1032/STAN/01/
 - Description: Adafruit L3GD20 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1032-STAN-01](http://oom.lt/PROJ-ADAF-1032-STAN-01)
 - Short Link: [http://oom.lt/PRPR1032](http://oom.lt/PRPR1032)

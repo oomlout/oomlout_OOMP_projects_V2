@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8883-STAN-01
 - Hex ID: PRPR8883
 - Name: Low Current Sensor Breakout ACS712
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8883/STAN/01/
 - Description: Low Current Sensor Breakout ACS712
 - Long Link: [http://oom.lt/PROJ-SPAR-8883-STAN-01](http://oom.lt/PROJ-SPAR-8883-STAN-01)
 - Short Link: [http://oom.lt/PRPR8883](http://oom.lt/PRPR8883)

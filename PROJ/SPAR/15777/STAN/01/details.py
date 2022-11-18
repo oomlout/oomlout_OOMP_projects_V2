@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Lidar Lite')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Lidar_Lite')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Lidar_Lite')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Lidar_Lite/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.sch')
+    newPart['name'].append('Qwiic Lidar Lite')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Lidar_Lite')
+    newPart['gitName'].append('Qwiic_Lidar_Lite')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Lidar_Lite/Qwiic_Lidar_Lite.sch')
 
 
     ######  Common

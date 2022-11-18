@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5200-STAN-01
 - Hex ID: PRPR5200
 - Name: Adafruit Proto PiCowbell PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5200/STAN/01/
 - Description: Adafruit Proto PiCowbell PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5200-STAN-01](http://oom.lt/PROJ-ADAF-5200-STAN-01)
 - Short Link: [http://oom.lt/PRPR5200](http://oom.lt/PRPR5200)

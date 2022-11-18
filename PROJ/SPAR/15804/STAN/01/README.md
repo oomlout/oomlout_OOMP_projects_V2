@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR15804 > https://github.com/sparkfunX/Qwiic PL N823 IR Breakout](#prpr15804--httpsgithubcomsparkfunxqwiic-pl-n823-ir-breakout)
+* [PRPR15804 > Qwiic PL N823 IR Breakout](#prpr15804--qwiic-pl-n823-ir-breakout)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR15804 > https://github.com/sparkfunX/Qwiic PL N823 IR Breakout
+# PRPR15804 > Qwiic PL N823 IR Breakout
 
 - ID: PROJ-SPAR-15804-STAN-01
 - Hex ID: PRPR15804
-- Name: https://github.com/sparkfunX/Qwiic PL N823 IR Breakout
-- Description: https://github.com/sparkfunX/Qwiic PL N823 IR Breakout
+- Name: Qwiic PL N823 IR Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15804/STAN/01/
+- Description: Qwiic PL N823 IR Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-15804-STAN-01](http://oom.lt/PROJ-SPAR-15804-STAN-01)
 - Short Link: [http://oom.lt/PRPR15804](http://oom.lt/PRPR15804)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-15804-STAN-01|
 |Hex ID (short code)|hexID|PRPR15804|
-|name|name|https://github.com/sparkfunX/Qwiic PL N823 IR Breakout|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_PL-N823_IR_Breakout|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_PL-N823_IR_Breakout/Hardware/Qwiic PL-N823 IR Breakout.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_PL-N823_IR_Breakout/Hardware/Qwiic PL-N823 IR Breakout.sch|
+|name|name|Qwiic PL N823 IR Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_PL-N823_IR_Breakout|
+|gitName|gitName|Qwiic_PL-N823_IR_Breakout|
+|eagleBoard|eagleBoard|/Hardware/Qwiic PL-N823 IR Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic PL-N823 IR Breakout.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

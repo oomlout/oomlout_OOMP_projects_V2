@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8780-STAN-01
 - Hex ID: PRPR8780
 - Name: RS232 Shifter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8780/STAN/01/
 - Description: RS232 Shifter
 - Long Link: [http://oom.lt/PROJ-SPAR-8780-STAN-01](http://oom.lt/PROJ-SPAR-8780-STAN-01)
 - Short Link: [http://oom.lt/PRPR8780](http://oom.lt/PRPR8780)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2298-STAN-01
 - Hex ID: PRPR2298
 - Name: Adafruit PiTFT Plus 2.8 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2298/STAN/01/
 - Description: Adafruit PiTFT Plus 2.8 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2298-STAN-01](http://oom.lt/PROJ-ADAF-2298-STAN-01)
 - Short Link: [http://oom.lt/PRPR2298](http://oom.lt/PRPR2298)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11323-STAN-01
 - Hex ID: PRPR11323
 - Name: EL Sequencer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11323/STAN/01/
 - Description: EL Sequencer
 - Long Link: [http://oom.lt/PROJ-SPAR-11323-STAN-01](http://oom.lt/PROJ-SPAR-11323-STAN-01)
 - Short Link: [http://oom.lt/PRPR11323](http://oom.lt/PRPR11323)

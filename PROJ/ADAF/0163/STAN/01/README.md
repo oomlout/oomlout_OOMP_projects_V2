@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0163-STAN-01
 - Hex ID: PRPR0163
 - Name: Adafruit Analog Accelerometers PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0163/STAN/01/
 - Description: Adafruit Analog Accelerometers PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-0163-STAN-01](http://oom.lt/PROJ-ADAF-0163-STAN-01)
 - Short Link: [http://oom.lt/PRPR0163](http://oom.lt/PRPR0163)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Humidity SHTC3')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Humidity_SHTC3')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Humidity_SHTC3')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Humidity_SHTC3/Hardware/SHTC3 Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Humidity_SHTC3/Hardware/SHTC3 Breakout.sch')
+    newPart['name'].append('Qwiic Humidity SHTC3')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Humidity_SHTC3')
+    newPart['gitName'].append('Qwiic_Humidity_SHTC3')
+    newPart['eagleBoard'].append('/Hardware/SHTC3 Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/SHTC3 Breakout.sch')
 
 
     ######  Common

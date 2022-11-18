@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Safe Cracker')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Safe_Cracker')
-    newPart['gitName'].append('https://github.com/sparkfunX/Safe_Cracker')
-    newPart['eagleBoard'].append('sourceFiles/git/Safe_Cracker/Hardware/Safe Cracker Shield.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Safe_Cracker/Hardware/Safe Cracker Shield.sch')
+    newPart['name'].append('Safe Cracker')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Safe_Cracker')
+    newPart['gitName'].append('Safe_Cracker')
+    newPart['eagleBoard'].append('/Hardware/Safe Cracker Shield.brd')
+    newPart['eagleSchem'].append('/Hardware/Safe Cracker Shield.sch')
 
 
     ######  Common

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SOPA-0002-STAN-01
 - Hex ID: PRPR0002
 - Name: Bbq20 keyboard
+- Path: oomlout_OOMP_projects_V2/PROJ/SOPA/0002/STAN/01/
 - Description: Bbq20 keyboard
 - Long Link: [http://oom.lt/PROJ-SOPA-0002-STAN-01](http://oom.lt/PROJ-SOPA-0002-STAN-01)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)

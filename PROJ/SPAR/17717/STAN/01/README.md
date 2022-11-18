@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-17717-STAN-01
 - Hex ID: PRPR17717
 - Name: SparkFun Pro Micro RP2040
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/
 - Description: SparkFun Pro Micro RP2040
 - Long Link: [http://oom.lt/PROJ-SPAR-17717-STAN-01](http://oom.lt/PROJ-SPAR-17717-STAN-01)
 - Short Link: [http://oom.lt/PRPR17717](http://oom.lt/PRPR17717)

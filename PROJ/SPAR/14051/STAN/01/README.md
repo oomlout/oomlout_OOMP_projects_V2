@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14051-STAN-01
 - Hex ID: PRPR14051
 - Name: Wireless Joystick
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14051/STAN/01/
 - Description: Wireless Joystick
 - Long Link: [http://oom.lt/PROJ-SPAR-14051-STAN-01](http://oom.lt/PROJ-SPAR-14051-STAN-01)
 - Short Link: [http://oom.lt/PRPR14051](http://oom.lt/PRPR14051)

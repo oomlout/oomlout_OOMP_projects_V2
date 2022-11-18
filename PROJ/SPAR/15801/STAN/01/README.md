@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15801-STAN-01
 - Hex ID: PRPR15801
 - Name: Power Delivery Board USB C
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15801/STAN/01/
 - Description: Power Delivery Board USB C
 - Long Link: [http://oom.lt/PROJ-SPAR-15801-STAN-01](http://oom.lt/PROJ-SPAR-15801-STAN-01)
 - Short Link: [http://oom.lt/PRPR15801](http://oom.lt/PRPR15801)

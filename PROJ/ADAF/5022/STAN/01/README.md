@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5022-STAN-01
 - Hex ID: PRPR5022
 - Name: Adafruit Proximity Trinkey PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5022/STAN/01/
 - Description: Adafruit Proximity Trinkey PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5022-STAN-01](http://oom.lt/PROJ-ADAF-5022-STAN-01)
 - Short Link: [http://oom.lt/PRPR5022](http://oom.lt/PRPR5022)

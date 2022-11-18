@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3317-STAN-01
 - Hex ID: PRPR3317
 - Name: Adafruit VL53L0X ToF Distance Sensor PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3317/STAN/01/
 - Description: Adafruit VL53L0X ToF Distance Sensor PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3317-STAN-01](http://oom.lt/PROJ-ADAF-3317-STAN-01)
 - Short Link: [http://oom.lt/PRPR3317](http://oom.lt/PRPR3317)

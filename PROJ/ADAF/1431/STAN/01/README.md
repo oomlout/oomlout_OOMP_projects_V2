@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-1431-STAN-01
 - Hex ID: PRPR1431
 - Name: Adafruit 1.5inch Color OLED PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1431/STAN/01/
 - Description: Adafruit 1.5inch Color OLED PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1431-STAN-01](http://oom.lt/PROJ-ADAF-1431-STAN-01)
 - Short Link: [http://oom.lt/PRPR1431](http://oom.lt/PRPR1431)

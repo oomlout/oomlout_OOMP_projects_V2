@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13711-STAN-01
 - Hex ID: PRPR13711
 - Name: ESP8266 Thing Dev 4H
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/
 - Description: ESP8266 Thing Dev 4H
 - Long Link: [http://oom.lt/PROJ-SPAR-13711-STAN-01](http://oom.lt/PROJ-SPAR-13711-STAN-01)
 - Short Link: [http://oom.lt/PRPR13711](http://oom.lt/PRPR13711)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14531-STAN-01
 - Hex ID: PRPR14531
 - Name: Pioneer IoT Kit Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14531/STAN/01/
 - Description: Pioneer IoT Kit Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-14531-STAN-01](http://oom.lt/PROJ-SPAR-14531-STAN-01)
 - Short Link: [http://oom.lt/PRPR14531](http://oom.lt/PRPR14531)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3386-STAN-01
 - Hex ID: PRPR3386
 - Name: Adafruit PiRTC RTC for Raspberry Pi PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3386/STAN/01/
 - Description: Adafruit PiRTC RTC for Raspberry Pi PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3386-STAN-01](http://oom.lt/PROJ-ADAF-3386-STAN-01)
 - Short Link: [http://oom.lt/PRPR3386](http://oom.lt/PRPR3386)

@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SOPA-0009-STAN-01
 - Hex ID: PRPR0009
 - Name: Rp2040 stamp console
+- Path: oomlout_OOMP_projects_V2/PROJ/SOPA/0009/STAN/01/
 - Description: Rp2040 stamp console
 - Long Link: [http://oom.lt/PROJ-SOPA-0009-STAN-01](http://oom.lt/PROJ-SOPA-0009-STAN-01)
 - Short Link: [http://oom.lt/PRPR0009](http://oom.lt/PRPR0009)

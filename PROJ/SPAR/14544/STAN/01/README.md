@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14544-STAN-01
 - Hex ID: PRPR14544
 - Name: Current Sensor Breakout ACS723 Low Current
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14544/STAN/01/
 - Description: Current Sensor Breakout ACS723 Low Current
 - Long Link: [http://oom.lt/PROJ-SPAR-14544-STAN-01](http://oom.lt/PROJ-SPAR-14544-STAN-01)
 - Short Link: [http://oom.lt/PRPR14544](http://oom.lt/PRPR14544)

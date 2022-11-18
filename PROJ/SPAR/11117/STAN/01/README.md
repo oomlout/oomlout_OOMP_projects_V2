@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11117-STAN-01
 - Hex ID: PRPR11117
 - Name: 32U4 Breakout Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11117/STAN/01/
 - Description: 32U4 Breakout Board
 - Long Link: [http://oom.lt/PROJ-SPAR-11117-STAN-01](http://oom.lt/PROJ-SPAR-11117-STAN-01)
 - Short Link: [http://oom.lt/PRPR11117](http://oom.lt/PRPR11117)

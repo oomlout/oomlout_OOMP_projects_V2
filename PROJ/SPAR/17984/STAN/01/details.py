@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/IOTA ARTIC R2 Module')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/IOTA-ARTIC-R2-Module')
-    newPart['gitName'].append('https://github.com/sparkfunX/IOTA-ARTIC-R2-Module')
-    newPart['eagleBoard'].append('sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.sch')
+    newPart['name'].append('IOTA ARTIC R2 Module')
+    newPart['gitRepo'].append('https://github.com/sparkfun/IOTA-ARTIC-R2-Module')
+    newPart['gitName'].append('IOTA-ARTIC-R2-Module')
+    newPart['eagleBoard'].append('/Hardware/ARTIC_R2_Module.brd')
+    newPart['eagleSchem'].append('/Hardware/ARTIC_R2_Module.sch')
 
 
     ######  Common

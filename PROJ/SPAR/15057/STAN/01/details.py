@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic AS3935 Lightning Detector')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_AS3935_Lightning_Detector')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_AS3935_Lightning_Detector')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_AS3935_Lightning_Detector/Hardware/Qwiic_AS3935_Lightning_Detector.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_AS3935_Lightning_Detector/Hardware/Qwiic_AS3935_Lightning_Detector.sch')
+    newPart['name'].append('Qwiic AS3935 Lightning Detector')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_AS3935_Lightning_Detector')
+    newPart['gitName'].append('Qwiic_AS3935_Lightning_Detector')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_AS3935_Lightning_Detector.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_AS3935_Lightning_Detector.sch')
 
 
     ######  Common

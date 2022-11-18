@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9825-STAN-01
 - Hex ID: PRPR9825
 - Name: Pocket AVR Programmer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9825/STAN/01/
 - Description: Pocket AVR Programmer
 - Long Link: [http://oom.lt/PROJ-SPAR-9825-STAN-01](http://oom.lt/PROJ-SPAR-9825-STAN-01)
 - Short Link: [http://oom.lt/PRPR9825](http://oom.lt/PRPR9825)

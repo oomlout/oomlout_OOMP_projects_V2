@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3028-STAN-01
 - Hex ID: PRPR3028
 - Name: Adafruit DS3231 Precision RTC FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3028/STAN/01/
 - Description: Adafruit DS3231 Precision RTC FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3028-STAN-01](http://oom.lt/PROJ-ADAF-3028-STAN-01)
 - Short Link: [http://oom.lt/PRPR3028](http://oom.lt/PRPR3028)

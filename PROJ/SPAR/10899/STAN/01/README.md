@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10899-STAN-01
 - Hex ID: PRPR10899
 - Name: LilyTiny LilyTwinkle
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10899/STAN/01/
 - Description: LilyTiny LilyTwinkle
 - Long Link: [http://oom.lt/PROJ-SPAR-10899-STAN-01](http://oom.lt/PROJ-SPAR-10899-STAN-01)
 - Short Link: [http://oom.lt/PRPR10899](http://oom.lt/PRPR10899)

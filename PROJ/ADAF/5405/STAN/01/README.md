@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5405-STAN-01
 - Hex ID: PRPR5405
 - Name: Adafruit QT Py ESP32 C3 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5405/STAN/01/
 - Description: Adafruit QT Py ESP32 C3 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5405-STAN-01](http://oom.lt/PROJ-ADAF-5405-STAN-01)
 - Short Link: [http://oom.lt/PRPR5405](http://oom.lt/PRPR5405)

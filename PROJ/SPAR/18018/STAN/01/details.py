@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/SparkFun ESP32 Thing Plus C')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C')
-    newPart['gitName'].append('https://github.com/sparkfunX/SparkFun_ESP32_Thing_Plus_C')
-    newPart['eagleBoard'].append('sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/SparkFun_ESP32_Thing_Plus_C/Hardware/SparkFun ESP32 Thing Plus C.sch')
+    newPart['name'].append('SparkFun ESP32 Thing Plus C')
+    newPart['gitRepo'].append('https://github.com/sparkfun/SparkFun_ESP32_Thing_Plus_C')
+    newPart['gitName'].append('SparkFun_ESP32_Thing_Plus_C')
+    newPart['eagleBoard'].append('/Hardware/SparkFun ESP32 Thing Plus C.brd')
+    newPart['eagleSchem'].append('/Hardware/SparkFun ESP32 Thing Plus C.sch')
 
 
     ######  Common

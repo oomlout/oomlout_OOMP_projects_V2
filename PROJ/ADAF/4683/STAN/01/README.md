@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4683-STAN-01
 - Hex ID: PRPR4683
 - Name: Adafruit MPM3610 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4683/STAN/01/
 - Description: Adafruit MPM3610 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4683-STAN-01](http://oom.lt/PROJ-ADAF-4683-STAN-01)
 - Short Link: [http://oom.lt/PRPR4683](http://oom.lt/PRPR4683)

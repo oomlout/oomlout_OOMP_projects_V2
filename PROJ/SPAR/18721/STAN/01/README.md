@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18721-STAN-01
 - Hex ID: PRPR18721
 - Name: RP2040 mikroBUS Dev Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18721/STAN/01/
 - Description: RP2040 mikroBUS Dev Board
 - Long Link: [http://oom.lt/PROJ-SPAR-18721-STAN-01](http://oom.lt/PROJ-SPAR-18721-STAN-01)
 - Short Link: [http://oom.lt/PRPR18721](http://oom.lt/PRPR18721)

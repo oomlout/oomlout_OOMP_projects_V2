@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13684-STAN-01
 - Hex ID: PRPR13684
 - Name: MyoWare Power Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13684/STAN/01/
 - Description: MyoWare Power Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-13684-STAN-01](http://oom.lt/PROJ-SPAR-13684-STAN-01)
 - Short Link: [http://oom.lt/PRPR13684](http://oom.lt/PRPR13684)

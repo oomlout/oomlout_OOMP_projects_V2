@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13284-STAN-01
 - Hex ID: PRPR13284
 - Name: LSM9DS1 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13284/STAN/01/
 - Description: LSM9DS1 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-13284-STAN-01](http://oom.lt/PROJ-SPAR-13284-STAN-01)
 - Short Link: [http://oom.lt/PRPR13284](http://oom.lt/PRPR13284)

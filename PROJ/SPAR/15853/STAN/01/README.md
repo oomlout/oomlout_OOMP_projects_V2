@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15853-STAN-01
 - Hex ID: PRPR15853
 - Name: Qwiic FM Transceiver Si4721
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15853/STAN/01/
 - Description: Qwiic FM Transceiver Si4721
 - Long Link: [http://oom.lt/PROJ-SPAR-15853-STAN-01](http://oom.lt/PROJ-SPAR-15853-STAN-01)
 - Short Link: [http://oom.lt/PRPR15853](http://oom.lt/PRPR15853)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11058-STAN-01
 - Hex ID: PRPR11058
 - Name: Venus GPS SMA Connector
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11058/STAN/01/
 - Description: Venus GPS SMA Connector
 - Long Link: [http://oom.lt/PROJ-SPAR-11058-STAN-01](http://oom.lt/PROJ-SPAR-11058-STAN-01)
 - Short Link: [http://oom.lt/PRPR11058](http://oom.lt/PRPR11058)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13144-STAN-01
 - Hex ID: PRPR13144
 - Name: Touch Potentiometer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13144/STAN/01/
 - Description: Touch Potentiometer
 - Long Link: [http://oom.lt/PROJ-SPAR-13144-STAN-01](http://oom.lt/PROJ-SPAR-13144-STAN-01)
 - Short Link: [http://oom.lt/PRPR13144](http://oom.lt/PRPR13144)

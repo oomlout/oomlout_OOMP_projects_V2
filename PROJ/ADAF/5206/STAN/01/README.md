@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5206-STAN-01
 - Hex ID: PRPR5206
 - Name: Adafruit 1.69in 280x240 Round Rectangle TFT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5206/STAN/01/
 - Description: Adafruit 1.69in 280x240 Round Rectangle TFT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5206-STAN-01](http://oom.lt/PROJ-ADAF-5206-STAN-01)
 - Short Link: [http://oom.lt/PRPR5206](http://oom.lt/PRPR5206)

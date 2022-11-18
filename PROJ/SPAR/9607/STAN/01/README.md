@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-9607-STAN-01
 - Hex ID: PRPR9607
 - Name: SM5100B Cellular Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9607/STAN/01/
 - Description: SM5100B Cellular Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-9607-STAN-01](http://oom.lt/PROJ-SPAR-9607-STAN-01)
 - Short Link: [http://oom.lt/PRPR9607](http://oom.lt/PRPR9607)

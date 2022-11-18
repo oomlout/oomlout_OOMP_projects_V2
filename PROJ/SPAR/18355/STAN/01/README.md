@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18355-STAN-01
 - Hex ID: PRPR18355
 - Name: Qwiic EEPROM Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18355/STAN/01/
 - Description: Qwiic EEPROM Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-18355-STAN-01](http://oom.lt/PROJ-SPAR-18355-STAN-01)
 - Short Link: [http://oom.lt/PRPR18355](http://oom.lt/PRPR18355)

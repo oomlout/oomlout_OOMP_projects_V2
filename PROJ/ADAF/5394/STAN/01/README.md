@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5394-STAN-01
 - Hex ID: PRPR5394
 - Name: Adafruit 1.9in 320x170 Color IPS TFT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5394/STAN/01/
 - Description: Adafruit 1.9in 320x170 Color IPS TFT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5394-STAN-01](http://oom.lt/PROJ-ADAF-5394-STAN-01)
 - Short Link: [http://oom.lt/PRPR5394](http://oom.lt/PRPR5394)

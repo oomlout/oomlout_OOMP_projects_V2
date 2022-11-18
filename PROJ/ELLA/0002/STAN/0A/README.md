@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ELLA-0002-STAN-0A
 - Hex ID: PRPR0002
 - Name: Zoe Rev A
+- Path: oomlout_OOMP_projects_V2/PROJ/ELLA/0002/STAN/0A/
 - Description: Zoe Rev A
 - Long Link: [http://oom.lt/PROJ-ELLA-0002-STAN-0A](http://oom.lt/PROJ-ELLA-0002-STAN-0A)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)

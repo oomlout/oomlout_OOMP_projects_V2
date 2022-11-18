@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11736-STAN-01
 - Hex ID: PRPR11736
 - Name: FT231X Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11736/STAN/01/
 - Description: FT231X Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11736-STAN-01](http://oom.lt/PROJ-SPAR-11736-STAN-01)
 - Short Link: [http://oom.lt/PRPR11736](http://oom.lt/PRPR11736)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4333-STAN-01
 - Hex ID: PRPR4333
 - Name: Adafruit Circuit Playground Bluefruit PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4333/STAN/01/
 - Description: Adafruit Circuit Playground Bluefruit PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4333-STAN-01](http://oom.lt/PROJ-ADAF-4333-STAN-01)
 - Short Link: [http://oom.lt/PRPR4333](http://oom.lt/PRPR4333)

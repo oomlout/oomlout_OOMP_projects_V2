@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1430-STAN-01
 - Hex ID: PRPR1430
 - Name: Adafruit NeoPixel Shield PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1430/STAN/01/
 - Description: Adafruit NeoPixel Shield PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1430-STAN-01](http://oom.lt/PROJ-ADAF-1430-STAN-01)
 - Short Link: [http://oom.lt/PRPR1430](http://oom.lt/PRPR1430)

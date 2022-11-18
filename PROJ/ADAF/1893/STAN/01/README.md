@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1893-STAN-01
 - Hex ID: PRPR1893
 - Name: Adafruit MPL3115A2 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1893/STAN/01/
 - Description: Adafruit MPL3115A2 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1893-STAN-01](http://oom.lt/PROJ-ADAF-1893-STAN-01)
 - Short Link: [http://oom.lt/PRPR1893](http://oom.lt/PRPR1893)

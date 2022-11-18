@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-20168-STAN-01
 - Hex ID: PRPR20168
 - Name: SparkFun Thing Plus ESP32 WROOM C
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/20168/STAN/01/
 - Description: SparkFun Thing Plus ESP32 WROOM C
 - Long Link: [http://oom.lt/PROJ-SPAR-20168-STAN-01](http://oom.lt/PROJ-SPAR-20168-STAN-01)
 - Short Link: [http://oom.lt/PRPR20168](http://oom.lt/PRPR20168)

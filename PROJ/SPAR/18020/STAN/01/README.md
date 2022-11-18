@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18020-STAN-01
 - Hex ID: PRPR18020
 - Name: SparkFun Qwiic 6DoF LSM6DSO
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18020/STAN/01/
 - Description: SparkFun Qwiic 6DoF LSM6DSO
 - Long Link: [http://oom.lt/PROJ-SPAR-18020-STAN-01](http://oom.lt/PROJ-SPAR-18020-STAN-01)
 - Short Link: [http://oom.lt/PRPR18020](http://oom.lt/PRPR18020)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/MP3 Breakout WT2003S')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/MP3_Breakout_WT2003S')
-    newPart['gitName'].append('https://github.com/sparkfunX/MP3_Breakout_WT2003S')
-    newPart['eagleBoard'].append('sourceFiles/git/MP3_Breakout_WT2003S/Hardware/MP3 Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/MP3_Breakout_WT2003S/Hardware/MP3 Breakout.sch')
+    newPart['name'].append('MP3 Breakout WT2003S')
+    newPart['gitRepo'].append('https://github.com/sparkfun/MP3_Breakout_WT2003S')
+    newPart['gitName'].append('MP3_Breakout_WT2003S')
+    newPart['eagleBoard'].append('/Hardware/MP3 Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/MP3 Breakout.sch')
 
 
     ######  Common

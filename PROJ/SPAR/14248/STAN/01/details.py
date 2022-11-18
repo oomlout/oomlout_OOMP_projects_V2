@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Accelerometer MMA8452Q')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Accelerometer-MMA8452Q')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Accelerometer-MMA8452Q')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Accelerometer-MMA8452Q/Hardware/Qwiic_Accelerometer-MMA8452Q.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Accelerometer-MMA8452Q/Hardware/Qwiic_Accelerometer-MMA8452Q.sch')
+    newPart['name'].append('Qwiic Accelerometer MMA8452Q')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Accelerometer-MMA8452Q')
+    newPart['gitName'].append('Qwiic_Accelerometer-MMA8452Q')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Accelerometer-MMA8452Q.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Accelerometer-MMA8452Q.sch')
 
 
     ######  Common

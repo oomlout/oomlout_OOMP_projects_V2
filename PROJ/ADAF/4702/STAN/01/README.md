@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4702-STAN-01
 - Hex ID: PRPR4702
 - Name: Adafruit RGB Matrix FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4702/STAN/01/
 - Description: Adafruit RGB Matrix FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4702-STAN-01](http://oom.lt/PROJ-ADAF-4702-STAN-01)
 - Short Link: [http://oom.lt/PRPR4702](http://oom.lt/PRPR4702)

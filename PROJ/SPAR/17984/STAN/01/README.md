@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17984 > https://github.com/sparkfunX/IOTA ARTIC R2 Module](#prpr17984--httpsgithubcomsparkfunxiota-artic-r2-module)
+* [PRPR17984 > IOTA ARTIC R2 Module](#prpr17984--iota-artic-r2-module)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17984 > https://github.com/sparkfunX/IOTA ARTIC R2 Module
+# PRPR17984 > IOTA ARTIC R2 Module
 
 - ID: PROJ-SPAR-17984-STAN-01
 - Hex ID: PRPR17984
-- Name: https://github.com/sparkfunX/IOTA ARTIC R2 Module
-- Description: https://github.com/sparkfunX/IOTA ARTIC R2 Module
+- Name: IOTA ARTIC R2 Module
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17984/STAN/01/
+- Description: IOTA ARTIC R2 Module
 - Long Link: [http://oom.lt/PROJ-SPAR-17984-STAN-01](http://oom.lt/PROJ-SPAR-17984-STAN-01)
 - Short Link: [http://oom.lt/PRPR17984](http://oom.lt/PRPR17984)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17984-STAN-01|
 |Hex ID (short code)|hexID|PRPR17984|
-|name|name|https://github.com/sparkfunX/IOTA ARTIC R2 Module|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/IOTA-ARTIC-R2-Module|
-|gitName|gitName|https://github.com/sparkfunX/IOTA-ARTIC-R2-Module|
-|eagleBoard|eagleBoard|sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/IOTA-ARTIC-R2-Module/Hardware/ARTIC_R2_Module.sch|
+|name|name|IOTA ARTIC R2 Module|
+|gitRepo|gitRepo|https://github.com/sparkfun/IOTA-ARTIC-R2-Module|
+|gitName|gitName|IOTA-ARTIC-R2-Module|
+|eagleBoard|eagleBoard|/Hardware/ARTIC_R2_Module.brd|
+|eagleSchem|eagleSchem|/Hardware/ARTIC_R2_Module.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

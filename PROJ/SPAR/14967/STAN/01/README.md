@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14967-STAN-01
 - Hex ID: PRPR14967
 - Name: LuMini 1 Inch
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14967/STAN/01/
 - Description: LuMini 1 Inch
 - Long Link: [http://oom.lt/PROJ-SPAR-14967-STAN-01](http://oom.lt/PROJ-SPAR-14967-STAN-01)
 - Short Link: [http://oom.lt/PRPR14967](http://oom.lt/PRPR14967)

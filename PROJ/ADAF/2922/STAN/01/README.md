@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2922-STAN-01
 - Hex ID: PRPR2922
 - Name: Adafruit Adalogger FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2922/STAN/01/
 - Description: Adafruit Adalogger FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2922-STAN-01](http://oom.lt/PROJ-ADAF-2922-STAN-01)
 - Short Link: [http://oom.lt/PRPR2922](http://oom.lt/PRPR2922)

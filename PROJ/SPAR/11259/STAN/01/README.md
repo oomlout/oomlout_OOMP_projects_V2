@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11259-STAN-01
 - Hex ID: PRPR11259
 - Name: LilyPad Power Supply
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11259/STAN/01/
 - Description: LilyPad Power Supply
 - Long Link: [http://oom.lt/PROJ-SPAR-11259-STAN-01](http://oom.lt/PROJ-SPAR-11259-STAN-01)
 - Short Link: [http://oom.lt/PRPR11259](http://oom.lt/PRPR11259)

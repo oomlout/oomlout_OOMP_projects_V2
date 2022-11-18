@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-17743-STAN-01
 - Hex ID: PRPR17743
 - Name: ESP32 S2 Thing Plus
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17743/STAN/01/
 - Description: ESP32 S2 Thing Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-17743-STAN-01](http://oom.lt/PROJ-SPAR-17743-STAN-01)
 - Short Link: [http://oom.lt/PRPR17743](http://oom.lt/PRPR17743)

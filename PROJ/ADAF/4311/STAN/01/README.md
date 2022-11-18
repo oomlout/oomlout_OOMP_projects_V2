@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4311-STAN-01
 - Hex ID: PRPR4311
 - Name: Adafruit 2.0 inch 240x320 TFT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4311/STAN/01/
 - Description: Adafruit 2.0 inch 240x320 TFT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4311-STAN-01](http://oom.lt/PROJ-ADAF-4311-STAN-01)
 - Short Link: [http://oom.lt/PRPR4311](http://oom.lt/PRPR4311)

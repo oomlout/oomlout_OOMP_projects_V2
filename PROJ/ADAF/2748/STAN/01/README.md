@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2748-STAN-01
 - Hex ID: PRPR2748
 - Name: Adafruit ALS PT19 Sensor Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2748/STAN/01/
 - Description: Adafruit ALS PT19 Sensor Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2748-STAN-01](http://oom.lt/PROJ-ADAF-2748-STAN-01)
 - Short Link: [http://oom.lt/PRPR2748](http://oom.lt/PRPR2748)

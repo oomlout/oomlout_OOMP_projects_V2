@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1500-STAN-01
 - Hex ID: PRPR1500
 - Name: Adafruit Trinket PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1500/STAN/01/
 - Description: Adafruit Trinket PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1500-STAN-01](http://oom.lt/PROJ-ADAF-1500-STAN-01)
 - Short Link: [http://oom.lt/PRPR1500](http://oom.lt/PRPR1500)

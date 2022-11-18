@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15444-STAN-01
 - Hex ID: PRPR15444
 - Name: RedBoard Artemis
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15444/STAN/01/
 - Description: RedBoard Artemis
 - Long Link: [http://oom.lt/PROJ-SPAR-15444-STAN-01](http://oom.lt/PROJ-SPAR-15444-STAN-01)
 - Short Link: [http://oom.lt/PRPR15444](http://oom.lt/PRPR15444)

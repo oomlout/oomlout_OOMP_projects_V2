@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Time of Flight TMF8801')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Time-of-Flight-TMF8801')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Time-of-Flight-TMF8801')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Time-of-Flight-TMF8801/Hardware/Qwiic_TMF8801.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Time-of-Flight-TMF8801/Hardware/Qwiic_TMF8801.sch')
+    newPart['name'].append('Qwiic Time of Flight TMF8801')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Time-of-Flight-TMF8801')
+    newPart['gitName'].append('Qwiic_Time-of-Flight-TMF8801')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_TMF8801.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_TMF8801.sch')
 
 
     ######  Common

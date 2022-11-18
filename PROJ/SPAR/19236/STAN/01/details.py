@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Satellite Transceiver Breakout  Swarm M138')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138')
-    newPart['gitName'].append('https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138')
-    newPart['eagleBoard'].append('sourceFiles/git/Satellite_Transceiver_Breakout__Swarm_M138/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Satellite_Transceiver_Breakout__Swarm_M138/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.sch')
+    newPart['name'].append('Satellite Transceiver Breakout  Swarm M138')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Satellite_Transceiver_Breakout__Swarm_M138')
+    newPart['gitName'].append('Satellite_Transceiver_Breakout__Swarm_M138')
+    newPart['eagleBoard'].append('/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.brd')
+    newPart['eagleSchem'].append('/Hardware/Satellite_Transceiver_Breakout__Swarm_M138.sch')
 
 
     ######  Common

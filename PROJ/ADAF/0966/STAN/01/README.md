@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0966-STAN-01
 - Hex ID: PRPR0966
 - Name: Adafruit Low profile microSD to SD Adapter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0966/STAN/01/
 - Description: Adafruit Low profile microSD to SD Adapter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0966-STAN-01](http://oom.lt/PROJ-ADAF-0966-STAN-01)
 - Short Link: [http://oom.lt/PRPR0966](http://oom.lt/PRPR0966)

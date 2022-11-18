@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13099-STAN-01
 - Hex ID: PRPR13099
 - Name: Rotary Switch Potentiometer
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13099/STAN/01/
 - Description: Rotary Switch Potentiometer
 - Long Link: [http://oom.lt/PROJ-SPAR-13099-STAN-01](http://oom.lt/PROJ-SPAR-13099-STAN-01)
 - Short Link: [http://oom.lt/PRPR13099](http://oom.lt/PRPR13099)

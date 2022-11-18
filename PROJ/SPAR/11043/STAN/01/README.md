@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11043-STAN-01
 - Hex ID: PRPR11043
 - Name: fabFM Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11043/STAN/01/
 - Description: fabFM Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-11043-STAN-01](http://oom.lt/PROJ-SPAR-11043-STAN-01)
 - Short Link: [http://oom.lt/PRPR11043](http://oom.lt/PRPR11043)

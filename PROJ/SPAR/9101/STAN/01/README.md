@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9101-STAN-01
 - Hex ID: PRPR9101
 - Name: LilyPad Protoboard Large
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9101/STAN/01/
 - Description: LilyPad Protoboard Large
 - Long Link: [http://oom.lt/PROJ-SPAR-9101-STAN-01](http://oom.lt/PROJ-SPAR-9101-STAN-01)
 - Short Link: [http://oom.lt/PRPR9101](http://oom.lt/PRPR9101)

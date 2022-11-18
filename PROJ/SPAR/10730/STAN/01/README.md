@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10730-STAN-01
 - Hex ID: PRPR10730
 - Name: LilyPad Coin Cell Battery Holder 20mm
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10730/STAN/01/
 - Description: LilyPad Coin Cell Battery Holder 20mm
 - Long Link: [http://oom.lt/PROJ-SPAR-10730-STAN-01](http://oom.lt/PROJ-SPAR-10730-STAN-01)
 - Short Link: [http://oom.lt/PRPR10730](http://oom.lt/PRPR10730)

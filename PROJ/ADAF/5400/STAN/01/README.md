@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5400-STAN-01
 - Hex ID: PRPR5400
 - Name: Adafruit ESP32 Feather V2 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5400/STAN/01/
 - Description: Adafruit ESP32 Feather V2 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5400-STAN-01](http://oom.lt/PROJ-ADAF-5400-STAN-01)
 - Short Link: [http://oom.lt/PRPR5400](http://oom.lt/PRPR5400)

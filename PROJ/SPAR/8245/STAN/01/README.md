@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8245-STAN-01
 - Hex ID: PRPR8245
 - Name: Serial USB Adapter Nike iPod
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8245/STAN/01/
 - Description: Serial USB Adapter Nike iPod
 - Long Link: [http://oom.lt/PROJ-SPAR-8245-STAN-01](http://oom.lt/PROJ-SPAR-8245-STAN-01)
 - Short Link: [http://oom.lt/PRPR8245](http://oom.lt/PRPR8245)

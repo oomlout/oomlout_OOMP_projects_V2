@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11818-STAN-01
 - Hex ID: PRPR11818
 - Name: GPS Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11818/STAN/01/
 - Description: GPS Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11818-STAN-01](http://oom.lt/PROJ-SPAR-11818-STAN-01)
 - Short Link: [http://oom.lt/PRPR11818](http://oom.lt/PRPR11818)

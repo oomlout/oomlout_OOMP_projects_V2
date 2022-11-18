@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0284-STAN-01
 - Hex ID: PRPR0284
 - Name: Adafruit FTDI Friend PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0284/STAN/01/
 - Description: Adafruit FTDI Friend PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0284-STAN-01](http://oom.lt/PROJ-ADAF-0284-STAN-01)
 - Short Link: [http://oom.lt/PRPR0284](http://oom.lt/PRPR0284)

@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18976 > https://github.com/sparkfunX/SparkX smol Environmental](#prpr18976--httpsgithubcomsparkfunxsparkx-smol-environmental)
+* [PRPR18976 > SparkX smol Environmental](#prpr18976--sparkx-smol-environmental)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18976 > https://github.com/sparkfunX/SparkX smol Environmental
+# PRPR18976 > SparkX smol Environmental
 
 - ID: PROJ-SPAR-18976-STAN-01
 - Hex ID: PRPR18976
-- Name: https://github.com/sparkfunX/SparkX smol Environmental
-- Description: https://github.com/sparkfunX/SparkX smol Environmental
+- Name: SparkX smol Environmental
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18976/STAN/01/
+- Description: SparkX smol Environmental
 - Long Link: [http://oom.lt/PROJ-SPAR-18976-STAN-01](http://oom.lt/PROJ-SPAR-18976-STAN-01)
 - Short Link: [http://oom.lt/PRPR18976](http://oom.lt/PRPR18976)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18976-STAN-01|
 |Hex ID (short code)|hexID|PRPR18976|
-|name|name|https://github.com/sparkfunX/SparkX smol Environmental|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_Environmental|
-|gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Environmental|
-|eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Environmental/Hardware/SparkX_smol_Environmental.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Environmental/Hardware/SparkX_smol_Environmental.sch|
+|name|name|SparkX smol Environmental|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkX_smol_Environmental|
+|gitName|gitName|SparkX_smol_Environmental|
+|eagleBoard|eagleBoard|/Hardware/SparkX_smol_Environmental.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkX_smol_Environmental.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

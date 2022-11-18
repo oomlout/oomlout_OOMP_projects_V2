@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15191-STAN-01
 - Hex ID: PRPR15191
 - Name: SparkFun Qwiic RFID ID XXLA
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15191/STAN/01/
 - Description: SparkFun Qwiic RFID ID XXLA
 - Long Link: [http://oom.lt/PROJ-SPAR-15191-STAN-01](http://oom.lt/PROJ-SPAR-15191-STAN-01)
 - Short Link: [http://oom.lt/PRPR15191](http://oom.lt/PRPR15191)

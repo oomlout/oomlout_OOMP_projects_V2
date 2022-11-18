@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10588-STAN-01
 - Hex ID: PRPR10588
 - Name: Audio Jack Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10588/STAN/01/
 - Description: Audio Jack Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-10588-STAN-01](http://oom.lt/PROJ-SPAR-10588-STAN-01)
 - Short Link: [http://oom.lt/PRPR10588](http://oom.lt/PRPR10588)

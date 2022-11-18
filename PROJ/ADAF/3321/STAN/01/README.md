@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3321-STAN-01
 - Hex ID: PRPR3321
 - Name: Adafruit Mini TFT with Joystick Featherwing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3321/STAN/01/
 - Description: Adafruit Mini TFT with Joystick Featherwing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3321-STAN-01](http://oom.lt/PROJ-ADAF-3321-STAN-01)
 - Short Link: [http://oom.lt/PRPR3321](http://oom.lt/PRPR3321)

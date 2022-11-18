@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Ambient Light Sensor VEML7700')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Ambient_Light_Sensor_VEML7700')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Ambient_Light_Sensor_VEML7700')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Ambient_Light_Sensor_VEML7700/Hardware/Qwiic_VEML7700.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Ambient_Light_Sensor_VEML7700/Hardware/Qwiic_VEML7700.sch')
+    newPart['name'].append('Qwiic Ambient Light Sensor VEML7700')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Ambient_Light_Sensor_VEML7700')
+    newPart['gitName'].append('Qwiic_Ambient_Light_Sensor_VEML7700')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_VEML7700.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_VEML7700.sch')
 
 
     ######  Common

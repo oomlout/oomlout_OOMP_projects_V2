@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0091-STAN-01
 - Hex ID: PRPR0091
 - Name: Adafruit USB Boarduino PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0091/STAN/01/
 - Description: Adafruit USB Boarduino PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0091-STAN-01](http://oom.lt/PROJ-ADAF-0091-STAN-01)
 - Short Link: [http://oom.lt/PRPR0091](http://oom.lt/PRPR0091)

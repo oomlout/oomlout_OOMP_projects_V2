@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18774-STAN-01
 - Hex ID: PRPR18774
 - Name: SparkFun GNSS Timing ZED F9T
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18774/STAN/01/
 - Description: SparkFun GNSS Timing ZED F9T
 - Long Link: [http://oom.lt/PROJ-SPAR-18774-STAN-01](http://oom.lt/PROJ-SPAR-18774-STAN-01)
 - Short Link: [http://oom.lt/PRPR18774](http://oom.lt/PRPR18774)

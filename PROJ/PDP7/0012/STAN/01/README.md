@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-PDP7-0012-STAN-01
 - Hex ID: PRPR0012
 - Name: Sixlayer
+- Path: oomlout_OOMP_projects_V2/PROJ/PDP7/0012/STAN/01/
 - Description: Sixlayer
 - Long Link: [http://oom.lt/PROJ-PDP7-0012-STAN-01](http://oom.lt/PROJ-PDP7-0012-STAN-01)
 - Short Link: [http://oom.lt/PRPR0012](http://oom.lt/PRPR0012)

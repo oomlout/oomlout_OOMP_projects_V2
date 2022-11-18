@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-19764-STAN-01
 - Hex ID: PRPR19764
 - Name: SparkFun Qwiic 6DoF ISM330DHCX
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/19764/STAN/01/
 - Description: SparkFun Qwiic 6DoF ISM330DHCX
 - Long Link: [http://oom.lt/PROJ-SPAR-19764-STAN-01](http://oom.lt/PROJ-SPAR-19764-STAN-01)
 - Short Link: [http://oom.lt/PRPR19764](http://oom.lt/PRPR19764)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9873-STAN-01
 - Hex ID: PRPR9873
 - Name: FTDI Basic Breakout 3.3V
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9873/STAN/01/
 - Description: FTDI Basic Breakout 3.3V
 - Long Link: [http://oom.lt/PROJ-SPAR-9873-STAN-01](http://oom.lt/PROJ-SPAR-9873-STAN-01)
 - Short Link: [http://oom.lt/PRPR9873](http://oom.lt/PRPR9873)

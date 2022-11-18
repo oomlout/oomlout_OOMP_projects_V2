@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5640-STAN-01
 - Hex ID: PRPR5640
 - Name: Adafruit Si5351A Clock Generator with STEMMA QT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5640/STAN/01/
 - Description: Adafruit Si5351A Clock Generator with STEMMA QT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5640-STAN-01](http://oom.lt/PROJ-ADAF-5640-STAN-01)
 - Short Link: [http://oom.lt/PRPR5640](http://oom.lt/PRPR5640)

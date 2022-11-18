@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-0114-STAN-01
 - Hex ID: PRPR0114
 - Name: Breadboard Power Supply 5V 3.3V
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0114/STAN/01/
 - Description: Breadboard Power Supply 5V 3.3V
 - Long Link: [http://oom.lt/PROJ-SPAR-0114-STAN-01](http://oom.lt/PROJ-SPAR-0114-STAN-01)
 - Short Link: [http://oom.lt/PRPR0114](http://oom.lt/PRPR0114)

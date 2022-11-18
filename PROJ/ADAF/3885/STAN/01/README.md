@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3885-STAN-01
 - Hex ID: PRPR3885
 - Name: Adafruit STEMMA Speaker PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3885/STAN/01/
 - Description: Adafruit STEMMA Speaker PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3885-STAN-01](http://oom.lt/PROJ-ADAF-3885-STAN-01)
 - Short Link: [http://oom.lt/PRPR3885](http://oom.lt/PRPR3885)

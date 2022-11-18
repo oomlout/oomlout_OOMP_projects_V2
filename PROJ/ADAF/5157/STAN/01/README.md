@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5157-STAN-01
 - Hex ID: PRPR5157
 - Name: Adafruit NeoKey Snap Apart PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5157/STAN/01/
 - Description: Adafruit NeoKey Snap Apart PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5157-STAN-01](http://oom.lt/PROJ-ADAF-5157-STAN-01)
 - Short Link: [http://oom.lt/PRPR5157](http://oom.lt/PRPR5157)
@@ -25,11 +26,6 @@ Contents
   
 [iBom.html](https://htmlpreview.github.io/?https://github.com/oomlout/oomlout_OOMP_projects_V2/blob/main/PROJ/ADAF/5157/STAN/01/ibom.html)
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
 
 ## Images
   

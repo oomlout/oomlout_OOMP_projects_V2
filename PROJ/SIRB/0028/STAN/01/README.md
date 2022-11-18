@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0028-STAN-01
 - Hex ID: PRPR0028
 - Name: CH340E SirUSB
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0028/STAN/01/
 - Description: CH340E SirUSB
 - Long Link: [http://oom.lt/PROJ-SIRB-0028-STAN-01](http://oom.lt/PROJ-SIRB-0028-STAN-01)
 - Short Link: [http://oom.lt/PRPR0028](http://oom.lt/PRPR0028)

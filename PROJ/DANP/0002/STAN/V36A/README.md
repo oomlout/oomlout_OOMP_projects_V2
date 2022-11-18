@@ -16,6 +16,7 @@ NO IMAGE
 - ID: PROJ-DANP-0002-STAN-V36A
 - Hex ID: PRPR0002
 - Name: Bus Pirate v36a
+- Path: oomlout_OOMP_projects_V2/PROJ/DANP/0002/STAN/V36A/
 - Description: Bus Pirate v36a
 - Long Link: [http://oom.lt/PROJ-DANP-0002-STAN-V36A](http://oom.lt/PROJ-DANP-0002-STAN-V36A)
 - Short Link: [http://oom.lt/PRPR0002](http://oom.lt/PRPR0002)

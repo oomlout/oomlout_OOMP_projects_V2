@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12037-STAN-01
 - Hex ID: PRPR12037
 - Name: Binary Blaster
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12037/STAN/01/
 - Description: Binary Blaster
 - Long Link: [http://oom.lt/PROJ-SPAR-12037-STAN-01](http://oom.lt/PROJ-SPAR-12037-STAN-01)
 - Short Link: [http://oom.lt/PRPR12037](http://oom.lt/PRPR12037)

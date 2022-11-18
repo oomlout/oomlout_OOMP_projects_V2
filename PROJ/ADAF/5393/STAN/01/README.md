@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5393-STAN-01
 - Hex ID: PRPR5393
 - Name: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5393/STAN/01/
 - Description: Adafruit 1.47in 320x172 Round Rectangle TFT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5393-STAN-01](http://oom.lt/PROJ-ADAF-5393-STAN-01)
 - Short Link: [http://oom.lt/PRPR5393](http://oom.lt/PRPR5393)

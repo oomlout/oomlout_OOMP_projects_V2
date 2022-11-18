@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Magnetic Imaging Tile')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Magnetic_Imaging_Tile')
-    newPart['gitName'].append('https://github.com/sparkfunX/Magnetic_Imaging_Tile')
-    newPart['eagleBoard'].append('sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Magnetic_Imaging_Tile/hardware/Magnetic-Imaging-Tile.sch')
+    newPart['name'].append('Magnetic Imaging Tile')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Magnetic_Imaging_Tile')
+    newPart['gitName'].append('Magnetic_Imaging_Tile')
+    newPart['eagleBoard'].append('/hardware/Magnetic-Imaging-Tile.brd')
+    newPart['eagleSchem'].append('/hardware/Magnetic-Imaging-Tile.sch')
 
 
     ######  Common

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2090-STAN-01
 - Hex ID: PRPR2090
 - Name: Adafruit 2.8 TFT with Capacitive Touch PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2090/STAN/01/
 - Description: Adafruit 2.8 TFT with Capacitive Touch PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2090-STAN-01](http://oom.lt/PROJ-ADAF-2090-STAN-01)
 - Short Link: [http://oom.lt/PRPR2090](http://oom.lt/PRPR2090)

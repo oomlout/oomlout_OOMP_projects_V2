@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14713-STAN-01
 - Hex ID: PRPR14713
 - Name: SAMD51 Thing Plus
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14713/STAN/01/
 - Description: SAMD51 Thing Plus
 - Long Link: [http://oom.lt/PROJ-SPAR-14713-STAN-01](http://oom.lt/PROJ-SPAR-14713-STAN-01)
 - Short Link: [http://oom.lt/PRPR14713](http://oom.lt/PRPR14713)

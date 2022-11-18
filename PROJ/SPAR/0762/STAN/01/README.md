@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0762-STAN-01
 - Hex ID: PRPR0762
 - Name: USB Bit Whacker 18F2553
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0762/STAN/01/
 - Description: USB Bit Whacker 18F2553
 - Long Link: [http://oom.lt/PROJ-SPAR-0762-STAN-01](http://oom.lt/PROJ-SPAR-0762-STAN-01)
 - Short Link: [http://oom.lt/PRPR0762](http://oom.lt/PRPR0762)

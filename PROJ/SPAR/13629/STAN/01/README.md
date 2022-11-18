@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13629-STAN-01
 - Hex ID: PRPR13629
 - Name: Photon IMU Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13629/STAN/01/
 - Description: Photon IMU Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-13629-STAN-01](http://oom.lt/PROJ-SPAR-13629-STAN-01)
 - Short Link: [http://oom.lt/PRPR13629](http://oom.lt/PRPR13629)

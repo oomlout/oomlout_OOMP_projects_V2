@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ELLA-0008-STAN-01
 - Hex ID: PRPR0008
 - Name: pic16-usb-module
+- Path: oomlout_OOMP_projects_V2/PROJ/ELLA/0008/STAN/01/
 - Description: pic16-usb-module
 - Long Link: [http://oom.lt/PROJ-ELLA-0008-STAN-01](http://oom.lt/PROJ-ELLA-0008-STAN-01)
 - Short Link: [http://oom.lt/PRPR0008](http://oom.lt/PRPR0008)

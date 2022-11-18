@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4000-STAN-01
 - Hex ID: PRPR4000
 - Name: Adafruit Metro M4 Express AirLift PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4000/STAN/01/
 - Description: Adafruit Metro M4 Express AirLift PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4000-STAN-01](http://oom.lt/PROJ-ADAF-4000-STAN-01)
 - Short Link: [http://oom.lt/PRPR4000](http://oom.lt/PRPR4000)

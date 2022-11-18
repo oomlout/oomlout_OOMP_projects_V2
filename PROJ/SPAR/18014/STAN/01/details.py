@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic USB Hub USB2514B')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_USB_Hub-USB2514B')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_USB_Hub-USB2514B')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_USB_Hub-USB2514B/Hardware/Qwiic-USB_Hub.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_USB_Hub-USB2514B/Hardware/Qwiic-USB_Hub.sch')
+    newPart['name'].append('Qwiic USB Hub USB2514B')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_USB_Hub-USB2514B')
+    newPart['gitName'].append('Qwiic_USB_Hub-USB2514B')
+    newPart['eagleBoard'].append('/Hardware/Qwiic-USB_Hub.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic-USB_Hub.sch')
 
 
     ######  Common

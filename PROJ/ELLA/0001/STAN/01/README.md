@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ELLA-0001-STAN-01
 - Hex ID: PRPR0001
 - Name: Zig A Zig Ah
+- Path: oomlout_OOMP_projects_V2/PROJ/ELLA/0001/STAN/01/
 - Description: Zig A Zig Ah
 - Long Link: [http://oom.lt/PROJ-ELLA-0001-STAN-01](http://oom.lt/PROJ-ELLA-0001-STAN-01)
 - Short Link: [http://oom.lt/PRPR0001](http://oom.lt/PRPR0001)

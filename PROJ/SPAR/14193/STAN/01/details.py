@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/CCS811 Air Quality Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/CCS811_Air_Quality_Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/CCS811_Air_Quality_Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/CCS811_Air_Quality_Breakout/Hardware/CSS811_CO2_TVOC_Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/CCS811_Air_Quality_Breakout/Hardware/CSS811_CO2_TVOC_Breakout.sch')
+    newPart['name'].append('CCS811 Air Quality Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/CCS811_Air_Quality_Breakout')
+    newPart['gitName'].append('CCS811_Air_Quality_Breakout')
+    newPart['eagleBoard'].append('/Hardware/CSS811_CO2_TVOC_Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/CSS811_CO2_TVOC_Breakout.sch')
 
 
     ######  Common

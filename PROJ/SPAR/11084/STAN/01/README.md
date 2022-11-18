@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11084-STAN-01
 - Hex ID: PRPR11084
 - Name: MPL3115A2 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11084/STAN/01/
 - Description: MPL3115A2 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-11084-STAN-01](http://oom.lt/PROJ-SPAR-11084-STAN-01)
 - Short Link: [http://oom.lt/PRPR11084](http://oom.lt/PRPR11084)

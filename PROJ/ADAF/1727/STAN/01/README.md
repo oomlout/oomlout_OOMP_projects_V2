@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1727-STAN-01
 - Hex ID: PRPR1727
 - Name: Adafruit MAX31850 thermocouple breakout board
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1727/STAN/01/
 - Description: Adafruit MAX31850 thermocouple breakout board
 - Long Link: [http://oom.lt/PROJ-ADAF-1727-STAN-01](http://oom.lt/PROJ-ADAF-1727-STAN-01)
 - Short Link: [http://oom.lt/PRPR1727](http://oom.lt/PRPR1727)

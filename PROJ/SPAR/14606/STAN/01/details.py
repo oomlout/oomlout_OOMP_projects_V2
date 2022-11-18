@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Flexible Grayscale OLED')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Flexible_Grayscale_OLED')
-    newPart['gitName'].append('https://github.com/sparkfunX/Flexible_Grayscale_OLED')
-    newPart['eagleBoard'].append('sourceFiles/git/Flexible_Grayscale_OLED/Hardware/1.81_Grayscale_OLED_Breakout.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Flexible_Grayscale_OLED/Hardware/1.81_Grayscale_OLED_Breakout.sch')
+    newPart['name'].append('Flexible Grayscale OLED')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Flexible_Grayscale_OLED')
+    newPart['gitName'].append('Flexible_Grayscale_OLED')
+    newPart['eagleBoard'].append('/Hardware/1.81_Grayscale_OLED_Breakout.brd')
+    newPart['eagleSchem'].append('/Hardware/1.81_Grayscale_OLED_Breakout.sch')
 
 
     ######  Common

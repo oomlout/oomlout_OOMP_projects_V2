@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3463-STAN-01
 - Hex ID: PRPR3463
 - Name: Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3463/STAN/01/
 - Description: Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3463-STAN-01](http://oom.lt/PROJ-ADAF-3463-STAN-01)
 - Short Link: [http://oom.lt/PRPR3463](http://oom.lt/PRPR3463)

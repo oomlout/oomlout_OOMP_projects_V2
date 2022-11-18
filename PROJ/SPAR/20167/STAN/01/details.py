@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/u blox ZED F9P NEO D9S Combo Breakout')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout')
-    newPart['gitName'].append('https://github.com/sparkfunX/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout')
-    newPart['eagleBoard'].append('sourceFiles/git/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout/Hardware/ZED-F9P_NEO-D9S_Combo.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout/Hardware/ZED-F9P_NEO-D9S_Combo.sch')
+    newPart['name'].append('u blox ZED F9P NEO D9S Combo Breakout')
+    newPart['gitRepo'].append('https://github.com/sparkfun/u-blox_ZED-F9P_NEO-D9S_Combo_Breakout')
+    newPart['gitName'].append('u-blox_ZED-F9P_NEO-D9S_Combo_Breakout')
+    newPart['eagleBoard'].append('/Hardware/ZED-F9P_NEO-D9S_Combo.brd')
+    newPart['eagleSchem'].append('/Hardware/ZED-F9P_NEO-D9S_Combo.sch')
 
 
     ######  Common

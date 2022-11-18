@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10705-STAN-01
 - Hex ID: PRPR10705
 - Name: MyDAQ Protoboard Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10705/STAN/01/
 - Description: MyDAQ Protoboard Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-10705-STAN-01](http://oom.lt/PROJ-SPAR-10705-STAN-01)
 - Short Link: [http://oom.lt/PRPR10705](http://oom.lt/PRPR10705)

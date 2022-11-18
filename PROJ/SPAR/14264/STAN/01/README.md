@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14264 > https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x](#prpr14264--httpsgithubcomsparkfunxqwiic-uv-sensor-zopt220x)
+* [PRPR14264 > Qwiic UV Sensor ZOPT220x](#prpr14264--qwiic-uv-sensor-zopt220x)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14264 > https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x
+# PRPR14264 > Qwiic UV Sensor ZOPT220x
 
 - ID: PROJ-SPAR-14264-STAN-01
 - Hex ID: PRPR14264
-- Name: https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x
-- Description: https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x
+- Name: Qwiic UV Sensor ZOPT220x
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14264/STAN/01/
+- Description: Qwiic UV Sensor ZOPT220x
 - Long Link: [http://oom.lt/PROJ-SPAR-14264-STAN-01](http://oom.lt/PROJ-SPAR-14264-STAN-01)
 - Short Link: [http://oom.lt/PRPR14264](http://oom.lt/PRPR14264)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14264-STAN-01|
 |Hex ID (short code)|hexID|PRPR14264|
-|name|name|https://github.com/sparkfunX/Qwiic UV Sensor ZOPT220x|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x|
-|gitName|gitName|https://github.com/sparkfunX/Qwiic_UV_Sensor-ZOPT220x|
-|eagleBoard|eagleBoard|sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Qwiic_UV_Sensor-ZOPT220x/Hardware/Qwiic UV Sensor - ZOPT220x.sch|
+|name|name|Qwiic UV Sensor ZOPT220x|
+|gitRepo|gitRepo|https://github.com/sparkfun/Qwiic_UV_Sensor-ZOPT220x|
+|gitName|gitName|Qwiic_UV_Sensor-ZOPT220x|
+|eagleBoard|eagleBoard|/Hardware/Qwiic UV Sensor - ZOPT220x.brd|
+|eagleSchem|eagleSchem|/Hardware/Qwiic UV Sensor - ZOPT220x.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

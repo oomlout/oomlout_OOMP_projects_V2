@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9168-STAN-01
 - Hex ID: PRPR9168
 - Name: On Screen Display Breakout MAX7456
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9168/STAN/01/
 - Description: On Screen Display Breakout MAX7456
 - Long Link: [http://oom.lt/PROJ-SPAR-9168-STAN-01](http://oom.lt/PROJ-SPAR-9168-STAN-01)
 - Short Link: [http://oom.lt/PRPR9168](http://oom.lt/PRPR9168)

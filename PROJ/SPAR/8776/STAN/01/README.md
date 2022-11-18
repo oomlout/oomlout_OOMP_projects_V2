@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8776-STAN-01
 - Hex ID: PRPR8776
 - Name: LilyPad Button Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8776/STAN/01/
 - Description: LilyPad Button Board
 - Long Link: [http://oom.lt/PROJ-SPAR-8776-STAN-01](http://oom.lt/PROJ-SPAR-8776-STAN-01)
 - Short Link: [http://oom.lt/PRPR8776](http://oom.lt/PRPR8776)

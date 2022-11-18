@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Distance VL53L1X')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Distance_VL53L1X')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Distance_VL53L1X')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Distance_VL53L1X/Hardware/Qwiic Distance Sensor - VL53L1X.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Distance_VL53L1X/Hardware/Qwiic Distance Sensor - VL53L1X.sch')
+    newPart['name'].append('Qwiic Distance VL53L1X')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Distance_VL53L1X')
+    newPart['gitName'].append('Qwiic_Distance_VL53L1X')
+    newPart['eagleBoard'].append('/Hardware/Qwiic Distance Sensor - VL53L1X.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic Distance Sensor - VL53L1X.sch')
 
 
     ######  Common

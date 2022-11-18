@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic GridEye')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_GridEye')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_GridEye')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_GridEye/Hardware/Qwiic_Grideye.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_GridEye/Hardware/Qwiic_Grideye.sch')
+    newPart['name'].append('Qwiic GridEye')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_GridEye')
+    newPart['gitName'].append('Qwiic_GridEye')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Grideye.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Grideye.sch')
 
 
     ######  Common

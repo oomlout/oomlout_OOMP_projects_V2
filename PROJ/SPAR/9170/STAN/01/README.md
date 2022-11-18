@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9170-STAN-01
 - Hex ID: PRPR9170
 - Name: Touch Screen Connector Breakout Nintendo DS
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9170/STAN/01/
 - Description: Touch Screen Connector Breakout Nintendo DS
 - Long Link: [http://oom.lt/PROJ-SPAR-9170-STAN-01](http://oom.lt/PROJ-SPAR-9170-STAN-01)
 - Short Link: [http://oom.lt/PRPR9170](http://oom.lt/PRPR9170)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14812-STAN-01
 - Hex ID: PRPR14812
 - Name: RedBoard Turbo
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14812/STAN/01/
 - Description: RedBoard Turbo
 - Long Link: [http://oom.lt/PROJ-SPAR-14812-STAN-01](http://oom.lt/PROJ-SPAR-14812-STAN-01)
 - Short Link: [http://oom.lt/PRPR14812](http://oom.lt/PRPR14812)

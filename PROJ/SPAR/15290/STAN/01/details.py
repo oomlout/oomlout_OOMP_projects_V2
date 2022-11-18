@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Keypad')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Keypad')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Keypad')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Keypad/Hardware/Qwiic_keypad.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Keypad/Hardware/Qwiic_keypad.sch')
+    newPart['name'].append('Qwiic Keypad')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Keypad')
+    newPart['gitName'].append('Qwiic_Keypad')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_keypad.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_keypad.sch')
 
 
     ######  Common

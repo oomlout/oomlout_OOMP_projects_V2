@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13687-STAN-01
 - Hex ID: PRPR13687
 - Name: MyoWare Cable Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13687/STAN/01/
 - Description: MyoWare Cable Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-13687-STAN-01](http://oom.lt/PROJ-SPAR-13687-STAN-01)
 - Short Link: [http://oom.lt/PRPR13687](http://oom.lt/PRPR13687)

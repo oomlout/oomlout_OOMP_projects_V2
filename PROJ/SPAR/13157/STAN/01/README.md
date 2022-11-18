@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13157-STAN-01
 - Hex ID: PRPR13157
 - Name: Breadboard Power Supply Stick 3.3V 1.8V
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13157/STAN/01/
 - Description: Breadboard Power Supply Stick 3.3V 1.8V
 - Long Link: [http://oom.lt/PROJ-SPAR-13157-STAN-01](http://oom.lt/PROJ-SPAR-13157-STAN-01)
 - Short Link: [http://oom.lt/PRPR13157](http://oom.lt/PRPR13157)

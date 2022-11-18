@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/ePaper')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/ePaper')
-    newPart['gitName'].append('https://github.com/sparkfunX/ePaper')
-    newPart['eagleBoard'].append('sourceFiles/git/ePaper/1.54in display/hardware/1.54in.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/ePaper/1.54in display/hardware/1.54in.sch')
+    newPart['name'].append('ePaper')
+    newPart['gitRepo'].append('https://github.com/sparkfun/ePaper')
+    newPart['gitName'].append('ePaper')
+    newPart['eagleBoard'].append('/1.54in display/hardware/1.54in.brd')
+    newPart['eagleSchem'].append('/1.54in display/hardware/1.54in.sch')
 
 
     ######  Common

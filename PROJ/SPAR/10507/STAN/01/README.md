@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-10507-STAN-01
 - Hex ID: PRPR10507
 - Name: Quadstepper Motor Driver
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10507/STAN/01/
 - Description: Quadstepper Motor Driver
 - Long Link: [http://oom.lt/PROJ-SPAR-10507-STAN-01](http://oom.lt/PROJ-SPAR-10507-STAN-01)
 - Short Link: [http://oom.lt/PRPR10507](http://oom.lt/PRPR10507)

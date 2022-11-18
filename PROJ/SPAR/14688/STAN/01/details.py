@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Pressure MS5637')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Pressure-MS5637')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Pressure-MS5637')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Pressure-MS5637/Hardware/Qwiic Pressure Sensor - MS5637.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Pressure-MS5637/Hardware/Qwiic Pressure Sensor - MS5637.sch')
+    newPart['name'].append('Qwiic Pressure MS5637')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Pressure-MS5637')
+    newPart['gitName'].append('Qwiic_Pressure-MS5637')
+    newPart['eagleBoard'].append('/Hardware/Qwiic Pressure Sensor - MS5637.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic Pressure Sensor - MS5637.sch')
 
 
     ######  Common

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3573-STAN-01
 - Hex ID: PRPR3573
 - Name: Adafruit TPL5111 Reset Enable Timer PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3573/STAN/01/
 - Description: Adafruit TPL5111 Reset Enable Timer PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3573-STAN-01](http://oom.lt/PROJ-ADAF-3573-STAN-01)
 - Short Link: [http://oom.lt/PRPR3573](http://oom.lt/PRPR3573)

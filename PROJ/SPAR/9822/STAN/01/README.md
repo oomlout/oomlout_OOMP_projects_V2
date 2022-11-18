@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9822-STAN-01
 - Hex ID: PRPR9822
 - Name: USB RS 485 Converter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9822/STAN/01/
 - Description: USB RS 485 Converter
 - Long Link: [http://oom.lt/PROJ-SPAR-9822-STAN-01](http://oom.lt/PROJ-SPAR-9822-STAN-01)
 - Short Link: [http://oom.lt/PRPR9822](http://oom.lt/PRPR9822)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3531-STAN-01
 - Hex ID: PRPR3531
 - Name: Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3531/STAN/01/
 - Description: Adafruit 128x64 OLED Bonnet for Raspberry Pi PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3531-STAN-01](http://oom.lt/PROJ-ADAF-3531-STAN-01)
 - Short Link: [http://oom.lt/PRPR3531](http://oom.lt/PRPR3531)

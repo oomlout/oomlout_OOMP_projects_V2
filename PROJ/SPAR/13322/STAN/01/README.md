@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13322-STAN-01
 - Hex ID: PRPR13322
 - Name: Soil Moisture Sensor
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13322/STAN/01/
 - Description: Soil Moisture Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-13322-STAN-01](http://oom.lt/PROJ-SPAR-13322-STAN-01)
 - Short Link: [http://oom.lt/PRPR13322](http://oom.lt/PRPR13322)

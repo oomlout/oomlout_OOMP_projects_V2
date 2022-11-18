@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-15733-STAN-01
 - Hex ID: PRPR15733
 - Name: SparkFun u Blox NEO M9N
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15733/STAN/01/
 - Description: SparkFun u Blox NEO M9N
 - Long Link: [http://oom.lt/PROJ-SPAR-15733-STAN-01](http://oom.lt/PROJ-SPAR-15733-STAN-01)
 - Short Link: [http://oom.lt/PRPR15733](http://oom.lt/PRPR15733)

@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0358-STAN-01
 - Hex ID: PRPR0358
 - Name: Adafruit 1.8 Inch TFT Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0358/STAN/01/
 - Description: Adafruit 1.8 Inch TFT Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0358-STAN-01](http://oom.lt/PROJ-ADAF-0358-STAN-01)
 - Short Link: [http://oom.lt/PRPR0358](http://oom.lt/PRPR0358)

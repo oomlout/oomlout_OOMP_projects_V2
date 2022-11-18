@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0931-STAN-01
 - Hex ID: PRPR0931
 - Name: Adafruit 128x32 I2C OLED Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0931/STAN/01/
 - Description: Adafruit 128x32 I2C OLED Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0931-STAN-01](http://oom.lt/PROJ-ADAF-0931-STAN-01)
 - Short Link: [http://oom.lt/PRPR0931](http://oom.lt/PRPR0931)

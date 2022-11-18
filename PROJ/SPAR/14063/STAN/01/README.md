@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-14063-STAN-01
 - Hex ID: PRPR14063
 - Name: LilyPad LilyMini ProtoSnap
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14063/STAN/01/
 - Description: LilyPad LilyMini ProtoSnap
 - Long Link: [http://oom.lt/PROJ-SPAR-14063-STAN-01](http://oom.lt/PROJ-SPAR-14063-STAN-01)
 - Short Link: [http://oom.lt/PRPR14063](http://oom.lt/PRPR14063)

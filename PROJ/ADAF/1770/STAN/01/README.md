@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-1770-STAN-01
 - Hex ID: PRPR1770
 - Name: 2.8 TFT Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1770/STAN/01/
 - Description: 2.8 TFT Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1770-STAN-01](http://oom.lt/PROJ-ADAF-1770-STAN-01)
 - Short Link: [http://oom.lt/PRPR1770](http://oom.lt/PRPR1770)

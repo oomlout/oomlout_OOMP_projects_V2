@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0152-STAN-01
 - Hex ID: PRPR0152
 - Name: nRF2401A Transceiver Chip Antenna
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0152/STAN/01/
 - Description: nRF2401A Transceiver Chip Antenna
 - Long Link: [http://oom.lt/PROJ-SPAR-0152-STAN-01](http://oom.lt/PROJ-SPAR-0152-STAN-01)
 - Short Link: [http://oom.lt/PRPR0152](http://oom.lt/PRPR0152)

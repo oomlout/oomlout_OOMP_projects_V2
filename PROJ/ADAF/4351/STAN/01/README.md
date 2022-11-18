@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-4351-STAN-01
 - Hex ID: PRPR4351
 - Name: Adafruit Infineon Trust M PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4351/STAN/01/
 - Description: Adafruit Infineon Trust M PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4351-STAN-01](http://oom.lt/PROJ-ADAF-4351-STAN-01)
 - Short Link: [http://oom.lt/PRPR4351](http://oom.lt/PRPR4351)

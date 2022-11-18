@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Module for Tessel 2')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Module_for_Tessel_2')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Module_for_Tessel_2')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Module_for_Tessel_2/Hardware/Qwiic Module for Tessel 2.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Module_for_Tessel_2/Hardware/Qwiic Module for Tessel 2.sch')
+    newPart['name'].append('Qwiic Module for Tessel 2')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Module_for_Tessel_2')
+    newPart['gitName'].append('Qwiic_Module_for_Tessel_2')
+    newPart['eagleBoard'].append('/Hardware/Qwiic Module for Tessel 2.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic Module for Tessel 2.sch')
 
 
     ######  Common

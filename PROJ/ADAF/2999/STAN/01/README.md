@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2999-STAN-01
 - Hex ID: PRPR2999
 - Name: Adafruit ATWINC1500 WiFi Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2999/STAN/01/
 - Description: Adafruit ATWINC1500 WiFi Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2999-STAN-01](http://oom.lt/PROJ-ADAF-2999-STAN-01)
 - Short Link: [http://oom.lt/PRPR2999](http://oom.lt/PRPR2999)

@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0376-STAN-01
 - Hex ID: PRPR0376
 - Name: Adafruit 2.8 Inch TFT Shield PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0376/STAN/01/
 - Description: Adafruit 2.8 Inch TFT Shield PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0376-STAN-01](http://oom.lt/PROJ-ADAF-0376-STAN-01)
 - Short Link: [http://oom.lt/PRPR0376](http://oom.lt/PRPR0376)

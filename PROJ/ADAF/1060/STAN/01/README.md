@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1060-STAN-01
 - Hex ID: PRPR1060
 - Name: Adafruit Flora Smart NeoPixel
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1060/STAN/01/
 - Description: Adafruit Flora Smart NeoPixel
 - Long Link: [http://oom.lt/PROJ-ADAF-1060-STAN-01](http://oom.lt/PROJ-ADAF-1060-STAN-01)
 - Short Link: [http://oom.lt/PRPR1060](http://oom.lt/PRPR1060)

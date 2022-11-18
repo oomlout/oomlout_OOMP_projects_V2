@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0496-STAN-01
 - Hex ID: PRPR0496
 - Name: SOIC28 DIP Adapter
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0496/STAN/01/
 - Description: SOIC28 DIP Adapter
 - Long Link: [http://oom.lt/PROJ-SPAR-0496-STAN-01](http://oom.lt/PROJ-SPAR-0496-STAN-01)
 - Short Link: [http://oom.lt/PRPR0496](http://oom.lt/PRPR0496)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9056-STAN-01
 - Hex ID: PRPR9056
 - Name: Analog Digital MUX Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9056/STAN/01/
 - Description: Analog Digital MUX Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-9056-STAN-01](http://oom.lt/PROJ-SPAR-9056-STAN-01)
 - Short Link: [http://oom.lt/PRPR9056](http://oom.lt/PRPR9056)

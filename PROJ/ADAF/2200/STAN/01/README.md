@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2200-STAN-01
 - Hex ID: PRPR2200
 - Name: Adafruit LM4040 Voltage Reference PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2200/STAN/01/
 - Description: Adafruit LM4040 Voltage Reference PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2200-STAN-01](http://oom.lt/PROJ-ADAF-2200-STAN-01)
 - Short Link: [http://oom.lt/PRPR2200](http://oom.lt/PRPR2200)

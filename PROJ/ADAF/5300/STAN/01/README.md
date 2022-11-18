@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5300-STAN-01
 - Hex ID: PRPR5300
 - Name: Adafruit ESP32 S2 TFT Feather PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5300/STAN/01/
 - Description: Adafruit ESP32 S2 TFT Feather PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5300-STAN-01](http://oom.lt/PROJ-ADAF-5300-STAN-01)
 - Short Link: [http://oom.lt/PRPR5300](http://oom.lt/PRPR5300)

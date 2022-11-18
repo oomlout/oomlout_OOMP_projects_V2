@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-16988-STAN-01
 - Hex ID: PRPR16988
 - Name: QwiicBus EndPoint
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16988/STAN/01/
 - Description: QwiicBus EndPoint
 - Long Link: [http://oom.lt/PROJ-SPAR-16988-STAN-01](http://oom.lt/PROJ-SPAR-16988-STAN-01)
 - Short Link: [http://oom.lt/PRPR16988](http://oom.lt/PRPR16988)

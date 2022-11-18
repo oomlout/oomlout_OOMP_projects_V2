@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18621 > https://github.com/sparkfunX/SparkX smol Power Board AAA](#prpr18621--httpsgithubcomsparkfunxsparkx-smol-power-board-aaa)
+* [PRPR18621 > SparkX smol Power Board AAA](#prpr18621--sparkx-smol-power-board-aaa)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18621 > https://github.com/sparkfunX/SparkX smol Power Board AAA
+# PRPR18621 > SparkX smol Power Board AAA
 
 - ID: PROJ-SPAR-18621-STAN-01
 - Hex ID: PRPR18621
-- Name: https://github.com/sparkfunX/SparkX smol Power Board AAA
-- Description: https://github.com/sparkfunX/SparkX smol Power Board AAA
+- Name: SparkX smol Power Board AAA
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18621/STAN/01/
+- Description: SparkX smol Power Board AAA
 - Long Link: [http://oom.lt/PROJ-SPAR-18621-STAN-01](http://oom.lt/PROJ-SPAR-18621-STAN-01)
 - Short Link: [http://oom.lt/PRPR18621](http://oom.lt/PRPR18621)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18621-STAN-01|
 |Hex ID (short code)|hexID|PRPR18621|
-|name|name|https://github.com/sparkfunX/SparkX smol Power Board AAA|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_Power_Board_AAA|
-|gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Power_Board_AAA|
-|eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Power_Board_AAA/Hardware/SparkX_smol_Power_AAA.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Power_Board_AAA/Hardware/SparkX_smol_Power_AAA.sch|
+|name|name|SparkX smol Power Board AAA|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkX_smol_Power_Board_AAA|
+|gitName|gitName|SparkX_smol_Power_Board_AAA|
+|eagleBoard|eagleBoard|/Hardware/SparkX_smol_Power_AAA.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkX_smol_Power_AAA.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

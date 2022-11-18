@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12858-STAN-01
 - Hex ID: PRPR12858
 - Name: Vernier Interface Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/
 - Description: Vernier Interface Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-12858-STAN-01](http://oom.lt/PROJ-SPAR-12858-STAN-01)
 - Short Link: [http://oom.lt/PRPR12858](http://oom.lt/PRPR12858)

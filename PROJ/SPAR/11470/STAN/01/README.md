@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-11470-STAN-01
 - Hex ID: PRPR11470
 - Name: Qtechknow ArduSensor Learning Kit
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11470/STAN/01/
 - Description: Qtechknow ArduSensor Learning Kit
 - Long Link: [http://oom.lt/PROJ-SPAR-11470-STAN-01](http://oom.lt/PROJ-SPAR-11470-STAN-01)
 - Short Link: [http://oom.lt/PRPR11470](http://oom.lt/PRPR11470)

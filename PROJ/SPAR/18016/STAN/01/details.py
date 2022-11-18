@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/USB Current Sensor')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/USB_Current_Sensor')
-    newPart['gitName'].append('https://github.com/sparkfunX/USB_Current_Sensor')
-    newPart['eagleBoard'].append('sourceFiles/git/USB_Current_Sensor/Hardware/USB_Current_Sensor.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/USB_Current_Sensor/Hardware/USB_Current_Sensor.sch')
+    newPart['name'].append('USB Current Sensor')
+    newPart['gitRepo'].append('https://github.com/sparkfun/USB_Current_Sensor')
+    newPart['gitName'].append('USB_Current_Sensor')
+    newPart['eagleBoard'].append('/Hardware/USB_Current_Sensor.brd')
+    newPart['eagleSchem'].append('/Hardware/USB_Current_Sensor.sch')
 
 
     ######  Common

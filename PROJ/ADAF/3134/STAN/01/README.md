@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3134-STAN-01
 - Hex ID: PRPR3134
 - Name: Adafruit 7x15 CharliePlex LED FeatherWing
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3134/STAN/01/
 - Description: Adafruit 7x15 CharliePlex LED FeatherWing
 - Long Link: [http://oom.lt/PROJ-ADAF-3134-STAN-01](http://oom.lt/PROJ-ADAF-3134-STAN-01)
 - Short Link: [http://oom.lt/PRPR3134](http://oom.lt/PRPR3134)

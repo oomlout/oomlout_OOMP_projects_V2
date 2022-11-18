@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SIRB-0022-STAN-01
 - Hex ID: PRPR0022
 - Name: ATTinyX12 SirTiny
+- Path: oomlout_OOMP_projects_V2/PROJ/SIRB/0022/STAN/01/
 - Description: ATTinyX12 SirTiny
 - Long Link: [http://oom.lt/PROJ-SIRB-0022-STAN-01](http://oom.lt/PROJ-SIRB-0022-STAN-01)
 - Short Link: [http://oom.lt/PRPR0022](http://oom.lt/PRPR0022)

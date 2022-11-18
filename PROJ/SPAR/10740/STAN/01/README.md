@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10740-STAN-01
 - Hex ID: PRPR10740
 - Name: IR Thermometer Evaluation Board MLX90614
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10740/STAN/01/
 - Description: IR Thermometer Evaluation Board MLX90614
 - Long Link: [http://oom.lt/PROJ-SPAR-10740-STAN-01](http://oom.lt/PROJ-SPAR-10740-STAN-01)
 - Short Link: [http://oom.lt/PRPR10740](http://oom.lt/PRPR10740)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11927-STAN-01
 - Hex ID: PRPR11927
 - Name: BC127 Breakout Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11927/STAN/01/
 - Description: BC127 Breakout Board
 - Long Link: [http://oom.lt/PROJ-SPAR-11927-STAN-01](http://oom.lt/PROJ-SPAR-11927-STAN-01)
 - Short Link: [http://oom.lt/PRPR11927](http://oom.lt/PRPR11927)

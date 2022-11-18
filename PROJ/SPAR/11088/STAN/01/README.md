@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11088-STAN-01
 - Hex ID: PRPR11088
 - Name: Run SPOT Run
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11088/STAN/01/
 - Description: Run SPOT Run
 - Long Link: [http://oom.lt/PROJ-SPAR-11088-STAN-01](http://oom.lt/PROJ-SPAR-11088-STAN-01)
 - Short Link: [http://oom.lt/PRPR11088](http://oom.lt/PRPR11088)

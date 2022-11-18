@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-PDP7-0003-STAN-01
 - Hex ID: PRPR0003
 - Name: Hardware/epaperteensyboard
+- Path: oomlout_OOMP_projects_V2/PROJ/PDP7/0003/STAN/01/
 - Description: Hardware/epaperteensyboard
 - Long Link: [http://oom.lt/PROJ-PDP7-0003-STAN-01](http://oom.lt/PROJ-PDP7-0003-STAN-01)
 - Short Link: [http://oom.lt/PRPR0003](http://oom.lt/PRPR0003)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

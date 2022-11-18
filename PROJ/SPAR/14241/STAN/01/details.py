@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Air Quality Combo Board CCS811 BME280')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Air_Quality_Combo_Board-CCS811-BME280')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Air_Quality_Combo_Board-CCS811-BME280')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Air_Quality_Combo_Board-CCS811-BME280/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Air_Quality_Combo_Board-CCS811-BME280/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.sch')
+    newPart['name'].append('Qwiic Air Quality Combo Board CCS811 BME280')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Air_Quality_Combo_Board-CCS811-BME280')
+    newPart['gitName'].append('Qwiic_Air_Quality_Combo_Board-CCS811-BME280')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_Air_Quality_Combo_Board-CCS811-BME280.sch')
 
 
     ######  Common

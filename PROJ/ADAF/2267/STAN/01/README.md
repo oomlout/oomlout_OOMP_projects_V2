@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2267-STAN-01
 - Hex ID: PRPR2267
 - Name: Adafruit Bluefruit LE USB Friend and Sniffer PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2267/STAN/01/
 - Description: Adafruit Bluefruit LE USB Friend and Sniffer PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2267-STAN-01](http://oom.lt/PROJ-ADAF-2267-STAN-01)
 - Short Link: [http://oom.lt/PRPR2267](http://oom.lt/PRPR2267)

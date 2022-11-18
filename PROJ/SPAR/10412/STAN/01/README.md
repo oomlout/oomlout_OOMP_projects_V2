@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-10412-STAN-01
 - Hex ID: PRPR10412
 - Name: Fabrickit LED Brick
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10412/STAN/01/
 - Description: Fabrickit LED Brick
 - Long Link: [http://oom.lt/PROJ-SPAR-10412-STAN-01](http://oom.lt/PROJ-SPAR-10412-STAN-01)
 - Short Link: [http://oom.lt/PRPR10412](http://oom.lt/PRPR10412)

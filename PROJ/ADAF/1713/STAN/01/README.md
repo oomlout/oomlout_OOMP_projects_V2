@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1713-STAN-01
 - Hex ID: PRPR1713
 - Name: Adafruit MAX9814 AGC Microphone PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1713/STAN/01/
 - Description: Adafruit MAX9814 AGC Microphone PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1713-STAN-01](http://oom.lt/PROJ-ADAF-1713-STAN-01)
 - Short Link: [http://oom.lt/PRPR1713](http://oom.lt/PRPR1713)

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Cellular Notecarrier')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Cellular-Notecarrier')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Cellular-Notecarrier/Hardware/Qwiic-Cellular-Notepad.sch')
+    newPart['name'].append('Qwiic Cellular Notecarrier')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Cellular-Notecarrier')
+    newPart['gitName'].append('Qwiic_Cellular-Notecarrier')
+    newPart['eagleBoard'].append('/Hardware/Qwiic-Cellular-Notepad.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic-Cellular-Notepad.sch')
 
 
     ######  Common

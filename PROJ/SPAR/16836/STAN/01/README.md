@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-16836-STAN-01
 - Hex ID: PRPR16836
 - Name: SparkFun ProDriver TC78H670FTG
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16836/STAN/01/
 - Description: SparkFun ProDriver TC78H670FTG
 - Long Link: [http://oom.lt/PROJ-SPAR-16836-STAN-01](http://oom.lt/PROJ-SPAR-16836-STAN-01)
 - Short Link: [http://oom.lt/PRPR16836](http://oom.lt/PRPR16836)

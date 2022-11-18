@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-18575-STAN-01
 - Hex ID: PRPR18575
 - Name: SparkFun MicroMod Main Board Single
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18575/STAN/01/
 - Description: SparkFun MicroMod Main Board Single
 - Long Link: [http://oom.lt/PROJ-SPAR-18575-STAN-01](http://oom.lt/PROJ-SPAR-18575-STAN-01)
 - Short Link: [http://oom.lt/PRPR18575](http://oom.lt/PRPR18575)

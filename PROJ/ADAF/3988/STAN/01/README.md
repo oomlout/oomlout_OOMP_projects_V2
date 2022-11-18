@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3988-STAN-01
 - Hex ID: PRPR3988
 - Name: Adafruit Prop Maker FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3988/STAN/01/
 - Description: Adafruit Prop Maker FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3988-STAN-01](http://oom.lt/PROJ-ADAF-3988-STAN-01)
 - Short Link: [http://oom.lt/PRPR3988](http://oom.lt/PRPR3988)

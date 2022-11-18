@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-0747-STAN-01
 - Hex ID: PRPR0747
 - Name: LMD1820x Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/0747/STAN/01/
 - Description: LMD1820x Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-0747-STAN-01](http://oom.lt/PROJ-SPAR-0747-STAN-01)
 - Short Link: [http://oom.lt/PRPR0747](http://oom.lt/PRPR0747)

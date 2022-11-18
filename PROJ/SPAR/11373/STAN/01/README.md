@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11373-STAN-01
 - Hex ID: PRPR11373
 - Name: XBee Explorer Regulated
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11373/STAN/01/
 - Description: XBee Explorer Regulated
 - Long Link: [http://oom.lt/PROJ-SPAR-11373-STAN-01](http://oom.lt/PROJ-SPAR-11373-STAN-01)
 - Short Link: [http://oom.lt/PRPR11373](http://oom.lt/PRPR11373)

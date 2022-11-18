@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1932-STAN-01
 - Hex ID: PRPR1932
 - Name: Adafruit RGB Matrix HAT PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1932/STAN/01/
 - Description: Adafruit RGB Matrix HAT PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1932-STAN-01](http://oom.lt/PROJ-ADAF-1932-STAN-01)
 - Short Link: [http://oom.lt/PRPR1932](http://oom.lt/PRPR1932)

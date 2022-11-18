@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Bluetooth Mate 4.0')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Bluetooth_Mate_4.0')
-    newPart['gitName'].append('https://github.com/sparkfunX/Bluetooth_Mate_4.0')
-    newPart['eagleBoard'].append('sourceFiles/git/Bluetooth_Mate_4.0/Hardware/Bluetooth_Mate_4.0.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Bluetooth_Mate_4.0/Hardware/Bluetooth_Mate_4.0.sch')
+    newPart['name'].append('Bluetooth Mate 4.0')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Bluetooth_Mate_4.0')
+    newPart['gitName'].append('Bluetooth_Mate_4.0')
+    newPart['eagleBoard'].append('/Hardware/Bluetooth_Mate_4.0.brd')
+    newPart['eagleSchem'].append('/Hardware/Bluetooth_Mate_4.0.sch')
 
 
     ######  Common

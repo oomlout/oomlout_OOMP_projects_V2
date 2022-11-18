@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3316-STAN-01
 - Hex ID: PRPR3316
 - Name: Adafruit VL6180X ToF Distance Sensor PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3316/STAN/01/
 - Description: Adafruit VL6180X ToF Distance Sensor PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3316-STAN-01](http://oom.lt/PROJ-ADAF-3316-STAN-01)
 - Short Link: [http://oom.lt/PRPR3316](http://oom.lt/PRPR3316)

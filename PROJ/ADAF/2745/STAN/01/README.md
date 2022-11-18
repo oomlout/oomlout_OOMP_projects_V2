@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2745-STAN-01
 - Hex ID: PRPR2745
 - Name: Adafruit LM3671 Buck Converter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2745/STAN/01/
 - Description: Adafruit LM3671 Buck Converter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2745-STAN-01](http://oom.lt/PROJ-ADAF-2745-STAN-01)
 - Short Link: [http://oom.lt/PRPR2745](http://oom.lt/PRPR2745)

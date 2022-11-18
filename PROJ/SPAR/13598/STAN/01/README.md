@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13598-STAN-01
 - Hex ID: PRPR13598
 - Name: Photon Proto Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13598/STAN/01/
 - Description: Photon Proto Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-13598-STAN-01](http://oom.lt/PROJ-SPAR-13598-STAN-01)
 - Short Link: [http://oom.lt/PRPR13598](http://oom.lt/PRPR13598)

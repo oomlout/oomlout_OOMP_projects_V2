@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1746-STAN-01
 - Hex ID: PRPR1746
 - Name: Adafruit HMC5883 Mag Compass Sensor PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1746/STAN/01/
 - Description: Adafruit HMC5883 Mag Compass Sensor PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1746-STAN-01](http://oom.lt/PROJ-ADAF-1746-STAN-01)
 - Short Link: [http://oom.lt/PRPR1746](http://oom.lt/PRPR1746)

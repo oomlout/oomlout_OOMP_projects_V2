@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1164-STAN-01
 - Hex ID: PRPR1164
 - Name: Adafruit INA169 Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1164/STAN/01/
 - Description: Adafruit INA169 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1164-STAN-01](http://oom.lt/PROJ-ADAF-1164-STAN-01)
 - Short Link: [http://oom.lt/PRPR1164](http://oom.lt/PRPR1164)

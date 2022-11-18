@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-5637-STAN-01
 - Hex ID: PRPR5637
 - Name: Adafruit QT 5 3V Shifter PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5637/STAN/01/
 - Description: Adafruit QT 5 3V Shifter PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5637-STAN-01](http://oom.lt/PROJ-ADAF-5637-STAN-01)
 - Short Link: [http://oom.lt/PRPR5637](http://oom.lt/PRPR5637)

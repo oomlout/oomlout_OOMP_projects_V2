@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1325-STAN-01
 - Hex ID: PRPR1325
 - Name: Adafruit FPC SMT Adapter PCBs
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1325/STAN/01/
 - Description: Adafruit FPC SMT Adapter PCBs
 - Long Link: [http://oom.lt/PROJ-ADAF-1325-STAN-01](http://oom.lt/PROJ-ADAF-1325-STAN-01)
 - Short Link: [http://oom.lt/PRPR1325](http://oom.lt/PRPR1325)

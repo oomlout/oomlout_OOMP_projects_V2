@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3201-STAN-01
 - Hex ID: PRPR3201
 - Name: Adafruit Ethernet FeatherWing PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3201/STAN/01/
 - Description: Adafruit Ethernet FeatherWing PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3201-STAN-01](http://oom.lt/PROJ-ADAF-3201-STAN-01)
 - Short Link: [http://oom.lt/PRPR3201](http://oom.lt/PRPR3201)

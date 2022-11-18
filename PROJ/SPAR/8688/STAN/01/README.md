@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8688-STAN-01
 - Hex ID: PRPR8688
 - Name: Ambient Light Sensor Breakout TEMT6000
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8688/STAN/01/
 - Description: Ambient Light Sensor Breakout TEMT6000
 - Long Link: [http://oom.lt/PROJ-SPAR-8688-STAN-01](http://oom.lt/PROJ-SPAR-8688-STAN-01)
 - Short Link: [http://oom.lt/PRPR8688](http://oom.lt/PRPR8688)

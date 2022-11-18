@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-SPAR-16618-STAN-01
 - Hex ID: PRPR16618
 - Name: SparkFun Qwiic Humidity AHT20
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/16618/STAN/01/
 - Description: SparkFun Qwiic Humidity AHT20
 - Long Link: [http://oom.lt/PROJ-SPAR-16618-STAN-01](http://oom.lt/PROJ-SPAR-16618-STAN-01)
 - Short Link: [http://oom.lt/PRPR16618](http://oom.lt/PRPR16618)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

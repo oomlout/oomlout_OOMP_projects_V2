@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR14785 > https://github.com/sparkfunX/Pro RF](#prpr14785--httpsgithubcomsparkfunxpro-rf)
+* [PRPR14785 > Pro RF](#prpr14785--pro-rf)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR14785 > https://github.com/sparkfunX/Pro RF
+# PRPR14785 > Pro RF
 
 - ID: PROJ-SPAR-14785-STAN-01
 - Hex ID: PRPR14785
-- Name: https://github.com/sparkfunX/Pro RF
-- Description: https://github.com/sparkfunX/Pro RF
+- Name: Pro RF
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/14785/STAN/01/
+- Description: Pro RF
 - Long Link: [http://oom.lt/PROJ-SPAR-14785-STAN-01](http://oom.lt/PROJ-SPAR-14785-STAN-01)
 - Short Link: [http://oom.lt/PRPR14785](http://oom.lt/PRPR14785)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-14785-STAN-01|
 |Hex ID (short code)|hexID|PRPR14785|
-|name|name|https://github.com/sparkfunX/Pro RF|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/Pro_RF|
-|gitName|gitName|https://github.com/sparkfunX/Pro_RF|
-|eagleBoard|eagleBoard|sourceFiles/git/Pro_RF/Hardware/Pro_RF.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/Pro_RF/Hardware/Pro_RF.sch|
+|name|name|Pro RF|
+|gitRepo|gitRepo|https://github.com/sparkfun/Pro_RF|
+|gitName|gitName|Pro_RF|
+|eagleBoard|eagleBoard|/Hardware/Pro_RF.brd|
+|eagleSchem|eagleSchem|/Hardware/Pro_RF.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

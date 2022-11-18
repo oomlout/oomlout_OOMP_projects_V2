@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9111-STAN-01
 - Hex ID: PRPR9111
 - Name: XBee Explorer Serial
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9111/STAN/01/
 - Description: XBee Explorer Serial
 - Long Link: [http://oom.lt/PROJ-SPAR-9111-STAN-01](http://oom.lt/PROJ-SPAR-9111-STAN-01)
 - Short Link: [http://oom.lt/PRPR9111](http://oom.lt/PRPR9111)

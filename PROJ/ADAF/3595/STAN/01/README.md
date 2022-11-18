@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-3595-STAN-01
 - Hex ID: PRPR3595
 - Name: Adafruit APDS9960 Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/3595/STAN/01/
 - Description: Adafruit APDS9960 Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-3595-STAN-01](http://oom.lt/PROJ-ADAF-3595-STAN-01)
 - Short Link: [http://oom.lt/PRPR3595](http://oom.lt/PRPR3595)

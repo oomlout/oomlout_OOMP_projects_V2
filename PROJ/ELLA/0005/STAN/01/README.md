@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-ELLA-0005-STAN-01
 - Hex ID: PRPR0005
 - Name: minik
+- Path: oomlout_OOMP_projects_V2/PROJ/ELLA/0005/STAN/01/
 - Description: minik
 - Long Link: [http://oom.lt/PROJ-ELLA-0005-STAN-01](http://oom.lt/PROJ-ELLA-0005-STAN-01)
 - Short Link: [http://oom.lt/PRPR0005](http://oom.lt/PRPR0005)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

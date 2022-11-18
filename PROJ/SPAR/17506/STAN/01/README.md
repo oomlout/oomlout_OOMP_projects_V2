@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-17506-STAN-01
 - Hex ID: PRPR17506
 - Name: SparkFun LoRa Thing Plus expLoRaBLE
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17506/STAN/01/
 - Description: SparkFun LoRa Thing Plus expLoRaBLE
 - Long Link: [http://oom.lt/PROJ-SPAR-17506-STAN-01](http://oom.lt/PROJ-SPAR-17506-STAN-01)
 - Short Link: [http://oom.lt/PRPR17506](http://oom.lt/PRPR17506)

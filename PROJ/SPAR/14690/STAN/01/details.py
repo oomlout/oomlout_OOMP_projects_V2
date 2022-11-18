@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Proximity VCNL4040')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Proximity_VCNL4040')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Proximity_VCNL4040/Hardware/Qwiic Proximity Sensor - VCNL4040.sch')
+    newPart['name'].append('Qwiic Proximity VCNL4040')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Proximity_VCNL4040')
+    newPart['gitName'].append('Qwiic_Proximity_VCNL4040')
+    newPart['eagleBoard'].append('/Hardware/Qwiic Proximity Sensor - VCNL4040.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic Proximity Sensor - VCNL4040.sch')
 
 
     ######  Common

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Sound Trigger')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Sound_Trigger')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Sound_Trigger')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Sound_Trigger/Hardware/Qwiic Sound Trigger.sch')
+    newPart['name'].append('Qwiic Sound Trigger')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Sound_Trigger')
+    newPart['gitName'].append('Qwiic_Sound_Trigger')
+    newPart['eagleBoard'].append('/Hardware/Qwiic Sound Trigger.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic Sound Trigger.sch')
 
 
     ######  Common

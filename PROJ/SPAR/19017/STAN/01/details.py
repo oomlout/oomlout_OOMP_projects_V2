@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic 1.8V Adapter')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_1.8V_Adapter')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_1.8V_Adapter')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_1.8V_Adapter/Hardware/Qwiic_1.8V_Adapter.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_1.8V_Adapter/Hardware/Qwiic_1.8V_Adapter.sch')
+    newPart['name'].append('Qwiic 1.8V Adapter')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_1.8V_Adapter')
+    newPart['gitName'].append('Qwiic_1.8V_Adapter')
+    newPart['eagleBoard'].append('/Hardware/Qwiic_1.8V_Adapter.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic_1.8V_Adapter.sch')
 
 
     ######  Common

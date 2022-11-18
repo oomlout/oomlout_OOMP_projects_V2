@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12847-STAN-01
 - Hex ID: PRPR12847
 - Name: XBee Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12847/STAN/01/
 - Description: XBee Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-12847-STAN-01](http://oom.lt/PROJ-SPAR-12847-STAN-01)
 - Short Link: [http://oom.lt/PRPR12847](http://oom.lt/PRPR12847)

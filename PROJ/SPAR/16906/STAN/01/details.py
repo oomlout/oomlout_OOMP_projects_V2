@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Multi Port Board')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Multi_Port_Board')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Multi_Port_Board')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.sch')
+    newPart['name'].append('Qwiic Multi Port Board')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Multi_Port_Board')
+    newPart['gitName'].append('Qwiic_Multi_Port_Board')
+    newPart['eagleBoard'].append('/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.brd')
+    newPart['eagleSchem'].append('/Qwiic_Multi_Port_Board/Qwiic_Multi_Port_Board.sch')
 
 
     ######  Common

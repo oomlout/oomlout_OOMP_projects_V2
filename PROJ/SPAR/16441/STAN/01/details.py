@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/2D Barcode Scanner')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/2D_Barcode_Scanner')
-    newPart['gitName'].append('https://github.com/sparkfunX/2D_Barcode_Scanner')
-    newPart['eagleBoard'].append('sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/2D_Barcode_Scanner/Hardware/2DBarcodeScanner.sch')
+    newPart['name'].append('2D Barcode Scanner')
+    newPart['gitRepo'].append('https://github.com/sparkfun/2D_Barcode_Scanner')
+    newPart['gitName'].append('2D_Barcode_Scanner')
+    newPart['eagleBoard'].append('/Hardware/2DBarcodeScanner.brd')
+    newPart['eagleSchem'].append('/Hardware/2DBarcodeScanner.sch')
 
 
     ######  Common

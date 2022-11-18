@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-10889-STAN-01
 - Hex ID: PRPR10889
 - Name: ProtoSnap Pro Mini
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/
 - Description: ProtoSnap Pro Mini
 - Long Link: [http://oom.lt/PROJ-SPAR-10889-STAN-01](http://oom.lt/PROJ-SPAR-10889-STAN-01)
 - Short Link: [http://oom.lt/PRPR10889](http://oom.lt/PRPR10889)

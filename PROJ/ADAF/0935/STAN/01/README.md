@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-0935-STAN-01
 - Hex ID: PRPR0935
 - Name: Adafruit MCP4725 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0935/STAN/01/
 - Description: Adafruit MCP4725 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0935-STAN-01](http://oom.lt/PROJ-ADAF-0935-STAN-01)
 - Short Link: [http://oom.lt/PRPR0935](http://oom.lt/PRPR0935)

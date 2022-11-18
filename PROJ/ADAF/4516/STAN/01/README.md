@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4516-STAN-01
 - Hex ID: PRPR4516
 - Name: Adafruit Feather nRF52840 Sense PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4516/STAN/01/
 - Description: Adafruit Feather nRF52840 Sense PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4516-STAN-01](http://oom.lt/PROJ-ADAF-4516-STAN-01)
 - Short Link: [http://oom.lt/PRPR4516](http://oom.lt/PRPR4516)

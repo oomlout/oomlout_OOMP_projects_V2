@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/Qwiic Blower Fan')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/Qwiic_Blower_Fan')
-    newPart['gitName'].append('https://github.com/sparkfunX/Qwiic_Blower_Fan')
-    newPart['eagleBoard'].append('sourceFiles/git/Qwiic_Blower_Fan/Hardware/qwiic_blower.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/Qwiic_Blower_Fan/Hardware/qwiic_blower.sch')
+    newPart['name'].append('Qwiic Blower Fan')
+    newPart['gitRepo'].append('https://github.com/sparkfun/Qwiic_Blower_Fan')
+    newPart['gitName'].append('Qwiic_Blower_Fan')
+    newPart['eagleBoard'].append('/Hardware/qwiic_blower.brd')
+    newPart['eagleSchem'].append('/Hardware/qwiic_blower.sch')
 
 
     ######  Common

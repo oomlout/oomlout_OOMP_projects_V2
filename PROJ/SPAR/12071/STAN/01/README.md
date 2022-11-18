@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-12071-STAN-01
 - Hex ID: PRPR12071
 - Name: CC3000 WiFi Shield
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12071/STAN/01/
 - Description: CC3000 WiFi Shield
 - Long Link: [http://oom.lt/PROJ-SPAR-12071-STAN-01](http://oom.lt/PROJ-SPAR-12071-STAN-01)
 - Short Link: [http://oom.lt/PRPR12071](http://oom.lt/PRPR12071)

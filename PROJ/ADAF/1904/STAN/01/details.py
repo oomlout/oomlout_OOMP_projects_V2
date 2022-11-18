@@ -20,8 +20,8 @@ def load(newPart,it):
     newPart['name'].append('Adafruit MicroLipo PCB')
     newPart['gitRepo'].append('https://github.com/adafruit/Adafruit-MicroLipo-PCB')
     newPart['gitName'].append('Adafruit-MicroLipo-PCB')
-    newPart['eagleBoard'].append('/Adafruit MicroLipo.brd')
-    newPart['eagleSchem'].append('/Adafruit MicroLipo.sch')
+    newPart['eagleBoard'].append('/Adafruit MicroLipo Charger v2.brd')
+    newPart['eagleSchem'].append('/Adafruit MicroLipo Charger v2.sch')
 
 
     ######  Common

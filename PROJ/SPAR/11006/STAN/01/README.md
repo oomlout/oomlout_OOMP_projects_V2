@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-11006-STAN-01
 - Hex ID: PRPR11006
 - Name: LogicBlocks
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11006/STAN/01/
 - Description: LogicBlocks
 - Long Link: [http://oom.lt/PROJ-SPAR-11006-STAN-01](http://oom.lt/PROJ-SPAR-11006-STAN-01)
 - Short Link: [http://oom.lt/PRPR11006](http://oom.lt/PRPR11006)

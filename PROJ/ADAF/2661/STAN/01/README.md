@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-2661-STAN-01
 - Hex ID: PRPR2661
 - Name: Adafruit Bluefruit LE Micro PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/2661/STAN/01/
 - Description: Adafruit Bluefruit LE Micro PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-2661-STAN-01](http://oom.lt/PROJ-ADAF-2661-STAN-01)
 - Short Link: [http://oom.lt/PRPR2661](http://oom.lt/PRPR2661)

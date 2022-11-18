@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13632-STAN-01
 - Hex ID: PRPR13632
 - Name: SparkFun Simblee Breakout Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13632/STAN/01/
 - Description: SparkFun Simblee Breakout Board
 - Long Link: [http://oom.lt/PROJ-SPAR-13632-STAN-01](http://oom.lt/PROJ-SPAR-13632-STAN-01)
 - Short Link: [http://oom.lt/PRPR13632](http://oom.lt/PRPR13632)

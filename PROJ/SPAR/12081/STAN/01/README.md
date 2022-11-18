@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-SPAR-12081-STAN-01
 - Hex ID: PRPR12081
 - Name: USB Weather Board
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/12081/STAN/01/
 - Description: USB Weather Board
 - Long Link: [http://oom.lt/PROJ-SPAR-12081-STAN-01](http://oom.lt/PROJ-SPAR-12081-STAN-01)
 - Short Link: [http://oom.lt/PRPR12081](http://oom.lt/PRPR12081)

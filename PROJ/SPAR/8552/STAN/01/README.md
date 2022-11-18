@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-8552-STAN-01
 - Hex ID: PRPR8552
 - Name: Serial DB9 Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/8552/STAN/01/
 - Description: Serial DB9 Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-8552-STAN-01](http://oom.lt/PROJ-SPAR-8552-STAN-01)
 - Short Link: [http://oom.lt/PRPR8552](http://oom.lt/PRPR8552)

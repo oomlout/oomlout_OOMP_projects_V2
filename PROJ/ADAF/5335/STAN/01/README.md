@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-5335-STAN-01
 - Hex ID: PRPR5335
 - Name: Adafruit CP2102N Friend PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/5335/STAN/01/
 - Description: Adafruit CP2102N Friend PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-5335-STAN-01](http://oom.lt/PROJ-ADAF-5335-STAN-01)
 - Short Link: [http://oom.lt/PRPR5335](http://oom.lt/PRPR5335)

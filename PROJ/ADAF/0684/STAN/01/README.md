@@ -16,6 +16,7 @@ Contents
 - ID: PROJ-ADAF-0684-STAN-01
 - Hex ID: PRPR0684
 - Name: Adafruit 96x64 RGB OLED Breakout PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/0684/STAN/01/
 - Description: Adafruit 96x64 RGB OLED Breakout PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-0684-STAN-01](http://oom.lt/PROJ-ADAF-0684-STAN-01)
 - Short Link: [http://oom.lt/PRPR0684](http://oom.lt/PRPR0684)

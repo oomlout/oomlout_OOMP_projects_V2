@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15089-STAN-01
 - Hex ID: PRPR15089
 - Name: SparkFun UV Sensor
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15089/STAN/01/
 - Description: SparkFun UV Sensor
 - Long Link: [http://oom.lt/PROJ-SPAR-15089-STAN-01](http://oom.lt/PROJ-SPAR-15089-STAN-01)
 - Short Link: [http://oom.lt/PRPR15089](http://oom.lt/PRPR15089)

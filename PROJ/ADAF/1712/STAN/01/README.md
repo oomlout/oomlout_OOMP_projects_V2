@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1712-STAN-01
 - Hex ID: PRPR1712
 - Name: Adafruit TPA2016 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1712/STAN/01/
 - Description: Adafruit TPA2016 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1712-STAN-01](http://oom.lt/PROJ-ADAF-1712-STAN-01)
 - Short Link: [http://oom.lt/PRPR1712](http://oom.lt/PRPR1712)

@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-1580-STAN-01
 - Hex ID: PRPR1580
 - Name: Adafruit AR1100 Resistive Touch Controller PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/1580/STAN/01/
 - Description: Adafruit AR1100 Resistive Touch Controller PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-1580-STAN-01](http://oom.lt/PROJ-ADAF-1580-STAN-01)
 - Short Link: [http://oom.lt/PRPR1580](http://oom.lt/PRPR1580)

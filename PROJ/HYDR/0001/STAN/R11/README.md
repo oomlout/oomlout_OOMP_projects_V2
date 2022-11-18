@@ -15,16 +15,12 @@ NO IMAGE
 - ID: PROJ-HYDR-0001-STAN-R11
 - Hex ID: PRPR0001
 - Name: Hydrabus 1.0 r1.1
+- Path: oomlout_OOMP_projects_V2/PROJ/HYDR/0001/STAN/R11/
 - Description: Hydrabus 1.0 r1.1
 - Long Link: [http://oom.lt/PROJ-HYDR-0001-STAN-R11](http://oom.lt/PROJ-HYDR-0001-STAN-R11)
 - Short Link: [http://oom.lt/PRPR0001](http://oom.lt/PRPR0001)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags

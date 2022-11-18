@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-9034-STAN-01
 - Hex ID: PRPR9034
 - Name: Transceiver Breakout nRF24LU1 RP SMA
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/9034/STAN/01/
 - Description: Transceiver Breakout nRF24LU1 RP SMA
 - Long Link: [http://oom.lt/PROJ-SPAR-9034-STAN-01](http://oom.lt/PROJ-SPAR-9034-STAN-01)
 - Short Link: [http://oom.lt/PRPR9034](http://oom.lt/PRPR9034)

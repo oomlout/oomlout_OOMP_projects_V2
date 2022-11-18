@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/QWIIC RFID ID XXLA')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA')
-    newPart['gitName'].append('https://github.com/sparkfunX/QWIIC_RFID_ID-XXLA')
-    newPart['eagleBoard'].append('sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/QWIIC_RFID_ID-XXLA/Hardware/Qwiic RFID - IDXXLA.sch')
+    newPart['name'].append('QWIIC RFID ID XXLA')
+    newPart['gitRepo'].append('https://github.com/sparkfun/QWIIC_RFID_ID-XXLA')
+    newPart['gitName'].append('QWIIC_RFID_ID-XXLA')
+    newPart['eagleBoard'].append('/Hardware/Qwiic RFID - IDXXLA.brd')
+    newPart['eagleSchem'].append('/Hardware/Qwiic RFID - IDXXLA.sch')
 
 
     ######  Common

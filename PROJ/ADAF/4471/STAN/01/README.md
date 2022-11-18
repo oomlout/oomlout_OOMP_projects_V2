@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-ADAF-4471-STAN-01
 - Hex ID: PRPR4471
 - Name: Adafruit MCP2221 PCB
+- Path: oomlout_OOMP_projects_V2/PROJ/ADAF/4471/STAN/01/
 - Description: Adafruit MCP2221 PCB
 - Long Link: [http://oom.lt/PROJ-ADAF-4471-STAN-01](http://oom.lt/PROJ-ADAF-4471-STAN-01)
 - Short Link: [http://oom.lt/PRPR4471](http://oom.lt/PRPR4471)

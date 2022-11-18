@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR17115 > https://github.com/sparkfunX/SerialFlash Breakout](#prpr17115--httpsgithubcomsparkfunxserialflash-breakout)
+* [PRPR17115 > SerialFlash Breakout](#prpr17115--serialflash-breakout)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR17115 > https://github.com/sparkfunX/SerialFlash Breakout
+# PRPR17115 > SerialFlash Breakout
 
 - ID: PROJ-SPAR-17115-STAN-01
 - Hex ID: PRPR17115
-- Name: https://github.com/sparkfunX/SerialFlash Breakout
-- Description: https://github.com/sparkfunX/SerialFlash Breakout
+- Name: SerialFlash Breakout
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/17115/STAN/01/
+- Description: SerialFlash Breakout
 - Long Link: [http://oom.lt/PROJ-SPAR-17115-STAN-01](http://oom.lt/PROJ-SPAR-17115-STAN-01)
 - Short Link: [http://oom.lt/PRPR17115](http://oom.lt/PRPR17115)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-17115-STAN-01|
 |Hex ID (short code)|hexID|PRPR17115|
-|name|name|https://github.com/sparkfunX/SerialFlash Breakout|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/SerialFlash-Breakout|
-|gitName|gitName|https://github.com/sparkfunX/SerialFlash-Breakout|
-|eagleBoard|eagleBoard|sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/SerialFlash-Breakout/Hardware/QSPI-Breakout.sch|
+|name|name|SerialFlash Breakout|
+|gitRepo|gitRepo|https://github.com/sparkfun/SerialFlash-Breakout|
+|gitName|gitName|SerialFlash-Breakout|
+|eagleBoard|eagleBoard|/Hardware/QSPI-Breakout.brd|
+|eagleSchem|eagleSchem|/Hardware/QSPI-Breakout.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

@@ -17,11 +17,11 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['name'].append('https://github.com/sparkfunX/BufferSaver')
-    newPart['gitRepo'].append('https://github.com/sparkfun/https://github.com/sparkfunX/BufferSaver')
-    newPart['gitName'].append('https://github.com/sparkfunX/BufferSaver')
-    newPart['eagleBoard'].append('sourceFiles/git/BufferSaver/Hardware/BufferSaver.brd')
-    newPart['eagleSchem'].append('sourceFiles/git/BufferSaver/Hardware/BufferSaver.sch')
+    newPart['name'].append('BufferSaver')
+    newPart['gitRepo'].append('https://github.com/sparkfun/BufferSaver')
+    newPart['gitName'].append('BufferSaver')
+    newPart['eagleBoard'].append('/Hardware/BufferSaver.brd')
+    newPart['eagleSchem'].append('/Hardware/BufferSaver.sch')
 
 
     ######  Common

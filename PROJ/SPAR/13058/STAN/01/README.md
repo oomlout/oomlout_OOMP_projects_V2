@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-13058-STAN-01
 - Hex ID: PRPR13058
 - Name: MiP ProMini Pack
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/13058/STAN/01/
 - Description: MiP ProMini Pack
 - Long Link: [http://oom.lt/PROJ-SPAR-13058-STAN-01](http://oom.lt/PROJ-SPAR-13058-STAN-01)
 - Short Link: [http://oom.lt/PRPR13058](http://oom.lt/PRPR13058)

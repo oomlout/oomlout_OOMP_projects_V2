@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-15143-STAN-01
 - Hex ID: PRPR15143
 - Name: LCD TFT Breakout 1in8 128x160
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/15143/STAN/01/
 - Description: LCD TFT Breakout 1in8 128x160
 - Long Link: [http://oom.lt/PROJ-SPAR-15143-STAN-01](http://oom.lt/PROJ-SPAR-15143-STAN-01)
 - Short Link: [http://oom.lt/PRPR15143](http://oom.lt/PRPR15143)

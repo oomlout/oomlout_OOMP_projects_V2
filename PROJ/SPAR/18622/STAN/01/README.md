@@ -5,26 +5,22 @@
 Contents
 ========
 
-* [PRPR18622 > https://github.com/sparkfunX/SparkX smol Power Board LiPo](#prpr18622--httpsgithubcomsparkfunxsparkx-smol-power-board-lipo)
+* [PRPR18622 > SparkX smol Power Board LiPo](#prpr18622--sparkx-smol-power-board-lipo)
 	* [OOMP Parts](#oomp-parts)
 	* [Tags](#tags)
   
 NO IMAGE  
-# PRPR18622 > https://github.com/sparkfunX/SparkX smol Power Board LiPo
+# PRPR18622 > SparkX smol Power Board LiPo
 
 - ID: PROJ-SPAR-18622-STAN-01
 - Hex ID: PRPR18622
-- Name: https://github.com/sparkfunX/SparkX smol Power Board LiPo
-- Description: https://github.com/sparkfunX/SparkX smol Power Board LiPo
+- Name: SparkX smol Power Board LiPo
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/18622/STAN/01/
+- Description: SparkX smol Power Board LiPo
 - Long Link: [http://oom.lt/PROJ-SPAR-18622-STAN-01](http://oom.lt/PROJ-SPAR-18622-STAN-01)
 - Short Link: [http://oom.lt/PRPR18622](http://oom.lt/PRPR18622)
 
 ## OOMP Parts
-  
-
-|Image|OOMP ID|Designators|
-| :--- | :--- | :--- |
-||||
   
 NO IMAGES  
 ## Tags
@@ -39,10 +35,10 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|PROJ-SPAR-18622-STAN-01|
 |Hex ID (short code)|hexID|PRPR18622|
-|name|name|https://github.com/sparkfunX/SparkX smol Power Board LiPo|
-|gitRepo|gitRepo|https://github.com/sparkfun/https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo|
-|gitName|gitName|https://github.com/sparkfunX/SparkX_smol_Power_Board_LiPo|
-|eagleBoard|eagleBoard|sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.brd|
-|eagleSchem|eagleSchem|sourceFiles/git/SparkX_smol_Power_Board_LiPo/Hardware/SparkX_smol_LiPo_Power.sch|
+|name|name|SparkX smol Power Board LiPo|
+|gitRepo|gitRepo|https://github.com/sparkfun/SparkX_smol_Power_Board_LiPo|
+|gitName|gitName|SparkX_smol_Power_Board_LiPo|
+|eagleBoard|eagleBoard|/Hardware/SparkX_smol_LiPo_Power.brd|
+|eagleSchem|eagleSchem|/Hardware/SparkX_smol_LiPo_Power.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

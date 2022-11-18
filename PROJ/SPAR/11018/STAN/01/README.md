@@ -17,6 +17,7 @@ Contents
 - ID: PROJ-SPAR-11018-STAN-01
 - Hex ID: PRPR11018
 - Name: RFM22 Shield 434MHz
+- Path: oomlout_OOMP_projects_V2/PROJ/SPAR/11018/STAN/01/
 - Description: RFM22 Shield 434MHz
 - Long Link: [http://oom.lt/PROJ-SPAR-11018-STAN-01](http://oom.lt/PROJ-SPAR-11018-STAN-01)
 - Short Link: [http://oom.lt/PRPR11018](http://oom.lt/PRPR11018)
