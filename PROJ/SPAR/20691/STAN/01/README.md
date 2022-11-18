@@ -40,4 +40,5 @@ NO IMAGES
 |gitName|gitName|Micro_RFID_Tag_ST25DV64KC_Qwiic|
 |eagleBoard|eagleBoard|/Hardware/SparkX_Micro_NFC_RFID_Tag.brd|
 |eagleSchem|eagleSchem|/Hardware/SparkX_Micro_NFC_RFID_Tag.sch|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

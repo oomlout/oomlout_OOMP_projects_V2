@@ -40,4 +40,5 @@ NO IMAGES
 |gitName|gitName|Adafruit-SPI-Flash-Breakout-PCB|
 |eagleBoard|eagleBoard|/SPI Flash Rev E.brd|
 |eagleSchem|eagleSchem|/SPI Flash Rev E.sch|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||

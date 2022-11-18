@@ -40,4 +40,5 @@ NO IMAGES
 |gitName|gitName|DLSB-DRIVERBOARD-V1|
 |kicadBoard|kicadBoard|DLSB-DRIVERBOARD-V1.kicad_pcb|
 |kicadSchem|kicadSchem|DLSB-DRIVERBOARD-V1.kicad_sch|
+|OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
 ||||
