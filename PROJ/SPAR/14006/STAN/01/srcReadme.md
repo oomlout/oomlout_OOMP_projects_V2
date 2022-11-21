@@ -1,29 +1,36 @@
-**NOTE:** *This product has been retired from our catalog. For alternatives, try looking at the following products from the [Audio boards](https://www.sparkfun.com/categories/343):*
+SparkFun Little Soundie Audio Player
+========================================
 
-* [Little Soundie Audio Player](https://www.sparkfun.com/products/14006)
-* [Qwiic MP3 Trigger](https://www.sparkfun.com/products/15165)
+![Little Soundie Audio Player](https://cdn.sparkfun.com//assets/parts/1/1/7/9/0/14006-SparkFun_Little_Soundie_Audio_Player-01.jpg)
 
-*If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*
+[*SparkFun Little Soundie (14006)*](https://www.sparkfun.com/products/14006)
 
-* *[SparkFun Forum](https://forum.sparkfun.com/)*
-* *[IRC Channel](https://www.sparkfun.com/news/263)*
+The Little Soundie Audio Player is a breakout board for the VS1000D, an audio decoder capable of playing OGG and WAV type audio files. 
+The Little Soundie makes adding sound effects to your project, prop, or costume easily with the built-in USB mass storage for your audio file and simple methods of triggering audio playback.  
 
-Audio-Sound Breakout
-====================
+Repository Contents
+-------------------
 
-[![Audio-Sound Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/1/2/5/11125-01.jpg)  
-*Audio-Sound Breakout (WIG-11125)*](https://www.sparkfun.com/products/11125)
+* **/Firmware** - VLSI - VS1000D Firmware
+* **/Hardware** - Eagle design files (.brd, .sch)
+* **/Production** - Production panel files (.brd)
+* **/Software** - An easy to use Arduino Template in case you want to hook up your Little Soundie to a Redboard or any board programmed with Arduino.
 
-* Firmware was compiled in Arduino 1.0.3.
-* Hardware was developed in EAGLE 6.3.0.
-* Fritzing part created under 0.7.12.
-
-
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/little-soundie-audio-player-hookup-guide)** - Basic hookup guide for the Little Soundie Audio Player.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products. 
 
 License Information
 -------------------
-The hardware design is released under [CC-SA v3 license](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-The firmware is released under a modified beerware license, allowing for the purchase of any libation, alcoholic or non.
+This product is _**open source**_! 
 
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
+
+Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
 
