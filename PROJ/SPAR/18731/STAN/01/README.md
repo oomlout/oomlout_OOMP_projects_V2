@@ -7,6 +7,7 @@ Contents
 
 * [PRPR18731 > SparkX smol FPC 16 way 36mm](#prpr18731--sparkx-smol-fpc-16-way-36mm)
 	* [OOMP Parts](#oomp-parts)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -22,7 +23,17 @@ NO IMAGE
 
 ## OOMP Parts
   
-NO IMAGES  
+
+|Image|OOMP ID|Designators|
+| :--- | :--- | :--- |
+||||
+
+## Images
+  
+
+|kicadPcb3dFront<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/18731/STAN/01/kicadPcb3dFront_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18731/STAN/01/kicadPcb3dFront.png)|kicadPcb3dBack<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/18731/STAN/01/kicadPcb3dBack_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18731/STAN/01/kicadPcb3dBack.png)|kicadPcb3d<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_projects_V2/main/PROJ/SPAR/18731/STAN/01/kicadPcb3d_140.png)](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18731/STAN/01/kicadPcb3d.png)||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -41,4 +52,5 @@ NO IMAGES
 |eagleBoard|eagleBoard|/Hardware/16_POS_0_5MM_PITCH_36MM_LENGTH.brd|
 |eagleSchem|eagleSchem|/Hardware/16_POS_0_5MM_PITCH_36MM_LENGTH.sch|
 |OOMP Parts List|oompParts|<table><tr><td></td></tr></table>|
+|Parts as pulled from a BOM|rawParts|<table><tr><td>'kicadBom'</td></tr><tr><td> [<table><tr><td>'Part'</td></tr><tr><td> 'E$5'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '36MM_LONG0 '</td><td> 'Package'</td></tr><tr><td> '36MM_LONG0'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'E$4'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> 'SPARKX-LARGE '</td><td> 'Package'</td></tr><tr><td> 'SPARKX-LARGE'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'E$2'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '0#5MM_PITCH1 '</td><td> 'Package'</td></tr><tr><td> '0#5MM_PITCH1'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table></td><td> <table><tr><td>'Part'</td></tr><tr><td> 'E$3'</td><td> 'Value'</td></tr><tr><td> ''</td><td> 'Device'</td></tr><tr><td> '16_CONDUCTOR0 '</td><td> 'Package'</td></tr><tr><td> '16_CONDUCTOR0'</td><td> 'Description'</td></tr><tr><td> ''</td><td> 'BOM'</td></tr><tr><td> ''</td></tr></table>]</td><td> 'eagleBom'</td></tr><tr><td> []</td></tr></table>|
 ||||
