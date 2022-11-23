@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 29e568b2-f2dd-4296-8231-d1380527d0d1)
+  (uuid 62e63c8a-4a23-44ca-ac89-70b18449d1d9)
 
   (paper "User" 297.002 223.926)
 
@@ -579,53 +579,36 @@
   )
 
 
-  (text "Doubling the holder plate allieviates some movement by better engaging the display's mounting teeth."
-    (at 68.58 50.8 180)
-    (effects (font (size 1.778 1.5113)) (justify left bottom))
-    (uuid 0456c2ff-05f8-4a24-948a-f7e798d71da5)
-  )
-  (text "45.6mm is too wide. 44.8mm may work better." (at 68.58 45.72 180)
-    (effects (font (size 1.778 1.5113)) (justify left bottom))
-    (uuid 123d23b8-6ae2-4538-93bd-07a4447a2cd9)
-  )
-  (text "x01 Cutout: 45.6 x 27mm" (at 68.58 55.88 180)
-    (effects (font (size 1.778 1.5113)) (justify left bottom))
-    (uuid 1867d618-dce7-407d-80fd-d6dd5ed317b7)
-  )
   (text "The PCB cutout dimensions for the DC meter are very sensitive."
     (at 68.58 43.18 180)
     (effects (font (size 1.778 1.5113)) (justify left bottom))
-    (uuid 656bf71d-699d-4fe6-a729-8b9e01d76421)
+    (uuid 6a525114-c51d-43e8-b5b8-0fae95587208)
+  )
+  (text "Doubling the holder plate allieviates some movement by better engaging the display's mounting teeth."
+    (at 68.58 50.8 180)
+    (effects (font (size 1.778 1.5113)) (justify left bottom))
+    (uuid 776b8ebb-fb10-43ba-9a3c-375528060890)
+  )
+  (text "45.6mm is too wide. 44.8mm may work better." (at 68.58 45.72 180)
+    (effects (font (size 1.778 1.5113)) (justify left bottom))
+    (uuid 7d4c4c10-4122-4e8b-95cb-407dbe3e9d89)
   )
   (text "27mm tall is loose and 26mm is too tight." (at 68.58 48.26 180)
     (effects (font (size 1.778 1.5113)) (justify left bottom))
-    (uuid 7044d8ea-6873-4987-a244-f55e68cfd6e0)
+    (uuid 9b2665ce-1cfd-43fc-aa98-e7a35836c797)
   )
   (text "v10" (at 261.62 195.58 180)
     (effects (font (size 2.54 2.54)) (justify left bottom))
-    (uuid 892b8f39-ebb2-4859-acf7-0207b7018e54)
+    (uuid aedc9196-4fde-4970-b90c-8a72b551143f)
   )
-
-  (symbol (lib_id "eagleSchem-eagle-import:FRAME-LETTER") (at 170.18 203.2 0) (unit 2)
-    (in_bom yes) (on_board yes)
-    (uuid 4999fe93-ff9b-4df9-aa2f-4ecd8dbf48d8)
-    (property "Reference" "FRAME1" (id 0) (at 170.18 203.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "" (id 1) (at 170.18 203.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "" (id 2) (at 170.18 203.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 170.18 203.2 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+  (text "x01 Cutout: 45.6 x 27mm" (at 68.58 55.88 180)
+    (effects (font (size 1.778 1.5113)) (justify left bottom))
+    (uuid ca19b9a7-deae-40ca-a084-0eacc1c0e133)
   )
 
   (symbol (lib_id "eagleSchem-eagle-import:FRAME-LETTER") (at 22.86 203.2 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid 86ca4626-5530-49a8-8a96-5fc5d4f805dc)
+    (uuid 543eee4e-5e94-4bf0-bb9b-2b3381ef0994)
     (property "Reference" "FRAME1" (id 0) (at 22.86 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -640,9 +623,26 @@
     )
   )
 
+  (symbol (lib_id "eagleSchem-eagle-import:FRAME-LETTER") (at 170.18 203.2 0) (unit 2)
+    (in_bom yes) (on_board yes)
+    (uuid 56fdf13b-597f-45e3-8b17-66e3608f127e)
+    (property "Reference" "FRAME1" (id 0) (at 170.18 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "" (id 1) (at 170.18 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (id 2) (at 170.18 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 170.18 203.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
   (symbol (lib_id "eagleSchem-eagle-import:SPARKX-LOGO4") (at 259.08 162.56 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid e384d8bf-9814-4606-9e7c-8fc55d2cafe8)
+    (uuid 9d618be3-ce5f-4f1a-8e8f-ef262695d776)
     (property "Reference" "U$1" (id 0) (at 259.08 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -662,13 +662,13 @@
   )
 
   (symbol_instances
-    (path "/86ca4626-5530-49a8-8a96-5fc5d4f805dc"
+    (path "/543eee4e-5e94-4bf0-bb9b-2b3381ef0994"
       (reference "FRAME1") (unit 1) (value "FRAME-LETTER") (footprint "eagleSchem:CREATIVE_COMMONS")
     )
-    (path "/4999fe93-ff9b-4df9-aa2f-4ecd8dbf48d8"
+    (path "/56fdf13b-597f-45e3-8b17-66e3608f127e"
       (reference "FRAME1") (unit 2) (value "FRAME-LETTER") (footprint "eagleSchem:CREATIVE_COMMONS")
     )
-    (path "/e384d8bf-9814-4606-9e7c-8fc55d2cafe8"
+    (path "/9d618be3-ce5f-4f1a-8e8f-ef262695d776"
       (reference "U$1") (unit 1) (value "SPARKX-LOGO4") (footprint "eagleSchem:SPARKX-MEDIUM")
     )
   )
